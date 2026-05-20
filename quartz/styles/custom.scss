@@ -1,0 +1,336 @@
+@use "./base.scss";
+
+/* ==============================================
+   Precision Industrial — Custom Quartz Theme
+   ============================================== */
+
+/* ---- Typography Refinements ---- */
+
+h1 {
+  font-size: 1.85rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin-top: 1.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--lightgray);
+}
+
+h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin-top: 2rem;
+  padding-left: 0.6rem;
+  border-left: 3px solid var(--secondary);
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+p > strong {
+  color: var(--dark);
+  font-weight: 600;
+}
+
+/* ---- Links ---- */
+
+a.internal {
+  font-weight: 500;
+  background-color: var(--highlight);
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+a.internal:hover {
+  background-color: color-mix(in srgb, var(--secondary) 15%, transparent);
+  color: var(--secondary);
+}
+
+/* ---- Tables ---- */
+
+.table-container > table {
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 0.92rem;
+  width: 100%;
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--lightgray);
+}
+
+th {
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: var(--lightgray);
+  color: var(--darkgray);
+  padding: 0.6rem 0.8rem;
+  border-bottom: 2px solid var(--gray);
+}
+
+td {
+  padding: 0.5rem 0.8rem;
+  font-size: 0.9rem;
+}
+
+tr {
+  border-bottom: 1px solid var(--lightgray);
+  transition: background-color 0.1s ease;
+}
+
+tr:hover {
+  background-color: var(--highlight);
+}
+
+tr:last-child {
+  border-bottom: none;
+}
+
+/* ---- Status Indicators ---- */
+
+td:has(img[alt="✅"]) img[alt="✅"],
+td:has(img[alt="⚠️"]) img[alt="⚠️"],
+td:has(img[alt="❌"]) img[alt="❌"] {
+  vertical-align: middle;
+}
+
+/* ---- Code Blocks ---- */
+
+pre {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+pre > code {
+  font-size: 0.82rem;
+}
+
+:root[saved-theme="dark"] pre {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+code {
+  font-size: 0.85em;
+  padding: 0.15rem 0.35rem;
+  border-radius: 3px;
+}
+
+/* ---- Blockquotes ---- */
+
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
+  padding: 0.8rem 1rem;
+  border-radius: 0 4px 4px 0;
+  margin: 1.2rem 0;
+  color: var(--darkgray);
+}
+
+blockquote p:first-child {
+  margin-top: 0;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- Callouts ---- */
+
+.callout {
+  border-radius: 6px;
+  border: 1px solid var(--lightgray);
+  overflow: hidden;
+}
+
+.callout-title {
+  font-family: var(--headerFont);
+  font-weight: 600;
+}
+
+.callout[data-callout="note"],
+.callout[data-callout="info"] {
+  border-left: 4px solid var(--tertiary);
+}
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"] {
+  border-left: 4px solid var(--secondary);
+}
+
+.callout[data-callout="tip"],
+.callout[data-callout="success"] {
+  border-left: 4px solid var(--tertiary);
+}
+
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  border-left: 4px solid var(--secondary);
+}
+
+/* ---- Sidebar Explorer ---- */
+
+.sidebar.left {
+  font-size: 0.88rem;
+}
+
+.explorer .folder-outer > ul > li {
+  margin: 0.15rem 0;
+}
+
+/* ---- Search ---- */
+
+.search > input#search-icon {
+  border-radius: 8px;
+  border: 2px solid var(--lightgray);
+  padding: 0.5rem 0.8rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.search > input#search-icon:focus {
+  border-color: var(--secondary);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--secondary) 25%, transparent);
+  outline: none;
+}
+
+/* ---- Breadcrumbs ---- */
+
+.breadcrumb-container {
+  font-size: 0.82rem;
+  padding: 0.4rem 0;
+}
+
+.breadcrumb-element .breadcrumb-link {
+  color: var(--gray);
+  font-weight: 400;
+  transition: color 0.15s ease;
+}
+
+.breadcrumb-element .breadcrumb-link:hover {
+  color: var(--secondary);
+}
+
+/* ---- Tag List ---- */
+
+.tag-list {
+  margin-top: 0.5rem;
+}
+
+.tag-list .tag {
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  background: var(--highlight);
+  color: var(--darkgray);
+  transition: background 0.15s ease;
+}
+
+.tag-list .tag:hover {
+  background: color-mix(in srgb, var(--secondary) 20%, transparent);
+}
+
+/* ---- Backlinks ---- */
+
+.backlinks {
+  margin-top: 2rem;
+}
+
+.backlinks > h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray);
+  margin-bottom: 0.5rem;
+}
+
+.backlinks > .overflow > li > a {
+  font-size: 0.88rem;
+}
+
+/* ---- Footer ---- */
+
+footer {
+  font-size: 0.82rem;
+  color: var(--gray);
+  padding: 2rem 0;
+  border-top: 1px solid var(--lightgray);
+  margin-top: 3rem;
+}
+
+footer a {
+  color: var(--gray);
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+footer a:hover {
+  color: var(--secondary);
+}
+
+/* ---- Scrollbar ---- */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--darkgray);
+}
+
+/* ---- Page Title ---- */
+
+.page-title {
+  font-family: var(--headerFont);
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+}
+
+.page-title a {
+  color: var(--dark);
+  transition: color 0.15s ease;
+}
+
+.page-title a:hover {
+  color: var(--secondary);
+}
+
+/* ---- Content Meta ---- */
+
+.content-meta {
+  font-size: 0.82rem;
+  color: var(--gray);
+  margin-bottom: 1rem;
+}
+
+/* ---- Horizontal Rule ---- */
+
+hr {
+  height: 2px;
+  background: linear-gradient(to right, var(--lightgray), transparent);
+  border: none;
+  margin: 2rem 0;
+}
+
+/* ---- Article max-width for readability ---- */
+
+.center > article {
+  max-width: 780px;
+}

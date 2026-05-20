@@ -1,0 +1,18 @@
+.obsidian/
+node_modules/
+public/
+.quartz-cache/
+*.png
+*.jpg
+
+# Sensitive - local configs may contain tokens
+.claude/settings.local.json
+.claude/settings.json
+.claudian/
+
+# Scripts with hardcoded credentials
+Knowledge Base EPM/scripts/generate_kb.py
+Knowledge Base EPM/scripts/generate_closed_kb.py
+
+# OS files
+.DS_Store
