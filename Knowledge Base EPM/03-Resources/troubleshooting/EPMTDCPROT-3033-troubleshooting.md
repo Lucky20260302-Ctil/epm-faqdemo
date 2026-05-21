@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: Authentication & Login
 symptom: "Please advise the Root Cause."
 root-cause: ""
@@ -29,5 +29,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-741]]
+- [EPRO-741](https://hktdc.atlassian.net/browse/EPRO-741)
 

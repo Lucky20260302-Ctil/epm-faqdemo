@@ -26,4 +26,4 @@ Program update for the API to **read its own region code** from `vbretai.ini` be
 
 ## 相關問題
 
-- [[MP-510]] — Same fix (duplicate ticket)
+- [MP-510](https://ctil.atlassian.net/browse/MP-510) — Same fix (duplicate ticket)

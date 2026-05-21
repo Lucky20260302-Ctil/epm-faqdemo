@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat, change-request
+tags: [bug, jira, ext-tdc-uat, change-request]
 component: Tender & RFQ
 symptom: "Bidders who did not submit quotation / proposal or failed in technical assessment is available for buyer to select for issuing Post-Tender Clarificati"
 root-cause: ""
@@ -31,5 +31,5 @@ failed in technical assessment, which both should not be selection values.
 
 ## 相關問題
 
-- [[EPRO-243]]
+- [EPRO-243](https://hktdc.atlassian.net/browse/EPRO-243)
 

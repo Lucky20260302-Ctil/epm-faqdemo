@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, uat-phase1-hotfixbatch2, production
+tags: [bug, jira, uat-phase1-hotfixbatch2, production]
 component: Tender & RFQ
 symptom: "The “Number of Valid Submission” generated in Award Recommendation form (ARF-25/26-12/22-00001) is incorrect."
 root-cause: "in Production Site. [accountid:5f2a0d1b170ffc0023ffab32] [accountid:5df204e72702bc0ec7e7af0b]"
@@ -30,6 +30,6 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-245]]
-- [[EPRO-873]]
+- [EPRO-245](https://hktdc.atlassian.net/browse/EPRO-245)
+- [EPRO-873](https://hktdc.atlassian.net/browse/EPRO-873)
 

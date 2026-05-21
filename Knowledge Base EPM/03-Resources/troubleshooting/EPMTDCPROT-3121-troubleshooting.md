@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, uat-phase1-hotfixbatch1, hotfix
+tags: [bug, jira, uat-phase1-hotfixbatch1, hotfix]
 component: Reporting & Export
 symptom: ""
 root-cause: ""

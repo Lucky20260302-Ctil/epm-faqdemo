@@ -36,4 +36,4 @@ This is a **data-level fix** rather than a code change. For a permanent solution
 
 ## 相關問題
 
-- [[FE-1403]] — Related discount variance issue (J431) with thread safety fix
+- [[FE-1403-thread-safety-member-no-fix|FE-1403]] — Related discount variance issue (J431) with thread safety fix

@@ -6,6 +6,8 @@ title: EPM / FEPOS 故障排除 FAQ
 
 歡迎來到 EPM (Enterprise Procurement Management) 和 ERM FEPOS (Front End POS) 的故障排除 FAQ。
 
+> 第一次使用？請先閱讀 [[Welcome|新手入門指南]]
+
 ## 快速導航
 
 - [[Knowledge Base EPM/03-Resources/troubleshooting/index|EPM 解決手冊]] — Tender & RFQ 相關問題

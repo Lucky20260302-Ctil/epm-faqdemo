@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix, hotfix
+tags: [bug, jira, tdc-hotfix]
 component: Email & Notification
 symptom: "Related to [Link:https://hktdc.atlassian.net/browse/EPRO-756] , email notification will only trigger when the supplier conviction status changed from "
 root-cause: ""
@@ -23,6 +23,6 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-756]]
-- [[EPRO-789]]
+- [EPRO-756](https://hktdc.atlassian.net/browse/EPRO-756)
+- [EPRO-789](https://hktdc.atlassian.net/browse/EPRO-789)
 

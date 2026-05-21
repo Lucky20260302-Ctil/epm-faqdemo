@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: Email & Notification
 symptom: "Co-editors are supposed to have the same rights as Requestors for particular e-Form, including submitting that e-Form and receive notification about u"
 root-cause: ""
@@ -22,5 +22,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-321]]
+- [EPRO-321](https://hktdc.atlassian.net/browse/EPRO-321)
 

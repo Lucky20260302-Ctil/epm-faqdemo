@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat
+tags: [bug, jira, ext-tdc-uat]
 component: Tender & RFQ
 symptom: "1/ Manually Created PO"
 root-cause: ""
@@ -43,5 +43,5 @@ issues below,
 
 ## 相關問題
 
-- [[EPRO-724]]
+- [EPRO-724](https://hktdc.atlassian.net/browse/EPRO-724)
 

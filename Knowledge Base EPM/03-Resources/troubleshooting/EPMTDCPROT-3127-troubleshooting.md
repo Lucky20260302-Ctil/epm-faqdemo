@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix
+tags: [bug, jira, tdc-hotfix]
 component: Tender & RFQ
 symptom: "Tender Closing Date and Time is 1 November 2025 12:00 noon."
 root-cause: ""
@@ -25,5 +25,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-804]]
+- [EPRO-804](https://hktdc.atlassian.net/browse/EPRO-804)
 

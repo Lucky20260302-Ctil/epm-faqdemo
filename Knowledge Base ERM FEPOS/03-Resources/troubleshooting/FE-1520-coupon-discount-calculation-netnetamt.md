@@ -38,4 +38,4 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[CS-1171]] — Coach Jira reference
+- [CS-1171](https://hktdc.atlassian.net/browse/CS-1171) — Coach Jira reference

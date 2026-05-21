@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, hotfix
+tags: [bug, jira, ext-tdc-uat, hotfix]
 component: Email & Notification
 symptom: "https://hktdc.atlassian.net/browse/EPRO-835"
 root-cause: ""
@@ -23,5 +23,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-835]]
+- [EPRO-835](https://hktdc.atlassian.net/browse/EPRO-835)
 

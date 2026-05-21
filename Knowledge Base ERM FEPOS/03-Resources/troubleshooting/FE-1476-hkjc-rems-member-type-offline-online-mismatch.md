@@ -49,4 +49,4 @@ HKJC REMS CWL MVP1 — Multiple issues found in member profile and discount appl
 
 ## 相關問題
 
-- [[FE-1476]] — HKJC REMS CWL MVP1
+- [[FE-1476-hkjc-rems-member-type-offline-online-mismatch|FE-1476]] — HKJC REMS CWL MVP1

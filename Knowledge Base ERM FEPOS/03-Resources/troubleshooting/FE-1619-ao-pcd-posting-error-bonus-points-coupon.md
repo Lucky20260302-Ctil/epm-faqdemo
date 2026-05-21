@@ -37,4 +37,4 @@ The root issue is that the cancel flow does not clean up the in-memory coupon se
 
 ## 相關問題
 
-- [[FE-1618]] — Related fix (same patch)
+- [FE-1618](https://ctil.atlassian.net/browse/FE-1618) — Related fix (same patch)

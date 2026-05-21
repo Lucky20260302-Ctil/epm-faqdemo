@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production
+tags: [bug, jira, production]
 component: E-Form & Workflow
 symptom: "the fix will be to ensure that Master Account must be with Company Admin and Tender Admin role + data patch"
 root-cause: ""

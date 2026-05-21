@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, uat-phase1-hotfixbatch3, hotfix
+tags: [bug, jira, uat-phase1-hotfixbatch3, hotfix]
 component: Authentication & Login
 symptom: "1. Pico International (HK) Ltd clicked the link in invitation email, it was asked to reset password. Why?"
 root-cause: ""
@@ -30,5 +30,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-775]]
+- [EPRO-775](https://hktdc.atlassian.net/browse/EPRO-775)
 

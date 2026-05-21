@@ -31,4 +31,4 @@ Fix applied in **3.9.2a (HOTFIX)** to ensure Queue Busting orders are properly c
 
 ## 相關問題
 
-- [[MP-499]] — Related MPOS state management (day end restart)
+- [[MP-499-mpos-dayend-restart|MP-499]] — Related MPOS state management (day end restart)

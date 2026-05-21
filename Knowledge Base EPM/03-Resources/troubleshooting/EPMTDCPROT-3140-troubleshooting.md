@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix, hotfix
+tags: [bug, jira, tdc-hotfix]
 component: E-Form & Workflow
 symptom: ""
 root-cause: ""

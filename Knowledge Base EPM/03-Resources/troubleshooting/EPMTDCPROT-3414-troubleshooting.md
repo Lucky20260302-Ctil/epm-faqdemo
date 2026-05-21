@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production, pre-production
+tags: [bug, jira, production, pre-production]
 component: Supplier Management
 symptom: "I changed the payee type from forwarder to vendors for supplier - Agility Logistics Limited in EBS so that user could find the supplier record in EPRO"
 root-cause: ""
@@ -26,5 +26,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-941]]
+- [EPRO-941](https://hktdc.atlassian.net/browse/EPRO-941)
 

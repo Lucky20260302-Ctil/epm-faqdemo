@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat
+tags: [bug, jira, ext-tdc-uat]
 component: General
 symptom: ""
 root-cause: ""

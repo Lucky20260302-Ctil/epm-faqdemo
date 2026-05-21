@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: Supplier Management
 symptom: "If supplier selects “Others (Please specify)” in no offer response, the system should provide a free text field for them to input the reason.  That fi"
 root-cause: ""
@@ -30,5 +30,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-742]]
+- [EPRO-742](https://hktdc.atlassian.net/browse/EPRO-742)
 

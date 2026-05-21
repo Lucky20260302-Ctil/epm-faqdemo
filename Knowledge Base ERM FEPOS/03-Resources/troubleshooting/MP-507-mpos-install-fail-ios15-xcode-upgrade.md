@@ -31,4 +31,4 @@ Reference: [Apple Developer — Xcode Support](https://developer.apple.com/suppo
 
 ## 相關問題
 
-- [[MP-508]] — Related iOS 15 crash issue (Flutter compatibility)
+- [[MP-508-mpos-crash-ios15-flutter-upgrade|MP-508]] — Related iOS 15 crash issue (Flutter compatibility)

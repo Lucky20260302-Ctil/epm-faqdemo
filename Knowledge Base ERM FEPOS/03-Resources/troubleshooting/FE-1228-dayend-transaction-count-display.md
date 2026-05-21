@@ -34,4 +34,4 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[FE-1225]] — DotNet Day End missing TR Out / PCD 94 transaction count (related Day End counting issue)
+- [[FE-1225-dotnet-dayend-missing-transaction-count|FE-1225]] — DotNet Day End missing TR Out / PCD 94 transaction count (related Day End counting issue)

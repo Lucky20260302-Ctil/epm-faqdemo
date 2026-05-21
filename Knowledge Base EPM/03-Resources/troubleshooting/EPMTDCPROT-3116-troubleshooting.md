@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix, hotfix
+tags: [bug, jira, tdc-hotfix]
 component: User Management
 symptom: "Referring to one of the issues in [Link:https://hktdc.atlassian.net/browse/EPRO-415]"
 root-cause: ""
@@ -30,5 +30,5 @@ Only the delegator (Bonnie Cheung) can access the approval request of Award Reco
 
 ## 相關問題
 
-- [[EPRO-415]]
+- [EPRO-415](https://hktdc.atlassian.net/browse/EPRO-415)
 

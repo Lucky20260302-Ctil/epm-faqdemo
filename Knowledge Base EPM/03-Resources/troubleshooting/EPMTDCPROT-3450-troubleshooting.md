@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production
+tags: [bug, jira, production]
 component: Authentication & Login
 symptom: "Suspect root cause: when user do not open the form or trigger auto/manual save"
 root-cause: "when user do not open the form or trigger auto/manual save"

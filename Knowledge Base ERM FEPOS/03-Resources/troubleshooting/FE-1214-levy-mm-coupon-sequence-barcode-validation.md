@@ -34,4 +34,4 @@ Three distinct bugs identified in POS transaction flow:
 
 ## 相關問題
 
-- [[FE-1213]] — Same fix set (Using 'X' to close zero levy Qty)
+- [FE-1213](https://ctil.atlassian.net/browse/FE-1213) — Same fix set (Using 'X' to close zero levy Qty)

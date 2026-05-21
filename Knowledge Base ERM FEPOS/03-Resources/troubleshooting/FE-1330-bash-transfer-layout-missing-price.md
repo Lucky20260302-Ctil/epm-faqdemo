@@ -28,4 +28,4 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[FE-1219]] — Deposit return display fix (related print/display issue)
+- [FE-1219](https://ctil.atlassian.net/browse/FE-1219) — Deposit return display fix (related print/display issue)

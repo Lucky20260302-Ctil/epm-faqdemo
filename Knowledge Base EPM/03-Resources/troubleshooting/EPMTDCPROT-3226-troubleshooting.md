@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, phase-2
+tags: [bug, jira, phase-2]
 component: User Management
 symptom: ""
 root-cause: ""

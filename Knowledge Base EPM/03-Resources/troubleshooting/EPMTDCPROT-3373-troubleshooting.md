@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-phase2, uat-phase2, phase-2
+tags: [bug, jira, tdc-phase2, uat-phase2, phase-2]
 component: User Management
 symptom: "This is a ‘Buyer Roles’ delegation"
 root-cause: ""

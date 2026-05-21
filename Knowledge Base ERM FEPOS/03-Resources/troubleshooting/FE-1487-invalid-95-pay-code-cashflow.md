@@ -26,4 +26,4 @@ Added a function to **remove invalid cash flow records** from `tblcashFlow` befo
 
 ## 相關問題
 
-- [[FE-???|Pay code management]]
+- *Pay code management*

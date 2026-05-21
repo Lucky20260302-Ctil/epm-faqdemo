@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: E-Form & Workflow
 symptom: "PIF-25/26-09/19-00703"
 root-cause: ""
@@ -32,5 +32,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-726]]
+- [EPRO-726](https://hktdc.atlassian.net/browse/EPRO-726)
 

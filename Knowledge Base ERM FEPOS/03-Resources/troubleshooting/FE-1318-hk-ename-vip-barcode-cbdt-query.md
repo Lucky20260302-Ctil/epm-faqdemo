@@ -48,4 +48,4 @@ Sanyo team enhanced the DotNet print-out program to add **one more API query** a
 
 ## 相關問題
 
-- [[FE-???|EFT Payment SOW]] — HK EFT payment deployment
+- *EFT Payment SOW* — HK EFT payment deployment

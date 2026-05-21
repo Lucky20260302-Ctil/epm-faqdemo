@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: Tender & RFQ
 symptom: "MISC is awarded and PO565910 is created after the approval of award recommendation.  Please advise and fix the followings.  Thanks."
 root-cause: ""
@@ -38,6 +38,6 @@ the followings.  Thanks.
 
 ## 相關問題
 
-- [[EPRO-156]]
-- [[EPRO-631]]
+- [EPRO-156](https://hktdc.atlassian.net/browse/EPRO-156)
+- [EPRO-631](https://hktdc.atlassian.net/browse/EPRO-631)
 

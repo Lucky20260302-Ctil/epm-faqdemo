@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production
+tags: [bug, jira, production]
 component: Authentication & Login
 symptom: "Supplier activated the account on 8 April 2025."
 root-cause: ""
@@ -31,5 +31,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-1033]]
+- [EPRO-1033](https://hktdc.atlassian.net/browse/EPRO-1033)
 

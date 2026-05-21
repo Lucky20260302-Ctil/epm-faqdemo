@@ -1,5 +1,5 @@
 ---
-tags: bug, jira
+tags: [bug, jira]
 component: Tender & RFQ
 symptom: "This has been clarified and fixed previously in [Link:https://hktdc.atlassian.net/browse/EPRO-299]"
 root-cause: ""
@@ -33,6 +33,6 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-299]]
-- [[EPRO-743]]
+- [EPRO-299](https://hktdc.atlassian.net/browse/EPRO-299)
+- [EPRO-743](https://hktdc.atlassian.net/browse/EPRO-743)
 

@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, uat-phase1-hotfixbatch3, hotfix
+tags: [bug, jira, uat-phase1-hotfixbatch3, hotfix]
 component: UI/UX
 symptom: "No need to show parent e-form in the approval page."
 root-cause: ""
@@ -34,6 +34,6 @@ The data of the parent form cannot be seen when approval Issuance of RFQ/Tender�
 
 ## 相關問題
 
-- [[EPRO-712]]
-- [[EPRO-787]]
+- [EPRO-712](https://hktdc.atlassian.net/browse/EPRO-712)
+- [EPRO-787](https://hktdc.atlassian.net/browse/EPRO-787)
 

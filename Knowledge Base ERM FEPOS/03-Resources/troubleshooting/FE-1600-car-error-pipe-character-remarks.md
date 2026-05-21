@@ -1,6 +1,6 @@
 ---
 tags: [bug, production, hotfix]
-component: interface
+component: Interface
 symptom: "CAR error 'Unknown Sales item type code 9999' for transaction MY-OC602-40060402 due to pipe character in user remarks"
 root-cause: "CAR interface file uses '|' as field separator; user input in remarks containing '|' breaks the file parsing and causes unknown type code"
 solution: "Enhance CAR processing to automatically replace '|' with space in remarks fields before file generation"
@@ -35,5 +35,5 @@ This results in fields being read with wrong values, ultimately causing the "Unk
 
 ## 相關問題
 
-- [[CS-1309]] — Coach Jira reference
-- [[FE-1659]] — Related CAR file issue (invalid field)
+- [CS-1309](https://hktdc.atlassian.net/browse/CS-1309) — Coach Jira reference
+- [FE-1659](https://ctil.atlassian.net/browse/FE-1659) — Related CAR file issue (invalid field)

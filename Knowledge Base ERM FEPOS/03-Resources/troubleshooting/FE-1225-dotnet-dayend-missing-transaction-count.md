@@ -39,4 +39,4 @@ Fixed `DotNetDayend Write 94 PCD` to include **Other Transaction Count** coverin
 
 ## 相關問題
 
-- [[FE-1228]] — Display incorrect number of transaction in PC23XXXX after Day End
+- [[FE-1228-dayend-transaction-count-display|FE-1228]] — Display incorrect number of transaction in PC23XXXX after Day End

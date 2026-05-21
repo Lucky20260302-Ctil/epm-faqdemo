@@ -51,5 +51,5 @@ Net Amt = RND(Gross Amt x (1 - Disc%))
 
 ## 相關問題
 
-- [[FE-1520]] — Related coupon discount calculation fix (base on NetNetAmt)
-- [[FE-1214]] — Related MM Coupon input sequence handling
+- [[FE-1520-coupon-discount-calculation-netnetamt|FE-1520]] — Related coupon discount calculation fix (base on NetNetAmt)
+- [[FE-1214-levy-mm-coupon-sequence-barcode-validation|FE-1214]] — Related MM Coupon input sequence handling

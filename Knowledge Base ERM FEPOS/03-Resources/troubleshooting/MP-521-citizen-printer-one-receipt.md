@@ -30,4 +30,4 @@ Fix applied in **version 3.14.1** to correct the printing flow for Citizen print
 
 ## 相關問題
 
-- [[MP-313]] — Related MPOS printing issue (local printing error)
+- [MP-313](https://ctil.atlassian.net/browse/MP-313) — Related MPOS printing issue (local printing error)

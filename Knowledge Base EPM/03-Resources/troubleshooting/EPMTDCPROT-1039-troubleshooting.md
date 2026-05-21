@@ -1,5 +1,5 @@
 ---
-tags: bug, jira
+tags: [bug, jira]
 component: Tender & RFQ
 symptom: "Development team fixing SIT urgently"
 root-cause: ""

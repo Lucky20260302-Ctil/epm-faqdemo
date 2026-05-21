@@ -1,6 +1,6 @@
 ---
 tags: [bug, production]
-component: DiscountVar
+component: Front End
 symptom: "Promo Code CLE062A not reflected on JP store POS J433 and J378, fixed by re-saving promo code in BE"
 root-cause: "Zfile z241226.06 update failed on 2024-12-26 — MASTCONV.DAT request failure caused promo data to not sync to POS"
 solution: "Added PCD '81' write on zupdate failure to log DB table update errors for diagnostics; re-saving promo code in BE triggers fresh sync"
@@ -44,5 +44,5 @@ Re-saving the promo code in BE triggered a fresh Zfile generation, which then sy
 
 ## 相關問題
 
-- [[CS-1319]] — Coach Jira reference
-- [[FE-1646]] — Related V75 dayend/cs2kconnect schedule fix
+- [CS-1319](https://hktdc.atlassian.net/browse/CS-1319) — Coach Jira reference
+- [[FE-1646-v75-dayend-cs2kconnect-missing|FE-1646]] — Related V75 dayend/cs2kconnect schedule fix

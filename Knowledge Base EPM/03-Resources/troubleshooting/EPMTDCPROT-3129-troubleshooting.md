@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix, uat-phase1-hotfixbatch1, hotfix
+tags: [bug, jira, tdc-hotfix, uat-phase1-hotfixbatch1, hotfix]
 component: Reporting & Export
 symptom: "Phase 1 Hot Fix Batch 1"
 root-cause: ""
@@ -39,5 +39,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-791]]
+- [EPRO-791](https://hktdc.atlassian.net/browse/EPRO-791)
 

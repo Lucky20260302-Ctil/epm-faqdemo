@@ -36,5 +36,5 @@ This ensures that when the pricing service is unavailable, the transaction is ha
 
 ## 相關問題
 
-- [[FE-1520]] — Related discount/pricing calculation fix (coupon discount)
-- [[FE-1200]] — MM Coupon rounding method
+- [[FE-1520-coupon-discount-calculation-netnetamt|FE-1520]] — Related discount/pricing calculation fix (coupon discount)
+- [[FE-1200-mm-coupon-rounding-method|FE-1200]] — MM Coupon rounding method

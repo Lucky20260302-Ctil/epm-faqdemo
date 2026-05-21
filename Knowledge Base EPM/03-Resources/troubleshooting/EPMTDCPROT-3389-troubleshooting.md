@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production
+tags: [bug, jira, production]
 component: E-Form & Workflow
 symptom: "Supplier reported that there is no validation error displayed after Review and Validate, but system block the submission without revising."
 root-cause: "for not showing any validation error."
@@ -29,5 +29,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPMTDCPROT-3390-solution|EPMTDCPROT-3390]]
+- EPMTDCPROT-3390
 

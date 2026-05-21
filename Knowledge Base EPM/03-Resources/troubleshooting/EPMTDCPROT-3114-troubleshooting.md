@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat
+tags: [bug, jira, ext-tdc-uat]
 component: Payment & Fee
 symptom: "Reference to [Link:https://hktdc.atlassian.net/browse/EPRO-752]"
 root-cause: ""
@@ -25,6 +25,6 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-752]]
-- [[EPRO-788]]
+- [EPRO-752](https://hktdc.atlassian.net/browse/EPRO-752)
+- [EPRO-788](https://hktdc.atlassian.net/browse/EPRO-788)
 

@@ -1,5 +1,5 @@
 ---
-tags: bug, jira
+tags: [bug, jira]
 component: E-Form & Workflow
 symptom: ""
 root-cause: ""

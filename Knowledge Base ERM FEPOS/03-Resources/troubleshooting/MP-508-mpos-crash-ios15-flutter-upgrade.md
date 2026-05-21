@@ -26,4 +26,4 @@ Upgraded the development environment from **Flutter 2.0.6 to Flutter 2.2.0**, wh
 
 ## 相關問題
 
-- [[MP-507]] — Related iOS 15 installation issue
+- [[MP-507-mpos-install-fail-ios15-xcode-upgrade|MP-507]] — Related iOS 15 installation issue

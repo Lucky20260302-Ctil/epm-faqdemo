@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: Authentication & Login
 symptom: "“Unknown user” is shown randomly when accessing existing e-Form."
 root-cause: "and fix generally for ALL e-Form. Thanks."

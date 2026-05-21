@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc, uat
+tags: [bug, jira, ext-tdc, uat]
 component: Tender & RFQ
 symptom: "In Endorsement of RFQ / Tender Opening Record, SA Solution is displayed as Disqualify by system, which has not been selected by Opening Team."
 root-cause: ""

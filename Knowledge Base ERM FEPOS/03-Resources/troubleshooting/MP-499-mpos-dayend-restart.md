@@ -39,5 +39,5 @@ Enhanced MPOS to:
 
 ## 相關問題
 
-- [[FE-1225]] — Related Day End issues (FE side)
-- [[FE-1646]] — Day End cs2kconnect schedule
+- [[FE-1225-dotnet-dayend-missing-transaction-count|FE-1225]] — Related Day End issues (FE side)
+- [[FE-1646-v75-dayend-cs2kconnect-missing|FE-1646]] — Day End cs2kconnect schedule

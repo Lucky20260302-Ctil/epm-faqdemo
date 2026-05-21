@@ -33,4 +33,4 @@ This allows OPOS.net to correctly identify and inherit printer settings from old
 
 ## 相關問題
 
-- [[CS-1389]] — Coach Jira reference
+- [CS-1389](https://hktdc.atlassian.net/browse/CS-1389) — Coach Jira reference

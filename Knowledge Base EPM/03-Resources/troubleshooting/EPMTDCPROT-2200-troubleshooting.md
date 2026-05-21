@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: E-Form & Workflow
 symptom: "Ivan Lai submitted EF-24/25-06/13-01679 for pre-reg invitation approval, and Joan Yuen returned the approval request with feedback. Ivan Lai tried to "
 root-cause: ""
@@ -30,5 +30,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-189]]
+- [EPRO-189](https://hktdc.atlassian.net/browse/EPRO-189)
 

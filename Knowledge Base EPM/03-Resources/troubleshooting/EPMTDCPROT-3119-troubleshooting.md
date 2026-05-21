@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix, change-request
+tags: [bug, jira, tdc-hotfix, change-request]
 component: Supplier Management
 symptom: "AARON selected “JIRA 744 APPROVER” when creating full registration supplier information request.  However, the e-form was created for “JIRA 744 202510"
 root-cause: ""
@@ -28,5 +28,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-786]]
+- [EPRO-786](https://hktdc.atlassian.net/browse/EPRO-786)
 

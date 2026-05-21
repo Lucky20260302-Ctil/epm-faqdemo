@@ -43,4 +43,4 @@ A new **SQLExpressMonitor** heartbeat checker module was introduced:
 
 ## 相關問題
 
-- [[FE-1696|CS-1221]] — Original standalone mode issue (V75)
+- [CS-1221](https://hktdc.atlassian.net/browse/CS-1221) — Original standalone mode issue (V75)

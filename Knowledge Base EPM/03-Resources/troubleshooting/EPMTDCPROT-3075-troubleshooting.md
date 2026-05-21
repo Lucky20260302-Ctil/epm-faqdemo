@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat
+tags: [bug, jira, ext-tdc-uat]
 component: UI/UX
 symptom: "Please check and fix this issue in ALL approval page."
 root-cause: ""
@@ -27,5 +27,5 @@ this issue in ALL approval page.
 
 ## 相關問題
 
-- [[EPRO-757]]
+- [EPRO-757](https://hktdc.atlassian.net/browse/EPRO-757)
 

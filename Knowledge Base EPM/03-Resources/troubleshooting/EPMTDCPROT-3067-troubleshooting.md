@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, uat
+tags: [bug, jira, uat]
 component: Tender & RFQ
 symptom: "Error popped up when user tried to filter Tender/RFQ by amt range for all reports.  Please check and fix.  Thanks."
 root-cause: ""
@@ -26,5 +26,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-753]]
+- [EPRO-753](https://hktdc.atlassian.net/browse/EPRO-753)
 

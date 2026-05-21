@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat, change-request
+tags: [bug, jira, ext-tdc-uat, change-request]
 component: Tender & RFQ
 symptom: "1/ Even Tender Response is updated to align the value from EPRO per[Link:https://hktdc.atlassian.net/browse/EPRO-694] , Reason for No Offer is missing"
 root-cause: ""
@@ -222,8 +222,8 @@ cc [accountid:5df204e72702bc0ec7e7af0b] , [accountid:712020:286ef455-0480-4b26-a
 
 ## 相關問題
 
-- [[EPRO-626]]
-- [[EPRO-635]]
-- [[EPRO-694]]
-- [[EPRO-698]]
+- [EPRO-626](https://hktdc.atlassian.net/browse/EPRO-626)
+- [EPRO-635](https://hktdc.atlassian.net/browse/EPRO-635)
+- [EPRO-694](https://hktdc.atlassian.net/browse/EPRO-694)
+- [EPRO-698](https://hktdc.atlassian.net/browse/EPRO-698)
 

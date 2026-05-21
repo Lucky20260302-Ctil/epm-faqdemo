@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, hotfix
+tags: [bug, jira, hotfix]
 component: Integration
 symptom: "Reference to [Link:https://hktdc.atlassian.net/browse/EPRO-626], [Link:https://hktdc.atlassian.net/browse/EPRO-156]"
 root-cause: ""
@@ -35,7 +35,7 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-156]]
-- [[EPRO-626]]
-- [[EPRO-781]]
+- [EPRO-156](https://hktdc.atlassian.net/browse/EPRO-156)
+- [EPRO-626](https://hktdc.atlassian.net/browse/EPRO-626)
+- [EPRO-781](https://hktdc.atlassian.net/browse/EPRO-781)
 

@@ -1,5 +1,5 @@
 ---
-tags: bug, jira
+tags: [bug, jira]
 component: UI/UX
 symptom: "Please check and fix this issue in ALL approval page."
 root-cause: ""

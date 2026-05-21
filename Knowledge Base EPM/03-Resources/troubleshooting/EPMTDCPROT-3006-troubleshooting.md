@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: E-Form & Workflow
 symptom: "Buyer cancelled PIF-24/25-07/30-00052 and used associated e-Form to create PIF-25/26-09/19-00703."
 root-cause: ""
@@ -36,5 +36,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-725]]
+- [EPRO-725](https://hktdc.atlassian.net/browse/EPRO-725)
 

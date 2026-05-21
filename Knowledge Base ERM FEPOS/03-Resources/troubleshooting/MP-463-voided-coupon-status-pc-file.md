@@ -35,5 +35,5 @@ Updated the PC file processing logic to:
 
 ## 相關問題
 
-- [[MP-464]] — Related e-coupon fix (re-used voided e-coupon)
-- [[FE-1619]] — Related PCD posting fix (FE side)
+- [MP-464](https://ctil.atlassian.net/browse/MP-464) — Related e-coupon fix (re-used voided e-coupon)
+- [[FE-1619-ao-pcd-posting-error-bonus-points-coupon|FE-1619]] — Related PCD posting fix (FE side)

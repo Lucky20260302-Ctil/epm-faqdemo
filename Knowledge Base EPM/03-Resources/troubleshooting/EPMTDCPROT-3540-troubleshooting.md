@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production
+tags: [bug, jira, production]
 component: Authentication & Login
 symptom: "Originally, there should be a part about payment contact details under Section B in Supplier Information Change form."
 root-cause: ""
@@ -32,5 +32,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-972]]
+- [EPRO-972](https://hktdc.atlassian.net/browse/EPRO-972)
 

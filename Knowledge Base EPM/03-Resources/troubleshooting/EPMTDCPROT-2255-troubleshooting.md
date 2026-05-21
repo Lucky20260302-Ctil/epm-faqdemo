@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: E-Form & Workflow
 symptom: "For Declaration of Conflict of Interest e-Form RFQ-24/25-06/10-01564, Tim Lau as Level 6 approver raised a clarification question and selected Hermia "
 root-cause: ""
@@ -27,6 +27,6 @@ Tim Lau cannot return the e-Form by clicking “Return” button before clarific
 
 ## 相關問題
 
-- [[EPRO-148]]
-- [[EPRO-210]]
+- [EPRO-148](https://hktdc.atlassian.net/browse/EPRO-148)
+- [EPRO-210](https://hktdc.atlassian.net/browse/EPRO-210)
 

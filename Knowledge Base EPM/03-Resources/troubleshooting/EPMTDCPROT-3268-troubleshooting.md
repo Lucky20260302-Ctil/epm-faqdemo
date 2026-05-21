@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, production, production
+tags: [bug, jira, production]
 component: Tender & RFQ
 symptom: "No similar case was noticed during health check and other issued RFQ/Tenders in production site. Please investigate root cause."
 root-cause: ""
@@ -34,5 +34,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[EPRO-81]]
+- [EPRO-81](https://hktdc.atlassian.net/browse/EPRO-81)
 

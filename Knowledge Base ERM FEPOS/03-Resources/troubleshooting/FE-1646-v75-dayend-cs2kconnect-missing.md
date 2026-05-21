@@ -45,5 +45,5 @@ Without this trigger, stores had to manually wait for the cs2kconnect schedule, 
 
 ## 相關問題
 
-- [[CS-1377]] — Coach Jira reference
-- [[FE-1696]] — Related V75 infrastructure fix
+- [CS-1377](https://hktdc.atlassian.net/browse/CS-1377) — Coach Jira reference
+- [[FE-1696-sqlexpress-standalone-mode-heartbeat|FE-1696]] — Related V75 infrastructure fix

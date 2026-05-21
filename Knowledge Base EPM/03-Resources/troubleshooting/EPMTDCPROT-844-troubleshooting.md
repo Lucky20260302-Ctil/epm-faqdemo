@@ -1,5 +1,5 @@
 ---
-tags: bug, jira
+tags: [bug, jira]
 component: General
 symptom: ""
 root-cause: ""

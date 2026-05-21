@@ -44,4 +44,4 @@ The fix in `v750.04R04I` separates the if-condition into a thread-safe structure
 
 ## 相關問題
 
-- [[FE-1402]] — Related discount variance issue (J804)
+- [[FE-1402-sales-associate-code-case-sensitivity|FE-1402]] — Related discount variance issue (J804)

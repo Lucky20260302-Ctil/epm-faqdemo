@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, ext-tdc-uat, uat
+tags: [bug, jira, ext-tdc-uat]
 component: E-Form & Workflow
 symptom: "This is preferred to be fixed before Phase 1 launch as the audit log may be affected and cannot be converted back."
 root-cause: ""
@@ -28,5 +28,5 @@ for supplier activation is updated
 
 ## 相關問題
 
-- [[EPRO-745]]
+- [EPRO-745](https://hktdc.atlassian.net/browse/EPRO-745)
 

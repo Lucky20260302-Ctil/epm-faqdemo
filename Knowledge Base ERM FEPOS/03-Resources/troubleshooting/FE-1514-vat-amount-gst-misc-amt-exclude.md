@@ -46,5 +46,5 @@ CALGSTBYMEMONETEXCLMISCAMT='Y'
 
 ## 相關問題
 
-- [[CS-1129]] — Coach Jira reference
-- [[FE-1688]] — Related tax calculation issue (exchange transactions)
+- [CS-1129](https://hktdc.atlassian.net/browse/CS-1129) — Coach Jira reference
+- [[FE-1688-tax-missing-cn-exchange-transactions|FE-1688]] — Related tax calculation issue (exchange transactions)

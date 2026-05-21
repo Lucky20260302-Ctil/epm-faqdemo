@@ -1,6 +1,6 @@
 ---
 tags: [bug, production, hotfix]
-component: Frontend
+component: Front End
 symptom: "Tax (VAT/GST) values missing for CN exchange transactions at V75 stores"
 root-cause: "Exchange memo transactions at V75 not calculating item-level tax (jouinv_vat_value, jouinv_gst_per) during the exchange process"
 solution: "Enhanced exchange transaction flow to properly calculate and include item tax for exchange memos"
@@ -40,5 +40,5 @@ _See Jira ticket for resolution details._
 
 ## 相關問題
 
-- [[CS-1429]] — Coach Jira reference
-- [[FE-1696]] — Related V75 fix in same release
+- [CS-1429](https://hktdc.atlassian.net/browse/CS-1429) — Coach Jira reference
+- [[FE-1696-sqlexpress-standalone-mode-heartbeat|FE-1696]] — Related V75 fix in same release

@@ -51,5 +51,5 @@ Added **two new config flags** to control member API behavior:
 
 ## 相關問題
 
-- [[ACU-130]] — Original story reference
-- [[FE-1476]] — Related member type/API handling fix
+- [ACU-130](https://hktdc.atlassian.net/browse/ACU-130) — Original story reference
+- [[FE-1476-hkjc-rems-member-type-offline-online-mismatch|FE-1476]] — Related member type/API handling fix

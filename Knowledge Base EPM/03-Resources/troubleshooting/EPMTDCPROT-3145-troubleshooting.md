@@ -1,5 +1,5 @@
 ---
-tags: bug, jira, tdc-hotfix, uat-phase1-hotfixbatch2, hotfix
+tags: [bug, jira, tdc-hotfix, uat-phase1-hotfixbatch2, hotfix]
 component: Reporting & Export
 symptom: ""
 root-cause: ""
@@ -38,5 +38,5 @@ UAT Test Result： 4 suppliers submitted the Raise RFQ/Tender Query. The buyer p
 
 ## 相關問題
 
-- [[EPRO-791]]
+- [EPRO-791](https://hktdc.atlassian.net/browse/EPRO-791)
 

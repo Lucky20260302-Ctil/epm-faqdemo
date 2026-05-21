@@ -1,5 +1,5 @@
 ---
-tags: bug, jira
+tags: [bug, jira]
 component: E-Form & Workflow
 symptom: "0fa3c900-202b-11f0-a2c5-963d4b37962f"
 root-cause: ""
