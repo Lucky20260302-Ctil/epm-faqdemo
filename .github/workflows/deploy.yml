@@ -31,7 +31,11 @@ jobs:
 
       - run: npm ci
 
-      - run: npx quartz build -d .
+      - run: |
+          echo "=== Node version ==="
+          node --version
+          echo "=== Quartz build ==="
+          node ./quartz/bootstrap-cli.mjs build -d . -v
 
       - uses: actions/configure-pages@v4
 
