@@ -19,7 +19,9 @@ updated: 2026-05-21
 | [[MP/index\|MP (MPOS)]] | 12 | 行動 POS 安裝、交易、會員、系統相容 |
 | [[WEB/index\|WEB]] | 8 | eName、Member API、ePromo |
 | RS (Report System) | 0 | 2 個 Issue 均不具 FAQ 價值 |
-| **合計** | **44** | |
+| [[CityU-ProSmartService/index\|CityU - ProSmartService]] | 23 | 供應商管理、DOI、文件下載、系統錯誤 |
+| [[HKJC-ProSmart/index\|HKJC - ProSmart]] | 66 | RFQ、RFT、BOQ、大文件上傳、EOI/PQ |
+| **合計** | **133** | |
 
 ---
 
