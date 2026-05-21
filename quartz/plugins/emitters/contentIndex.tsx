@@ -103,13 +103,29 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
+          // Build enriched content for search: include frontmatter fields
+          // so users can search by jira key, component, symptom, etc.
+          const fm = file.data.frontmatter ?? {}
+          const extraSearchText = [
+            fm.jira,
+            fm.component,
+            fm.symptom,
+            fm["root-cause"],
+            fm.solution,
+            fm.resolved,
+            file.data.slug,
+          ]
+            .filter(Boolean)
+            .map(String)
+            .join(" ")
+
           linkIndex.set(slug, {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
-            content: file.data.text ?? "",
+            content: extraSearchText + " " + (file.data.text ?? ""),
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,

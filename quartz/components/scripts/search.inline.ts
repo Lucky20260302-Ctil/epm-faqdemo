@@ -76,6 +76,10 @@ let index = new FlexSearch.Document<Item>({
         tokenize: "forward",
       },
       {
+        field: "slug",
+        tokenize: "forward",
+      },
+      {
         field: "tags",
         tokenize: "forward",
       },
@@ -453,7 +457,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
           query: query,
           // return at least 10000 documents, so it is enough to filter them by tag (implemented in flexsearch)
           limit: Math.max(numSearchResults, 10000),
-          index: ["title", "content"],
+          index: ["title", "content", "slug"],
           tag: { tags: tag },
         })
         for (let searchResult of searchResults) {
@@ -474,7 +478,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       searchResults = await index.searchAsync({
         query: currentSearchTerm,
         limit: numSearchResults,
-        index: ["title", "content"],
+        index: ["title", "content", "slug"],
       })
     }
 
