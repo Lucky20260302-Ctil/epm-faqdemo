@@ -16,3 +16,6 @@ Knowledge Base EPM/scripts/generate_closed_kb.py
 
 # OS files
 .DS_Store
+
+# Build artifacts
+*.tsbuildinfo
