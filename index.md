@@ -16,6 +16,7 @@ title: EPM / FEPOS 故障排除 FAQ
 |------|------|--------|
 | [[Knowledge Base EPM/03-Resources/troubleshooting/index\|EPM 解決手冊]] | Tender / RFQ / E-Form / 供應商管理 | 50 篇 |
 | [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/index\|FEPOS 解決手冊]] | Front End POS / MPOS / Day End | 28 篇 |
+| [[FAQ_test/index\|ERM Board FAQ（新）]] | FE / MP / BE / WEB 全項目 FAQ | 44 篇 |
 
 ---
 
