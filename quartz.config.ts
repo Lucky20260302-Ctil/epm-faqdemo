@@ -22,6 +22,7 @@ const config: QuartzConfig = {
       "CLAUDE.md",
       ".canvases",
       "SKILL.md",
+      "_archived_stubs",
     ],
     defaultDateType: "modified",
     theme: {

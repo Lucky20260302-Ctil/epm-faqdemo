@@ -1,50 +1,28 @@
 ---
-project: ''
-issue_key: ''
-issue_type: ''
-status: ''
-tags:
-- faq
-symptom: ''
-root_cause: ''
-solution: ''
-jira_url: ''
-created: ''
-resolved: ''
-fix_version: ''
-components: []
-has_images: false
-category: ''
-category_label: ''
-quality: stub
-title: ERM FAQ 知識庫
+tags: [moc, faq, index]
+title: "ERM FAQ 知識庫"
+updated: 2026-05-22
 ---
+
 # ERM FAQ 知識庫
 
-> 自動生成索引 · 1941 篇 FAQ · 18 個分類
+> 自動生成索引 · 1490 篇 FAQ · 11 個分類
 
 ## 分類導航
 
 | 分類 | 數量 |
 |------|------|
-| [[01_Install_Deploy/index|安裝與部署]] | 122 |
-| [[02_Config_Settings/index|配置與設定]] | 69 |
+| [[01_Install_Deploy/index|安裝與部署]] | 103 |
+| [[02_Config_Settings/index|配置與設定]] | 59 |
 | [[03_Data_Import/index|資料匯入]] | 1 |
-| [[03_Performance_Timeout/index|效能與超時]] | 252 |
-| [[04_Data_Sync/index|資料同步]] | 462 |
-| [[05_Error_Exception/index|報錯與異常]] | 596 |
-| [[06_Printing_Hardware/index|列印與硬體]] | 38 |
+| [[03_Performance_Timeout/index|效能與超時]] | 213 |
+| [[04_Data_Sync/index|資料同步]] | 390 |
+| [[05_Error_Exception/index|報錯與異常]] | 495 |
+| [[06_Printing_Hardware/index|列印與硬體]] | 19 |
 | [[06_Procurement_Workflow/index|採購流程]] | 22 |
 | [[07_Other/index|其他]] | 6 |
 | [[07_Reporting/index|報表]] | 1 |
-| [[07_Workflow_Business/index|業務流程]] | 248 |
-| [[08_EPRO_System/index|08_EPRO_System]] | 28 |
-| [[09_EPRO_PreTender/index|09_EPRO_PreTender]] | 31 |
-| [[10_EPRO_TenderStage/index|10_EPRO_TenderStage]] | 11 |
-| [[11_EPRO_PostTender/index|11_EPRO_PostTender]] | 16 |
-| [[12_EPRO_Supplier/index|12_EPRO_Supplier]] | 10 |
-| [[13_EPRO_Reports/index|13_EPRO_Reports]] | 23 |
-| [[14_EPRO_Others/index|14_EPRO_Others]] | 5 |
+| [[07_Workflow_Business/index|業務流程]] | 181 |
 
 ---
 

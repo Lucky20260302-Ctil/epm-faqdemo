@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "其他 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 07_other
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 07_Other
+category_label: 其他
+quality: stub
+title: 其他 — FAQ 索引
 ---
-
 # 其他
 
 > 自動生成索引 · 6 篇 FAQ

@@ -1,12 +1,28 @@
 ---
-tags: [moc, faq, index]
-title: "配置與設定 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 02_config_settings
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: stub
+title: 配置與設定 — FAQ 索引
 ---
-
 # 配置與設定
 
-> 自動生成索引 · 59 篇 FAQ
+> 自動生成索引 · 69 篇 FAQ
 
 | # | 問題 |
 |---|------|
@@ -51,23 +67,33 @@ updated: 2026-05-22
 | 39 | [[FE-672-lcx-dotnet-print-receipt-dayend|FE-672: LCX DotNet Print Receipt / DayEnd]] |
 | 40 | [[FE-774-mm-not-working-when-enabled-mix_cachehit|FE-774: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition]] |
 | 41 | [[FE-802-mm-not-working-when-enabled-mix_cachehit|FE-802: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition]] |
-| 42 | [[FE-826-fail-to-use-auto-create-member-function-after-pos-|FE-826-fail-to-use-auto-create-member-function-after-pos-]] |
-| 43 | [[FE-899-quick-restart-alert-|FE-899: Quick Restart alert]] |
-| 44 | [[FE-968-click-search-member-result-but-return-to-same-page|FE-968-click-search-member-result-but-return-to-same-page]] |
-| 45 | [[FE-990-cn-print-in-english|FE-990: CN Print in english]] |
-| 46 | [[FE-998-pos-autoshutdown-exe-not-functioning|FE-998: POS AutoShutdown exe not functioning]] |
-| 47 | [[MP-281-ipad-sales-04|MP-281: iPad Sales - 04]] |
-| 48 | [[MP-372-member-search-search-ordering-enhance|MP-372: Member Search search & ordering Enhance]] |
-| 49 | [[MP-380-cn-print-preview-display-english-layout-|MP-380: CN-print preview display English layout]] |
-| 50 | [[MP-424-cj129-cj-tmu-printer-j212-config|MP-424: CJ#129-CJ TMU printer J212 config]] |
-| 51 | [[MP-559-mpos-missing-the-communication-option-in|MP-559: Mpos missing the communication Option in create VIP form when the config set NVIPINPUTCOMMOPT='y']] |
-| 52 | [[MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search|MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search]] |
-| 53 | [[MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-|MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-]] |
-| 54 | [[MP-747-purchase-history-unavailable-cn-region|MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member]] |
-| 55 | [[MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind|MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind]] |
-| 56 | [[MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l|MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l]] |
-| 57 | [[MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta|MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta]] |
-| 58 | [[WEB-339-cs-883-issue_bonus-point-on-cs2000web-is|WEB-339: [CS-883] issue_bonus point on CS2000web is incorrect]] |
-| 59 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for]] |
+| 42 | [[FE-809-get-tblconfigdotnetdayend-set-default-va|FE-809: Get tblconfig.DotnetDayend set default value to 'N']] |
+| 43 | [[FE-826-fail-to-use-auto-create-member-function-after-pos-|FE-826-fail-to-use-auto-create-member-function-after-pos-]] |
+| 44 | [[FE-899-quick-restart-alert-|FE-899: Quick Restart alert]] |
+| 45 | [[FE-946-xconfig-auto-rollback|FE-946: xconfig auto rollback]] |
+| 46 | [[FE-968-click-search-member-result-but-return-to-same-page|FE-968-click-search-member-result-but-return-to-same-page]] |
+| 47 | [[FE-989-rin00726874-ocf23-user-called-till0-not-|FE-989: [RIN00726874] OCF23 User called till0 not able to click on finish when doing bankcard payment]] |
+| 48 | [[FE-990-cn-print-in-english|FE-990: CN Print in english]] |
+| 49 | [[FE-998-pos-autoshutdown-exe-not-functioning|FE-998: POS AutoShutdown exe not functioning]] |
+| 50 | [[FE-999-cs2kconnect-ini-empty|FE-999: cs2kconnect ini empty]] |
+| 51 | [[MP-281-ipad-sales-04|MP-281: iPad Sales - 04]] |
+| 52 | [[MP-312-disable-pdf-printer-xps-printer-for-def|MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer]] |
+| 53 | [[MP-372-member-search-search-ordering-enhance|MP-372: Member Search search & ordering Enhance]] |
+| 54 | [[MP-380-cn-print-preview-display-english-layout-|MP-380: CN-print preview display English layout]] |
+| 55 | [[MP-424-cj129-cj-tmu-printer-j212-config|MP-424: CJ#129-CJ TMU printer J212 config]] |
+| 56 | [[MP-518-sow-of-coach-cn-mpos-zebra-mini-printer|MP-518: SOW of Coach CN MPOS Zebra Mini Printer]] |
+| 57 | [[MP-559-mpos-missing-the-communication-option-in|MP-559: Mpos missing the communication Option in create VIP form when the config set NVIPINPUTCOMMOPT='y']] |
+| 58 | [[MP-576-enable-vip-input-address|MP-576: Enable VIP input address]] |
+| 59 | [[MP-719-cs-1176-v75-after-enable-saleshub-mpos|MP-719: [CS-1176] v75 - After enable SalesHub, MPOS no pop-up window 'Do you want to select E-Coupon' in payment page]] |
+| 60 | [[MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search|MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search]] |
+| 61 | [[MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-|MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-]] |
+| 62 | [[MP-747-purchase-history-unavailable-cn-region|MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member]] |
+| 63 | [[MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind|MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind]] |
+| 64 | [[MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l|MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l]] |
+| 65 | [[MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta|MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta]] |
+| 66 | [[WEB-190-disable-the-input-field-of-home-no-and-m|WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry]] |
+| 67 | [[WEB-197-sow-of-enable-couple-option-in-customer-|WEB-197: SOW of Enable Couple Option in Customer Gender and email 2 in e Name]] |
+| 68 | [[WEB-339-cs-883-issue_bonus-point-on-cs2000web-is|WEB-339: [CS-883] issue_bonus point on CS2000web is incorrect]] |
+| 69 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for]] |
 
 > 最後更新: 2026-05-22

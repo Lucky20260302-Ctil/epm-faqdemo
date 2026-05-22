@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "採購流程 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 06_procurement_workflow
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 06_Procurement_Workflow
+category_label: 採購流程
+quality: stub
+title: 採購流程 — FAQ 索引
 ---
-
 # 採購流程
 
 > 自動生成索引 · 22 篇 FAQ
