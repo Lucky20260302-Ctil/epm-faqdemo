@@ -27,15 +27,15 @@ In order to have stability for the signalR connection for MPOS, a development on
 
 Currently the plugin using are riding on a webview making use of signalR.js 
 
-# Architecture Overview
+### Architecture Overview
 
 The implementation follows a three-tiered architecture that maximizes platform capabilities while ensuring seamless Flutter integration. The foundation consists of native libraries that directly interface with platform-specific networking APIs, providing optimal performance for WebSocket connections and SignalR protocol handling.
 
 > 📎 **image-20250718-062245.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/925166f9-d959-4819-85d5-bd76e23d65c4)（需 Jira 登入）
 
-# Implementation Strategy
+### Implementation Strategy
 
-# Phase 1: iOS Native Library Development
+### Phase 1: iOS Native Library Development
 
 The iOS implementation utilizes Apple's URLSession framework for WebSocket connectivity, providing native integration with iOS networking capabilities. The core `SignalRManager` class handles connection lifecycle, message routing, and protocol compliance.
 
@@ -51,7 +51,7 @@ The iOS implementation utilizes Apple's URLSession framework for WebSocket conne
 
 The implementation prioritizes thread safety through careful queue management, ensuring UI responsiveness while maintaining reliable background connectivity. Error handling encompasses network failures, protocol violations, and resource constraints specific to iOS environments.
 
-# Phase 2: Android Native Library Development
+### Phase 2: Android Native Library Development
 
 The Android implementation leverages OkHttp's WebSocket capabilities, providing robust connectivity with built-in connection pooling and retry mechanisms. The architecture embraces Kotlin coroutines for asynchronous operations while maintaining Java compatibility.
 
@@ -67,7 +67,7 @@ The Android implementation leverages OkHttp's WebSocket capabilities, providing 
 
 The Android implementation addresses platform-specific challenges including background execution limitations, network security policies, and diverse device capabilities across the Android ecosystem.
 
-# Phase 3: Flutter Plugin Bridge Implementation
+### Phase 3: Flutter Plugin Bridge Implementation
 
 The Flutter bridge unifies native implementations through platform channels, providing a consistent API regardless of underlying platform differences. The architecture employs both MethodChannel for request-response operations and EventChannel for streaming message delivery.
 
@@ -83,11 +83,11 @@ The Flutter bridge unifies native implementations through platform channels, pro
 
 The bridge implementation ensures data consistency across platform boundaries while maintaining the performance characteristics of native implementations.
 
-# 
+### 
 
 ---
 
-# iOS Native Library Architecture
+### iOS Native Library Architecture
 
 The iOS implementation embraces Swift's modern concurrency model while maintaining compatibility with UIKit application lifecycles. The core architecture separates transport concerns from protocol handling, enabling future transport method additions without architectural changes.
 
@@ -102,7 +102,7 @@ The iOS implementation embraces Swift's modern concurrency model while maintaini
 
 - **Error Recovery**: Comprehensive error handling with exponential backoff reconnection
 
-# Android Native Library Architecture
+### Android Native Library Architecture
 
 The Android implementation leverages modern Kotlin features while maintaining broad compatibility across Android versions. The architecture emphasizes lifecycle awareness and network resilience.
 

@@ -30,7 +30,7 @@ if input value is not a valid email format,
 
 show error message to the POS terminal, without calling API to search member.
 
-# Consider about searchExact only
+### Consider about searchExact only
 
 Sample :
 

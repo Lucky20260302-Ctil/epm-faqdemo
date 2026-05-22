@@ -37,7 +37,7 @@ The current printing UI only shows a generic loading state for too long, without
 
 Introduce **stage-based status indicators** during receipt printing so that store users can understand exactly what the system is doing.
 
-# Suggested Stages
+### Suggested Stages
 
 1. **Preparing receipt**
 
@@ -49,7 +49,7 @@ Introduce **stage-based status indicators** during receipt printing so that stor
 
 5. **Print completed** / **Print failed**
 
-# UI Requirements
+### UI Requirements
 
 - Clearly display the **current processing stage**
 
@@ -65,7 +65,7 @@ Introduce **stage-based status indicators** during receipt printing so that stor
 
 - Avoid indefinite generic loading animation without message update
 
-# Expected Result
+### Expected Result
 
 This improves transparency and reduces user anxiety during slow or unstable network conditions.
 

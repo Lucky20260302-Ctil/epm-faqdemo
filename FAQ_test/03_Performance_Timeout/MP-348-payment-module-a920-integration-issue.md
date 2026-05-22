@@ -24,7 +24,7 @@ has_images: True
 
 ## 問題描述
 
-# 1. Missing time remain in all sessions
+### 1. Missing time remain in all sessions
 
  
 
@@ -40,7 +40,7 @@ For example after wipe credit issue memo card screen, void memo screen etc.
 > 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/76f38640-0204-4546-a230-d80b9119bff0)（需 Jira 登入）
  
 
-# 2. A920 cancel order handling
+### 2. A920 cancel order handling
 
  
 
@@ -53,7 +53,7 @@ A920 click back button to cancel order processing, app will display [error 400 ?
 > 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/1e6a9ceb-e2bb-4977-b9f6-1877425cc4fa)（需 Jira 登入）
  ** 
 
-# 3. A920 ordering timeout display
+### 3. A920 ordering timeout display
 
  
 
@@ -74,11 +74,11 @@ A920 keep waiting without further action, app display [error 400 ??????]
 
  
 
-# 4.    Not support Issue memo with Multi-ECR Payment
+### 4.    Not support Issue memo with Multi-ECR Payment
 
  
 
-# Issue sales memo with two ECR Payments, but combine into one
+### Issue sales memo with two ECR Payments, but combine into one
 
  
 
@@ -116,7 +116,7 @@ A920 keep waiting without further action, app display [error 400 ??????]
 > 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/4d4ba8ad-53a3-4d90-8710-2c072698516c)（需 Jira 登入）
  
 
-# 5.    ECR Void Result layout
+### 5.    ECR Void Result layout
 
  
 

@@ -23,9 +23,9 @@ has_images: True
 
 ## 問題描述
 
-# **Defect Description: Your User Account is Not temporary Prohibited for Login**
+### **Defect Description: Your User Account is Not temporary Prohibited for Login**
 
-# **🔁 ****Steps to Replicate:**
+### **🔁 ****Steps to Replicate:**
 
 1. **Launch the CSPLUS application. ( POS 10.34.103.4 )**
 
@@ -37,9 +37,9 @@ has_images: True
 
 5. **Validate Login With Locked Account As Cashier & in Admin**
 
-# **❌ ****Actual Result:**** No error throwing**
+### **❌ ****Actual Result:**** No error throwing**
 
-# **✅ Expected Result: Error should reflect as Your User Account is Now temporary Prohibited for Login**
+### **✅ Expected Result: Error should reflect as Your User Account is Now temporary Prohibited for Login**
 
 ---
 

@@ -26,7 +26,7 @@ has_images: True
 
 Configurations in below list will be added into xconfig file for applying into frontend environments.
 
-# vip_mask_enable
+### vip_mask_enable
 
 On/Off mode Control of masking VIP Personal Information to all Back-end components.Default value is N.
 
@@ -36,7 +36,7 @@ N means masking is disabled.
 
 For **DOB** (Date of Birth), if the configuration value is set as Y, the day field will be masked with Asterisk ‘*’.
 
-# vip_mask_rule
+### vip_mask_rule
 
 Controlling the masking logic for the VIP personal information field. 
 

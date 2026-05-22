@@ -23,7 +23,7 @@ has_images: False
 
 ## 問題描述
 
-# Proposed Approach (Execution-Level Monitoring)
+### Proposed Approach (Execution-Level Monitoring)
 
 We can implement a **lightweight background monitoring job** (e.g. NET service or PowerShell script) that runs **once per day** or **in certain time interval within a day.**
 
@@ -35,7 +35,7 @@ This job will:
 
 - Send out alert email only in extraction not executed:  “No VersionHistory Record is found” during job run.
 
-# Alert Logic:
+### Alert Logic:
 
 - ✅ If the suffix is switched,
 

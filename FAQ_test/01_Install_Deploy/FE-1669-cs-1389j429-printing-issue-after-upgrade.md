@@ -29,15 +29,15 @@ encountering printing issue after upgrade to v75.004.1100.0008.
 Previous ADK saved Devices would be inherted to [OPOS.net](http://OPOS.net) 
 
 > 📎 **image-20250411-035209.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/20882e40-b0c9-4be4-843b-ca5b3c5b6270)（需 Jira 登入）
-# After checking record, ADK270JR4 should be given out on 25/12/2012 and ADK270ER5 on 25/11/2017 which would be UPOS 1.13.
+### After checking record, ADK270JR4 should be given out on 25/12/2012 and ADK270ER5 on 25/11/2017 which would be UPOS 1.13.
 
-# ADK280ER8, UPOS 1.14, should be given out since 26/11/2019.
+### ADK280ER8, UPOS 1.14, should be given out since 26/11/2019.
 
-# From 1.13 or previous , ModelName is not included in the configurations :
+### From 1.13 or previous , ModelName is not included in the configurations :
 
 > 📎 **image-20250411-035254.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/d55f29bc-1cd3-4d0d-8a72-7332dcbaf34e)（需 Jira 登入）
 
-# Solutions : 
+### Solutions : 
 
 Using DeviceName for matching ModelName if ModelName does not exist,
 

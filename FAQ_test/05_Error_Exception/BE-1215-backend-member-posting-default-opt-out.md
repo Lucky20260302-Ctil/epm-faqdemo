@@ -28,7 +28,7 @@ The ANZ region requests that new members created via BE Posting should have a co
 
 ---
 
-# **Current Behavior:**
+### **Current Behavior:**
 
 - FE has already added a configuration:
 `tblconfig.NVIPInputCommOpt` to control default opt-out behavior on the FE side.
@@ -45,7 +45,7 @@ The ANZ region requests that new members created via BE Posting should have a co
 
 ---
 
-# **Change Request:**
+### **Change Request:**
 
 Add a new BE configuration:
 `posting_member_Opt_default`
@@ -60,7 +60,7 @@ Add a new BE configuration:
 
 ---
 
-# **Acceptance Criteria:**
+### **Acceptance Criteria:**
 
 1. BE Posting program reads `posting_member_Opt_default` configuration.
 

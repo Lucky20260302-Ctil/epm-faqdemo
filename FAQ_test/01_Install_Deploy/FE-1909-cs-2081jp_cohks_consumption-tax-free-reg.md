@@ -42,20 +42,20 @@ TLDR;Coverage :
 
 ---
 
-# **JIRA Proposal – Japan Consumption Tax‑Free Regulation 2026 (Nov) Adaptation**
+### **JIRA Proposal – Japan Consumption Tax‑Free Regulation 2026 (Nov) Adaptation**
 
 **Scope:** CSPLUS (FEPOS, MPOS) & Tapestry (CAR)
  
 
 ---
 
-# **Objective**
+### **Objective**
 
 Enable CSPLUS to comply with Japan’s 2026 November Consumption Tax‑Free regulatory changes.
 
 ---
 
-# **Targets**
+### **Targets**
 
 - **CSPLUS**
 
@@ -69,7 +69,7 @@ Enable CSPLUS to comply with Japan’s 2026 November Consumption Tax‑Free regu
 
 ---
 
-# **Goals**
+### **Goals**
 
 1. Mark Tax‑Free sales with a **TaxFree flag**.
 
@@ -81,7 +81,7 @@ Enable CSPLUS to comply with Japan’s 2026 November Consumption Tax‑Free regu
 
 ---
 
-# **Preliminary Design / Key Assumptions**
+### **Preliminary Design / Key Assumptions**
 
 1. **Item pricing from SAP remains tax‑inclusive** (unchanged from current design).
 
@@ -93,9 +93,9 @@ Enable CSPLUS to comply with Japan’s 2026 November Consumption Tax‑Free regu
 
 ---
 
-# **Enhancement Highlights**
+### **Enhancement Highlights**
 
-# **1. SOP for Tax‑Free (UI/UX)**
+### **1. SOP for Tax‑Free (UI/UX)**
 
 - Maintain the **current SOP** and UI/UX behavior.
 
@@ -105,13 +105,13 @@ Enable CSPLUS to comply with Japan’s 2026 November Consumption Tax‑Free regu
 
 ---
 
-# **2. New Configuration Flag**
+### **2. New Configuration Flag**
 
 A new configuration parameter will be introduced:
 
 `TaxFreeSkipGSTInCalculation = Y / N`
 
-# **Config Behaviour**
+### **Config Behaviour**
 
 - **N (default)**
 
@@ -139,7 +139,7 @@ A new configuration parameter will be introduced:
 
 ---
 
-# **3. Dataset Changes (PCD / BEDB)**
+### **3. Dataset Changes (PCD / BEDB)**
 
 - Only the **GST Amount** will be stored (as per current design).
 
@@ -149,7 +149,7 @@ A new configuration parameter will be introduced:
 
 ---
 
-# **4. Receipt Output**
+### **4. Receipt Output**
 
 - Receipt layout remains unchanged.
 
@@ -163,7 +163,7 @@ A new configuration parameter will be introduced:
 
 ---
 
-# **Summary**
+### **Summary**
 
 This enhancement introduces a configuration‑driven approach to support Japan’s 2026 Tax‑Free regulation without requiring UI/UX redesign. The system can instantly switch between Tax‑Free and normal flows while keeping pricing integrity, receipt consistency, and CAR export compatibility.
 
