@@ -1,0 +1,306 @@
+[
+  {
+    "category": "采购流程",
+    "subcategory": "采购订单处理",
+    "question": "如何创建采购订单（Purchase Order）？",
+    "answer": "创建采购订单的操作步骤如下：\n\n1. **进入采购订单维护画面**\n   - 从菜单中点击进入 Purchase Order Maintenance 功能。\n   - 点击 CREATE 按钮创建新的采购订单。\n\n2. **输入订单头信息（Header Input）**\n   - 进入 Purchase Order Detail Maintenance Screen。\n   - 选择订单类型：\n     - Normal PO（普通采购订单）：正常模式，允许分批收货。\n     - Blanket PO（blanket 采购订单）：批量订单模式，供应商可在一段时间（如一年或一个季节）内分批次交货。Blanket PO 需要后续的「交货请求（Delivery Request）」来完成交货。\n   - 勾选折扣复选框可启用行项目折扣输入字段。\n   - 部分字段由系统自动计算且不可手动输入。\n\n3. **输入采购订单条款（PO Terms Input）**\n   - 点击第二个文件夹标签页（2nd folder）进入 PO 条款输入。\n   - 关键字段：\n     - Expected Shipment Date（预计发货日期）：部分 PO 报表以此字段作为排序依据。\n     - 默认收货地点：用于 PO 收货流程的默认位置。\n     - 分配地点：用于将到货库存分配到特定位置，仅在特定设计程序中生效。\n\n4. **输入明细项目（Detail Items Input）**\n   - 进入 Manage Item 页面。\n   - 输入商品代码（Item Code）。\n   - 如果商品有颜色和尺寸的细分，点击 Color & Size 按钮输入详细的数量。\n   - 也可以直接在数量字段中输入采购数量。\n\n5. **了解列字段含义**\n   - List Price（列表价）：采购商品的标准价格。\n   - Def Disc%（默认折扣率）：系统自动获取的默认折扣百分比，需预先在供应商主文件或供应商 PO 折扣表中设定。\n   - Ovr Disc%（覆盖折扣率）：手动输入的覆盖折扣，当默认折扣不适用时使用；系统优先使用此折扣计算采购单价。\n   - Unit Cost（单价）：系统计算的采购单价，或用户手动输入覆盖系统计算的数值；如果与默认 PO 成本不同，数值将显示为红色提示。\n   - Qty（数量）：用户输入的采购数量。\n   - Order Amount（订单金额）：系统基于单价乘以数量自动计算。\n   - Unit（单位）：采购商品的计量单位。\n\n6. **确认并保存**\n   - 检查所有输入信息。\n   - 点击保存按钮完成采购订单创建。\n\n注意：采购订单流程支持从下单、收货、未完成订单跟踪、库存成本更新（通过收货流程）到报表的完整操作。",
+    "source": "v7 Book-3 Section 6.1 Pages 4-8",
+    "images": [
+      "v7_Book-3_PROCESS_p004_img00.jpeg",
+      "v7_Book-3_PROCESS_p005_img00.jpeg",
+      "v7_Book-3_PROCESS_p006_img00.jpeg",
+      "v7_Book-3_PROCESS_p007_img00.jpeg"
+    ],
+    "keywords": ["采购订单", "Purchase Order", "PO", "创建采购订单", "Normal PO", "Blanket PO", "采购流程", "供应商订单"]
+  },
+  {
+    "category": "采购流程",
+    "subcategory": "采购订单处理",
+    "question": "如何使用 Load File 功能批量上传采购订单明细？",
+    "answer": "使用 Load File 功能批量上传采购订单明细的操作步骤如下：\n\n1. **准备上传文件**\n   - 文件必须是 Text file（Tab 分隔符格式，Tab delimited）。\n   - 文件名没有限制。\n   - 文件格式必须与 ChainStorePlus PO Load File 数据格式匹配。\n\n2. **文件格式要求**\n   | 序号 | 字段名称 | 长度 | 必填 | 说明 |\n   |------|----------|------|------|------|\n   | 1 | Item Code（商品代码） | X(14) | 是 | 必须在 ChainStorePlus 中已定义 |\n   | 2 | Color（颜色） | X(5) | 否 | 必须在 ChainStorePlus 中已定义 |\n   | 3 | Size（尺寸） | X(4) | 否 | 必须在 ChainStorePlus 中已定义 |\n   | 4 | Inseam（内缝长） | X(4) | 否 | 必须在 ChainStorePlus 中已定义 |\n   | 5 | Quantity（数量） | X(7) | 是 | 最大 9999999 |\n   | 6 | Unit Cost（单价） | X(12) | 是 | 格式 999999999.99 |\n   | 7 | Item Discount Rate（折扣率） | X(6) | 否 | 格式 999.99 |\n\n3. **执行上传**\n   - 在 Purchase Order Maintenance（PO3000）的 Manage Item 页面中。\n   - 点击 Load Layout 按钮可查看上述文件格式。\n   - 点击 Load 按钮。\n   - 系统弹出 Load Detail 对话框，询问 PO Load 文件位置。\n   - 选择准备好的 PO Load File。\n   - 点击 Open 将文件上传至 PO Maintenance。\n\n4. **验证与错误处理**\n   - 上传时，程序会对上传文件的数据进行验证。\n   - 如果发现错误，系统会停止加载并返回错误信息。\n   - 用户需要点击 Print Queue 保存「Purchase Order Upload Error Report」以查看无效上传的原因。\n   - 根据错误报告修改 Text 文件，然后重新上传。\n   - 注意：PO Load File 不应包含表头行（header）。如果遇到此错误，请移除表头行后重试。\n\n5. **上传成功**\n   - 上传成功后，数据将被放入 Item Detail 列表中。\n   - 用户可以编辑内容后保存 PO。",
+    "source": "v7 Book-3 Section 6.1 Pages 8-11",
+    "images": [
+      "v7_Book-3_PROCESS_p009_img00.jpeg",
+      "v7_Book-3_PROCESS_p010_img00.jpeg",
+      "v7_Book-3_PROCESS_p011_img00.jpeg",
+      "v7_Book-3_PROCESS_p011_img01.jpeg",
+      "v7_Book-3_PROCESS_p011_img02.jpeg"
+    ],
+    "keywords": ["批量上传", "Load File", "PO上传", "采购订单导入", "Tab分隔符", "商品代码", "采购批量导入"]
+  },
+  {
+    "category": "采购流程",
+    "subcategory": "采购订单处理",
+    "question": "如何修改或删除已创建的采购订单？",
+    "answer": "修改或删除已创建的采购订单的操作步骤如下：\n\n1. **进入采购订单维护画面**\n   - 从菜单中点击进入 Purchase Order Maintenance（PO3000）功能。\n   - 系统将显示采购订单列表。\n\n2. **查找目标采购订单**\n   - 浏览列表找到需要修改或删除的采购订单。\n   - 点击选中该订单。\n\n3. **修改采购订单**\n   - 在现有订单上直接修改需要变更的字段。\n   - 可修改的内容包括：\n     - 订单头信息（Header）：订单类型、折扣设置等。\n     - PO 条款（PO Terms）：预计发货日期、收货地点等。\n     - 明细项目（Detail Items）：商品代码、颜色、尺寸、数量、单价、折扣率等。\n   - 修改完成后点击保存。\n\n4. **删除采购订单**\n   - 选中需要删除的采购订单。\n   - 点击删除按钮（Delete）。\n   - 系统将要求确认删除操作。\n   - 确认后订单将被删除。\n\n注意：\n- PO 明细中各字段的系统行为需注意：\n  - Def Disc%（默认折扣率）需预先在 Supplier Master 或 Supplier PO Discount Table 中设定。\n  - Ovr Disc%（覆盖折扣率）手动输入时将覆盖默认折扣。\n  - Unit Cost（单价）若为红色字体，表示与默认成本不同，提醒用户注意。\n- 修改操作应在订单尚未进入收货流程前进行，以避免数据不一致。",
+    "source": "v7 Book-3 Section 6.1 Pages 4-8",
+    "images": [
+      "v7_Book-3_PROCESS_p004_img00.jpeg"
+    ],
+    "keywords": ["修改采购订单", "删除采购订单", "PO维护", "采购订单编辑", "Purchase Order Maintenance"]
+  },
+  {
+    "category": "收货流程",
+    "subcategory": "库存收货",
+    "question": "如何根据采购订单（PO）进行库存收货？",
+    "answer": "根据采购订单进行库存收货的操作步骤如下：\n\n1. **进入库存收货功能**\n   - 从菜单进入 Stock Receive（库存收货）功能。\n\n2. **输入或选择采购订单**\n   - 在 Stock Receive Input Against PO/DRV 画面中：\n   - 方式一：直接输入 PO 编号，点击 OK。\n   - 方式二：留空点击 OK，进入完整的 PO 选择页面。\n\n3. **选择采购订单（方式二：留空搜索）**\n   - 系统显示所有未完成的 PO 列表供用户选择。\n   - 可按不同排序路径查看 PO：\n     - PO#（采购订单编号）\n     - DRV#（交货请求编号）\n     - Supplier（供应商）\n     - Expected Delivery Date（预计交货日期）\n     - Receiving Location（收货地点）\n   - 鼠标点击高亮选择目标行，左侧会显示「V」标记表示选中。\n   - 允许同时选择多个 PO。\n   - 点击工具栏上的 Create 按钮，系统将根据所选 PO 的未完成数量自动创建收货批次，默认收货数量等于未完成数量。\n\n4. **输入收货批次头信息**\n   - 输入收货地点代码（Receiving Location）作为收货编号的前缀。\n   - 收货编号（Receive Number）部分可由用户输入或系统自动生成（如设置为系统生成则字段被保护不可输入）。\n   - 输入供应商的交货单号码（Supplier Delivery Note Number），此信息对后续的供应商发票核对非常重要。\n   - 某些字段由系统自动生成，不可手动输入。\n   - 完成所有输入字段后，点击 Item Information Folder 进入下一步。\n\n5. **输入/确认商品明细（Item Information Folder）**\n   - 收货批次支持三种收货状态：\n     - Stock Receive under PO（根据 PO 收货）\n     - Stock Receive without PO（无 PO 收货）\n     - Stock Receive under Delivery Request from a Blanket Order（根据 Blanket 订单的交货请求收货）\n   - 红色圆圈指示当前激活的收货状态。\n   - 对于颜色和尺寸有要求的商品，点击 Color & Size 按钮输入颜色和尺寸明细。\n   - 支持从外部来源导入 TEXT 数据（可选功能）。\n\n6. **保存收货信息**\n   - 所有输入完成后，点击 SAVE 按钮。\n   - 系统将进入下一步的收货确认流程。\n\n功能按钮说明：\n- Insert：插入一个商品项目\n- Delete：删除一个商品项目\n- Select PO：查询选定供应商的所有未完成 PO 并进行选择，系统将自动带入订单及默认收货数量\n- Verify：每次点击时系统验证输入数据，验证后在状态栏显示警告或错误信息\n- PO Enquiry：查询采购订单详情\n- Color & Size：输入选定商品的颜色和尺寸明细\n- Description：显示选定商品的详细描述\n- Load：从系统目录导入外部 TEXT 数据（需精确的数据格式，使用前请咨询软件顾问）\n- Model & Guarantee No.：特殊功能，不对一般用户开放；允许在收货阶段输入商品唯一的保修号和型号，每个商品编号只能关联一个保修号，因此每个商品仅允许数量为1（不支持颜色和尺寸）。",
+    "source": "v7 Book-3 Section 6.2 Pages 12-21",
+    "images": [
+      "v7_Book-3_PROCESS_p013_img00.jpeg",
+      "v7_Book-3_PROCESS_p014_img00.jpeg",
+      "v7_Book-3_PROCESS_p015_img00.jpeg",
+      "v7_Book-3_PROCESS_p016_img00.jpeg",
+      "v7_Book-3_PROCESS_p017_img00.jpeg"
+    ],
+    "keywords": ["库存收货", "Stock Receive", "采购订单收货", "PO收货", "收货批次", "供应商交货单", "收货确认"]
+  },
+  {
+    "category": "收货流程",
+    "subcategory": "库存收货",
+    "question": "如何在没有采购订单（PO）的情况下进行库存收货？",
+    "answer": "在没有采购订单的情况下进行库存收货的操作步骤如下：\n\n1. **进入库存收货功能**\n   - 从菜单进入 Stock Receive（库存收货）功能。\n\n2. **设置为无 PO 收货**\n   - 在收货信息页面中，选择收货指示器为 Without PO（无采购订单）。\n\n3. **输入收货编号和地点**\n   - 输入收货地点代码（Receiving Location Code）。\n   - 收货编号（Receiving Number）可根据参数设置选择自动生成或手动输入。\n\n4. **输入商品信息**\n   - 输入收货商品代码（Item Code）。\n   - 点击 Color & Size 按钮输入颜色和尺寸明细（如果商品有颜色和尺寸控制）。\n\n5. **填写收货数量**\n   - 输入实际收货数量。\n\n6. **保存收货信息**\n   - 点击 SAVE 按钮保存收货批次。\n   - 系统将进入下一步的收货确认流程。\n\n注意：\n- 无 PO 收货适用于直接入库的场景，如赠品、样品或紧急采购后补单等情况。\n- 同一收货批次可以同时包含有 PO 收货、无 PO 收货以及 Blanket 订单交货请求收货三种类型。\n- 输入商品代码时，如果同时输入了单价或地点信息，则商品代码为必填字段。",
+    "source": "v7 Book-3 Section 6.2 Pages 12-19",
+    "images": [
+      "v7_Book-3_PROCESS_p019_img00.jpeg",
+      "v7_Book-3_PROCESS_p019_img01.jpeg"
+    ],
+    "keywords": ["无PO收货", "库存收货 without PO", "直接入库", "Stock Receive without PO", "收货批次"]
+  },
+  {
+    "category": "收货流程",
+    "subcategory": "收货确认",
+    "question": "如何完成库存收货确认并过账（Posting）？",
+    "answer": "库存收货确认并过账的完整操作步骤如下：\n\n1. **Step 1 - 修改收货批次（Modify Receive）**\n   - 进入 Stock Receive Maintenance（收货维护）。\n   - 允许在批次内添加、修改和删除收货项目。\n   - 建议在进行下一步操作前完成所有必要的修正。\n   - 注意：在 Step 6 过账之前的任何时间，都可以回退到此维护步骤进行数据修正。\n\n2. **Step 2 - 打印收货报告（Print Receive Report）**\n   - 将收货数量打印到打印队列（Print Queue）。\n   - 用于纸质记录和核对。\n\n3. **Step 3 - 生成条形码（Generate Bar Code）**\n   - 为收货库存打印条形码标签。\n\n4. **Step 4 - 生成接口文件（Generate Interface File）**\n   - 根据收货批次数据生成 TEXT 接口文件。\n   - 此功能为系统可选功能。\n\n5. **Step 5 - 批次验证（Batch Validation）**\n   - 执行批次验证。系统要求批次在过账前必须经过验证。\n   - 验证报告将自动由系统打印到打印队列。\n   - 用户必须检查验证报告，确认无误后再进入下一步的过账步骤。\n   - 如果发现错误，用户可以随时返回之前的步骤进行修正。\n\n6. **Step 6 - 批次过账（Batch Posting）**\n   - 这是库存数量更新的最后一步。\n   - 用户必须确保批次中的所有输入数据准确无误。\n   - **过账后不允许更改数据。**\n   - **过账后数据不可回退。**\n   - 此步骤完成后，库存余额将根据实际收货数量进行更新。\n\n整个流程分为两大操作：\na) 根据实际收货数量更新库存余额（由仓库或收货地点操作）。\nb) 根据结算成本（与供应商发票核对后）更新库存加权平均成本（由财务部门或相关负责人确认）。",
+    "source": "v7 Book-3 Section 6.3 Pages 22-23",
+    "images": [
+      "v7_Book-3_PROCESS_p022_img00.jpeg",
+      "v7_Book-3_PROCESS_p023_img00.jpeg"
+    ],
+    "keywords": ["收货确认", "批次验证", "Batch Validation", "Batch Posting", "过账", "库存更新", "收货报告", "条形码"]
+  },
+  {
+    "category": "库存转移",
+    "subcategory": "库存转移",
+    "question": "如何创建和执行库存转移（Stock Transfer）？",
+    "answer": "创建和执行库存转移的操作步骤如下：\n\n1. **进入库存转移功能**\n   - 路径：Process > Stock Transfer > Stock Transfer (Carton)。\n   - 菜单功能编号：TF6000。\n\n2. **创建转移批次**\n   - 点击工具栏上的 Create 按钮，系统将创建一个新的库存转移批次。\n   - 输入相关的转移地点和库存信息。\n\n3. **按照工作流程顺序执行以下步骤**\n   \n   **Step 1 - Batch Maintenance（批次维护）**\n   - 创建转移记录（Create Record）\n   - 修改转移记录（Modify Record）\n   - 删除转移记录（Delete Record）\n   - 点击 Batch Maintenance 输入初始信息。\n\n   **Step 2 - Batch Validation（批次验证）**\n   - 验证批次数据的正确性。\n\n   **Step 3 - Generate Pick List（生成拣货单）**\n   - 生成 Transfer Pick List。\n   - 仓库人员根据此拣货单的信息进行商品转移。\n\n   **Step 4 - Batch Amendment（批次修正）**\n   - 如果 Step 3 已完成，批次的修改只能通过此流程进行。\n\n   **Step 5 - Print Amendment List（打印修正清单）**\n   - 生成 Transfer Amendment List。\n   - 这是仓库人员在执行商品转移时应参考的最新清单。\n\n   **Step 6 - Generate Labels & D/O（生成标签和交货单）**\n   - 生成标签和交货单（Delivery Note）。\n\n   **Step 7 - Batch Posting（批次过账）**\n   - 最终过账，更新库存数量。\n\n4. **批次状态说明**\n   - Input：批次处于数据输入模式\n   - Validated：批次已通过验证\n   - Pick Gen.：拣货单生成流程已完成\n   - Amd Create：批次修正已创建\n   - Amd Print：修正清单生成流程已完成\n   - Label Prt：标签和交货单生成流程已完成\n   - Partly Pst：过账时发生错误，批次需要重新过账\n\n5. **其他功能**\n   - Modify Description：修改描述\n   - Modify Remark：修改备注\n   - Scratch Batch：废弃批次\n   - Clear In Use Status：清除使用中状态\n   - Change Status：更改状态\n   - Search Up / Search Down：上下搜索\n\n注意：以上功能有顺序依赖关系，必须按照工作流程顺序执行。本系统称为 Location Oriented Transfer（面向地点的转移），适用于将一个地点的大量商品转移到一个或多个其他地点的情况。",
+    "source": "v7 Book-3 Section 6.4 Pages 24-28",
+    "images": [
+      "v7_Book-3_PROCESS_p027_img00.jpeg",
+      "v7_Book-3_PROCESS_p027_img01.jpeg",
+      "v7_Book-3_PROCESS_p028_img00.jpeg",
+      "v7_Book-3_PROCESS_p028_img01.jpeg"
+    ],
+    "keywords": ["库存转移", "Stock Transfer", "地点间转移", "Location Transfer", "批次维护", "拣货单", "转移批次", "TF6000"]
+  },
+  {
+    "category": "库存转移",
+    "subcategory": "库存转移接收确认",
+    "question": "如何确认库存转移的接收（Stock Transfer Receive Confirmation）？",
+    "answer": "确认库存转移接收的操作步骤如下：\n\n1. **进入接收确认功能**\n   - ChainStorePlus 要求所有库存转移操作都必须执行接收确认流程。\n   - 这是一个控制流程，确保转出数量被接收方正确接收并确认。\n\n2. **选择库存转移记录**\n   - 点击或按回车选择需要确认的库存转移记录。\n\n3. **确认接收数量**\n   - 系统显示转移交货单（D/N）的数量和收货数量（Rec Qty）列。\n   - Rec Qty 列默认填充为等于 D/N Qty 的数值。\n   - 如果实际接收数量与交货单数量一致，直接确认无需修改。\n   - 如果存在差异，在 Rec Qty 列修改为实际接收数量。\n     - 例如：D/N = 8 件，实际接收 = 7 件，将 Rec Qty 修改为 7。\n   - Var. 列（差异数量）将在输入后自动显示差异值。\n\n4. **确认输入正确**\n   - 检查差异数量是否正确。\n   - 确认提交。\n\n5. **差异处理**\n   - 如果交货和接收数量不一致，系统将自动生成差异记录（Discrepancy Record）。\n   - 这些差异记录需要后续通过手动恢复和调整流程（Stock Transfer Receive Recovery & Adjustment）处理。\n   - 将在下一节（6.6）中详细讨论。\n\n注意：此控制流程是确保库存转移准确性的关键步骤，建议认真核对实际收货数量。",
+    "source": "v7 Book-3 Section 6.5 Pages 29-30",
+    "images": [
+      "v7_Book-3_PROCESS_p029_img00.jpeg",
+      "v7_Book-3_PROCESS_p029_img01.jpeg",
+      "v7_Book-3_PROCESS_p029_img02.jpeg",
+      "v7_Book-3_PROCESS_p030_img00.jpeg",
+      "v7_Book-3_PROCESS_p030_img01.jpeg",
+      "v7_Book-3_PROCESS_p030_img02.jpeg"
+    ],
+    "keywords": ["转移接收确认", "Stock Transfer Receive Confirmation", "接收数量确认", "差异记录", "库存转移接收"]
+  },
+  {
+    "category": "库存转移",
+    "subcategory": "库存转移差异调整",
+    "question": "如何处理库存转移数量差异（Recovery & Adjustment）？",
+    "answer": "处理库存转移数量差异的操作步骤如下：\n\n1. **进入差异恢复功能**\n   - 此功能用于处理库存转移过程中不同地点之间的数量差异。\n   - 当库存转移的接收方确认收货数量不一致时，需要确定责任方。\n\n2. **查看差异记录列表**\n   - 系统仅显示存在差异的转移记录。\n   - 所有记录按 Transfer Reference Order Numbers（转移参考单号）排序显示。\n   - 标记为 * 的记录表示等待处理（Recovery）。\n\n3. **选择需要处理的转移单**\n   - 从列表中选择一个带 * 标记的转移记录。\n\n4. **输入恢复明细（Stock Transfer Recovery Detail Input）**\n   - 系统显示该转移单的差异详细信息。\n   - 用户需要判断哪个部门/方应对差异数量负责：\n     - 转出方（Sending party）：如果责任在发货方\n     - 接收方（Receiving party）：如果责任在收货方\n     - 双方各承担一部分：按比例分配差异\n\n5. **系统生成调整记录**\n   - 根据用户的责任分配输入，系统将自动生成适当的调整记录来恢复此差异。\n\n6. **特殊情况处理**\n   - 如果双方都不对差异负责（例如运输途中丢失且无法追责），用户需要通过执行 Physical Adjustments（物理调整）来写销（write off）该差异。\n   - 此操作独立于本应用程序，需要单独执行。\n\n注意：及时处理差异记录有助于保持库存数据的准确性，建议在发现差异后尽快处理。",
+    "source": "v7 Book-3 Section 6.6 Pages 31-32",
+    "images": [
+      "v7_Book-3_PROCESS_p031_img00.jpeg",
+      "v7_Book-3_PROCESS_p032_img00.jpeg"
+    ],
+    "keywords": ["转移差异调整", "Stock Transfer Recovery", "数量差异", "责任方确认", "调整记录", "写销", "库存差异处理"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "物理调整",
+    "question": "如何进行库存物理调整（Physical Adjustment）？",
+    "answer": "进行库存物理调整的操作步骤如下：\n\n1. **进入物理调整功能**\n   - 从菜单进入 Physical Adjustment Process。\n   - Physical Adjustment 允许用户对库存数量进行修正，并保留历史日志。\n\n2. **菜单画面操作**\n   - 在菜单画面中创建新的物理调整批次。\n\n3. **批次维护画面 - 输入头信息（Batch Maintenance Screen）**\n   - 各字段说明：\n     - Ref. No.（参考编号）：9(08)，仅显示，系统在记录确认时自动生成，用于物理 I/O 记录的参考编号。\n     - Date（日期）：格式 dd/mm/yyyy，必填字段。\n     - Reason Code（原因代码）：X(02)，必填字段，唯一代码用于标识特定原因（在 Reason Table Maintenance 中预定义）。\n     - Location Code（地点代码）：X(04)，必填字段，执行物理 I/O 操作的地点，旁边会显示地点描述。\n     - Remarks（备注）：X(40)，必填字段，特定物理 I/O 记录的备注说明。\n\n4. **批次维护画面 - 输入商品明细**\n     - Seq（序号）：9(03)，仅显示，商品信息的顺序编号，每个参考编号最多 200 个序号。\n     - Item No.（商品编号）：X(14)，每个参考编号至少需要一个商品。\n     - Col（颜色）：X(04)，如果商品有颜色控制则为必填字段。\n     - Size（尺寸）：X(04)，如果商品有尺寸控制则为必填字段。\n     - Adjust（调整数量）：S9(07)，必填字段，对应商品的调整数量（正数为增加，负数为减少）。\n     - Description（描述）：X(40)，可选，仅供参考。\n     - Total（总计）：S9(07)，仅显示，总调整数量。\n\n5. **执行验证和过账**\n   1. Batch Maintenance（批次维护）：创建、修改、删除记录\n   2. Batch Validation（批次验证）：验证数据\n   3. Batch Posting（批次过账）：最终过账\n\n6. **其他功能**\n   - Modify Description：修改描述\n   - Scratch Batch：废弃批次\n   - Clear In Use Status：清除使用中状态\n   - Change Status：更改状态（Input, Validated）\n   - Search Up / Search Down：上下搜索\n\n7. **批次状态说明**\n   - Input：批次正在输入中\n   - Validated：批次已通过验证\n   - Partly Pst：过账时发生错误，需要重新过账",
+    "source": "v7 Book-3 Section 6.7 Pages 33-36",
+    "images": [
+      "v7_Book-3_PROCESS_p034_img00.jpeg",
+      "v7_Book-3_PROCESS_p034_img01.jpeg",
+      "v7_Book-3_PROCESS_p035_img00.jpeg"
+    ],
+    "keywords": ["物理调整", "Physical Adjustment", "库存修正", "调整原因", "批次过账", "库存调整", "库存日志"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "实物盘点",
+    "question": "如何冻结库存数量以准备实物盘点（Freeze On Hand Quantity）？",
+    "answer": "冻结库存数量以准备实物盘点的操作步骤如下：\n\n1. **前期准备 - 清理未完成批次**\n   - 在开始盘点之前，清理盘点地点的所有未完成数据批次。\n   - 确保所有 outstanding batch 都已过账。\n\n2. **进入冻结功能**\n   - 从 Physical Count Process 功能中选择 Freeze On Hand Quantity。\n\n3. **输入冻结范围**\n   - Stock Freeze Operation 画面显示，要求输入 Stock Freeze Range。\n   - 如果要对所有商品进行冻结，将范围留空（Leave Blank for Select ALL）。\n   - 也可以指定特定的商品范围进行冻结。\n\n4. **确认冻结**\n   - 选择范围后点击 Confirm 确认。\n   - 系统将以当前系统日期冻结商品的当前库存数量状态。\n   - 系统会显示处理进度，完成后显示完成消息。\n\n5. **重要注意事项**\n   - **在 Stock Freeze 到 Physical Stock Counting Complete 期间，盘点地点不允许有任何库存移动更新或活动。**\n   - 必须确保在冻结期间没有入库、出库、转移等操作影响该地点的库存。\n   - 后续的库存差异计算将基于此冻结数量与实际盘点数量进行比较。\n\n6. **后续流程**\n   - 冻结完成后，即可开始实际的库存盘点操作。\n   - 盘点完成后，可以将实际盘点数据输入系统（手工输入或手持设备上传）。\n   - 实际盘点输入完成后，可以恢复该地点的正常库存活动。\n\n7. **计算公式**\n   - 过账后的库存数量计算公式：\n     Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand)\n     其中：\n     - Current_On_Hand：当前库存数量\n     - Physical_On_Hand：实际盘点数量\n     - Freeze_On_Hand：冻结时的库存数量\n\n8. **未盘点商品的处理**\n   - 如果存在于该地点但在实物盘点记录中未输入的商品，过账后其库存数量将被设置为零。",
+    "source": "v7 Book-3 Section 6.8 Pages 37-43",
+    "images": [
+      "v7_Book-3_PROCESS_p041_img00.jpeg",
+      "v7_Book-3_PROCESS_p042_img00.jpeg",
+      "v7_Book-3_PROCESS_p042_img01.jpeg",
+      "v7_Book-3_PROCESS_p043_img00.jpeg",
+      "v7_Book-3_PROCESS_p043_img01.jpeg",
+      "v7_Book-3_PROCESS_p043_img02.jpeg"
+    ],
+    "keywords": ["冻结库存", "Freeze On Hand", "实物盘点准备", "库存冻结", "Physical Count", "盘点冻结", "Stock Freeze"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "实物盘点",
+    "question": "如何输入实物盘点数据（Physical Count Stock Input）？",
+    "answer": "输入实物盘点数据的操作步骤如下：\n\n1. **前提条件**\n   - 必须已完成 Freeze On Hand Quantity（冻结库存数量）操作。\n   - 实物盘点工作应已实际完成，确保数据准确。\n\n2. **进入实物盘点输入批次功能**\n   - 在完成库存冻结操作后，从 Physical Count Process 进入 Physical Count Stock Input Batch。\n\n3. **恢复库存活动（可选）**\n   - 注意：由于实物盘点在此输入阶段应已完成，用户可以恢复盘点地点的正常库存活动。\n   - **但必须确保实物盘点已完全完成。**\n\n4. **输入批次头信息**\n   - Ref. No.（参考编号）：9(08)，仅显示，系统在记录确认时自动生成，用于实物盘点记录的参考编号。\n   - Date（日期）：格式 dd/mm/yyyy，必填字段，实物盘点记录的录入日期。\n   - Count Sheet No.（盘点表编号）：X(15)，必填字段，用于参考的盘点表编号。\n   - Remarks（备注）：X(20)，可选字段，实物盘点记录的备注说明。\n\n5. **输入商品明细**\n   - Item No.（商品编号）：X(14)，每个记录至少需要一个商品。\n   - Col.（颜色）：如果商品有颜色控制则为必填字段。\n   - Size（尺寸）：如果商品有尺寸控制则为必填字段。\n   - Quantity（数量）：9(08)，必填字段，实际盘点数量。\n   - Description（描述）：可选，仅供参考。\n   - Total Qty（总数量）：9(08)，仅显示，记录的总盘点数量。\n\n6. **注意事项**\n   - 同一商品可多次输入，因为系统后续会进行合并处理（consolidation）。\n   - 如果导入数据与系统现有数据不同，系统会生成 Physical Adjustment Journal。",
+    "source": "v7 Book-3 Section 6.8 Pages 43-45",
+    "images": [
+      "v7_Book-3_PROCESS_p044_img00.jpeg",
+      "v7_Book-3_PROCESS_p044_img01.jpeg",
+      "v7_Book-3_PROCESS_p044_img02.jpeg"
+    ],
+    "keywords": ["实物盘点输入", "Physical Count Input", "盘点数据录入", "盘点表", "Count Sheet", "盘点批次"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "实物盘点",
+    "question": "如何验证并过账实物盘点结果（Validation, Variance Report & Posting）？",
+    "answer": "验证实物盘点结果并完成过账的操作步骤如下：\n\n**Step 3a - 数据验证（Stock Count Validation）**\n1. 在完成实物盘点数据输入并确认无误后，执行验证操作。\n2. 进入 Batch Validation 功能。\n3. 系统将对输入数据进行验证。\n\n**Step 3b - 打印差异报告（Variance Report Printing）**\n1. 验证完成后，系统提示打印 Stock Variance Report（库存差异报告）。\n2. 点击 OK 确认。\n3. 系统显示处理进度。\n4. 完成后显示完成消息。\n5. 差异报告将显示冻结数量与实际盘点数量之间的差异。\n\n**Step 4 - 批次过账（Stock Take Posting）**\n1. 这是实物盘点流程的最后一步。\n2. 系统将使用最终验证的盘点数据与冻结数量进行比较。\n3. 点击 Batch Posting 按钮执行过账。\n4. 系统显示处理进度。\n5. 完成后显示完成消息。\n\n6. **过账后的库存计算公式**\n   - 过账后库存 = Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand)\n   - Current_On_Hand：当前库存数量\n   - Physical_On_Hand：实际盘点数量\n   - Freeze_On_Hand：冻结时的库存数量\n\n7. **过账后的效果**\n   - 库存数量将更新为实际盘点结果。\n   - 如果存在差异，系统将生成相应的更新日志/历史记录（Update journal / history records）。\n   - 对于在盘点记录中未输入但存在于该地点的商品，过账后其库存数量将被设置为零。\n\n**完整工作流程回顾**\n1. 过账所有未完成批次\n2. Freeze On-Hand qty and average cost（冻结库存数量和平均成本）\n3. Physical Stock Take at location / Fill in Count sheet（实地盘点/填写盘点表）\n4. Batch Maintenance（输入盘点数据）\n5. Batch Validation & Variance Report（验证并打印差异报告）\n6. Batch Posting（过账）",
+    "source": "v7 Book-3 Section 6.8 Pages 37-47",
+    "images": [
+      "v7_Book-3_PROCESS_p046_img00.jpeg",
+      "v7_Book-3_PROCESS_p046_img01.jpeg",
+      "v7_Book-3_PROCESS_p046_img02.jpeg",
+      "v7_Book-3_PROCESS_p046_img03.jpeg",
+      "v7_Book-3_PROCESS_p046_img04.jpeg",
+      "v7_Book-3_PROCESS_p047_img00.jpeg",
+      "v7_Book-3_PROCESS_p047_img01.jpeg",
+      "v7_Book-3_PROCESS_p047_img02.jpeg"
+    ],
+    "keywords": ["盘点验证", "Batch Validation", "差异报告", "Variance Report", "盘点过账", "Batch Posting", "Stock Take", "库存盘点"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "实物盘点",
+    "question": "实物盘点（Physical Count）的完整流程是什么？",
+    "answer": "实物盘点的完整流程如下：\n\n**目标：** 在实际盘点库存后执行库存更新。\n\n**先决条件：**\n- 在创建实物盘点批次信息之前，必须先处理 Freeze On Hand Quantity（冻结库存数量）。\n- 由于最终的过账操作通常远晚于盘点数据输入，冻结流程对于正确计算过账后的库存数量至关重要。\n\n**完整操作流程：**\n\n**第1步：冻结库存数量（Freeze On Hand Quantity）**\n- 清理盘点地点的所有未完成数据批次。\n- 执行 Stock Freeze，输入冻结范围（留空为选择所有商品）。\n- 确认后系统以当前日期冻结库存状态。\n- 重要：冻结至盘点完成期间，盘点地点不允许有任何库存移动。\n\n**第2步：创建盘点批次并输入数据（Batch Maintenance）**\n- 针对特定地点创建新的批次。\n- 输入盘点表编号（Count Sheet No.）、日期和商品明细。\n- 同一商品可多次输入，系统后续会合并处理。\n- 此时可恢复盘点地点的正常库存活动（前提是实物盘点已完全完成）。\n\n**第3步：验证并生成差异报告（Validation & Variance Report）**\n- 执行 Batch Validation 验证数据。\n- 系统自动打印 Stock Variance Report 到打印队列。\n- 检查差异报告，确认是否需要进行调整。\n\n**第4步：过账（Batch Posting）**\n- 执行最终过账。\n- 过账后库存 = Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand)。\n- 如果存在差异，系统生成 Physical Adjustment Journal。\n- 未在盘点记录中输入的商品将被设置为零库存。\n- 过账后不可回退。\n\n**支持的功能：**\n1. Freeze On Hand Quantity（冻结数量）\n2. Batch Maintenance（批次维护）：创建/修改/删除记录\n3. Batch Validation（批次验证）\n4. Batch Posting（过账）\n5. Modify Description（修改描述）\n6. Scratch Batch（废弃批次）\n7. Clear In Use Status（清除使用中状态）\n8. Change Status（更改状态：Input, Validated）\n\n**批次状态说明：**\n- Input：批次正在输入\n- Validated：批次已验证\n- Partly Pst：过账时出错，需要重新过账\n\n**支持两种数据输入方式：**\n- 手工数据输入（Manual Data Input）\n- 手持扫描设备输入（Hand Held Scanner Input）",
+    "source": "v7 Book-3 Section 6.8 Pages 37-47",
+    "images": [
+      "v7_Book-3_PROCESS_p041_img00.jpeg",
+      "v7_Book-3_PROCESS_p042_img00.jpeg",
+      "v7_Book-3_PROCESS_p044_img00.jpeg",
+      "v7_Book-3_PROCESS_p046_img00.jpeg",
+      "v7_Book-3_PROCESS_p047_img00.jpeg"
+    ],
+    "keywords": ["实物盘点流程", "Physical Count Process", "盘点工作流", "库存盘点", "Stock Take", "盘点完整流程"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "退货给供应商",
+    "question": "如何创建退货给供应商的单据（Return to Suppliers）？",
+    "answer": "创建退货给供应商的单据操作步骤如下：\n\n1. **进入功能**\n   - 从菜单进入 Return to Suppliers（RTS）功能。\n   - 此功能允许用户将商品退回给供应商，适用于错误交货、产品损坏等情况。\n\n2. **按照工作流程执行**\n   **Step 1 - Batch Maintenance（批次维护 - Header Information Folder）**\n   - 点击 Create 创建新的退货批次。\n   - 输入以下头信息字段：\n     - Return No.（退货编号）：X(08)，必填字段，特定退货单的参考编号。\n     - Date（日期）：格式 99/99/9999，必填字段（dd/mm/yyyy），退货日期。\n     - Return Type（退货类型）：X(01)，必填字段，退货类型：Normal（正常）或 Consignment（代销）。\n     - Supplier（供应商）：X(08)，必填字段，供应商名称。\n     - Supplier Ref.（供应商参考号）：X(08)，可选字段，供应商的参考编号。\n     - Transfer Ref.（转移参考号）：X(08)，可选字段，转移的参考编号。\n     - Currency（货币）：X(03)，必填字段，货币代码（如 HKD、USD 等）。\n     - Ex. Rate（汇率）：9(05).(05)，显示字段，基础货币与外币之间的汇率。\n     - Total Ret. Qty（退货总数量）：X(08)，仅显示。\n     - Ret. Amt.（退货金额）：X(08)，仅显示。\n     - Discount Amt.（折扣金额）：X(08)，仅显示。\n     - Net Return Amt.（退货净额）：9(09).(02)，显示字段，计算公式：总金额 x (1 - 折扣/100) - 其他折扣 + 其他费用。\n     - Remarks（备注）：X(79)，两行文本描述用于备注输入。\n\n   **Step 2 - 输入商品明细（Manage Item Folder）**\n   - Item（商品）：X(09)，可选字段，如果输入了单价或地点则必填。\n   - Unit Price（单价）：(+/-)9(08).9(02)，可选字段，留空/空格则分配零价格。\n   - Loc.（地点）：X(04)，必填字段，执行退货交易的地点代码。\n   - Qty（数量）：(+/-)9(07)，可选字段，如果商品没有颜色和尺寸，则数量字段变为必填字段。\n   - Unit（单位）：X(04)，显示字段，自动从商品主文件记录中检索用户预定义的计量单位。\n   - Rec. Amt.（收货金额）：(+/-)9(08).9(02)，显示字段，总金额 = 单价 x 数量，系统自动计算。\n   - Total Qty/Amt.（总数量/总金额）：显示字段，该交货单中交货的商品总数量和总金额。\n\n   **Step 3 - Batch Validation（批次验证）**\n   - 验证批次数据。\n\n   **Step 4 - Generate RTS List（生成退货清单）**\n   - 生成退货清单。\n\n   **Step 5 - Generate RTS Note（生成退货单）**\n   - 生成退货单。\n\n   **Step 6 - Batch Posting（批次过账）**\n   - 最终过账，更新库存。\n\n3. **批次状态说明**\n   - Input：批次处于数据输入模式\n   - Validated：批次已验证\n   - RTS List：退货清单已生成\n   - RTS Note：退货单已生成",
+    "source": "v7 Book-3 Section 6.9 Pages 48-53",
+    "images": [
+      "v7_Book-3_PROCESS_p049_img00.jpeg",
+      "v7_Book-3_PROCESS_p050_img00.jpeg",
+      "v7_Book-3_PROCESS_p052_img00.jpeg"
+    ],
+    "keywords": ["退货给供应商", "Return to Suppliers", "RTS", "退货单", "退货流程", "供应商退货", "退货类型", "Normal", "Consignment"]
+  },
+  {
+    "category": "配送流程",
+    "subcategory": "交货单 - 出库",
+    "question": "如何创建交货单进行库存出库（Delivery Order - Stock Out）？",
+    "answer": "创建交货单进行库存出库的操作步骤如下：\n\n**概念说明：**\nDelivery Order Process - Stock Out 允许用户使用自定义的交易代码来处理库存出库。常见的出库交易类型包括：\n- Internal Use（内部使用）\n- Internal Sales（内部销售）\n- Give Away Samples（赠送样品）\n- Sponsorship（赞助）\n- Special Project Usage（特殊项目使用）\n- Write Off（报废）\n\n**操作步骤：**\n\n1. **进入功能**\n   - 从菜单进入 Delivery Order - The Stock Out Process。\n   - 首先创建新批次（Create New Batch）。\n   - 点击 Batch Maintenance。\n\n2. **输入头信息（Header Information Folder）**\n   - Pick Ref. No.（拣货参考编号）：X(08)，仅显示，特定交货单的参考编号。\n   - Date（日期）：格式 99/99/9999，必填字段（dd/mm/yyyy），商品从此日期开始提取。\n   - Dept. No.（部门编号）：X(01)，必填字段，预设的处理此交货单交易的部门代码。\n   - Customer Data Input（客户数据输入）：可选。\n   - Customer Name（客户名称）：X(08)，必填字段。\n   - Address（地址）：必填字段。\n   - Del. Date（交货日期）：格式 99/99/9999，必填字段（dd/mm/yyyy），订单需在此日期前交货。\n   - Remarks（备注）：X(80)，可选字段，此拣货单的任何备注。\n   - Project no.（项目编号）：X(07)，可选字段，预定义的项目 ID，如果交易基于项目则需要输入。\n\n3. **输入货币和金额信息**\n   - Currency（货币）：X(03)，必填字段，货币代码（如 HKD、USD 等）。\n   - Ex. Rate（汇率）：9(05).(05)，显示字段。\n   - Discount（折扣）：9(03).(02)，可选字段，交货单的折扣百分比。\n   - Total Amt.（总金额）：9(09).(02)，显示字段。\n   - Other Disc/Adj（其他折扣/调整）：9(09).(02)，可选字段。\n   - Other Charg/Adj（其他费用/调整）：9(09).(02)，可选字段。\n   - Net Total Amt.（净额）：9(09).(02)，显示字段，计算公式：Total Amt. x (1 - Discount/100) - Other Disc. + Other Charge。\n\n4. **输入备注（Remarks Folder）**\n   - Remarks（备注）：X(79)，最多 20 行文本描述。\n\n5. **输入商品明细（Manage Item Folder）**\n   - Item（商品）：X(09)，可选字段，如果输入了单价或地点则必填。\n   - Trx（交易代码）：X(03)，必填字段，用户预定义并分配给此交货单的交易代码。\n   - Unit Price（单价）：(+/-)9(08).9(02)，可选字段，留空则分配零价格。\n   - Loc.（地点）：X(04)，必填字段，执行交货单交易的地点代码。\n   - Qty（数量）：(+/-)9(07)，可选字段，如果商品没有颜色和尺寸，则数量字段变为必填字段。\n   - Unit（单位）：X(04)，显示字段，自动从商品主文件检索。\n   - Rec. Amt.（金额）：(+/-)9(08).9(02)，显示字段，系统自动计算。\n   - Total Qty/Amt.（总数量/总金额）：显示字段。\n\n6. **执行工作流程**\n   **Step 1:** D/O Data Maintenance（交货单数据维护）\n   **Step 2:** D/O Batch Validation（批次验证）- 点击 Batch Validation，系统弹出消息框，点击 OK 完成，显示完成消息。\n   **Step 3:** Print Pick List（打印拣货单）- 点击 Generate Pick Up，系统弹出消息框，点击 OK 完成。\n   **Step 4:** Batch Amendment（批次修正）- 可在需要时修改。\n   **Step 5:** Print Amendment List（打印修正清单）\n   **Step 6:** Print Delivery Order（打印交货单）- 点击 Print Delivery Order，系统弹出消息框，点击 OK 完成。用户也可以从右上角的三个垂直点菜单中选择保存为 Delivery Order。\n   **Step 7:** Batch Posting（批次过账）- 最终过账。\n\n注意：以上功能有顺序依赖关系，必须按工作流程顺序执行。",
+    "source": "v7 Book-3 Section 6.10 Pages 54-65",
+    "images": [
+      "v7_Book-3_PROCESS_p056_img00.jpeg",
+      "v7_Book-3_PROCESS_p056_img01.jpeg",
+      "v7_Book-3_PROCESS_p056_img02.jpeg",
+      "v7_Book-3_PROCESS_p056_img03.jpeg",
+      "v7_Book-3_PROCESS_p056_img04.jpeg",
+      "v7_Book-3_PROCESS_p057_img00.jpeg",
+      "v7_Book-3_PROCESS_p057_img01.jpeg",
+      "v7_Book-3_PROCESS_p058_img00.jpeg",
+      "v7_Book-3_PROCESS_p059_img00.jpeg",
+      "v7_Book-3_PROCESS_p060_img00.jpeg",
+      "v7_Book-3_PROCESS_p061_img00.jpeg",
+      "v7_Book-3_PROCESS_p061_img01.jpeg",
+      "v7_Book-3_PROCESS_p062_img00.jpeg",
+      "v7_Book-3_PROCESS_p062_img01.jpeg",
+      "v7_Book-3_PROCESS_p062_img02.jpeg",
+      "v7_Book-3_PROCESS_p062_img03.jpeg",
+      "v7_Book-3_PROCESS_p063_img00.jpeg",
+      "v7_Book-3_PROCESS_p063_img01.jpeg",
+      "v7_Book-3_PROCESS_p063_img02.jpeg",
+      "v7_Book-3_PROCESS_p063_img03.jpeg",
+      "v7_Book-3_PROCESS_p064_img00.jpeg",
+      "v7_Book-3_PROCESS_p064_img01.jpeg",
+      "v7_Book-3_PROCESS_p064_img02.jpeg",
+      "v7_Book-3_PROCESS_p065_img00.jpeg",
+      "v7_Book-3_PROCESS_p065_img01.jpeg"
+    ],
+    "keywords": ["交货单出库", "Delivery Order Stock Out", "库存出库", "拣货单", "交易代码", "自定义交易类型", "出库流程", "D/O"]
+  },
+  {
+    "category": "配送流程",
+    "subcategory": "交货单 - 出库",
+    "question": "如何验证并最终过账交货单出库（Batch Validation & Posting for D/O Stock Out）？",
+    "answer": "验证并最终过账交货单出库的操作步骤如下：\n\n**批次验证（Batch Validation）**\n1. 在完成交货单数据维护后，点击 Batch Validation。\n2. 系统弹出确认消息框。\n3. 点击 OK 确认执行验证。\n4. 验证完成后系统显示完成消息。\n\n**生成拣货单（Generate Pick Up / Print Pick List）**\n1. 验证通过后，点击 Generate Pick Up。\n2. 系统弹出消息框。\n3. 点击 OK 确认。\n4. 生成完成后显示完成消息。\n5. 仓库人员根据拣货单进行拣货。\n\n**批次修正（Batch Amendment - 可选）**\n1. 如果拣货单生成后发现需要修改，可通过 Batch Amendment 进行。\n2. 修改后打印修正清单（Print Amendment List）。\n\n**打印交货单（Print Delivery Order）**\n1. 点击 Print Delivery Order。\n2. 系统弹出消息框。\n3. 点击 OK 确认。\n4. 完成后显示完成消息。\n5. 用户也可以从右上角的三个垂直点菜单中选择 Save as Delivery Order 保存。\n\n**批次过账（Batch Posting）**\n1. 这是最后一步。\n2. 执行过账后，库存数据将正式更新。\n3. 过账后数据不可回退。\n\n**完整的工作流程顺序：**\n1. D/O Data Maintenance（交货单数据维护）\n2. D/O Batch Validation（批次验证）\n3. Print Pick List（打印拣货单）\n4. Batch Amendment（批次修正）\n5. Print Amendment List（打印修正清单）\n6. Print Delivery Order（打印交货单）\n7. Batch Posting（批次过账）\n\n注意：这些功能有严格的顺序依赖关系，必须按顺序执行，不可跳跃。",
+    "source": "v7 Book-3 Section 6.10 Pages 61-65",
+    "images": [
+      "v7_Book-3_PROCESS_p062_img00.jpeg",
+      "v7_Book-3_PROCESS_p062_img01.jpeg",
+      "v7_Book-3_PROCESS_p062_img02.jpeg",
+      "v7_Book-3_PROCESS_p062_img03.jpeg",
+      "v7_Book-3_PROCESS_p063_img00.jpeg",
+      "v7_Book-3_PROCESS_p063_img01.jpeg",
+      "v7_Book-3_PROCESS_p063_img02.jpeg",
+      "v7_Book-3_PROCESS_p063_img03.jpeg",
+      "v7_Book-3_PROCESS_p064_img00.jpeg",
+      "v7_Book-3_PROCESS_p064_img01.jpeg",
+      "v7_Book-3_PROCESS_p064_img02.jpeg",
+      "v7_Book-3_PROCESS_p065_img00.jpeg",
+      "v7_Book-3_PROCESS_p065_img01.jpeg"
+    ],
+    "keywords": ["批次验证", "Batch Validation", "过账", "Posting", "拣货单", "Print Pick List", "交货单打印", "出库过账"]
+  },
+  {
+    "category": "配送流程",
+    "subcategory": "交货单 - 入库",
+    "question": "如何创建交货单进行库存入库（Delivery Order - Stock In）？",
+    "answer": "创建交货单进行库存入库的操作步骤如下：\n\n1. **进入功能**\n   - 从菜单进入 Delivery Order Process - Stock In（交货单入库流程）。\n   - 此功能用于处理库存入库操作。\n\n2. **系统原理**\n   - 系统将入库数据作为 Physical Adjustment（物理调整）的一种形式处理。\n   - 使用用户自定义的交易代码（Transaction Codes）进行区分。\n   - 更新机制与 Delivery Order - Stock Out 流程相同，但计算方向相反（逆向计算）。\n\n3. **操作步骤**\n   - 创建新批次（Create New Batch）。\n   - 点击 Batch Maintenance 进入批次维护。\n\n4. **输入头信息**\n   - 参考 Delivery Order Stock Out 的头信息字段，主要包括：\n   - 日期、部门编号、客户名称、交货日期、货币、汇率等。\n\n5. **输入商品明细**\n   - 输入商品代码、入库交易代码、单价、地点、数量等信息。\n   - 入库交易代码由用户自定义，用于标识不同的入库原因。\n\n6. **执行工作流程**\n   - Batch Validation（批次验证）\n   - Batch Posting（批次过账）\n\n注意：具体操作细节与 Stock Out 流程相似，但因库存方向相反，对库存的影响是增加而非减少。",
+    "source": "v7 Book-3 Section 6.11 Pages 66-67",
+    "images": [
+      "v7_Book-3_PROCESS_p066_img00.jpeg",
+      "v7_Book-3_PROCESS_p066_img01.jpeg",
+      "v7_Book-3_PROCESS_p067_img00.jpeg"
+    ],
+    "keywords": ["交货单入库", "Delivery Order Stock In", "库存入库", "入库流程", "D/O Stock In", "自定义交易代码"]
+  },
+  {
+    "category": "库存转移",
+    "subcategory": "库存转移",
+    "question": "如何使用手持扫描设备执行库存转移（Hand Held Scanner Transfer）？",
+    "answer": "使用手持扫描设备执行库存转移的工作流程说明：\n\n1. **系统支持两种数据输入方式**\n   - 手工数据输入（Manual Data Input）：按照标准工作流程执行。\n   - 手持扫描设备输入（Hand Held Scanner Input）：通过手持条码扫描器完成数据采集。\n\n2. **手工输入的工作流程**\n   1. Batch Maintenance（批次维护）\n   2. Batch Validation（批次验证）\n   3. Generate Pick List（生成拣货单）\n   4. Batch Amendment（批次修正）\n   5. Print Amendment List（打印修正清单）\n   6. Generate Labels & D/O（生成标签和交货单）\n   7. Batch Posting（批次过账）\n\n3. **手持扫描设备的工作流程**\n   - 与手工输入流程不同，手持扫描设备的工作流程单独设计。\n   - 通常可以通过手持设备直接扫描商品条码和位置信息，减少人工输入错误。\n   - 数据采集完成后导入系统进行处理。\n\n4. **系统特性**\n   - 此流程称为 Location Oriented Transfer（面向地点的转移）。\n   - 特别适用于将大量商品从一个地点转移到另一个或多个地点的情况。\n   - 使用手持设备可以显著提高盘点效率和准确性。\n\n注意：具体的手持扫描设备操作方式可能因设备型号和系统配置而异，请参考相关设备手册。",
+    "source": "v7 Book-3 Section 6.4 Pages 24-26",
+    "images": [
+      "v7_Book-3_PROCESS_p026_img00.jpeg"
+    ],
+    "keywords": ["手持扫描", "Hand Held Scanner", "库存转移扫描", "条码扫描", "Location Transfer", "移动设备盘点"]
+  },
+  {
+    "category": "库存管理",
+    "subcategory": "退货给供应商",
+    "question": "如何完成退货给供应商的验证和过账？",
+    "answer": "完成退货给供应商的验证和过账操作步骤如下：\n\n**1. 批次验证（Batch Validation）**\n   - 在完成退货批次数据输入后，执行 Batch Validation。\n   - 系统会验证退货数据的完整性，包括供应商信息、商品代码、数量等。\n   - 验证通过后，批次状态变为 Validated。\n\n**2. 生成退货清单（Generate RTS List）**\n   - 验证通过后，点击 Generate RTS List。\n   - 系统生成退货清单，供仓库人员拣货参考。\n   - 生成后，批次状态变为 RTS List。\n\n**3. 生成退货单（Generate RTS Note）**\n   - 点击 Generate RTS Note。\n   - 系统生成正式的退货单（Return to Supplier Note），可作为给供应商的退货凭证。\n   - 生成后，批次状态变为 RTS Note。\n\n**4. 批次过账（Batch Posting）**\n   - 这是最后一步。\n   - 执行过账后，库存数量将相应减少。\n   - 系统会创建相应的库存交易记录和日志。\n   - 过账后数据不可回退。\n\n**完整工作流程顺序：**\n1. Batch Maintenance（批次维护）\n   - Stock Receive Input without PO（或 Receive Confirmation）\n2. Batch Validation（批次验证）\n3. Generate RTS List（生成退货清单）\n4. Generate RTS Note（生成退货单）\n5. Batch Posting（批次过账）\n\n**批次状态变更流程：**\nInput -> Validated -> RTS List -> RTS Note\n\n注意：\n- 如果退货时需同时处理收货，可以先执行 Stock Receive Input without PO（无 PO 收货）或 Receive Confirmation（收货确认），再执行退货流程。\n- 退货类型分为 Normal（正常退货）和 Consignment（代销退货），两种类型的财务处理方式不同。",
+    "source": "v7 Book-3 Section 6.9 Pages 48-53",
+    "images": [
+      "v7_Book-3_PROCESS_p049_img00.jpeg",
+      "v7_Book-3_PROCESS_p050_img00.jpeg",
+      "v7_Book-3_PROCESS_p052_img00.jpeg"
+    ],
+    "keywords": ["退货验证", "RTS Validation", "退货过账", "RTS Posting", "生成退货单", "Generate RTS Note", "退货批次"]
+  }
+]

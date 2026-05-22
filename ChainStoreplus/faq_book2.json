@@ -1,0 +1,150 @@
+[
+  {
+    "category": "主数据管理",
+    "subcategory": "供应商管理",
+    "question": "如何创建和维护新的供应商主档？",
+    "source": "v7 Book-2 Section 5.1.1 Pages 4-10",
+    "answer": "供应商主档维护（Supplier Master Maintenance）用于输入和管理供应商的详细信息，以便进行采购处理。\\n\\n**操作步骤：**\\n1. 进入供应商主档维护功能\\n2. 系统默认显示摘要页面（Summary Page），可按”供应商代码（Supplier Code）“或”供应商名称（Supplier Name）“排序\\n3. 双击某一行进入详细修改页面（Detail Modification Page）\\n4. 在详细页面中包含5个标签页，填写所有必填字段后保存\\n\\n**功能按钮：**\\n- 创建记录（Create Record）\\n- 修改记录（Modify Record）\\n- 删除记录（Delete Record）\\n- 查看记录（View Record）\\n- 复制为新记录（Copy Record as new）\\n- 查找记录（Find Record）\\n- 按标题排序（Sort by header）\\n- 调整列指示（Adjust column indication）\\n\\n**标签页1 - 基本信息（Folder Page 1）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Supplier Code（供应商代码） | X(8) | 必填 | 唯一标识特定供应商 |\\n| Supplier Name（供应商英文名称） | X(150) | 必填 | 供应商的英文名称 |\\n| Chinese Name（供应商中文名称） | X(150) | 可选 | 供应商的中文名称 |\\n| Attn.（收件人） | X(20) | 可选 | 供应商的联系人 |\\n| Address Line（地址行） | X(30) x 4行 | 可选 | 供应商的送货地址 |\\n| City（城市） | X(20) | 可选 | 送货地址所在城市 |\\n| Country（国家） | X(12) | 可选 | 送货地址所在国家 |\\n| Postal（邮政编码） | X(08) | 可选 | 送货地址的邮政编码 |\\n| State（州/省） | X(04) | 可选 | 送货地址的州/省 |\\n| Country Code（国家代码） | X(02) | 可选 | 送货地址国家代码，需在”国家代码维护（Country Code Maintenance）“中预定义 |\\n| District Code（地区代码） | X(03) | 可选 | 送货地址的地区代码，需在”地区表维护（District Table Maintenance）“中预定义 |\\n\\n**标签页2 - 联系信息（Folder Page 2）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Country（国家码） | X(10) x 3组 | 可选 | 国家代码（可输入3组） |\\n| Area（区号） | X(8) x 3组 | 可选 | 地区区号（可输入3组） |\\n| Tel No.（电话号码） | X(30) x 3组 | 可选 | 电话号码（可输入3组） |\\n| Extension（分机号） | X(15) x 3组 | 可选 | 分机号码（可输入3组） |\\n| Telex No.（电传号） | X(25) | 必填 | 电传打字机号码 |\\n| Title（职位头衔） | X(80) | 可选 | 联系人的职位头衔 |\\n| First Name（联系人名字） | X(30) | 可选 | 联系人的名 |\\n| Last Name（联系人姓氏） | X(30) | 可选 | 联系人的姓 |\\n\\n**标签页3 - 信用与折扣信息（Folder Page 3）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Credit Term（信用期限） | 数字 | 可选 | 信用天数 |\\n| Credit Limit（信用额度） | 金额 | 可选 | 供应商允许的最大总信用金额 |\\n| Payment Method（付款方式） | - | 可选 | 付款方式的输入 |\\n| Owner ID（负责人ID） | - | 必填 | 负责该供应商的用户ID |\\n| Company Currency（公司货币） | - | 必填 | 该供应商采购订单使用的默认货币，可在采购订单维护过程中按需覆盖 |\\n| Discount（折扣） | - | 可选 | 供应商提供的一般折扣，最多可设置5个折扣率，按”折扣叠加”机制在采购订单处理中计算，折扣基于商品的零售价目表价格（Retail List Price）计算 |\\n| Discount Rate（折扣率处理方式） | X(01) | 可选 | H - 在采购订单的标题级别（Header Level）默认折扣率；I - 在采购订单的商品项目级别（Item Level）默认折扣率；或折扣率仅供参考 - 不进行计算 |\\n\\n**标签页4 - 电子联系信息（Folder Page 4）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Email Address（电子邮件地址） | X(40) | 可选 | 联系人的电子邮件地址 |\\n| Web Site（网站） | X(4) | 可选 | 在线网站地址 |\\n\\n说明：此区域可自由用于自行开发的报表或工具进行分析。\\n\\n**标签页5 - 银行与业务信息（Folder Page 5）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Bank Code（银行代码） | X(20) | 可选 | 结算银行代码 |\\n| Bank Name（银行名称） | X(30) | 可选 | 结算银行名称 |\\n| A/C No.（银行账号） | X(10) | 可选 | 银行账户号码 |\\n| CRM ID（客户关系管理ID） | X(20) | 可选 | 客户关系管理系统中的身份编号 |\\n| BR（商业登记号） | X(20) | 可选 | 商业登记号码 |\\n| Salutation（称谓） | X(30) | 可选 | 称呼 |",
+    "images": [
+      "v6.5_Book-2_MASTERS_p004_img00.jpeg",
+      "v6.5_Book-2_MASTERS_p005_img00.png",
+      "v6.5_Book-2_MASTERS_p006_img00.png",
+      "v6.5_Book-2_MASTERS_p007_img00.jpeg",
+      "v6.5_Book-2_MASTERS_p008_img00.png",
+      "v6.5_Book-2_MASTERS_p009_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-101"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "供应商管理",
+    "question": "如何管理供应商的送货地址？",
+    "source": "v7 Book-2 Section 5.1.2 Pages 11-12",
+    "answer": "供应商送货地址维护（Supplier Delivery Address Maintenance）用于输入和管理特定供应商的送货地址信息。\\n\\n**操作步骤：**\\n1. 进入供应商送货地址维护功能\\n2. 选择或输入供应商代码\\n3. 输入送货地址代码和相关地址信息\\n4. 保存记录\\n\\n**功能按钮：**\\n1. 创建记录（Create Record）\\n2. 修改记录（Modify Record）\\n3. 删除记录（Delete Record）\\n4. 查看记录（View Record）\\n5. 复制为新记录（Copy Record as new）\\n6. 查找记录（Find Record）\\n7. 按标题排序（Sort by header）\\n8. 调整列指示（Adjust column indication）\\n\\n**字段说明：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Supplier Code（供应商代码） | X(8) | 必填 | 特定供应商的代码 |\\n| Del. Addr. Code（送货地址代码） | X(3) | 必填 | 唯一标识特定供应商的特定送货地址的代码 |\\n| Attn.（收件人） | X(20) | 可选 | 该供应商的联系人/收件人 |\\n| Delivery Address（送货地址） | X(30) x 4行 | 可选 | 供应商的送货地址，最多4行 |\\n| City（城市） | X(20) | 可选 | 送货地址所在城市 |\\n| City Code（城市代码） | X(4) | 可选 | 送货地址的城市代码 |\\n| Country（国家） | X(12) | 可选 | 送货地址所在国家 |\\n| Postal（邮政编码） | X(08) | 可选 | 送货地址的邮政编码 |\\n| State（州/省） | X(04) | 可选 | 送货地址的州或省份 |\\n| Country Code（国家代码） | X(02) | 可选 | 送货地址的国家代码，需在”国家代码维护（Country Code Maintenance）“中预定义 |\\n| District Code（地区代码） | X(03) | 必填 | 送货地址的地区代码，需在”地区表维护（District Table Maintenance）“中预定义 |",
+    "images": [
+      "v6.5_Book-2_MASTERS_p011_img00.jpeg"
+    ],
+    "keywords": [],
+    "id": "faq-102"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "商品管理",
+    "question": "如何创建新的商品主档（基本信息录入）？",
+    "source": "v7 Book-2 Section 5.2 Pages 13-16",
+    "answer": "商品主档维护（Item Master Maintenance）是系统中最重要、最核心的主档表。它将链接许多重要的基础表，并由ChainStore Plus的许多流程或子系统共享。正确设置商品主档数据非常重要。\\n\\n**操作步骤：**\\n1. 进入商品主档维护功能\\n2. 在”主要输入（Primary Input）“文件夹中填写所有必填字段\\n3. 第一文件夹（Primary Input）中的所有信息均为强制字段\\n4. 其他文件夹为次要输入，但仍包含重要的数据信息\\n\\n**目标：** 维护商品的详细信息。\\n\\n**主要输入文件夹字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Item Code（商品代码） | X(14) | 必填 | 唯一标识特定商品的代码 |\\n| Category Code（类别代码） | X(05) | 必填 | 在类别主档（Category Master）中预定义的代码 |\\n| Sub. Category（子类别代码） | X(05) | 必填 | 在类别主档中预定义的代码，属于上述类别代码的子类别 |\\n| Supplier Item Code（供应商商品代码） | X(10) | 必填 | 供应商定义的同一商品的代码 |\\n| Long Description（长描述） | X(40) x 2行 | 第一行必填，第二行可选 | 详细的商品描述 |\\n| Short Description（短描述） | X(20) x 2行 | 可选 | 简短的商品描述 |\\n\\n**多语言按钮（Multi-Language Button）：**\\n用于输入其他语言的描述作为补充数据。某些可选文件（如销售单）可根据用户要求以中文打印。\\n\\n**尺码控制（Dimension Control）：**\\n下拉选择框 - 必填字段。必须至少选择以下选项之一：\\n- A - 无颜色和尺码（No Col & Size）\\n- B - 有颜色和尺码（Col & Size）\\n- C - 仅颜色（Color Only）\\n- D - 内缝（Inseam，特定用途可选）\\n\\n**尺码类别（Size Category）：**\\n- 格式：X(04)\\n- 当尺码控制为B时必填，其他情况无需输入\\n- 需要预定义尺码表（Size table）\\n- \"更多尺码（More Size）“按钮：允许一个商品设置多个尺码类别\\n\\n**库存指示符（Stock Indicator）：**\\n必须至少选择以下选项之一：\\n\\n| 选项 | 代码 | 说明 |\\n|------|------|------|\\n| Buy Off Stock（买断库存） | B | 用户自有库存。最常用的指示符 |\\n| Consignment Stock（寄售库存） | C | 表示该库存商品不属于用户所有。未来可能根据所购可选模块应用计算处理 |\\n| Package Set（套装包） | G | 表示该商品为套装商品，链接到特定流程下预定义的商品表集。ChainStorePlus后台系统将POS前端销售的套装商品根据商品表集分解为详细商品明细，然后以分解明细写入销售日志。使用前请咨询Sanyo Extended业务顾问 |\\n| Special Handle Item（特殊处理商品） | N | 特殊控制标志，用于某些定制特殊流程。不适用于一般用途。使用前请咨询Sanyo Extended业务顾问 |\\n| Coupon M & M Item（优惠券搭配商品） | S | 专为POS处理中的促销搭配计算创建的商品。必须与搭配促销模块中的搭配优惠券规则配合使用 |\\n| Service Item（服务商品） | V | 表示该商品可在POS中”销售”但不可计入库存，因此在正常库存控制流程下无库存变动。典型示例包括”修补\"、\"改衣服务”等 |\\n\\n**尺码/内缝类别（Size/Inseam Cat.）：**\\n- 格式：X(04)，可选\\n- 仅当尺码控制为B或D时可选\\n- 需在尺码类别信息（Size Category Information）中预定义\\n\\n**定义颜色代码（Define Color Code）：**\\n- 格式：X(04)\\n- 当尺码控制设置为非\"A\"时必填\\n- 需要预定义颜色表\\n- 系统将在大多数流程中检查此颜色控制，如果颜色未在此控制表中预先定义，将拒绝颜色输入\\n\\n**零售价（Retail Price）：**\\n- 格式：9(07).99，可选\\n- 商品的零售价目表价格\\n- 用于条码标签或价格标签打印\\n- 仅在创建模式下可输入。商品一旦创建不允许修改零售价目表价格\\n- 价格修改只能通过系统中的”加价/减价（Mark up Mark down）“流程进行\\n\\n**批发价（Wholesale Price）：**\\n- 格式：9(07).99，可选\\n- 商品的批发价格\\n- 可用于批发与分销模块（ChainStore Plus的附加选项）中的客户发票处理",
+    "images": [
+      "v6.5_Book-2_MASTERS_p015_img00.png",
+      "v6.5_Book-2_MASTERS_p016_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-103"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "商品管理",
+    "question": "如何设置商品的价格与成本信息？",
+    "source": "v7 Book-2 Section 5.2.1 Pages 17-22",
+    "answer": "价格与成本标签页（Price & Cost Tab）用于设置商品的重要价格和成本信息。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品的\\n2. 点击\"Price & Cost（价格与成本）“标签页\\n3. 填写各项价格和成本字段\\n4. 使用相关按钮进入更详细的设置\\n\\n**字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Retail Price（零售价） | 9(07).99 | 可选 | 商品的零售价目表价格，用于条码标签或价格标签打印；仅在创建模式可输入，创建后不允许修改，只能通过”加价/减价”流程修改 |\\n| Wholesales Price（批发价） | 9(07).99 | 可选 | 商品的批发价格，用于分销模块中的客户发票处理（ChainStore Plus的附加选项） |\\n| Price Group（价格组） | X(03) | 可选 | 表示该商品所属价格组的代码 |\\n| Discount Ctrl.（折扣控制） | X(01) | 必填 | 默认值为'NO'：允许在POS销售中打折；'NO'时启用最大折扣输入（Max Discount）；'YES'表示该商品不允许打折 |\\n| Max Discount（最大折扣） | 99.99 | 可选 | 该商品允许的最大折扣，以零售价的百分比表示 |\\n| Standard Cost（标准成本） | 9(07).99 | 可选 | 商品的标准成本，除非用户覆盖，否则不会更改 |\\n| FOB Cost（FOB成本） | 9(07).99 | 可选 | 商品的FOB成本，除非用户覆盖，否则不会更改。右侧空白处可输入FOB成本的货币代码 |\\n| Average Cost（平均成本） | 9(07).99 | 仅显示 | 系统在采购收货操作后自动更新计算的加权平均成本，计算公式为：(现有库存数量 × 平均成本 + 收货数量 × 收货成本) ÷ (现有库存数量 + 收货数量) |\\n\\n**按钮功能说明：**\\n\\n**\"Retail\"（零售）按钮：**\\n点击此按钮将进入另一个输入框，用于多地点价格输入，例如不同国家、组别、地点甚至颜色和尺码的不同零售价。\\n\\n**\"Consign\"（寄售）按钮：**\\n点击此按钮将进入寄售库存成本计算表（Consignment Stock Cost Calculation Table），用于寄售库存结算流程。该表仅用于供应商的寄售库存成本结算计算。如果不使用库存寄售可选模块，请忽略此表。\\n\\n寄售成本表的字段包括：\\n- Effect Date（生效日期）：该寄售成本的生效日期\\n- Consignment Settlement Cost Fixed Amount（寄售结算成本固定金额）：以固定金额表示的寄售结算成本\\n- Consignment Settlement Cost Percentage（寄售结算成本百分比）：相对于零售价目表价格（Retail List Price）或零售销售价格（Retail Sold Price）的百分比。这两个字段只需输入其中一个\\n- Effective Shop Location（生效店铺位置）：该寄售成本生效的店铺位置，留空表示所有位置\\n\\n**\"Wholesales\"（批发）按钮：**\\n点击此按钮将进入另一个输入框，可输入最多10个不同的批发价，每个商品允许设置多个批发价。\\n\\n**\"MORE\"（更多成本）按钮：**\\n点击此按钮可查看系统在不同操作阶段自动记录的不同商品成本表，用户可利用这些不同成本进行成本计算、分析和控制的报表制作。\\n\\n| 成本类型 | 说明 |\\n|---------|------|\\n| Month End Actual Cost（月末实际成本） | 月末处理后的确认商品加权平均成本。系统在月末流程中重新计算，包含自上次月末以来该商品产生的所有成本 |\\n| Last Receive Average Cost（上次收货平均成本） | 收货时计算的平均成本（非加权平均成本）。包含计算时系统已知的所有其他成本，如F&I（运费和保险费） |\\n| Last Receive Unit Cost（上次收货单位成本） | 上次收货时标记的单位成本。不包含任何费用或附加成本 |\\n| FOB Average Cost（FOB平均成本） | 收货时计算的加权平均FOB成本。仅包含商品的FOB成本，不包含任何其他成本 |\\n| Average Cost（平均成本） | 收货时计算的加权平均成本。包含计算时系统已知的所有其他成本，如F&I |\\n| Last PO Unit Cost（上次采购订单单位成本） | 上次采购订单标记的单位成本。不包含任何费用或附加成本 |",
+    "images": [
+      "v6.5_Book-2_MASTERS_p018_img00.png",
+      "v6.5_Book-2_MASTERS_p019_img00.jpeg",
+      "v6.5_Book-2_MASTERS_p020_img00.png",
+      "v6.5_Book-2_MASTERS_p021_img00.jpeg"
+    ],
+    "keywords": [],
+    "id": "faq-104"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "商品管理",
+    "question": "如何设置商品的库存信息？",
+    "source": "v7 Book-2 Section 5.2.2 Pages 23-24",
+    "answer": "库存文件夹（Inventory Folder）用于设置商品的库存相关信息。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品\\n2. 点击\"Inventory（库存）“标签页\\n3. 填写各项库存相关字段\\n4. 点击\"More Supplier\"按钮可添加多个供应商\\n\\n**字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Main W/H（主仓库） | X(04) | 可选 | 该商品的默认仓库代码 |\\n| W/H Lot Remarks（仓库批次备注） | X(10) | 可选 | 参考字段，指示该商品存放在仓库的哪个批次或区域 |\\n| Reorder Level（再订购水平） | 9(07).99 | 可选 | 包含2个子字段：min（最低库存持有量）和std（标准库存持有量）。目前无实际流程应用 |\\n| Inventory Group（库存组别） | - | 可选 | 用于分类商品的库存组别。目前无实际流程应用 |\\n| Unit Of Measure（计量单位） | X(04) | 必填 | 表示商品计量单位的代码，如SET（套）、PCE（件）等 |\\n| Supplier（供应商） | X(08) | 必填 | 供应商代码，将针对供应商主档文件（Supplier Master File）进行验证 |\\n| Supplier Item Code（供应商商品代码） | X(15) | 可选 | 供应商使用的商品/产品编号，仅供参考 |\\n| Producer Code（生产商代码） | X(03) | 可选 | 生产商代码，仅供参考 |\\n\\n**按钮功能说明：**\\n\\n**\"Reorder\"（再订购）按钮：**\\n用于输入颜色和尺码的再订购水平。目前无实际流程应用。\\n\\n**\"More Supplier\"（更多供应商）按钮：**\\n每个商品允许设置多个供应商。点击此按钮可添加更多供应商信息。",
+    "images": [
+      "v6.5_Book-2_MASTERS_p023_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-105"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "商品管理",
+    "question": "如何设置商品的属性信息（属性I）？",
+    "source": "v7 Book-2 Section 5.2.3 Pages 25-27",
+    "answer": "商品属性I标签页（Item Attribute I Tab）用于设置商品的各种属性信息，包括品牌、税收、条形码等相关信息。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品\\n2. 点击\"Item Attribute I（商品属性I）“标签页\\n3. 依次填写各项属性字段\\n\\n**字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Tax Code（税码） | - | 可选 | 商品的增值税百分比/增值税金额的税码。此字段关联税率表 |\\n| Special Promotion Flag（特别促销标志） | - | 可选 | 控制标志，表示该商品正在进行特别促销。目前无实际流程，仅供参考 |\\n| Model Replenishment（按型号补货） | - | 可选 | 控制标志，表示该商品的补货按型号（Model No.）而非按标准商品编号（Item No.）进行 |\\n| Owner ID（负责人ID） | X(05) | 必填 | 将针对负责人ID表（Owner ID table）进行验证。这是管理和处理该商品的预先定义的买手/ Merchandiser 代码 |\\n| Brand（品牌） | X(06) | 必填 | 将针对品牌表（Brand table）进行验证 |\\n| Country（来源国家） | X(02) | 可选 | 将针对国家表（Country table）进行验证。表示商品来源国的国家代码，如有输入需存在于国家代码主档文件中 |\\n| Material Code（材料代码） | X(03) | 可选 | 将针对材料代码表（Material Code table）进行验证 |\\n| Replenishment（允许补货） | - | 可选 | 勾选表示允许该商品从仓库补货到店铺 |\\n| Discontinue Item（停产商品） | - | 可选 | 勾选表示该商品已停产。表示不再采购但仍继续销售。此标记允许系统处理该商品的销售，但停止采购，无需删除该商品记录 |\\n| Lock/Release Item（锁定/解锁商品） | - | 可选 | 勾选表示该商品被锁定。此商品将停止所有交易。用户可选择”空白”来解锁此商品 |\\n| EAN/UPC Code（EAN/UPC代码） | - | 可选 | 如果商品关联有条码值，在此输入UPC/EAN条形码值 |\\n| Bar Code Sequence（条码序列号） | X(07) | 仅显示 | 系统生成的条码序列号。除非另有指定，系统默认使用此条码序列在POS前端系统中表示该商品 |\\n| Reference（参考编号） | X(06) | 可选 | 用户自行参考的代码 |\\n| Gift（礼品标志） | - | 可选 | 勾选表示该商品可作为礼品赠送，允许零售价和成本为零 |\\n| Analysis Code Description（分析代码描述） | X(03) x 10个 | 仅显示 | 描述商品定位的简短代码。根据其在分析代码表维护（Analysis Code Table Maintenance）中定义的位置显示 |\\n| Analysis Code（分析代码） | X(03) x 10个 | 可选 | 将针对分析代码表进行验证。用户可为每个字段激活自己的代码，用于将来生成分析报告 |\\n| External Season（外部季节码） | X(04) | 可选 | 用于在商品代码结构”外部”需要季节代码的用户，仅供参考 |",
+    "images": [
+      "v6.5_Book-2_MASTERS_p026_img00.png",
+      "v6.5_Book-2_MASTERS_p027_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-106"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "商品管理",
+    "question": "如何设置商品的附加属性信息（属性II）？",
+    "source": "v7 Book-2 Section 5.2.4 Pages 28-31",
+    "answer": "商品属性II标签页（Item Attribute II Tab）用于设置商品更多的附加属性信息，包括品牌名称、年份、型号、季节、图片、出版信息以及特殊日期等。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品\\n2. 点击\"Item Attribute II（商品属性II）“标签页\\n3. 填写各项属性字段\\n4. 查看商品图片和重要日期信息\\n\\n**常规属性字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Brand（品牌名称） | X(30) | 可选 | 商品有品牌名称时使用 |\\n| Year（年份） | X(04) | 可选 | 产品的年份 |\\n| Category（类别） | X(12) | 可选 | 商品的类别代码 |\\n| Model Number（型号） | X(20) | 可选 | 商品的型号 |\\n| Article（货号） | X(30) | 可选 | 商品的货号 |\\n| Variante（变体） | X(?) | 可选 | 商品的变体信息 |\\n| Sex（性别） | X(04) | 可选 | 商品的性别信息 |\\n| Season（季节） | X(02) | 可选 | 季节信息，需在”季节代码（Season Code）“中预定义 |\\n| Collection（系列） | X(30) | 可选 | 商品的系列/集合 |\\n| Sub Category（子类别） | X(12) | 可选 | 商品的子类别代码 |\\n| Label（标签） | X(20) | 可选 | 商品的标签 |\\n| Product（产品） | X(20) | 可选 | 商品的产品信息 |\\n\\n**图片（Image）按钮：**\\n- 此按钮将显示该商品的图片\\n- 图片需要存储在先前定义的专用图片文件夹中\\n- 图片文件名必须遵循以下格式：<文件名> = 商品编号_999，其中'999'是图片的序列号\\n  - 例如：A9008765433_001, A9008765433_002, A9008765433_003 等\\n- 系统将自动收集该商品的所有图片，并在标准的Windows图片浏览器中一次性显示\\n\\n**出版信息字段（Publication Section，适用于书籍/出版物类商品）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Magazine Code（期刊代码） | X(20) | 可选 | 出版物的ID编号 |\\n| Edition No.（版次） | X(20) | 可选 | 出版物的版次 |\\n| Language Version（语言版本） | X(20) | 可选 | 出版物特定语言版本的版本号 |\\n| Publisher（出版社） | X(40) | 可选 | 出版社名称 |\\n| Author（作者） | X(40) | 可选 | 作者名称 |\\n\\n**特殊与日期标签页（Special & Date Tab）字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Model Number（型号） | X(30) | 可选 | 商品关联的型号。商品查询功能中有针对此型号的特殊搜索键。非常适合手表和珠宝零售商或有类似产品性质的用户 |\\n| Warranty Number（保修编号） | X(30) | 可选 | 商品关联的唯一序列号。商品查询功能中有针对此序列号搜索的特殊搜索键。非常适合手表和珠宝零售商或有类似产品性质的用户 |\\n| Body Number（机身号） | X(20) | 可选 | 来自制造商的信息编号 |\\n| Style Number（款号） | X(12) | 可选 | 用户自行参考的代码 |\\n| Volume / Content / Container（卷/内容/容器） | - | 可选 | 用户自行参考的代码 |\\n| Expiration Date（有效期） | dd/mm/yyyy | 可选 | 表示商品的有效期（如有），仅供参考 |\\n\\n**重要日期（仅显示，不可编辑）：**\\n| 字段名称 | 格式 | 说明 |\\n|---------|------|------|\\n| Creation Date（创建日期） | dd/mm/yyyy | 该商品主档记录创建时的日期 |\\n| First Receipt Date（首次收货日期） | dd/mm/yyyy | 该商品主档记录首次收货的日期 |\\n| Last Receipt Date（最后收货日期） | dd/mm/yyyy | 该商品主档记录最近一次收货的日期 |\\n| First Transfer Date（首次调拨日期） | dd/mm/yyyy | 该商品主档记录首次调拨的日期（通常首次调拨是从仓库到店铺） |\\n| Last Sales Date（最后销售日期） | dd/mm/yyyy | 该商品主档记录最后一次销售的日期 |\\n| New Season 1st Delivery Date（新季节首次交货日期） | dd/mm/yyyy | 该商品标记为季节首次交货的日期，仅适用于特殊季节产品 |\\n| Last Modified Date（最后修改日期） | dd/mm/yyyy | 该商品主档记录最后被修改并记录用户ID的日期 |",
+    "images": [
+      "v6.5_Book-2_MASTERS_p028_img00.png",
+      "v6.5_Book-2_MASTERS_p030_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-107"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "其他主档",
+    "question": "如何使用型号（Model Number）查询商品信息？",
+    "source": "v7 Book-2 Section 5.3.1 Page 32",
+    "answer": "型号查询功能（Model Number）允许用户通过商品型号搜索键来查询或修改商品信息，查看特定库存的可用性。\\n\\n**功能说明：**\\n通过商品搜索键，按型号（Model No.）进行查询。\\n\\n**目标：**\\n对商品信息进行查询或修改，用户可以检查特定库存的可用性。\\n\\n**字段说明：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Item Code（商品代码） | X(14) | 必填 | 唯一标识特定商品的代码 |\\n| Description（描述） | X(40) | 必填 | 详细的商品描述 |\\n| Model Number（型号） | X(30) | 必填 | 商品的型号 |\\n\\n**附加功能 - 按保修编号（Guarantee No.）查询：**\\n通过商品搜索键，按保修编号（Guarantee No.）进行查询，用户可以检查特定库存的保修编号。",
+    "images": [
+      "v6.5_Book-2_MASTERS_p032_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-108"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "会员管理",
+    "question": "如何创建和管理会员类型？",
+    "source": "v7 Book-2 Section 5.4.1 Pages 33-35",
+    "answer": "会员类型维护（Member Type Maintenance）用于创建会员类型，将会员分组到有意义的会员组中，便于组织相关数据以生成有意义的报表。\\n\\n**前置条件：**\\n这是创建会员类型以将会员分组的表。\\n\\n**操作步骤：**\\n1. 进入会员类型维护功能\\n2. 输入会员类型代码和相关参数\\n3. 使用\"Other（其他）“按钮定义额外的折扣控制\\n4. 验证并保存记录\\n\\n**功能按钮：**\\n1. 创建记录（Create Record）\\n2. 清除记录（Clear Record）\\n3. 验证记录（Validate Record）\\n\\n**字段说明：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Member Type（会员类型） | X(01) | 必填 | 会员类型代码 |\\n| Description（描述） | X(40) | 可选 | 该会员类型的文本描述 |\\n| Discount %（折扣百分比） | 9(02).9(02) | 可选 | 该会员类型有权享有的销售折扣百分比 |\\n| Extra %（额外折扣百分比） | 9(02).9(02) | 可选 | 特殊促销活动时有权享有的额外销售折扣百分比 |\\n| Max Disc. Bar %（最大折扣百分比） | 9(02).9(02) | 可选 | 所有促销活动下允许的最大折扣百分比 |\\n| Turn-over Control（营业额控制） | X(01) | 必填 | 控制是否允许营业额限制加上按金额或按数量的控制 |\\n| Turn-over Limit（营业额限额） | 9(06).(02) | 可选 | 如果启用限额控制，该会员类型允许的最大累计销售金额。通常适用于员工购买环境 |\\n| Control Period（控制周期） | X(01) | 可选 | 控制限额是基于一次性购买、月度还是季度基准 |\\n| Sales Control（销售控制） | X(01) | 必填 | 表示营业额限制应基于总销售额（Gross Sales）还是净销售额（Net Sales） |\\n| Staff Control（员工控制） | X(01) | 必填 | 表示这是非员工（non-staff）还是员工（staff）会员类型 |\\n\\n**跨区域客户设置：**\\n此设置用于会员类型被分类为跨区域客户。意味着在该类型下指定的会员折扣将适用于在组织内的海外会员在POS销售中消费的情况。\\n\\n**\"Other\"（其他）按钮 - 额外折扣控制：**\\n输入屏幕中的此按钮允许用户为此客户类型定义额外的折扣控制，指定应用的位置和方式。\\n\\n可配置以下维度的折扣控制：\\n- 地点（Location）：指定哪些特定地点应应用此折扣\\n- 部门（Division）：指定哪些特定部门应应用此折扣\\n- 品牌（Brand）：指定哪些特定品牌应应用此折扣\\n- 产品类别（Product Category）：指定哪些特定产品类别应应用此折扣\\n\\n针对以上每个维度，可设置：\\n- 特定的折扣百分比（Discount %）\\n- 额外的折扣百分比（Extra Discount %）",
+    "images": [
+      "v6.5_Book-2_MASTERS_p034_img00.png",
+      "v6.5_Book-2_MASTERS_p035_img00.jpeg"
+    ],
+    "keywords": [],
+    "id": "faq-109"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "会员管理",
+    "question": "如何在POS系统中进行在线信用检查以及设置会员升级规则？",
+    "source": "v7 Book-2 Section 5.4.2 Pages 36-37",
+    "answer": "在线信用检查（Online Credit Check）功能和会员升级规则（Upgrade Rules）用于控制员工/会员的总购买限额以及会员类型的自动升级。\\n\\n**一、在线信用检查（Online Credit Check on Staff / Member's Total Purchase）**\\n\\n如果特定客户类型（如员工购买）启用了购买限额，POS系统将通过互联网连接在后台执行在线信用检查，以避免超限购买。如果发现会员（通常是员工购买）在控制周期内超出购买限额，POS前端系统将拒绝该笔销售交易。\\n\\n**二、会员升级规则（Upgrade Rules for Member Customer）**\\n\\n这是适用于所有客户从一种客户类型升级到另一种客户类型的通用升级规则，当满足以下定义的条件时触发。此会员升级流程将由后台按用户设定的计划以批处理作业方式执行。\\n\\n**POS提示提醒控制设置（POS Prompt Alert Controls）：**\\n| 功能 | 说明 |\\n|------|------|\\n| Alert Prompt（提醒提示） | 勾选此选项并填写有效期限（天数）后，POS前端系统将在有效期内自动显示右侧的文本消息，作为POS用户的提醒 |\\n| Effected Period（有效期限） | 以天数表示的有效期 |\\n\\n示例说明：\\n当属于客户类型\"F\"的会员客户在自该客户首次购买日期起计算的180天内在店铺进行购买时，将导致POS系统在销售操作期间自动弹出右侧的文本消息，作为对POS用户的提醒。\\n\\n**会员类型升级控制设置（Member Type Upgrade Controls）：**\\n| 功能 | 说明 |\\n|------|------|\\n| 升级目标类型 | 如果自首次购买日期以来赚取的奖励积分总额超过输入的数值，该客户类型内的所有会员将升级到指定的新会员类型 |\\n\\n示例说明：\\n如果自首次购买日期以来赚取的奖励积分总额超过\"5,000\"分，客户类型\"F\"内的所有会员将升级到会员类型\"E\"。\\n\\n**重要说明：**\\n截至版本6.4.3，尚无会员降级机制。",
+    "images": [
+      "v6.5_Book-2_MASTERS_p036_img00.jpeg",
+      "v6.5_Book-2_MASTERS_p037_img00.png"
+    ],
+    "keywords": [],
+    "id": "faq-110"
+  },
+  {
+    "category": "主数据管理",
+    "subcategory": "会员管理",
+    "question": "如何创建和维护会员主档？",
+    "source": "v7 Book-2 Section 5.4.3 Pages 38-42",
+    "answer": "会员主档维护（Member Master Maintenance）用于存储会员详细信息，该主档允许用户基于会员的销售历史、行为和兴趣进行客户分析。\\n\\n**目标：** 维护常客或潜在会员的个人信息。\\n\\n**操作步骤：**\\n1. 进入会员主档维护功能\\n2. 填写会员详细信息（共3页）\\n3. 验证并保存记录\\n\\n**功能按钮：**\\n1. 创建记录（Create Record）\\n2. 清除记录（Clear Record）\\n3. 验证记录（Validate Record）\\n\\n**第1页 - 基本会员信息：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Member No.（会员编号） | X(15) | 必填 | 表示会员编号的唯一编号 |\\n| Type（会员类型） | X(01) | 必填 | 在”会员管理信息（Membership Management Information）“中预定义的会员类型代码 |\\n| Lastname（姓氏） | X(30) | 必填 | 会员的姓氏 |\\n| Firstname（名字） | X(30) | 必填 | 会员的名字 |\\n| Address（地址） | X(90) x 4行 | 可选 | 加入会员的客户地址，最多4行 |\\n| Area Code（地区代码） | X(02) | 可选 | 用户自定义的地区代码，仅供参考 |\\n| Postal Code（邮政编码） | X(202) | 可选 | 用户自定义的邮政编码，仅供参考 |\\n| Home No.（住宅电话） | X(15) | 可选 | 客户的住宅电话号码 |\\n| Mobile No.（手机号码） | X(15) | 可选 | 客户的手机号码 |\\n| Issue Date（发卡日期） | 99 99 9999 (dd mm yyyy) | 必填 | 会员资格的颁发日期 |\\n| Issue Shop（发卡店铺） | X(04) | 必填 | 颁发此会员资格的店铺 |\\n| Pickup Shop（领取店铺） | X(04) | 必填 | 会员从哪家店铺领取会员卡 |\\n| Expiry Date（到期日期） | 99 99 9999 (dd mm yyyy) | 必填 | 会员资格的到期日期 |\\n\\n**第2页 - 个人详细信息：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Date of Birth（出生日期） | 99 99 9999 (dd mm yyyy) | 可选 | 加入会员的客户出生日期 |\\n| Age（年龄） | 9(02) | 仅显示 | 如果提供了出生日期，系统自动计算 |\\n| Age Group（年龄组） | - | 可选 | 系统选择正确的年龄组或用户自行输入 |\\n| Card I.D.（身份证号码） | X(15) | 可选 | 客户的身份证号码 |\\n| Nationality（国籍） | X(02) | 可选 | 加入会员的客户国籍，需对国家代码表进行检查 |\\n| Sex（性别） | - | 可选 | 会员的性别 |\\n\\n**第3页 - 自定义备注信息：**\\n此页面为自由文本输入格式（Free TEXT input format），供用户自行参考使用，没有固定的字段定义，用户可根据需要输入任意备注信息。",
+    "images": [
+      "v6.5_Book-2_MASTERS_p039_img00.png",
+      "v6.5_Book-2_MASTERS_p040_img00.png",
+      "v6.5_Book-2_MASTERS_p041_img00.jpeg",
+      "v6.5_Book-2_MASTERS_p042_img00.jpeg"
+    ],
+    "keywords": [],
+    "id": "faq-111"
+  }
+]

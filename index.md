@@ -30,6 +30,14 @@ title: ERM 故障排除 FAQ 知識庫
 
 ---
 
+## ChainStorePlus 參考文檔
+
+| 分類 | 說明 |
+|------|------|
+| [[ChainStoreplus/index\|ChainStorePlus 知識庫]] | 173 條 FAQ + 使用者手冊參考 |
+
+---
+
 ## ERM FEPOS 疑難排解
 
 | 分類 | 說明 |

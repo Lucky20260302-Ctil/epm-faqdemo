@@ -1,0 +1,3637 @@
+{
+  "meta": {
+    "title": "ChainStore Plus FAQ 知识库",
+    "version": "1.0",
+    "description": "ChainStore Plus 连锁零售管理系统（后台操作）FAQ 知识库，基于 v7 (2023) 和 v6.5 (2009) 用户操作手册整理",
+    "primary_source": "ChainStore Plus v7 Back End User Manual r1.2",
+    "secondary_source": "CS2000 v6.5 User Operation Manual rev1.1",
+    "total_faqs": 173,
+    "categories": [
+      "系统入门",
+      "系统工具",
+      "基础表维护",
+      "主数据管理",
+      "采购流程",
+      "收货流程",
+      "库存转移",
+      "库存管理",
+      "配送流程",
+      "在线查询",
+      "数据接口",
+      "系统管理"
+    ],
+    "stats": {
+      "faq_book1.json": 36,
+      "faq_book2.json": 11,
+      "faq_book3.json": 20,
+      "faq_book4_5.json": 31,
+      "faq_v65_supplement.json": 75
+    },
+    "total_images_extracted": 532,
+    "generated_date": "2026-05-22"
+  },
+  "categories": {
+    "系统入门": {
+      "count": 8,
+      "subcategories": {
+        "主菜单布局": 1,
+        "功能键参考": 1,
+        "字段符号说明": 1,
+        "打印队列": 1,
+        "注销": 1,
+        "登录": 1,
+        "系统概览": 1,
+        "系统设置": 1
+      }
+    },
+    "系统工具": {
+      "count": 8,
+      "subcategories": {
+        "公司文件": 1,
+        "用户管理": 7
+      }
+    },
+    "基础表维护": {
+      "count": 20,
+      "subcategories": {
+        "POS设置": 4,
+        "人员管理": 1,
+        "商品分类": 8,
+        "地点管理": 3,
+        "库存管理": 1,
+        "组织架构": 1,
+        "财务设置": 1,
+        "通用设置": 1
+      }
+    },
+    "主数据管理": {
+      "count": 11,
+      "subcategories": {
+        "会员管理": 3,
+        "供应商管理": 2,
+        "其他主档": 1,
+        "商品管理": 5
+      }
+    },
+    "采购流程": {
+      "count": 3,
+      "subcategories": {
+        "采购订单处理": 3
+      }
+    },
+    "收货流程": {
+      "count": 3,
+      "subcategories": {
+        "库存收货": 2,
+        "收货确认": 1
+      }
+    },
+    "库存转移": {
+      "count": 4,
+      "subcategories": {
+        "库存转移": 2,
+        "库存转移差异调整": 1,
+        "库存转移接收确认": 1
+      }
+    },
+    "库存管理": {
+      "count": 7,
+      "subcategories": {
+        "实物盘点": 4,
+        "物理调整": 1,
+        "退货给供应商": 2
+      }
+    },
+    "配送流程": {
+      "count": 3,
+      "subcategories": {
+        "交货单 - 入库": 1,
+        "交货单 - 出库": 2
+      }
+    },
+    "在线查询": {
+      "count": 18,
+      "subcategories": {
+        "POS在线销售与销售备忘录查询": 1,
+        "POS在线销售查询": 1,
+        "交货单收货（入库）日记账查询": 1,
+        "交货单日记账查询": 1,
+        "会员活动明细查询": 1,
+        "会员销售额汇总查询": 1,
+        "库存调拨收货查询": 1,
+        "按仓库位置查询库存": 1,
+        "按商品查询库存": 1,
+        "按备忘录编号/仓库位置查询销售日记账": 1,
+        "物理出入库日记账查询": 1,
+        "物理盘点日记账查询": 1,
+        "订金日记账查询": 1,
+        "调拨日记账查询": 1,
+        "退货给供应商日记账查询": 1,
+        "采购收货日记账查询": 1,
+        "采购订单查询": 1,
+        "销售人员会员编号查询": 1
+      }
+    },
+    "数据接口": {
+      "count": 10,
+      "subcategories": {
+        "CS2000出站接口日志查询": 1,
+        "CS2000接口更新日志查询": 1,
+        "CS2000接口过账错误查询": 1,
+        "POS/远程服务器轮询点维护": 1,
+        "POS传输日志控制": 1,
+        "POS传输日志更新查询": 1,
+        "POS传输日志更新错误查询": 1,
+        "POS数据轮询控制": 1,
+        "数据导出到POS": 1,
+        "轮询历史记录查询": 1
+      }
+    },
+    "系统管理": {
+      "count": 3,
+      "subcategories": {
+        "POS数据过账控制": 1,
+        "POS日结查询": 1,
+        "过账错误历史日志查询": 1
+      }
+    }
+  },
+  "faqs": [
+    {
+      "id": "faq-001",
+      "category": "系统入门",
+      "subcategory": "主菜单布局",
+      "question": "ChainStore Plus 主菜单屏幕的布局是怎样的？如何导航？",
+      "answer": "ChainStore Plus 采用用户友好的设计，屏幕布局在整个应用程序中保持一致。主菜单屏幕布局包含以下区域：\n\n1. **主菜单区域 (The Main Menu Area)** - 显示主要功能模块\n2. **公司名称 (The Company Name in Operation)** - 显示当前操作的公司名称\n3. **子菜单区域 (The Sub Menu Area)** - 显示在主菜单左侧\n\n**系统设置入口：**\n- 点击右上角的 \"三个竖点\" 图标（位于登录用户名旁边），可打开系统设置\n- 弹出四个选项：'Settings'（设置）、'Print'（打印）、'Language'（语言）和 'Logout'（注销）\n\n**通用菜单/索引屏幕：**\n- 大多数处理模块的首页都组织了一个索引表 (INDEX TABLE)，便于用户参考和选择\n- 此屏幕提供按不同排序序列显示数据的索引\n- 用户可通过输入参考索引键（搜索功能）并双击来选择所需的记录或索引\n\n**通用详情屏幕：**\n- 在索引屏幕选择记录后，详细信息将显示在此屏幕上",
+      "source": "v7 Book-1 Section 1.2.2 Page 8-11",
+      "images": [
+        "v7_Book-1_TABLES_p008_img00.jpeg",
+        "v7_Book-1_TABLES_p008_img01.jpeg",
+        "v7_Book-1_TABLES_p009_img00.jpeg",
+        "v7_Book-1_TABLES_p010_img00.jpeg",
+        "v7_Book-1_TABLES_p010_img01.jpeg",
+        "v7_Book-1_TABLES_p011_img00.jpeg",
+        "v7_Book-1_TABLES_p011_img01.jpeg",
+        "v7_Book-1_TABLES_p011_img02.jpeg"
+      ],
+      "keywords": [
+        "主菜单",
+        "屏幕布局",
+        "导航",
+        "main menu",
+        "screen layout",
+        "navigation",
+        "系统设置"
+      ],
+      "_original_id": "faq-004"
+    },
+    {
+      "id": "faq-002",
+      "category": "系统入门",
+      "subcategory": "功能键参考",
+      "question": "ChainStore Plus 常用的功能键（图标）有哪些？",
+      "answer": "在 ChainStore Plus 每个操作界面的顶部都有一行功能图标，每个图标的图形或文字说明了其对应的功能。常用功能键如下：\n\n**第1排功能图标（Fig 1）：**\n- 创建新记录 (Create New Record)\n- 修改记录 (Modify Record)\n- 删除记录 (Delete Record)\n- 查看记录 (View Record)\n- 复制记录为新记录 (Copy record as new)\n\n**第2排功能图标（Fig 2）：**\n- 首条记录 (First Record)\n- 上一页 (Previous Page)\n- 下一页 (Next Page)\n- 末条记录 (Last Record)\n\n**第3排功能图标（Fig 3）：**\n- 搜索记录 (Search record)\n- 按列标题排序 (Sort by header)\n- 调整列宽指示 (Adjust column indication)\n- 返回 (Back)\n- 刷新整个页面 (Refresh entire page)",
+      "source": "v7 Book-1 Section 1.2.1 Page 5-6",
+      "images": [
+        "v7_Book-1_TABLES_p005_img00.jpeg",
+        "v7_Book-1_TABLES_p006_img00.jpeg",
+        "v7_Book-1_TABLES_p006_img01.jpeg"
+      ],
+      "keywords": [
+        "功能键",
+        "图标",
+        "快捷键",
+        "function keys",
+        "icons",
+        "工具栏"
+      ],
+      "_original_id": "faq-002"
+    },
+    {
+      "id": "faq-003",
+      "category": "系统入门",
+      "subcategory": "字段符号说明",
+      "question": "ChainStore Plus 手册中字段定义的符号（如 X(n)、9(n).9(m)、S）分别代表什么含义？",
+      "answer": "手册中使用以下符号和缩写来描述字段的含义：\n\n**1. X(n) - 字母数字字符**\n- X 代表字母数字字符 (Alphanumeric character)\n- n 表示字符数量\n- 例如：X(5) 表示 5 个字母数字字符，可接受 \"12Abc\"、\"ab1d3\"、\"123\" 等\n\n**2. 9(n).9(m) - 数字字符**\n- 9 代表数字字符 (Numeric character)\n- n 表示整数位数\n- m 表示小数点后的位数\n- 例如：9(3).99 表示 3 位整数和 2 位小数，可接受 \"12.10\"、\"123.09\"，不接受 \"as8.99\"、\"1234.56\"、\"12.987\"\n\n**3. S - 带符号数字字段**\n- S 表示该数字字段可带正负号 (Signed)\n- 正值 (+) 和负值 (-) 均可接受",
+      "source": "v7 Book-1 Section 1.2.1 Page 7",
+      "images": [],
+      "keywords": [
+        "字段符号",
+        "X(n)",
+        "9(n).9(m)",
+        "数据类型",
+        "field symbols",
+        "data type",
+        "alphanumeric"
+      ],
+      "_original_id": "faq-003"
+    },
+    {
+      "id": "faq-004",
+      "category": "系统入门",
+      "subcategory": "打印队列",
+      "question": "如何使用 ChainStore Plus 的打印队列（Print Queue）功能？",
+      "answer": "ChainStore Plus 生成的加工报告（非 MS Reporting Services 的分析报告）会保存在打印队列系统中，而非直接发送到打印机。使用步骤如下：\n\n1. 点击屏幕右上角的 \"三个竖点\" 图标\n2. 选择 'Print'（打印）选项\n3. 进入 'Document Queue Management'（文档队列管理）屏幕\n\n**打印队列管理显示的信息包括：**\n- 打印文件的生成日期和时间 (Generation Date and Time)\n- 报告 ID 和说明 (Report ID and Description)\n- 页数 (Number of pages)\n- 保护标志 (Protect flag)\n- 列/右边距 (Column/Right Margin)\n- 打印文件页数 (Number of pages in print file)\n- 公司代码 (Company Code)\n\n**预览功能说明：**\n- 'Document Queue Management' 显示和列出用户自己的文档\n- 右侧的 'Save As' 按钮允许用户将文档保存为 '.TXT' 格式文件",
+      "source": "v7 Book-1 Section 1.2.3 Page 12-14",
+      "images": [
+        "v7_Book-1_TABLES_p012_img00.jpeg",
+        "v7_Book-1_TABLES_p013_img00.jpeg",
+        "v7_Book-1_TABLES_p014_img00.jpeg",
+        "v7_Book-1_TABLES_p014_img01.jpeg"
+      ],
+      "keywords": [
+        "打印队列",
+        "打印管理",
+        "文档队列",
+        "print queue",
+        "document queue",
+        "Save As",
+        "TXT"
+      ],
+      "_original_id": "faq-007"
+    },
+    {
+      "id": "faq-005",
+      "category": "系统入门",
+      "subcategory": "注销",
+      "question": "如何正确注销 ChainStore Plus 系统？",
+      "answer": "注销系统的步骤如下：\n\n1. 点击屏幕右上角的 \"三个竖点\" 图标\n2. 选择 'Logout'（注销）选项\n3. 系统会弹出确认对话框 (Confirmation Dialog Box)\n4. 点击 'OK' 确认注销\n5. 系统将自动将您登出账户\n\n注意：注销前请确保您已完成所有未保存的工作，以免数据丢失。",
+      "source": "v7 Book-1 Section 1.2.2 Page 10",
+      "images": [
+        "v7_Book-1_TABLES_p010_img00.jpeg",
+        "v7_Book-1_TABLES_p010_img01.jpeg"
+      ],
+      "keywords": [
+        "注销",
+        "退出系统",
+        "logout",
+        "sign out",
+        "退出登录"
+      ],
+      "_original_id": "faq-006"
+    },
+    {
+      "id": "faq-006",
+      "category": "系统入门",
+      "subcategory": "登录",
+      "question": "如何登录 ChainStore Plus 系统？登录时需要注意什么？",
+      "answer": "登录流程发生在用户输入正确的 URL 后。登录屏幕是系统的安全屏障，用于防止未经授权的访问。\n\n**登录前准备：**\n- 用户必须先从系统管理员处获取账户和密码才能进行首次登录\n- 每个 ChainStore Plus 用户都需要授权密钥和密码\n\n**登录屏幕字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| User Name（用户名） | X(40) - 必填字段 - 用户识别号 |\n| Password（密码） | X(40) - 必填字段 - 输入时不显示明文 - 用户个人密码 |\n\n**功能按钮：**\n| 功能 | 说明 |\n|------|------|\n| Full Screen Mode（全屏模式） | 勾选后允许网页浏览器进入全屏模式 |\n| Login（登录） | 验证并登录系统 |\n\n**登录步骤：**\n1. 输入正确的用户名 (User Name)\n2. 输入与用户 ID 对应的密码 (Password)\n3. 选择是否启用 \"Full Screen Mode\"（全屏模式），勾选或不勾选\n4. 按 <Enter> 键完成登录",
+      "source": "v7 Book-1 Section 2 Page 15-16",
+      "images": [
+        "v7_Book-1_TABLES_p015_img00.jpeg"
+      ],
+      "keywords": [
+        "登录",
+        "登录步骤",
+        "用户名",
+        "密码",
+        "logon",
+        "login",
+        "password",
+        "全屏模式"
+      ],
+      "_original_id": "faq-008"
+    },
+    {
+      "id": "faq-007",
+      "category": "系统入门",
+      "subcategory": "系统概览",
+      "question": "ChainStore Plus v7 是什么系统？它包括哪些主要模块？",
+      "answer": "ChainStore Plus 是一个综合性的零售管理软件系统，由 Sanyo Extended System Services Ltd. 开发。系统设计在多公司、多店铺、多货币、多语言环境下运行，包含前端 POS（销售点）和后端办公室操作两大部分。本手册仅针对后端办公室操作。\n\n系统主要模块包括：\n1. 表维护 (Table Maintenance)\n2. 主数据维护 (Master Maintenance)\n3. 采购单维护 (Purchase Order Maintenance)\n4. 收货 (Stock Receipt)\n5. 库存调拨 (Stock Transfer)\n6. 实物调整流程 (Physical Adjustment Process)\n7. 实物盘点流程 (Physical Count Process)\n8. 价格加价/减价 (Price Mark-up/Down)\n9. 在线查询 (On-Line Inquiry)\n10. 基于 SQL Server Reporting Services 的 Web 管理报表\n11. 数据接口/交换 (Data Interface/Exchange)\n12. 管理流程 (Administration Process)\n\n注意：有关最新的可选模块列表，请咨询 Sanyo Extended System Services Ltd. 的销售部门。",
+      "source": "v7 Book-1 Section 1.1 Page 4",
+      "images": [
+        "v7_Book-1_TABLES_p001_img00.jpeg",
+        "v7_Book-1_TABLES_p001_img01.jpeg",
+        "v7_Book-1_TABLES_p001_img02.jpeg"
+      ],
+      "keywords": [
+        "系统概览",
+        "模块",
+        "ChainStore Plus",
+        "system overview",
+        "modules",
+        "零售管理系统"
+      ],
+      "_original_id": "faq-001"
+    },
+    {
+      "id": "faq-008",
+      "category": "系统入门",
+      "subcategory": "系统设置",
+      "question": "如何访问 ChainStore Plus 的系统设置和选择语言？",
+      "answer": "访问系统设置的步骤如下：\n\n1. 点击屏幕右上角的 \"三个竖点\" 图标（位于登录用户名旁边）\n2. 从弹出菜单中选择 'Settings'（设置）\n3. 在设置菜单中可以访问以下功能：\n   - **Account（账户）** - 更改登录密码\n   - **Language（语言）** - 更改系统显示语言\n\n**语言选择：**\nChainStore Plus 支持多种语言，默认支持的语言包括：\n- 英语 (English)\n- 繁体中文 (Traditional Chinese)\n- 简体中文 (Simplified Chinese)\n\n用户可通过将鼠标悬停在语言选项上并点击来选择所需语言。系统界面将立即切换为所选语言显示。",
+      "source": "v7 Book-1 Section 1.2.2 Page 9, Section 3.8 Page 30",
+      "images": [
+        "v7_Book-1_TABLES_p009_img00.jpeg",
+        "v7_Book-1_TABLES_p030_img00.jpeg"
+      ],
+      "keywords": [
+        "系统设置",
+        "语言选择",
+        "Settings",
+        "Language",
+        "繁体中文",
+        "简体中文",
+        "English"
+      ],
+      "_original_id": "faq-005"
+    },
+    {
+      "id": "faq-009",
+      "category": "系统工具",
+      "subcategory": "公司文件",
+      "question": "如何创建和管理公司文件（Company File）？字段有哪些要求？",
+      "answer": "公司文件维护用于管理多公司控制系统中各公司信息。不同公司的信息将区分并存储在独立的公司数据目录中。\n\n**功能：**\n1. 创建记录 (Create Record) - 向公司文件添加新记录\n2. 修改记录 (Modify Record) - 更改现有公司文件记录的信息\n3. 删除记录 (Delete Record) - 移除现有公司\n4. 查看记录 (View Record) - 显示现有公司文件记录的详细信息\n5. 复制记录 (Copy Record) - 将现有公司信息复制为新的记录\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Company Code（公司代码） | X(02) - 必填字段 - 唯一的代码，代表特定公司 |\n| Company Name（公司名称） | X(50) - 必填字段 - 公司名称 |\n| Base Currency（基础货币） | X(03) - 必填字段 - 该公司通常使用的基础货币 |\n\n**操作步骤：**\n1. 进入 Administration 菜单下的 Company File Maintenance\n2. 点击 \"Create New Record\" 图标创建新公司\n3. 输入公司代码（2位字母数字）、公司名称（最多50字符）和基础货币代码（3位）\n4. 保存记录\n5. 如需修改，选择记录后点击 \"Modify Record\" 图标进行编辑",
+      "source": "v7 Book-1 Section 3.1 Page 18-19",
+      "images": [
+        "v7_Book-1_TABLES_p018_img00.jpeg",
+        "v7_Book-1_TABLES_p019_img00.jpeg",
+        "v7_Book-1_TABLES_p019_img01.jpeg",
+        "v7_Book-1_TABLES_p019_img02.jpeg"
+      ],
+      "keywords": [
+        "公司文件",
+        "公司代码",
+        "公司名称",
+        "基础货币",
+        "company file",
+        "company code",
+        "base currency"
+      ],
+      "_original_id": "faq-009"
+    },
+    {
+      "id": "faq-010",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "用户表维护（User Table Maintenance）的作用是什么？如何设置用户访问权限？",
+      "answer": "用户表维护是系统的安全模块，提供对程序、文件和功能的访问控制。如果某个用户对某功能被设置为 'NO' 访问权限，则不允许未经授权的数据访问。系统管理员需要在此维护模块中根据用户权限构建访问授权。\n\n该模块在主菜单的 Administration 下，用于以下目的：\n- 维护用户登录信息\n- 设置每个操作模块、程序或功能的访问授权\n\n**可使用功能：**\n1. 创建记录 (Create Record) - 向系统添加新记录\n2. 修改记录 (Modify Record) - 更改现有记录信息\n3. 删除记录 (Delete Record) - 移除现有记录\n4. 查询记录 (Inquiry Record) - 显示选定记录的详细信息\n5. 复制记录 (Copy Record) - 将现有记录复制为新记录",
+      "source": "v7 Book-1 Section 3.2 Page 20, Section 3.4 Page 23-24",
+      "images": [
+        "v7_Book-1_TABLES_p020_img00.jpeg",
+        "v7_Book-1_TABLES_p023_img00.jpeg"
+      ],
+      "keywords": [
+        "用户表",
+        "用户权限",
+        "访问控制",
+        "安全",
+        "user table",
+        "access authorization",
+        "security"
+      ],
+      "_original_id": "faq-010"
+    },
+    {
+      "id": "faq-011",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "用户安全维护中各字段（用户名、用户ID、级别等）的含义是什么？",
+      "answer": "用户安全维护（User Security Maintenance）屏幕用于维护用户的登录信息和系统访问权限。以下是各字段的详细说明：\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| User Name（用户名） | X(40) - 必填字段 - 用户登录 ID |\n| Full Name（全名） | X(40) - 必填字段 - 用户全名 |\n| User ID（用户编号） | X(03) - 必填字段 - 系统用户 ID |\n| Class（级别） | X(01) - 必填字段 - 用户在公司的级别：0=管理员，1=正式员工（可查看产品成本），2=初级员工（不可查看产品成本） |\n| User Group（用户组） | X(40) - 可选字段 - ChainStorePlus 用户组 |\n| Dept（部门） | X(01) - 可选字段 - 部门代码 |\n| Expiry Period（有效期限） | 月数 - 用户密码的有效期（月数） |\n| Expiry Date（到期日期） | dd/mm/yyyy - 用户密码到期日期 |\n| Change button（更改按钮） | 用户密码设置按钮 - 使用方法请参见下一段落（用户密码更改） |",
+      "source": "v7 Book-1 Section 3.4 Page 23-24",
+      "images": [
+        "v7_Book-1_TABLES_p023_img00.jpeg"
+      ],
+      "keywords": [
+        "用户ID",
+        "用户级别",
+        "用户组",
+        "部门",
+        "密码有效期",
+        "user class",
+        "administrator",
+        "staff"
+      ],
+      "_original_id": "faq-011"
+    },
+    {
+      "id": "faq-012",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "如何查看用户程序访问列表（User Program Access Listing）？",
+      "answer": "用户程序访问列表用于搜索和列出用户在后台系统中可访问的程序或模块。\n\n**操作步骤：**\n1. 在 Administration 菜单中选择 User Program Access Listing\n2. 系统将提示确认对话框 (Confirmation Dialog Box)\n3. 确认输入信息正确后点击 \"OK\"\n4. 生成的列表会显示在文档队列管理屏幕 (Document Queue Management Screen) 中（请参阅打印队列部分）\n\n**排序选项：**\n- **P - Program ID（程序ID）**：结果集按程序 ID 排序\n- **M - Main Sequence（主序列）**：结果集按程序描述排序\n\n**输出结果：**\n打印结果将显示用户可访问的所有程序和模块的列表，便于管理员审核用户权限设置。",
+      "source": "v7 Book-1 Section 3.3 Page 21-22",
+      "images": [
+        "v7_Book-1_TABLES_p021_img00.jpeg",
+        "v7_Book-1_TABLES_p021_img01.jpeg",
+        "v7_Book-1_TABLES_p022_img00.jpeg"
+      ],
+      "keywords": [
+        "程序访问列表",
+        "用户权限",
+        "访问列表",
+        "program access",
+        "program access listing",
+        "模块权限"
+      ],
+      "_original_id": "faq-012"
+    },
+    {
+      "id": "faq-013",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "如何更改 ChainStore Plus 的登录密码？",
+      "answer": "用户可以通过以下步骤更改登录密码：\n\n1. 点击屏幕右上角的 \"三个竖点\" 图标\n2. 选择 'Settings'（设置）选项\n3. 在设置界面点击 'Account'（账户）\n4. 在密码更改界面，需要输入 'Old Password'（旧密码）进行验证\n5. 输入新密码并确认\n6. 保存更改\n\n注意：请确保新密码符合公司的密码策略要求（如最小字符数、禁止包含限制关键词等）。",
+      "source": "v7 Book-1 Section 3.5 Page 25",
+      "images": [
+        "v7_Book-1_TABLES_p025_img00.jpeg",
+        "v7_Book-1_TABLES_p025_img01.jpeg"
+      ],
+      "keywords": [
+        "修改密码",
+        "更改密码",
+        "密码",
+        "password change",
+        "old password",
+        "账户设置"
+      ],
+      "_original_id": "faq-013"
+    },
+    {
+      "id": "faq-014",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "如何设置密码限制关键词（Password Restricted Keyword）？",
+      "answer": "密码限制关键词功能允许用户在创建账户或更改密码时禁止某些字符或字符串。此表用于查看和输入不能作为密码的全部或部分内容的文字或字符串。\n\n**操作步骤：**\n1. 进入 Administration 菜单下的 User Password Restricted Keyword\n2. 输入需要限制的关键词\n3. 保存设置\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Restricted Keyword（限制关键词） | X(40) - 必填字段 - 不能作为用户密码全部或部分内容的文字或字符串 |\n\n**作用：**\n- 设置后，任何用户在创建或更改密码时，如果密码包含这些关键词（全部或部分），系统将拒绝该密码\n- 这有助于防止使用公司名称、品牌名等易被猜测的密码",
+      "source": "v7 Book-1 Section 3.6 Page 26-27",
+      "images": [
+        "v7_Book-1_TABLES_p026_img00.jpeg",
+        "v7_Book-1_TABLES_p027_img00.jpeg"
+      ],
+      "keywords": [
+        "密码限制",
+        "限制关键词",
+        "密码安全",
+        "restricted keyword",
+        "password restriction",
+        "禁用词"
+      ],
+      "_original_id": "faq-014"
+    },
+    {
+      "id": "faq-015",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "如何设置密码策略（Password Policy）？各字段的含义是什么？",
+      "answer": "密码策略定义了密码强度规则，用于判断新密码是否有效。此功能设定密码必须遵守的规则。\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Effective Date（生效日期） | X(dd/mm/yyyy) - 必填字段 - 此组密码策略的生效日期 |\n| Restrict the reuse recently used passwords times（限制近期密码重复使用次数） | X(5) - 必填字段 - 决定在旧密码可重新使用之前，用户账户必须关联多少个唯一新密码 |\n| min char（最小字符数） | X(02) - 可选字段 - 密码的最小字符数 |\n\n**作用：**\n- 确保用户设置的新密码满足组织安全要求\n- 防止密码短期内重复使用\n- 设置最小密码长度，增强密码强度",
+      "source": "v7 Book-1 Section 3.7 Page 28-29",
+      "images": [
+        "v7_Book-1_TABLES_p028_img00.jpeg",
+        "v7_Book-1_TABLES_p029_img00.jpeg"
+      ],
+      "keywords": [
+        "密码策略",
+        "密码强度",
+        "密码有效期",
+        "最小字符",
+        "password policy",
+        "password strength",
+        "密码重用"
+      ],
+      "_original_id": "faq-015"
+    },
+    {
+      "id": "faq-016",
+      "category": "系统工具",
+      "subcategory": "用户管理",
+      "question": "ChainStore Plus 支持哪些界面语言？如何切换系统语言？",
+      "answer": "ChainStore Plus 支持多语言显示，用户可以根据需要选择系统显示语言。\n\n**默认支持的语言：**\n- 英语 (English)\n- 繁体中文 (Traditional Chinese)\n- 简体中文 (Simplified Chinese)\n\n**切换语言步骤：**\n1. 点击屏幕右上角的 \"三个竖点\" 图标\n2. 选择 'Settings'（设置）选项\n3. 点击 'Language'（语言）\n4. 将鼠标滑过所需语言并点击选择\n5. 系统界面将立即切换为所选语言显示",
+      "source": "v7 Book-1 Section 3.8 Page 30",
+      "images": [
+        "v7_Book-1_TABLES_p030_img00.jpeg"
+      ],
+      "keywords": [
+        "切换语言",
+        "英语",
+        "繁体中文",
+        "简体中文",
+        "language",
+        "English",
+        "Chinese"
+      ],
+      "_original_id": "faq-016"
+    },
+    {
+      "id": "faq-017",
+      "category": "基础表维护",
+      "subcategory": "POS设置",
+      "question": "POS 付款方式（POS Tender）如何设置？各字段的含义是什么？",
+      "answer": "此表用于定义 POS 前台的销售中接受的付款类型。常见的付款方式包括现金、信用卡（AE、Visa 等）、外币（美元、日元、英镑等），甚至公司发行的现金券都可以在此表定义。\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Currency Code（货币代码） | X(03) - 必填字段 - 此付款类型的货币 |\n| Payment Code（付款代码） | X(03) - 必填字段 - 表示此特定付款类型的唯一代码。注意：\"FMM\"（会员退款）、\"MEM\"（会员）、\"EPM\"（电子支付）为系统保留词，用户不得使用 |\n| Location Code（地点代码） | X(04) - 可选字段 - 此付款类型将适用的地点 |\n| Payment Name（付款名称） | X(40) - 必填字段 - 此付款类型的描述 |\n| Rate（汇率） | 9(05).9(05) - 必填字段 - POS 中此付款类型使用的汇率 |\n| Payment Type（付款类型） | 必填字段 - 通过组合框选择 - 对于 POS 前台的退货凭证功能，必须定义 'Return Voucher' 和 'Return Voucher redeem' 类型。对于 POS 前台的 'Deposit Return' 功能，至少必须定义 'Credit Voucher' 类型 |\n| S9000 Payment Type（S9000付款类型） | X(10) - 如果 \"Payment Type\"=\"A-Electronic Payment\" 则为必填，否则为空 - 从 S9000 设备返回的付款类型 |\n| Report Type（报表类型） | 必填字段 - 选择 \"Card\" 属于 Card 组，\"Others\" 属于 Others 组，\"Traveller Cheque\" 属于 Traveller Cheque 组，\"Cash\" 属于 Cash 组 |\n| Commission（佣金） | 付款类型的佣金率 |\n| Last Modified Date（最后修改日期） | 99/99/9999 (dd/mm/yyyy) - 仅显示 - 上次修改此付款类型记录的日期 |\n| Skip Daily Ex. Rate（跳过每日汇率） | 必填字段 - 指示此付款类型是否显示在每日汇率输入屏幕的标志（选择 \"Yes\" 或 \"No\"） |",
+      "source": "v7 Book-1 Section 4.9 Page 51-52",
+      "images": [
+        "v7_Book-1_TABLES_p051_img00.jpeg"
+      ],
+      "keywords": [
+        "POS付款",
+        "付款方式",
+        "tender",
+        "payment code",
+        "信用卡",
+        "现金",
+        "外币",
+        "佣金"
+      ],
+      "_original_id": "faq-025"
+    },
+    {
+      "id": "faq-018",
+      "category": "基础表维护",
+      "subcategory": "POS设置",
+      "question": "POS 付款类型（Payment Type）ID 及其功能有哪些？",
+      "answer": "POS 付款类型的功能设置及其使用说明如下：\n\n| ID | 付款类型 | 说明 |\n|----|----------|------|\n| A | Electronic Payment（电子支付） | 仅在启用\"信用卡接口\"选项时需要。客户通过已认证的 S9000 卡终端支付时，终端会自动返回代码识别具体信用卡类型（如 Visa、Master Card）。需要与表中的 \"S9000 Payment Type\" 字段配合使用 |\n| B | EPS（易办事） | 允许 S9000 连接的 EPS 支付 |\n| C | Credit Card（信用卡） | 在没有 S9000 卡终端连接的情况下接受信用卡支付。常见信用卡类型（Visa、AE、Master 等）在表中的 Payment Code 字段定义 |\n| D | Credit Voucher（信用凭证） | 用于 POS 退货的不可兑换退款凭证 |\n| E | Credit Card Refund（信用卡退款） | 用于销售退货或商品退货操作中的信用卡退款控制 |\n| F | Return Voucher Redeem（退货凭证兑换） | 此特定付款方式归类为客户兑换退货凭证 |\n| G | Cash Voucher（现金券） | 用于非序列号基的现金券 |\n| H | Uniform Coupon（制服券） | 此付款代码用于\"员工制服\"兑换目的 |\n| I | NOT use（不使用） | 不使用 |\n| J | Cash Coupon（现金券，序列号） | 用于基于序列号的现金券。使用时将验证现金券的序列号 |\n| K | Credit Sales（赊销） | 此付款代码归类为赊销 |\n| L | Cheque（支票） | 个人银行支票付款 |\n| P | Gift Certificate（礼品券） | 礼品券付款。必须使用礼品券序列号并进行验证 |\n| R | Return Voucher（退货凭证） | 用于 POS 退货的可兑换现金券。必须使用退货凭证序列号并进行验证 |\n| O | Online Coupon Redeem（在线券兑换） | 此付款方式由客户在线可用积分兑换的奖励积分支付 |\n\n**S9000 相关类型：**\n| ID | 付款类型 | 说明 |\n|----|----------|------|\n| 0 | S9000(EPM) | 仅在启用\"信用卡接口\"选项时需要。客户通过 S9000 卡终端使用信用卡（除 CUP 卡外）支付时使用 |\n| 1 | S9000(CUP) | 仅在启用\"信用卡接口\"选项时需要。客户通过 S9000 卡终端使用 CUP 卡支付时使用 |\n| 2 | Octopus（八达通） | 仅在启用\"八达通\"接口选项时需要。通过八达通智能卡支付的付款方式。需要额外的八达通读取设备和程序 |\n| 3 | EPAY(Installment)（分期付款） | 不再使用 |\n| 4 | S9000 (EIN) | 仅在启用\"信用卡接口\"选项时需要。S9000 的分期付款功能 |",
+      "source": "v7 Book-1 Section 4.9 Page 53-55",
+      "images": [
+        "v7_Book-1_TABLES_p053_img00.jpeg",
+        "v7_Book-1_TABLES_p053_img01.jpeg"
+      ],
+      "keywords": [
+        "付款类型ID",
+        "电子支付",
+        "信用卡",
+        "八达通",
+        "S9000",
+        "payment type",
+        "EPS",
+        "现金券",
+        "礼品券"
+      ],
+      "_original_id": "faq-026"
+    },
+    {
+      "id": "faq-019",
+      "category": "基础表维护",
+      "subcategory": "POS设置",
+      "question": "如何设置 POS 付款按键控制（POS Payment Key Button Control）？",
+      "answer": "此流程允许用户根据个人偏好设置 POS 前台的付款按键顺序。\n\n**操作说明：**\n\n**按键分配规则：**\n- 用户可以自由编辑/分配付款流程到每个按钮\n- 最后一个 <F10> 按钮保留为 \"EXIT\"（退出）按钮，不可更改\n- 如有必要，用户可以在一个按钮中\"分组\"多个付款类型\n- 示例：\"Foreign Exchange\"（外币）按钮可以将多种可接受的外币归入一个按钮下，如美元、新台币、欧元、日元等\n\n**布局设置：**\n- POS 付款按键布局可以分配到店铺级别（Shop Level）\n- 如果设置为 \"Blank\"（空白），则表示适用于所有店铺\n- POS 付款按键布局根据每种基础货币（Base Currency）定义：\n  - 至少为接收港币（HK$）的香港店铺设置一套布局\n  - 为接收人民币（RMB）的中国店铺设置另一套 POS 付款按键布局\n\n**付款代码引用：**\n- 按键引用的付款代码需要在 POS 付款方式表（Payment Table）中预先定义",
+      "source": "v7 Book-1 Section 4.10 Page 56",
+      "images": [
+        "v7_Book-1_TABLES_p056_img00.jpeg",
+        "v7_Book-1_TABLES_p056_img01.jpeg"
+      ],
+      "keywords": [
+        "付款按键",
+        "payment key",
+        "POS按键",
+        "付款布局",
+        "按钮设置",
+        "F10"
+      ],
+      "_original_id": "faq-027"
+    },
+    {
+      "id": "faq-020",
+      "category": "基础表维护",
+      "subcategory": "POS设置",
+      "question": "如何维护 POS 安全访问（POS Security Access）？如何分配功能权限？",
+      "answer": "POS 安全访问维护用于定义不同的安全代码及其功能访问权限。\n\n**摘要页面：**\n- 列出系统中已定义的所有\"安全代码\"(Security Code)\n- 这些代码根据定义的\"角色描述\"赋予不同的功能访问权限\n- 例如：\"Shop Manager\"（店铺经理）角色的访问权限应与 \"Shop Supervisor\"（店铺主管）或 \"Shop Trainee\"（店铺实习生）不同\n\n**权限分配：**\n- 首先需要为您需要的角色创建访问权限，如\"Shop Manager\"或\"Sales Supervisor\"的不同 POS 安全代码\n- 然后将此安全代码（如店铺经理）分配给在店铺中担任销售经理角色的销售人员（或一组店铺）\n\n**功能权限设置：**\n- 勾选符号（Tick）表示已授权访问该流程的功能\n- 锁符号（Lock）表示禁止访问该流程功能\n\n**示例：**\n- 管理员 (Administrator) 角色拥有所有功能的访问权限（全部勾选）\n- 普通销售人员可能只有销售相关功能的访问权限",
+      "source": "v7 Book-1 Section 4.14 Page 63-64",
+      "images": [
+        "v7_Book-1_TABLES_p063_img00.jpeg",
+        "v7_Book-1_TABLES_p064_img00.jpeg"
+      ],
+      "keywords": [
+        "POS安全",
+        "安全访问",
+        "权限控制",
+        "角色管理",
+        "security access",
+        "security code",
+        "shop manager"
+      ],
+      "_original_id": "faq-031"
+    },
+    {
+      "id": "faq-021",
+      "category": "基础表维护",
+      "subcategory": "人员管理",
+      "question": "如何维护销售人员代码（Sales Staff Code）？POS 安全代码如何设置？",
+      "answer": "此表用于在系统中登记销售人员的详细信息。通过为每个销售人员分配唯一代码，系统将自动跟踪销售人员的访问授权、销售业绩，甚至在 POS 中的登录和签退考勤。\n\n**字段设置说明：**\n\n**POS 安全代码 (POS Security Code)：**\n- 需要预先定义 POS 安全代码表\n- 此代码已预设了功能访问权限\n- 系统会对照相关表验证此代码\n\n**密码设置：**\n- 可设置限制此 POS 用户必须使用密码登录 POS\n- 密码需要每 N 个月更改一次\n\n**地点访问权限设置：**\n- 这是 POS 用户的地点访问权限设置\n- 示例中，此 POS 用户被设置为仅允许访问特定的\"地点\"/店铺\n- 授权地点在示例中进一步定义为仅限 A005 地点\n- 用户可以为每个用户设置多个访问地点，每个地点可设置不同的功能访问权限",
+      "source": "v7 Book-1 Section 4.8 Page 49-50",
+      "images": [
+        "v7_Book-1_TABLES_p049_img00.jpeg",
+        "v7_Book-1_TABLES_p050_img00.jpeg"
+      ],
+      "keywords": [
+        "销售人员",
+        "sales staff",
+        "POS安全代码",
+        "销售业绩",
+        "员工考勤",
+        "salesperson",
+        "POS access"
+      ],
+      "_original_id": "faq-024"
+    },
+    {
+      "id": "faq-022",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护类别代码（Category Code）？字段有哪些要求？",
+      "answer": "类别代码维护用于为商品维护通用类别信息，该信息在商品主数据维护（Item Master Maintenance）中使用。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Category Code（类别代码） | X(03) - 必填字段 - 用于在商品主数据维护中定义类别的唯一代码 |\n| Description（描述） | X(40) - 必填字段 - 该类别的描述 |\n| Sub. Category（子类别） | X(02) - 可选字段 - 定义该类别的子类别的唯一代码，使用此类别的商品必须属于其中一个子类别，最多可输入30个 |\n| Sub. Category Description（子类别描述） | X(10) - 如果已定义子类别代码则为必填 - 子类别的描述 |\n| Serial Flag（序列号标志） | 可选 - 设置为 \"YES\" 表示该类别的商品将具有序列号 |\n| Discount Control（折扣控制） | X(01) - 必填字段 - 默认为 'No' - 设置为 \"YES\" 表示该类别的商品有折扣控制，POS 销售时不允许打折 |\n| Max. Discount（最大折扣） | 99.99 - 可选字段 - 仅在折扣控制设置为 'NO' 时可用 - 以零售价的百分比表示 |",
+      "source": "v7 Book-1 Section 4.4 Page 43-44",
+      "images": [
+        "v7_Book-1_TABLES_p043_img00.jpeg"
+      ],
+      "keywords": [
+        "类别代码",
+        "category code",
+        "商品分类",
+        "子类别",
+        "序列号",
+        "折扣控制",
+        "item category"
+      ],
+      "_original_id": "faq-020"
+    },
+    {
+      "id": "faq-023",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护尺码类别（Size Category）？字段有哪些要求？",
+      "answer": "尺码类别维护用于为商品维护一组尺码范围的类别，在商品主数据维护中使用。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Size Category（尺码类别） | X(04) - 必填字段 - 用于定义特定尺码类别的唯一代码，在商品主数据维护中使用 |\n| Size assortment（尺码分类） | X(04) - 可选字段 - 每个尺码类别最多16个尺码分类 |\n\n**操作说明：**\n- 先定义尺码类别（如服装尺码、鞋码等）\n- 然后在每个类别下定义具体的尺码分类（如 S、M、L、XL 或 36、37、38 等）",
+      "source": "v7 Book-1 Section 4.5 Page 45",
+      "images": [
+        "v7_Book-1_TABLES_p045_img00.jpeg"
+      ],
+      "keywords": [
+        "尺码类别",
+        "尺码",
+        "size category",
+        "size assortment",
+        "商品尺码",
+        "服装尺码"
+      ],
+      "_original_id": "faq-021"
+    },
+    {
+      "id": "faq-024",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护颜色代码（Color Code）？各字段有什么要求？",
+      "answer": "颜色代码维护用于为商品维护通用颜色信息，在商品主数据维护中使用。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Color Code（颜色代码） | X(05) - 必填字段 - 用于定义特定颜色的唯一代码，在商品主数据维护中使用 |\n| Description（描述） | X(40) - 可选字段 - 指代此颜色代码的简短描述 |\n| Sub Color（子颜色） | 可选 - 可以在次级（可选）维护下的 \"Sub Color\"（子颜色）表中定义 |",
+      "source": "v7 Book-1 Section 4.6 Page 46-47",
+      "images": [
+        "v7_Book-1_TABLES_p046_img00.jpeg",
+        "v7_Book-1_TABLES_p046_img01.jpeg"
+      ],
+      "keywords": [
+        "颜色代码",
+        "color code",
+        "商品颜色",
+        "子颜色",
+        "颜色维护",
+        "item color"
+      ],
+      "_original_id": "faq-022"
+    },
+    {
+      "id": "faq-025",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护品牌代码（Brand Code）？各字段有什么要求？",
+      "answer": "品牌代码维护用于为商品维护通用品牌信息，在商品主数据维护中使用。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Brand Code（品牌代码） | X(06) - 必填字段 - 用于定义特定品牌的唯一代码，在商品主数据维护中使用 |\n| Brand Name（品牌名称） | X(40) - 可选字段 - 表示该品牌代码的名称 |\n| Supplier Code（供应商代码） | X(08) - 必填字段 - 品牌的供应商 - 供应商代码将对照供应商表进行验证 |\n| Max. Discount（最大折扣） | 99.99 - 可选字段 - 该品牌允许的最大折扣 |",
+      "source": "v7 Book-1 Section 4.7 Page 47-48",
+      "images": [
+        "v7_Book-1_TABLES_p047_img00.jpeg"
+      ],
+      "keywords": [
+        "品牌代码",
+        "brand code",
+        "品牌名称",
+        "供应商",
+        "最大折扣",
+        "brand maintenance"
+      ],
+      "_original_id": "faq-023"
+    },
+    {
+      "id": "faq-026",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护性别/性别代码（Sex/Gender Code）？",
+      "answer": "性别/性别代码表用于定义产品的性别类型。此表是商品主数据表 (Item Master Table) 的可选表，根据需要决定是否使用。\n\n**说明：**\n- 此表归类在\"特殊表（可选表）\"(Special/Optional Tables) 下\n- 这些表主要用于描述\"产品风格\"(The Product Style)，可能根据商品主数据维护的可选需求而定\n- 在使用前，请务必咨询业务顾问 (Business Consultant)\n- 大多数常规处理不需要此表，除非有特定目的\n\n**示例：**\n- 定义如 \"Men\"（男装）、\"Women\"（女装）、\"Unisex\"（男女通用）等性别类型",
+      "source": "v7 Book-1 Section 4.16 Page 66",
+      "images": [
+        "v7_Book-1_TABLES_p066_img00.jpeg",
+        "v7_Book-1_TABLES_p066_img01.jpeg"
+      ],
+      "keywords": [
+        "性别代码",
+        "性别",
+        "sex code",
+        "gender code",
+        "产品风格",
+        "特殊表",
+        "可选表"
+      ],
+      "_original_id": "faq-033"
+    },
+    {
+      "id": "faq-027",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护系列代码（Collection Code）？",
+      "answer": "系列代码表用于定义产品的特定\"系列\"(Collection)。此表是商品主数据表 (Item Master Table) 的可选表，根据需要决定是否使用。\n\n**说明：**\n- 此表归类在\"特殊表（可选表）\"(Special/Optional Tables) 下\n- 主要用于描述\"产品风格\"(The Product Style)，属于商品主数据维护的可选需求\n- 大多数常规处理不需要此表，除非有特定目的\n- 在使用前，请务必咨询业务顾问 (Business Consultant)\n\n**示例：**\n- 定义如 \"Spring Collection 2023\"（2023春季系列）、\"Summer Collection\"（夏季系列）等",
+      "source": "v7 Book-1 Section 4.17 Page 67",
+      "images": [
+        "v7_Book-1_TABLES_p067_img00.jpeg"
+      ],
+      "keywords": [
+        "系列代码",
+        "collection code",
+        "产品系列",
+        "商品系列",
+        "特殊表",
+        "可选表"
+      ],
+      "_original_id": "faq-034"
+    },
+    {
+      "id": "faq-028",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护标签代码（Label Code）？",
+      "answer": "标签代码表用于某些特殊商品标签描述，仅限特定用途使用。\n\n**说明：**\n- 此表归类在\"特殊表（可选表）\"(Special/Optional Tables) 下\n- 用于描述\"产品风格\"(The Product Style) 的可选需求\n- 系统中目前没有常规处理流程使用此表\n- 在使用前，请务必咨询业务顾问 (Business Consultant)\n- 大多数常规处理不需要此表，除非有特定目的",
+      "source": "v7 Book-1 Section 4.18 Page 68",
+      "images": [
+        "v7_Book-1_TABLES_p068_img00.jpeg"
+      ],
+      "keywords": [
+        "标签代码",
+        "label code",
+        "商品标签",
+        "产品标签",
+        "特殊表",
+        "可选表"
+      ],
+      "_original_id": "faq-035"
+    },
+    {
+      "id": "faq-029",
+      "category": "基础表维护",
+      "subcategory": "商品分类",
+      "question": "如何维护计量单位（Unit of Measure）？",
+      "answer": "计量单位维护用于定义和管理系统中的计量单位。\n\n**说明：**\n- 此表属于特殊表/可选表类别\n- 用于定义商品的各种计量单位（如件、箱、公斤、米等）\n- 是系统基础表之一，用于商品主数据维护中定义商品的计量方式\n\n**注意：** 此表的具体字段细节请参阅系统的实际屏幕显示，根据业务需求进行定义。",
+      "source": "v7 Book-1 Section 4.19 Page 69-70",
+      "images": [
+        "v7_Book-1_TABLES_p069_img00.jpeg",
+        "v7_Book-1_TABLES_p070_img00.jpeg"
+      ],
+      "keywords": [
+        "计量单位",
+        "unit of measure",
+        "计量单位维护",
+        "商品单位",
+        "基础表"
+      ],
+      "_original_id": "faq-036"
+    },
+    {
+      "id": "faq-030",
+      "category": "基础表维护",
+      "subcategory": "地点管理",
+      "question": "如何创建和管理地点代码（Location Code）？各字段的含义是什么？",
+      "answer": "地点代码用于识别特定地点的用途。系统在许多关键流程中使用地点信息。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**(I) 汇总显示 (Summary Display)**\n\n**(II) 常规信息屏幕 (General Info) 字段：**\n\n| 提示 | 说明 |\n|------|------|\n| Location Code（地点代码） | X(08) - 必填字段 - 首字符应引用部门代码 - 用于定义地点的唯一代码 |\n| Location Type（地点类型） | X(01) - 必填字段 - 用户必须从选择框中选择地点类型 |\n| Franchisee Operation（特许经营） | 可选复选框 - 如果是特许经营店铺则勾选，其处理流程可能与常规自有店铺不同 |\n| Location Name（地点名称） | X(40) - 必填字段 - 地点的描述或名称 |\n\n**(III) 其他属性 (Other Properties) 字段：**\n\n| 提示 | 说明 |\n|------|------|\n| Open/Close（开店/关店日期） | 输入店铺开业或关闭日期 - dd/mm/yyyy |\n| Interface Loc（接口地点） | 可选。仅用于与第三方系统接口对接，其地点代码与 ChainStorePlus 不同 |\n| Repl. W/H（补货仓库） | 可选。仅当地点有特殊补货仓库时使用 |\n| Project Location（项目地点） | X(01) - 可选字段 - 勾选则启用为此地点为项目地点，需要项目编号才能在项目地点安装 POS |\n| Department Store（百货商店） | X(01) - 可选字段 - 勾选则启用为此地点为百货商店 |\n| Not Download to POS（不下载到POS） | X(01) - 可选字段 - 勾选则此地点不下载到前端 POS |\n| Tax Exemption Allowed（允许免税） | X(01) - 可选字段 - 勾选则此地点允许免税 |\n| Not allowed in Stock Transfer（不允许库存调拨） | X(01) - 可选字段 - 勾选则此地点不包含在 POS 库存调拨选择中 |\n| Exclude O/H（排除在库存外） | X(01) - 可选字段 - 勾选则此地点排除在现有库存计算之外 |\n| Country（国家） | X(02) - 必填字段 - 地点所在的国家代码 |\n| Channel（渠道） | 必填字段 - 手动维护的渠道属性，如 1-Retail（零售）、2-Outlet（折扣店）、3-Others（其他） |\n\n**(IV) 组分配 (Group Assignment) - 内部地区结构：**\n- 用于定义地点的\"内部地区结构\"（即该店铺属于哪个地区）\n- 示例中地点被定义为\"广州市\"的\"城市级\"\n- 树状结构显示在列表框中供用户参考\n- 注意：各层级之间的树状关系需要先在\"Location Tree\"（地点树）表中定义\n- 控制地点从\"店铺到仓库\"和\"店铺到店铺\"的调拨权限\n- 在示例中，该店铺设置允许向\"省\"级别的仓库调拨，店铺间调拨仅限\"城市\"内",
+      "source": "v7 Book-1 Section 4.2 Page 37-41",
+      "images": [
+        "v7_Book-1_TABLES_p037_img00.jpeg",
+        "v7_Book-1_TABLES_p038_img00.jpeg",
+        "v7_Book-1_TABLES_p039_img00.jpeg",
+        "v7_Book-1_TABLES_p039_img01.jpeg",
+        "v7_Book-1_TABLES_p041_img00.jpeg"
+      ],
+      "keywords": [
+        "地点代码",
+        "location code",
+        "店铺管理",
+        "地点类型",
+        "仓库",
+        "项目地点",
+        "特许经营",
+        "库存调拨"
+      ],
+      "_original_id": "faq-018"
+    },
+    {
+      "id": "faq-031",
+      "category": "基础表维护",
+      "subcategory": "地点管理",
+      "question": "地点类别维护（Location Class Maintenance）的作用是什么？",
+      "answer": "地点类别用于识别每个地点类别属性。系统在许多关键流程中使用此地点类别信息。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n此表用于定义地点分类属性，例如店铺类型、仓库类型等，便于系统按类别进行管理和处理。",
+      "source": "v7 Book-1 Section 4.3 Page 42",
+      "images": [
+        "v7_Book-1_TABLES_p042_img00.jpeg",
+        "v7_Book-1_TABLES_p042_img01.jpeg",
+        "v7_Book-1_TABLES_p042_img02.jpeg"
+      ],
+      "keywords": [
+        "地点类别",
+        "location class",
+        "店铺分类",
+        "地点分类",
+        "location classification"
+      ],
+      "_original_id": "faq-019"
+    },
+    {
+      "id": "faq-032",
+      "category": "基础表维护",
+      "subcategory": "地点管理",
+      "question": "如何设置地点信息（Location Message）如促销信息和节日问候？",
+      "answer": "地点信息维护用于设置打印在销售单上的特殊信息，如促销信息、圣诞节和新年等节日问候。可以在特定时间段内打印。\n\n**字段设置说明：**\n\n- **地点代码 (Location Code)：**\n  - 留空表示适用于\"所有地点\"（ALL location）\n  - 如果输入了地点代码，则仅对该特定地点有效\n\n- **生效日期：**\n  - 设置信息在 POS 中的有效打印日期\n  - 在指定日期范围内，信息才会打印在销售单上\n\n**示例：**\n- 圣诞节期间设置 \"Merry Christmas\" 信息\n- 设置促销活动信息，如 \"Summer Sale - 20% Off\"\n- 指定信息的生效和截止日期，确保在正确的时间段打印",
+      "source": "v7 Book-1 Section 4.13 Page 61-62",
+      "images": [
+        "v7_Book-1_TABLES_p061_img00.jpeg"
+      ],
+      "keywords": [
+        "地点信息",
+        "促销信息",
+        "节日问候",
+        "打印信息",
+        "location message",
+        "sales memo",
+        "POS打印"
+      ],
+      "_original_id": "faq-030"
+    },
+    {
+      "id": "faq-033",
+      "category": "基础表维护",
+      "subcategory": "库存管理",
+      "question": "如何维护仓库批次备注（Warehouse Lot Remarks）？",
+      "answer": "仓库批次备注维护用于管理与商品主数据相关的仓库批次备注表，以供将来的报表使用。\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Item Code（商品代码） | X(14) - 显示字段 - 商品代码 |\n| Description（描述） | X(30) - 显示字段 - 商品描述 |\n| W/H Lot Remarks（仓库批次备注） | X(8) - 可选字段 - 商品所定义的仓库批次备注 |\n\n**使用说明：**\n- 此表属于次级表（Secondary Tables），可能仅针对特定客户有特定用途\n- 用于在仓库和批次级别对商品添加备注信息\n- 备注信息可用于将来的报表和分析目的",
+      "source": "v7 Book-1 Section 4.15 Page 65",
+      "images": [
+        "v7_Book-1_TABLES_p065_img00.jpeg",
+        "v7_Book-1_TABLES_p065_img01.jpeg"
+      ],
+      "keywords": [
+        "仓库批次",
+        "批次备注",
+        "warehouse lot",
+        "lot remarks",
+        "库存管理",
+        "商品备注"
+      ],
+      "_original_id": "faq-032"
+    },
+    {
+      "id": "faq-034",
+      "category": "基础表维护",
+      "subcategory": "组织架构",
+      "question": "如何创建部门代码（Division Code）？各字段有什么要求？",
+      "answer": "部门代码用于按不同的“经营线路”组织运营。这对于组织在 POS 零售业务中使用多个“店铺名称”或“业务性质”的情况非常有用。\n\n**示例：**\n- Division \"A\" = Diana Fashion Chain\n- Division \"B\" = Top Fun Gift Shop Chain\n- Division \"C\" = Live Fit Jeans Wear Chain\n- Division \"D\" = Stationery Chain\n- Division \"E\" = Electronic Product Chain\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Division Code（部门代码） | X(01) - 必填字段 - 唯一代码，定义公司的部门 |\n| Description（描述） | X(40) - 可选字段 - 所定义部门的描述或名称 |",
+      "source": "v7 Book-1 Section 4.1 Page 34-36",
+      "images": [
+        "v7_Book-1_TABLES_p034_img00.jpeg",
+        "v7_Book-1_TABLES_p036_img00.jpeg"
+      ],
+      "keywords": [
+        "部门代码",
+        "division code",
+        "经营线路",
+        "组织架构",
+        "部门维护",
+        "division maintenance"
+      ],
+      "_original_id": "faq-017"
+    },
+    {
+      "id": "faq-035",
+      "category": "基础表维护",
+      "subcategory": "财务设置",
+      "question": "如何维护汇率（Exchange Rate）？各字段的含义是什么？",
+      "answer": "汇率表用于后台操作中的基础货币计算，在收货流程中计算自有库存价值（当采购以外币结算时）。\n\n**重要提示：** 此汇率非 POS 前端销售单使用的汇率。\n\n**功能：**\n1. 创建记录 (Create Record)\n2. 修改记录 (Modify Record)\n3. 删除记录 (Delete Record)\n4. 查看记录 (View Record)\n5. 复制记录为新记录 (Copy Record as new)\n6. 查找记录 (Find Record)\n7. 按列标题排序 (Sort by header)\n8. 调整列宽指示 (Adjust column indication)\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Base Currency（基础货币） | X(03) - 必填字段 - 使用中的基础货币 |\n| Exchange Currency（兑换货币） | X(03) - 必填字段 - 要兑换的外币 |\n| Effective Date（生效日期） | 99/99/9999 - 必填字段 - 此汇率的生效日期 |\n| Exchange Rate（汇率） | 9(05).9(05) - 必填字段 - 外币汇率 |\n| Reverse Exchange Rate（反向汇率） | 9(05).9(05) - 必填字段或自动计算 - 反向汇率，值应等于 1 / 汇率 |\n| Remarks（备注） | X(30) - 可选字段 - 此汇率的备注 |",
+      "source": "v7 Book-1 Section 4.11 Page 57-58",
+      "images": [
+        "v7_Book-1_TABLES_p057_img00.jpeg"
+      ],
+      "keywords": [
+        "汇率",
+        "exchange rate",
+        "基础货币",
+        "外币",
+        "兑换",
+        "反向汇率",
+        "生效日期"
+      ],
+      "_original_id": "faq-028"
+    },
+    {
+      "id": "faq-036",
+      "category": "基础表维护",
+      "subcategory": "通用设置",
+      "question": "如何维护原因表（Reason Table）？各字段有什么要求？",
+      "answer": "原因代码表需要为某些 POS 操作定义，这些操作在处理时需要选择原因代码，如库存调拨、销售退货、服务单等。\n\n**字段说明：**\n\n| 提示 | 说明 |\n|------|------|\n| Reason Code（原因代码） | X(02) - 必填字段 - 用于识别特定原因的唯一代码 |\n| Description（描述） | X(40) - 必填字段 - 原因的文字描述 |\n\n**功能设置：**\n- 这些是允许使用原因代码的 POS 功能类型\n- 一旦定义，相关的原代码将在操作时显示在 POS 中供用户选择\n- 所有原因代码将保存在日志记录中，需要时用户可以检索以进行进一步分析\n\n**操作说明：**\n1. 创建不同的原因代码（如调拨原因、退货原因等）\n2. 为每个代码添加描述\n3. 将原因代码与相应的 POS 功能关联\n4. 在 POS 操作时，系统会提示用户从已定义的原因中选择",
+      "source": "v7 Book-1 Section 4.12 Page 59-60",
+      "images": [
+        "v7_Book-1_TABLES_p059_img00.jpeg",
+        "v7_Book-1_TABLES_p059_img01.jpeg",
+        "v7_Book-1_TABLES_p060_img00.jpeg"
+      ],
+      "keywords": [
+        "原因表",
+        "reason code",
+        "退货原因",
+        "调拨原因",
+        "原因代码",
+        "POS操作"
+      ],
+      "_original_id": "faq-029"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "会员管理",
+      "question": "如何创建和管理会员类型？",
+      "source": "v7 Book-2 Section 5.4.1 Pages 33-35",
+      "answer": "会员类型维护（Member Type Maintenance）用于创建会员类型，将会员分组到有意义的会员组中，便于组织相关数据以生成有意义的报表。\\n\\n**前置条件：**\\n这是创建会员类型以将会员分组的表。\\n\\n**操作步骤：**\\n1. 进入会员类型维护功能\\n2. 输入会员类型代码和相关参数\\n3. 使用\"Other（其他）“按钮定义额外的折扣控制\\n4. 验证并保存记录\\n\\n**功能按钮：**\\n1. 创建记录（Create Record）\\n2. 清除记录（Clear Record）\\n3. 验证记录（Validate Record）\\n\\n**字段说明：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Member Type（会员类型） | X(01) | 必填 | 会员类型代码 |\\n| Description（描述） | X(40) | 可选 | 该会员类型的文本描述 |\\n| Discount %（折扣百分比） | 9(02).9(02) | 可选 | 该会员类型有权享有的销售折扣百分比 |\\n| Extra %（额外折扣百分比） | 9(02).9(02) | 可选 | 特殊促销活动时有权享有的额外销售折扣百分比 |\\n| Max Disc. Bar %（最大折扣百分比） | 9(02).9(02) | 可选 | 所有促销活动下允许的最大折扣百分比 |\\n| Turn-over Control（营业额控制） | X(01) | 必填 | 控制是否允许营业额限制加上按金额或按数量的控制 |\\n| Turn-over Limit（营业额限额） | 9(06).(02) | 可选 | 如果启用限额控制，该会员类型允许的最大累计销售金额。通常适用于员工购买环境 |\\n| Control Period（控制周期） | X(01) | 可选 | 控制限额是基于一次性购买、月度还是季度基准 |\\n| Sales Control（销售控制） | X(01) | 必填 | 表示营业额限制应基于总销售额（Gross Sales）还是净销售额（Net Sales） |\\n| Staff Control（员工控制） | X(01) | 必填 | 表示这是非员工（non-staff）还是员工（staff）会员类型 |\\n\\n**跨区域客户设置：**\\n此设置用于会员类型被分类为跨区域客户。意味着在该类型下指定的会员折扣将适用于在组织内的海外会员在POS销售中消费的情况。\\n\\n**\"Other\"（其他）按钮 - 额外折扣控制：**\\n输入屏幕中的此按钮允许用户为此客户类型定义额外的折扣控制，指定应用的位置和方式。\\n\\n可配置以下维度的折扣控制：\\n- 地点（Location）：指定哪些特定地点应应用此折扣\\n- 部门（Division）：指定哪些特定部门应应用此折扣\\n- 品牌（Brand）：指定哪些特定品牌应应用此折扣\\n- 产品类别（Product Category）：指定哪些特定产品类别应应用此折扣\\n\\n针对以上每个维度，可设置：\\n- 特定的折扣百分比（Discount %）\\n- 额外的折扣百分比（Extra Discount %）",
+      "images": [
+        "v6.5_Book-2_MASTERS_p034_img00.png",
+        "v6.5_Book-2_MASTERS_p035_img00.jpeg"
+      ],
+      "keywords": [],
+      "id": "faq-037",
+      "_original_id": "faq-109"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "会员管理",
+      "question": "如何在POS系统中进行在线信用检查以及设置会员升级规则？",
+      "source": "v7 Book-2 Section 5.4.2 Pages 36-37",
+      "answer": "在线信用检查（Online Credit Check）功能和会员升级规则（Upgrade Rules）用于控制员工/会员的总购买限额以及会员类型的自动升级。\\n\\n**一、在线信用检查（Online Credit Check on Staff / Member's Total Purchase）**\\n\\n如果特定客户类型（如员工购买）启用了购买限额，POS系统将通过互联网连接在后台执行在线信用检查，以避免超限购买。如果发现会员（通常是员工购买）在控制周期内超出购买限额，POS前端系统将拒绝该笔销售交易。\\n\\n**二、会员升级规则（Upgrade Rules for Member Customer）**\\n\\n这是适用于所有客户从一种客户类型升级到另一种客户类型的通用升级规则，当满足以下定义的条件时触发。此会员升级流程将由后台按用户设定的计划以批处理作业方式执行。\\n\\n**POS提示提醒控制设置（POS Prompt Alert Controls）：**\\n| 功能 | 说明 |\\n|------|------|\\n| Alert Prompt（提醒提示） | 勾选此选项并填写有效期限（天数）后，POS前端系统将在有效期内自动显示右侧的文本消息，作为POS用户的提醒 |\\n| Effected Period（有效期限） | 以天数表示的有效期 |\\n\\n示例说明：\\n当属于客户类型\"F\"的会员客户在自该客户首次购买日期起计算的180天内在店铺进行购买时，将导致POS系统在销售操作期间自动弹出右侧的文本消息，作为对POS用户的提醒。\\n\\n**会员类型升级控制设置（Member Type Upgrade Controls）：**\\n| 功能 | 说明 |\\n|------|------|\\n| 升级目标类型 | 如果自首次购买日期以来赚取的奖励积分总额超过输入的数值，该客户类型内的所有会员将升级到指定的新会员类型 |\\n\\n示例说明：\\n如果自首次购买日期以来赚取的奖励积分总额超过\"5,000\"分，客户类型\"F\"内的所有会员将升级到会员类型\"E\"。\\n\\n**重要说明：**\\n截至版本6.4.3，尚无会员降级机制。",
+      "images": [
+        "v6.5_Book-2_MASTERS_p036_img00.jpeg",
+        "v6.5_Book-2_MASTERS_p037_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-038",
+      "_original_id": "faq-110"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "会员管理",
+      "question": "如何创建和维护会员主档？",
+      "source": "v7 Book-2 Section 5.4.3 Pages 38-42",
+      "answer": "会员主档维护（Member Master Maintenance）用于存储会员详细信息，该主档允许用户基于会员的销售历史、行为和兴趣进行客户分析。\\n\\n**目标：** 维护常客或潜在会员的个人信息。\\n\\n**操作步骤：**\\n1. 进入会员主档维护功能\\n2. 填写会员详细信息（共3页）\\n3. 验证并保存记录\\n\\n**功能按钮：**\\n1. 创建记录（Create Record）\\n2. 清除记录（Clear Record）\\n3. 验证记录（Validate Record）\\n\\n**第1页 - 基本会员信息：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Member No.（会员编号） | X(15) | 必填 | 表示会员编号的唯一编号 |\\n| Type（会员类型） | X(01) | 必填 | 在”会员管理信息（Membership Management Information）“中预定义的会员类型代码 |\\n| Lastname（姓氏） | X(30) | 必填 | 会员的姓氏 |\\n| Firstname（名字） | X(30) | 必填 | 会员的名字 |\\n| Address（地址） | X(90) x 4行 | 可选 | 加入会员的客户地址，最多4行 |\\n| Area Code（地区代码） | X(02) | 可选 | 用户自定义的地区代码，仅供参考 |\\n| Postal Code（邮政编码） | X(202) | 可选 | 用户自定义的邮政编码，仅供参考 |\\n| Home No.（住宅电话） | X(15) | 可选 | 客户的住宅电话号码 |\\n| Mobile No.（手机号码） | X(15) | 可选 | 客户的手机号码 |\\n| Issue Date（发卡日期） | 99 99 9999 (dd mm yyyy) | 必填 | 会员资格的颁发日期 |\\n| Issue Shop（发卡店铺） | X(04) | 必填 | 颁发此会员资格的店铺 |\\n| Pickup Shop（领取店铺） | X(04) | 必填 | 会员从哪家店铺领取会员卡 |\\n| Expiry Date（到期日期） | 99 99 9999 (dd mm yyyy) | 必填 | 会员资格的到期日期 |\\n\\n**第2页 - 个人详细信息：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Date of Birth（出生日期） | 99 99 9999 (dd mm yyyy) | 可选 | 加入会员的客户出生日期 |\\n| Age（年龄） | 9(02) | 仅显示 | 如果提供了出生日期，系统自动计算 |\\n| Age Group（年龄组） | - | 可选 | 系统选择正确的年龄组或用户自行输入 |\\n| Card I.D.（身份证号码） | X(15) | 可选 | 客户的身份证号码 |\\n| Nationality（国籍） | X(02) | 可选 | 加入会员的客户国籍，需对国家代码表进行检查 |\\n| Sex（性别） | - | 可选 | 会员的性别 |\\n\\n**第3页 - 自定义备注信息：**\\n此页面为自由文本输入格式（Free TEXT input format），供用户自行参考使用，没有固定的字段定义，用户可根据需要输入任意备注信息。",
+      "images": [
+        "v6.5_Book-2_MASTERS_p039_img00.png",
+        "v6.5_Book-2_MASTERS_p040_img00.png",
+        "v6.5_Book-2_MASTERS_p041_img00.jpeg",
+        "v6.5_Book-2_MASTERS_p042_img00.jpeg"
+      ],
+      "keywords": [],
+      "id": "faq-039",
+      "_original_id": "faq-111"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "供应商管理",
+      "question": "如何创建和维护新的供应商主档？",
+      "source": "v7 Book-2 Section 5.1.1 Pages 4-10",
+      "answer": "供应商主档维护（Supplier Master Maintenance）用于输入和管理供应商的详细信息，以便进行采购处理。\\n\\n**操作步骤：**\\n1. 进入供应商主档维护功能\\n2. 系统默认显示摘要页面（Summary Page），可按”供应商代码（Supplier Code）“或”供应商名称（Supplier Name）“排序\\n3. 双击某一行进入详细修改页面（Detail Modification Page）\\n4. 在详细页面中包含5个标签页，填写所有必填字段后保存\\n\\n**功能按钮：**\\n- 创建记录（Create Record）\\n- 修改记录（Modify Record）\\n- 删除记录（Delete Record）\\n- 查看记录（View Record）\\n- 复制为新记录（Copy Record as new）\\n- 查找记录（Find Record）\\n- 按标题排序（Sort by header）\\n- 调整列指示（Adjust column indication）\\n\\n**标签页1 - 基本信息（Folder Page 1）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Supplier Code（供应商代码） | X(8) | 必填 | 唯一标识特定供应商 |\\n| Supplier Name（供应商英文名称） | X(150) | 必填 | 供应商的英文名称 |\\n| Chinese Name（供应商中文名称） | X(150) | 可选 | 供应商的中文名称 |\\n| Attn.（收件人） | X(20) | 可选 | 供应商的联系人 |\\n| Address Line（地址行） | X(30) x 4行 | 可选 | 供应商的送货地址 |\\n| City（城市） | X(20) | 可选 | 送货地址所在城市 |\\n| Country（国家） | X(12) | 可选 | 送货地址所在国家 |\\n| Postal（邮政编码） | X(08) | 可选 | 送货地址的邮政编码 |\\n| State（州/省） | X(04) | 可选 | 送货地址的州/省 |\\n| Country Code（国家代码） | X(02) | 可选 | 送货地址国家代码，需在”国家代码维护（Country Code Maintenance）“中预定义 |\\n| District Code（地区代码） | X(03) | 可选 | 送货地址的地区代码，需在”地区表维护（District Table Maintenance）“中预定义 |\\n\\n**标签页2 - 联系信息（Folder Page 2）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Country（国家码） | X(10) x 3组 | 可选 | 国家代码（可输入3组） |\\n| Area（区号） | X(8) x 3组 | 可选 | 地区区号（可输入3组） |\\n| Tel No.（电话号码） | X(30) x 3组 | 可选 | 电话号码（可输入3组） |\\n| Extension（分机号） | X(15) x 3组 | 可选 | 分机号码（可输入3组） |\\n| Telex No.（电传号） | X(25) | 必填 | 电传打字机号码 |\\n| Title（职位头衔） | X(80) | 可选 | 联系人的职位头衔 |\\n| First Name（联系人名字） | X(30) | 可选 | 联系人的名 |\\n| Last Name（联系人姓氏） | X(30) | 可选 | 联系人的姓 |\\n\\n**标签页3 - 信用与折扣信息（Folder Page 3）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Credit Term（信用期限） | 数字 | 可选 | 信用天数 |\\n| Credit Limit（信用额度） | 金额 | 可选 | 供应商允许的最大总信用金额 |\\n| Payment Method（付款方式） | - | 可选 | 付款方式的输入 |\\n| Owner ID（负责人ID） | - | 必填 | 负责该供应商的用户ID |\\n| Company Currency（公司货币） | - | 必填 | 该供应商采购订单使用的默认货币，可在采购订单维护过程中按需覆盖 |\\n| Discount（折扣） | - | 可选 | 供应商提供的一般折扣，最多可设置5个折扣率，按”折扣叠加”机制在采购订单处理中计算，折扣基于商品的零售价目表价格（Retail List Price）计算 |\\n| Discount Rate（折扣率处理方式） | X(01) | 可选 | H - 在采购订单的标题级别（Header Level）默认折扣率；I - 在采购订单的商品项目级别（Item Level）默认折扣率；或折扣率仅供参考 - 不进行计算 |\\n\\n**标签页4 - 电子联系信息（Folder Page 4）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Email Address（电子邮件地址） | X(40) | 可选 | 联系人的电子邮件地址 |\\n| Web Site（网站） | X(4) | 可选 | 在线网站地址 |\\n\\n说明：此区域可自由用于自行开发的报表或工具进行分析。\\n\\n**标签页5 - 银行与业务信息（Folder Page 5）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Bank Code（银行代码） | X(20) | 可选 | 结算银行代码 |\\n| Bank Name（银行名称） | X(30) | 可选 | 结算银行名称 |\\n| A/C No.（银行账号） | X(10) | 可选 | 银行账户号码 |\\n| CRM ID（客户关系管理ID） | X(20) | 可选 | 客户关系管理系统中的身份编号 |\\n| BR（商业登记号） | X(20) | 可选 | 商业登记号码 |\\n| Salutation（称谓） | X(30) | 可选 | 称呼 |",
+      "images": [
+        "v6.5_Book-2_MASTERS_p004_img00.jpeg",
+        "v6.5_Book-2_MASTERS_p005_img00.png",
+        "v6.5_Book-2_MASTERS_p006_img00.png",
+        "v6.5_Book-2_MASTERS_p007_img00.jpeg",
+        "v6.5_Book-2_MASTERS_p008_img00.png",
+        "v6.5_Book-2_MASTERS_p009_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-040",
+      "_original_id": "faq-101"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "供应商管理",
+      "question": "如何管理供应商的送货地址？",
+      "source": "v7 Book-2 Section 5.1.2 Pages 11-12",
+      "answer": "供应商送货地址维护（Supplier Delivery Address Maintenance）用于输入和管理特定供应商的送货地址信息。\\n\\n**操作步骤：**\\n1. 进入供应商送货地址维护功能\\n2. 选择或输入供应商代码\\n3. 输入送货地址代码和相关地址信息\\n4. 保存记录\\n\\n**功能按钮：**\\n1. 创建记录（Create Record）\\n2. 修改记录（Modify Record）\\n3. 删除记录（Delete Record）\\n4. 查看记录（View Record）\\n5. 复制为新记录（Copy Record as new）\\n6. 查找记录（Find Record）\\n7. 按标题排序（Sort by header）\\n8. 调整列指示（Adjust column indication）\\n\\n**字段说明：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Supplier Code（供应商代码） | X(8) | 必填 | 特定供应商的代码 |\\n| Del. Addr. Code（送货地址代码） | X(3) | 必填 | 唯一标识特定供应商的特定送货地址的代码 |\\n| Attn.（收件人） | X(20) | 可选 | 该供应商的联系人/收件人 |\\n| Delivery Address（送货地址） | X(30) x 4行 | 可选 | 供应商的送货地址，最多4行 |\\n| City（城市） | X(20) | 可选 | 送货地址所在城市 |\\n| City Code（城市代码） | X(4) | 可选 | 送货地址的城市代码 |\\n| Country（国家） | X(12) | 可选 | 送货地址所在国家 |\\n| Postal（邮政编码） | X(08) | 可选 | 送货地址的邮政编码 |\\n| State（州/省） | X(04) | 可选 | 送货地址的州或省份 |\\n| Country Code（国家代码） | X(02) | 可选 | 送货地址的国家代码，需在”国家代码维护（Country Code Maintenance）“中预定义 |\\n| District Code（地区代码） | X(03) | 必填 | 送货地址的地区代码，需在”地区表维护（District Table Maintenance）“中预定义 |",
+      "images": [
+        "v6.5_Book-2_MASTERS_p011_img00.jpeg"
+      ],
+      "keywords": [],
+      "id": "faq-041",
+      "_original_id": "faq-102"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "其他主档",
+      "question": "如何使用型号（Model Number）查询商品信息？",
+      "source": "v7 Book-2 Section 5.3.1 Page 32",
+      "answer": "型号查询功能（Model Number）允许用户通过商品型号搜索键来查询或修改商品信息，查看特定库存的可用性。\\n\\n**功能说明：**\\n通过商品搜索键，按型号（Model No.）进行查询。\\n\\n**目标：**\\n对商品信息进行查询或修改，用户可以检查特定库存的可用性。\\n\\n**字段说明：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Item Code（商品代码） | X(14) | 必填 | 唯一标识特定商品的代码 |\\n| Description（描述） | X(40) | 必填 | 详细的商品描述 |\\n| Model Number（型号） | X(30) | 必填 | 商品的型号 |\\n\\n**附加功能 - 按保修编号（Guarantee No.）查询：**\\n通过商品搜索键，按保修编号（Guarantee No.）进行查询，用户可以检查特定库存的保修编号。",
+      "images": [
+        "v6.5_Book-2_MASTERS_p032_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-042",
+      "_original_id": "faq-108"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "商品管理",
+      "question": "如何创建新的商品主档（基本信息录入）？",
+      "source": "v7 Book-2 Section 5.2 Pages 13-16",
+      "answer": "商品主档维护（Item Master Maintenance）是系统中最重要、最核心的主档表。它将链接许多重要的基础表，并由ChainStore Plus的许多流程或子系统共享。正确设置商品主档数据非常重要。\\n\\n**操作步骤：**\\n1. 进入商品主档维护功能\\n2. 在”主要输入（Primary Input）“文件夹中填写所有必填字段\\n3. 第一文件夹（Primary Input）中的所有信息均为强制字段\\n4. 其他文件夹为次要输入，但仍包含重要的数据信息\\n\\n**目标：** 维护商品的详细信息。\\n\\n**主要输入文件夹字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Item Code（商品代码） | X(14) | 必填 | 唯一标识特定商品的代码 |\\n| Category Code（类别代码） | X(05) | 必填 | 在类别主档（Category Master）中预定义的代码 |\\n| Sub. Category（子类别代码） | X(05) | 必填 | 在类别主档中预定义的代码，属于上述类别代码的子类别 |\\n| Supplier Item Code（供应商商品代码） | X(10) | 必填 | 供应商定义的同一商品的代码 |\\n| Long Description（长描述） | X(40) x 2行 | 第一行必填，第二行可选 | 详细的商品描述 |\\n| Short Description（短描述） | X(20) x 2行 | 可选 | 简短的商品描述 |\\n\\n**多语言按钮（Multi-Language Button）：**\\n用于输入其他语言的描述作为补充数据。某些可选文件（如销售单）可根据用户要求以中文打印。\\n\\n**尺码控制（Dimension Control）：**\\n下拉选择框 - 必填字段。必须至少选择以下选项之一：\\n- A - 无颜色和尺码（No Col & Size）\\n- B - 有颜色和尺码（Col & Size）\\n- C - 仅颜色（Color Only）\\n- D - 内缝（Inseam，特定用途可选）\\n\\n**尺码类别（Size Category）：**\\n- 格式：X(04)\\n- 当尺码控制为B时必填，其他情况无需输入\\n- 需要预定义尺码表（Size table）\\n- \"更多尺码（More Size）“按钮：允许一个商品设置多个尺码类别\\n\\n**库存指示符（Stock Indicator）：**\\n必须至少选择以下选项之一：\\n\\n| 选项 | 代码 | 说明 |\\n|------|------|------|\\n| Buy Off Stock（买断库存） | B | 用户自有库存。最常用的指示符 |\\n| Consignment Stock（寄售库存） | C | 表示该库存商品不属于用户所有。未来可能根据所购可选模块应用计算处理 |\\n| Package Set（套装包） | G | 表示该商品为套装商品，链接到特定流程下预定义的商品表集。ChainStorePlus后台系统将POS前端销售的套装商品根据商品表集分解为详细商品明细，然后以分解明细写入销售日志。使用前请咨询Sanyo Extended业务顾问 |\\n| Special Handle Item（特殊处理商品） | N | 特殊控制标志，用于某些定制特殊流程。不适用于一般用途。使用前请咨询Sanyo Extended业务顾问 |\\n| Coupon M & M Item（优惠券搭配商品） | S | 专为POS处理中的促销搭配计算创建的商品。必须与搭配促销模块中的搭配优惠券规则配合使用 |\\n| Service Item（服务商品） | V | 表示该商品可在POS中”销售”但不可计入库存，因此在正常库存控制流程下无库存变动。典型示例包括”修补\"、\"改衣服务”等 |\\n\\n**尺码/内缝类别（Size/Inseam Cat.）：**\\n- 格式：X(04)，可选\\n- 仅当尺码控制为B或D时可选\\n- 需在尺码类别信息（Size Category Information）中预定义\\n\\n**定义颜色代码（Define Color Code）：**\\n- 格式：X(04)\\n- 当尺码控制设置为非\"A\"时必填\\n- 需要预定义颜色表\\n- 系统将在大多数流程中检查此颜色控制，如果颜色未在此控制表中预先定义，将拒绝颜色输入\\n\\n**零售价（Retail Price）：**\\n- 格式：9(07).99，可选\\n- 商品的零售价目表价格\\n- 用于条码标签或价格标签打印\\n- 仅在创建模式下可输入。商品一旦创建不允许修改零售价目表价格\\n- 价格修改只能通过系统中的”加价/减价（Mark up Mark down）“流程进行\\n\\n**批发价（Wholesale Price）：**\\n- 格式：9(07).99，可选\\n- 商品的批发价格\\n- 可用于批发与分销模块（ChainStore Plus的附加选项）中的客户发票处理",
+      "images": [
+        "v6.5_Book-2_MASTERS_p015_img00.png",
+        "v6.5_Book-2_MASTERS_p016_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-043",
+      "_original_id": "faq-103"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "商品管理",
+      "question": "如何设置商品的价格与成本信息？",
+      "source": "v7 Book-2 Section 5.2.1 Pages 17-22",
+      "answer": "价格与成本标签页（Price & Cost Tab）用于设置商品的重要价格和成本信息。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品的\\n2. 点击\"Price & Cost（价格与成本）“标签页\\n3. 填写各项价格和成本字段\\n4. 使用相关按钮进入更详细的设置\\n\\n**字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Retail Price（零售价） | 9(07).99 | 可选 | 商品的零售价目表价格，用于条码标签或价格标签打印；仅在创建模式可输入，创建后不允许修改，只能通过”加价/减价”流程修改 |\\n| Wholesales Price（批发价） | 9(07).99 | 可选 | 商品的批发价格，用于分销模块中的客户发票处理（ChainStore Plus的附加选项） |\\n| Price Group（价格组） | X(03) | 可选 | 表示该商品所属价格组的代码 |\\n| Discount Ctrl.（折扣控制） | X(01) | 必填 | 默认值为'NO'：允许在POS销售中打折；'NO'时启用最大折扣输入（Max Discount）；'YES'表示该商品不允许打折 |\\n| Max Discount（最大折扣） | 99.99 | 可选 | 该商品允许的最大折扣，以零售价的百分比表示 |\\n| Standard Cost（标准成本） | 9(07).99 | 可选 | 商品的标准成本，除非用户覆盖，否则不会更改 |\\n| FOB Cost（FOB成本） | 9(07).99 | 可选 | 商品的FOB成本，除非用户覆盖，否则不会更改。右侧空白处可输入FOB成本的货币代码 |\\n| Average Cost（平均成本） | 9(07).99 | 仅显示 | 系统在采购收货操作后自动更新计算的加权平均成本，计算公式为：(现有库存数量 × 平均成本 + 收货数量 × 收货成本) ÷ (现有库存数量 + 收货数量) |\\n\\n**按钮功能说明：**\\n\\n**\"Retail\"（零售）按钮：**\\n点击此按钮将进入另一个输入框，用于多地点价格输入，例如不同国家、组别、地点甚至颜色和尺码的不同零售价。\\n\\n**\"Consign\"（寄售）按钮：**\\n点击此按钮将进入寄售库存成本计算表（Consignment Stock Cost Calculation Table），用于寄售库存结算流程。该表仅用于供应商的寄售库存成本结算计算。如果不使用库存寄售可选模块，请忽略此表。\\n\\n寄售成本表的字段包括：\\n- Effect Date（生效日期）：该寄售成本的生效日期\\n- Consignment Settlement Cost Fixed Amount（寄售结算成本固定金额）：以固定金额表示的寄售结算成本\\n- Consignment Settlement Cost Percentage（寄售结算成本百分比）：相对于零售价目表价格（Retail List Price）或零售销售价格（Retail Sold Price）的百分比。这两个字段只需输入其中一个\\n- Effective Shop Location（生效店铺位置）：该寄售成本生效的店铺位置，留空表示所有位置\\n\\n**\"Wholesales\"（批发）按钮：**\\n点击此按钮将进入另一个输入框，可输入最多10个不同的批发价，每个商品允许设置多个批发价。\\n\\n**\"MORE\"（更多成本）按钮：**\\n点击此按钮可查看系统在不同操作阶段自动记录的不同商品成本表，用户可利用这些不同成本进行成本计算、分析和控制的报表制作。\\n\\n| 成本类型 | 说明 |\\n|---------|------|\\n| Month End Actual Cost（月末实际成本） | 月末处理后的确认商品加权平均成本。系统在月末流程中重新计算，包含自上次月末以来该商品产生的所有成本 |\\n| Last Receive Average Cost（上次收货平均成本） | 收货时计算的平均成本（非加权平均成本）。包含计算时系统已知的所有其他成本，如F&I（运费和保险费） |\\n| Last Receive Unit Cost（上次收货单位成本） | 上次收货时标记的单位成本。不包含任何费用或附加成本 |\\n| FOB Average Cost（FOB平均成本） | 收货时计算的加权平均FOB成本。仅包含商品的FOB成本，不包含任何其他成本 |\\n| Average Cost（平均成本） | 收货时计算的加权平均成本。包含计算时系统已知的所有其他成本，如F&I |\\n| Last PO Unit Cost（上次采购订单单位成本） | 上次采购订单标记的单位成本。不包含任何费用或附加成本 |",
+      "images": [
+        "v6.5_Book-2_MASTERS_p018_img00.png",
+        "v6.5_Book-2_MASTERS_p019_img00.jpeg",
+        "v6.5_Book-2_MASTERS_p020_img00.png",
+        "v6.5_Book-2_MASTERS_p021_img00.jpeg"
+      ],
+      "keywords": [],
+      "id": "faq-044",
+      "_original_id": "faq-104"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "商品管理",
+      "question": "如何设置商品的库存信息？",
+      "source": "v7 Book-2 Section 5.2.2 Pages 23-24",
+      "answer": "库存文件夹（Inventory Folder）用于设置商品的库存相关信息。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品\\n2. 点击\"Inventory（库存）“标签页\\n3. 填写各项库存相关字段\\n4. 点击\"More Supplier\"按钮可添加多个供应商\\n\\n**字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Main W/H（主仓库） | X(04) | 可选 | 该商品的默认仓库代码 |\\n| W/H Lot Remarks（仓库批次备注） | X(10) | 可选 | 参考字段，指示该商品存放在仓库的哪个批次或区域 |\\n| Reorder Level（再订购水平） | 9(07).99 | 可选 | 包含2个子字段：min（最低库存持有量）和std（标准库存持有量）。目前无实际流程应用 |\\n| Inventory Group（库存组别） | - | 可选 | 用于分类商品的库存组别。目前无实际流程应用 |\\n| Unit Of Measure（计量单位） | X(04) | 必填 | 表示商品计量单位的代码，如SET（套）、PCE（件）等 |\\n| Supplier（供应商） | X(08) | 必填 | 供应商代码，将针对供应商主档文件（Supplier Master File）进行验证 |\\n| Supplier Item Code（供应商商品代码） | X(15) | 可选 | 供应商使用的商品/产品编号，仅供参考 |\\n| Producer Code（生产商代码） | X(03) | 可选 | 生产商代码，仅供参考 |\\n\\n**按钮功能说明：**\\n\\n**\"Reorder\"（再订购）按钮：**\\n用于输入颜色和尺码的再订购水平。目前无实际流程应用。\\n\\n**\"More Supplier\"（更多供应商）按钮：**\\n每个商品允许设置多个供应商。点击此按钮可添加更多供应商信息。",
+      "images": [
+        "v6.5_Book-2_MASTERS_p023_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-045",
+      "_original_id": "faq-105"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "商品管理",
+      "question": "如何设置商品的属性信息（属性I）？",
+      "source": "v7 Book-2 Section 5.2.3 Pages 25-27",
+      "answer": "商品属性I标签页（Item Attribute I Tab）用于设置商品的各种属性信息，包括品牌、税收、条形码等相关信息。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品\\n2. 点击\"Item Attribute I（商品属性I）“标签页\\n3. 依次填写各项属性字段\\n\\n**字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Tax Code（税码） | - | 可选 | 商品的增值税百分比/增值税金额的税码。此字段关联税率表 |\\n| Special Promotion Flag（特别促销标志） | - | 可选 | 控制标志，表示该商品正在进行特别促销。目前无实际流程，仅供参考 |\\n| Model Replenishment（按型号补货） | - | 可选 | 控制标志，表示该商品的补货按型号（Model No.）而非按标准商品编号（Item No.）进行 |\\n| Owner ID（负责人ID） | X(05) | 必填 | 将针对负责人ID表（Owner ID table）进行验证。这是管理和处理该商品的预先定义的买手/ Merchandiser 代码 |\\n| Brand（品牌） | X(06) | 必填 | 将针对品牌表（Brand table）进行验证 |\\n| Country（来源国家） | X(02) | 可选 | 将针对国家表（Country table）进行验证。表示商品来源国的国家代码，如有输入需存在于国家代码主档文件中 |\\n| Material Code（材料代码） | X(03) | 可选 | 将针对材料代码表（Material Code table）进行验证 |\\n| Replenishment（允许补货） | - | 可选 | 勾选表示允许该商品从仓库补货到店铺 |\\n| Discontinue Item（停产商品） | - | 可选 | 勾选表示该商品已停产。表示不再采购但仍继续销售。此标记允许系统处理该商品的销售，但停止采购，无需删除该商品记录 |\\n| Lock/Release Item（锁定/解锁商品） | - | 可选 | 勾选表示该商品被锁定。此商品将停止所有交易。用户可选择”空白”来解锁此商品 |\\n| EAN/UPC Code（EAN/UPC代码） | - | 可选 | 如果商品关联有条码值，在此输入UPC/EAN条形码值 |\\n| Bar Code Sequence（条码序列号） | X(07) | 仅显示 | 系统生成的条码序列号。除非另有指定，系统默认使用此条码序列在POS前端系统中表示该商品 |\\n| Reference（参考编号） | X(06) | 可选 | 用户自行参考的代码 |\\n| Gift（礼品标志） | - | 可选 | 勾选表示该商品可作为礼品赠送，允许零售价和成本为零 |\\n| Analysis Code Description（分析代码描述） | X(03) x 10个 | 仅显示 | 描述商品定位的简短代码。根据其在分析代码表维护（Analysis Code Table Maintenance）中定义的位置显示 |\\n| Analysis Code（分析代码） | X(03) x 10个 | 可选 | 将针对分析代码表进行验证。用户可为每个字段激活自己的代码，用于将来生成分析报告 |\\n| External Season（外部季节码） | X(04) | 可选 | 用于在商品代码结构”外部”需要季节代码的用户，仅供参考 |",
+      "images": [
+        "v6.5_Book-2_MASTERS_p026_img00.png",
+        "v6.5_Book-2_MASTERS_p027_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-046",
+      "_original_id": "faq-106"
+    },
+    {
+      "category": "主数据管理",
+      "subcategory": "商品管理",
+      "question": "如何设置商品的附加属性信息（属性II）？",
+      "source": "v7 Book-2 Section 5.2.4 Pages 28-31",
+      "answer": "商品属性II标签页（Item Attribute II Tab）用于设置商品更多的附加属性信息，包括品牌名称、年份、型号、季节、图片、出版信息以及特殊日期等。\\n\\n**操作步骤：**\\n1. 进入商品主档维护，选择需要设置的商品\\n2. 点击\"Item Attribute II（商品属性II）“标签页\\n3. 填写各项属性字段\\n4. 查看商品图片和重要日期信息\\n\\n**常规属性字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Brand（品牌名称） | X(30) | 可选 | 商品有品牌名称时使用 |\\n| Year（年份） | X(04) | 可选 | 产品的年份 |\\n| Category（类别） | X(12) | 可选 | 商品的类别代码 |\\n| Model Number（型号） | X(20) | 可选 | 商品的型号 |\\n| Article（货号） | X(30) | 可选 | 商品的货号 |\\n| Variante（变体） | X(?) | 可选 | 商品的变体信息 |\\n| Sex（性别） | X(04) | 可选 | 商品的性别信息 |\\n| Season（季节） | X(02) | 可选 | 季节信息，需在”季节代码（Season Code）“中预定义 |\\n| Collection（系列） | X(30) | 可选 | 商品的系列/集合 |\\n| Sub Category（子类别） | X(12) | 可选 | 商品的子类别代码 |\\n| Label（标签） | X(20) | 可选 | 商品的标签 |\\n| Product（产品） | X(20) | 可选 | 商品的产品信息 |\\n\\n**图片（Image）按钮：**\\n- 此按钮将显示该商品的图片\\n- 图片需要存储在先前定义的专用图片文件夹中\\n- 图片文件名必须遵循以下格式：<文件名> = 商品编号_999，其中'999'是图片的序列号\\n  - 例如：A9008765433_001, A9008765433_002, A9008765433_003 等\\n- 系统将自动收集该商品的所有图片，并在标准的Windows图片浏览器中一次性显示\\n\\n**出版信息字段（Publication Section，适用于书籍/出版物类商品）：**\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Magazine Code（期刊代码） | X(20) | 可选 | 出版物的ID编号 |\\n| Edition No.（版次） | X(20) | 可选 | 出版物的版次 |\\n| Language Version（语言版本） | X(20) | 可选 | 出版物特定语言版本的版本号 |\\n| Publisher（出版社） | X(40) | 可选 | 出版社名称 |\\n| Author（作者） | X(40) | 可选 | 作者名称 |\\n\\n**特殊与日期标签页（Special & Date Tab）字段说明：**\\n\\n| 字段名称 | 格式 | 必填/可选 | 说明 |\\n|---------|------|----------|------|\\n| Model Number（型号） | X(30) | 可选 | 商品关联的型号。商品查询功能中有针对此型号的特殊搜索键。非常适合手表和珠宝零售商或有类似产品性质的用户 |\\n| Warranty Number（保修编号） | X(30) | 可选 | 商品关联的唯一序列号。商品查询功能中有针对此序列号搜索的特殊搜索键。非常适合手表和珠宝零售商或有类似产品性质的用户 |\\n| Body Number（机身号） | X(20) | 可选 | 来自制造商的信息编号 |\\n| Style Number（款号） | X(12) | 可选 | 用户自行参考的代码 |\\n| Volume / Content / Container（卷/内容/容器） | - | 可选 | 用户自行参考的代码 |\\n| Expiration Date（有效期） | dd/mm/yyyy | 可选 | 表示商品的有效期（如有），仅供参考 |\\n\\n**重要日期（仅显示，不可编辑）：**\\n| 字段名称 | 格式 | 说明 |\\n|---------|------|------|\\n| Creation Date（创建日期） | dd/mm/yyyy | 该商品主档记录创建时的日期 |\\n| First Receipt Date（首次收货日期） | dd/mm/yyyy | 该商品主档记录首次收货的日期 |\\n| Last Receipt Date（最后收货日期） | dd/mm/yyyy | 该商品主档记录最近一次收货的日期 |\\n| First Transfer Date（首次调拨日期） | dd/mm/yyyy | 该商品主档记录首次调拨的日期（通常首次调拨是从仓库到店铺） |\\n| Last Sales Date（最后销售日期） | dd/mm/yyyy | 该商品主档记录最后一次销售的日期 |\\n| New Season 1st Delivery Date（新季节首次交货日期） | dd/mm/yyyy | 该商品标记为季节首次交货的日期，仅适用于特殊季节产品 |\\n| Last Modified Date（最后修改日期） | dd/mm/yyyy | 该商品主档记录最后被修改并记录用户ID的日期 |",
+      "images": [
+        "v6.5_Book-2_MASTERS_p028_img00.png",
+        "v6.5_Book-2_MASTERS_p030_img00.png"
+      ],
+      "keywords": [],
+      "id": "faq-047",
+      "_original_id": "faq-107"
+    },
+    {
+      "category": "采购流程",
+      "subcategory": "采购订单处理",
+      "question": "如何创建采购订单（Purchase Order）？",
+      "answer": "创建采购订单的操作步骤如下：\n\n1. **进入采购订单维护画面**\n   - 从菜单中点击进入 Purchase Order Maintenance 功能。\n   - 点击 CREATE 按钮创建新的采购订单。\n\n2. **输入订单头信息（Header Input）**\n   - 进入 Purchase Order Detail Maintenance Screen。\n   - 选择订单类型：\n     - Normal PO（普通采购订单）：正常模式，允许分批收货。\n     - Blanket PO（blanket 采购订单）：批量订单模式，供应商可在一段时间（如一年或一个季节）内分批次交货。Blanket PO 需要后续的「交货请求（Delivery Request）」来完成交货。\n   - 勾选折扣复选框可启用行项目折扣输入字段。\n   - 部分字段由系统自动计算且不可手动输入。\n\n3. **输入采购订单条款（PO Terms Input）**\n   - 点击第二个文件夹标签页（2nd folder）进入 PO 条款输入。\n   - 关键字段：\n     - Expected Shipment Date（预计发货日期）：部分 PO 报表以此字段作为排序依据。\n     - 默认收货地点：用于 PO 收货流程的默认位置。\n     - 分配地点：用于将到货库存分配到特定位置，仅在特定设计程序中生效。\n\n4. **输入明细项目（Detail Items Input）**\n   - 进入 Manage Item 页面。\n   - 输入商品代码（Item Code）。\n   - 如果商品有颜色和尺寸的细分，点击 Color & Size 按钮输入详细的数量。\n   - 也可以直接在数量字段中输入采购数量。\n\n5. **了解列字段含义**\n   - List Price（列表价）：采购商品的标准价格。\n   - Def Disc%（默认折扣率）：系统自动获取的默认折扣百分比，需预先在供应商主文件或供应商 PO 折扣表中设定。\n   - Ovr Disc%（覆盖折扣率）：手动输入的覆盖折扣，当默认折扣不适用时使用；系统优先使用此折扣计算采购单价。\n   - Unit Cost（单价）：系统计算的采购单价，或用户手动输入覆盖系统计算的数值；如果与默认 PO 成本不同，数值将显示为红色提示。\n   - Qty（数量）：用户输入的采购数量。\n   - Order Amount（订单金额）：系统基于单价乘以数量自动计算。\n   - Unit（单位）：采购商品的计量单位。\n\n6. **确认并保存**\n   - 检查所有输入信息。\n   - 点击保存按钮完成采购订单创建。\n\n注意：采购订单流程支持从下单、收货、未完成订单跟踪、库存成本更新（通过收货流程）到报表的完整操作。",
+      "source": "v7 Book-3 Section 6.1 Pages 4-8",
+      "images": [
+        "v7_Book-3_PROCESS_p004_img00.jpeg",
+        "v7_Book-3_PROCESS_p005_img00.jpeg",
+        "v7_Book-3_PROCESS_p006_img00.jpeg",
+        "v7_Book-3_PROCESS_p007_img00.jpeg"
+      ],
+      "keywords": [
+        "采购订单",
+        "Purchase Order",
+        "PO",
+        "创建采购订单",
+        "Normal PO",
+        "Blanket PO",
+        "采购流程",
+        "供应商订单"
+      ],
+      "id": "faq-048",
+      "_original_id": "faq-048"
+    },
+    {
+      "category": "采购流程",
+      "subcategory": "采购订单处理",
+      "question": "如何使用 Load File 功能批量上传采购订单明细？",
+      "answer": "使用 Load File 功能批量上传采购订单明细的操作步骤如下：\n\n1. **准备上传文件**\n   - 文件必须是 Text file（Tab 分隔符格式，Tab delimited）。\n   - 文件名没有限制。\n   - 文件格式必须与 ChainStorePlus PO Load File 数据格式匹配。\n\n2. **文件格式要求**\n   | 序号 | 字段名称 | 长度 | 必填 | 说明 |\n   |------|----------|------|------|------|\n   | 1 | Item Code（商品代码） | X(14) | 是 | 必须在 ChainStorePlus 中已定义 |\n   | 2 | Color（颜色） | X(5) | 否 | 必须在 ChainStorePlus 中已定义 |\n   | 3 | Size（尺寸） | X(4) | 否 | 必须在 ChainStorePlus 中已定义 |\n   | 4 | Inseam（内缝长） | X(4) | 否 | 必须在 ChainStorePlus 中已定义 |\n   | 5 | Quantity（数量） | X(7) | 是 | 最大 9999999 |\n   | 6 | Unit Cost（单价） | X(12) | 是 | 格式 999999999.99 |\n   | 7 | Item Discount Rate（折扣率） | X(6) | 否 | 格式 999.99 |\n\n3. **执行上传**\n   - 在 Purchase Order Maintenance（PO3000）的 Manage Item 页面中。\n   - 点击 Load Layout 按钮可查看上述文件格式。\n   - 点击 Load 按钮。\n   - 系统弹出 Load Detail 对话框，询问 PO Load 文件位置。\n   - 选择准备好的 PO Load File。\n   - 点击 Open 将文件上传至 PO Maintenance。\n\n4. **验证与错误处理**\n   - 上传时，程序会对上传文件的数据进行验证。\n   - 如果发现错误，系统会停止加载并返回错误信息。\n   - 用户需要点击 Print Queue 保存「Purchase Order Upload Error Report」以查看无效上传的原因。\n   - 根据错误报告修改 Text 文件，然后重新上传。\n   - 注意：PO Load File 不应包含表头行（header）。如果遇到此错误，请移除表头行后重试。\n\n5. **上传成功**\n   - 上传成功后，数据将被放入 Item Detail 列表中。\n   - 用户可以编辑内容后保存 PO。",
+      "source": "v7 Book-3 Section 6.1 Pages 8-11",
+      "images": [
+        "v7_Book-3_PROCESS_p009_img00.jpeg",
+        "v7_Book-3_PROCESS_p010_img00.jpeg",
+        "v7_Book-3_PROCESS_p011_img00.jpeg",
+        "v7_Book-3_PROCESS_p011_img01.jpeg",
+        "v7_Book-3_PROCESS_p011_img02.jpeg"
+      ],
+      "keywords": [
+        "批量上传",
+        "Load File",
+        "PO上传",
+        "采购订单导入",
+        "Tab分隔符",
+        "商品代码",
+        "采购批量导入"
+      ],
+      "id": "faq-049",
+      "_original_id": "faq-049"
+    },
+    {
+      "category": "采购流程",
+      "subcategory": "采购订单处理",
+      "question": "如何修改或删除已创建的采购订单？",
+      "answer": "修改或删除已创建的采购订单的操作步骤如下：\n\n1. **进入采购订单维护画面**\n   - 从菜单中点击进入 Purchase Order Maintenance（PO3000）功能。\n   - 系统将显示采购订单列表。\n\n2. **查找目标采购订单**\n   - 浏览列表找到需要修改或删除的采购订单。\n   - 点击选中该订单。\n\n3. **修改采购订单**\n   - 在现有订单上直接修改需要变更的字段。\n   - 可修改的内容包括：\n     - 订单头信息（Header）：订单类型、折扣设置等。\n     - PO 条款（PO Terms）：预计发货日期、收货地点等。\n     - 明细项目（Detail Items）：商品代码、颜色、尺寸、数量、单价、折扣率等。\n   - 修改完成后点击保存。\n\n4. **删除采购订单**\n   - 选中需要删除的采购订单。\n   - 点击删除按钮（Delete）。\n   - 系统将要求确认删除操作。\n   - 确认后订单将被删除。\n\n注意：\n- PO 明细中各字段的系统行为需注意：\n  - Def Disc%（默认折扣率）需预先在 Supplier Master 或 Supplier PO Discount Table 中设定。\n  - Ovr Disc%（覆盖折扣率）手动输入时将覆盖默认折扣。\n  - Unit Cost（单价）若为红色字体，表示与默认成本不同，提醒用户注意。\n- 修改操作应在订单尚未进入收货流程前进行，以避免数据不一致。",
+      "source": "v7 Book-3 Section 6.1 Pages 4-8",
+      "images": [
+        "v7_Book-3_PROCESS_p004_img00.jpeg"
+      ],
+      "keywords": [
+        "修改采购订单",
+        "删除采购订单",
+        "PO维护",
+        "采购订单编辑",
+        "Purchase Order Maintenance"
+      ],
+      "id": "faq-050",
+      "_original_id": "faq-050"
+    },
+    {
+      "category": "收货流程",
+      "subcategory": "库存收货",
+      "question": "如何根据采购订单（PO）进行库存收货？",
+      "answer": "根据采购订单进行库存收货的操作步骤如下：\n\n1. **进入库存收货功能**\n   - 从菜单进入 Stock Receive（库存收货）功能。\n\n2. **输入或选择采购订单**\n   - 在 Stock Receive Input Against PO/DRV 画面中：\n   - 方式一：直接输入 PO 编号，点击 OK。\n   - 方式二：留空点击 OK，进入完整的 PO 选择页面。\n\n3. **选择采购订单（方式二：留空搜索）**\n   - 系统显示所有未完成的 PO 列表供用户选择。\n   - 可按不同排序路径查看 PO：\n     - PO#（采购订单编号）\n     - DRV#（交货请求编号）\n     - Supplier（供应商）\n     - Expected Delivery Date（预计交货日期）\n     - Receiving Location（收货地点）\n   - 鼠标点击高亮选择目标行，左侧会显示「V」标记表示选中。\n   - 允许同时选择多个 PO。\n   - 点击工具栏上的 Create 按钮，系统将根据所选 PO 的未完成数量自动创建收货批次，默认收货数量等于未完成数量。\n\n4. **输入收货批次头信息**\n   - 输入收货地点代码（Receiving Location）作为收货编号的前缀。\n   - 收货编号（Receive Number）部分可由用户输入或系统自动生成（如设置为系统生成则字段被保护不可输入）。\n   - 输入供应商的交货单号码（Supplier Delivery Note Number），此信息对后续的供应商发票核对非常重要。\n   - 某些字段由系统自动生成，不可手动输入。\n   - 完成所有输入字段后，点击 Item Information Folder 进入下一步。\n\n5. **输入/确认商品明细（Item Information Folder）**\n   - 收货批次支持三种收货状态：\n     - Stock Receive under PO（根据 PO 收货）\n     - Stock Receive without PO（无 PO 收货）\n     - Stock Receive under Delivery Request from a Blanket Order（根据 Blanket 订单的交货请求收货）\n   - 红色圆圈指示当前激活的收货状态。\n   - 对于颜色和尺寸有要求的商品，点击 Color & Size 按钮输入颜色和尺寸明细。\n   - 支持从外部来源导入 TEXT 数据（可选功能）。\n\n6. **保存收货信息**\n   - 所有输入完成后，点击 SAVE 按钮。\n   - 系统将进入下一步的收货确认流程。\n\n功能按钮说明：\n- Insert：插入一个商品项目\n- Delete：删除一个商品项目\n- Select PO：查询选定供应商的所有未完成 PO 并进行选择，系统将自动带入订单及默认收货数量\n- Verify：每次点击时系统验证输入数据，验证后在状态栏显示警告或错误信息\n- PO Enquiry：查询采购订单详情\n- Color & Size：输入选定商品的颜色和尺寸明细\n- Description：显示选定商品的详细描述\n- Load：从系统目录导入外部 TEXT 数据（需精确的数据格式，使用前请咨询软件顾问）\n- Model & Guarantee No.：特殊功能，不对一般用户开放；允许在收货阶段输入商品唯一的保修号和型号，每个商品编号只能关联一个保修号，因此每个商品仅允许数量为1（不支持颜色和尺寸）。",
+      "source": "v7 Book-3 Section 6.2 Pages 12-21",
+      "images": [
+        "v7_Book-3_PROCESS_p013_img00.jpeg",
+        "v7_Book-3_PROCESS_p014_img00.jpeg",
+        "v7_Book-3_PROCESS_p015_img00.jpeg",
+        "v7_Book-3_PROCESS_p016_img00.jpeg",
+        "v7_Book-3_PROCESS_p017_img00.jpeg"
+      ],
+      "keywords": [
+        "库存收货",
+        "Stock Receive",
+        "采购订单收货",
+        "PO收货",
+        "收货批次",
+        "供应商交货单",
+        "收货确认"
+      ],
+      "id": "faq-051",
+      "_original_id": "faq-051"
+    },
+    {
+      "category": "收货流程",
+      "subcategory": "库存收货",
+      "question": "如何在没有采购订单（PO）的情况下进行库存收货？",
+      "answer": "在没有采购订单的情况下进行库存收货的操作步骤如下：\n\n1. **进入库存收货功能**\n   - 从菜单进入 Stock Receive（库存收货）功能。\n\n2. **设置为无 PO 收货**\n   - 在收货信息页面中，选择收货指示器为 Without PO（无采购订单）。\n\n3. **输入收货编号和地点**\n   - 输入收货地点代码（Receiving Location Code）。\n   - 收货编号（Receiving Number）可根据参数设置选择自动生成或手动输入。\n\n4. **输入商品信息**\n   - 输入收货商品代码（Item Code）。\n   - 点击 Color & Size 按钮输入颜色和尺寸明细（如果商品有颜色和尺寸控制）。\n\n5. **填写收货数量**\n   - 输入实际收货数量。\n\n6. **保存收货信息**\n   - 点击 SAVE 按钮保存收货批次。\n   - 系统将进入下一步的收货确认流程。\n\n注意：\n- 无 PO 收货适用于直接入库的场景，如赠品、样品或紧急采购后补单等情况。\n- 同一收货批次可以同时包含有 PO 收货、无 PO 收货以及 Blanket 订单交货请求收货三种类型。\n- 输入商品代码时，如果同时输入了单价或地点信息，则商品代码为必填字段。",
+      "source": "v7 Book-3 Section 6.2 Pages 12-19",
+      "images": [
+        "v7_Book-3_PROCESS_p019_img00.jpeg",
+        "v7_Book-3_PROCESS_p019_img01.jpeg"
+      ],
+      "keywords": [
+        "无PO收货",
+        "库存收货 without PO",
+        "直接入库",
+        "Stock Receive without PO",
+        "收货批次"
+      ],
+      "id": "faq-052",
+      "_original_id": "faq-052"
+    },
+    {
+      "category": "收货流程",
+      "subcategory": "收货确认",
+      "question": "如何完成库存收货确认并过账（Posting）？",
+      "answer": "库存收货确认并过账的完整操作步骤如下：\n\n1. **Step 1 - 修改收货批次（Modify Receive）**\n   - 进入 Stock Receive Maintenance（收货维护）。\n   - 允许在批次内添加、修改和删除收货项目。\n   - 建议在进行下一步操作前完成所有必要的修正。\n   - 注意：在 Step 6 过账之前的任何时间，都可以回退到此维护步骤进行数据修正。\n\n2. **Step 2 - 打印收货报告（Print Receive Report）**\n   - 将收货数量打印到打印队列（Print Queue）。\n   - 用于纸质记录和核对。\n\n3. **Step 3 - 生成条形码（Generate Bar Code）**\n   - 为收货库存打印条形码标签。\n\n4. **Step 4 - 生成接口文件（Generate Interface File）**\n   - 根据收货批次数据生成 TEXT 接口文件。\n   - 此功能为系统可选功能。\n\n5. **Step 5 - 批次验证（Batch Validation）**\n   - 执行批次验证。系统要求批次在过账前必须经过验证。\n   - 验证报告将自动由系统打印到打印队列。\n   - 用户必须检查验证报告，确认无误后再进入下一步的过账步骤。\n   - 如果发现错误，用户可以随时返回之前的步骤进行修正。\n\n6. **Step 6 - 批次过账（Batch Posting）**\n   - 这是库存数量更新的最后一步。\n   - 用户必须确保批次中的所有输入数据准确无误。\n   - **过账后不允许更改数据。**\n   - **过账后数据不可回退。**\n   - 此步骤完成后，库存余额将根据实际收货数量进行更新。\n\n整个流程分为两大操作：\na) 根据实际收货数量更新库存余额（由仓库或收货地点操作）。\nb) 根据结算成本（与供应商发票核对后）更新库存加权平均成本（由财务部门或相关负责人确认）。",
+      "source": "v7 Book-3 Section 6.3 Pages 22-23",
+      "images": [
+        "v7_Book-3_PROCESS_p022_img00.jpeg",
+        "v7_Book-3_PROCESS_p023_img00.jpeg"
+      ],
+      "keywords": [
+        "收货确认",
+        "批次验证",
+        "Batch Validation",
+        "Batch Posting",
+        "过账",
+        "库存更新",
+        "收货报告",
+        "条形码"
+      ],
+      "id": "faq-053",
+      "_original_id": "faq-053"
+    },
+    {
+      "category": "库存转移",
+      "subcategory": "库存转移",
+      "question": "如何创建和执行库存转移（Stock Transfer）？",
+      "answer": "创建和执行库存转移的操作步骤如下：\n\n1. **进入库存转移功能**\n   - 路径：Process > Stock Transfer > Stock Transfer (Carton)。\n   - 菜单功能编号：TF6000。\n\n2. **创建转移批次**\n   - 点击工具栏上的 Create 按钮，系统将创建一个新的库存转移批次。\n   - 输入相关的转移地点和库存信息。\n\n3. **按照工作流程顺序执行以下步骤**\n   \n   **Step 1 - Batch Maintenance（批次维护）**\n   - 创建转移记录（Create Record）\n   - 修改转移记录（Modify Record）\n   - 删除转移记录（Delete Record）\n   - 点击 Batch Maintenance 输入初始信息。\n\n   **Step 2 - Batch Validation（批次验证）**\n   - 验证批次数据的正确性。\n\n   **Step 3 - Generate Pick List（生成拣货单）**\n   - 生成 Transfer Pick List。\n   - 仓库人员根据此拣货单的信息进行商品转移。\n\n   **Step 4 - Batch Amendment（批次修正）**\n   - 如果 Step 3 已完成，批次的修改只能通过此流程进行。\n\n   **Step 5 - Print Amendment List（打印修正清单）**\n   - 生成 Transfer Amendment List。\n   - 这是仓库人员在执行商品转移时应参考的最新清单。\n\n   **Step 6 - Generate Labels & D/O（生成标签和交货单）**\n   - 生成标签和交货单（Delivery Note）。\n\n   **Step 7 - Batch Posting（批次过账）**\n   - 最终过账，更新库存数量。\n\n4. **批次状态说明**\n   - Input：批次处于数据输入模式\n   - Validated：批次已通过验证\n   - Pick Gen.：拣货单生成流程已完成\n   - Amd Create：批次修正已创建\n   - Amd Print：修正清单生成流程已完成\n   - Label Prt：标签和交货单生成流程已完成\n   - Partly Pst：过账时发生错误，批次需要重新过账\n\n5. **其他功能**\n   - Modify Description：修改描述\n   - Modify Remark：修改备注\n   - Scratch Batch：废弃批次\n   - Clear In Use Status：清除使用中状态\n   - Change Status：更改状态\n   - Search Up / Search Down：上下搜索\n\n注意：以上功能有顺序依赖关系，必须按照工作流程顺序执行。本系统称为 Location Oriented Transfer（面向地点的转移），适用于将一个地点的大量商品转移到一个或多个其他地点的情况。",
+      "source": "v7 Book-3 Section 6.4 Pages 24-28",
+      "images": [
+        "v7_Book-3_PROCESS_p027_img00.jpeg",
+        "v7_Book-3_PROCESS_p027_img01.jpeg",
+        "v7_Book-3_PROCESS_p028_img00.jpeg",
+        "v7_Book-3_PROCESS_p028_img01.jpeg"
+      ],
+      "keywords": [
+        "库存转移",
+        "Stock Transfer",
+        "地点间转移",
+        "Location Transfer",
+        "批次维护",
+        "拣货单",
+        "转移批次",
+        "TF6000"
+      ],
+      "id": "faq-054",
+      "_original_id": "faq-054"
+    },
+    {
+      "category": "库存转移",
+      "subcategory": "库存转移",
+      "question": "如何使用手持扫描设备执行库存转移（Hand Held Scanner Transfer）？",
+      "answer": "使用手持扫描设备执行库存转移的工作流程说明：\n\n1. **系统支持两种数据输入方式**\n   - 手工数据输入（Manual Data Input）：按照标准工作流程执行。\n   - 手持扫描设备输入（Hand Held Scanner Input）：通过手持条码扫描器完成数据采集。\n\n2. **手工输入的工作流程**\n   1. Batch Maintenance（批次维护）\n   2. Batch Validation（批次验证）\n   3. Generate Pick List（生成拣货单）\n   4. Batch Amendment（批次修正）\n   5. Print Amendment List（打印修正清单）\n   6. Generate Labels & D/O（生成标签和交货单）\n   7. Batch Posting（批次过账）\n\n3. **手持扫描设备的工作流程**\n   - 与手工输入流程不同，手持扫描设备的工作流程单独设计。\n   - 通常可以通过手持设备直接扫描商品条码和位置信息，减少人工输入错误。\n   - 数据采集完成后导入系统进行处理。\n\n4. **系统特性**\n   - 此流程称为 Location Oriented Transfer（面向地点的转移）。\n   - 特别适用于将大量商品从一个地点转移到另一个或多个地点的情况。\n   - 使用手持设备可以显著提高盘点效率和准确性。\n\n注意：具体的手持扫描设备操作方式可能因设备型号和系统配置而异，请参考相关设备手册。",
+      "source": "v7 Book-3 Section 6.4 Pages 24-26",
+      "images": [
+        "v7_Book-3_PROCESS_p026_img00.jpeg"
+      ],
+      "keywords": [
+        "手持扫描",
+        "Hand Held Scanner",
+        "库存转移扫描",
+        "条码扫描",
+        "Location Transfer",
+        "移动设备盘点"
+      ],
+      "id": "faq-055",
+      "_original_id": "faq-055"
+    },
+    {
+      "category": "库存转移",
+      "subcategory": "库存转移差异调整",
+      "question": "如何处理库存转移数量差异（Recovery & Adjustment）？",
+      "answer": "处理库存转移数量差异的操作步骤如下：\n\n1. **进入差异恢复功能**\n   - 此功能用于处理库存转移过程中不同地点之间的数量差异。\n   - 当库存转移的接收方确认收货数量不一致时，需要确定责任方。\n\n2. **查看差异记录列表**\n   - 系统仅显示存在差异的转移记录。\n   - 所有记录按 Transfer Reference Order Numbers（转移参考单号）排序显示。\n   - 标记为 * 的记录表示等待处理（Recovery）。\n\n3. **选择需要处理的转移单**\n   - 从列表中选择一个带 * 标记的转移记录。\n\n4. **输入恢复明细（Stock Transfer Recovery Detail Input）**\n   - 系统显示该转移单的差异详细信息。\n   - 用户需要判断哪个部门/方应对差异数量负责：\n     - 转出方（Sending party）：如果责任在发货方\n     - 接收方（Receiving party）：如果责任在收货方\n     - 双方各承担一部分：按比例分配差异\n\n5. **系统生成调整记录**\n   - 根据用户的责任分配输入，系统将自动生成适当的调整记录来恢复此差异。\n\n6. **特殊情况处理**\n   - 如果双方都不对差异负责（例如运输途中丢失且无法追责），用户需要通过执行 Physical Adjustments（物理调整）来写销（write off）该差异。\n   - 此操作独立于本应用程序，需要单独执行。\n\n注意：及时处理差异记录有助于保持库存数据的准确性，建议在发现差异后尽快处理。",
+      "source": "v7 Book-3 Section 6.6 Pages 31-32",
+      "images": [
+        "v7_Book-3_PROCESS_p031_img00.jpeg",
+        "v7_Book-3_PROCESS_p032_img00.jpeg"
+      ],
+      "keywords": [
+        "转移差异调整",
+        "Stock Transfer Recovery",
+        "数量差异",
+        "责任方确认",
+        "调整记录",
+        "写销",
+        "库存差异处理"
+      ],
+      "id": "faq-056",
+      "_original_id": "faq-056"
+    },
+    {
+      "category": "库存转移",
+      "subcategory": "库存转移接收确认",
+      "question": "如何确认库存转移的接收（Stock Transfer Receive Confirmation）？",
+      "answer": "确认库存转移接收的操作步骤如下：\n\n1. **进入接收确认功能**\n   - ChainStorePlus 要求所有库存转移操作都必须执行接收确认流程。\n   - 这是一个控制流程，确保转出数量被接收方正确接收并确认。\n\n2. **选择库存转移记录**\n   - 点击或按回车选择需要确认的库存转移记录。\n\n3. **确认接收数量**\n   - 系统显示转移交货单（D/N）的数量和收货数量（Rec Qty）列。\n   - Rec Qty 列默认填充为等于 D/N Qty 的数值。\n   - 如果实际接收数量与交货单数量一致，直接确认无需修改。\n   - 如果存在差异，在 Rec Qty 列修改为实际接收数量。\n     - 例如：D/N = 8 件，实际接收 = 7 件，将 Rec Qty 修改为 7。\n   - Var. 列（差异数量）将在输入后自动显示差异值。\n\n4. **确认输入正确**\n   - 检查差异数量是否正确。\n   - 确认提交。\n\n5. **差异处理**\n   - 如果交货和接收数量不一致，系统将自动生成差异记录（Discrepancy Record）。\n   - 这些差异记录需要后续通过手动恢复和调整流程（Stock Transfer Receive Recovery & Adjustment）处理。\n   - 将在下一节（6.6）中详细讨论。\n\n注意：此控制流程是确保库存转移准确性的关键步骤，建议认真核对实际收货数量。",
+      "source": "v7 Book-3 Section 6.5 Pages 29-30",
+      "images": [
+        "v7_Book-3_PROCESS_p029_img00.jpeg",
+        "v7_Book-3_PROCESS_p029_img01.jpeg",
+        "v7_Book-3_PROCESS_p029_img02.jpeg",
+        "v7_Book-3_PROCESS_p030_img00.jpeg",
+        "v7_Book-3_PROCESS_p030_img01.jpeg",
+        "v7_Book-3_PROCESS_p030_img02.jpeg"
+      ],
+      "keywords": [
+        "转移接收确认",
+        "Stock Transfer Receive Confirmation",
+        "接收数量确认",
+        "差异记录",
+        "库存转移接收"
+      ],
+      "id": "faq-057",
+      "_original_id": "faq-057"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "实物盘点",
+      "question": "如何冻结库存数量以准备实物盘点（Freeze On Hand Quantity）？",
+      "answer": "冻结库存数量以准备实物盘点的操作步骤如下：\n\n1. **前期准备 - 清理未完成批次**\n   - 在开始盘点之前，清理盘点地点的所有未完成数据批次。\n   - 确保所有 outstanding batch 都已过账。\n\n2. **进入冻结功能**\n   - 从 Physical Count Process 功能中选择 Freeze On Hand Quantity。\n\n3. **输入冻结范围**\n   - Stock Freeze Operation 画面显示，要求输入 Stock Freeze Range。\n   - 如果要对所有商品进行冻结，将范围留空（Leave Blank for Select ALL）。\n   - 也可以指定特定的商品范围进行冻结。\n\n4. **确认冻结**\n   - 选择范围后点击 Confirm 确认。\n   - 系统将以当前系统日期冻结商品的当前库存数量状态。\n   - 系统会显示处理进度，完成后显示完成消息。\n\n5. **重要注意事项**\n   - **在 Stock Freeze 到 Physical Stock Counting Complete 期间，盘点地点不允许有任何库存移动更新或活动。**\n   - 必须确保在冻结期间没有入库、出库、转移等操作影响该地点的库存。\n   - 后续的库存差异计算将基于此冻结数量与实际盘点数量进行比较。\n\n6. **后续流程**\n   - 冻结完成后，即可开始实际的库存盘点操作。\n   - 盘点完成后，可以将实际盘点数据输入系统（手工输入或手持设备上传）。\n   - 实际盘点输入完成后，可以恢复该地点的正常库存活动。\n\n7. **计算公式**\n   - 过账后的库存数量计算公式：\n     Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand)\n     其中：\n     - Current_On_Hand：当前库存数量\n     - Physical_On_Hand：实际盘点数量\n     - Freeze_On_Hand：冻结时的库存数量\n\n8. **未盘点商品的处理**\n   - 如果存在于该地点但在实物盘点记录中未输入的商品，过账后其库存数量将被设置为零。",
+      "source": "v7 Book-3 Section 6.8 Pages 37-43",
+      "images": [
+        "v7_Book-3_PROCESS_p041_img00.jpeg",
+        "v7_Book-3_PROCESS_p042_img00.jpeg",
+        "v7_Book-3_PROCESS_p042_img01.jpeg",
+        "v7_Book-3_PROCESS_p043_img00.jpeg",
+        "v7_Book-3_PROCESS_p043_img01.jpeg",
+        "v7_Book-3_PROCESS_p043_img02.jpeg"
+      ],
+      "keywords": [
+        "冻结库存",
+        "Freeze On Hand",
+        "实物盘点准备",
+        "库存冻结",
+        "Physical Count",
+        "盘点冻结",
+        "Stock Freeze"
+      ],
+      "id": "faq-058",
+      "_original_id": "faq-058"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "实物盘点",
+      "question": "如何输入实物盘点数据（Physical Count Stock Input）？",
+      "answer": "输入实物盘点数据的操作步骤如下：\n\n1. **前提条件**\n   - 必须已完成 Freeze On Hand Quantity（冻结库存数量）操作。\n   - 实物盘点工作应已实际完成，确保数据准确。\n\n2. **进入实物盘点输入批次功能**\n   - 在完成库存冻结操作后，从 Physical Count Process 进入 Physical Count Stock Input Batch。\n\n3. **恢复库存活动（可选）**\n   - 注意：由于实物盘点在此输入阶段应已完成，用户可以恢复盘点地点的正常库存活动。\n   - **但必须确保实物盘点已完全完成。**\n\n4. **输入批次头信息**\n   - Ref. No.（参考编号）：9(08)，仅显示，系统在记录确认时自动生成，用于实物盘点记录的参考编号。\n   - Date（日期）：格式 dd/mm/yyyy，必填字段，实物盘点记录的录入日期。\n   - Count Sheet No.（盘点表编号）：X(15)，必填字段，用于参考的盘点表编号。\n   - Remarks（备注）：X(20)，可选字段，实物盘点记录的备注说明。\n\n5. **输入商品明细**\n   - Item No.（商品编号）：X(14)，每个记录至少需要一个商品。\n   - Col.（颜色）：如果商品有颜色控制则为必填字段。\n   - Size（尺寸）：如果商品有尺寸控制则为必填字段。\n   - Quantity（数量）：9(08)，必填字段，实际盘点数量。\n   - Description（描述）：可选，仅供参考。\n   - Total Qty（总数量）：9(08)，仅显示，记录的总盘点数量。\n\n6. **注意事项**\n   - 同一商品可多次输入，因为系统后续会进行合并处理（consolidation）。\n   - 如果导入数据与系统现有数据不同，系统会生成 Physical Adjustment Journal。",
+      "source": "v7 Book-3 Section 6.8 Pages 43-45",
+      "images": [
+        "v7_Book-3_PROCESS_p044_img00.jpeg",
+        "v7_Book-3_PROCESS_p044_img01.jpeg",
+        "v7_Book-3_PROCESS_p044_img02.jpeg"
+      ],
+      "keywords": [
+        "实物盘点输入",
+        "Physical Count Input",
+        "盘点数据录入",
+        "盘点表",
+        "Count Sheet",
+        "盘点批次"
+      ],
+      "id": "faq-059",
+      "_original_id": "faq-059"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "实物盘点",
+      "question": "如何验证并过账实物盘点结果（Validation, Variance Report & Posting）？",
+      "answer": "验证实物盘点结果并完成过账的操作步骤如下：\n\n**Step 3a - 数据验证（Stock Count Validation）**\n1. 在完成实物盘点数据输入并确认无误后，执行验证操作。\n2. 进入 Batch Validation 功能。\n3. 系统将对输入数据进行验证。\n\n**Step 3b - 打印差异报告（Variance Report Printing）**\n1. 验证完成后，系统提示打印 Stock Variance Report（库存差异报告）。\n2. 点击 OK 确认。\n3. 系统显示处理进度。\n4. 完成后显示完成消息。\n5. 差异报告将显示冻结数量与实际盘点数量之间的差异。\n\n**Step 4 - 批次过账（Stock Take Posting）**\n1. 这是实物盘点流程的最后一步。\n2. 系统将使用最终验证的盘点数据与冻结数量进行比较。\n3. 点击 Batch Posting 按钮执行过账。\n4. 系统显示处理进度。\n5. 完成后显示完成消息。\n\n6. **过账后的库存计算公式**\n   - 过账后库存 = Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand)\n   - Current_On_Hand：当前库存数量\n   - Physical_On_Hand：实际盘点数量\n   - Freeze_On_Hand：冻结时的库存数量\n\n7. **过账后的效果**\n   - 库存数量将更新为实际盘点结果。\n   - 如果存在差异，系统将生成相应的更新日志/历史记录（Update journal / history records）。\n   - 对于在盘点记录中未输入但存在于该地点的商品，过账后其库存数量将被设置为零。\n\n**完整工作流程回顾**\n1. 过账所有未完成批次\n2. Freeze On-Hand qty and average cost（冻结库存数量和平均成本）\n3. Physical Stock Take at location / Fill in Count sheet（实地盘点/填写盘点表）\n4. Batch Maintenance（输入盘点数据）\n5. Batch Validation & Variance Report（验证并打印差异报告）\n6. Batch Posting（过账）",
+      "source": "v7 Book-3 Section 6.8 Pages 37-47",
+      "images": [
+        "v7_Book-3_PROCESS_p046_img00.jpeg",
+        "v7_Book-3_PROCESS_p046_img01.jpeg",
+        "v7_Book-3_PROCESS_p046_img02.jpeg",
+        "v7_Book-3_PROCESS_p046_img03.jpeg",
+        "v7_Book-3_PROCESS_p046_img04.jpeg",
+        "v7_Book-3_PROCESS_p047_img00.jpeg",
+        "v7_Book-3_PROCESS_p047_img01.jpeg",
+        "v7_Book-3_PROCESS_p047_img02.jpeg"
+      ],
+      "keywords": [
+        "盘点验证",
+        "Batch Validation",
+        "差异报告",
+        "Variance Report",
+        "盘点过账",
+        "Batch Posting",
+        "Stock Take",
+        "库存盘点"
+      ],
+      "id": "faq-060",
+      "_original_id": "faq-060"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "实物盘点",
+      "question": "实物盘点（Physical Count）的完整流程是什么？",
+      "answer": "实物盘点的完整流程如下：\n\n**目标：** 在实际盘点库存后执行库存更新。\n\n**先决条件：**\n- 在创建实物盘点批次信息之前，必须先处理 Freeze On Hand Quantity（冻结库存数量）。\n- 由于最终的过账操作通常远晚于盘点数据输入，冻结流程对于正确计算过账后的库存数量至关重要。\n\n**完整操作流程：**\n\n**第1步：冻结库存数量（Freeze On Hand Quantity）**\n- 清理盘点地点的所有未完成数据批次。\n- 执行 Stock Freeze，输入冻结范围（留空为选择所有商品）。\n- 确认后系统以当前日期冻结库存状态。\n- 重要：冻结至盘点完成期间，盘点地点不允许有任何库存移动。\n\n**第2步：创建盘点批次并输入数据（Batch Maintenance）**\n- 针对特定地点创建新的批次。\n- 输入盘点表编号（Count Sheet No.）、日期和商品明细。\n- 同一商品可多次输入，系统后续会合并处理。\n- 此时可恢复盘点地点的正常库存活动（前提是实物盘点已完全完成）。\n\n**第3步：验证并生成差异报告（Validation & Variance Report）**\n- 执行 Batch Validation 验证数据。\n- 系统自动打印 Stock Variance Report 到打印队列。\n- 检查差异报告，确认是否需要进行调整。\n\n**第4步：过账（Batch Posting）**\n- 执行最终过账。\n- 过账后库存 = Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand)。\n- 如果存在差异，系统生成 Physical Adjustment Journal。\n- 未在盘点记录中输入的商品将被设置为零库存。\n- 过账后不可回退。\n\n**支持的功能：**\n1. Freeze On Hand Quantity（冻结数量）\n2. Batch Maintenance（批次维护）：创建/修改/删除记录\n3. Batch Validation（批次验证）\n4. Batch Posting（过账）\n5. Modify Description（修改描述）\n6. Scratch Batch（废弃批次）\n7. Clear In Use Status（清除使用中状态）\n8. Change Status（更改状态：Input, Validated）\n\n**批次状态说明：**\n- Input：批次正在输入\n- Validated：批次已验证\n- Partly Pst：过账时出错，需要重新过账\n\n**支持两种数据输入方式：**\n- 手工数据输入（Manual Data Input）\n- 手持扫描设备输入（Hand Held Scanner Input）",
+      "source": "v7 Book-3 Section 6.8 Pages 37-47",
+      "images": [
+        "v7_Book-3_PROCESS_p041_img00.jpeg",
+        "v7_Book-3_PROCESS_p042_img00.jpeg",
+        "v7_Book-3_PROCESS_p044_img00.jpeg",
+        "v7_Book-3_PROCESS_p046_img00.jpeg",
+        "v7_Book-3_PROCESS_p047_img00.jpeg"
+      ],
+      "keywords": [
+        "实物盘点流程",
+        "Physical Count Process",
+        "盘点工作流",
+        "库存盘点",
+        "Stock Take",
+        "盘点完整流程"
+      ],
+      "id": "faq-061",
+      "_original_id": "faq-061"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "物理调整",
+      "question": "如何进行库存物理调整（Physical Adjustment）？",
+      "answer": "进行库存物理调整的操作步骤如下：\n\n1. **进入物理调整功能**\n   - 从菜单进入 Physical Adjustment Process。\n   - Physical Adjustment 允许用户对库存数量进行修正，并保留历史日志。\n\n2. **菜单画面操作**\n   - 在菜单画面中创建新的物理调整批次。\n\n3. **批次维护画面 - 输入头信息（Batch Maintenance Screen）**\n   - 各字段说明：\n     - Ref. No.（参考编号）：9(08)，仅显示，系统在记录确认时自动生成，用于物理 I/O 记录的参考编号。\n     - Date（日期）：格式 dd/mm/yyyy，必填字段。\n     - Reason Code（原因代码）：X(02)，必填字段，唯一代码用于标识特定原因（在 Reason Table Maintenance 中预定义）。\n     - Location Code（地点代码）：X(04)，必填字段，执行物理 I/O 操作的地点，旁边会显示地点描述。\n     - Remarks（备注）：X(40)，必填字段，特定物理 I/O 记录的备注说明。\n\n4. **批次维护画面 - 输入商品明细**\n     - Seq（序号）：9(03)，仅显示，商品信息的顺序编号，每个参考编号最多 200 个序号。\n     - Item No.（商品编号）：X(14)，每个参考编号至少需要一个商品。\n     - Col（颜色）：X(04)，如果商品有颜色控制则为必填字段。\n     - Size（尺寸）：X(04)，如果商品有尺寸控制则为必填字段。\n     - Adjust（调整数量）：S9(07)，必填字段，对应商品的调整数量（正数为增加，负数为减少）。\n     - Description（描述）：X(40)，可选，仅供参考。\n     - Total（总计）：S9(07)，仅显示，总调整数量。\n\n5. **执行验证和过账**\n   1. Batch Maintenance（批次维护）：创建、修改、删除记录\n   2. Batch Validation（批次验证）：验证数据\n   3. Batch Posting（批次过账）：最终过账\n\n6. **其他功能**\n   - Modify Description：修改描述\n   - Scratch Batch：废弃批次\n   - Clear In Use Status：清除使用中状态\n   - Change Status：更改状态（Input, Validated）\n   - Search Up / Search Down：上下搜索\n\n7. **批次状态说明**\n   - Input：批次正在输入中\n   - Validated：批次已通过验证\n   - Partly Pst：过账时发生错误，需要重新过账",
+      "source": "v7 Book-3 Section 6.7 Pages 33-36",
+      "images": [
+        "v7_Book-3_PROCESS_p034_img00.jpeg",
+        "v7_Book-3_PROCESS_p034_img01.jpeg",
+        "v7_Book-3_PROCESS_p035_img00.jpeg"
+      ],
+      "keywords": [
+        "物理调整",
+        "Physical Adjustment",
+        "库存修正",
+        "调整原因",
+        "批次过账",
+        "库存调整",
+        "库存日志"
+      ],
+      "id": "faq-062",
+      "_original_id": "faq-062"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "退货给供应商",
+      "question": "如何创建退货给供应商的单据（Return to Suppliers）？",
+      "answer": "创建退货给供应商的单据操作步骤如下：\n\n1. **进入功能**\n   - 从菜单进入 Return to Suppliers（RTS）功能。\n   - 此功能允许用户将商品退回给供应商，适用于错误交货、产品损坏等情况。\n\n2. **按照工作流程执行**\n   **Step 1 - Batch Maintenance（批次维护 - Header Information Folder）**\n   - 点击 Create 创建新的退货批次。\n   - 输入以下头信息字段：\n     - Return No.（退货编号）：X(08)，必填字段，特定退货单的参考编号。\n     - Date（日期）：格式 99/99/9999，必填字段（dd/mm/yyyy），退货日期。\n     - Return Type（退货类型）：X(01)，必填字段，退货类型：Normal（正常）或 Consignment（代销）。\n     - Supplier（供应商）：X(08)，必填字段，供应商名称。\n     - Supplier Ref.（供应商参考号）：X(08)，可选字段，供应商的参考编号。\n     - Transfer Ref.（转移参考号）：X(08)，可选字段，转移的参考编号。\n     - Currency（货币）：X(03)，必填字段，货币代码（如 HKD、USD 等）。\n     - Ex. Rate（汇率）：9(05).(05)，显示字段，基础货币与外币之间的汇率。\n     - Total Ret. Qty（退货总数量）：X(08)，仅显示。\n     - Ret. Amt.（退货金额）：X(08)，仅显示。\n     - Discount Amt.（折扣金额）：X(08)，仅显示。\n     - Net Return Amt.（退货净额）：9(09).(02)，显示字段，计算公式：总金额 x (1 - 折扣/100) - 其他折扣 + 其他费用。\n     - Remarks（备注）：X(79)，两行文本描述用于备注输入。\n\n   **Step 2 - 输入商品明细（Manage Item Folder）**\n   - Item（商品）：X(09)，可选字段，如果输入了单价或地点则必填。\n   - Unit Price（单价）：(+/-)9(08).9(02)，可选字段，留空/空格则分配零价格。\n   - Loc.（地点）：X(04)，必填字段，执行退货交易的地点代码。\n   - Qty（数量）：(+/-)9(07)，可选字段，如果商品没有颜色和尺寸，则数量字段变为必填字段。\n   - Unit（单位）：X(04)，显示字段，自动从商品主文件记录中检索用户预定义的计量单位。\n   - Rec. Amt.（收货金额）：(+/-)9(08).9(02)，显示字段，总金额 = 单价 x 数量，系统自动计算。\n   - Total Qty/Amt.（总数量/总金额）：显示字段，该交货单中交货的商品总数量和总金额。\n\n   **Step 3 - Batch Validation（批次验证）**\n   - 验证批次数据。\n\n   **Step 4 - Generate RTS List（生成退货清单）**\n   - 生成退货清单。\n\n   **Step 5 - Generate RTS Note（生成退货单）**\n   - 生成退货单。\n\n   **Step 6 - Batch Posting（批次过账）**\n   - 最终过账，更新库存。\n\n3. **批次状态说明**\n   - Input：批次处于数据输入模式\n   - Validated：批次已验证\n   - RTS List：退货清单已生成\n   - RTS Note：退货单已生成",
+      "source": "v7 Book-3 Section 6.9 Pages 48-53",
+      "images": [
+        "v7_Book-3_PROCESS_p049_img00.jpeg",
+        "v7_Book-3_PROCESS_p050_img00.jpeg",
+        "v7_Book-3_PROCESS_p052_img00.jpeg"
+      ],
+      "keywords": [
+        "退货给供应商",
+        "Return to Suppliers",
+        "RTS",
+        "退货单",
+        "退货流程",
+        "供应商退货",
+        "退货类型",
+        "Normal",
+        "Consignment"
+      ],
+      "id": "faq-063",
+      "_original_id": "faq-063"
+    },
+    {
+      "category": "库存管理",
+      "subcategory": "退货给供应商",
+      "question": "如何完成退货给供应商的验证和过账？",
+      "answer": "完成退货给供应商的验证和过账操作步骤如下：\n\n**1. 批次验证（Batch Validation）**\n   - 在完成退货批次数据输入后，执行 Batch Validation。\n   - 系统会验证退货数据的完整性，包括供应商信息、商品代码、数量等。\n   - 验证通过后，批次状态变为 Validated。\n\n**2. 生成退货清单（Generate RTS List）**\n   - 验证通过后，点击 Generate RTS List。\n   - 系统生成退货清单，供仓库人员拣货参考。\n   - 生成后，批次状态变为 RTS List。\n\n**3. 生成退货单（Generate RTS Note）**\n   - 点击 Generate RTS Note。\n   - 系统生成正式的退货单（Return to Supplier Note），可作为给供应商的退货凭证。\n   - 生成后，批次状态变为 RTS Note。\n\n**4. 批次过账（Batch Posting）**\n   - 这是最后一步。\n   - 执行过账后，库存数量将相应减少。\n   - 系统会创建相应的库存交易记录和日志。\n   - 过账后数据不可回退。\n\n**完整工作流程顺序：**\n1. Batch Maintenance（批次维护）\n   - Stock Receive Input without PO（或 Receive Confirmation）\n2. Batch Validation（批次验证）\n3. Generate RTS List（生成退货清单）\n4. Generate RTS Note（生成退货单）\n5. Batch Posting（批次过账）\n\n**批次状态变更流程：**\nInput -> Validated -> RTS List -> RTS Note\n\n注意：\n- 如果退货时需同时处理收货，可以先执行 Stock Receive Input without PO（无 PO 收货）或 Receive Confirmation（收货确认），再执行退货流程。\n- 退货类型分为 Normal（正常退货）和 Consignment（代销退货），两种类型的财务处理方式不同。",
+      "source": "v7 Book-3 Section 6.9 Pages 48-53",
+      "images": [
+        "v7_Book-3_PROCESS_p049_img00.jpeg",
+        "v7_Book-3_PROCESS_p050_img00.jpeg",
+        "v7_Book-3_PROCESS_p052_img00.jpeg"
+      ],
+      "keywords": [
+        "退货验证",
+        "RTS Validation",
+        "退货过账",
+        "RTS Posting",
+        "生成退货单",
+        "Generate RTS Note",
+        "退货批次"
+      ],
+      "id": "faq-064",
+      "_original_id": "faq-064"
+    },
+    {
+      "category": "配送流程",
+      "subcategory": "交货单 - 入库",
+      "question": "如何创建交货单进行库存入库（Delivery Order - Stock In）？",
+      "answer": "创建交货单进行库存入库的操作步骤如下：\n\n1. **进入功能**\n   - 从菜单进入 Delivery Order Process - Stock In（交货单入库流程）。\n   - 此功能用于处理库存入库操作。\n\n2. **系统原理**\n   - 系统将入库数据作为 Physical Adjustment（物理调整）的一种形式处理。\n   - 使用用户自定义的交易代码（Transaction Codes）进行区分。\n   - 更新机制与 Delivery Order - Stock Out 流程相同，但计算方向相反（逆向计算）。\n\n3. **操作步骤**\n   - 创建新批次（Create New Batch）。\n   - 点击 Batch Maintenance 进入批次维护。\n\n4. **输入头信息**\n   - 参考 Delivery Order Stock Out 的头信息字段，主要包括：\n   - 日期、部门编号、客户名称、交货日期、货币、汇率等。\n\n5. **输入商品明细**\n   - 输入商品代码、入库交易代码、单价、地点、数量等信息。\n   - 入库交易代码由用户自定义，用于标识不同的入库原因。\n\n6. **执行工作流程**\n   - Batch Validation（批次验证）\n   - Batch Posting（批次过账）\n\n注意：具体操作细节与 Stock Out 流程相似，但因库存方向相反，对库存的影响是增加而非减少。",
+      "source": "v7 Book-3 Section 6.11 Pages 66-67",
+      "images": [
+        "v7_Book-3_PROCESS_p066_img00.jpeg",
+        "v7_Book-3_PROCESS_p066_img01.jpeg",
+        "v7_Book-3_PROCESS_p067_img00.jpeg"
+      ],
+      "keywords": [
+        "交货单入库",
+        "Delivery Order Stock In",
+        "库存入库",
+        "入库流程",
+        "D/O Stock In",
+        "自定义交易代码"
+      ],
+      "id": "faq-065",
+      "_original_id": "faq-065"
+    },
+    {
+      "category": "配送流程",
+      "subcategory": "交货单 - 出库",
+      "question": "如何创建交货单进行库存出库（Delivery Order - Stock Out）？",
+      "answer": "创建交货单进行库存出库的操作步骤如下：\n\n**概念说明：**\nDelivery Order Process - Stock Out 允许用户使用自定义的交易代码来处理库存出库。常见的出库交易类型包括：\n- Internal Use（内部使用）\n- Internal Sales（内部销售）\n- Give Away Samples（赠送样品）\n- Sponsorship（赞助）\n- Special Project Usage（特殊项目使用）\n- Write Off（报废）\n\n**操作步骤：**\n\n1. **进入功能**\n   - 从菜单进入 Delivery Order - The Stock Out Process。\n   - 首先创建新批次（Create New Batch）。\n   - 点击 Batch Maintenance。\n\n2. **输入头信息（Header Information Folder）**\n   - Pick Ref. No.（拣货参考编号）：X(08)，仅显示，特定交货单的参考编号。\n   - Date（日期）：格式 99/99/9999，必填字段（dd/mm/yyyy），商品从此日期开始提取。\n   - Dept. No.（部门编号）：X(01)，必填字段，预设的处理此交货单交易的部门代码。\n   - Customer Data Input（客户数据输入）：可选。\n   - Customer Name（客户名称）：X(08)，必填字段。\n   - Address（地址）：必填字段。\n   - Del. Date（交货日期）：格式 99/99/9999，必填字段（dd/mm/yyyy），订单需在此日期前交货。\n   - Remarks（备注）：X(80)，可选字段，此拣货单的任何备注。\n   - Project no.（项目编号）：X(07)，可选字段，预定义的项目 ID，如果交易基于项目则需要输入。\n\n3. **输入货币和金额信息**\n   - Currency（货币）：X(03)，必填字段，货币代码（如 HKD、USD 等）。\n   - Ex. Rate（汇率）：9(05).(05)，显示字段。\n   - Discount（折扣）：9(03).(02)，可选字段，交货单的折扣百分比。\n   - Total Amt.（总金额）：9(09).(02)，显示字段。\n   - Other Disc/Adj（其他折扣/调整）：9(09).(02)，可选字段。\n   - Other Charg/Adj（其他费用/调整）：9(09).(02)，可选字段。\n   - Net Total Amt.（净额）：9(09).(02)，显示字段，计算公式：Total Amt. x (1 - Discount/100) - Other Disc. + Other Charge。\n\n4. **输入备注（Remarks Folder）**\n   - Remarks（备注）：X(79)，最多 20 行文本描述。\n\n5. **输入商品明细（Manage Item Folder）**\n   - Item（商品）：X(09)，可选字段，如果输入了单价或地点则必填。\n   - Trx（交易代码）：X(03)，必填字段，用户预定义并分配给此交货单的交易代码。\n   - Unit Price（单价）：(+/-)9(08).9(02)，可选字段，留空则分配零价格。\n   - Loc.（地点）：X(04)，必填字段，执行交货单交易的地点代码。\n   - Qty（数量）：(+/-)9(07)，可选字段，如果商品没有颜色和尺寸，则数量字段变为必填字段。\n   - Unit（单位）：X(04)，显示字段，自动从商品主文件检索。\n   - Rec. Amt.（金额）：(+/-)9(08).9(02)，显示字段，系统自动计算。\n   - Total Qty/Amt.（总数量/总金额）：显示字段。\n\n6. **执行工作流程**\n   **Step 1:** D/O Data Maintenance（交货单数据维护）\n   **Step 2:** D/O Batch Validation（批次验证）- 点击 Batch Validation，系统弹出消息框，点击 OK 完成，显示完成消息。\n   **Step 3:** Print Pick List（打印拣货单）- 点击 Generate Pick Up，系统弹出消息框，点击 OK 完成。\n   **Step 4:** Batch Amendment（批次修正）- 可在需要时修改。\n   **Step 5:** Print Amendment List（打印修正清单）\n   **Step 6:** Print Delivery Order（打印交货单）- 点击 Print Delivery Order，系统弹出消息框，点击 OK 完成。用户也可以从右上角的三个垂直点菜单中选择保存为 Delivery Order。\n   **Step 7:** Batch Posting（批次过账）- 最终过账。\n\n注意：以上功能有顺序依赖关系，必须按工作流程顺序执行。",
+      "source": "v7 Book-3 Section 6.10 Pages 54-65",
+      "images": [
+        "v7_Book-3_PROCESS_p056_img00.jpeg",
+        "v7_Book-3_PROCESS_p056_img01.jpeg",
+        "v7_Book-3_PROCESS_p056_img02.jpeg",
+        "v7_Book-3_PROCESS_p056_img03.jpeg",
+        "v7_Book-3_PROCESS_p056_img04.jpeg",
+        "v7_Book-3_PROCESS_p057_img00.jpeg",
+        "v7_Book-3_PROCESS_p057_img01.jpeg",
+        "v7_Book-3_PROCESS_p058_img00.jpeg",
+        "v7_Book-3_PROCESS_p059_img00.jpeg",
+        "v7_Book-3_PROCESS_p060_img00.jpeg",
+        "v7_Book-3_PROCESS_p061_img00.jpeg",
+        "v7_Book-3_PROCESS_p061_img01.jpeg",
+        "v7_Book-3_PROCESS_p062_img00.jpeg",
+        "v7_Book-3_PROCESS_p062_img01.jpeg",
+        "v7_Book-3_PROCESS_p062_img02.jpeg",
+        "v7_Book-3_PROCESS_p062_img03.jpeg",
+        "v7_Book-3_PROCESS_p063_img00.jpeg",
+        "v7_Book-3_PROCESS_p063_img01.jpeg",
+        "v7_Book-3_PROCESS_p063_img02.jpeg",
+        "v7_Book-3_PROCESS_p063_img03.jpeg",
+        "v7_Book-3_PROCESS_p064_img00.jpeg",
+        "v7_Book-3_PROCESS_p064_img01.jpeg",
+        "v7_Book-3_PROCESS_p064_img02.jpeg",
+        "v7_Book-3_PROCESS_p065_img00.jpeg",
+        "v7_Book-3_PROCESS_p065_img01.jpeg"
+      ],
+      "keywords": [
+        "交货单出库",
+        "Delivery Order Stock Out",
+        "库存出库",
+        "拣货单",
+        "交易代码",
+        "自定义交易类型",
+        "出库流程",
+        "D/O"
+      ],
+      "id": "faq-066",
+      "_original_id": "faq-066"
+    },
+    {
+      "category": "配送流程",
+      "subcategory": "交货单 - 出库",
+      "question": "如何验证并最终过账交货单出库（Batch Validation & Posting for D/O Stock Out）？",
+      "answer": "验证并最终过账交货单出库的操作步骤如下：\n\n**批次验证（Batch Validation）**\n1. 在完成交货单数据维护后，点击 Batch Validation。\n2. 系统弹出确认消息框。\n3. 点击 OK 确认执行验证。\n4. 验证完成后系统显示完成消息。\n\n**生成拣货单（Generate Pick Up / Print Pick List）**\n1. 验证通过后，点击 Generate Pick Up。\n2. 系统弹出消息框。\n3. 点击 OK 确认。\n4. 生成完成后显示完成消息。\n5. 仓库人员根据拣货单进行拣货。\n\n**批次修正（Batch Amendment - 可选）**\n1. 如果拣货单生成后发现需要修改，可通过 Batch Amendment 进行。\n2. 修改后打印修正清单（Print Amendment List）。\n\n**打印交货单（Print Delivery Order）**\n1. 点击 Print Delivery Order。\n2. 系统弹出消息框。\n3. 点击 OK 确认。\n4. 完成后显示完成消息。\n5. 用户也可以从右上角的三个垂直点菜单中选择 Save as Delivery Order 保存。\n\n**批次过账（Batch Posting）**\n1. 这是最后一步。\n2. 执行过账后，库存数据将正式更新。\n3. 过账后数据不可回退。\n\n**完整的工作流程顺序：**\n1. D/O Data Maintenance（交货单数据维护）\n2. D/O Batch Validation（批次验证）\n3. Print Pick List（打印拣货单）\n4. Batch Amendment（批次修正）\n5. Print Amendment List（打印修正清单）\n6. Print Delivery Order（打印交货单）\n7. Batch Posting（批次过账）\n\n注意：这些功能有严格的顺序依赖关系，必须按顺序执行，不可跳跃。",
+      "source": "v7 Book-3 Section 6.10 Pages 61-65",
+      "images": [
+        "v7_Book-3_PROCESS_p062_img00.jpeg",
+        "v7_Book-3_PROCESS_p062_img01.jpeg",
+        "v7_Book-3_PROCESS_p062_img02.jpeg",
+        "v7_Book-3_PROCESS_p062_img03.jpeg",
+        "v7_Book-3_PROCESS_p063_img00.jpeg",
+        "v7_Book-3_PROCESS_p063_img01.jpeg",
+        "v7_Book-3_PROCESS_p063_img02.jpeg",
+        "v7_Book-3_PROCESS_p063_img03.jpeg",
+        "v7_Book-3_PROCESS_p064_img00.jpeg",
+        "v7_Book-3_PROCESS_p064_img01.jpeg",
+        "v7_Book-3_PROCESS_p064_img02.jpeg",
+        "v7_Book-3_PROCESS_p065_img00.jpeg",
+        "v7_Book-3_PROCESS_p065_img01.jpeg"
+      ],
+      "keywords": [
+        "批次验证",
+        "Batch Validation",
+        "过账",
+        "Posting",
+        "拣货单",
+        "Print Pick List",
+        "交货单打印",
+        "出库过账"
+      ],
+      "id": "faq-067",
+      "_original_id": "faq-067"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "POS在线销售与销售备忘录查询",
+      "question": "如何查询POS在线销售与销售备忘录？",
+      "answer": "此功能用于比较各店铺的销售业绩表现。\n\n在位置选择窗口（Location Selection Window）中，您可以选择四种比较范围：\n- 所有位置（All Location）\n- 特定位置（Particular Location）\n- 部门（Division）\n- 国家/地区（Country）\n\n在模式选择窗口（Mode Selection Window）中，您可以设置比较规则：\n\n1. Summary By（汇总方式）：\n   - Location（按位置）\n   - Division（按部门）\n   - Group（按组别）\n   - Country（按国家/地区）\n\n2. Mode（模式）：\n   - Total（总计）\n   - Sales（销售）\n   - Deposit（订金）\n   - Deposit Settlement（订金结算）\n   - Sales (Excl Dep Set)（销售，不含订金结算）\n   - Service（服务）\n   - Gift Cert.（礼品券）\n\n3. Type（类型）：\n   - All Location（所有位置）\n   - Own Shop（自有店铺）\n   - Web Store（网店）\n   - Franchise（加盟店）\n\n4. Day Range（日期范围）：\n   - Day（日）\n   - Period（期间）\n   - Week（周）\n   - Month（月）\n   - Year（年）\n\n5. Compare（比较基准）：\n   - Last Year Same Day（去年同日）\n   - Last Month Same Day（上月同日）\n   - Last Week Same Day（上周同日）\n   - Target（目标）\n   - User Define（用户自定义）",
+      "source": "v7 Book-4 Section 7.3 Page 12-13",
+      "images": [
+        "v7_Book-4_INQUIRY_p012_img00.jpeg"
+      ],
+      "keywords": [
+        "POS销售",
+        "销售备忘录",
+        "店铺比较",
+        "销售业绩",
+        "销售对比",
+        "订金结算",
+        "礼品券"
+      ],
+      "id": "faq-068",
+      "_original_id": "faq-068"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "POS在线销售查询",
+      "question": "如何进行POS在线销售查询？",
+      "answer": "进入POS在线销售查询画面后，您可以查看两个不同时间段的销售数据比较。系统将以对比方式显示销售数据，帮助您分析销售趋势和业绩变化。\n\n画面上方显示两个不同时间段的销售数据对比，通过直观的对比视图来评估销售表现。",
+      "source": "v7 Book-4 Section 7.4 Page 14",
+      "images": [
+        "v7_Book-4_INQUIRY_p014_img00.jpeg"
+      ],
+      "keywords": [
+        "POS销售查询",
+        "销售对比",
+        "在线销售",
+        "销售分析",
+        "时间段对比"
+      ],
+      "id": "faq-069",
+      "_original_id": "faq-069"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "交货单收货（入库）日记账查询",
+      "question": "如何查询交货单收货（入库）日记账？",
+      "answer": "此功能用于查询交货单收货（即库存入库）的记录信息。进入查询画面后，您可以查看已收货的交货单记录，包括入库参考编号、收货日期、供应商信息、入库商品及数量等详细信息。",
+      "source": "v7 Book-4 Section 7.14 Page 31",
+      "images": [
+        "v7_Book-4_INQUIRY_p031_img00.jpeg"
+      ],
+      "keywords": [
+        "交货单收货",
+        "入库日记账",
+        "库存入库",
+        "收货查询",
+        "交货单查询"
+      ],
+      "id": "faq-070",
+      "_original_id": "faq-070"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "交货单日记账查询",
+      "question": "如何查询交货单日记账？",
+      "answer": "此功能用于查询交货单（Delivery Order）及其详细信息。提供以下查询方式：\n- 按参考编号查询（Reference No.）\n- 按日期查询（Date）\n- 按项目编号查询（Project No.）\n\n进入交货单日记账查询画面（Delivery Order Journal Enquiry）后，显示一般索引信息：\n- 参考编号（Reference Number）\n- 交货单日期（Delivery Order Date）\n- 客户代码/名称（Customer Code/Name，取决于系统设定）\n- 交易代码（Transaction Code）\n- 项目编号（Project Number）\n- 总交货金额（Total Delivery Value Amount）\n\n双击选定记录后，进入交货单详细信息画面（Delivery Order Detail Screen），显示：\n- 拣货单参考编号（Pick List Reference Number）\n- 部门代码（Department Code）\n- 拣货单参考日期（Pick List Reference Date）\n- 客户名称（Customer Name）\n- 交货单日期、备注、项目编号\n- 币种（Currency）\n- 汇率（Exchange Rate）\n- 折扣（Discount）\n- 总金额（Total Amount）\n- 其他折扣（Other Discount）\n- 其他费用（Other Charge）\n- 净总金额（Net Total Amount）\n\n商品信息管理画面（Item Information Management Screen）显示：\n- 拣货参考编号、序号、商品代码、单价、位置代码、数量、单位\n- 总价和总数量、总金额、交易代码",
+      "source": "v7 Book-4 Section 7.12 Page 28-29",
+      "images": [
+        "v7_Book-4_INQUIRY_p028_img00.jpeg",
+        "v7_Book-4_INQUIRY_p029_img00.jpeg",
+        "v7_Book-4_INQUIRY_p029_img01.jpeg"
+      ],
+      "keywords": [
+        "交货单",
+        "交货单日记账",
+        "客户交货",
+        "拣货单",
+        "项目查询",
+        "交货金额"
+      ],
+      "id": "faq-071",
+      "_original_id": "faq-071"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "会员活动明细查询",
+      "question": "如何查询会员活动明细？",
+      "answer": "此功能使用户能够查看每位会员客户的销售明细，可深入到最详细级别。\n\n操作步骤：\n1. 进入会员活动明细查询画面（Member Activities Details Screen）。\n2. 鼠标选择所需会员并点击，系统将显示选择菜单供用户进一步操作。\n3. 从弹出显示菜单中选择\"ALL\"（全部），即可查看该选定会员的全部活动记录。\n\n通过该功能，您可以追踪每位会员的所有交易活动，包括购买记录、服务记录等，有助于分析会员消费行为和偏好。",
+      "source": "v7 Book-4 Section 7.16 Page 33-34",
+      "images": [
+        "v7_Book-4_INQUIRY_p033_img00.jpeg",
+        "v7_Book-4_INQUIRY_p034_img00.jpeg"
+      ],
+      "keywords": [
+        "会员活动",
+        "会员明细",
+        "会员查询",
+        "会员销售",
+        "客户分析",
+        "会员交易"
+      ],
+      "id": "faq-072",
+      "_original_id": "faq-072"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "会员销售额汇总查询",
+      "question": "如何查询会员销售额汇总？",
+      "answer": "此功能用于查看会员的销售数据汇总信息（Member Sales Figures Summary）。\n\n进入会员销售信息画面（Member Sales Information Screen）后，显示以下一般信息：\n- 姓名（Name）\n- 类型（Type）\n- 折扣（Discount）\n- 身份证号（ID No.）\n- 状态（Status）\n- 限额（Limit）\n- 月份（Month）\n- 去年总销售额（Last Year Gross Sales）\n- 今年总销售额（Current Year Gross Sales）\n- 去年净销售额（Last Year Net Sales）\n- 今年净销售额（Current Year Net Sales）\n\n通过此功能可以对比会员的年度销售业绩变化，便于分析会员价值和消费趋势。",
+      "source": "v7 Book-4 Section 7.18 Page 36",
+      "images": [
+        "v7_Book-4_INQUIRY_p036_img00.jpeg",
+        "v7_Book-4_INQUIRY_p036_img01.jpeg",
+        "v7_Book-4_INQUIRY_p036_img02.jpeg"
+      ],
+      "keywords": [
+        "会员销售额",
+        "会员汇总",
+        "会员分析",
+        "销售汇总",
+        "年度销售对比"
+      ],
+      "id": "faq-073",
+      "_original_id": "faq-073"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "库存调拨收货查询",
+      "question": "如何查询库存调拨收货信息？",
+      "answer": "此查询画面的数据格式与库存调拨收货确认处理（Stock Transfer Receive Confirmation Process）相同，但所有字段均为受保护的只读状态。您可以在该画面中查看已确认的调拨收货信息，包括调拨商品明细、数量以及相关确认信息，但不能进行任何修改操作。",
+      "source": "v7 Book-4 Section 7.9 Page 23",
+      "images": [
+        "v7_Book-4_INQUIRY_p023_img00.jpeg",
+        "v7_Book-4_INQUIRY_p023_img01.jpeg"
+      ],
+      "keywords": [
+        "调拨收货",
+        "库存调拨",
+        "收货确认",
+        "调拨查询",
+        "只读查询"
+      ],
+      "id": "faq-074",
+      "_original_id": "faq-074"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "按仓库位置查询库存",
+      "question": "如何按仓库位置查询库存？",
+      "answer": "进入仓库位置索引画面（Item Index Screen），系统将显示所有库存位置列表，包括店铺和仓库。选择一个位置后即可查看该位置的库存详情。\n\n查询结果提供两种库存数量查看模式：\n- 库存数量（不含在途库存）\n- 物理库存数量（包含待收货的在途库存）\n\n点击选定的仓库位置，将显示该位置的具体库存信息画面。",
+      "source": "v7 Book-4 Section 7.2 Page 11",
+      "images": [
+        "v7_Book-4_INQUIRY_p011_img00.jpeg",
+        "v7_Book-4_INQUIRY_p011_img01.jpeg"
+      ],
+      "keywords": [
+        "库存查询",
+        "按仓库查询",
+        "按位置查询",
+        "库存位置",
+        "在途库存",
+        "物理库存"
+      ],
+      "id": "faq-075",
+      "_original_id": "faq-075"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "按商品查询库存",
+      "question": "如何按商品查询库存？",
+      "answer": "进入商品索引画面（Item Index Screen），鼠标选择所需商品并双击弹出选择菜单。在菜单中选择\"Item Distribution Detail\"，系统将以矩阵形式显示该商品的库存分布详情。\n\n画面标签说明：\n- All Color：显示所有颜色的总库存数量，不按颜色细分。\n- Color：显示选定颜色的库存数量。\n- By Color & Location（默认矩阵显示）：颜色显示在标题行，仓库位置和尺码以矩阵形式展示。\n- By Location & Color：切换显示格式，仓库位置在标题行，颜色和尺码以矩阵形式展示。\n- Skip Zero Qty：隐藏库存为零的仓库位置。\n- Skip Size Zero Qty：隐藏库存为零的尺码。\n- Zoom：最多显示16个尺码的矩阵。\n- Location Layer：通过\"Location Layer\"可选表进行仓库位置过滤，基于\"Location Tree\"可选表中的定义将仓库分组显示。\n- Mode：以不同库存状态显示库存数量。\n\n结果画面显示以下标签：\n- Phy. O/H（Physical On-Hand）：实际记录的系统库存数量，包含在途库存数量。\n- O/H (Excl Tfx In)：在途库存数量（尚未被收货方确认的调拨库存数量）。\n- Out Transit：发出调拨库存数量（尚未被收货方确认收货的调出库存数量）。\n- Non Res.（Non-Reserved Qty，可选）：批发业务中尚未预留的销售订单数量。\n- Reserved（Reserved Qty，可选）：预留库存数量。店铺位置为未结\"订金\"数量，仓库位置为销售订单的实际预留数量。\n- O/H Avail（On-hand Qty Available for Sell）= 物理库存 - 预留数量。\n- On Order：该仓库位置的未结采购订单总数量。\n- Tot Avail（Total Available）= 可用库存 + 在订数量。",
+      "source": "v7 Book-4 Section 7.1 Page 5-10",
+      "images": [
+        "v7_Book-4_INQUIRY_p005_img00.jpeg",
+        "v7_Book-4_INQUIRY_p006_img00.jpeg",
+        "v7_Book-4_INQUIRY_p006_img01.jpeg",
+        "v7_Book-4_INQUIRY_p006_img02.jpeg",
+        "v7_Book-4_INQUIRY_p007_img00.jpeg",
+        "v7_Book-4_INQUIRY_p009_img00.jpeg",
+        "v7_Book-4_INQUIRY_p009_img01.jpeg",
+        "v7_Book-4_INQUIRY_p010_img00.jpeg",
+        "v7_Book-4_INQUIRY_p010_img01.jpeg"
+      ],
+      "keywords": [
+        "库存查询",
+        "按商品查询",
+        "库存分布",
+        "库存状态",
+        "在途库存",
+        "预留库存",
+        "可用库存",
+        "颜色尺码矩阵"
+      ],
+      "id": "faq-076",
+      "_original_id": "faq-076"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "按备忘录编号/仓库位置查询销售日记账",
+      "question": "如何按备忘录编号或仓库位置查询销售日记账？",
+      "answer": "此功能用于查询特定销售备忘录或仓库位置的销售数据。提供四种查询方式：\n\n1. 按销售备忘录编号查询（By Sales Memo No.）：以销售备忘录编号作为参考键进行查询。\n2. 按仓库位置与日期查询（By Location & Date）：以仓库位置和日期作为参考键进行查询。\n3. 按型号查询（By Model No.）：以商品型号进行查询。\n4. 按保修编号查询（By Guarantee No.）：以保修编号进行查询。\n\n操作步骤：\n1. 进入销售日记账查询索引画面（Sales Journal Enquiry Index Screen）。\n2. 选择所需的查询方式。\n3. 输入相应的查询条件。\n4. 系统将显示符合条件的结果列表。\n5. 点击选定记录可查看销售日记账详细信息画面（Sales Journal Detail Inquiry Screen）。",
+      "source": "v7 Book-4 Section 7.5 Page 15-16",
+      "images": [
+        "v7_Book-4_INQUIRY_p015_img00.jpeg",
+        "v7_Book-4_INQUIRY_p016_img00.jpeg"
+      ],
+      "keywords": [
+        "销售日记账",
+        "备忘录查询",
+        "销售查询",
+        "型号查询",
+        "保修查询",
+        "位置查询"
+      ],
+      "id": "faq-077",
+      "_original_id": "faq-077"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "物理出入库日记账查询",
+      "question": "如何查询物理出入库日记账？",
+      "answer": "此功能用于查询物理调整（Physical Adjustment）的一般信息和详细信息。\n\n进入物理出入库查询索引画面（Physical I/O Enquiry Index Screen）后，显示以下一般信息：\n- 物理出入库参考编号（Physical I/O Reference Number）\n- 物理出入库日期（Physical I/O Date）\n- 物理出入库仓库位置（Physical I/O Location）\n- 物理出入库数量（Physical I/O Quantity）\n- 物理出入库原因（Physical I/O Reason）\n- 备注（Remarks）\n\n操作步骤：\n1. 在物理出入库索引视图菜单中，双击选定的项目。\n2. 系统显示物理出入库商品详细信息画面（Physical I/O Item Detail Screen）。\n\n物理出入库商品详细信息包括：\n- 物理出入库参考编号、日期、备注\n- 商品编号、颜色、尺码、内缝长、位置代码\n- 调整数量\n- 平均成本\n- 总调整成本\n- 该出入库参考的总调整数量和总调整成本",
+      "source": "v7 Book-4 Section 7.10 Page 24-25",
+      "images": [
+        "v7_Book-4_INQUIRY_p024_img00.jpeg",
+        "v7_Book-4_INQUIRY_p025_img00.jpeg"
+      ],
+      "keywords": [
+        "物理出入库",
+        "库存调整",
+        "物理调整",
+        "出入库查询",
+        "调整成本"
+      ],
+      "id": "faq-078",
+      "_original_id": "faq-078"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "物理盘点日记账查询",
+      "question": "如何查询物理盘点日记账？",
+      "answer": "此功能用于查询物理盘点的一般信息和详细信息。提供三种查询方式：\n\n1. 按参考编号查询（By Reference No.）：以参考编号作为查询键。\n2. 按日期查询（By Date）：以日期作为查询键。\n3. 按盘点表编号查询（By Count Sheet No.）：以物理盘点表编号作为查询键。\n\n进入物理盘点查询索引画面（Physical Count Enquiry Index Screen）后，选择查询方式并输入条件。\n\n双击选定记录后，进入物理盘点商品详细信息画面（Physical Count Item Detail Screen），显示：\n- 物理盘点参考编号（Physical Count Reference Number）\n- 物理盘点日期（Physical Count Date）\n- 备注（Remarks）\n- 商品信息表格，包含：\n  - 商品编号（Item Number）\n  - 颜色（Color）\n  - 尺码（Size）\n  - 内缝长（Inseam）\n  - 仓库位置（Location）\n  - 物理盘点数量（Physical Count Quantity）\n  - 物理盘点表编号（Physical Count Sheet Number）\n  - 执行盘点操作的用户ID（User ID）",
+      "source": "v7 Book-4 Section 7.11 Page 26-27",
+      "images": [
+        "v7_Book-4_INQUIRY_p026_img00.jpeg",
+        "v7_Book-4_INQUIRY_p027_img00.jpeg"
+      ],
+      "keywords": [
+        "物理盘点",
+        "盘点日记账",
+        "库存盘点",
+        "盘点表",
+        "盘点查询"
+      ],
+      "id": "faq-079",
+      "_original_id": "faq-079"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "订金日记账查询",
+      "question": "如何查询订金日记账？",
+      "answer": "此功能用于查询订金记录信息。提供以下查询方式：\n1. 按订金编号查询（By Deposit No.）\n2. 按日期查询（By Date）\n3. 按客户名称查询（By Customer Name）\n4. 按电话号码查询（By Phone No.）\n\n进入订金日记账索引画面（Deposit Journal Index Screen）后，显示的索引信息包括：\n- 订金编号（Deposit No.）\n- 日期（Date）\n- 客户名称（Customer Name）\n- 电话号码（Phone No.）\n- 订金金额（Deposit Amount）\n- 状态（Status）",
+      "source": "v7 Book-4 Section 7.15 Page 32",
+      "images": [
+        "v7_Book-4_INQUIRY_p032_img00.jpeg"
+      ],
+      "keywords": [
+        "订金日记账",
+        "订金查询",
+        "客户订金",
+        "订金金额",
+        "订金状态"
+      ],
+      "id": "faq-080",
+      "_original_id": "faq-080"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "调拨日记账查询",
+      "question": "如何查询调拨日记账？",
+      "answer": "此功能用于查询库存系统（Stock System）中执行的调拨处理相关信息。\n\n进入调拨日记账查询索引画面（Transfer Journal Enquiry Index Screen）：\n- 显示调拨索引的一般信息：\n  - 调拨参考编号（Transfer Reference Number）\n  - 调拨日期（Transfer Date）\n  - 调拨备注（Remarks）\n\n操作步骤：\n1. 在商品索引视图菜单中，点击选择所需项目。\n2. 在弹出的选择对话框中，点击\"Transfer Detail Enquiry\"（调拨详细信息查询）。\n3. 系统显示调拨日记账详细信息画面。\n\n调拨商品详细信息包括：\n- 调拨参考编号（Transfer Reference Number）\n- 调拨日期（Transfer Date）\n- 备注（Remarks）\n- 调拨商品编号（Item Number）\n- 商品颜色和尺码（如有）\n- 调出/调入仓库位置（Transfer From/To Location）\n- 调拨数量（Transfer Quantity）\n- 平均成本（Average Cost）\n- 总调拨成本（Total Transfer Cost）\n- 拣货单编号（Reference Number of Picking List）\n- 总调拨商品数量和该调拨参考的总成本\n\n注意：如果用户登录账户对这些字段没有启用访问权限，则不会显示平均成本、总调拨成本和调拨参考总成本。",
+      "source": "v7 Book-4 Section 7.8 Page 21-22",
+      "images": [
+        "v7_Book-4_INQUIRY_p021_img00.jpeg",
+        "v7_Book-4_INQUIRY_p022_img00.jpeg"
+      ],
+      "keywords": [
+        "调拨日记账",
+        "库存调拨",
+        "商品调拨",
+        "仓库调拨",
+        "调拨成本",
+        "拣货单"
+      ],
+      "id": "faq-081",
+      "_original_id": "faq-081"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "退货给供应商日记账查询",
+      "question": "如何查询退货给供应商日记账？",
+      "answer": "此功能用于查询退还给供应商的记录信息。进入退货供应商日记账索引画面（Return Supplier Journal Index Screen）后，系统将显示退货记录列表，您可以查看退货相关信息，包括退货编号、退货日期、供应商信息、退货商品及数量等。",
+      "source": "v7 Book-4 Section 7.13 Page 30",
+      "images": [
+        "v7_Book-4_INQUIRY_p030_img00.jpeg"
+      ],
+      "keywords": [
+        "退货供应商",
+        "退货日记账",
+        "供应商退货",
+        "退货查询"
+      ],
+      "id": "faq-082",
+      "_original_id": "faq-082"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "采购收货日记账查询",
+      "question": "如何查询采购收货日记账？",
+      "answer": "此功能用于查询采购收货记录及其详细信息。数据可从不同数据路径的独立数据文件夹中检索。\n\n进入采购收货查询索引画面（Purchase Receive Enquiry Index Screen）后，显示以下一般采购收货信息：\n- 采购收货编号（Purchase Receive Number）\n- 日期（Date）\n- 采购订单编号（Purchase Order Number）\n- 供应商代码（Supplier Code）\n- 供应商参考编号（Supplier Reference Number）\n- 采购收货金额（Purchase Receive Amount）\n- 使用币种（Currency）\n- 按数据文件夹排序显示\n\n操作步骤：\n1. 在索引列表中查找所需的采购收货记录。\n2. 双击选定的采购收货记录。\n3. 系统显示采购收货详细抬头画面（Purchase Receive Detail Header Screen）。\n4. 数据格式与采购收货处理画面相同，但所有数据字段均为受保护的只读状态。",
+      "source": "v7 Book-4 Section 7.7 Page 20",
+      "images": [
+        "v7_Book-4_INQUIRY_p020_img00.jpeg",
+        "v7_Book-4_INQUIRY_p020_img01.jpeg"
+      ],
+      "keywords": [
+        "采购收货",
+        "收货日记账",
+        "采购查询",
+        "供应商查询",
+        "收货记录",
+        "采购订单"
+      ],
+      "id": "faq-083",
+      "_original_id": "faq-083"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "采购订单查询",
+      "question": "如何查询采购订单？",
+      "answer": "此功能用于查询采购订单及其详细信息。\n\n进入采购订单日记账查询画面（Purchase Order Journal Enquiry）后，您可以查看：\n\n采购订单类型（PO Type）：\n- Normal PO（普通采购订单）\n- Blanket PO（总括采购订单）：向供应商批量订购并按用户需求安排分次交货。\n\nD/R Qty（交货申请数量）：\n- 仅用于总括采购订单（Blanket PO）\n- 表示交货申请单（Delivery Request）的数量\n- 只有提出交货申请时，供应商才会安排交货\n\n双击选定记录后，可查看采购订单详细画面（Purchase Order Detail Screen）：\n- 抬头信息区（Header Info）：显示采购订单的基本信息。\n- 其他与备注区（Others & Remarks）：显示附加信息。\n- 商品折扣在明细项目输入画面中按商品级别设置（需勾选）。\n- 发票折扣输入字段。\n- 若有效期已过，收货操作可能会被拒绝。\n\n还可查看商品信息管理画面（Item Information Management Screen）。",
+      "source": "v7 Book-4 Section 7.6 Page 17-19",
+      "images": [
+        "v7_Book-4_INQUIRY_p017_img00.jpeg",
+        "v7_Book-4_INQUIRY_p017_img03.jpeg",
+        "v7_Book-4_INQUIRY_p017_img04.jpeg",
+        "v7_Book-4_INQUIRY_p018_img00.jpeg",
+        "v7_Book-4_INQUIRY_p018_img01.jpeg",
+        "v7_Book-4_INQUIRY_p019_img00.jpeg"
+      ],
+      "keywords": [
+        "采购订单查询",
+        "采购订单",
+        "普通采购",
+        "总括采购",
+        "交货申请",
+        "供应商查询",
+        "商品折扣"
+      ],
+      "id": "faq-084",
+      "_original_id": "faq-084"
+    },
+    {
+      "category": "在线查询",
+      "subcategory": "销售人员会员编号查询",
+      "question": "如何按会员查询销售备忘录？",
+      "answer": "此功能是会员视角的销售备忘录查询（Member Sales Memo Journal Inquiry），按会员过滤并以销售备忘录编号排序显示。\n\n操作步骤：\n1. 进入会员销售备忘录查询画面。\n2. 系统按会员过滤并以销售备忘录编号排序显示。\n3. 您可以查看特定会员的所有销售备忘录记录。",
+      "source": "v7 Book-4 Section 7.17 Page 35",
+      "images": [
+        "v7_Book-4_INQUIRY_p035_img00.jpeg",
+        "v7_Book-4_INQUIRY_p035_img01.jpeg",
+        "v7_Book-4_INQUIRY_p035_img02.jpeg"
+      ],
+      "keywords": [
+        "会员销售备忘录",
+        "会员查询",
+        "销售备忘录",
+        "会员编号",
+        "会员销售记录"
+      ],
+      "id": "faq-085",
+      "_original_id": "faq-085"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "CS2000出站接口日志查询",
+      "question": "如何查询CS2000出站接口日志？",
+      "answer": "CS2000出站接口日志查询（Outbound Interface Log Enquiry）用于查询出站接口更新日志历史记录。通过此查询画面，用户可以获取出站数据接口更新过程的详细更新日志历史，便于监控从ChainStore Plus向第三方系统导出的数据处理情况。\n\n查询画面显示：\n- 出站接口更新的历史记录\n- 每次更新的处理状态\n- 相关的时间戳和标识信息",
+      "source": "v7 Book-5 Section 8.3.3 Page 23",
+      "images": [
+        "v7_Book-5_ADMIN_p023_img00.jpeg"
+      ],
+      "keywords": [
+        "CS2000出站接口",
+        "出站日志",
+        "数据导出日志",
+        "接口日志查询",
+        "第三方系统导出"
+      ],
+      "id": "faq-086",
+      "_original_id": "faq-086"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "CS2000接口更新日志查询",
+      "question": "如何查询CS2000接口更新日志？",
+      "answer": "CS2000接口更新日志查询（Interface Update Log Inquiry）是专门为ChainStore Plus与第三方软件应用程序之间进行数据交换的接口模块。通过此查询画面，用户可以获取数据接口更新过程的详细更新日志历史记录。\n\n查询画面将显示接口更新的历史记录，包括更新时间、更新类型、处理状态等信息，便于用户追踪数据接口的运行情况。",
+      "source": "v7 Book-5 Section 8.3.1 Page 21",
+      "images": [
+        "v7_Book-5_ADMIN_p021_img00.jpeg"
+      ],
+      "keywords": [
+        "CS2000接口",
+        "接口更新日志",
+        "数据交换",
+        "第三方接口",
+        "更新历史"
+      ],
+      "id": "faq-087",
+      "_original_id": "faq-087"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "CS2000接口过账错误查询",
+      "question": "如何查询CS2000接口过账错误？",
+      "answer": "CS2000接口过账错误查询（Interface Posting Error Enquiry）提供接口更新错误信息的查询画面。如果更新过程中发生错误，将显示错误的简要描述供用户参考。如果发现更新过程中的错误，可能需要用户进行数据恢复操作。\n\n查询画面显示：\n- 错误发生的时间\n- 错误简要描述\n- 相关的错误信息\n\n用户可根据错误信息判断问题原因，并采取相应的数据恢复措施。",
+      "source": "v7 Book-5 Section 8.3.2 Page 22",
+      "images": [
+        "v7_Book-5_ADMIN_p022_img00.jpeg"
+      ],
+      "keywords": [
+        "CS2000错误",
+        "接口过账错误",
+        "数据交换错误",
+        "错误查询",
+        "数据恢复"
+      ],
+      "id": "faq-088",
+      "_original_id": "faq-088"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "POS/远程服务器轮询点维护",
+      "question": "如何设置和维护POS轮询点？",
+      "answer": "POS/远程服务器轮询点维护（POS/Remote Server Oriented Polling Point Maintenance）用于为数据接口设置每个远程店铺的轮询点。支持以下功能：\n1. 创建记录（Create Record）\n2. 修改记录（Modify Record）\n3. 删除记录（Delete Record）\n\n输入字段说明：\n- POS Location（POS位置）：必填字段（如选择POS选项）。输入POS的位置代码（最多8个字符）。\n- Till No.（收银机编号）：必填字段。输入POS的机器ID（1个字符）。\n- Remote Server（远程服务器）：必填字段（如选择远程服务器选项）。输入远程服务器名称（最多10个字符）。\n- FTP Login ID（FTP登录ID）：可选字段。输入POS的FTP服务器登录ID（最多256个字符）。\n- FTP Password（FTP密码）：可选字段。输入POS的FTP服务器登录密码（最多10个字符）。\n- ZLOG File Format（ZLOG文件格式）：选择格式。Delimited表示制表符分隔，Fixed Width表示固定宽度。\n- Compress Zlog File（压缩ZLOG文件）：若Zlog文件大小超过特定大小，则进行压缩。\n\n信息显示字段：\n- Last Log Sent（最后发送的日志）：最后发送的日志文件名。\n- Last Log Queued（最后排队的日志）：最后排队的日志文件名。",
+      "source": "v7 Book-5 Section 8.1.1 Page 5-7",
+      "images": [
+        "v7_Book-5_ADMIN_p005_img00.jpeg",
+        "v7_Book-5_ADMIN_p006_img00.jpeg"
+      ],
+      "keywords": [
+        "POS轮询点",
+        "轮询点维护",
+        "FTP设置",
+        "POS连接",
+        "远程服务器",
+        "ZLOG文件"
+      ],
+      "id": "faq-089",
+      "_original_id": "faq-089"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "POS传输日志控制",
+      "question": "如何管理POS传输日志？",
+      "answer": "POS传输日志控制（POS Transmission Log Control）用于管理与POS之间的数据发送活动。ChainStore Plus后台系统会自动准备所有相关数据变更并发送到店铺POS。用户可以对传输活动进行额外控制：\n- 自动发送数据（默认设置）\n- 用户手动立即发送\n- 根据需要从特定日期重新发送数据\n\n画面显示以下字段：\n- Date：变更数据发送的日期\n- Time：变更数据发送的时间\n- User：创建日志文件的用户\n- Send/Receive：发送和接收标志\n- Type：发送类型（Manual=手动创建，Auto=自动创建）\n- Location：特定位置的日志文件\n- Filename：发送的日志文件名\n- Record Count：发送日志文件的记录数量\n\n\"Send Log\"（发送日志）按钮：\n点击此按钮将手动发送所有待发送的数据，从服务器立即发送至POS。系统会提示输入每个日志文件的记录数量，点击\"OK\"确认生成日志文件。\n\n\"Re-Send Log\"（重新发送日志）按钮：\n此功能允许用户从特定日期和位置开始，重新将下载数据从服务器发送至POS。需要输入：\n- Re-send Since：输入日期（dd/mm/yyyy格式），系统将从此日期开始重新发送数据\n- Log Seq：序列日志编号\n- From/To Loc：将数据发送到指定范围的位置",
+      "source": "v7 Book-5 Section 8.1.2 Page 8-10",
+      "images": [
+        "v7_Book-5_ADMIN_p008_img00.jpeg",
+        "v7_Book-5_ADMIN_p009_img00.jpeg",
+        "v7_Book-5_ADMIN_p010_img00.jpeg"
+      ],
+      "keywords": [
+        "POS传输日志",
+        "日志控制",
+        "数据发送",
+        "重新发送日志",
+        "自动发送",
+        "手动发送"
+      ],
+      "id": "faq-090",
+      "_original_id": "faq-090"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "POS传输日志更新查询",
+      "question": "如何查询POS传输日志更新状态？",
+      "answer": "POS传输日志更新查询（POS Transmission Log Update Inquiry）用于查询后台系统发送的POS数据更新状态。当POS收到来自后台的数据更新文件后，POS将在数据更新后发回更新状态消息至后台服务器。该返回消息将指示POS更新是否成功或发生错误。\n\n进入查询画面后，您可以查看每个POS的更新状态记录，包括成功更新和失败的记录。",
+      "source": "v7 Book-5 Section 8.1.5 Page 16",
+      "images": [
+        "v7_Book-5_ADMIN_p016_img00.jpeg"
+      ],
+      "keywords": [
+        "传输日志更新",
+        "更新状态查询",
+        "POS更新",
+        "数据更新状态",
+        "更新成功",
+        "更新错误"
+      ],
+      "id": "faq-091",
+      "_original_id": "faq-091"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "POS传输日志更新错误查询",
+      "question": "如何查询POS传输日志更新错误？",
+      "answer": "POS传输日志更新错误查询（POS Transmission Log Update Error Inquiry）用于查询后台系统发送的POS数据更新错误状态。错误消息为用户提供有关POS更新错误的简要信息，后台用户可以根据这些信息采取适当的数据恢复措施。\n\n错误查询画面显示：\n- 错误信息摘要\n- 相关的错误详情\n\n系统管理员可根据错误消息判断问题原因，并决定是否需要进一步的数据恢复操作。",
+      "source": "v7 Book-5 Section 8.1.6 Page 17",
+      "images": [
+        "v7_Book-5_ADMIN_p017_img00.jpeg"
+      ],
+      "keywords": [
+        "传输更新错误",
+        "错误查询",
+        "POS错误",
+        "数据恢复",
+        "更新失败"
+      ],
+      "id": "faq-092",
+      "_original_id": "faq-092"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "POS数据轮询控制",
+      "question": "如何启动和停止POS数据轮询？",
+      "answer": "POS数据轮询控制（POS Data Polling Control）用于启动或关闭系统中\"数据发送/轮询\"任务。\n\n任务状态：\n- In Progress：后台轮询通信任务正在进行中。\n- Just Submitted：后台轮询通信任务刚提交。\n- To be Terminated：后台轮询通信任务正在终止中。\n- Terminated：后台轮询任务已终止。\n- IDLE：后台轮询任务空闲。\n\n\"Start Polling\"（启动轮询）功能：\n此轮询任务作为后台运行，每天由计划任务触发。执行后，任务自动持续检查各店铺FTP文件夹（根据\"POS/Remote Server Oriented Polling Point Maint.\"表中注册的轮询点），将POS上传的文件从FTP文件夹传输到POS数据文件夹以供过账处理。轮询任务正常运行时，会更新轮询状态和最后操作。\n\n\"Stop Polling\"（停止轮询）功能：\n允许用户关闭后台的轮询/发送通信任务。此关闭功能仅在通信任务正在进行时有效。一旦关闭，服务器与POS之间的数据交换将停止，直至下一次启动。点击\"Stop Polling\"按钮后，系统返回\"To be terminated\"状态，任务停止后当前任务状态变为\"Terminated\"。\n\n\"Reset\"（重置）功能：\n将状态更改为\"IDLE\"，任务准备就绪可重新启动。\n\n\"Refresh\"（刷新）功能：\n允许用户刷新查询画面，显示通信任务的最新状态。",
+      "source": "v7 Book-5 Section 8.1.3 Page 11-13",
+      "images": [
+        "v7_Book-5_ADMIN_p011_img00.jpeg",
+        "v7_Book-5_ADMIN_p012_img00.jpeg",
+        "v7_Book-5_ADMIN_p013_img00.jpeg"
+      ],
+      "keywords": [
+        "POS轮询控制",
+        "启动轮询",
+        "停止轮询",
+        "轮询状态",
+        "后台任务",
+        "FTP轮询"
+      ],
+      "id": "faq-093",
+      "_original_id": "faq-093"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "数据导出到POS",
+      "question": "如何将主数据导出到POS？",
+      "answer": "数据导出到POS（Data Export to POS）功能允许用户从后台服务器发送最新的完整主文件副本到POS。这是一个由用户按需启动的手动过程，适用于以下情况：\n- 怀疑POS中文件完整性有问题时\n- 需要从头重建POS应用程序和数据时\n\n操作步骤：\n1. 进入数据导出到POS画面。\n2. 选择复选框，勾选需要导出到POS主数据更新文件的资料。\n3. 设置筛选条件：\n   - Brand Code（品牌代码）：可选，仅导出该品牌商品主数据到文件（最多10个字符）。\n   - No. of record per file（每文件记录数）：整数，设置导出到文件的最大记录数。\n4. 确认导出操作。\n\n系统将生成POS主数据更新文件，供POS系统使用。",
+      "source": "v7 Book-5 Section 8.2 Page 18-19",
+      "images": [
+        "v7_Book-5_ADMIN_p018_img00.jpeg",
+        "v7_Book-5_ADMIN_p018_img01.jpeg"
+      ],
+      "keywords": [
+        "数据导出POS",
+        "主数据导出",
+        "POS数据更新",
+        "品牌筛选",
+        "手动导出"
+      ],
+      "id": "faq-094",
+      "_original_id": "faq-094"
+    },
+    {
+      "category": "数据接口",
+      "subcategory": "轮询历史记录查询",
+      "question": "如何查看POS轮询历史记录？",
+      "answer": "轮询历史记录查询（Polling History Inquiry）是一个全面的实时查询画面，用于检查各店铺POS的最新通信活动和状态。建议用户定期查看此查询，确保服务器与POS之间的数据通信正常。\n\n轮询历史索引画面显示以下字段：\n- Date（日期）：轮询日期。\n- Time（时间）：轮询时间。\n- Loc.（位置）：店铺/仓库位置代码。\n- Till（收银机编号）：POS的机器ID。\n- Sen/Rec（发送/接收）：发送(S)和接收(R)标志。\n- Type（类型）：轮询通道。\n- File Size（文件大小）：数据文件的文件大小。\n- File Name（文件名）：数据文件的文件名。\n- Completed Date（完成日期）：处理完成的日期。\n- Completed Time（完成时间）：处理完成的时间。\n- Error Message（错误消息）：'E'表示该文件处理出错，空白表示正常无错误。\n\n双击索引画面中的选定项目后，将显示轮询历史详细信息画面（Polling History Detail Screen），其中显示了该特定轮询过程的详细信息页面，主要用于跟踪正在处理的文件以及任务是否完成。",
+      "source": "v7 Book-5 Section 8.1.4 Page 14-15",
+      "images": [
+        "v7_Book-5_ADMIN_p014_img00.jpeg",
+        "v7_Book-5_ADMIN_p015_img00.jpeg"
+      ],
+      "keywords": [
+        "轮询历史",
+        "通信历史",
+        "POS通信",
+        "轮询记录",
+        "错误查询",
+        "文件传输记录"
+      ],
+      "id": "faq-095",
+      "_original_id": "faq-095"
+    },
+    {
+      "category": "系统管理",
+      "subcategory": "POS数据过账控制",
+      "question": "如何控制POS数据过账过程？",
+      "answer": "POS数据过账控制（POS Data Posting Control）用于管理从POS终端轮询回服务器的数据更新过程。所有POS活动数据会实时传回后台服务器，需要及时更新到服务器数据库以提供及时的信息服务。\n\n当前任务状态（Current Task Status）：\n- In Progress：过账任务正在进行中。\n- Just Submitted：过账任务刚提交。\n- To be Terminated：过账任务正在终止中。\n- Terminated：过账任务已终止。\n- IDLE：过账任务空闲。\n\n\"Start POSTING\"（开始过账）功能：\n此过账任务在后台运行，每天由计划任务触发。任务执行后自动将POS上传的数据更新到相应文件，实现实时数据更新。过账任务正常运行时，状态显示为\"IN PROGRESS\"，任务将持续运行直到被计划任务或手动触发停止。\n\n\"STOP POSTING\"（停止过账）功能：\n允许用户停止后台的数据更新过账任务。仅在过账任务正在进行时有效。一旦停止，POS数据将不再过账，直到下次启动。\n\n\"Reset\"（重置）功能：\n将状态更改为\"IDLE\"，任务准备就绪可重新启动。\n\n\"Modify Repl. Time\"（修改补货时间）功能：\n允许用户更改库存补货计划时间。\n\n\"Refresh\"（刷新）功能：\n刷新查询画面以显示过账任务的最新状态。\n\n\"DISABLE/ENABLE POSTING\"（禁用/启用过账）功能：\n允许用户禁用或启用数据更新的过账过程。此模式下过账任务仍在后台运行，但会暂停数据更新，直到用户再次点击启用过账。",
+      "source": "v7 Book-5 Section 9.1.1 Page 25-26",
+      "images": [
+        "v7_Book-5_ADMIN_p025_img00.jpeg",
+        "v7_Book-5_ADMIN_p026_img00.jpeg"
+      ],
+      "keywords": [
+        "POS数据过账",
+        "过账控制",
+        "数据更新",
+        "后台任务",
+        "过账状态",
+        "启用过账",
+        "禁用过账"
+      ],
+      "id": "faq-096",
+      "_original_id": "faq-096"
+    },
+    {
+      "category": "系统管理",
+      "subcategory": "POS日结查询",
+      "question": "如何查询POS日结记录？",
+      "answer": "POS日结查询（POS Day End Inquiry）用于记录各店铺的日结活动。POS日结是每日营业结束时由店铺POS人员执行的日常操作，用于结束当前营业日并准备下一个营业日。对于后台管理员来说，确保所有店铺按时正确完成此操作非常重要。\n\n店铺完成日结后会自动向后台发送日结消息。如果没有收到某店铺的日结消息，可能意味着该店铺未完成日结流程，建议进一步调查。\n\n查询画面显示字段：\n- Date（日期）：日结日期。\n- Time（时间）：日结时间。\n- Location（位置）：日结店铺位置。\n- Till（收银机编号）：POS的机器ID。\n- Cashier（收银员）：收银员员工代码。\n- Shift#（班次）：当班收银员员工代码。\n- Sales（销售）：销售交易数量。\n- Tfx（调拨）：库存调拨交易数量。\n- Dep（订金）：订金交易数量。\n- Serv（服务）：服务交易数量。\n- Gift（礼品券）：礼品券交易数量。\n- Gaway（赠品）：赠品交易数量。\n- Redm（礼品兑换）：礼品兑换数量。\n- Misc. Amount（杂项金额）：杂项收入金额。\n- Total Amount（总金额）：总收入金额。\n- Check（日结检查标志）：Y = 日结已验证，空白 = 日结未验证。\n\n双击高亮行可查看日结交易明细：\n- 点击\"Payment\"（付款）按钮查看付款详情，显示当日收到的付款方式。\n- 点击\"Count\"（计数）标签查看当日交易数量。\n- 点击\"Amount\"（金额）标签查看当日交易金额。\n- 点击\"Other\"（其他）标签查看哪些交易有错误。",
+      "source": "v7 Book-5 Section 9.1.3 Page 28-32",
+      "images": [
+        "v7_Book-5_ADMIN_p028_img00.jpeg",
+        "v7_Book-5_ADMIN_p030_img00.jpeg",
+        "v7_Book-5_ADMIN_p030_img01.jpeg",
+        "v7_Book-5_ADMIN_p031_img00.jpeg",
+        "v7_Book-5_ADMIN_p031_img01.jpeg",
+        "v7_Book-5_ADMIN_p032_img00.jpeg"
+      ],
+      "keywords": [
+        "POS日结",
+        "日终查询",
+        "日结记录",
+        "店铺日结",
+        "收银对账",
+        "交易汇总",
+        "日结验证"
+      ],
+      "id": "faq-097",
+      "_original_id": "faq-097"
+    },
+    {
+      "category": "系统管理",
+      "subcategory": "过账错误历史日志查询",
+      "question": "如何查询POS数据过账错误历史日志？",
+      "answer": "过账错误历史日志（Posting Error History Log）用于查询POS数据实时发回后台过程中的过账错误记录。如果一切正常，此查询框应为空，表示POS数据过账过程中未发现错误。\n\n可能出现错误的原因包括：\n- 某些参考表或记录在系统中缺失\n- 收到损坏的记录等\n- 某些显示的错误消息可能不是真正的错误，而是提醒用户更新过程中发生了异常情况\n\n系统管理员需要判断这些消息是真正的错误及其原因，以及是否需要后续处理。\n\n建议系统管理员至少每天检查一次此查询，或根据实际运营频率检查，确保轮询回的数据正确更新且无错误。\n\n查询画面显示字段：\n- Date（日期）：过账错误日期。\n- Time（时间）：过账错误时间。\n- Location（位置）：发生错误的仓库位置。\n- Filename（文件名）：错误记录的文件名。\n- Type（类型）：错误记录类型。\n- Ref. No.（参考编号）：记录的错误参考编号（如有）。\n- Error Code（错误代码）：错误参考代码（如有）。\n- Error Message（错误消息）：错误消息详情。",
+      "source": "v7 Book-5 Section 9.1.2 Page 27",
+      "images": [
+        "v7_Book-5_ADMIN_p027_img00.jpeg"
+      ],
+      "keywords": [
+        "过账错误",
+        "错误日志",
+        "POS过账错误",
+        "数据更新错误",
+        "系统管理",
+        "错误监控"
+      ],
+      "id": "faq-098",
+      "_original_id": "faq-098"
+    },
+    {
+      "id": "faq-099",
+      "category": "Price Promotion",
+      "subcategory": "Best Price Automation",
+      "question": "Mix & Match促销冲突时的最佳价格自动化（Best Price Automation）功能是什么？",
+      "answer": "当创建多个Mix & Match促销公式时，可能会出现促销活动之间的冲突。\n\n系统版本差异：\n- v6.4.2或更早版本：系统无法确定在冲突时应应用哪个活动，因此所有冲突的促销会弹出并显示在POS屏幕上，要求POS用户决策。\n\n- v6.4.3或更高版本：系统提供了Best Price Automation（最佳价格自动化）选项，POS系统会自动计算并返回\"最优价格\"结果作为默认值，同时允许手动覆盖。\n\n重要提示：\n- 促销冲突和最优价格计算可能会根据冲突复杂度和硬件资源情况减慢POS操作\n- 手动选择可能会增加手动决策过程中的操作错误几率\n- 建议仔细规划促销活动以避免复杂冲突",
+      "source": "v6.5 Book-2 Section 5.6.2 Page 86",
+      "images": [],
+      "keywords": [
+        "最佳价格",
+        "Best Price",
+        "促销冲突",
+        "自动计算",
+        "最优价格",
+        "POS促销"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-030"
+    },
+    {
+      "id": "faq-100",
+      "category": "Customer Loyalty",
+      "subcategory": "Bonus Point Adjustment",
+      "question": "如何调整会员积分（Bonus Point Adjustment）？",
+      "answer": "后台客户忠诚度流程的主要功能之一是积分调整流程（Bonus Point Adjustment），用于在必要时调整会员积分。\n\n操作说明：\n1. 进入Bonus Point Adjustment Maintenance流程\n2. 选择需要调整的会员\n3. 选择对应的兑换组（Redemption Group）\n4. 输入调整的积分数量（增加或减少）\n5. 输入调整原因\n6. 确认后，调整后的积分将立即在线更新到积分主文件（Points Master）\n\n系统会自动创建积分调整日志记录，记录积分变更历史。\n\n此功能在以下场景中使用：\n- 纠正积分计算错误\n- 客户投诉后的补偿积分\n- 促销活动赠送额外积分\n- 积分过期后的手动调整等",
+      "source": "v6.5 Book-3 Section 6.8.1 Page 113",
+      "images": [],
+      "keywords": [
+        "积分调整",
+        "Bonus Point Adjustment",
+        "积分管理",
+        "积分纠正",
+        "会员积分调整"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-044"
+    },
+    {
+      "id": "faq-101",
+      "category": "Customer Loyalty",
+      "subcategory": "Bonus Point Calculation",
+      "question": "客户忠诚度模块（Customer Loyalty Module）的积分计算规则有哪些？",
+      "answer": "客户忠诚度模块（可选模块）提供了灵活的积分计算机制。\n\n积分计算规则：\n1. 基本积分计算：\n   - 按会员购买金额$计算积分\n   - 按特定购买商品计算积分\n   - 按访问特定店铺计算积分\n\n2. 额外积分条件：\n   - 在特定日期和时间范围内购买产品\n   - 会员生日月份\n   - 新会员额外积分\n\n3. 积分计算设置：\n   - 可设置不同购买金额段的积分倍率（如$1,000以下每$10得10分，$1,001-$2,000每$10得12分，$2,001以上每$10得14分）\n   - 可设置特定商品购买赠送固定积分\n   - 积分可分配到不同的\"兑换组\"（Redemption Groups）\n   - 对于折扣商品：可设置积分折扣百分比（如70%），即促销折扣价销售的商品积分按比例计算\n\n4. 特殊日期/时间积分计算：\n   - 可设置在特定日期或时间段内，会员每消费$1获得2分（或其他倍数）\n\n5. 额外积分（Extra Bonus Point）有三种预设规则：\n   - 会员生日月份购买\n   - 新加入会员额外积分\n   - 按位置组购买\n\n额外积分是在常规积分计算之上累加的。可设置发生频率：仅一次、每日、每月、每年，或每月最多10次等。",
+      "source": "v6.5 Book-2 Section 5.7.1 Page 114-120",
+      "images": [],
+      "keywords": [
+        "积分计算",
+        "Bonus Point",
+        "忠诚度",
+        "会员积分",
+        "额外积分",
+        "生日积分"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-042"
+    },
+    {
+      "id": "faq-102",
+      "category": "Customer Loyalty",
+      "subcategory": "Bonus Point Redemption",
+      "question": "积分兑换（Bonus Point Redemption）如何设置？",
+      "answer": "积分兑换（Bonus Point Redemption）用于定义会员如何消耗已赚取的积分。\n\n重要限制：\n- 积分兑换必须在POS前端在线处理（Online Mode）\n- 如果POS前端系统在兑换时无法连接到后台，则不允许积分兑换\n- 此设计旨在最大程度减少POS中重复兑换的风险\n- 合格的积分将在兑换过程中从POS在线读取到后台服务器进行计算\n\n兑换规则设置：\n- 按兑换组（Redemption Group）设置不同的兑换条件\n- 例如：累计超过5,000分可每3,000分兑换$100现金券；超过10,000分可每3,000分兑换$110现金券等\n\n兑换组维护（Member Redemption Group Maintenance）：\n- 定义积分存储的兑换组\n- 通常一个兑换组对大多数运营来说已足够\n- 可设置积分到期控制（Expiry Date Control）\n- 例如：2006年1月1日至5月31日期间赚取的积分将于2006年12月31日到期\n\n积分兑换礼品维护（Points Redemption Gift Maintenance）：\n- 定义兑换礼品所需的积分点数\n- 示例：礼品\"TB0001\"需要3,000分，\"GTX002\"需要8,000分\n\n注意：所有兑换必须在POS前端在线模式下完成。",
+      "source": "v6.5 Book-2 Section 5.7.2 Page 121-125",
+      "images": [],
+      "keywords": [
+        "积分兑换",
+        "积分兑换",
+        "Redemption",
+        "兑换组",
+        "礼品兑换",
+        "在线兑换"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-043"
+    },
+    {
+      "id": "faq-103",
+      "category": "Other Masters",
+      "subcategory": "Cash Coupon",
+      "question": "现金券（Cash Coupon）如何生成和管理？",
+      "answer": "现金券（Cash Coupon）是用于签收流程的维护程序。\n\n现金券类型：\n\n1. 通用现金券维护（General Cash Coupon Maintenance，非打印）：\n   - 用户可在此维护程序中创建、修改或删除现金券\n   - 系统会自动更新到POS前端站点\n\n2. 序列号现金券生成（Serial Number Cash Coupon Generation）：\n   - 一次性使用（One Time Usage）：优惠券在有效期内只能使用一次\n   - 多次使用（Multi-Time Usage）：优惠券在有效期内允许多次使用\n   - 优惠券金额（Coupon Amount）：优惠券的面值（如$100、$50等）\n   - 优惠券百分比（Coupon Percentage）：优惠券允许的折扣%（如10%、15%等）\n   - 序列号生成范围：用户输入优惠券序列号的生成范围，注意不允许重复号码\n\n现金券有序列号控制，使用时会在POS进行验证。",
+      "source": "v6.5 Book-2 Section 5.3.3 Page 35-36",
+      "images": [],
+      "keywords": [
+        "现金券",
+        "Cash Coupon",
+        "序列号",
+        "优惠券生成",
+        "一次性使用",
+        "多次使用"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-035"
+    },
+    {
+      "id": "faq-104",
+      "category": "Customer Loyalty",
+      "subcategory": "Change Member Number",
+      "question": "如何变更会员编号（Change Member Number）？",
+      "answer": "变更会员编号流程（Change Member Number Process）允许用户将会员编号从旧号码更改为新分配的号码。\n\n操作步骤：\n1. 进入会员编号变更流程\n2. 输入会员的旧编号\n3. 输入会员的新编号\n4. 确认变更\n\n系统会自动将会员的所有相关记录从旧编号迁移到新编号，包括：\n- 会员基本资料\n- 积分余额和历史\n- 购买记录\n\n此功能适用于以下场景：\n- 会员卡丢失需要补发新卡\n- 会员升级后更换会员编号\n- 系统整合时需要统一会员编号格式",
+      "source": "v6.5 Book-3 Section 6.8.2 Page 114",
+      "images": [],
+      "keywords": [
+        "变更会员编号",
+        "Change Member Number",
+        "会员卡补发",
+        "会员资料迁移"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-046"
+    },
+    {
+      "id": "faq-105",
+      "category": "Consignment Stock",
+      "subcategory": "Cost Setting",
+      "question": "寄售库存成本（Consignment Stock Cost）如何在Item Master中设置？",
+      "answer": "在Item Master Maintenance中，通过\"Consign\"按钮可以访问寄售库存成本计算表（Consignment Stock Cost Calculation Table），此表专门用于寄售库存结算流程中的供应商结算成本计算。\n\n设置字段：\n1. 生效日期（Effect Date）：该寄售成本的生效日期\n2. 店铺位置（Shop Location）：此寄售成本适用的店铺位置，留空表示所有位置\n3. 结算成本设置（二选一）：\n   - 固定金额（Fixed Amount）：以固定金额表示的寄售结算成本\n   - 百分比（%）：以零售标价或零售售价的百分比表示的寄售结算成本\n     注意：只能输入这两个字段中的一个\n\n对于不使用寄售库存可选模块的用户，请忽略此表。",
+      "source": "v6.5 Book-2 Section 5.2 Page 18",
+      "images": [],
+      "keywords": [
+        "寄售成本",
+        "Consignment Cost",
+        "结算成本",
+        "供应商结算",
+        "寄售设置"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-051"
+    },
+    {
+      "id": "faq-106",
+      "category": "Master Table Maintenance",
+      "subcategory": "Custom Tables",
+      "question": "定制表（Custom-Made Tables）包括哪些？Inseam和尺寸类别转换有什么用途？",
+      "answer": "定制表（Custom-Made Tables）是用于特定客户开发的表，包括：\n\n1. Inseam（内缝长）表—— 4.48.1\n   - 用于需要除了颜色和尺寸之外的第三个维度（Third Dimension）的特殊产品\n   - 例如牛仔裤或衬衫等产品\n   - 重要提示：此Inseam表需要特定的流程才能工作，标准系统流程中没有通用功能\n\n2. 尺寸类别转换（Size Category Conversion）—— 4.48.2\n   - 主要用于当CS2000系统需要与具有不同类别值的第三方系统进行数据同步时，\"匹配\"类别代码值\n   - 此表不用于通用流程，使用前必须咨询业务顾问\n\n这些定制表只有在特定客户有特定需求时才使用。",
+      "source": "v6.5 Book-1 Section 4.48 Page 145-146",
+      "images": [],
+      "keywords": [
+        "定制表",
+        "Inseam",
+        "尺寸转换",
+        "第三方系统",
+        "Custom Tables"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-021"
+    },
+    {
+      "id": "faq-107",
+      "category": "Wholesales",
+      "subcategory": "Customer Master",
+      "question": "批发客户主文件（Wholesales Customer Master）包含哪些信息？",
+      "answer": "批发客户主文件是批发和分销模块的客户主文件维护。\n\n包含的信息页面：\n\nPage 1：基本资料\n- 客户代码、名称、地址、联系人信息等\n\nPage 2：交易参数\n- 默认货币：客户发票流程使用的货币\n- 默认折扣：提供给客户的折扣，最多可定义5级折扣\n- 折扣使用参数：\n  - H（Header Level）：折扣基于发票总金额计算\n  - I（Item Level）：折扣在商品级别计算\n  - Blank（Reference only）：不计算折扣，仅供参考\n\nPage 3：信用控制\n- 信用限额（Credit Limit）：用户输入的额度\n- 可用信用额（Credit Available）：仅在与第三方应收账系统接口时生效\n  - 计算公式：可用信用额 = 信用限额 - 现有应收账款\n  - 应收账款需要定期（如每日）从会计系统下载\n- 最后下载日期：从第三方系统最后下载应收账的日期",
+      "source": "v6.5 Book-2 Section 5.8.1 Page 126-128",
+      "images": [],
+      "keywords": [
+        "批发客户",
+        "Wholesales Customer",
+        "客户主文件",
+        "信用控制",
+        "折扣设置"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-047"
+    },
+    {
+      "id": "faq-108",
+      "category": "System Process",
+      "subcategory": "Delivery Order",
+      "question": "交货单流程（Delivery Order Process）中的Stock Out和Stock In有什么区别？",
+      "answer": "交货单流程允许用户使用自定义的交易代码执行库存出库（Stock Out）和入库（Stock In）操作，支持比标准交易类型更多的业务场景。\n\nStock Out（库存出库）：\n适用于以下自定义交易：\n- 内部使用（Internal Use）\n- 内部销售（Internal Sales）\n- 赠送样品（Give Away Samples）\n- 赞助（Sponsorship）\n- 特殊项目使用（Special Project Usage）\n- 报废（Write Off）等\n\n工作流程：D/O Data Maintenance -> D/O Batch Validation -> Print Pick List -> Batch Amendment -> Print Amendment List -> Print Delivery Order -> Batch Posting\n\nInter-Company Delivery（跨公司交货）：\n- 选择公司代码（非NULL）时，系统会生成交货文本文件供接收公司使用\n- 接收方可用\"Load\"按钮加载此文本文件，避免重复输入\n- 注意：此文本文件不会自动更新到接收公司，需要手动处理\n\nStock In（库存入库）：\n- 与Stock Out相同的更新机制但反向计算\n- 输入成本不会影响系统库存成本\n- \"Load\"按钮支持加载跨公司交货文本文件",
+      "source": "v6.5 Book-3 Section 6.6 Page 96-110",
+      "images": [],
+      "keywords": [
+        "交货单",
+        "Delivery Order",
+        "Stock Out",
+        "Stock In",
+        "跨公司交货",
+        "自定义交易代码"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-058"
+    },
+    {
+      "id": "faq-109",
+      "category": "Data Interface",
+      "subcategory": "External System Data Import",
+      "question": "外部系统数据导入接口（External System Data Import Interface）是什么？",
+      "answer": "外部系统数据导入接口（External System Data Import Interface）是可选模块，专门用于ChainStore 2000与第三方软件应用程序之间的数据交换功能。\n\n特点：\n- 该模块不能作为标准模块提供，主要是因为不同应用程序有不同的数据定义和格式\n- Sanyo Extended乐于根据客户需求提供接口开发服务\n- 需要联系销售和市场人员了解详情\n\n此外，还有CS2000数据导入导出接口（CS2000 Interface for Data Import & Export）：\n- 同样是用于ChainStore 2000与第三方软件之间的数据交换\n- 也是可选模块\n\n数据导出到POS（Data Export to POS）：\n- 允许用户从后台服务器发送最新的所有主文件完整副本到POS\n- 这是由用户按需启动的手动流程\n- 适用于：不确定POS文件完整性时，或需要从头重建POS应用程序和数据时",
+      "source": "v6.5 Book-4 Section 9.5-9.7 Page 22-23",
+      "images": [],
+      "keywords": [
+        "数据导入",
+        "数据导出",
+        "第三方系统",
+        "接口",
+        "External System",
+        "数据交换"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-065"
+    },
+    {
+      "id": "faq-110",
+      "category": "System Process",
+      "subcategory": "Franchisee Store",
+      "question": "特许经营店铺（Franchisee Store）发票如何生成？",
+      "answer": "特许经营店铺流程（Franchisee Store Process）是可选模块，用于为此系统下运营的特许经营店铺生成发票。\n\n前置设置：\n1. 在Location Table中将特许经营店铺标记（Franchisee Store Mark）设为\"ON\"\n2. 在Wholesales Customer Discount Table中输入适当的折扣率（如可用）\n\n发票生成规则：\n- 发票基于店铺调货历史生成\n- 所有调入特许经营店铺的库存将被系统相应地计费\n- 所有从特许经营店铺调出的库存将被系统相应地抵扣\n- 如果调货后该特许经营店铺的总和为正数，系统将向特许经营客户生成发票\n- 如果总和为负数，系统将发出贷项通知单（Credit Memo）\n\n操作流程：\n1. 选择调货单范围或日期范围\n2. 分配批次号\n3. 系统生成特许经营发票\n4. 在Invoice Maintenance中验证和编辑发票明细\n5. 确认并过账",
+      "source": "v6.5 Book-3 Section 6.10 Page 125-128",
+      "images": [],
+      "keywords": [
+        "特许经营",
+        "Franchisee",
+        "加盟店",
+        "特许发票",
+        "调货计费"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-059"
+    },
+    {
+      "id": "faq-111",
+      "category": "Other Masters",
+      "subcategory": "Gift Certificate",
+      "question": "礼品券（Gift Certificate）模块如何维护？",
+      "answer": "礼品券（Gift Certificate）是可选模块，以下是礼品券签收流程的维护说明：\n\n1. 礼品券记录会在POS前端的礼品券销售完成并被后端主机服务器确认后自动创建\n\n2. 后台Office用户可以对此礼品券记录进行维护操作，但需谨慎操作\n\n3. 任何对这些记录的修改都将从后台服务器发送到所有POS站点进行POS更新\n\n操作说明：\n- 此模块主要用于礼品券发行管理\n- 后台用户可以查看、修改礼品券状态\n- 所有更改都会实时同步到前端POS系统\n\n注意事项：\n- 修改操作应谨慎进行，因为更改会立即推送到所有POS终端\n- 建议仅在必要时进行修改，并记录修改原因",
+      "source": "v6.5 Book-2 Section 5.3.2 Page 34",
+      "images": [],
+      "keywords": [
+        "礼品券",
+        "Gift Certificate",
+        "礼品卡",
+        "POS同步",
+        "优惠券管理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-034"
+    },
+    {
+      "id": "faq-112",
+      "category": "Master Table Maintenance",
+      "subcategory": "Item Costs",
+      "question": "商品主文件中的成本参考（Item Costs Value Reference）有哪些不同类型？",
+      "answer": "Item Master的成本相关文件夹中提供了多种成本参考值：\n\n1. 标准成本（Standard Cost）：用户输入的参考成本，除非用户覆盖否则不会改变，使用基础货币\n\n2. FOB成本（FOB Cost）：用户输入的FOB成本，除非用户覆盖否则不会改变，可指定货币\n\n3. 平均成本（Average Cost）：仅显示，是在Month End流程中根据历史成本变动日志更新的加权平均成本参考\n   计算公式：(On-hand_Qty * Avg_Cost) + (Receive_Qty * Rec_Cost) / (On-hand_Qty + Receive_Qty)\n\n4. Month End Actual Cost（月结实际成本）：月结流程后确认的商品加权平均成本，包含了自上次月结以来所有产生的成本\n\n5. Last Receive Average Cost（上次收货平均成本）：收货时计算的平均成本（非加权），包含在计算时系统已知的所有其他成本（如F&I）\n\n6. Last Receive Unit Cost（上次收货单位成本）：上次收货时记录的单位成本，不包含任何额外费用或成本\n\n7. FOB Average Cost（FOB平均成本）：根据收货计算的加权平均FOB成本，仅包含商品的FOB成本，不含任何其他成本\n\n8. Average Cost（收货平均成本）：根据收货计算的加权平均成本，包含在计算时系统已知的所有其他成本（如F&I）\n\n9. Last PO Unit Cost（上次采购单单位成本）：上次采购单的单位成本，不含任何额外费用或成本\n\n\"MORE\"按钮中包含以上后6项由系统在不同操作阶段自动记录的成本数据。",
+      "source": "v6.5 Book-2 Section 5.2 Page 16-19",
+      "images": [],
+      "keywords": [
+        "商品成本",
+        "Item Cost",
+        "平均成本",
+        "FOB成本",
+        "标准成本",
+        "成本参考"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-073"
+    },
+    {
+      "id": "faq-113",
+      "category": "Master Table Maintenance",
+      "subcategory": "Item Master",
+      "question": "商品主文件（Item Master）中的库存指示符（Stock Indicator）各代表什么含义？",
+      "answer": "库存指示符（Stock Indicator）是Item Master中的必填字段，定义了商品的库存性质：\n\nB - Buy Off stock（买断库存）：用户自有库存，这是大多数客户最常用的指示符\n\nC - Consignment Stock（寄售库存）：标示此库存商品不为用户所有。未来可能会根据购买的可选模块应用计算处理\n\nG - Package Set（套装组合）：标示此商品是一个套装商品，关联到特定流程下预定义的商品表集。CS2000后台系统将POS前端销售的套装商品根据商品表集拆分为明细产品，然后以明细形式写入销售日志。使用前请咨询Sanyo Extended业务顾问\n\nN - Special Handle Item（特殊处理商品）：一些定制特殊流程的控制标志，不适用于一般用途\n\nS - Coupon M&M Item（优惠券搭配商品）：专门为促销Mix & Match计算在POS处理中创建的商品。必须与Mix & Match优惠券处理规则配合使用\n\nV - Service Item（服务商品）：标示此商品可在POS中\"销售\"但不能计入库存，因此不纳入正常库存控制流程的库存变动。典型例子：\"维修服务\"、\"改衣服务\"等\n\n此外，Dimension Control（维度控制）定义了商品属性：\n- A：无颜色和尺寸\n- B：有颜色和尺寸\n- C：仅颜色\n- D：Inseam（仅限特定用途）",
+      "source": "v6.5 Book-2 Section 5.2 Page 11-14",
+      "images": [],
+      "keywords": [
+        "库存指示符",
+        "Stock Indicator",
+        "寄售",
+        "套装",
+        "服务商品",
+        "商品维度"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-072"
+    },
+    {
+      "id": "faq-114",
+      "category": "Member Master",
+      "subcategory": "JV Member Table",
+      "question": "JV会员表（JV Member Table Maintenance）有什么用途？",
+      "answer": "JV会员表（JV Member Table Maintenance）用于定义会员的联合合作伙伴关系（Joint Venture Partnership）。\n\n适用场景：\n- 如果用户希望加入或与其他组织共享会员权益\n- 例如与Asia Mile Program等合作伙伴计划进行集成\n\n设置内容：\n- 控制方式：\n  - No Control：购买完成后积分立即授予会员\n  - 或：仅当购买折扣不超过输入值时，才授予积分\n- 合作伙伴活动的有效日期范围\n\n此表格供后续在积分计算或其他权益中使用，实现跨组织的会员权益互通。",
+      "source": "v6.5 Book-2 Section 5.4.4 Page 52",
+      "images": [],
+      "keywords": [
+        "JV会员",
+        "联合会员",
+        "合作伙伴",
+        "积分互通",
+        "会员联盟"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-040"
+    },
+    {
+      "id": "faq-115",
+      "category": "Other Masters",
+      "subcategory": "Location Message",
+      "question": "位置消息（Location Message Maintenance）有什么用途？",
+      "answer": "位置消息维护（Location Message Maintenance）允许用户设置在销售小票上打印的特殊消息。\n\n适用场景：\n- 促销信息（如打折促销）\n- 节假日问候（如圣诞、新年）\n- 店铺特定公告\n\n设置：\n- 可设为对所有位置生效（留空Location Code）\n- 或仅对特定店铺生效（输入具体的Location Code）\n- 设置消息在POS上的有效打印日期范围\n\n这样，在有效期间内，顾客在指定店铺购物时，销售小票上会自动打印出这些特殊消息。\n\n此外，公告板（Bulletin）功能也提供了类似的消息发布能力，可用于向所有店铺发布公告信息。",
+      "source": "v6.5 Book-1 Section 4.21-4.22 Page 80-82",
+      "images": [],
+      "keywords": [
+        "位置消息",
+        "Location Message",
+        "促销信息",
+        "小票打印",
+        "公告"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-075"
+    },
+    {
+      "id": "faq-116",
+      "category": "System Process",
+      "subcategory": "Location Tree Transfer Privilege",
+      "question": "位置树结构如何控制库存调货权限（Transfer Privilege）？",
+      "answer": "在Location Code Maintenance的Group Assign Folder中，可以设置位置的位置树结构和调货权限：\n\n1. 位置树结构定义：\n   - 在Location Tree Table中定义公司的地理结构层级（最多10层）\n   - 例如：大区 > 国家 > 区域 > 城市 > 区\n   - 每个位置在树结构中分配一个位置，如示例中某店铺被定义为\"广州市\"级别的城市\n\n2. 调货权限设置（Shop to Warehouse）：\n   - 控制店铺向仓库调货的权限层级\n   - 示例：某店铺被设置为允许向\"华南\"级别及以上调货\n\n3. 调货权限设置（Shop to Shop）：\n   - 控制店铺间调货的权限范围\n   - 示例：某店铺被设置为仅允许在\"广州市\"范围内进行店铺间调货\n\n此设置提供了精细化的库存调货控制，确保店铺只能在其授权范围内进行调货操作。",
+      "source": "v6.5 Book-1 Section 4.2 Page 40-43",
+      "images": [],
+      "keywords": [
+        "调货权限",
+        "Transfer Privilege",
+        "位置树",
+        "店铺调货",
+        "库存控制"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-074"
+    },
+    {
+      "id": "faq-117",
+      "category": "Master Table Maintenance",
+      "subcategory": "Measure Tables",
+      "question": "计量单位表（Unit of Measure）和计量单位转换表如何使用？",
+      "answer": "计量单位表（Unit of Measure）和计量单位转换表（Unit of Measure Conversion）是仅用于特定需求的测量表，不会用于系统中的一般处理需求。\n\nUnit of Measure：定义基本的计量单位（如PCS、SET等）\n\nUnit of Measure Conversion：用于定义两个计量单位之间的转换计算。\n\n示例：\n- 1 dozen = 12 pcs\n- 1 inner box = 10 pcs\n- 1 outer box = 12 inner box\n\n转换率支持5位小数。使用前请咨询业务顾问。",
+      "source": "v6.5 Book-1 Section 4.47 Page 142-144",
+      "images": [],
+      "keywords": [
+        "计量单位",
+        "Unit of Measure",
+        "单位转换",
+        "UOM",
+        "单位换算"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-020"
+    },
+    {
+      "id": "faq-118",
+      "category": "Master Table Maintenance",
+      "subcategory": "Member Region",
+      "question": "会员区域树表（Region Tree Table for Member）如何设置？",
+      "answer": "会员区域树表（Region Tree Table for Member）适用于跨国家/地区运营且会员客户有跨国家/地区兴趣的组织。\n\n设置步骤：\nStep 1：定义和输入区域树代码（Regional Tree Codes）\nStep 2：通过Regional Tree Code Table Maintenance构建区域层级结构，最多允许10层\n   - 示例：Region -> Country -> Areas（3层结构）\nStep 3：通过Regional Grouping Control Maintenance将Step 1定义的树代码分配到每个区域树层\n   - 示例：在\"Region\"层分配3个区域：America、Asia、Europe\n   - 在\"America\"区域下分配3个国家：Canada、Mexico、United States\nStep 4：在国家内分配\"地区\"（Areas），如将中国分为华东、华北、华南\nStep 5：可从\"AREAS\"层级继续向下添加更多层，如城市、区、街道等\n\n设置完成后，系统能够识别会员的区域或国家关系，并在系统内全公司或全区域范围内共享信息。",
+      "source": "v6.5 Book-1 Section 4.44 Page 130-134",
+      "images": [],
+      "keywords": [
+        "区域树",
+        "Region Tree",
+        "会员区域",
+        "跨国运营",
+        "层级结构"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-017"
+    },
+    {
+      "id": "faq-119",
+      "category": "Member Master",
+      "subcategory": "Member Type",
+      "question": "会员类型（Member Type）维护包含哪些关键设置？",
+      "answer": "会员类型维护用于创建会员分组，将会员归类到有意义的组别中，以便按需组织相关数据生成有意义的报告。\n\n关键设置字段：\n\n- 会员类型（Member Type）：X(01)，必填\n- 折扣%（Discount %）：针对此会员类型的销售折扣百分比\n- 额外%（Extra %）：特殊促销活动时的额外折扣百分比\n- 最大折扣%（Max Disc. Bar %）：所有促销活动允许的最大折扣%\n- 积分奖励（Bonus Point Reward）：新会员一次性积分赠送\n- 兑换组（Redemption Group）：积分存储的默认兑换组\n- 积分数量（Bonus Point）：新会员加入时赠送的积分数量\n- 跨区域标志：如果勾选，表示该会员类型属于跨区域客户，会员折扣将适用于在境外组织内购物的POS销售\n- 营业额控制（Turn-over Control）：是否启用限额控制\n- 营业额限制（Turn-over Limit）：最大累计销售金额\n- 控制周期（Control Period）：一次性购买、每月或每季度\n- 销售控制（Sales Control）：按总销售额或净销售额\n- 员工控制（Staff Control）：是否为员工会员类型\n\n附加功能（Other按钮）：可定义折扣适用的位置、部门、品牌或产品类别。",
+      "source": "v6.5 Book-2 Section 5.4.1 Page 43-45",
+      "images": [],
+      "keywords": [
+        "会员类型",
+        "Member Type",
+        "会员折扣",
+        "积分奖励",
+        "营业额控制",
+        "员工购买"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-038"
+    },
+    {
+      "id": "faq-120",
+      "category": "Customer Loyalty",
+      "subcategory": "Member e-Coupon",
+      "question": "会员电子优惠券（Member e-Coupon）如何生成和使用？",
+      "answer": "会员电子优惠券（Member e-Coupon）是一般通用优惠券之外的个性化优惠券，可以下发到特定会员或会员群体。\n\n后台功能：\n1. 根据输入条件创建序列化的eCoupon记录批次\n2. 序列化的eCoupon可分配到单个会员、会员范围或会员类型\n3. 用户也可通过文本或Excel文件从外部导入eCoupon数据（通过\"From File\"单选按钮）\n4. 输入完成并点击\"Generate\"按钮后，系统将在后台系统中生成对应的eCoupon记录\n5. 这些eCoupon记录将在下一个轮询周期自动发送到POS前端\n6. 注意：系统无法打印这些eCoupon，用户需要以各种方便的方式（如电子邮件、短信、彩信等）通知受益会员\n\nPOS前端功能：\n1. eCoupon记录将在下一个轮询周期自动发送到POS前端，供会员兑换使用\n2. 当eCoupon会员在小票处理中登录时，POS系统会自动提醒POS用户\n3. 符合条件的eCoupon被会员兑换后，将被标记为已使用，并发送回后台完成完整兑换周期\n\n此功能是v6.5.0新增的。",
+      "source": "v6.5 Book-3 Section 6.8.3 Page 115-116",
+      "images": [],
+      "keywords": [
+        "电子优惠券",
+        "e-Coupon",
+        "会员优惠券",
+        "个性化营销",
+        "POS提醒",
+        "v6.5新增"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-045"
+    },
+    {
+      "id": "faq-121",
+      "category": "Price Promotion",
+      "subcategory": "Mix & Match",
+      "question": "Promotion Mix & Match（促销搭配）模块是什么？有哪些核心表格？",
+      "answer": "Promotion Mix & Match（促销搭配）是可选模块，允许用户设置\"On-Sales Maintenance\"流程中指定条件之外的特殊促销活动。该模块可以以自定义的\"自由搭配\"风格设置促销活动。\n\n该模块在ChainStore 2000 v6.5中已是第三代版本（自2000年首次推出）。在此更新版本中，Mix & Match模块支持：\n- \"除外\"规则（Except Rules）\n- \"必购\"规则（Must Hit Rules）\n- 商品冲突处理\n- POS销售中发现多个促销条件时的自动最优价格计算（Auto Best Price Calculation）\n\n核心表格包括：\n1. Promotion Discount Table（促销折扣表）：定义具体的折扣条件，如购买数量与折扣率的关系\n2. Promotion Product Table（促销产品表）：定义哪些产品参与促销，可按类别、品牌、季节等范围选择\n3. Promotion Member Table（促销会员表）：定义哪些会员类型可以享受特定的促销活动\n4. Mix & Match Discount Controlled Product Table（有配搭无折扣货号表格）：特殊产品表，参与M&M计算但跳过折扣规则\n5. Mix & Match Card Promotion Table（促销设置表）：用于特定用途的促销集代码",
+      "source": "v6.5 Book-2 Section 5.5.3 Page 71-83",
+      "images": [],
+      "keywords": [
+        "搭配促销",
+        "Mix & Match",
+        "促销模块",
+        "折扣规则",
+        "有配搭无折扣",
+        "必购规则"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-028"
+    },
+    {
+      "id": "faq-122",
+      "category": "Price Promotion",
+      "subcategory": "Mix & Match Coupon",
+      "question": "如何设置Mix & Match优惠券处理（Coupon Processing）促销？",
+      "answer": "Mix & Match Coupon Processing促销的设置步骤：\n\n1. 事件（Event）设置：与其他两种促销活动的设置理念相同\n\n2. 购买（Purchase）条件设置：\n   - 定义客户在使用优惠券时需要购买的产品条件\n   - 示例：从\"农历年商品促销\"产品表中购买任何产品，从净售价中减$10\n\n3. 优惠券（Coupon）条件设置：\n   - 优惠券类型（Coupon Type）：\n     - BASE：折扣仅适用于标价或非折扣商品，不考虑促销商品\n     - NET：折扣适用于非折扣商品和促销商品，但排除Mix & Match促销，同时考虑会员折扣\n     - NET/NET：折扣适用于净金额，包括Mix & Match促销\n   - 优惠券商品：需要在Item Master中定义一个Stock Indicator为\"S\"（Coupon M&M Item）的商品代码，代表此M&M折扣\n   - 序列号：设置优惠券在POS兑换时是否需要输入序列号\n\n4. 条件（Condition）设置：\n   - 定义哪些客户可以享受此优惠券折扣\n   - 选项：所有客户、仅非会员散客、特定客户类型、或通过之前定义的会员表\n\n带Skip Discount选项的Coupon处理仅在某些限制条件下有效（如基于%的折扣）。",
+      "source": "v6.5 Book-2 Section 5.6.7 Page 99-105",
+      "images": [],
+      "keywords": [
+        "优惠券处理",
+        "Coupon",
+        "M&M优惠券",
+        "优惠券类型",
+        "BASE",
+        "NET",
+        "有配搭无折扣"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-032"
+    },
+    {
+      "id": "faq-123",
+      "category": "Price Promotion",
+      "subcategory": "Mix & Match Formulae",
+      "question": "如何设置Mix & Match促销公式？有哪些计算公式类别？",
+      "answer": "Mix & Match促销公式的设置需要将所有必要的促销表（折扣表、产品表、会员表）链接起来，赋予有意义的计算公式，形成不同的促销活动。\n\nMix & Match促销公式分为2个主要组：\n1. 普通Mix & Match流程\n2. 带\"有配搭无折扣\"（Skip Discount）控制的新Mix & Match流程\n\n两组都涉及3大计算类别：\n\n1. Discount Purchase（折扣购买）：\n   - 客户购买超过一定数量/金额时享受一定的折扣率\n   - 示例：买3件$100，买满$500打10%，买1件10%折扣/2件20%/3件30%等\n\n2. Give Away Purchase（赠送购买）：\n   - 客户购买特定产品时享受额外产品赠送（付费或免费）\n   - 示例：买一送一，买一件加$1得另一件，买满$500送赠品等\n\n3. Coupon Processing（优惠券处理）：\n   - 设置仅限特定产品购买使用的折扣券\n   - 示例：咖啡杯专用的15%折扣券，或买T恤+短裤减$100等\n\n每个促销公式设置包含：Event设置（地点和时间）、Properties设置（折扣金额/比例）、Conditions设置（客户类型、产品表、必购条件等）。",
+      "source": "v6.5 Book-2 Section 5.6 Page 84-112",
+      "images": [],
+      "keywords": [
+        "促销公式",
+        "Mix & Match公式",
+        "折扣购买",
+        "赠送购买",
+        "优惠券",
+        "有配搭无折扣"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-029"
+    },
+    {
+      "id": "faq-124",
+      "category": "Price Promotion",
+      "subcategory": "Mix & Match Samples",
+      "question": "Mix & Match有哪些计算案例？如何理解有配搭无折扣的计算逻辑？",
+      "answer": "以下是v6.5中详细的Mix & Match计算案例：\n\nCase 1（折扣购买）：购买任意2件或以上，所有商品额外15%折扣。有配搭无折扣商品P001定价$399（不计入M&M数量，仅作为条件检查）。\n\nCase 2（折扣购买）：购买任意商品2件或以上，所有商品额外15%折扣。有配搭无折扣商品排序始终排在第1位。\n\nCase 3（使用Repeat选项）：第1件10%折扣，第2件20%折扣。有配搭无折扣商品始终排在第1位，正常商品按价格从高到低排序。\n\nCase 3A（使用Onward选项）：第1件10%，第2件20%，第3件及以上30%。\n\nCase 4：第1件10%，第2件及以上20%。\n\nCase 5：多个M&M活动同时存在。两项活动：(i) A001打20% (ii) A001以$399换购。如果Best Price Logic可用，系统会自动选择对客户更有利的方案。\n\nCase 6：购买A001或P001可享受B001额外20%折扣。\n\nCase 7：两项活动：(i) A001打20% (ii) 2件或以上所有商品打15%。系统选择最优价格。\n\nCase 8：(i) A001打20% (ii) 第2件及以上打15%。\n\nCase 10（赠送购买）：(i) A001打20% (ii) B001打10%。\n\nCase 11（优惠券处理）：满$2000额外5%折扣，或满$2000减$200。\n\n关键规则：有配搭无折扣商品（Discount Controlled Item）在M&M排序中始终作为第1位商品，但不计入折扣计算数量。正常商品按价格从高到低排序。",
+      "source": "v6.5 Book-2 Section 5.6 Page 106-112",
+      "images": [],
+      "keywords": [
+        "M&M案例",
+        "搭配计算",
+        "有配搭无折扣",
+        "折扣计算",
+        "促销案例"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-031"
+    },
+    {
+      "id": "faq-125",
+      "category": "Administration",
+      "subcategory": "Month End",
+      "question": "月终结转流程（Month End Closing Balance Process）如何操作？有什么注意事项？",
+      "answer": "月终结转余额流程（Month End Closing Balance Process）是一个库存维护流程，用于按月关闭库存期间并生成月末库存余额报告。\n\n操作说明：\n- 月结流程不需要在每月的确切最后日期执行\n- 可以在目标处理月份已过去但仍未进行月结的任何时间回溯执行\n- 示例：假设系统上次月结月份为2009年5月，今天系统日期为2009年10月20日，则允许从2009年6月处理到2009年9月的月结\n\n系统自动检查：\n- 系统会自动检查最后一次月结的月份\n- 允许用户处理到最后一个完整月份\n- 在月结过程中会自动执行商品成本重新计算\n\n需要月结的报告和流程：\n- 月结余额报告（Month End Balance Reports）\n- 寄售结算流程（Consignment Settlement Process，可选模块）\n\n重要注意事项：\n- 月结流程完成后，不允许进行回溯交易（No back day transaction）\n- 因此在月结前确保没有未处理的交易是非常重要的\n- 月结完成后，该月的重新计算成本应视为最终值",
+      "source": "v6.5 Book-4 Section 10.3.1 Page 40-41",
+      "images": [],
+      "keywords": [
+        "月结",
+        "Month End",
+        "月末结转",
+        "成本重新计算",
+        "库存月结"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-068"
+    },
+    {
+      "id": "faq-126",
+      "category": "Member Master",
+      "subcategory": "New Member Recruitment",
+      "question": "新会员招募维护（New Member Recruitment Maintenance）如何设置？",
+      "answer": "新会员招募维护允许用户确定POS店铺操作中的新会员招募条件。当客户购买条件满足时，POS系统将自动弹出新会员创建提示。\n\n设置示例：\n- 一次性消费$1,000-$2,000：授予预备会员\"F\"类\n- 一次性消费$2,001-$5,000：授予正式会员\"E\"类\n- 一次性消费$5,001-$10,000：授予银卡会员\"H\"类\n- 一次性消费超过$10,000：授予金卡会员\"G\"类\n\nPOS系统将根据设定的条件显示相应的用户消息和创建界面。此会员消息提示会被组织到系统的\"会员消息中心\"（Member Message Centre）中，作为会员消息之一（可能有多条），当会员在店铺POS签到时一次性显示。\n\n此功能是v6.5.0新增的。",
+      "source": "v6.5 Book-2 Section 5.4.5 Page 53",
+      "images": [],
+      "keywords": [
+        "新会员招募",
+        "会员招募",
+        "POS自动招募",
+        "会员升级",
+        "消费门槛"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-041"
+    },
+    {
+      "id": "faq-127",
+      "category": "Price Promotion",
+      "subcategory": "On Sale Price",
+      "question": "On-Sale Price Maintenance的在线模式（Online Mode）三种输入方式是什么？",
+      "answer": "On-Sale Price Maintenance的在线模式（Online Mode）提供三种输入方式：\n\n1. Page Mode（页面模式）：\n   - 以页面形式输入商品的促销价格\n   - 每个商品可设置两个促销期间（On-Sales Period 1和2）\n   - 每个期间可输入促销金额$或折扣%，两者互斥\n   - 必须输入起始日期和结束日期\n   - 通过Additional Price Input Screen可进一步设置按国家、组、位置、颜色的不同促销价格\n\n2. Line Mode（行模式）：\n   - 以逐行方式输入促销数据，带有审计跟踪历史日志\n   - 促销价格检索顺序：Color（颜色级）-> Loc（位置级）-> Grp（组级）-> Country（国家/地区级）-> Item（商品级）\n   - 可通过商品代码、供应商商品代码、供应商编号或SKU（条码）搜索折扣商品\n\n3. Group Mode（组模式）：\n   - 通过参数选择批量设置商品促销\n   - 可选择全部位置或指定位置、组、国家范围\n   - 可按季节、品牌、类别、子类别、商品、颜色范围进行筛选\n   - 可重置（清除）或设置新的促销价格和折扣",
+      "source": "v6.5 Book-2 Section 5.5.2 Page 55-62",
+      "images": [],
+      "keywords": [
+        "促销价格",
+        "On-Sale",
+        "Page Mode",
+        "Line Mode",
+        "Group Mode",
+        "批量促销"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-026"
+    },
+    {
+      "id": "faq-128",
+      "category": "Price Promotion",
+      "subcategory": "On Sale Price Batch",
+      "question": "On-Sale Price的批量模式（Batch Mode）如何操作？",
+      "answer": "On-Sale Price批量维护与在线维护的主要区别在于，批量模式将输入的交易保存在数据批次中，经过系统验证、草稿打印、必要时修改数据，最后确认并发布数据。\n\n批量模式的Group Mode操作步骤：\n\n1. Group Selection（组选择）：通过组模式选择条件从商品主文件中选取所需促销商品\n2. Extract Style/SKU（提取款式/SKU）：系统根据用户在Step 1中的选择执行商品筛选\n3. Select Style/SKU（选择款式/SKU）：用户可在此修改、删除或新增促销商品，以便在必要时\"优化\"选择结果\n4. Batch Validation（批次验证）：系统验证批次中的交易数据，验证报告将打印以供记录/审计\n5. Batch Posting（批次过账）：确认系统中的交易。发布后，交易数据将永久生效并写入交易日志，不可更改。只能通过新增交易/记录来覆盖先前的结果，而不是删除先前的交易。\n\n批量模式还有Line Mode - Copy Batch（可选模块），允许用户从促销历史记录中复制数据，编辑后重新发布为新的促销。",
+      "source": "v6.5 Book-2 Section 5.5.2.4-5.5.2.6 Page 63-70",
+      "images": [],
+      "keywords": [
+        "批量促销",
+        "Batch Mode",
+        "Group Mode",
+        "促销过账",
+        "批量验证",
+        "促销复制"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-027"
+    },
+    {
+      "id": "faq-129",
+      "category": "Member Master",
+      "subcategory": "Online Credit Check",
+      "question": "员工/会员购买的在线信用检查（Online Credit Check）是什么？",
+      "answer": "当特定客户类型设置了购买限额（如员工购买），POS系统将通过互联网连接在后台在线执行信用检查，避免超限额购买。\n\n工作原理：\n- 在线信用检查功能：当设置了特定客户类型的购买限额后生效\n- 如果发现会员（通常是员工购买）在控制周期内超出购买限额，POS前端系统将拒绝该销售\n- 此功能是v6.5.0新增的\n\n此外，会员升级规则（Upgrade Rules for Member Customer）：\n- 所有会员客户在满足以下定义条件时将应用通用升级规则\n- 会员升级流程由后台根据用户计划执行的批处理作业完成\n- 设置条件：当累计积分超过设定值时，会员将从当前类型升级到指定新类型\n- 注意：截至v6.4.3版本，还没有会员降级机制",
+      "source": "v6.5 Book-2 Section 5.4.2 Page 46-47",
+      "images": [],
+      "keywords": [
+        "信用检查",
+        "Credit Check",
+        "员工购买",
+        "限额控制",
+        "会员升级",
+        "在线检查"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-039"
+    },
+    {
+      "id": "faq-130",
+      "category": "System Process",
+      "subcategory": "Open Item Recovery",
+      "question": "开放商品恢复流程（Open Item Recovery Process）是什么？",
+      "answer": "开放商品恢复流程允许后台用户恢复在POS销售时收银员输入为开放商品（Open Item）的实际商品代码。\n\n操作场景：\n- 当POS收银员在销售时无法找到正确的商品代码，临时输入了开放商品\n- 后台用户可以通过此流程将正确的商品代码替换到销售小票中\n\n操作步骤：\n1. 按销售小票号或销售小票日期查询\n2. 选择开放商品状态筛选（留空=全部，\"O\"=未结）\n3. 找到标有星号\"*\"的未结开放商品条目\n4. 修改商品代码为正确的商品代码\n5. 注意：只能修改商品代码，不能修改销售价格、折扣等其他信息\n\n前置条件：\n- 替换的商品代码必须在Item Master Maintenance中已创建\n\n重要限制：\n- 仅当销售小票标记为未结开放商品（Outstanding Open Item）时才能执行替换\n- 开放商品的日志历史和未结记录可以在索引屏幕中查看",
+      "source": "v6.5 Book-3 Section 6.4.4 Page 84-85",
+      "images": [],
+      "keywords": [
+        "开放商品",
+        "Open Item",
+        "商品恢复",
+        "POS错误纠正",
+        "销售小票修正"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-056"
+    },
+    {
+      "id": "faq-131",
+      "category": "Administration",
+      "subcategory": "POS Data Posting",
+      "question": "POS数据过账控制（POS Data Posting Control）如何管理？",
+      "answer": "POS数据过账控制是用于管理POS数据实时更新的核心管理功能。\n\nChainStore 2000的设计中，所有POS前端的交易数据在POS计划任务下以\"近乎\"实时的方式轮询回后台服务器。这意味着POS中创建的数据会在最短可用时间内自动发送回后台服务器。\n\n功能说明：\n\n1. 启动过账（Start POSTING）：\n   - 启动后台过账任务进行数据更新\n   - 一旦提交，此任务自动运行，更新来自店铺POS的数据\n   - POS实时数据将立即更新到相应文件\n   - 启动后，任务将持续非停止运行直到\"Stop POSTING\"被按下\n   - 重要提示：只允许激活一个过账任务\n\n2. 停止过账（Stop POSTING）：\n   - 关闭后台过账任务\n   - 仅在过账任务进行中时生效\n   - 关闭后，POS数据将不再被过账，直到下次启动\n\n3. 修改补货时间（Modify Repl. Time）：\n   - 定义店铺的一般库存补货周期和其他参数\n   - 默认补货周期为每日，除非另有指定\n   - 可设置：下次补货日期、时间、补货周期天数、回溯天数、季节范围、主仓库等\n\n任务状态：In progress、Just submitted、To be terminated、Terminated、IDLE",
+      "source": "v6.5 Book-4 Section 10.1.1 Page 25-29",
+      "images": [],
+      "keywords": [
+        "POS过账",
+        "Data Posting",
+        "实时更新",
+        "后台任务",
+        "补货周期"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-066"
+    },
+    {
+      "id": "faq-132",
+      "category": "Data Interface",
+      "subcategory": "POS Local Inventory Request",
+      "question": "POS本地库存请求日志控制（POS Local Inventory Request Log Control）是什么？",
+      "answer": "POS本地库存请求日志控制是可选模块，允许用户按需请求从后台服务器下载库存数据到POS客户端电脑，用于在必要时更新POS本地库存期初余额。\n\n操作说明：\n1. 此流程将让系统准备要发送的下载文件\n2. 实际发送操作是通过\"POS O/S Transfer Request Log Control\"流程完成的\n3. 此流程应谨慎使用，因为系统将使用服务器库存数量覆盖POS库存数量作为当天的期初余额\n\n屏幕显示：\n- 准备发送的本地库存文件列表\n- 已发送的完成历史记录\n\n重要提示：\n- 使用前请咨询系统顾问\n- 此操作会覆盖POS本地的库存数据\n\nPOS未结调货请求日志控制（POS Outstanding Transfer Request Log Control）：\n- 当用户从前一流程完成本地库存发送文件准备后，此流程允许用户执行最终发送操作\n- 将准备好的文件发送到相应的POS位置",
+      "source": "v6.5 Book-4 Section 9.3-9.4 Page 20-21",
+      "images": [],
+      "keywords": [
+        "POS库存请求",
+        "本地库存",
+        "库存下载",
+        "调货请求",
+        "POS库存同步"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-064"
+    },
+    {
+      "id": "faq-133",
+      "category": "Data Interface",
+      "subcategory": "POS Polling",
+      "question": "POS导向的数据轮询（POS Oriented Data Polling）和服务器导向的POS数据轮询有什么区别？",
+      "answer": "两者都是POS与后台服务器之间的数据接口方式：\n\n1. POS导向数据轮询接口（POS Oriented Data Polling Interface）—— 标准安装：\n   - 这是目前广泛使用的标准数据轮询技术\n   - 适用于互联网环境\n   - 数据轮询从POS客户端激活到服务器（Client to Server）\n   - 需要设置：POS终端地址、Location ID、服务器目录名等\n   - 启动轮询后，后台任务将持续非停止地在服务器和POS之间收发数据\n   - 轮询任务状态：In progress、Just submitted、To be terminated、Terminated、IDLE\n\n2. 服务器导向POS数据轮询接口（Server Oriented POS Data Polling Interface）—— 特殊请求：\n   - 这是传统的（旧式）轮询方法\n   - 从服务器调用到POS客户端（Server to POS clients）\n   - 需要设置：POS终端地址、呼叫ID或电话号码\n   - 功能与POS导向轮询相同，但方向相反\n\n两种接口均支持：\n- 自动发送数据（默认）\n- 手动按需发送\n- 从特定日期重新发送\n- 传输日志控制：记录了所有已发送数据的历史记录",
+      "source": "v6.5 Book-4 Section 9.1-9.2 Page 6-19",
+      "images": [],
+      "keywords": [
+        "POS轮询",
+        "Data Polling",
+        "POS导向",
+        "服务器导向",
+        "数据传输",
+        "FTP通讯"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-063"
+    },
+    {
+      "id": "faq-134",
+      "category": "Master Table Maintenance",
+      "subcategory": "Payment Type",
+      "question": "付款类型代码（Payment Type Code）中不同的付款类型ID分别代表什么用途？",
+      "answer": "付款类型ID定义了POS前端可接受的不同付款方式：\n\nA - Electronic Payment（电子支付）：需要\"Credit Card Interface\"选项，与S9000卡终端配合使用\nB - EPS：S9000连接的EPS支付\nC - Credit Card（信用卡）：手动接受信用卡支付（无S9000终端）\nD - Credit Voucher（信用券）：不可兑换的退款券，用于POS退货\nE - Credit Card Refund：信用卡退款控制\nF - Return Voucher Redeem：客户兑换退货券的付款类型\nG - Cash Voucher（现金券）：非序列号基础的现金券\nH - Uniform Coupon：员工制服兑换用途\nI - Not Use：不使用\nJ - Cash Coupon（现金券）：序列号基础的现金券，使用时需验证序列号\nK - Credit Sales（赊销）：归类为赊销的付款\nL - Cheque（支票）：个人银行支票\nP - Gift Certificate（礼品券）：礼品券支付，必须输入序列号并验证\nR - Return Voucher（退货券）：可兑换的退货券，必须输入序列号并验证\nO - Online Coupon Redeem：通过积分在线兑换支付的付款类型\n0 - S9000(EPM)：S9000卡终端的信用卡支付（除CUP卡）\n1 - S9000(CUP)：S9000卡终端的CUP卡支付\n2 - Octopus：八达通智能卡支付\n4 - S9000(EIN)：S9000的分期付款功能",
+      "source": "v6.5 Book-1 Section 4.8 Page 53-57",
+      "images": [],
+      "keywords": [
+        "付款类型",
+        "Payment Type",
+        "信用卡",
+        "现金券",
+        "退货券",
+        "八达通",
+        "S9000"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-071"
+    },
+    {
+      "id": "faq-135",
+      "category": "Administration",
+      "subcategory": "Posting Error",
+      "question": "如何监控和处理POS数据过账错误（Posting Error History Log）？",
+      "answer": "过账错误历史日志（Posting Error History Log）是一个查询功能，用于检查每天从POS发送回后台的实时数据更新中的过账错误。\n\n使用说明：\n- 如果一切正常，此查询框应为空，表示POS数据过账未发现错误\n- 但由于多种原因，过账作业中可能会发现错误——例如某些引用表、记录在系统中缺失，或收到损坏的记录等\n- 在某些情况下，显示的错误消息可能不是\"真正的错误\"，而只是提醒用户更新过程中发生了异常情况\n\n错误日志字段：\n- 日期（Date）：记录过账日期\n- 时间（Time）：记录过账时间\n- 位置（Loc）：错误记录的店铺代码\n- 文件名（Filename）：错误记录的文件名\n- 类型（Type）：错误记录类型\n- 参考编号（Reference No.）：记录的参考号\n- 错误代码/消息（Error Code / Message）：错误代码及说明\n\n重要建议：\n- 系统管理员应每天至少检查一次此查询，确保轮询回的数据正确更新且无错误\n- 如果遇到错误且不理解其含义，请联系系统支持人员\n\n此外，POS Day End Enquiry用于监控店铺日结状态：\n- 每日日结是POS日常运营的重要步骤\n- 管理员需要确认所有店铺正确及时完成日结\n- 没有日结消息的店铺可能意味着日结流程缺失，需要进一步调查",
+      "source": "v6.5 Book-4 Section 10.1.2-10.1.5 Page 30-36",
+      "images": [],
+      "keywords": [
+        "过账错误",
+        "Posting Error",
+        "错误日志",
+        "POS日结",
+        "Day End",
+        "系统监控"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-067"
+    },
+    {
+      "id": "faq-136",
+      "category": "System Process",
+      "subcategory": "Price Mark-up/Down",
+      "question": "价格调整（Price Mark-Up/Down）流程如何操作？",
+      "answer": "Price Mark-Up/Down是系统中唯一允许用户调整零售标价并带有日志记录的功能。创建商品后，系统不允许直接修改零售标价，必须通过此流程操作。\n\n操作步骤：\n1. 进入Price Mark-Up/Down流程\n2. 选择或输入需要调整价格的商品\n3. 设置以下字段：\n   - 商品代码（Item Code）：X(09)，必填\n   - 生效日期（Effective Date）：dd/mm/yyyy，必填，标价调整的生效日期\n   - 交易类型（Trx. Type）：X(01)，必填，三种选择：\n     - \"A\"（All）：同时更新批发和零售价格\n     - \"W\"（Wholesale）：仅更新批发价格\n     - \"R\"（Retail）：仅更新零售价格\n   - 零售价格（Retail Price）：9(07).99，可选字段，新的零售价格\n   - 最大折扣%（Maxx disc %）：99.99，可选，当Trx. Type为\"A\"时\n   - 标准成本（Standard Cost）：9(07).99，可选，当Trx. Type为\"A\"时\n   - 批发价调整：可按百分比或绝对值输入，最多10个批发价格级别\n\n功能包括：创建记录、修改记录、删除记录、打印记录。",
+      "source": "v6.5 Book-3 Section 6.7 Page 111-112",
+      "images": [],
+      "keywords": [
+        "价格调整",
+        "Mark-Up",
+        "Mark-Down",
+        "标价修改",
+        "零售价调整",
+        "批发价调整"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-052"
+    },
+    {
+      "id": "faq-137",
+      "category": "Master Table Maintenance",
+      "subcategory": "Primary Tables",
+      "question": "POS安全访问控制（POS Security Access Maintenance）如何设置用户角色？",
+      "answer": "POS安全访问维护（POS Security Access Maintenance）允许用户创建POS用户的\"用户角色\"（User Role），并为每个POS角色分配不同的用户权限。\n\n设置步骤：\n\n1. 创建安全代码：\n   - 每个安全代码定义不同的功能访问权限\n   - 不同角色应有不同的访问权限，例如\"店铺经理\"、\"店铺主管\"、\"店铺实习生\"等角色拥有不同的系统访问权限\n\n2. 为安全代码分配功能访问权限：\n   - 带有\"勾选\"符号（Tick）的表示已授权访问该流程功能\n   - 带有\"锁\"符号（Lock）的表示禁止访问该流程功能\n\n3. 将安全代码分配给相应的销售人员：\n   - 将安全代码（如店铺经理）分配给在店铺或一组店铺中担任销售经理角色的员工\n\n此外，还可以设置POS用户的密码更新周期（强制POS用户每隔N个月更新密码）。",
+      "source": "v6.5 Book-1 Section 4.25 Page 88-89",
+      "images": [],
+      "keywords": [
+        "POS安全",
+        "Security Access",
+        "用户角色",
+        "权限控制",
+        "POS用户管理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-022"
+    },
+    {
+      "id": "faq-138",
+      "category": "Master Table Maintenance",
+      "subcategory": "Primary Tables",
+      "question": "POS付款键按钮控制（POS Payment Key Button Control）如何设置？",
+      "answer": "POS付款键按钮控制允许用户根据自己的偏好设置POS前端中的付款键顺序。\n\n设置规则：\n1. 用户可以自由编辑/分配每个按钮对应的付款流程，但最后一个<F10>键保留给\"EXIT\"按钮\n2. 如果需要，用户可以在一个按钮中\"分组\"多个付款类型\n   - 例如：\"外币\"按钮可以分组多个可接受的外币——美元、新台币、欧元、日元等\n3. POS付款键布局可分配到店铺级别，或设置为空（Blank）表示应用到所有店铺\n4. POS付款键布局是基于每种基础货币定义的：\n   - 至少为接收港币的香港店铺设置一套布局\n   - 为接收人民币的中国店铺设置另一套POS付款键布局\n\n设置完成后，POS前端将按照此布局显示付款按钮。",
+      "source": "v6.5 Book-1 Section 4.9 Page 58-59",
+      "images": [],
+      "keywords": [
+        "POS付款键",
+        "Payment Key",
+        "付款按钮",
+        "POS布局",
+        "货币分组"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-023"
+    },
+    {
+      "id": "faq-139",
+      "category": "Master Table Maintenance",
+      "subcategory": "Primary Tables",
+      "question": "费用代码（Receipt Charge Code Maintenance）如何设置？有哪些分配方式？",
+      "answer": "费用代码维护（Receipt Charge Code Maintenance）用于在Stock Receive流程中定义费用代码。\n\n设置字段：\n- 费用代码（Charge Code）：X(03)，必填字段\n- 描述（Description）：X(40)，必填字段\n- 输入指示符（Input Indicator）：必填，定义输入字段是金额$输入还是百分比%输入\n- 成本指示符（Cost Indicator）：必填，定义费用分配到每个商品的方式：\n  - By Amount Ratio：按商品的$价值比例分配\n  - By Fixed Percentage：按固定百分比分配到每个商品\n  - By Quantity Ratio：按数量比例分配到每个商品\n  - Skip Cost Calculation：跳过成本计算\n- 总计指示符（Total Indicator）：必填\n  - Add to Invoice Total：此费用计入供应商发票作为应付账款\n  - Reference Only：仅供引用\n\n此费用代码可在Stock Receive过程中使用，用于标示想要包含但可能不在供应商发票明细中的特殊/额外费用。这些费用将在成本更新过程中分配到商品级别。",
+      "source": "v6.5 Book-1 Section 4.24 Page 85-87",
+      "images": [],
+      "keywords": [
+        "费用代码",
+        "Charge Code",
+        "收货费用",
+        "成本分配",
+        "运费",
+        "保险费"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-024"
+    },
+    {
+      "id": "faq-140",
+      "category": "Wholesales",
+      "subcategory": "Promotion Event",
+      "question": "批发客户促销活动表（Wholesales Customer Promotion Event Table）如何设置？",
+      "answer": "批发客户促销活动表允许用户在从相应流程执行销售发票时，为批发客户或特许经营店铺客户设置特殊折扣。\n\n设置示例：\n- 所有Nike Shoes（SHO）以48% + 3% + 2%的折扣销售\n- 所有其他Nike品牌产品（除Shoes外）以50% + 5%的折扣销售\n- 此特殊折扣专属于客户组\"05SUMMER-1\"，在指定日期内有效\n\n批发促销客户表（Wholesales Promotion Customer Table）：\n- 用于定义可能享受批发促销的客户组\n- 示例：将3个客户放在名为\"2005 Summer Promotion Group (II)\"的组中\n- 用户可以将此批发促销客户组用于特殊促销活动\n\n设置的折扣率将在执行发票流程时自动应用，可分配到每个客户级别。",
+      "source": "v6.5 Book-2 Section 5.8.3-5.8.4 Page 131-132",
+      "images": [],
+      "keywords": [
+        "批发促销",
+        "Wholesales Promotion",
+        "客户折扣",
+        "促销活动表",
+        "客户组"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-048"
+    },
+    {
+      "id": "faq-141",
+      "category": "Other Masters",
+      "subcategory": "Replenishment Schedule",
+      "question": "补货日程（Replenishment Schedule）如何设置？",
+      "answer": "补货日程（Replenishment Schedule）允许用户定义仓库应在每周的哪些天向店铺进行库存补货。一旦完成每个店铺的日程设置，系统将根据日程在仓库自动生成按店铺的补货拣货清单（Pick Lists）。\n\n设置步骤：\n1. 进入Replenishment Schedule功能，显示Location Index Screen\n2. 选择要设置补货日程的店铺\n3. 在Replenishment Detail Screen中，为所选店铺勾选需要补货的日子（星期几）\n4. 按F1确认输入的补货日程\n5. 按ESC退出\n\n设置完成后，系统将在指定的日子自动生成该店铺的补货拣货清单。",
+      "source": "v6.5 Book-2 Section 5.3.5 Page 39-40",
+      "images": [],
+      "keywords": [
+        "补货日程",
+        "Replenishment Schedule",
+        "自动补货",
+        "拣货清单",
+        "库存补货"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-037"
+    },
+    {
+      "id": "faq-142",
+      "category": "System Process",
+      "subcategory": "Return To Supplier",
+      "question": "退货给供应商（Return To Supplier）流程如何操作？",
+      "answer": "退货给供应商（Return To Supplier）流程允许用户将商品退回给供应商，适用于错误发货或产品损坏等情况。\n\n工作流程：\n1. Batch Maintenance -> Stock Receive Input without PO（或Receive Confirmation）\n2. Batch Validation\n3. Generate RTS List（生成退货单）\n4. Generate RTS Note（生成退货通知）\n5. Batch Posting\n\n状态：Input -> Validated -> RTS List -> RTS Note\n\n头部信息：\n- 退货编号（Return No.）：X(08)\n- 退货日期（Return Date）：dd/mm/yyyy\n- 退货类型（Return Type）：Normal或Consignment\n- 供应商（Supplier）：X(08)\n- 供应商参考号（Supplier Ref.）：可选\n- 调货参考号（Transfer Ref.）：可选\n- 货币和汇率\n- 折扣（Discount）：百分比\n- 净退货金额公式：Total Amt * (1 - Discount/100) - Other Disc. + Other Charge\n\n商品明细：\n- 商品代码、单价、位置、数量\n- 颜色和尺寸输入\n- 系统会显示当前库存量（O/H）供参考",
+      "source": "v6.5 Book-3 Section 6.4.5 Page 86-93",
+      "images": [],
+      "keywords": [
+        "退货给供应商",
+        "Return To Supplier",
+        "RTS",
+        "供应商退货",
+        "退货处理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-057"
+    },
+    {
+      "id": "faq-143",
+      "category": "Other Masters",
+      "subcategory": "Return Voucher",
+      "question": "退货券（Return Voucher）如何维护？",
+      "answer": "退货券（Return Voucher）记录主要来自POS销售，当客户要求退货时生成。所有在店铺签发的退货券将保存在后台系统中，并在此维护模块中管理。\n\n维护字段：\n- 退货券编号（Return Voucher No.）：X(04)+X(08)，第一部分X(04)为签收店铺代码，第二部分X(08)为券号\n- 签收日期（Issue Date）：dd/mm/yyyy，必填字段\n- 金额（Amount）：9(07).99，必填字段\n- 购买小票编号（Purchase Memo No.）：可选字段\n- 状态（Status）：三种状态选择：\n  - Outstanding（未兑换）\n  - Redeem by Sales（通过销售兑换）\n  - Redeem by Deposit（通过存款兑换）\n- 兑换日期（Redemption Date）：可选字段，退货券被兑换的日期\n- 兑换小票编号（Memo No.）：如果Redemption Date已输入则为必填\n- 最后修改日期/用户：系统显示\n\n退货券是有序列号控制的，并在POS使用时进行验证。",
+      "source": "v6.5 Book-2 Section 5.3.4 Page 37-38",
+      "images": [],
+      "keywords": [
+        "退货券",
+        "Return Voucher",
+        "退货管理",
+        "退款券",
+        "POS退货"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-036"
+    },
+    {
+      "id": "faq-144",
+      "category": "Wholesales",
+      "subcategory": "Sales Order Processing",
+      "question": "批发模块的销售订单处理（Sales Order Processing）流程是什么？",
+      "answer": "批发和分销模块的销售订单处理流程如下：\n\n1. Sales Order Processing（销售订单处理）：创建、修改和删除客户销售订单\n   - Header画面显示：库存发货位置、未结金额$、总净金额\n   - 销售订单阶段：\n     - \"Progress\"：该订单正在进行拣货活动\n     - \"New\"：新订单，自创建以来没有活动\n\n2. Stock Reservation Process（库存预留流程，可选）：\n   - 一旦激活，所有W&D模块的交易必须遵循预留流程\n   - Sales Order不能直接进入Pick List生成，除非预留成功\n   - 预留数量不能大于销售订单未结数量\n   - 只有库存足够时才能成功预留\n\n3. Reservation Check & Approval（预留检查与批准）：\n   - 允许另一组用户执行库存预留批准\n   - 批准后释放到下一步拣货阶段\n   - 状态：Input -> Appv. Req -> Rejected/Approved -> Picking\n\n4. Sales Invoice Pick List Generation（销售发票拣货单生成）：\n   - 从已批准的预留订单生成拣货单\n\n5. Stock Picking and Invoicing（拣货和发票处理）：\n   - 状态：Input -> Validate -> Pick Gen -> Pick Amd -> Pick Prt -> Inv. Gen\n   - 最终步骤：Posting过账，之后交易记录将从此屏幕消失",
+      "source": "v6.5 Book-3 Section 6.9 Page 117-124",
+      "images": [],
+      "keywords": [
+        "批发流程",
+        "销售订单",
+        "Stock Reservation",
+        "拣货单",
+        "发票处理",
+        "预留批准"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-049"
+    },
+    {
+      "id": "faq-145",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "什么是分析代码表（Analysis Code Table）？如何在系统中使用？",
+      "answer": "分析代码表（Analysis Code Table）是ChainStore 2000 v6.5中用户可自行定义的代码，用于产品查询或产品分析目的。该代码目前有3个层级：\n\n1. 产品线（Product Line）：根据产品的主要组别性质将不同产品分类到不同产品线。例如：服装业务、珠宝手表、玩具等。\n\n2. 分析标签（Analysis Label）：在产品线下定义不同有意义的分析标签。例如珠宝产品线可定义DSG（设计）、TYP（类型）、MAT（金属材质）、STN（石材类型）等分析标签。\n\n3. 详细分析代码（Analysis Code）：在每个分析标签下定义更精确的代码。例如在珠宝>类型下，可定义BRA（手链）、NKC（项链）、RNG（戒指）、WTH（手表）等。\n\n此外还有Member Line（会员线）和Customer Line（客户线）两个分析维度，用于将会员和客户分类进行进一步分析，如按年龄、性别、月薪等维度细分。\n\n该分析代码结构会在Item Master创建模块中使用，让用户能够根据自己的需求收集有意义的信息。",
+      "source": "v6.5 Book-1 Section 4.30 Page 96-104",
+      "images": [],
+      "keywords": [
+        "分析代码",
+        "Analysis Code",
+        "产品线",
+        "Product Line",
+        "分析标签",
+        "会员分析",
+        "客户分析"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-001"
+    },
+    {
+      "id": "faq-146",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "如何维护天气表（Weather Table）？它的用途是什么？",
+      "answer": "天气表（Weather Table Maintenance）允许用户定义不同的天气状况，用于POS日结时作为可选的输入信息。\n\n设置步骤：\n1. 进入Weather Table Maintenance功能\n2. 创建新的天气记录，输入天气代码\n3. 输入天气描述（如晴天、雨天、多云等）\n\n当POS日结（Day End）的输入选项启用时，这些天气状况将被捕获记录。此天气数据允许用户在后续阶段按需自行分析，例如分析天气对销售业绩的影响。",
+      "source": "v6.5 Book-1 Section 4.26 Page 90",
+      "images": [],
+      "keywords": [
+        "天气表",
+        "Weather Table",
+        "POS日结",
+        "天气状况",
+        "销售分析"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-002"
+    },
+    {
+      "id": "faq-147",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "什么是库位号表（Bin Number Table）？如何使用？",
+      "answer": "库位号表（Bin Number Table）允许用户定义/输入库存库位号（Stock Bin Number），作为仓库用户进行库存拣货时的参考依据。\n\n重要注意事项：\n- 这是一个参考数据字段，没有计算和更新功能\n- 建议与可选模块\"条码扫描手持终端\"（Bar Code Scanning Hand Held Terminal）配合使用\n- 库位号的使用有局限性，使用前请咨询系统支持顾问\n- 库位号是附加到SKU上的参考字段，方便仓库用户查找物品的存储库位\n- 该库位号可打印在拣货单（Pick List）上供用户参考\n\n设置时需要指定库位号对应的Location Code（位置代码）。",
+      "source": "v6.5 Book-1 Section 4.27 Page 91",
+      "images": [],
+      "keywords": [
+        "库位号",
+        "Bin Number",
+        "仓库管理",
+        "拣货",
+        "库存定位"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-003"
+    },
+    {
+      "id": "faq-148",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "如何维护职业代码表（Occupation Code）？",
+      "answer": "职业代码表（Occupation Code Table Maintenance）允许用户定义/输入职业记录，用于会员主文件维护（Member Master Maintenance）过程中的使用。\n\n设置字段：\n- 职业代码：2个字符的代码，用于表示职业类型\n- 职业描述：40个字符的自由文本输入，用于描述该职业的详细信息\n\n此表为会员管理提供更丰富的客户信息字段，有助于后续的客户分析和营销活动。",
+      "source": "v6.5 Book-1 Section 4.28 Page 92",
+      "images": [],
+      "keywords": [
+        "职业代码",
+        "Occupation Code",
+        "会员管理",
+        "客户信息"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-004"
+    },
+    {
+      "id": "faq-149",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "什么是位置树表（Location Tree Table）？如何设置公司组织架构？",
+      "answer": "位置树表（Location Tree Table）用于定义公司的基本地理结构层级。系统允许最多10层结构，用户可根据公司的运营结构自由定义。\n\n设置步骤：\n1. 定义位置树层级结构（Location Tree Layer Definition）：确定公司的运营层级数，例如区域、国家、地区等\n2. 在每层中定义具体内容：例如\"国家\"层可细分为加拿大、中国、美国等；\"地区\"层可细分为华南、华北、华东等\n3. 在Location Code Maintenance中为每个位置分配树结构位置，并设置转移权限\n\n转移权限设置包括：\n- Shop to Warehouse：店铺向仓库的调货权限层级\n- Shop to Shop：店铺间的调货权限范围（例如仅限广州市内）\n\n此结构设定后，相关操作流程将根据此结构自动执行。",
+      "source": "v6.5 Book-1 Section 4.29 Page 93-95",
+      "images": [],
+      "keywords": [
+        "位置树",
+        "Location Tree",
+        "组织架构",
+        "区域管理",
+        "调货权限"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-005"
+    },
+    {
+      "id": "faq-150",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "物料代码表（Material Code）的作用是什么？",
+      "answer": "物料代码表（Material Code Maintenance）用于以表格代码格式登记产品物料信息。\n\n设置字段：\n- 物料代码（Material Code）：X(03)，必填字段，唯一代码表示特定物料\n- 描述（Description）：X(40)，必填字段，对该物料的说明\n\n此表是一个可选表，在Item Master的Item Attribute（I）Folder中使用。定义了物料代码后，可以在创建商品时指定该商品的物料成分，便于后续按物料进行查询和分析。",
+      "source": "v6.5 Book-1 Section 4.31 Page 105-106",
+      "images": [],
+      "keywords": [
+        "物料代码",
+        "Material Code",
+        "商品属性",
+        "物料管理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-006"
+    },
+    {
+      "id": "faq-151",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "项目编号（Project Number）表的用途是什么？",
+      "answer": "在某些情况下，公司的业务运营是基于项目的。所有与某一项目相关的交易数据需要作为一个整体单位处理，以便用户可以单独进行分析。\n\n项目编号表的设置：\n- 项目编号（Project No.）：X(07)，必填字段，用于识别项目\n- 项目名称（Project Name）：X(40)，必填字段，项目名称或描述\n\n项目编号可用于：\n- Delivery Order Process交货单流程\n- 跟踪项目绩效和相关结果\n- 在项目中安装POS时的项目地点识别\n\n这适用于需要按项目维度管理和分析业务数据的用户。",
+      "source": "v6.5 Book-1 Section 4.32 Page 107",
+      "images": [],
+      "keywords": [
+        "项目编号",
+        "Project Number",
+        "项目管理",
+        "项目分析"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-007"
+    },
+    {
+      "id": "faq-152",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "部门代码（Department Code）如何设置？",
+      "answer": "部门代码用于决策支持报告中按部门控制中断进行有意义的分析。\n\n设置字段：\n- 部门代码（Department）：X(01)，必填字段\n- 描述（Description）：X(40)，可选字段，部门名称或描述\n\n设置后，系统能够在相关报表中按部门维度进行分析。注意：必须在Department Code Maintenance中创建部门代码后，再在Transaction Code Maintenance中更新对应部门的Status字段，否则相关报表的准确性可能出错。Status有两种选择：\n- S（Sales）：该部门的交易归类为货币销售状态\n- F（Non-Sales）：该部门的交易归类为非货币销售状态",
+      "source": "v6.5 Book-1 Section 4.33 Page 108-109",
+      "images": [],
+      "keywords": [
+        "部门代码",
+        "Department Code",
+        "部门管理",
+        "报表分析"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-008"
+    },
+    {
+      "id": "faq-153",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "库龄表（Aging Table）有什么作用？如何设置？",
+      "answer": "库龄表（Aging Table）允许用户维护一组库龄代码，用于表示库存的库龄（库存老化程度）。此库龄代码使用商品主文件创建日期作为参考基准进行计算。\n\n重要提示：此功能仅对特定业务有效，即商品主文件创建日期对库存库龄分析具有重要意义的业务。\n\n设置字段：\n- 起始日期（From Date）：可选字段，开始生效日期\n- 结束日期（To Date）：可选字段，结束生效日期\n- 库龄代码（Aging Code）：X(04)，必填字段\n\n用户可以定义不同的库龄区间（如0-30天、31-60天、61-90天等），系统根据商品创建日期自动将商品归类到对应的库龄段中。",
+      "source": "v6.5 Book-1 Section 4.35 Page 113-114",
+      "images": [],
+      "keywords": [
+        "库龄",
+        "Aging Table",
+        "库存老化",
+        "库存分析",
+        "库龄管理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-009"
+    },
+    {
+      "id": "faq-154",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "银行/备用金代码（Bank/Petty Cash Code）的设置方法是？",
+      "answer": "银行/备用金代码用于POS中的银行存款输入（Bank In Input）流程。\n\n设置字段：\n- 代码（Code）：X(03)，必填字段，用户定义的交易代码\n- 类型（Type）：X(01)，必填字段，交易类型\n- 描述（Description）：X(40)，必填字段，对该交易代码的描述\n- 账号（Account）：X(40)，必填字段，银行账号\n\n此表定义了POS端可使用的银行账户和备用金账户代码，用于日常收银和资金管理。",
+      "source": "v6.5 Book-1 Section 4.36 Page 115-116",
+      "images": [],
+      "keywords": [
+        "银行代码",
+        "备用金",
+        "Petty Cash",
+        "POS存款",
+        "资金管理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-010"
+    },
+    {
+      "id": "faq-155",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "礼品券类型（Gift Certificate Type）表如何设置？",
+      "answer": "礼品券类型表（Gift Certificate Type）用于创建不同面值（Face Value）的礼品券类型，这些面值将作为POS礼品券销售流程中的默认值。\n\n设置字段：\n- 礼品券类型代码：定义不同类型的礼品券（如A、B、C等）\n- 默认面值：例如类型A的默认面值为$100\n- 积分奖励设置：如果设置\"Bonus Points Earned\"为\"YES\"，则需要输入销售该类型礼品券时赠送的积分数量和对应的兑换组（Redemption Group）\n\n设置完成后，POS前端在销售礼品券时会自动引用此表中定义的默认值。",
+      "source": "v6.5 Book-1 Section 4.37 Page 117",
+      "images": [],
+      "keywords": [
+        "礼品券",
+        "Gift Certificate",
+        "礼品券类型",
+        "面值设置",
+        "积分奖励"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-011"
+    },
+    {
+      "id": "faq-156",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "目标销售表（Target Sales Table）I和II有什么区别？如何设置销售目标？",
+      "answer": "ChainStore 2000 v6.5提供两种目标销售表：\n\n目标销售表I（Target Sales Table Maintenance - I，MF3000）：\n- 每个目标期间只能有一个目标事件\n- 不允许销售目标日期重复或重叠\n- 可按销售金额$或销售数量设置目标\n- 可分配给特定员工、部门、店铺、城市、区域等（基于Location Tree Table）\n- 日期范围可按年、月或具体日期定义\n\n目标销售表II（Target Sales Table Maintenance - II，MX3000）：\n- 与表I的大部分定义和设置相同\n- 但允许在同一给定期间或日期范围内有多个销售目标\n- 允许日期重复或日期重叠，这在表I中是不允许的\n- 适用于用户想在同一个日期期间定义不同目标的情况（如在同期间同时存在销售目标和销售预算表）\n\n重要提示：这两个销售目标表仅供用户自行参考，系统没有与此目标表关联的标准分析报告或输出。用户需要使用第三方工具或Microsoft Reporting Services自行开发分析。",
+      "source": "v6.5 Book-1 Section 4.38-4.39 Page 118-120",
+      "images": [],
+      "keywords": [
+        "目标销售",
+        "Target Sales",
+        "销售目标",
+        "业绩考核",
+        "MF3000",
+        "MX3000"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-012"
+    },
+    {
+      "id": "faq-157",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "如何设置增值税率表（VAT Tax Rate）？",
+      "answer": "VAT税率表（VAT Tax Rate）用于按国家维护增值税信息。此数据将同步到POS前端，用于在销售小票处理中进行税款计算（如启用）。\n\n设置字段：\n- 参考编号（Ref No.）：该税率记录的参考代码\n- 生效日期（From Date / To Date）：该税率记录的有效期\n- 国家（Country）：该税率记录的国家，系统将根据国家表进行验证\n- VAT%：增值税百分比，POS前端在销售小票上自动使用此百分比进行增值税计算\n\n设置完成后，系统会自动将税率数据同步到各POS终端。",
+      "source": "v6.5 Book-1 Section 4.40 Page 121-122",
+      "images": [],
+      "keywords": [
+        "增值税",
+        "VAT",
+        "税率",
+        "税表",
+        "税务管理"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-013"
+    },
+    {
+      "id": "faq-158",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "税务代码表（Tax Code Table）和增值税率表有什么不同？如何使用？",
+      "answer": "税务代码表（Tax Code Table）与VAT税率表不同，它用于特定政府税种可能应用到产品（商品）级别的情况——例如酒税、汽车税、特定商品税等，但不在POS销售小票级别使用。\n\n使用方法：\n1. 在Tax Code Table中创建税码，可设置为税率%或确切金额$\n2. 在Item Master Maintenance的Attribute文件夹中将此税码附加到商品记录中\n3. 如果商品有特定的政府税率，系统会在商品主记录中关联该税码\n\n注意事项：\n- 此税款计算不会应用于POS销售小票计算\n- 附加在商品主文件上的税码允许用户在后台进行特定的税款计算，用于政府税务报告目的（仅必要时使用）\n- 此功能是v6.5新增的",
+      "source": "v6.5 Book-1 Section 4.41 Page 123-124",
+      "images": [],
+      "keywords": [
+        "税码",
+        "Tax Code",
+        "商品税",
+        "政府税务",
+        "税务报告"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-014"
+    },
+    {
+      "id": "faq-159",
+      "category": "Master Table Maintenance",
+      "subcategory": "Secondary Tables",
+      "question": "特殊商品描述（Special Item Description）表有什么用途？",
+      "answer": "特殊商品描述（Special Item Description）是一个基于文本的表，允许用户输入额外的长描述（每行40字节 x 20行 = 每个商品最多800字节），作为Item Master中常规商品描述的补充。\n\n功能特点：\n- 支持显示英文、BIG5中文或GB中文的商品描述\n- 用户可以选择语言，系统将描述输入保存到正确的语言文本框中\n- 作为选项，用户可以从基于文本的数据文件导入此特殊商品描述数据，而不是通过此流程逐条输入\n- 具体的文本数据文件格式请咨询实施支持顾问\n\n此功能特别适用于需要为商品提供更详细描述的场景，如电商或商品目录展示。",
+      "source": "v6.5 Book-1 Section 4.42 Page 125-126",
+      "images": [],
+      "keywords": [
+        "特殊描述",
+        "Special Item Description",
+        "商品描述",
+        "多语言",
+        "长文本"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-015"
+    },
+    {
+      "id": "faq-160",
+      "category": "Consignment Stock",
+      "subcategory": "Settlement Process",
+      "question": "寄售库存结算流程（Consignment Stock Settlement Process）是什么？",
+      "answer": "寄售库存结算流程（Consignment Stock Settlement Process）是基于Web的可选模块，专为库存寄售业务设计——即供应商的特定库存款项在寄售商品售出后才结算。\n\n核心概念：\n- 系统将在Item Master中单独保存每个寄售商品的\"结算成本\"，用于后续的供应商结算\n- 系统中还考虑了不同促销期和促销方案对应的结算折扣\n- 用户可选择性地对指定供应商进行寄售结算\n- 在最终结算流程之前，先提供试算结算报告和例外报告\n\n工作流程：\n1. Trial Settlement Initialization（试算初始化）：每次试算的第一步，清除上次试算的历史记录\n2. Trial Settlement Report Generation（试算报告生成）：输入试算月份（up to mm/yyyy），系统选取所有非零、未结算的商品交易\n3. Select/Unselect Suppliers（选择/取消选择供应商）：用户选择要进行最终结算的供应商\n4. Re-Run Trial Report（重新运行试算报告，可选）：如有疑问可重新验证\n5. Process Final Settlement（执行最终结算）：生成最终结算报告\n\n关键特点：\n- 最终结算流程独立于系统的Month End流程\n- 试算报告和重新运行次数没有限制\n- 提供三种报告：Trial Report、Exception Report、Final Report",
+      "source": "v6.5 Book-3 Section 6.11 Page 129-139",
+      "images": [],
+      "keywords": [
+        "寄售库存",
+        "Consignment",
+        "库存结算",
+        "供应商结算",
+        "试算报告",
+        "例外报告"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-050"
+    },
+    {
+      "id": "faq-161",
+      "category": "Price Promotion",
+      "subcategory": "Special Discount Code",
+      "question": "如何设置和使用特殊折扣代码（Special Discount Code）？",
+      "answer": "特殊折扣代码维护（Special Discount Code Maintenance）是Price Promotion的一部分，用于创建和管理特殊折扣代码。\n\n设置字段：\n- 代码（Code）：X(03)，必填字段，用户定义的特殊折扣代码\n- 描述（Description）：对折扣代码的说明\n- 生效日期（From Date/To Date）：折扣的有效期\n- 折扣率或折扣金额：定义折扣的具体数值\n\n此折扣代码将在On-Sales Promotion流程中使用。系统会在POS销售过程中自动将此促销折扣代码记录到按商品的销售历史日志中，供用户将来分析使用（如果设置了的话）。\n\n系统支持多种折扣类型和促销方式的组合配置。",
+      "source": "v6.5 Book-2 Section 5.5.1 Page 54",
+      "images": [],
+      "keywords": [
+        "折扣代码",
+        "Special Discount",
+        "促销",
+        "折扣管理",
+        "Price Promotion"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-025"
+    },
+    {
+      "id": "faq-162",
+      "category": "Other Masters",
+      "subcategory": "Special Search Keys",
+      "question": "特殊搜索键（Special Search Keys）包括哪些？如何使用？",
+      "answer": "特殊搜索键允许用户通过型号（Model Number）或保修号（Guarantee Number）查询商品信息。\n\n1. 型号编号（Model Number）：\n   - 适合销售带有型号的手表、珠宝或类似产品的零售商\n   - 在Item Inquiry功能中提供型号搜索\n   - 输入字段：商品代码（X14）、描述（X40）、型号（X30）\n\n2. 保修号（Guarantee Number）：\n   - 适合销售具有唯一序列号/保修号商品的零售商\n   - 在Item Inquiry功能中提供序列号搜索\n   - 输入字段：商品代码（X14）、描述（X40）、保修号（X30）\n\n功能键：\n- Copy Button：复制前一个号码\n- F1：确认记录\n- F5/F6：上一条/下一条记录\n- Shift+F5/Shift+F6：第一条/最后一条记录\n- ESC：退出返回\n\n这两个功能都是可选的，如果用户销售的产品带有型号或保修号时会非常有用。",
+      "source": "v6.5 Book-2 Section 5.3.1 Page 30-33",
+      "images": [],
+      "keywords": [
+        "特殊搜索",
+        "Model Number",
+        "Guarantee Number",
+        "型号查询",
+        "保修号查询",
+        "商品搜索"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-033"
+    },
+    {
+      "id": "faq-163",
+      "category": "Master Table Maintenance",
+      "subcategory": "Special Tables",
+      "question": "产品样式相关表（Product Style）包括哪些？如何使用？",
+      "answer": "产品样式相关表（Product Style）是可选的表组，主要用于描述产品的样式，可能被Item Master Table Maintenance需要。包括：\n\n1. 性别/性别代码维护（Sex/Gender Code Maintenance）—— 4.46.1\n   - 用于定义产品的性别类型\n   - 如果需要，可作为Item Master的可选项使用\n\n2. 系列代码维护（Collection Code Maintenance）—— 4.46.2\n   - 用于定义产品的特定\"系列\"（Collection）\n   - 如果需要，可作为Item Master的可选项使用\n\n3. 标签代码维护（Label Code Maintenance）—— 4.46.3\n   - 用于特殊产品标签描述，仅限特定用途\n   - 目前系统中没有实际操作流程\n\n这些表归类在\"特殊表\"文件夹下，大多数一般处理不需要，除非有特定目的。使用前请咨询业务顾问。",
+      "source": "v6.5 Book-1 Section 4.46 Page 139-141",
+      "images": [],
+      "keywords": [
+        "产品样式",
+        "性别代码",
+        "系列代码",
+        "标签代码",
+        "Product Style"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-019"
+    },
+    {
+      "id": "faq-164",
+      "category": "System Process",
+      "subcategory": "Stock Control",
+      "question": "物理盘点（Physical Count）流程的工作步骤和计算公式是什么？",
+      "answer": "物理盘点（Physical Count Process）的完整工作流程：\n\n前置条件：在进行盘点前，必须先处理系统中所有未完成的交易批次。\n\n操作步骤：\n\n1. Freeze On Hand Quantity（冻结库存量）：\n   - 这是盘点的第一个必须步骤\n   - 对盘点位置的库存当前数量进行快照（Snap-shot）\n   - 重要：在Stock Freeze和实物盘点完成之间，盘点位置不能有任何系统库存变动\n\n2. 实物盘点并输入系统\n\n3. Batch Validation & Stock Variance Report（批次验证和差异报告）\n\n4. Batch Posting（批次过账）\n\n计算公式：\n过账后的库存量 = Current_On_Hand + (Physical_Stock_Take_Qty - Freeze_On_Hand)\n\n其中：\n- Current_On_Hand：商品当前的库存数量\n- Physical_Stock_Take_Qty：实际盘点的数量\n- Freeze_On_Hand：冻结时的库存数量\n\n注意：\n- 如果库存中存在但在盘点记录中未找到的商品，在盘点过账后这些商品的库存量将被设置为零\n- 如果发现差异，系统会自动生成物理调整日志",
+      "source": "v6.5 Book-3 Section 6.4.2 Page 69-78",
+      "images": [],
+      "keywords": [
+        "物理盘点",
+        "Stock Take",
+        "Physical Count",
+        "库存冻结",
+        "盘点差异",
+        "盘点公式"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-054"
+    },
+    {
+      "id": "faq-165",
+      "category": "System Process",
+      "subcategory": "Stock Cost Adjustment",
+      "question": "库存成本调整（Stock Cost Adjustment）如何操作？",
+      "answer": "Stock Cost Adjustment流程允许用户对系统库存进行成本调整，有三种调整方式：\n\n1. 按新平均单位成本（New Average Cost）：输入新的平均成本，系统将以此成本作为新平均成本\n2. 按一次性总额（Adjust Amount - Lump Sum）：输入一笔总额，系统将按加权平均计算方式将此成本分摊到单位商品\n3. 按固定百分比（Flat %）：直接按百分比应用于单位商品\n\n重要注意事项：\n- 此成本调整不是一个在线计算流程，仅在Month End流程中才会计算到库存中\n- 日期回溯调整是允许的，但不能早于上一个月结束月份\n- 系统将从指定日期开始调整库存单位成本\n- 根据输入的日期，此成本调整可能涉及日期回溯的成本重新计算\n\n标准成本减记流程（Standard Cost Write Down Process）：\n- 此表用于保存库存减记比例%或精确的净库存值\n- 此表无计算功能/流程关联——仅供参考和非系统计算目的\n- 表中的值不会影响系统中的库存成本\n- 用户可自行开发报表，应用此减记值进行自己的分析\n- 适用于有季节性库存且过季库存折旧较大的客户（如服装零售商）\n- 示例：对2002年夏季和冬季所有库存每件$10的统一减记参考成本",
+      "source": "v6.5 Book-3 Section 6.5 Page 94-95",
+      "images": [],
+      "keywords": [
+        "成本调整",
+        "Cost Adjustment",
+        "平均成本",
+        "成本减记",
+        "Write Down",
+        "库存估值"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-053"
+    },
+    {
+      "id": "faq-166",
+      "category": "System Process",
+      "subcategory": "Stock Receive",
+      "question": "收货流程（Stock Receive）中关于费用的后期录入如何处理？",
+      "answer": "在实际业务中，经常有一些库存费用或成本在收货后甚至销售后才出现或得知。为此，系统开发了特殊的\"库存成本重新计算\"（Inventory Cost Recalculation）程序来处理这种后期成本插入情况。\n\n操作方式：\n- 系统能够按收货批次日期顺序接受后期库存费用，如保险费、运费、回扣、佣金等\n- 系统将在\"Month End流程\"中按日期顺序重新计算每个商品的加权平均成本\n- 无论商品在输入时是否已经售出，都会进行重新计算\n- 但费用日期当然不能早于收货批次的日期\n\n输入时需指定：\n- 费用代码（从费用代码表选择）\n- 收货批次信息\n- 费用金额\n\n重要提示：\n- 此成本调整/重新计算流程在Month End流程中根据系统日志文件自动执行\n- 一旦某个月的Month End流程完成，不允许对该月再进行更改或费用输入\n- 因此，某些成本信息或毛利分析在Month End流程前后可能会有所不同\n- 已成功完成Month End的月份的重新计算\"日志交易成本\"应视为最终值，在系统中保持不变",
+      "source": "v6.5 Book-3 Section 6.2.8 Page 38-39",
+      "images": [],
+      "keywords": [
+        "收货费用",
+        "后期成本",
+        "库存成本重新计算",
+        "Month End",
+        "运费",
+        "保险费"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-061"
+    },
+    {
+      "id": "faq-167",
+      "category": "System Process",
+      "subcategory": "Stock Replenishment",
+      "question": "库存补货（Stock Replenishment）流程如何工作？",
+      "answer": "库存补货流程基于每个店铺的销售、POS调货和补充请求，在\"销售与需求整合\"（Sales and Request Consolidation）流程完成后自动生成按商品导向的调货批次。\n\n工作流程：\n1. Request Batch Maintenance（请求批次维护）：创建/修改店铺的补货需求\n2. Request Batch Validation（请求批次验证）\n3. Sales and Request Consolidation（销售与需求整合）：执行销售和需求整合，自动为特定位置生成按商品的调货批次\n4. 生成Item Oriented Transfer Batch（商品导向调货批次）\n\n批次维护字段：\n- 参考编号（Ref. No.）：系统自动生成\n- 日期：需求日期\n- 位置代码：发出需求的店铺\n- 备注：可选\n- 商品编号、颜色、尺寸、数量\n- 最多每个记录200个商品，最多20页\n\n功能键：\n- F5/F6：上/下一页\n- Verify：验证输入\n- Insert/Delete：插入/删除商品\n- Copy Item：复制前一个商品代码\n- Copy Item & Col：复制前一个商品代码和颜色\n\n完成数据输入后，该批次即可进入\"销售/需求整合\"流程生成商品导向调货批次。",
+      "source": "v6.5 Book-3 Section 6.4.3 Page 79-83",
+      "images": [],
+      "keywords": [
+        "库存补货",
+        "Stock Replenishment",
+        "自动补货",
+        "需求整合",
+        "调货批次"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-055"
+    },
+    {
+      "id": "faq-168",
+      "category": "System Process",
+      "subcategory": "Stock Transfer",
+      "question": "库存调货（Stock Transfer）的位置导向和商品导向方式有什么区别？新版调货流程有什么优势？",
+      "answer": "v6.5提供两种调货方式，以及将两者合并的新版调货流程：\n\n1. Location Transfer（位置导向调货）—— Section 6.3.1：\n   - 一次将多个商品调到一个或多个位置\n   - 适用于从一个位置移除库存到另一个位置的场景\n   - 每个参考号最多500个序列\n   - 工作流程：Batch Maintenance -> Validation -> Generate Pick List -> Batch Amendment -> Print Amendment List -> Generate Labels & D/O -> Batch Posting\n\n2. Item Oriented Transfer（商品导向调货）—— Section 6.3.2：\n   - 一次将一个商品调到多个位置\n   - 适用于开季库存分配或仓库日常补货\n   - 每个参考号最多200个序列\n   - 显示仓库库存量、店铺库存量、销售量、请求量供参考\n\n3. 新版调货流程（The New Edition）—— Section 6.3.6：\n   - 从v6.4开始提供\n   - 将两种调货方式合并到一个数据批次文件中\n   - 提供两种不同的用户界面功能\n   - 主要优势：用户可以在一个数据批次中选择最适合当前操作的界面方式（商品导向或位置导向）\n   - 支持LINE模式和MATRIX模式显示\n   - LINE模式：显示调出位置库存（SOH）、调入位置库存、销售额等参考信息\n   - MATRIX模式：以矩阵形式显示一个商品的颜色和尺寸明细",
+      "source": "v6.5 Book-3 Section 6.3 Page 40-64",
+      "images": [],
+      "keywords": [
+        "库存调货",
+        "Stock Transfer",
+        "Location Transfer",
+        "Item Oriented Transfer",
+        "新版本调货"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-060"
+    },
+    {
+      "id": "faq-169",
+      "category": "Master Table Maintenance",
+      "subcategory": "Survey",
+      "question": "如何创建问卷调查表（Survey Form）？",
+      "answer": "问卷调查表维护（Survey Form Maintenance）允许用户创建带有自定义问卷的调查表，这些调查表将下载到POS前端在有效期内激活使用。\n\n设置步骤：\n\n1. 创建调查事件（Survey Form Table Maintenance）：\n   - 定义调查表的基本信息\n   - 如果同一时期有多个有效的调查表，POS前端将按照设定的输入顺序提示调查表\n\n2. 设计调查问卷（Survey Questionnaires）：\n   - 设计每个调查表的具体问题\n\n3. 定义调查答案代码（Survey Answer Code）：\n   - 为每个问题设计标准回答选项\n\n确认后，调查表将在有效期内下载到POS前端，顾客在POS交易时可以参与问卷调查。",
+      "source": "v6.5 Book-1 Section 4.45 Page 135-138",
+      "images": [],
+      "keywords": [
+        "问卷调查",
+        "Survey",
+        "客户调研",
+        "问卷设计",
+        "POS调查"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-018"
+    },
+    {
+      "id": "faq-170",
+      "category": "System Process",
+      "subcategory": "Vendor Invoice",
+      "question": "供应商发票验证（Vendor Invoice Verification）中的结算成本设置有什么作用？",
+      "answer": "供应商发票验证流程允许用户在确认发票前查看和修改结算成本。\n\n关键列说明：\n- PO#：采购单号\n- List Price：商品的标价\n- PO Cost：采购单成本\n- Inv Cost（蓝色预警）：供应商发票上的成本，如与PO成本不同则显示蓝色\n- Settle Cost（结算成本，红色预警）：这是用户输入字段，默认为PO成本。用户需要输入此字段以表明最终的单位结算成本。如果与PO成本不同则显示红色。\n  - 重要提示：此最终结算成本将在用户确认后用于Month End流程中的加权平均成本更新\n- Inv Qty（蓝色预警）：供应商发票数量，如与实际收货数量不同则显示蓝色\n- Recv Qty：实际收货数量\n- Settle Qty（结算数量，红色预警）：用户输入字段，默认为收货数量。用户输入最终确认的数量。如果与收货数量不同则显示红色。\n  - 最终结算数量将用于发票结算计算。系统会根据确认的发票数量自动生成相应的库存调整交易，以恢复早期阶段仓库收货的差异（如有）\n- Settle Amt：自动计算字段（结算成本x结算数量）\n- Unit：计量单位\n\n供应商发票确认流程（Vendor Invoice Confirmation Process）：\n- 此流程仅用于发票确认，不允许修改数据\n- 如需修改数据，用户需要返回到发票验证流程\n- 确认后，系统会将所有成本明细记录到收货成本日志中\n- 库存成本更新作业随后将在Month End流程中自动执行",
+      "source": "v6.5 Book-3 Section 6.2.6-6.2.7 Page 33-37",
+      "images": [],
+      "keywords": [
+        "供应商发票",
+        "发票验证",
+        "结算成本",
+        "成本确认",
+        "发票差异",
+        "加权平均成本"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-062"
+    },
+    {
+      "id": "faq-171",
+      "category": "Administration",
+      "subcategory": "Web Based Polling",
+      "question": "基于Web的POS轮询和过账状态控制（Web based POS Polling & Posting Status Control）是什么？",
+      "answer": "这是基于Web的在线查询功能，用于实时检查每个公司POS终端和后台服务器之间的数据同步状态。\n\nPOS轮询和过账状态查询（POS Polling & Posting Status Enquiry）：\n- 显示每个POS终端自上次更新以来未上传数据的时间间隔\n- 每个公司的第一个节点默认为\"Empty\"，从第二个节点起编号为#1、#2等\n- 用户可选择按店铺位置或全部位置查询轮询详情\n- 显示两个关键时间值：\n  1. 自上次\"成功\"轮询以来的时间\n     - 解释：如果POS轮询周期设置为每15分钟一次，那么0-46分钟（1-3个轮询周期）的时间视为正常\n  2. 自上次轮询以来的时间（无论成功与否）\n     - 大多数情况下两个时间应相同，除非上次数据轮询被验证为不完整/不成功的数据上传\n\nPOS\"轮询\"警报消息设置（POS \"Polling\" Alert Message Setting）：\n- 设置轮询任务不正常工作时的警报消息\n- 一旦设置，CS2000将基于\"警报列表\"以定义的时间间隔发送电子邮件\n- 可设置第二次提醒消息\n\nPOS\"过账\"警报消息设置（POS \"Posting\" Alert Message Setting）：\n- 设置后台POS过账任务不正常工作时的警报消息\n- 可设置首次警报和后续提醒消息的时间间隔",
+      "source": "v6.5 Book-4 Section 10.2 Page 37-39",
+      "images": [],
+      "keywords": [
+        "Web轮询",
+        "Web Posting",
+        "状态监控",
+        "警报设置",
+        "数据同步",
+        "实时监控"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-070"
+    },
+    {
+      "id": "faq-172",
+      "category": "Master Table Maintenance",
+      "subcategory": "Wholesales & Distribution",
+      "question": "批发与分销模块需要设置哪些相关表？",
+      "answer": "批发与分销模块（Wholesales & Distribution Module）是可选模块，需要设置以下相关表：\n\n1. 区域表（District）—— 4.43.1\n   - 用于识别批发客户的分区区域\n   - 不在零售运营中使用\n   - 包含Division Code（部门代码）和描述\n\n2. 客户类型（Customer Type）—— 4.43.2\n   - 用于分类批发客户类型\n   - 可在批发处理可选模块和用户自行开发的报表分析中使用\n\n3. 分销业务员（Distribution Salesman）—— 4.43.3\n   - 用于为批发客户定义业务员\n   - 仅批发处理可选模块需要此表\n\n这些表是批发模块的基础配置，必须先定义才能使用批发功能。",
+      "source": "v6.5 Book-1 Section 4.43 Page 127-129",
+      "images": [],
+      "keywords": [
+        "批发",
+        "分销",
+        "Wholesales",
+        "Distribution",
+        "客户类型",
+        "业务员",
+        "区域"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-016"
+    },
+    {
+      "id": "faq-173",
+      "category": "Administration",
+      "subcategory": "Year End",
+      "question": "销售分析年终结转（Sales Analysis Year End Process）和清除历史数据（Purge History）如何操作？",
+      "answer": "销售分析年终结转（Sales Analysis Year End Process）：\n- 此流程将更新当前年度的销售分析数据摘要到上一年度历史摘要中\n- 并开启新的财政年度摘要作为当前年度\n- 确保销售分析数据的年度连续性\n\n清除历史数据（Purge History）：\n- 此功能提供选项给用户从数据库中删除历史数据——仅在非常必要时使用\n- 系统设计对历史数据量没有限制，只要数据库引擎和磁盘存储容量允许\n\n重要提示：\n- 此清除历史流程将删除数据库中的历史记录/日志记录，且无法恢复\n- 用户务必在操作前充分理解此流程的真正含义\n- 强烈建议在操作前咨询系统支持顾问\n\n系统设计原则：\n- 系统尽量保留所有历史数据用于分析和审计\n- 清除操作是不可逆的，必须谨慎使用\n- 在大多数情况下，除非存储空间极度不足或数据保护法规要求，否则不建议执行清除",
+      "source": "v6.5 Book-4 Section 10.3.2-10.4 Page 42-43",
+      "images": [],
+      "keywords": [
+        "年结",
+        "Year End",
+        "销售分析",
+        "历史清除",
+        "Purge History",
+        "数据归档"
+      ],
+      "v65_only": true,
+      "_original_id": "faq-supp-069"
+    }
+  ]
+}

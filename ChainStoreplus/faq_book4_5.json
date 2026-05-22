@@ -1,0 +1,383 @@
+[
+  {
+    "category": "在线查询",
+    "subcategory": "按商品查询库存",
+    "question": "如何按商品查询库存？",
+    "answer": "进入商品索引画面（Item Index Screen），鼠标选择所需商品并双击弹出选择菜单。在菜单中选择\"Item Distribution Detail\"，系统将以矩阵形式显示该商品的库存分布详情。\n\n画面标签说明：\n- All Color：显示所有颜色的总库存数量，不按颜色细分。\n- Color：显示选定颜色的库存数量。\n- By Color & Location（默认矩阵显示）：颜色显示在标题行，仓库位置和尺码以矩阵形式展示。\n- By Location & Color：切换显示格式，仓库位置在标题行，颜色和尺码以矩阵形式展示。\n- Skip Zero Qty：隐藏库存为零的仓库位置。\n- Skip Size Zero Qty：隐藏库存为零的尺码。\n- Zoom：最多显示16个尺码的矩阵。\n- Location Layer：通过\"Location Layer\"可选表进行仓库位置过滤，基于\"Location Tree\"可选表中的定义将仓库分组显示。\n- Mode：以不同库存状态显示库存数量。\n\n结果画面显示以下标签：\n- Phy. O/H（Physical On-Hand）：实际记录的系统库存数量，包含在途库存数量。\n- O/H (Excl Tfx In)：在途库存数量（尚未被收货方确认的调拨库存数量）。\n- Out Transit：发出调拨库存数量（尚未被收货方确认收货的调出库存数量）。\n- Non Res.（Non-Reserved Qty，可选）：批发业务中尚未预留的销售订单数量。\n- Reserved（Reserved Qty，可选）：预留库存数量。店铺位置为未结\"订金\"数量，仓库位置为销售订单的实际预留数量。\n- O/H Avail（On-hand Qty Available for Sell）= 物理库存 - 预留数量。\n- On Order：该仓库位置的未结采购订单总数量。\n- Tot Avail（Total Available）= 可用库存 + 在订数量。",
+    "source": "v7 Book-4 Section 7.1 Page 5-10",
+    "images": [
+      "v7_Book-4_INQUIRY_p005_img00.jpeg",
+      "v7_Book-4_INQUIRY_p006_img00.jpeg",
+      "v7_Book-4_INQUIRY_p006_img01.jpeg",
+      "v7_Book-4_INQUIRY_p006_img02.jpeg",
+      "v7_Book-4_INQUIRY_p007_img00.jpeg",
+      "v7_Book-4_INQUIRY_p009_img00.jpeg",
+      "v7_Book-4_INQUIRY_p009_img01.jpeg",
+      "v7_Book-4_INQUIRY_p010_img00.jpeg",
+      "v7_Book-4_INQUIRY_p010_img01.jpeg"
+    ],
+    "keywords": ["库存查询", "按商品查询", "库存分布", "库存状态", "在途库存", "预留库存", "可用库存", "颜色尺码矩阵"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "按仓库位置查询库存",
+    "question": "如何按仓库位置查询库存？",
+    "answer": "进入仓库位置索引画面（Item Index Screen），系统将显示所有库存位置列表，包括店铺和仓库。选择一个位置后即可查看该位置的库存详情。\n\n查询结果提供两种库存数量查看模式：\n- 库存数量（不含在途库存）\n- 物理库存数量（包含待收货的在途库存）\n\n点击选定的仓库位置，将显示该位置的具体库存信息画面。",
+    "source": "v7 Book-4 Section 7.2 Page 11",
+    "images": [
+      "v7_Book-4_INQUIRY_p011_img00.jpeg",
+      "v7_Book-4_INQUIRY_p011_img01.jpeg"
+    ],
+    "keywords": ["库存查询", "按仓库查询", "按位置查询", "库存位置", "在途库存", "物理库存"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "POS在线销售与销售备忘录查询",
+    "question": "如何查询POS在线销售与销售备忘录？",
+    "answer": "此功能用于比较各店铺的销售业绩表现。\n\n在位置选择窗口（Location Selection Window）中，您可以选择四种比较范围：\n- 所有位置（All Location）\n- 特定位置（Particular Location）\n- 部门（Division）\n- 国家/地区（Country）\n\n在模式选择窗口（Mode Selection Window）中，您可以设置比较规则：\n\n1. Summary By（汇总方式）：\n   - Location（按位置）\n   - Division（按部门）\n   - Group（按组别）\n   - Country（按国家/地区）\n\n2. Mode（模式）：\n   - Total（总计）\n   - Sales（销售）\n   - Deposit（订金）\n   - Deposit Settlement（订金结算）\n   - Sales (Excl Dep Set)（销售，不含订金结算）\n   - Service（服务）\n   - Gift Cert.（礼品券）\n\n3. Type（类型）：\n   - All Location（所有位置）\n   - Own Shop（自有店铺）\n   - Web Store（网店）\n   - Franchise（加盟店）\n\n4. Day Range（日期范围）：\n   - Day（日）\n   - Period（期间）\n   - Week（周）\n   - Month（月）\n   - Year（年）\n\n5. Compare（比较基准）：\n   - Last Year Same Day（去年同日）\n   - Last Month Same Day（上月同日）\n   - Last Week Same Day（上周同日）\n   - Target（目标）\n   - User Define（用户自定义）",
+    "source": "v7 Book-4 Section 7.3 Page 12-13",
+    "images": [
+      "v7_Book-4_INQUIRY_p012_img00.jpeg"
+    ],
+    "keywords": ["POS销售", "销售备忘录", "店铺比较", "销售业绩", "销售对比", "订金结算", "礼品券"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "POS在线销售查询",
+    "question": "如何进行POS在线销售查询？",
+    "answer": "进入POS在线销售查询画面后，您可以查看两个不同时间段的销售数据比较。系统将以对比方式显示销售数据，帮助您分析销售趋势和业绩变化。\n\n画面上方显示两个不同时间段的销售数据对比，通过直观的对比视图来评估销售表现。",
+    "source": "v7 Book-4 Section 7.4 Page 14",
+    "images": [
+      "v7_Book-4_INQUIRY_p014_img00.jpeg"
+    ],
+    "keywords": ["POS销售查询", "销售对比", "在线销售", "销售分析", "时间段对比"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "按备忘录编号/仓库位置查询销售日记账",
+    "question": "如何按备忘录编号或仓库位置查询销售日记账？",
+    "answer": "此功能用于查询特定销售备忘录或仓库位置的销售数据。提供四种查询方式：\n\n1. 按销售备忘录编号查询（By Sales Memo No.）：以销售备忘录编号作为参考键进行查询。\n2. 按仓库位置与日期查询（By Location & Date）：以仓库位置和日期作为参考键进行查询。\n3. 按型号查询（By Model No.）：以商品型号进行查询。\n4. 按保修编号查询（By Guarantee No.）：以保修编号进行查询。\n\n操作步骤：\n1. 进入销售日记账查询索引画面（Sales Journal Enquiry Index Screen）。\n2. 选择所需的查询方式。\n3. 输入相应的查询条件。\n4. 系统将显示符合条件的结果列表。\n5. 点击选定记录可查看销售日记账详细信息画面（Sales Journal Detail Inquiry Screen）。",
+    "source": "v7 Book-4 Section 7.5 Page 15-16",
+    "images": [
+      "v7_Book-4_INQUIRY_p015_img00.jpeg",
+      "v7_Book-4_INQUIRY_p016_img00.jpeg"
+    ],
+    "keywords": ["销售日记账", "备忘录查询", "销售查询", "型号查询", "保修查询", "位置查询"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "采购订单查询",
+    "question": "如何查询采购订单？",
+    "answer": "此功能用于查询采购订单及其详细信息。\n\n进入采购订单日记账查询画面（Purchase Order Journal Enquiry）后，您可以查看：\n\n采购订单类型（PO Type）：\n- Normal PO（普通采购订单）\n- Blanket PO（总括采购订单）：向供应商批量订购并按用户需求安排分次交货。\n\nD/R Qty（交货申请数量）：\n- 仅用于总括采购订单（Blanket PO）\n- 表示交货申请单（Delivery Request）的数量\n- 只有提出交货申请时，供应商才会安排交货\n\n双击选定记录后，可查看采购订单详细画面（Purchase Order Detail Screen）：\n- 抬头信息区（Header Info）：显示采购订单的基本信息。\n- 其他与备注区（Others & Remarks）：显示附加信息。\n- 商品折扣在明细项目输入画面中按商品级别设置（需勾选）。\n- 发票折扣输入字段。\n- 若有效期已过，收货操作可能会被拒绝。\n\n还可查看商品信息管理画面（Item Information Management Screen）。",
+    "source": "v7 Book-4 Section 7.6 Page 17-19",
+    "images": [
+      "v7_Book-4_INQUIRY_p017_img00.jpeg",
+      "v7_Book-4_INQUIRY_p017_img03.jpeg",
+      "v7_Book-4_INQUIRY_p017_img04.jpeg",
+      "v7_Book-4_INQUIRY_p018_img00.jpeg",
+      "v7_Book-4_INQUIRY_p018_img01.jpeg",
+      "v7_Book-4_INQUIRY_p019_img00.jpeg"
+    ],
+    "keywords": ["采购订单查询", "采购订单", "普通采购", "总括采购", "交货申请", "供应商查询", "商品折扣"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "采购收货日记账查询",
+    "question": "如何查询采购收货日记账？",
+    "answer": "此功能用于查询采购收货记录及其详细信息。数据可从不同数据路径的独立数据文件夹中检索。\n\n进入采购收货查询索引画面（Purchase Receive Enquiry Index Screen）后，显示以下一般采购收货信息：\n- 采购收货编号（Purchase Receive Number）\n- 日期（Date）\n- 采购订单编号（Purchase Order Number）\n- 供应商代码（Supplier Code）\n- 供应商参考编号（Supplier Reference Number）\n- 采购收货金额（Purchase Receive Amount）\n- 使用币种（Currency）\n- 按数据文件夹排序显示\n\n操作步骤：\n1. 在索引列表中查找所需的采购收货记录。\n2. 双击选定的采购收货记录。\n3. 系统显示采购收货详细抬头画面（Purchase Receive Detail Header Screen）。\n4. 数据格式与采购收货处理画面相同，但所有数据字段均为受保护的只读状态。",
+    "source": "v7 Book-4 Section 7.7 Page 20",
+    "images": [
+      "v7_Book-4_INQUIRY_p020_img00.jpeg",
+      "v7_Book-4_INQUIRY_p020_img01.jpeg"
+    ],
+    "keywords": ["采购收货", "收货日记账", "采购查询", "供应商查询", "收货记录", "采购订单"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "调拨日记账查询",
+    "question": "如何查询调拨日记账？",
+    "answer": "此功能用于查询库存系统（Stock System）中执行的调拨处理相关信息。\n\n进入调拨日记账查询索引画面（Transfer Journal Enquiry Index Screen）：\n- 显示调拨索引的一般信息：\n  - 调拨参考编号（Transfer Reference Number）\n  - 调拨日期（Transfer Date）\n  - 调拨备注（Remarks）\n\n操作步骤：\n1. 在商品索引视图菜单中，点击选择所需项目。\n2. 在弹出的选择对话框中，点击\"Transfer Detail Enquiry\"（调拨详细信息查询）。\n3. 系统显示调拨日记账详细信息画面。\n\n调拨商品详细信息包括：\n- 调拨参考编号（Transfer Reference Number）\n- 调拨日期（Transfer Date）\n- 备注（Remarks）\n- 调拨商品编号（Item Number）\n- 商品颜色和尺码（如有）\n- 调出/调入仓库位置（Transfer From/To Location）\n- 调拨数量（Transfer Quantity）\n- 平均成本（Average Cost）\n- 总调拨成本（Total Transfer Cost）\n- 拣货单编号（Reference Number of Picking List）\n- 总调拨商品数量和该调拨参考的总成本\n\n注意：如果用户登录账户对这些字段没有启用访问权限，则不会显示平均成本、总调拨成本和调拨参考总成本。",
+    "source": "v7 Book-4 Section 7.8 Page 21-22",
+    "images": [
+      "v7_Book-4_INQUIRY_p021_img00.jpeg",
+      "v7_Book-4_INQUIRY_p022_img00.jpeg"
+    ],
+    "keywords": ["调拨日记账", "库存调拨", "商品调拨", "仓库调拨", "调拨成本", "拣货单"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "库存调拨收货查询",
+    "question": "如何查询库存调拨收货信息？",
+    "answer": "此查询画面的数据格式与库存调拨收货确认处理（Stock Transfer Receive Confirmation Process）相同，但所有字段均为受保护的只读状态。您可以在该画面中查看已确认的调拨收货信息，包括调拨商品明细、数量以及相关确认信息，但不能进行任何修改操作。",
+    "source": "v7 Book-4 Section 7.9 Page 23",
+    "images": [
+      "v7_Book-4_INQUIRY_p023_img00.jpeg",
+      "v7_Book-4_INQUIRY_p023_img01.jpeg"
+    ],
+    "keywords": ["调拨收货", "库存调拨", "收货确认", "调拨查询", "只读查询"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "物理出入库日记账查询",
+    "question": "如何查询物理出入库日记账？",
+    "answer": "此功能用于查询物理调整（Physical Adjustment）的一般信息和详细信息。\n\n进入物理出入库查询索引画面（Physical I/O Enquiry Index Screen）后，显示以下一般信息：\n- 物理出入库参考编号（Physical I/O Reference Number）\n- 物理出入库日期（Physical I/O Date）\n- 物理出入库仓库位置（Physical I/O Location）\n- 物理出入库数量（Physical I/O Quantity）\n- 物理出入库原因（Physical I/O Reason）\n- 备注（Remarks）\n\n操作步骤：\n1. 在物理出入库索引视图菜单中，双击选定的项目。\n2. 系统显示物理出入库商品详细信息画面（Physical I/O Item Detail Screen）。\n\n物理出入库商品详细信息包括：\n- 物理出入库参考编号、日期、备注\n- 商品编号、颜色、尺码、内缝长、位置代码\n- 调整数量\n- 平均成本\n- 总调整成本\n- 该出入库参考的总调整数量和总调整成本",
+    "source": "v7 Book-4 Section 7.10 Page 24-25",
+    "images": [
+      "v7_Book-4_INQUIRY_p024_img00.jpeg",
+      "v7_Book-4_INQUIRY_p025_img00.jpeg"
+    ],
+    "keywords": ["物理出入库", "库存调整", "物理调整", "出入库查询", "调整成本"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "物理盘点日记账查询",
+    "question": "如何查询物理盘点日记账？",
+    "answer": "此功能用于查询物理盘点的一般信息和详细信息。提供三种查询方式：\n\n1. 按参考编号查询（By Reference No.）：以参考编号作为查询键。\n2. 按日期查询（By Date）：以日期作为查询键。\n3. 按盘点表编号查询（By Count Sheet No.）：以物理盘点表编号作为查询键。\n\n进入物理盘点查询索引画面（Physical Count Enquiry Index Screen）后，选择查询方式并输入条件。\n\n双击选定记录后，进入物理盘点商品详细信息画面（Physical Count Item Detail Screen），显示：\n- 物理盘点参考编号（Physical Count Reference Number）\n- 物理盘点日期（Physical Count Date）\n- 备注（Remarks）\n- 商品信息表格，包含：\n  - 商品编号（Item Number）\n  - 颜色（Color）\n  - 尺码（Size）\n  - 内缝长（Inseam）\n  - 仓库位置（Location）\n  - 物理盘点数量（Physical Count Quantity）\n  - 物理盘点表编号（Physical Count Sheet Number）\n  - 执行盘点操作的用户ID（User ID）",
+    "source": "v7 Book-4 Section 7.11 Page 26-27",
+    "images": [
+      "v7_Book-4_INQUIRY_p026_img00.jpeg",
+      "v7_Book-4_INQUIRY_p027_img00.jpeg"
+    ],
+    "keywords": ["物理盘点", "盘点日记账", "库存盘点", "盘点表", "盘点查询"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "交货单日记账查询",
+    "question": "如何查询交货单日记账？",
+    "answer": "此功能用于查询交货单（Delivery Order）及其详细信息。提供以下查询方式：\n- 按参考编号查询（Reference No.）\n- 按日期查询（Date）\n- 按项目编号查询（Project No.）\n\n进入交货单日记账查询画面（Delivery Order Journal Enquiry）后，显示一般索引信息：\n- 参考编号（Reference Number）\n- 交货单日期（Delivery Order Date）\n- 客户代码/名称（Customer Code/Name，取决于系统设定）\n- 交易代码（Transaction Code）\n- 项目编号（Project Number）\n- 总交货金额（Total Delivery Value Amount）\n\n双击选定记录后，进入交货单详细信息画面（Delivery Order Detail Screen），显示：\n- 拣货单参考编号（Pick List Reference Number）\n- 部门代码（Department Code）\n- 拣货单参考日期（Pick List Reference Date）\n- 客户名称（Customer Name）\n- 交货单日期、备注、项目编号\n- 币种（Currency）\n- 汇率（Exchange Rate）\n- 折扣（Discount）\n- 总金额（Total Amount）\n- 其他折扣（Other Discount）\n- 其他费用（Other Charge）\n- 净总金额（Net Total Amount）\n\n商品信息管理画面（Item Information Management Screen）显示：\n- 拣货参考编号、序号、商品代码、单价、位置代码、数量、单位\n- 总价和总数量、总金额、交易代码",
+    "source": "v7 Book-4 Section 7.12 Page 28-29",
+    "images": [
+      "v7_Book-4_INQUIRY_p028_img00.jpeg",
+      "v7_Book-4_INQUIRY_p029_img00.jpeg",
+      "v7_Book-4_INQUIRY_p029_img01.jpeg"
+    ],
+    "keywords": ["交货单", "交货单日记账", "客户交货", "拣货单", "项目查询", "交货金额"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "退货给供应商日记账查询",
+    "question": "如何查询退货给供应商日记账？",
+    "answer": "此功能用于查询退还给供应商的记录信息。进入退货供应商日记账索引画面（Return Supplier Journal Index Screen）后，系统将显示退货记录列表，您可以查看退货相关信息，包括退货编号、退货日期、供应商信息、退货商品及数量等。",
+    "source": "v7 Book-4 Section 7.13 Page 30",
+    "images": [
+      "v7_Book-4_INQUIRY_p030_img00.jpeg"
+    ],
+    "keywords": ["退货供应商", "退货日记账", "供应商退货", "退货查询"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "交货单收货（入库）日记账查询",
+    "question": "如何查询交货单收货（入库）日记账？",
+    "answer": "此功能用于查询交货单收货（即库存入库）的记录信息。进入查询画面后，您可以查看已收货的交货单记录，包括入库参考编号、收货日期、供应商信息、入库商品及数量等详细信息。",
+    "source": "v7 Book-4 Section 7.14 Page 31",
+    "images": [
+      "v7_Book-4_INQUIRY_p031_img00.jpeg"
+    ],
+    "keywords": ["交货单收货", "入库日记账", "库存入库", "收货查询", "交货单查询"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "订金日记账查询",
+    "question": "如何查询订金日记账？",
+    "answer": "此功能用于查询订金记录信息。提供以下查询方式：\n1. 按订金编号查询（By Deposit No.）\n2. 按日期查询（By Date）\n3. 按客户名称查询（By Customer Name）\n4. 按电话号码查询（By Phone No.）\n\n进入订金日记账索引画面（Deposit Journal Index Screen）后，显示的索引信息包括：\n- 订金编号（Deposit No.）\n- 日期（Date）\n- 客户名称（Customer Name）\n- 电话号码（Phone No.）\n- 订金金额（Deposit Amount）\n- 状态（Status）",
+    "source": "v7 Book-4 Section 7.15 Page 32",
+    "images": [
+      "v7_Book-4_INQUIRY_p032_img00.jpeg"
+    ],
+    "keywords": ["订金日记账", "订金查询", "客户订金", "订金金额", "订金状态"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "会员活动明细查询",
+    "question": "如何查询会员活动明细？",
+    "answer": "此功能使用户能够查看每位会员客户的销售明细，可深入到最详细级别。\n\n操作步骤：\n1. 进入会员活动明细查询画面（Member Activities Details Screen）。\n2. 鼠标选择所需会员并点击，系统将显示选择菜单供用户进一步操作。\n3. 从弹出显示菜单中选择\"ALL\"（全部），即可查看该选定会员的全部活动记录。\n\n通过该功能，您可以追踪每位会员的所有交易活动，包括购买记录、服务记录等，有助于分析会员消费行为和偏好。",
+    "source": "v7 Book-4 Section 7.16 Page 33-34",
+    "images": [
+      "v7_Book-4_INQUIRY_p033_img00.jpeg",
+      "v7_Book-4_INQUIRY_p034_img00.jpeg"
+    ],
+    "keywords": ["会员活动", "会员明细", "会员查询", "会员销售", "客户分析", "会员交易"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "销售人员会员编号查询",
+    "question": "如何按会员查询销售备忘录？",
+    "answer": "此功能是会员视角的销售备忘录查询（Member Sales Memo Journal Inquiry），按会员过滤并以销售备忘录编号排序显示。\n\n操作步骤：\n1. 进入会员销售备忘录查询画面。\n2. 系统按会员过滤并以销售备忘录编号排序显示。\n3. 您可以查看特定会员的所有销售备忘录记录。",
+    "source": "v7 Book-4 Section 7.17 Page 35",
+    "images": [
+      "v7_Book-4_INQUIRY_p035_img00.jpeg",
+      "v7_Book-4_INQUIRY_p035_img01.jpeg",
+      "v7_Book-4_INQUIRY_p035_img02.jpeg"
+    ],
+    "keywords": ["会员销售备忘录", "会员查询", "销售备忘录", "会员编号", "会员销售记录"]
+  },
+  {
+    "category": "在线查询",
+    "subcategory": "会员销售额汇总查询",
+    "question": "如何查询会员销售额汇总？",
+    "answer": "此功能用于查看会员的销售数据汇总信息（Member Sales Figures Summary）。\n\n进入会员销售信息画面（Member Sales Information Screen）后，显示以下一般信息：\n- 姓名（Name）\n- 类型（Type）\n- 折扣（Discount）\n- 身份证号（ID No.）\n- 状态（Status）\n- 限额（Limit）\n- 月份（Month）\n- 去年总销售额（Last Year Gross Sales）\n- 今年总销售额（Current Year Gross Sales）\n- 去年净销售额（Last Year Net Sales）\n- 今年净销售额（Current Year Net Sales）\n\n通过此功能可以对比会员的年度销售业绩变化，便于分析会员价值和消费趋势。",
+    "source": "v7 Book-4 Section 7.18 Page 36",
+    "images": [
+      "v7_Book-4_INQUIRY_p036_img00.jpeg",
+      "v7_Book-4_INQUIRY_p036_img01.jpeg",
+      "v7_Book-4_INQUIRY_p036_img02.jpeg"
+    ],
+    "keywords": ["会员销售额", "会员汇总", "会员分析", "销售汇总", "年度销售对比"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "POS/远程服务器轮询点维护",
+    "question": "如何设置和维护POS轮询点？",
+    "answer": "POS/远程服务器轮询点维护（POS/Remote Server Oriented Polling Point Maintenance）用于为数据接口设置每个远程店铺的轮询点。支持以下功能：\n1. 创建记录（Create Record）\n2. 修改记录（Modify Record）\n3. 删除记录（Delete Record）\n\n输入字段说明：\n- POS Location（POS位置）：必填字段（如选择POS选项）。输入POS的位置代码（最多8个字符）。\n- Till No.（收银机编号）：必填字段。输入POS的机器ID（1个字符）。\n- Remote Server（远程服务器）：必填字段（如选择远程服务器选项）。输入远程服务器名称（最多10个字符）。\n- FTP Login ID（FTP登录ID）：可选字段。输入POS的FTP服务器登录ID（最多256个字符）。\n- FTP Password（FTP密码）：可选字段。输入POS的FTP服务器登录密码（最多10个字符）。\n- ZLOG File Format（ZLOG文件格式）：选择格式。Delimited表示制表符分隔，Fixed Width表示固定宽度。\n- Compress Zlog File（压缩ZLOG文件）：若Zlog文件大小超过特定大小，则进行压缩。\n\n信息显示字段：\n- Last Log Sent（最后发送的日志）：最后发送的日志文件名。\n- Last Log Queued（最后排队的日志）：最后排队的日志文件名。",
+    "source": "v7 Book-5 Section 8.1.1 Page 5-7",
+    "images": [
+      "v7_Book-5_ADMIN_p005_img00.jpeg",
+      "v7_Book-5_ADMIN_p006_img00.jpeg"
+    ],
+    "keywords": ["POS轮询点", "轮询点维护", "FTP设置", "POS连接", "远程服务器", "ZLOG文件"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "POS传输日志控制",
+    "question": "如何管理POS传输日志？",
+    "answer": "POS传输日志控制（POS Transmission Log Control）用于管理与POS之间的数据发送活动。ChainStore Plus后台系统会自动准备所有相关数据变更并发送到店铺POS。用户可以对传输活动进行额外控制：\n- 自动发送数据（默认设置）\n- 用户手动立即发送\n- 根据需要从特定日期重新发送数据\n\n画面显示以下字段：\n- Date：变更数据发送的日期\n- Time：变更数据发送的时间\n- User：创建日志文件的用户\n- Send/Receive：发送和接收标志\n- Type：发送类型（Manual=手动创建，Auto=自动创建）\n- Location：特定位置的日志文件\n- Filename：发送的日志文件名\n- Record Count：发送日志文件的记录数量\n\n\"Send Log\"（发送日志）按钮：\n点击此按钮将手动发送所有待发送的数据，从服务器立即发送至POS。系统会提示输入每个日志文件的记录数量，点击\"OK\"确认生成日志文件。\n\n\"Re-Send Log\"（重新发送日志）按钮：\n此功能允许用户从特定日期和位置开始，重新将下载数据从服务器发送至POS。需要输入：\n- Re-send Since：输入日期（dd/mm/yyyy格式），系统将从此日期开始重新发送数据\n- Log Seq：序列日志编号\n- From/To Loc：将数据发送到指定范围的位置",
+    "source": "v7 Book-5 Section 8.1.2 Page 8-10",
+    "images": [
+      "v7_Book-5_ADMIN_p008_img00.jpeg",
+      "v7_Book-5_ADMIN_p009_img00.jpeg",
+      "v7_Book-5_ADMIN_p010_img00.jpeg"
+    ],
+    "keywords": ["POS传输日志", "日志控制", "数据发送", "重新发送日志", "自动发送", "手动发送"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "POS数据轮询控制",
+    "question": "如何启动和停止POS数据轮询？",
+    "answer": "POS数据轮询控制（POS Data Polling Control）用于启动或关闭系统中\"数据发送/轮询\"任务。\n\n任务状态：\n- In Progress：后台轮询通信任务正在进行中。\n- Just Submitted：后台轮询通信任务刚提交。\n- To be Terminated：后台轮询通信任务正在终止中。\n- Terminated：后台轮询任务已终止。\n- IDLE：后台轮询任务空闲。\n\n\"Start Polling\"（启动轮询）功能：\n此轮询任务作为后台运行，每天由计划任务触发。执行后，任务自动持续检查各店铺FTP文件夹（根据\"POS/Remote Server Oriented Polling Point Maint.\"表中注册的轮询点），将POS上传的文件从FTP文件夹传输到POS数据文件夹以供过账处理。轮询任务正常运行时，会更新轮询状态和最后操作。\n\n\"Stop Polling\"（停止轮询）功能：\n允许用户关闭后台的轮询/发送通信任务。此关闭功能仅在通信任务正在进行时有效。一旦关闭，服务器与POS之间的数据交换将停止，直至下一次启动。点击\"Stop Polling\"按钮后，系统返回\"To be terminated\"状态，任务停止后当前任务状态变为\"Terminated\"。\n\n\"Reset\"（重置）功能：\n将状态更改为\"IDLE\"，任务准备就绪可重新启动。\n\n\"Refresh\"（刷新）功能：\n允许用户刷新查询画面，显示通信任务的最新状态。",
+    "source": "v7 Book-5 Section 8.1.3 Page 11-13",
+    "images": [
+      "v7_Book-5_ADMIN_p011_img00.jpeg",
+      "v7_Book-5_ADMIN_p012_img00.jpeg",
+      "v7_Book-5_ADMIN_p013_img00.jpeg"
+    ],
+    "keywords": ["POS轮询控制", "启动轮询", "停止轮询", "轮询状态", "后台任务", "FTP轮询"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "轮询历史记录查询",
+    "question": "如何查看POS轮询历史记录？",
+    "answer": "轮询历史记录查询（Polling History Inquiry）是一个全面的实时查询画面，用于检查各店铺POS的最新通信活动和状态。建议用户定期查看此查询，确保服务器与POS之间的数据通信正常。\n\n轮询历史索引画面显示以下字段：\n- Date（日期）：轮询日期。\n- Time（时间）：轮询时间。\n- Loc.（位置）：店铺/仓库位置代码。\n- Till（收银机编号）：POS的机器ID。\n- Sen/Rec（发送/接收）：发送(S)和接收(R)标志。\n- Type（类型）：轮询通道。\n- File Size（文件大小）：数据文件的文件大小。\n- File Name（文件名）：数据文件的文件名。\n- Completed Date（完成日期）：处理完成的日期。\n- Completed Time（完成时间）：处理完成的时间。\n- Error Message（错误消息）：'E'表示该文件处理出错，空白表示正常无错误。\n\n双击索引画面中的选定项目后，将显示轮询历史详细信息画面（Polling History Detail Screen），其中显示了该特定轮询过程的详细信息页面，主要用于跟踪正在处理的文件以及任务是否完成。",
+    "source": "v7 Book-5 Section 8.1.4 Page 14-15",
+    "images": [
+      "v7_Book-5_ADMIN_p014_img00.jpeg",
+      "v7_Book-5_ADMIN_p015_img00.jpeg"
+    ],
+    "keywords": ["轮询历史", "通信历史", "POS通信", "轮询记录", "错误查询", "文件传输记录"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "POS传输日志更新查询",
+    "question": "如何查询POS传输日志更新状态？",
+    "answer": "POS传输日志更新查询（POS Transmission Log Update Inquiry）用于查询后台系统发送的POS数据更新状态。当POS收到来自后台的数据更新文件后，POS将在数据更新后发回更新状态消息至后台服务器。该返回消息将指示POS更新是否成功或发生错误。\n\n进入查询画面后，您可以查看每个POS的更新状态记录，包括成功更新和失败的记录。",
+    "source": "v7 Book-5 Section 8.1.5 Page 16",
+    "images": [
+      "v7_Book-5_ADMIN_p016_img00.jpeg"
+    ],
+    "keywords": ["传输日志更新", "更新状态查询", "POS更新", "数据更新状态", "更新成功", "更新错误"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "POS传输日志更新错误查询",
+    "question": "如何查询POS传输日志更新错误？",
+    "answer": "POS传输日志更新错误查询（POS Transmission Log Update Error Inquiry）用于查询后台系统发送的POS数据更新错误状态。错误消息为用户提供有关POS更新错误的简要信息，后台用户可以根据这些信息采取适当的数据恢复措施。\n\n错误查询画面显示：\n- 错误信息摘要\n- 相关的错误详情\n\n系统管理员可根据错误消息判断问题原因，并决定是否需要进一步的数据恢复操作。",
+    "source": "v7 Book-5 Section 8.1.6 Page 17",
+    "images": [
+      "v7_Book-5_ADMIN_p017_img00.jpeg"
+    ],
+    "keywords": ["传输更新错误", "错误查询", "POS错误", "数据恢复", "更新失败"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "数据导出到POS",
+    "question": "如何将主数据导出到POS？",
+    "answer": "数据导出到POS（Data Export to POS）功能允许用户从后台服务器发送最新的完整主文件副本到POS。这是一个由用户按需启动的手动过程，适用于以下情况：\n- 怀疑POS中文件完整性有问题时\n- 需要从头重建POS应用程序和数据时\n\n操作步骤：\n1. 进入数据导出到POS画面。\n2. 选择复选框，勾选需要导出到POS主数据更新文件的资料。\n3. 设置筛选条件：\n   - Brand Code（品牌代码）：可选，仅导出该品牌商品主数据到文件（最多10个字符）。\n   - No. of record per file（每文件记录数）：整数，设置导出到文件的最大记录数。\n4. 确认导出操作。\n\n系统将生成POS主数据更新文件，供POS系统使用。",
+    "source": "v7 Book-5 Section 8.2 Page 18-19",
+    "images": [
+      "v7_Book-5_ADMIN_p018_img00.jpeg",
+      "v7_Book-5_ADMIN_p018_img01.jpeg"
+    ],
+    "keywords": ["数据导出POS", "主数据导出", "POS数据更新", "品牌筛选", "手动导出"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "CS2000接口更新日志查询",
+    "question": "如何查询CS2000接口更新日志？",
+    "answer": "CS2000接口更新日志查询（Interface Update Log Inquiry）是专门为ChainStore Plus与第三方软件应用程序之间进行数据交换的接口模块。通过此查询画面，用户可以获取数据接口更新过程的详细更新日志历史记录。\n\n查询画面将显示接口更新的历史记录，包括更新时间、更新类型、处理状态等信息，便于用户追踪数据接口的运行情况。",
+    "source": "v7 Book-5 Section 8.3.1 Page 21",
+    "images": [
+      "v7_Book-5_ADMIN_p021_img00.jpeg"
+    ],
+    "keywords": ["CS2000接口", "接口更新日志", "数据交换", "第三方接口", "更新历史"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "CS2000接口过账错误查询",
+    "question": "如何查询CS2000接口过账错误？",
+    "answer": "CS2000接口过账错误查询（Interface Posting Error Enquiry）提供接口更新错误信息的查询画面。如果更新过程中发生错误，将显示错误的简要描述供用户参考。如果发现更新过程中的错误，可能需要用户进行数据恢复操作。\n\n查询画面显示：\n- 错误发生的时间\n- 错误简要描述\n- 相关的错误信息\n\n用户可根据错误信息判断问题原因，并采取相应的数据恢复措施。",
+    "source": "v7 Book-5 Section 8.3.2 Page 22",
+    "images": [
+      "v7_Book-5_ADMIN_p022_img00.jpeg"
+    ],
+    "keywords": ["CS2000错误", "接口过账错误", "数据交换错误", "错误查询", "数据恢复"]
+  },
+  {
+    "category": "数据接口",
+    "subcategory": "CS2000出站接口日志查询",
+    "question": "如何查询CS2000出站接口日志？",
+    "answer": "CS2000出站接口日志查询（Outbound Interface Log Enquiry）用于查询出站接口更新日志历史记录。通过此查询画面，用户可以获取出站数据接口更新过程的详细更新日志历史，便于监控从ChainStore Plus向第三方系统导出的数据处理情况。\n\n查询画面显示：\n- 出站接口更新的历史记录\n- 每次更新的处理状态\n- 相关的时间戳和标识信息",
+    "source": "v7 Book-5 Section 8.3.3 Page 23",
+    "images": [
+      "v7_Book-5_ADMIN_p023_img00.jpeg"
+    ],
+    "keywords": ["CS2000出站接口", "出站日志", "数据导出日志", "接口日志查询", "第三方系统导出"]
+  },
+  {
+    "category": "系统管理",
+    "subcategory": "POS数据过账控制",
+    "question": "如何控制POS数据过账过程？",
+    "answer": "POS数据过账控制（POS Data Posting Control）用于管理从POS终端轮询回服务器的数据更新过程。所有POS活动数据会实时传回后台服务器，需要及时更新到服务器数据库以提供及时的信息服务。\n\n当前任务状态（Current Task Status）：\n- In Progress：过账任务正在进行中。\n- Just Submitted：过账任务刚提交。\n- To be Terminated：过账任务正在终止中。\n- Terminated：过账任务已终止。\n- IDLE：过账任务空闲。\n\n\"Start POSTING\"（开始过账）功能：\n此过账任务在后台运行，每天由计划任务触发。任务执行后自动将POS上传的数据更新到相应文件，实现实时数据更新。过账任务正常运行时，状态显示为\"IN PROGRESS\"，任务将持续运行直到被计划任务或手动触发停止。\n\n\"STOP POSTING\"（停止过账）功能：\n允许用户停止后台的数据更新过账任务。仅在过账任务正在进行时有效。一旦停止，POS数据将不再过账，直到下次启动。\n\n\"Reset\"（重置）功能：\n将状态更改为\"IDLE\"，任务准备就绪可重新启动。\n\n\"Modify Repl. Time\"（修改补货时间）功能：\n允许用户更改库存补货计划时间。\n\n\"Refresh\"（刷新）功能：\n刷新查询画面以显示过账任务的最新状态。\n\n\"DISABLE/ENABLE POSTING\"（禁用/启用过账）功能：\n允许用户禁用或启用数据更新的过账过程。此模式下过账任务仍在后台运行，但会暂停数据更新，直到用户再次点击启用过账。",
+    "source": "v7 Book-5 Section 9.1.1 Page 25-26",
+    "images": [
+      "v7_Book-5_ADMIN_p025_img00.jpeg",
+      "v7_Book-5_ADMIN_p026_img00.jpeg"
+    ],
+    "keywords": ["POS数据过账", "过账控制", "数据更新", "后台任务", "过账状态", "启用过账", "禁用过账"]
+  },
+  {
+    "category": "系统管理",
+    "subcategory": "过账错误历史日志查询",
+    "question": "如何查询POS数据过账错误历史日志？",
+    "answer": "过账错误历史日志（Posting Error History Log）用于查询POS数据实时发回后台过程中的过账错误记录。如果一切正常，此查询框应为空，表示POS数据过账过程中未发现错误。\n\n可能出现错误的原因包括：\n- 某些参考表或记录在系统中缺失\n- 收到损坏的记录等\n- 某些显示的错误消息可能不是真正的错误，而是提醒用户更新过程中发生了异常情况\n\n系统管理员需要判断这些消息是真正的错误及其原因，以及是否需要后续处理。\n\n建议系统管理员至少每天检查一次此查询，或根据实际运营频率检查，确保轮询回的数据正确更新且无错误。\n\n查询画面显示字段：\n- Date（日期）：过账错误日期。\n- Time（时间）：过账错误时间。\n- Location（位置）：发生错误的仓库位置。\n- Filename（文件名）：错误记录的文件名。\n- Type（类型）：错误记录类型。\n- Ref. No.（参考编号）：记录的错误参考编号（如有）。\n- Error Code（错误代码）：错误参考代码（如有）。\n- Error Message（错误消息）：错误消息详情。",
+    "source": "v7 Book-5 Section 9.1.2 Page 27",
+    "images": [
+      "v7_Book-5_ADMIN_p027_img00.jpeg"
+    ],
+    "keywords": ["过账错误", "错误日志", "POS过账错误", "数据更新错误", "系统管理", "错误监控"]
+  },
+  {
+    "category": "系统管理",
+    "subcategory": "POS日结查询",
+    "question": "如何查询POS日结记录？",
+    "answer": "POS日结查询（POS Day End Inquiry）用于记录各店铺的日结活动。POS日结是每日营业结束时由店铺POS人员执行的日常操作，用于结束当前营业日并准备下一个营业日。对于后台管理员来说，确保所有店铺按时正确完成此操作非常重要。\n\n店铺完成日结后会自动向后台发送日结消息。如果没有收到某店铺的日结消息，可能意味着该店铺未完成日结流程，建议进一步调查。\n\n查询画面显示字段：\n- Date（日期）：日结日期。\n- Time（时间）：日结时间。\n- Location（位置）：日结店铺位置。\n- Till（收银机编号）：POS的机器ID。\n- Cashier（收银员）：收银员员工代码。\n- Shift#（班次）：当班收银员员工代码。\n- Sales（销售）：销售交易数量。\n- Tfx（调拨）：库存调拨交易数量。\n- Dep（订金）：订金交易数量。\n- Serv（服务）：服务交易数量。\n- Gift（礼品券）：礼品券交易数量。\n- Gaway（赠品）：赠品交易数量。\n- Redm（礼品兑换）：礼品兑换数量。\n- Misc. Amount（杂项金额）：杂项收入金额。\n- Total Amount（总金额）：总收入金额。\n- Check（日结检查标志）：Y = 日结已验证，空白 = 日结未验证。\n\n双击高亮行可查看日结交易明细：\n- 点击\"Payment\"（付款）按钮查看付款详情，显示当日收到的付款方式。\n- 点击\"Count\"（计数）标签查看当日交易数量。\n- 点击\"Amount\"（金额）标签查看当日交易金额。\n- 点击\"Other\"（其他）标签查看哪些交易有错误。",
+    "source": "v7 Book-5 Section 9.1.3 Page 28-32",
+    "images": [
+      "v7_Book-5_ADMIN_p028_img00.jpeg",
+      "v7_Book-5_ADMIN_p030_img00.jpeg",
+      "v7_Book-5_ADMIN_p030_img01.jpeg",
+      "v7_Book-5_ADMIN_p031_img00.jpeg",
+      "v7_Book-5_ADMIN_p031_img01.jpeg",
+      "v7_Book-5_ADMIN_p032_img00.jpeg"
+    ],
+    "keywords": ["POS日结", "日终查询", "日结记录", "店铺日结", "收银对账", "交易汇总", "日结验证"]
+  }
+]
