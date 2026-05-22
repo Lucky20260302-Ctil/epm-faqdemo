@@ -1,0 +1,45 @@
+---
+project: BE
+issue_key: BE-785
+issue_type: Bug DEV
+status: Closed
+faq_score: 5.5
+faq_category: 03_Performance_Timeout
+faq_category_label: 效能與逾時
+tags: [faq, be, performance_timeout, backend-(web)]
+jira_url: "https://ctil.atlassian.net/browse/BE-785"
+created: 2023-08-02
+resolved: 2023-09-01
+resolution: Done
+has_images: True
+---
+
+# BE-785: Item master save failed
+
+> **類型:** Bug DEV | **狀態:** Closed
+> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
+> **解決日期:** 2023-09-01
+> **負責人:** Sherman tse
+> **組件:** Backend (Web)
+
+## 問題描述
+
+
+> 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/7553566b-3781-4f67-896f-5d2c4bcff231)（需 Jira 登入）
+
+> 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/30fbec9c-c96c-4cd9-ae84-b4e425c8c770)（需 Jira 登入）
+if you enter publication again, it will non-stop loading.
+
+> 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/5ed40210-d471-4ffc-bc17-961ee65c0d6f)（需 Jira 登入）
+
+
+## 附件截圖
+
+1. 📎 **image** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/7553566b-3781-4f67-896f-5d2c4bcff231)
+2. 📎 **image** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/30fbec9c-c96c-4cd9-ae84-b4e425c8c770)
+3. 📎 **image** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/5ed40210-d471-4ffc-bc17-961ee65c0d6f)
+
+## 相關資訊
+
+- **Jira:** [BE-785](https://ctil.atlassian.net/browse/BE-785)
+- **解決方式:** Done

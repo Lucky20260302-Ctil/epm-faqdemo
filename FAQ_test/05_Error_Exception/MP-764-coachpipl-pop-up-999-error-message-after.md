@@ -1,0 +1,59 @@
+---
+project: MP
+issue_key: MP-764
+issue_type: Bug QA
+status: Closed
+faq_score: 7.0
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, mp, error_exception, mpos-api]
+jira_url: "https://ctil.atlassian.net/browse/MP-764"
+created: 2025-04-02
+resolved: 2025-04-03
+resolution: Done
+has_images: True
+---
+
+# MP-764: [Coach][PIPL] Pop up 999 error message after searching member with EXIT_PERMIT=1 by mobile number
+
+> **類型:** Bug QA | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
+> **解決日期:** 2025-04-03
+> **負責人:** Daniel Leung
+> **組件:** MPOS API
+
+## 問題描述
+
+Reproduce steps:
+
+1. To member section
+
+2. Input mobile number for searching a member with EXIT_PERMIT=1
+
+*Testing data:
+
+13761555153
+
+Existing result:
+
+Pop up 999 error message
+
+Expected result:
+
+Need to display the member details
+
+> 📎 **image-20250402-023200.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/15227209-6be1-4ada-a92e-05008b9fc854)（需 Jira 登入）
+Testing version:
+
+3.30.1-20250320.1
+
+
+
+## 附件截圖
+
+1. 📎 **image-20250402-023200.png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/15227209-6be1-4ada-a92e-05008b9fc854)
+
+## 相關資訊
+
+- **Jira:** [MP-764](https://ctil.atlassian.net/browse/MP-764)
+- **解決方式:** Done

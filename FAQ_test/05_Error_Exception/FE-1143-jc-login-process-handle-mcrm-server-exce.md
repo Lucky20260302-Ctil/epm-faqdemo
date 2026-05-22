@@ -1,0 +1,33 @@
+---
+project: FE
+issue_key: FE-1143
+issue_type: Bug PRD
+status: Closed
+faq_score: 6.5
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, fe, error_exception, front-end]
+jira_url: "https://ctil.atlassian.net/browse/FE-1143"
+created: 2022-08-15
+resolved: 2024-03-01
+resolution: Done
+has_images: False
+---
+
+# FE-1143: JC Login Process Handle MCRM Server Exception
+
+> **類型:** Bug PRD | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
+> **解決日期:** 2024-03-01
+> **組件:** Front End
+
+## 問題描述
+
+When user Log-in POS, POS will validate NetWork connection. If POS can connect Web CAP API,  but when API connect to MCRM server and receive exception, POS have not handle it (trigger 'Unhandled exception,') and popup ' .. ran into a problem' message, then need to exit POS.
+
+
+
+## 相關資訊
+
+- **Jira:** [FE-1143](https://ctil.atlassian.net/browse/FE-1143)
+- **解決方式:** Done

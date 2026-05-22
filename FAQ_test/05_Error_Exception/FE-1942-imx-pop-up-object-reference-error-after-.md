@@ -1,0 +1,53 @@
+---
+project: FE
+issue_key: FE-1942
+issue_type: Bug QA
+status: Closed
+faq_score: 7.5
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, fe, error_exception, front-end]
+jira_url: "https://ctil.atlassian.net/browse/FE-1942"
+created: 2026-04-30
+resolved: 2026-05-05
+resolution: Done
+has_images: True
+---
+
+# FE-1942: [IMX] Pop up 'Object reference' error after click on New log update & complete payment
+
+> **類型:** Bug QA | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
+> **解決日期:** 2026-05-05
+> **負責人:** Sang
+> **組件:** Front End
+
+## 問題描述
+
+[IMX] Pop up 'Object reference' error after click on New log update & complete payment
+
+For New log update:
+
+1. To Admin > Systen function > Click on New log update > pop up error
+
+For complete payment:
+
+1. Issue an order with specific item: CM00100419S6E4
+
+2. Process to complete payment
+
+3. Back to sales memo screen
+
+4. Click on Exist, then pop up error
+
+> 📎 **image-20260430-021506.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/3ae20c8c-5faa-431f-85fe-4d56592ad127)（需 Jira 登入）
+
+
+## 附件截圖
+
+1. 📎 **image-20260430-021506.png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/3ae20c8c-5faa-431f-85fe-4d56592ad127)
+
+## 相關資訊
+
+- **Jira:** [FE-1942](https://ctil.atlassian.net/browse/FE-1942)
+- **解決方式:** Done

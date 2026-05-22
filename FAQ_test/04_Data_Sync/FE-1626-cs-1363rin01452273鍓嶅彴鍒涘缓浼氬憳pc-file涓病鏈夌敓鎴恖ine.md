@@ -1,0 +1,76 @@
+---
+project: FE
+issue_key: FE-1626
+issue_type: Bug DEV
+status: Closed
+faq_score: 5.0
+faq_category: 04_Data_Sync
+faq_category_label: 資料與同步
+tags: [faq, fe, data_sync, front-end-v750.01r01a]
+jira_url: "https://ctil.atlassian.net/browse/FE-1626"
+created: 2025-02-14
+resolved: 2025-02-24
+resolution: Done
+has_images: True
+---
+
+# FE-1626: [CS-1363][RIN01452273]前台创建会员，PC file中没有生成line34会员信息
+
+> **類型:** Bug DEV | **狀態:** Closed
+> **分類:** 資料與同步 | **FAQ 分數:** 5.0
+> **解決日期:** 2025-02-24
+> **負責人:** Sang
+> **組件:** Front End v750.01R01A
+
+## 問題描述
+
+Hi teams,
+
+POS V75,OC507till1在前台创建完会员并做完销售以后，
+
+1.PC file出现生成销售但是并没有生成line34 会员信息。
+
+> 📎 **image-20250214-101820.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/d6b77b42-d60a-461a-83db-a2ec27252924)（需 Jira 登入）
+
+> 📎 **image-20250214-101738.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/c48c34f7-f9f1-49e4-a036-8fce6c75589e)（需 Jira 登入）
+2.查看了wa log，相关vip并没有upsert信息。
+
+> 📎 **image-20250214-102237.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/4528a416-5218-4c7a-975d-6fe47eeae3dc)（需 Jira 登入）
+相关单号及vip信息：
+
+OC5071H00012623 --10024805 20250206
+OC5071H00012662 --10024862 20250212
+
+
+
+## 附件截圖
+
+1. 📎 **image-20250214-101820.png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/d6b77b42-d60a-461a-83db-a2ec27252924)
+2. 📎 **image-20250214-101738.png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/c48c34f7-f9f1-49e4-a036-8fce6c75589e)
+3. 📎 **image-20250214-102237.png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/4528a416-5218-4c7a-975d-6fe47eeae3dc)
+
+
+## Jira Comments
+
+> **Sang** (2025-02-17):
+>  please copy all logs , PC files and dbtrans.sdf
+
+> **pierre.shi** (2025-02-17):
+> Hi   all logs were copied ,included beapi.
+
+> **Sang** (2025-02-17):
+>     Confirmed this is a bug. To be fixed in next release (v750.04R11)  Re-produce procedure:  In sales Member Panel - Create New Member (ex. OC5071H00012623) select Member Panel again - use ‘Remove’ button to remove member (ex. OC5071H00012623) from member panel search Member by Member No. (ex. OC5071H00012623) - POS can find this member from local DB  Commit the sales Transaction.  POS fail to handle this member as New Member, PCD without ‘34’ 
+
+> **Sang** (2025-02-20):
+>     Fixed in v750.04R11
+
+> **pierre.shi** (2025-02-21):
+> Hi   thanks for your reply on this issue again  . I have got your help and explained to coach.  and what should I do on this issue next step?  need me to close it? 
+
+> **Sang** (2025-02-21):
+>    Already fixed.  Ready to be included in any testing version depend on our schedule.
+
+## 相關資訊
+
+- **Jira:** [FE-1626](https://ctil.atlassian.net/browse/FE-1626)
+- **解決方式:** Done

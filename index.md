@@ -1,10 +1,10 @@
 ---
-title: EPM / FEPOS 故障排除 FAQ
+title: ERM 故障排除 FAQ 知識庫
 ---
 
-# EPM / FEPOS 故障排除知識庫
+# ERM 故障排除 FAQ 知識庫
 
-歡迎來到 EPM (Enterprise Procurement Management) 和 ERM FEPOS (Front End POS) 的故障排除 FAQ。
+歡迎來到 ERM (Enterprise Retail Management) 故障排除 FAQ 知識庫。
 
 > 第一次使用？請先閱讀 [[Welcome|新手入門指南]]
 
@@ -12,11 +12,15 @@ title: EPM / FEPOS 故障排除 FAQ
 
 ## 快速導航
 
-| 產品 | 說明 | 記錄數 |
+| 分類 | 說明 | 記錄數 |
 |------|------|--------|
-| [[Knowledge Base EPM/03-Resources/troubleshooting/index\|EPM 解決手冊]] | Tender / RFQ / E-Form / 供應商管理 | 50 篇 |
-| [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/index\|FEPOS 解決手冊]] | Front End POS / MPOS / Day End | 28 篇 |
-| [[FAQ_test/index\|ERM Board FAQ（新）]] | FE / MP / BE / WEB 全項目 FAQ | 44 篇 |
+| [[FAQ_test/01_Install_Deploy/index\|01 安裝與部署]] | 系統安裝、升級、環境配置 | — |
+| [[FAQ_test/02_Config_Settings/index\|02 配置與設定]] | 系統參數、功能配置、權限 | — |
+| [[FAQ_test/03_Performance_Timeout/index\|03 效能與超時]] | 效能瓶頸、逾時、回應緩慢 | — |
+| [[FAQ_test/04_Data_Sync/index\|04 資料同步]] | 資料上傳、同步、介面問題 | — |
+| [[FAQ_test/05_Error_Exception/index\|05 報錯與異常]] | 錯誤訊息、系統異常、崩潰 | — |
+| [[FAQ_test/06_Printing_Hardware/index\|06 列印與硬體]] | 列印格式、硬體兼容、裝置 | — |
+| [[FAQ_test/07_Workflow_Business/index\|07 業務流程]] | 審批流程、業務邏輯、操作問題 | — |
 
 ---
 
@@ -26,21 +30,12 @@ title: EPM / FEPOS 故障排除 FAQ
 
 - **避免重複調查**相同問題
 - **加速故障排除**，直接查找已知解法
-- **結構化知識**，支援全文搜尋和分類瀏覽
+- **結構化知識**，按問題類型分類，支援全文搜尋
 
 每條記錄包含：**症狀描述 → 根本原因 → 解決方案 → 修復版本**。
 
 ---
 
-## 熱門主題
+## 來源
 
-### FEPOS 常見問題
-- [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/FE-1520-coupon-discount-calculation-netnetamt\|MM Coupon 折扣計算不一致]]
-- [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/FE-1214-levy-mm-coupon-sequence-barcode-validation\|Levy + MM Coupon 輸入順序異常]]
-- [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/FE-1200-mm-coupon-rounding-method\|MM Coupon 四捨五入方法]]
-- [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/MP-508-mpos-crash-ios15-flutter-upgrade\|MPOS iOS 15 閃退]]
-
-### EPM 常見問題
-- [[Knowledge Base EPM/03-Resources/troubleshooting/EPMTDCPROT-3553-troubleshooting\|密碼過期通知未發送]]
-- [[Knowledge Base EPM/03-Resources/troubleshooting/EPMTDCPROT-2860-troubleshooting\|密碼重置後無法登入]]
-- [[Knowledge Base EPM/03-Resources/troubleshooting/EPMTDCPROT-3187-troubleshooting\|日期選擇器在地化問題]]
+知識庫內容來自 Jira ERM 相關專案（FE、BE、MP、WEB、EPMTDCPROT 等）的已解決 Issue，經全量搜索與人工審核後精選收錄。
