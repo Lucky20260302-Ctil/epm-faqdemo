@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-463: redeemed coupon status update by PC file"
 issue_key: MP-463
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-463: redeemed coupon status update by PC file 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-07-16
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

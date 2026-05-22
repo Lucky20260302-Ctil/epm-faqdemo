@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-913: [eName] Label Change from 'Location*” to “Residence*” for Tourist Page"
 issue_key: BE-913
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-913: [eName] Label Change from "Location*” to “Residence*” for Tourist Page
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-10-16
-> **負責人:** Andy Ko
-> **組件:** eName
 
 ## 問題描述
 

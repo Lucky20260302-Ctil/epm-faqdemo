@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-398: Internal-Login page password field auto convert to upper case"
 issue_key: MP-398
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-398: Internal-Login page password field auto convert to upper case 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-06-03
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

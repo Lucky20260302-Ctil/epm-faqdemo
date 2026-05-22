@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1827: [ANZ] Pop up 'Object reference not set to an instance of an object' after click on 'Point Details'"
 issue_key: FE-1827
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1827: [ANZ] Pop up 'Object reference not set to an instance of an object' after click on "Point Details"
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-12-17
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

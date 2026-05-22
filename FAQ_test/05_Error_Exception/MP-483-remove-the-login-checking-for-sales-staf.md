@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-483: Remove the login checking for sales staff column"
 issue_key: MP-483
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-483: Remove the login checking for sales staff column
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-08-06
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

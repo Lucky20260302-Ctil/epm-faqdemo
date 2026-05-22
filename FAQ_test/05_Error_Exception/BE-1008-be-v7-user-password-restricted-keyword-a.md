@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1008: BE v7 User Password Restricted Keyword and User Password Policy pointing to wrong DB."
 issue_key: BE-1008
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1008: BE v7 User Password Restricted Keyword and User Password Policy pointing to wrong DB. 
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Tovi Wang
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

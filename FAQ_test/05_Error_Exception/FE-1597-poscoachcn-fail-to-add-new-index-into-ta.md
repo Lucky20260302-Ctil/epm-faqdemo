@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1597: [POS][Coach][CN] Fail to add new index into table"
 issue_key: FE-1597
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1597: [POS][Coach][CN] Fail to add new index into table
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-02-27
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

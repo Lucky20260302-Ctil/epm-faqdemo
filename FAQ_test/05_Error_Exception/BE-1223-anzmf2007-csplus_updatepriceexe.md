@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1223: [ANZ][MF2007] CSPLUS_updateprice.exe"
 issue_key: BE-1223
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1223: [ANZ][MF2007] CSPLUS_updateprice.exe
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

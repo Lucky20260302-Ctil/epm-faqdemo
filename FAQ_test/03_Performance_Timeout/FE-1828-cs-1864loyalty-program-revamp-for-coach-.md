@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1828: [CS-1864]Loyalty Program Revamp for Coach Japan"
 issue_key: FE-1828
 issue_type: Change Request
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1828: [CS-1864]Loyalty Program Revamp for Coach Japan
-
-> **類型:** Change Request | **狀態:** Selected for Development (migrated)
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

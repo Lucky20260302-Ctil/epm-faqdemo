@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-804: KS SEA CRM - Combine the multiple items in one row in sales API CALL"
 issue_key: BE-804
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-804: KS SEA CRM - Combine the multiple items in one row in sales API CALL
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-09-14
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-250: Integration of Sales Memo Controller"
 issue_key: MP-250
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-250: Integration of Sales Memo Controller
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-10
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

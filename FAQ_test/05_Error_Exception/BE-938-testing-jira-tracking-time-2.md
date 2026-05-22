@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-938: testing JIRA tracking time 2"
 issue_key: BE-938
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-938: testing JIRA tracking time 2
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-11-08
-> **負責人:** Andy Ko
-> **組件:** Administration
 
 ## 問題描述
 

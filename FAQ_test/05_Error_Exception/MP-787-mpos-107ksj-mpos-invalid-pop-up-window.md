@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-787: [MPOS-107]KSJ MPOS - Invalid pop-up window for '領収書印刷‘ function"
 issue_key: MP-787
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-787: [MPOS-107]KSJ MPOS - Invalid pop-up window for '領収書印刷‘ function
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-07-29
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

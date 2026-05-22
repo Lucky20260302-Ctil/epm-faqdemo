@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1627: IMX  Web enquiry SE1004 can not return item price"
 issue_key: FE-1627
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1627: IMX  Web enquiry SE1004 can not return item price
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-05-30
-> **負責人:** Sherman tse
-> **組件:** Enquiry
 
 ## 問題描述
 

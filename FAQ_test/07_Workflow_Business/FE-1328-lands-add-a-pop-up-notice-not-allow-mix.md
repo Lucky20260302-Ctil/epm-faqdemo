@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1328: [Lands] Add a pop up notice & not allow mix up payment for users"
 issue_key: FE-1328
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1328: [Lands] Add a pop up notice & not allow mix up payment for users
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-01-09
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

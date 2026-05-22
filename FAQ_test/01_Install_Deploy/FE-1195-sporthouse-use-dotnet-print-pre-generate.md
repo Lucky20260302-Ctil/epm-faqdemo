@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1195: Sporthouse Use DotNet Print pre-generate Day End Report"
 issue_key: FE-1195
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1195: Sporthouse Use DotNet Print pre-generate Day End Report
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-12-16
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

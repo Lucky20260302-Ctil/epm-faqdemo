@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-897: Duplicate records posting cannot handle"
 issue_key: BE-897
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-897: Duplicate records posting cannot handle
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

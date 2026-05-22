@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1049: [CS-1395] Invalid pop-up window for CN Employee VIP"
 issue_key: BE-1049
 issue_type: Bug PRD
 status: Awaiting Sprint Planning or Awaiting to do
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1049: [CS-1395] Invalid pop-up window for CN Employee VIP
-
-> **類型:** Bug PRD | **狀態:** Awaiting Sprint Planning or Awaiting to do
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** API
 
 ## 問題描述
 

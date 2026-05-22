@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-44: General Module - MPOS and CS2000 of date cannot sync."
 issue_key: MP-44
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-44: General Module - MPOS and CS2000 of date cannot sync.
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2020-04-15
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-655: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1"
 issue_key: MP-655
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-655: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-09-14
-> **負責人:** Joy Li
-> **組件:** MPOS, MPOS API, MPOSPrint.exe
 
 ## 問題描述
 

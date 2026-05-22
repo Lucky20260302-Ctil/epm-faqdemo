@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1840: [Coach][ANZ] Issue of CASH Denomination & Cash drawer tender"
 issue_key: FE-1840
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1840: [Coach][ANZ] Issue of CASH Denomination & Cash drawer tender
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2026-05-05
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

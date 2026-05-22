@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1266:  [INC3586573]There are some G type member data in KS NZ & KS AU DB"
 issue_key: BE-1266
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1266:  [INC3586573]There are some G type member data in KS NZ & KS AU DB
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **負責人:** Jerry Wong
-> **組件:** API
 
 ## 問題描述
 

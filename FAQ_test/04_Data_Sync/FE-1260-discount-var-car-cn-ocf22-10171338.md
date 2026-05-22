@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1260: [Discount Var] CAR CN- OCF22-10171338"
 issue_key: FE-1260
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1260: [Discount Var] CAR CN- OCF22-10171338
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-23
-> **負責人:** Sang
-> **組件:** DiscountVar
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-941: test tracking time (businessDays)"
 issue_key: BE-941
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-941: test tracking time (businessDays)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-11-08
-> **負責人:** Andy Ko
-> **組件:** Administration
 
 ## 問題描述
 

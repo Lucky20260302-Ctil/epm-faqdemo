@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-736: [CS-1284] HK OC501 - transactions on Nov 20 was wrongly booked into Nov 15. - RIN01426108"
 issue_key: MP-736
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-736: [CS-1284] HK OC501 - transactions on Nov 20 was wrongly booked into Nov 15. - RIN01426108
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-03-06
-> **負責人:** Cy Lau
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

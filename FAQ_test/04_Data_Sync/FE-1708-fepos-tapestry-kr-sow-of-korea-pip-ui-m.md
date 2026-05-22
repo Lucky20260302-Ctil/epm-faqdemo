@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1708: FEPOS-Tapestry KR- SOW of Korea PIP UI Masking Enhancements"
 issue_key: FE-1708
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1708: FEPOS-Tapestry KR- SOW of Korea PIP UI Masking Enhancements
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 8.0
-> **解決日期:** 2026-05-07
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

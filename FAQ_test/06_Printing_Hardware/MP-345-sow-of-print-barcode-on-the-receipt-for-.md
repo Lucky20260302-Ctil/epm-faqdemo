@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-345: SOW of Print Barcode on the Receipt for Coach Japan"
 issue_key: MP-345
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-345: SOW of Print Barcode on the Receipt for Coach Japan
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-02-22
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

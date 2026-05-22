@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-760: [CS-820]JP | MPOS | eReceipt | Receipt printout popup is showing “レシート再印刷” after sales"
 issue_key: MP-760
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-760: [CS-820]JP | MPOS | eReceipt | Receipt printout popup is showing “レシート再印刷” after sales
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

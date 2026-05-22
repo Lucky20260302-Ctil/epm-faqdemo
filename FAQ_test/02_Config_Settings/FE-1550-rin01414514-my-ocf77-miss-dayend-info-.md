@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1550: RIN01414514-MY - OCF77-miss dayend info in the acp file"
 issue_key: FE-1550
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1550: RIN01414514-MY - OCF77-miss dayend info in the acp file
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-03-06
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-814: member gift redemption, incorrect bonus point balance"
 issue_key: FE-814
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-814: member gift redemption, incorrect bonus point balance
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-11-23
-> **負責人:** Desmond Mak
-> **組件:** Frontend
 
 ## 問題描述
 

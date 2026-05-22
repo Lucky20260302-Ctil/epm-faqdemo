@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-534: Print QR Code option appears when issuing return memo"
 issue_key: MP-534
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-534: Print QR Code option appears when issuing return memo
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-07-10
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

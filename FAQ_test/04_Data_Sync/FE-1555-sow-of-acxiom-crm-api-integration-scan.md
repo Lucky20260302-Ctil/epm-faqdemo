@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1555: SOW of ACXIOM CRM API Integration - Scan QR Code - FE Part"
 issue_key: FE-1555
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1555: SOW of ACXIOM CRM API Integration - Scan QR Code - FE Part
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-12-02
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry"
 issue_key: WEB-190
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-12-17
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

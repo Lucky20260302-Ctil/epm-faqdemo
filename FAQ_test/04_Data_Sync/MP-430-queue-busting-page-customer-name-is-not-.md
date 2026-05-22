@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-430: Queue Busting Page Customer Name is not update after save new name"
 issue_key: MP-430
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-430: Queue Busting Page Customer Name is not update after save new name
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-06-03
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

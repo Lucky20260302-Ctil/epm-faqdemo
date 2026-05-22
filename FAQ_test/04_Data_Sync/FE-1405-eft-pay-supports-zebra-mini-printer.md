@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1405: EFT Pay Supports Zebra Mini Printer"
 issue_key: FE-1405
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1405: EFT Pay Supports Zebra Mini Printer
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-10-03
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

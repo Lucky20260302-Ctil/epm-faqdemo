@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-327: [eName] Customer conform page display for email 1 and email 2"
 issue_key: WEB-327
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-327: [eName] Customer conform page display for email 1 and email 2
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-06-29
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

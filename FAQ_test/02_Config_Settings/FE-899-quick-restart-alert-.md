@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-899: Quick Restart alert"
 issue_key: FE-899
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-899: Quick Restart alert 
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

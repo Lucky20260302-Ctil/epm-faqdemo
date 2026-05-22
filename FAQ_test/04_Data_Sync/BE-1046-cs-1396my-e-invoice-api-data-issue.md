@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1046: [CS-1396]MY E-Invoice API data issue"
 issue_key: BE-1046
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1046: [CS-1396]MY E-Invoice API data issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-05-05
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

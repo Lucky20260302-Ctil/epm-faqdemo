@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-997: Member details searching screen"
 issue_key: FE-997
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-997: Member details searching screen
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-08-18
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

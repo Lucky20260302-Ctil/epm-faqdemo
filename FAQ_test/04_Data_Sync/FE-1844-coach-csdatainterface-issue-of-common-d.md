@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1844: [Coach] CSDataInterface- Issue of common dll conflicts causing itmast lock function not work"
 issue_key: FE-1844
 issue_type: Bug QA
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1844: [Coach] CSDataInterface- Issue of common dll conflicts causing itmast lock function not work
-
-> **類型:** Bug QA | **狀態:** Release
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sherman tse
-> **組件:** BackEnd
 
 ## 問題描述
 

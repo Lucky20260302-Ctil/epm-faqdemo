@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-758: Lands e-Receipt Template add new fields"
 issue_key: BE-758
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-758: Lands e-Receipt Template add new fields
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-07-26
-> **負責人:** Sherman tse
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

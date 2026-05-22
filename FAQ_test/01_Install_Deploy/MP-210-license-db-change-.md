@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-210: license DB change"
 issue_key: MP-210
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-210: license DB change 
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-07-20
-> **負責人:** Terence Tsang
-> **組件:** MPOS
 
 ## 問題描述
 

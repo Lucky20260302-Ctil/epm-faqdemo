@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-912: MPOS-CJ#99-Fail to get memo from Queue Busting"
 issue_key: FE-912
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-912: MPOS-CJ#99-Fail to get memo from Queue Busting
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-02-19
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

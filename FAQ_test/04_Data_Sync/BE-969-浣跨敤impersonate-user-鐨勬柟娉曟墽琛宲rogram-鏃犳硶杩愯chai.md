@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-969: 使用impersonate user 的方法执行program， 无法运行chainStore+ 和 创建 user"
 issue_key: BE-969
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-969: 使用impersonate user 的方法执行program， 无法运行chainStore+ 和 创建 user
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-12-24
-> **負責人:** Gavin Zhou
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

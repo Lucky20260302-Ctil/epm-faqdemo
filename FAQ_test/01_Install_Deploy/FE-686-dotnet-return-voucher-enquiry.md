@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-686: DotNet Return Voucher Enquiry"
 issue_key: FE-686
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-686: DotNet Return Voucher Enquiry
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-06-13
-> **負責人:** Andrew_Au
-> **組件:** Frontend
 
 ## 問題描述
 

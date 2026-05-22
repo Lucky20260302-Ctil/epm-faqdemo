@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-523: ZebraPrinter ZQ310, ZQ320"
 issue_key: MP-523
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-523: ZebraPrinter ZQ310, ZQ320
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-07-10
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

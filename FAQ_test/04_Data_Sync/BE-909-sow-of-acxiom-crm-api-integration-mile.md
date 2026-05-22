@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-909: SOW of ACXIOM CRM API Integration - Milestone 2 - API part"
 issue_key: BE-909
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-909: SOW of ACXIOM CRM API Integration - Milestone 2 - API part
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-11-08
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

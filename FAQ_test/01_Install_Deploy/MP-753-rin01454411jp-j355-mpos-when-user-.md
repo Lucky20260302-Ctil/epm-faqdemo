@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-753: [RIN01454411]JP - J355  - Mpos : when user enter sales staff/cashier information, the mpos always keep loading"
 issue_key: MP-753
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-753: [RIN01454411]JP - J355  - Mpos : when user enter sales staff/cashier information, the mpos always keep loading
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

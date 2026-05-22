@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-514: CJ Loyalty Part 2 - Enable VIP standard import for CJ"
 issue_key: BE-514
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-514: CJ Loyalty Part 2 - Enable VIP standard import for CJ
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-08-18
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

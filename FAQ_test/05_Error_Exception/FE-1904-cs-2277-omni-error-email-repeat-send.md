@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1904: CS-2277: Omni error email repeat send"
 issue_key: FE-1904
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1904: CS-2277: Omni error email repeat send
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **負責人:** Jerry Wong
-> **組件:** Omni
 
 ## 問題描述
 

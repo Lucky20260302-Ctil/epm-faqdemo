@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-320: Coach Shanghai Grand Gateway 66 (GG66) LL Interface"
 issue_key: BE-320
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-320: Coach Shanghai Grand Gateway 66 (GG66) LL Interface
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-02-08
-> **負責人:** Samuel Ma
-> **組件:** Backend (V66), Data Interface
 
 ## 問題描述
 

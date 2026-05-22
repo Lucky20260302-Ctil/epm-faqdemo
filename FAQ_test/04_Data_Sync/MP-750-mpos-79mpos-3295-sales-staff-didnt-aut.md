@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-750: [MPOS-79]MPOS 3.29.5 - Sales staff didn't auto logout after 900 seconds"
 issue_key: MP-750
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-750: [MPOS-79]MPOS 3.29.5 - Sales staff didn't auto logout after 900 seconds
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

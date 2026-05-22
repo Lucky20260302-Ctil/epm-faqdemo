@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-739: Sales Staff Code Maintenance MF0007 changes"
 issue_key: BE-739
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-739: Sales Staff Code Maintenance MF0007 changes
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-08-31
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-801: [MPOS-126] J804 one MPOS shows it has reached the maximum when logging in"
 issue_key: MP-801
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-801: [MPOS-126] J804 one MPOS shows it has reached the maximum when logging in
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

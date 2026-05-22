@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1340: Issue_ALL_INC2379288_EAN blank transactions issue"
 issue_key: FE-1340
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1340: Issue_ALL_INC2379288_EAN blank transactions issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

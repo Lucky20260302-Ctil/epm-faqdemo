@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1166: [CS-1244] [INC2939533]Issue_CN_not able to change price on Discount Control items"
 issue_key: BE-1166
 issue_type: Task
 status: Closed
@@ -15,10 +16,6 @@ has_images: True
 ---
 
 # BE-1166: [CS-1244] [INC2939533]Issue_CN_not able to change price on Discount Control items
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **組件:** Frontend
 
 ## 問題描述
 

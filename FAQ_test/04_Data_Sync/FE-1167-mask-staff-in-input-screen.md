@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1167: mask staff in input screen"
 issue_key: FE-1167
 issue_type: Bug QA
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1167: mask staff in input screen
-
-> **類型:** Bug QA | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

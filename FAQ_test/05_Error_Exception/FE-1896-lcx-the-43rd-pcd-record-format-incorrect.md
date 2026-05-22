@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1896: [LCX] The 43rd pcd record format incorrect in Line 17 in gift redeem module"
 issue_key: FE-1896
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1896: [LCX] The 43rd pcd record format incorrect in Line 17 in gift redeem module
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2026-04-21
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

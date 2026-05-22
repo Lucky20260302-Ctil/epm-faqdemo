@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-722: [Coach][CRM milestone 2] Pop up an error when MPOS scan a QR code that has no Member ID in backend DB"
 issue_key: MP-722
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-722: [Coach][CRM milestone 2] Pop up an error when MPOS scan a QR code that has no Member ID in backend DB
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **解決日期:** 2024-11-14
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

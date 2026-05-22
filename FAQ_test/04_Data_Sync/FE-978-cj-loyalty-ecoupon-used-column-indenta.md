@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-978: CJ Loyalty - eCoupon used column indentation is not aligned"
 issue_key: FE-978
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-978: CJ Loyalty - eCoupon used column indentation is not aligned 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-06-18
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

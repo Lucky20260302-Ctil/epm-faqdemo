@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-919: Ename - Tourist SOW Bugh Fix"
 issue_key: BE-919
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-919: Ename - Tourist SOW Bugh Fix
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-10-16
-> **負責人:** Andy_Leung
-> **組件:** eName
 
 ## 問題描述
 

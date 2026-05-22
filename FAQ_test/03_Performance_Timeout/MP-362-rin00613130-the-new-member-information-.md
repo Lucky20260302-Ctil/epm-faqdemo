@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-362: RIN00613130 -The new member information will change after entering the payment page"
 issue_key: MP-362
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-362: RIN00613130 -The new member information will change after entering the payment page
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-02-11
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

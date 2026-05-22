@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-717: Translation issue on 172.16.138.55-invaild"
 issue_key: BE-717
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-717: Translation issue on 172.16.138.55-invaild
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 10.0
-> **解決日期:** 2023-02-21
-> **組件:** Backend (Web)
 
 ## 問題描述
 

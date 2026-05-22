@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1294: [Lands] Cannot send out receipt email when transactions paid by demand note"
 issue_key: FE-1294
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1294: [Lands] Cannot send out receipt email when transactions paid by demand note
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-10-06
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

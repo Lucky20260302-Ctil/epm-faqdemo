@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1415: [HKJC] Member page unable to show member type"
 issue_key: FE-1415
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1415: [HKJC] Member page unable to show member type
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-06-27
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

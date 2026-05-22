@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1618: [RIN01444074/RIN01443424]-All POS taking more than 30-40s to print a sales memo"
 issue_key: FE-1618
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1618: [RIN01444074\RIN01443424]-All POS taking more than 30-40s to print a sales memo 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Anson Cheung
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

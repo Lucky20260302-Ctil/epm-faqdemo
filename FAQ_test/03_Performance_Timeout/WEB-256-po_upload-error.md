@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-256: PO_Upload Error"
 issue_key: WEB-256
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-256: PO_Upload Error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-11-16
-> **負責人:** Ken Lam
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

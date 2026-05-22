@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-889: SPH - Discount control by brand based on list price"
 issue_key: FE-889
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-889: SPH - Discount control by brand based on list price
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-06-15
-> **負責人:** Maggil Yeung
-> **組件:** Frontend
 
 ## 問題描述
 

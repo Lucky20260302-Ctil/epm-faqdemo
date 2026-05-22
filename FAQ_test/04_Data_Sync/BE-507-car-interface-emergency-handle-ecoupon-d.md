@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-507: CAR Interface Emergency Handle eCoupon discount method & VIP Type"
 issue_key: BE-507
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-507: CAR Interface Emergency Handle eCoupon discount method & VIP Type
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-07-30
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

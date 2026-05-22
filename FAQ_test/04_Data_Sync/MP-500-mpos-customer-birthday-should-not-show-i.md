@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-500: MPOS Customer Birthday should not show if the value is not provided"
 issue_key: MP-500
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-500: MPOS Customer Birthday should not show if the value is not provided
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-09-21
-> **負責人:** howard
-> **組件:** MPOS
 
 ## 問題描述
 

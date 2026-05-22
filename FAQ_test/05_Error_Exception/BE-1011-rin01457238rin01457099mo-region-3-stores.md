@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1011: [RIN01457238][RIN01457099]MO region 3 stores OC09, OC515, OC17 PCD failed to upload due to error 'payment type not found'"
 issue_key: BE-1011
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1011: [RIN01457238][RIN01457099]MO region 3 stores OC09, OC515, OC17 PCD failed to upload due to error "payment type not found"
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Cy Lau
-> **組件:** polling
 
 ## 問題描述
 

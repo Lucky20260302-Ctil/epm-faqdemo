@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-641: No Return Despost Record generate in zlog file"
 issue_key: BE-641
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-641: No Return Despost Record generate in zlog file
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-04-27
-> **負責人:** Jason Wu
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-876: SOW of Print Barcode on the Receipt for CJ_v1.1i"
 issue_key: FE-876
 issue_type: SOW
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-876: SOW of Print Barcode on the Receipt for CJ_v1.1i
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-05-06
-> **組件:** Frontend
 
 ## 問題描述
 

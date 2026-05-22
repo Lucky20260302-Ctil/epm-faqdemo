@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-211: AQ-206: Advance Search make Phone No exact search"
 issue_key: WEB-211
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-211: AQ-206: Advance Search make Phone No exact search
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-12-07
-> **負責人:** Joy Li
-> **組件:** API
 
 ## 問題描述
 

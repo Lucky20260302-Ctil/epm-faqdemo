@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1682: [CS-1415] Issue_CN _Member ID can be Any Character"
 issue_key: FE-1682
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1682: [CS-1415] Issue_CN _Member ID can be Any Character
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

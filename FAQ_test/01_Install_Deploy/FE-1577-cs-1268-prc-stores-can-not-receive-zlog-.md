@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1577: [CS-1268] PRC stores can not receive zlog since Nov. 27th - RIN01424205)"
 issue_key: FE-1577
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1577: [CS-1268] PRC stores can not receive zlog since Nov. 27th - RIN01424205)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-01-20
-> **負責人:** Joseph_Hu
-> **組件:** Front End
 
 ## 問題描述
 

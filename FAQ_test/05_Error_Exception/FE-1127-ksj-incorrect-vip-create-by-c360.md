@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1127: KSJ incorrect VIP create by C360"
 issue_key: FE-1127
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1127: KSJ incorrect VIP create by C360
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-03-06
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

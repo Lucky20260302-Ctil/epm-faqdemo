@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1281: [Lands] Display 0 price for shop cart items after applied a member"
 issue_key: FE-1281
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1281: [Lands] Display 0 price for shop cart items after applied a member
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-08-08
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

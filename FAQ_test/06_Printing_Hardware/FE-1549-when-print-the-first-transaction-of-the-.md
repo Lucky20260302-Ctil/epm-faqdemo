@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1549: when print the first transaction of the day, POS will take a long time"
 issue_key: FE-1549
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1549: when print the first transaction of the day, POS will take a long time
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-24
-> **負責人:** Sang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

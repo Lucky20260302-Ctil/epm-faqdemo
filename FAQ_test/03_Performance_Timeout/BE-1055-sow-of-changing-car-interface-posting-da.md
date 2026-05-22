@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1055: SOW of changing CAR Interface posting date time"
 issue_key: BE-1055
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1055: SOW of changing CAR Interface posting date time
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-06-11
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

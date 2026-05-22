@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-490: 0% discount coupon should show '%' in all page"
 issue_key: MP-490
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-490: 0% discount coupon should show "%" in all page
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-08-27
-> **負責人:** Kelly Ng
-> **組件:** MPOS
 
 ## 問題描述
 

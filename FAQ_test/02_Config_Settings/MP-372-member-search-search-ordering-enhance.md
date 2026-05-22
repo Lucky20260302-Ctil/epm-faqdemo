@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-372: Member Search search & ordering Enhance"
 issue_key: MP-372
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-372: Member Search search & ordering Enhance
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-03-16
-> **負責人:** kingsley_ng
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

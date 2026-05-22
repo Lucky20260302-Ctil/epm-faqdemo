@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1012: API offline create new VIP not upload after API resume normal in dayend"
 issue_key: FE-1012
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1012: API offline create new VIP not upload after API resume normal in dayend
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-09-21
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

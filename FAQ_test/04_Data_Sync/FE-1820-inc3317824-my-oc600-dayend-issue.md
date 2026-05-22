@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1820: [INC3317824] MY OC600 dayend issue"
 issue_key: FE-1820
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1820: [INC3317824] MY OC600 dayend issue
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Day End
 
 ## 問題描述
 

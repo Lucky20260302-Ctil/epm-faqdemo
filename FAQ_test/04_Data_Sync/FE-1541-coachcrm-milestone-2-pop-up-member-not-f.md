@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1541: [Coach][CRM milestone 2] Pop up 'Member not found' when local DB & backend DB has that member but doesn't exist in CRM side"
 issue_key: FE-1541
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1541: [Coach][CRM milestone 2] Pop up 'Member not found' when local DB & backend DB has that member but doesn't exist in CRM side
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-10-28
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

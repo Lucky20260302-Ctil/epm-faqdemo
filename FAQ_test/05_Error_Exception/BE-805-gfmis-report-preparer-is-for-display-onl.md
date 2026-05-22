@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-805: GFMIS report preparer is for display only, not for filter"
 issue_key: BE-805
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-805: GFMIS report preparer is for display only, not for filter
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-09-19
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

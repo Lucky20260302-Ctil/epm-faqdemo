@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1165: Transfer out show onhand QTY"
 issue_key: FE-1165
 issue_type: Bug QA
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1165: Transfer out show onhand QTY
-
-> **類型:** Bug QA | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-684: A user group doesn't show which program selected but 2 rows have 'tick'"
 issue_key: BE-684
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-684: A user group doesn't show which program selected but 2 rows have "tick"
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-02-21
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

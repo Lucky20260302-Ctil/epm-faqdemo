@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-734: Customer Info Capture from WeChat (Phase 1)"
 issue_key: FE-734
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-734: Customer Info Capture from WeChat (Phase 1)
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-10-15
-> **負責人:** Yan Wong
-> **組件:** Frontend, MPOS
 
 ## 問題描述
 

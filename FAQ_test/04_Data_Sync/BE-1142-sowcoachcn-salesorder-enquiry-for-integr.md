@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1142: [SOW][CoachCN] SalesOrder Enquiry for Integration"
 issue_key: BE-1142
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1142: [SOW][CoachCN] SalesOrder Enquiry for Integration
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2026-01-08
-> **負責人:** Ken Wang
-> **組件:** API
 
 ## 問題描述
 

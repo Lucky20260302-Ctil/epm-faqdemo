@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1060: [CS-1416] Issue_CN_CRM API met 503 error on 26th"
 issue_key: BE-1060
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1060: [CS-1416] Issue_CN_CRM API met 503 error on 26th
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **負責人:** Cy Lau
-> **組件:** API
 
 ## 問題描述
 

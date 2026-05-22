@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-947: In sales inquiry data shows 0 in print out"
 issue_key: FE-947
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-947: In sales inquiry data shows 0 in print out
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-07-12
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-781: [Lands] BackEnd Web appears duplicated log in Interface Update Log Enquiry (SE8008)"
 issue_key: BE-781
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-781: [Lands] BackEnd Web appears duplicated log in Interface Update Log Enquiry (SE8008)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-08-01
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

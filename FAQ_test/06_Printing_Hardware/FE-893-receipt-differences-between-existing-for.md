@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-893: Receipt differences between existing format and .net print format (RSH Round 3)"
 issue_key: FE-893
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-893: Receipt differences between existing format and .net print format (RSH Round 3)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-01-06
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

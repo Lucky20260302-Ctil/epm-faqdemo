@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1252: Reeceipt paid by Cheque dislpayed Auth. Code instead of Bank Code"
 issue_key: FE-1252
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1252: Reeceipt paid by Cheque dislpayed Auth. Code instead of Bank Code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-06-05
-> **負責人:** Sang
-> **組件:** front end v760.02
 
 ## 問題描述
 

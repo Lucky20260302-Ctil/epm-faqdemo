@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1346: [Lands] Disable Collection Office for HKMS 2.0 Offline Payment"
 issue_key: FE-1346
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1346: [Lands] Disable Collection Office for HKMS 2.0 Offline Payment
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-03-01
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-503: MPOS price rounds incorrectly with decimal places"
 issue_key: MP-503
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-503: MPOS price rounds incorrectly with decimal places
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-12-08
-> **負責人:** Nathan Chan
-> **組件:** Frontend
 
 ## 問題描述
 

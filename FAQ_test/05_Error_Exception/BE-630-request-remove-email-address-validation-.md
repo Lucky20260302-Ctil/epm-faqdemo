@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-630: Request remove Email address validation on location master"
 issue_key: BE-630
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-630: Request remove Email address validation on location master
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-04-27
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

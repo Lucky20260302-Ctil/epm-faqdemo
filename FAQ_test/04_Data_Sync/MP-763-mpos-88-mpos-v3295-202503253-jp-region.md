@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-763: [MPOS-88] MPOS - v3.29.5 20250325.3 JP region member search issue"
 issue_key: MP-763
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-763: [MPOS-88] MPOS - v3.29.5 20250325.3 JP region member search issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-05-02
-> **負責人:** Tovi Wang
-> **組件:** MPOS
 
 ## 問題描述
 

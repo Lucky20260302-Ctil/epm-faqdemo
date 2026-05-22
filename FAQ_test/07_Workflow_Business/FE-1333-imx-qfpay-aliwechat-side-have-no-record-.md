@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1333: IMX QFPay Ali/Wechat side have no record and we have void record."
 issue_key: FE-1333
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1333: IMX QFPay Ali/Wechat side have no record and we have void record.
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

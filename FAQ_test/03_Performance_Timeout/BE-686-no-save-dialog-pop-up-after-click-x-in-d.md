@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-686: No 'Save' dialog pop up after Click 'X' in define publication"
 issue_key: BE-686
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-686: No "Save" dialog pop up after Click "X" in define publication
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-03-06
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

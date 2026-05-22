@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-423: [SPORTSHOUSE] V75 License update Fail in CSPLUS"
 issue_key: WEB-423
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-423: [SPORTSHOUSE] V75 License update Fail in CSPLUS
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **負責人:** Joy Li
-> **組件:** BEAPI
 
 ## 問題描述
 

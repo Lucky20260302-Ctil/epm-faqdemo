@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-855: [Baiwang] Red Invoice SQL Tuning"
 issue_key: BE-855
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-855: [Baiwang] Red Invoice SQL Tuning
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-05-09
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

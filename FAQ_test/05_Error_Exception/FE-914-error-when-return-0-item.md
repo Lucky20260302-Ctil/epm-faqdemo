@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-914: Error when return $0 item"
 issue_key: FE-914
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-914: Error when return $0 item
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-07-12
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

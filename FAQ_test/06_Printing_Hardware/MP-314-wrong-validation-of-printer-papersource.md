@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-314: Wrong Validation of Printer PaperSource"
 issue_key: MP-314
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-314: Wrong Validation of Printer PaperSource
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 6.0
-> **解決日期:** 2020-12-10
-> **負責人:** Yan Wong
-> **組件:** MPOS API
 
 ## 問題描述
 

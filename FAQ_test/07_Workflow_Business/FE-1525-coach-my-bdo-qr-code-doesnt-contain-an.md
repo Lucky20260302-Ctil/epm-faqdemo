@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1525: Coach MY BDO - QR code doesn't contain any information after identity="
 issue_key: FE-1525
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1525: Coach MY BDO - QR code doesn't contain any information after identity=
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-02-12
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

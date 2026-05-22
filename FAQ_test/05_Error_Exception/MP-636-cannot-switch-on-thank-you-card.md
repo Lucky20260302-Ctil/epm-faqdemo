@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-636: Cannot switch on thank you card"
 issue_key: MP-636
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-636: Cannot switch on thank you card
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-02-15
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

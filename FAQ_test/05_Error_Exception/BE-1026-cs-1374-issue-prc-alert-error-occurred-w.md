@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1026: [CS-1374] Issue-PRC-[Alert] Error occurred when call ACXIOM CRM API"
 issue_key: BE-1026
 issue_type: Bug PRD
 status: Closed
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # BE-1026: [CS-1374] Issue-PRC-[Alert] Error occurred when call ACXIOM CRM API
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **組件:** API
 
 ## 問題描述
 

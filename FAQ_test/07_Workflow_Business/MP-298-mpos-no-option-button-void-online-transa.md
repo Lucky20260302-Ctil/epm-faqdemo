@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-298: MPOS no option button void online transaction only"
 issue_key: MP-298
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-298: MPOS no option button void online transaction only
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-07-20
-> **負責人:** Sam Chan
-> **組件:** MPOS
 
 ## 問題描述
 

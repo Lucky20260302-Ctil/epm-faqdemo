@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1950: [INC3562113]AWS SG region, OC654,pos v75.004.0702.0000, search all member show: This Member Card is expired"
 issue_key: FE-1950
 issue_type: Bug DEV
 status: Open
@@ -15,10 +16,6 @@ has_images: True
 ---
 
 # FE-1950: [INC3562113]AWS SG region, OC654,pos v75.004.0702.0000, search all member show: This Member Card is expired
-
-> **類型:** Bug DEV | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

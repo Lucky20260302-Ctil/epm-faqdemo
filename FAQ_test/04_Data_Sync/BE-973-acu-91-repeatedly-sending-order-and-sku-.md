@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-973: [ACU-91] Repeatedly sending order and SKU data to CRM"
 issue_key: BE-973
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-973: [ACU-91] Repeatedly sending order and SKU data to CRM
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-12-20
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

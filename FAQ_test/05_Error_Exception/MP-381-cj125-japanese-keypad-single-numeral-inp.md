@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-381: CJ#125-Japanese keypad single numeral input trigger duplicate output"
 issue_key: MP-381
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-381: CJ#125-Japanese keypad single numeral input trigger duplicate output
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-05-17
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

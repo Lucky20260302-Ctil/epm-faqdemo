@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-727: Implement multiple File Handler for Lands Data import service"
 issue_key: BE-727
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-727: Implement multiple File Handler for Lands Data import service
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-04-27
-> **負責人:** Anson Cheung
-> **組件:** Backend (ChainStorePlus 7.0), Data Interface
 
 ## 問題描述
 

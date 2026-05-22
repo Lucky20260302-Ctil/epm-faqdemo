@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-509: MPOS Fails to Retrieve Device ID after iOS 14.5"
 issue_key: MP-509
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-509: MPOS Fails to Retrieve Device ID after iOS 14.5
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-12-08
-> **負責人:** Nathan Chan
-> **組件:** MPOS
 
 ## 問題描述
 

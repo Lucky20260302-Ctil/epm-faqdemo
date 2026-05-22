@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1302: Member Panel show Member Type '%' discount error"
 issue_key: FE-1302
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1302: Member Panel show Member Type '%' discount error 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

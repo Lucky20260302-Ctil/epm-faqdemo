@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-816: MM Calculation - Sporthouse GWP + MM Event Problem"
 issue_key: FE-816
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-816: MM Calculation - Sporthouse GWP + MM Event Problem
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-11-23
-> **負責人:** Maggil Yeung
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1215: Backend member posting - default Opt-Out"
 issue_key: BE-1215
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1215: Backend member posting - default Opt-Out 
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2026-02-11
-> **負責人:** Jerry Wong
-> **組件:** Posting
 
 ## 問題描述
 

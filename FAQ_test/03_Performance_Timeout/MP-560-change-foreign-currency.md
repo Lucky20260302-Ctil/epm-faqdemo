@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-560: Change Foreign Currency"
 issue_key: MP-560
 issue_type: Bug QA
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-560: Change Foreign Currency
-
-> **類型:** Bug QA | **狀態:** HOLD
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

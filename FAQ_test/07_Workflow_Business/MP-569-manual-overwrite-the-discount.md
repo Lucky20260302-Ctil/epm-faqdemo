@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-569: Manual overwrite the discount"
 issue_key: MP-569
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-569: Manual overwrite the discount
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-21
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

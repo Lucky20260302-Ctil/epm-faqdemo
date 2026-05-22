@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-340: [CS-683] system change request_Customer information modify page on CS2000 web"
 issue_key: WEB-340
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-340: [CS-683] system change request_Customer information modify page on CS2000 web
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-02-29
-> **負責人:** Anson Cheung
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

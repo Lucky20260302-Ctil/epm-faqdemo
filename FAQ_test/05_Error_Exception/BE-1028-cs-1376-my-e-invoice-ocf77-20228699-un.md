@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1028: [CS-1376] MY E-invoice - 'OCF77-20228699' unable send to BDO"
 issue_key: BE-1028
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1028: [CS-1376] MY E-invoice - "OCF77-20228699" unable send to BDO
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

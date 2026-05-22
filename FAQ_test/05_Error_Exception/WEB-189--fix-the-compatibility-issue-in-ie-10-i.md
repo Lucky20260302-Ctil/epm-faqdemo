@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-189:  Fix the compatibility issue in IE 10 & IE 11"
 issue_key: WEB-189
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-189:  Fix the compatibility issue in IE 10 & IE 11
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-17
-> **負責人:** Joy Li
-> **組件:** Epromo
 
 ## 問題描述
 

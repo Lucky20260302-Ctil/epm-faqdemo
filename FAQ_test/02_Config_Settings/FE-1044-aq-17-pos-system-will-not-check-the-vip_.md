@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1044: AQ-17: POS system will NOT check the vip_join_date even Config “tblconfig.EnableStaffEffectiveDate” set as “Y”"
 issue_key: FE-1044
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1044: AQ-17: POS system will NOT check the vip_join_date even Config “tblconfig.EnableStaffEffectiveDate” set as “Y”
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-12-21
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

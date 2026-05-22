@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1009: $0 service item/ free gift cannot apply ecoupon"
 issue_key: FE-1009
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1009: $0 service item/ free gift cannot apply ecoupon
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-09-06
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

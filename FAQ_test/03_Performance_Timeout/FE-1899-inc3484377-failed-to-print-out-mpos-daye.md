@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1899: [INC3484377] failed to print out mpos dayend report"
 issue_key: FE-1899
 issue_type: Bug DEV
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1899: [INC3484377] failed to print out mpos dayend report
-
-> **類型:** Bug DEV | **狀態:** Selected for Development (migrated)
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

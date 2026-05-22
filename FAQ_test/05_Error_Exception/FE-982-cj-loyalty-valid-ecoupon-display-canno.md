@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-982: CJ Loyalty - valid eCoupon display cannot used in this memo message"
 issue_key: FE-982
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-982: CJ Loyalty - valid eCoupon display cannot used in this memo message 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-08-18
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

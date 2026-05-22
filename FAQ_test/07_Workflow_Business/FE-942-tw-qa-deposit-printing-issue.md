@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-942: TW QA Deposit printing issue"
 issue_key: FE-942
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-942: TW QA Deposit printing issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-03-31
-> **負責人:** Joy Li
-> **組件:** Printing
 
 ## 問題描述
 

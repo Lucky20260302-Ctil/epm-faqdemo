@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1174: [CS-1674] [CS-549]Request_Curent onsales price logic is not able to match business requirement"
 issue_key: BE-1174
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1174: [CS-1674] [CS-549]Request_Curent onsales price logic is not able to match business requirement
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

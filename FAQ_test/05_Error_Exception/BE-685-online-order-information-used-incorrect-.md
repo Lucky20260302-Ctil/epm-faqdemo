@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-685: Online Order Information used incorrect word limitation for member no. field"
 issue_key: BE-685
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-685: Online Order Information used incorrect word limitation for member no. field
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-02-21
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

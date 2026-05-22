@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1738: [INC3113670]HK OCF583 Till 1 pos failed to scan the payment code of Alipay from customer and shows invalid amount"
 issue_key: FE-1738
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1738: [INC3113670]HK OCF583 Till 1 pos failed to scan the payment code of Alipay from customer and shows invalid amount 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

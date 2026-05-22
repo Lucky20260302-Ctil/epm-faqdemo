@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1695: [CLC2-789] Investigation on CJ LINE's Binding Issue of the POS API Create Member Failure"
 issue_key: FE-1695
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1695: [CLC2-789] Investigation on CJ LINE's Binding Issue of the POS API Create Member Failure
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Cy Lau
-> **組件:** API
 
 ## 問題描述
 

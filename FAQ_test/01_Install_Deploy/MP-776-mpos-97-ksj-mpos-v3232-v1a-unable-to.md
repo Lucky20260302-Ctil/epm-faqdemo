@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-776: [MPOS-97] KSJ MPOS - v3.23.2-v1a - Unable to get just-registered vip info"
 issue_key: MP-776
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-776: [MPOS-97] KSJ MPOS - v3.23.2-v1a - Unable to get just-registered vip info
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

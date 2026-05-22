@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-500: Thank you card v70 issue"
 issue_key: BE-500
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-500: Thank you card v70 issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-06-11
-> **負責人:** Judy Cheng
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

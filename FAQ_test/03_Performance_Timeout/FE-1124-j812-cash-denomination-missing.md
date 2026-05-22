@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1124: J812 Cash Denomination missing"
 issue_key: FE-1124
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1124: J812 Cash Denomination missing
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-06-29
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

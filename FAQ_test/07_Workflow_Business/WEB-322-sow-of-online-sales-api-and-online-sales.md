@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-322: SOW of Online Sales API and Online Sales print in POS Coupon Handling"
 issue_key: WEB-322
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-322: SOW of Online Sales API and Online Sales print in POS Coupon Handling
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-09-21
-> **負責人:** Joy Li
-> **組件:** BEGW
 
 ## 問題描述
 

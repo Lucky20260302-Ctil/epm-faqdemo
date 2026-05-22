@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1559: Revise for REMS discount offer logic"
 issue_key: FE-1559
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1559: Revise for REMS discount offer logic
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-03-04
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

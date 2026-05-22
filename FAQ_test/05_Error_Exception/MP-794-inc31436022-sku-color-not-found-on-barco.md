@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-794: [INC3143602]2 SKU Color Not Found on Barcode print"
 issue_key: MP-794
 issue_type: Bug DEV
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-794: [INC3143602]2 SKU Color Not Found on Barcode print
-
-> **類型:** Bug DEV | **狀態:** Test in Progress
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sherman tse
-> **組件:** Frontend
 
 ## 問題描述
 

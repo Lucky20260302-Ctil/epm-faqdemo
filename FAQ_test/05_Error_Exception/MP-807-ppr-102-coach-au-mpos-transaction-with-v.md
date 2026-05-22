@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-807: [PPR-102] Coach AU MPOS Transaction with VIP post to DB failed"
 issue_key: MP-807
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-807: [PPR-102] Coach AU MPOS Transaction with VIP post to DB failed
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

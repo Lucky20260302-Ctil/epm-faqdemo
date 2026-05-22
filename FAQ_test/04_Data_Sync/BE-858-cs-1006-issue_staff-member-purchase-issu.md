@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-858: [CS-1006] Issue_Staff member purchase issue in HKMO"
 issue_key: BE-858
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-858: [CS-1006] Issue_Staff member purchase issue in HKMO
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-06-17
-> **負責人:** Sherman tse
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

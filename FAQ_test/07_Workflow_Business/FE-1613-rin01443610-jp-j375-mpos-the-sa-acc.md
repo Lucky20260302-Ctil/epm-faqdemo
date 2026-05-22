@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1613: RIN01443610-JP - J375 - Mpos : The SA account displayed in the transaction logged in on Mpos is incorrect"
 issue_key: FE-1613
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1613: RIN01443610-JP - J375 - Mpos : The SA account displayed in the transaction logged in on Mpos is incorrect
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-24
-> **負責人:** Daniel Leung
-> **組件:** Front End v720.02
 
 ## 問題描述
 

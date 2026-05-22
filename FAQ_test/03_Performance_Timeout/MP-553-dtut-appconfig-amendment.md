@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-553: [DTUT] AppConfig Amendment"
 issue_key: MP-553
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-553: [DTUT] AppConfig Amendment
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-27
-> **負責人:** Daniel Leung
-> **組件:** DTUT APP
 
 ## 問題描述
 

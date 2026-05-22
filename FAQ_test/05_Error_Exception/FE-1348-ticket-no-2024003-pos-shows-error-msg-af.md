@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1348: Ticket No. 2024003 POS shows error msg after select MM coupon"
 issue_key: FE-1348
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1348: Ticket No. 2024003 POS shows error msg after select MM coupon
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

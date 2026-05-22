@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-316: Setup WebAPI in BE"
 issue_key: BE-316
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-316: Setup WebAPI in BE
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-09-24
-> **組件:** Backend (V66)
 
 ## 問題描述
 

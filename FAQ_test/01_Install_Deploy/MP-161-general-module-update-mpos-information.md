@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-161: General Module - Update MPOS Information into BE DB locregister table"
 issue_key: MP-161
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-161: General Module - Update MPOS Information into BE DB locregister table
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2020-05-26
-> **負責人:** Yan Wong
-> **組件:** MPOS API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-733: [MPOS-56]Queue Busting - Member Info would be cleared out after update on MPOS"
 issue_key: MP-733
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-733: [MPOS-56]Queue Busting - Member Info would be cleared out after update on MPOS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-02-24
-> **負責人:** Joy Li
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

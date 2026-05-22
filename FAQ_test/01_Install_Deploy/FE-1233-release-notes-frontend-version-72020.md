@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1233: Release Notes - Frontend - Version 72.0207.3503"
 issue_key: FE-1233
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1233: Release Notes - Frontend - Version 72.0207.3503
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-05-16
-> **組件:** fe
 
 ## 問題描述
 

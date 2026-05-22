@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1712: [INC3010134]客户做完销售以后，db的vip表中issue date会被sales memo日期同步，实际上，issue date是不应该被sales memo的销售日期同步的。目前，issue date被同步的逻辑是什么？"
 issue_key: FE-1712
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1712: [INC3010134]客户做完销售以后，db的vip表中issue date会被sales memo日期同步，实际上，issue date是不应该被sales memo的销售日期同步的。目前，issue date被同步的逻辑是什么？
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-09-08
-> **負責人:** pierre.shi
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

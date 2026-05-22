@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1013: email - If there is similar error in TW (vip number does not match the customer)"
 issue_key: BE-1013
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1013: email - If there is similar error in TW (vip number does not match the customer)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **解決日期:** 2025-05-21
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

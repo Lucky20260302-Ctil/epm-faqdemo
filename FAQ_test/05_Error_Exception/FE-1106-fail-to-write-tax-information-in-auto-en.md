@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1106: Fail to write tax information in auto enable tax Rate POS instance."
 issue_key: FE-1106
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1106: Fail to write tax information in auto enable tax Rate POS instance. 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 10.0
-> **解決日期:** 2022-07-12
-> **組件:** Front End
 
 ## 問題描述
 

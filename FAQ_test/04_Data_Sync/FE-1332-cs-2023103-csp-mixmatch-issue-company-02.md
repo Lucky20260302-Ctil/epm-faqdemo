@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1332: CS [2023103] CSP mix&match issue, company 02"
 issue_key: FE-1332
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1332: CS [2023103] CSP mix&match issue, company 02
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-01-08
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1709: [CS-1450]New request_CN_Remove Einvoice pop up window"
 issue_key: FE-1709
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1709: [CS-1450]New request_CN_Remove Einvoice pop up window
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 9.0
-> **解決日期:** 2025-06-25
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

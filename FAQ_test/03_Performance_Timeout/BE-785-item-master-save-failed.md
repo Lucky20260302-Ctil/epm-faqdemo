@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-785: Item master save failed"
 issue_key: BE-785
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-785: Item master save failed
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-09-01
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

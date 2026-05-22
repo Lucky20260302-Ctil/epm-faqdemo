@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1188: BASH - Create DotNet Print CR Library"
 issue_key: FE-1188
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1188: BASH - Create DotNet Print CR Library
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-12-16
-> **負責人:** Fredie Lim
-> **組件:** Front End
 
 ## 問題描述
 

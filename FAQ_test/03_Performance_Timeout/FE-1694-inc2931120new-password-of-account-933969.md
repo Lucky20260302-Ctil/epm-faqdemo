@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1694: [INC2931120]new password of account 933969changed in FE can't be sync to SRC/HHT/namecapture"
 issue_key: FE-1694
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1694: [INC2931120]new password of account 933969changed in FE can't be sync to SRC/HHT/namecapture   
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-09-10
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

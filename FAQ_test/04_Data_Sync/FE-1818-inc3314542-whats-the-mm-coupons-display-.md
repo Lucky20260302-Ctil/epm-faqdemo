@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1818: [INC3314542] What’s the MM coupons display logic in MPOS dayend report?"
 issue_key: FE-1818
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1818: [INC3314542] What’s the MM coupons display logic in MPOS dayend report?
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** report
 
 ## 問題描述
 

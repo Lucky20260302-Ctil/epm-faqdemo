@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1924: IMX Dtutil DB login connection string enhance"
 issue_key: FE-1924
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1924: IMX Dtutil DB login connection string enhance
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **解決日期:** 2026-04-16
-> **負責人:** Cy Lau
-> **組件:** DTUTIL
 
 ## 問題描述
 

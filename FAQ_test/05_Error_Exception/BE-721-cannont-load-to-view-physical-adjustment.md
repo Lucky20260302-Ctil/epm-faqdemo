@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-721: Cannont load to view Physical Adjustment Process Modify"
 issue_key: BE-721
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-721: Cannont load to view Physical Adjustment Process Modify
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-11-16
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-271: Void sales memo with member performance issue"
 issue_key: MP-271
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-271: Void sales memo with member performance issue
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-10-06
-> **負責人:** Yan Wong
-> **組件:** MPOS API
 
 ## 問題描述
 

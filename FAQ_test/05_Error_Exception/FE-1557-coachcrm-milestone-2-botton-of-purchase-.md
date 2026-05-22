@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1557: [Coach][CRM milestone 2] Botton of Purchase history & Profile need  to be checkable & pop up fail to connect CRM"
 issue_key: FE-1557
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1557: [Coach][CRM milestone 2] Botton of Purchase history & Profile need  to be checkable & pop up fail to connect CRM
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-18
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

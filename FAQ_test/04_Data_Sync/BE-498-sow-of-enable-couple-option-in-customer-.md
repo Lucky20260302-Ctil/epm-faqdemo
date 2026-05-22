@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-498: SOW of Enable Couple Option in Customer Gender"
 issue_key: BE-498
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-498: SOW of Enable Couple Option in Customer Gender
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-07-30
-> **負責人:** Thomas
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

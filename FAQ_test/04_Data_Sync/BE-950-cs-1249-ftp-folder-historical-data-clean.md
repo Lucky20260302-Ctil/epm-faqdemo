@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-950: CS-1249 FTP folder historical data clean up"
 issue_key: BE-950
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-950: CS-1249 FTP folder historical data clean up
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-12-24
-> **負責人:** Cy Lau
-> **組件:** Backend (V66)
 
 ## 問題描述
 

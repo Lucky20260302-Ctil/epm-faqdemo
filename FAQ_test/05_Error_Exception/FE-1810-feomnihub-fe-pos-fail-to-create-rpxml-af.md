@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1810: [FE][OmniHub] FE POS fail to create RP*.xml after Process DayEnd"
 issue_key: FE-1810
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1810: [FE][OmniHub] FE POS fail to create RP*.xml after Process DayEnd
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

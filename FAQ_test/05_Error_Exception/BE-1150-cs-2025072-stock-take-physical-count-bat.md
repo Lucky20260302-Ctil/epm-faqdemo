@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1150: cs [2025072] stock take, physical count batch control, fatal error"
 issue_key: BE-1150
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1150: cs [2025072] stock take, physical count batch control, fatal error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-07-24
-> **負責人:** Jerry Wong
-> **組件:** Backend (V66)
 
 ## 問題描述
 

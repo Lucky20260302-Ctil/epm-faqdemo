@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-393: Internal-Cloud Print Service Support Reconnect BY API"
 issue_key: MP-393
 issue_type: Improvement
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-393: Internal-Cloud Print Service Support Reconnect BY API
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-06-03
-> **組件:** MPOS API
 
 ## 問題描述
 

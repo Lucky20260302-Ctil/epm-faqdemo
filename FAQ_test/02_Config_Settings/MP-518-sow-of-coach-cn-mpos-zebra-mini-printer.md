@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-518: SOW of Coach CN MPOS Zebra Mini Printer"
 issue_key: MP-518
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-518: SOW of Coach CN MPOS Zebra Mini Printer
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-08-31
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

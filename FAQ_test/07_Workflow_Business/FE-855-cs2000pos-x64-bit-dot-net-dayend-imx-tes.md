@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-855: CS2000POS X64 BIT Dot Net Dayend (IMX Test)"
 issue_key: FE-855
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-855: CS2000POS X64 BIT Dot Net Dayend (IMX Test)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-06-27
-> **負責人:** Andrew_Au
-> **組件:** Day End, Frontend
 
 ## 問題描述
 

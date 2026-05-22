@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1147: V75 POS Cannnot auto create the localqueue and rewponsequeue"
 issue_key: FE-1147
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1147: V75 POS Cannnot auto create the localqueue and rewponsequeue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

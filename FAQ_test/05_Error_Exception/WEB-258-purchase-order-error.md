@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-258: Purchase Order Error"
 issue_key: WEB-258
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-258: Purchase Order Error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Ken Lam
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

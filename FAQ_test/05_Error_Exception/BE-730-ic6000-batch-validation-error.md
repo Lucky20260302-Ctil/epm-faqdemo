@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-730: IC6000 batch validation error"
 issue_key: BE-730
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-730: IC6000 batch validation error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-04-06
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1258: [Lands] Total Quantity in receipt display as 0 when order imported from HKMS 2.0/ shop cart"
 issue_key: FE-1258
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1258: [Lands] Total Quantity in receipt display as 0 when order imported from HKMS 2.0/ shop cart
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** front end v760.02
 
 ## 問題描述
 

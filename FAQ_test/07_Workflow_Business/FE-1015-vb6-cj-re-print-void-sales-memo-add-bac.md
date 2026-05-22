@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1015: VB6 CJ Re-print Void Sales Memo – Add back print Signature Slip"
 issue_key: FE-1015
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1015: VB6 CJ Re-print Void Sales Memo – Add back print Signature Slip
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-09-20
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1220: Exclude LGV miscalculation of Pangdonglai interface & modify Not export logic"
 issue_key: BE-1220
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1220: Exclude LGV miscalculation of Pangdonglai interface & modify Not export logic 
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

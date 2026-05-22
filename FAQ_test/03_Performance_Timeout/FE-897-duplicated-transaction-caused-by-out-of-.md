@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-897: Duplicated Transaction caused by out of memory"
 issue_key: FE-897
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-897: Duplicated Transaction caused by out of memory 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-08-18
-> **負責人:** Sang
-> **組件:** Sales
 
 ## 問題描述
 

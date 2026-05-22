@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1906: [DTUT] Edit module pop up 'Could not find file C:/redata6/BatchData.Mdb'"
 issue_key: FE-1906
 issue_type: Bug QA
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1906: [DTUT] Edit module pop up 'Could not find file C:\redata6\BatchData.Mdb'
-
-> **類型:** Bug QA | **狀態:** Selected for Development (migrated)
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

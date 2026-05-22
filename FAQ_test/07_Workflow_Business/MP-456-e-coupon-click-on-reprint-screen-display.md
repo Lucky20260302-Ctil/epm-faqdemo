@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-456: E-coupon click on reprint screen display product not found"
 issue_key: MP-456
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-456: E-coupon click on reprint screen display product not found
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-06-13
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

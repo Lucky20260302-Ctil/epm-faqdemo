@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1717: [INC3048662][[CS-1479]]PRC Zlog of VIP Master still send to FE"
 issue_key: FE-1717
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1717: [INC3048662][[CS-1479]]PRC Zlog of VIP Master still send to FE
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Joy Li
-> **組件:** interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-282: eName Blank Page + Slow display"
 issue_key: WEB-282
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-282: eName Blank Page + Slow display
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-07-14
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

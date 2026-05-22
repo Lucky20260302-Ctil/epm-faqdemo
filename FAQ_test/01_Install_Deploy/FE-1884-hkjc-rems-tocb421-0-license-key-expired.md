@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1884: HKJC REMS TOCB421-0 license key expired"
 issue_key: FE-1884
 issue_type: Bug PRD
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1884: HKJC REMS TOCB421-0 license key expired
-
-> **類型:** Bug PRD | **狀態:** Release
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **負責人:** Andrew_Au
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

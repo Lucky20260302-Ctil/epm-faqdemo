@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1897: [LCX] Fail to redeem a specific Gift code & Pop up a error"
 issue_key: FE-1897
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1897: [LCX] Fail to redeem a specific Gift code & Pop up a error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-04-21
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

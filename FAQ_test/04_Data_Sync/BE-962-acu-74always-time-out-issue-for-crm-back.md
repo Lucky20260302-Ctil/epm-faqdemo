@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-962: [ACU-74]Always Time out issue for CRM Backend Data Sync program in HK/MO QA"
 issue_key: BE-962
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-962: [ACU-74]Always Time out issue for CRM Backend Data Sync program in HK/MO QA
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-12-20
-> **負責人:** Sherman tse
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

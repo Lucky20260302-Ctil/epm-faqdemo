@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-811: Q2023-097-ERM- Coach SG- SOW of KS SEA VIP Data Cleansing CR v1.0i"
 issue_key: BE-811
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-811: Q2023-097-ERM- Coach SG- SOW of KS SEA VIP Data Cleansing CR v1.0i
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-09-27
-> **負責人:** Joy Li
-> **組件:** Backend (V66)
 
 ## 問題描述
 

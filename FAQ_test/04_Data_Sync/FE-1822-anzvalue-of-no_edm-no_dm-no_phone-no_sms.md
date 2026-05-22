@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1822: [ANZ]Value of No_EDM, No_DM, No_Phone, No_SMS option missing in DB from PCD flow"
 issue_key: FE-1822
 issue_type: Task
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1822: [ANZ]Value of No_EDM, No_DM, No_Phone, No_SMS option missing in DB from PCD flow
-
-> **類型:** Task | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **負責人:** Sherman tse
-> **組件:** BackEnd
 
 ## 問題描述
 

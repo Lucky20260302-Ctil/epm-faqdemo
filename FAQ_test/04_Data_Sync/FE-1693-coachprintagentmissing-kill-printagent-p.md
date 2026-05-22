@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1693: [Coach][PrintAgent]Missing kill PrintAgent process causing PrintAgent still exist after POS dayend"
 issue_key: FE-1693
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1693: [Coach][PrintAgent]Missing kill PrintAgent process causing PrintAgent still exist after POS dayend
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-09-10
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

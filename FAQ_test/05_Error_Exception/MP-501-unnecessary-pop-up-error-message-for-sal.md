@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-501: Unnecessary pop up error message for sales void"
 issue_key: MP-501
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-501: Unnecessary pop up error message for sales void
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-06-13
-> **負責人:** Kelly Ng
-> **組件:** MPOS
 
 ## 問題描述
 

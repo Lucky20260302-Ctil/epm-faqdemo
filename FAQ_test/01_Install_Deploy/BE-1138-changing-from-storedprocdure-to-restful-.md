@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1138: Changing from StoredProcdure to Restful API calling for OSSRGM"
 issue_key: BE-1138
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1138: Changing from StoredProcdure to Restful API calling for OSSRGM
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-09-23
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

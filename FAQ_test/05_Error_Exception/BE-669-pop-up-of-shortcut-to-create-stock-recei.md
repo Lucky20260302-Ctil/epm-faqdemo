@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-669: Pop up of shortcut to create stock receive (rc2000) still existing after click OK in Unauthorized Access"
 issue_key: BE-669
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-669: Pop up of shortcut to create stock receive (rc2000) still existing after click OK in Unauthorized Access  
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-04-27
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-928: Attend_Pos_Date is not equal to POS date"
 issue_key: FE-928
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-928: Attend_Pos_Date is not equal to POS date
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-03-01
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

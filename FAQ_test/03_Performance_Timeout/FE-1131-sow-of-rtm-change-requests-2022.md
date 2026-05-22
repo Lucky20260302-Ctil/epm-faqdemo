@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1131: SOW of RTM Change Requests 2022"
 issue_key: FE-1131
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1131: SOW of RTM Change Requests 2022
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-09-10
-> **負責人:** Bobby
-> **組件:** Front End v720.02
 
 ## 問題描述
 

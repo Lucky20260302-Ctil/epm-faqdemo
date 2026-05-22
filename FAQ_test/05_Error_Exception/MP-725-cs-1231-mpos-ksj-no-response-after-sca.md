@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-725: [CS-1231] mPOS | KSJ | No Response after Scanning Member ID Barcodes (through Member Lookup) directly using the iPhone Camera"
 issue_key: MP-725
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-725: [CS-1231] mPOS | KSJ | No Response after Scanning Member ID Barcodes (through Member Lookup) directly using the iPhone Camera
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-03-06
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

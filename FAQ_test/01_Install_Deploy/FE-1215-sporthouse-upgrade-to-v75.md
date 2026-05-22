@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1215: SportHouse Upgrade to V75"
 issue_key: FE-1215
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1215: SportHouse Upgrade to V75
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-11-16
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

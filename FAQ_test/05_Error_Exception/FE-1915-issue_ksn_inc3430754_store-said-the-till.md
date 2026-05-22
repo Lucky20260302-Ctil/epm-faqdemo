@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1915: Issue_KSN_INC3430754_Store said the till 1 & 2 have the new log update symbol there but after clicked it, showing error"
 issue_key: FE-1915
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1915: Issue_KSN_INC3430754_Store said the till 1 & 2 have the new log update symbol there but after clicked it, showing error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2026-04-16
-> **負責人:** Tovi Wang
-> **組件:** Front End
 
 ## 問題描述
 

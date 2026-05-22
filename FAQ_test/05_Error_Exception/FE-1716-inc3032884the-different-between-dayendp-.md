@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1716: [INC3032884]the different between dayendp and joupay caused the dayend issue"
 issue_key: FE-1716
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1716: [INC3032884]the different between dayendp and joupay caused the dayend issue
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-09-08
-> **負責人:** Cy Lau
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

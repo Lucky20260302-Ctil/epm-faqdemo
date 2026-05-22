@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-944: [ACU-106]CRM - vip name can't sync with CRM API response"
 issue_key: BE-944
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-944: [ACU-106]CRM - vip name can't sync with CRM API response
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-02-24
-> **負責人:** Joy Li
-> **組件:** API
 
 ## 問題描述
 

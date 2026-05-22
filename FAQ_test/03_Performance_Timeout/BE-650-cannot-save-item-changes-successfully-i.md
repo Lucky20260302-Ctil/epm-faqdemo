@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-650: Cannot save item changes successfully  in Open Item Recovery(MF5004)"
 issue_key: BE-650
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-650: Cannot save item changes successfully  in Open Item Recovery(MF5004)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-02-16
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

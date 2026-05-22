@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1182: Coach JP Citizen TCT-S281 TMU 58mm Printer - DotNet Printer"
 issue_key: FE-1182
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1182: Coach JP Citizen TCT-S281 TMU 58mm Printer - DotNet Printer
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-05-04
-> **負責人:** Andy Ko
-> **組件:** Front End
 
 ## 問題描述
 

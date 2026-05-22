@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1479: [CS-1012]  MM Coupon sorting enhance on FE"
 issue_key: FE-1479
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1479: [CS-1012]  MM Coupon sorting enhance on FE
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-03-06
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-426: CJ #130 - Queue Busting – Fail to Close the order in Queue Busting after complete transaction"
 issue_key: MP-426
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-426: CJ #130 - Queue Busting – Fail to Close the order in Queue Busting after complete transaction
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-05-17
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

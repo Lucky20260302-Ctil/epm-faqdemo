@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1566: [Coach][CRM milestone 2] No need to display 'Fail to connect CRM' when Member created by POS directly"
 issue_key: FE-1566
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1566: [Coach][CRM milestone 2] No need to display "Fail to connect CRM" when Member created by POS directly
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-21
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-939: HKJC CR Patch"
 issue_key: FE-939
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-939: HKJC CR Patch
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-08-18
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

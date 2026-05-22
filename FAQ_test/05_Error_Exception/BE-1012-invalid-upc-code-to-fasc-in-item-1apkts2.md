@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1012: Invalid UPC Code to FASC in Item 1APKTS25KDM001 Mem Bdg K-Tee plain"
 issue_key: BE-1012
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1012: Invalid UPC Code to FASC in Item 1APKTS25KDM001 Mem Bdg K-Tee plain
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-03-21
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

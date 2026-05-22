@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1834: [KSJ] Produce 2 rows of line 34 in pcd file after completed an order with new member created by POS"
 issue_key: FE-1834
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1834: [KSJ] Produce 2 rows of line 34 in pcd file after completed an order with new member created by POS
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2026-03-03
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

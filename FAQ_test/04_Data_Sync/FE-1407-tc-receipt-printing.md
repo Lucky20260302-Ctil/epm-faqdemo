@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1407: T&C Receipt Printing"
 issue_key: FE-1407
 issue_type: SOW
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1407: T&C Receipt Printing
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Cy Lau
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-371: ename - in tourist registration, unable to delete the first character in mobile phone field"
 issue_key: WEB-371
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-371: ename - in tourist registration, unable to delete the first character in mobile phone field
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-11-19
-> **負責人:** Daniel Leung
-> **組件:** eName
 
 ## 問題描述
 

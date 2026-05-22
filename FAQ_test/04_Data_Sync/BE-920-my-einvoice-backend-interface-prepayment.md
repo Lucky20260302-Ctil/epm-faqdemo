@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-920: MY eInvoice backend interface prepayment amount issue"
 issue_key: BE-920
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-920: MY eInvoice backend interface prepayment amount issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-10-17
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

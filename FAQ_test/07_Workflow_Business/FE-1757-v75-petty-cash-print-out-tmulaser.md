@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1757: V75 Petty Cash Print Out - TMU/Laser"
 issue_key: FE-1757
 issue_type: Improvement
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1757: V75 Petty Cash Print Out - TMU/Laser
-
-> **類型:** Improvement | **狀態:** Selected for Development (migrated)
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

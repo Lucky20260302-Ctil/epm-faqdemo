@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-838: Void Gift Cert  Memo - Support Online Payment"
 issue_key: FE-838
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-838: Void Gift Cert  Memo - Support Online Payment
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-08-16
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

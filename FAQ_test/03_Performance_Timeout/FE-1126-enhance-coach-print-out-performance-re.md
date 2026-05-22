@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1126: Enhance Coach Print Out Performance - Re-Get Member Name"
 issue_key: FE-1126
 issue_type: Improvement
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1126: Enhance Coach Print Out Performance - Re-Get Member Name
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-05-06
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1758: V75 Cash Pickup Print Out - TMU/Laser"
 issue_key: FE-1758
 issue_type: Improvement
 status: Open
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # FE-1758: V75 Cash Pickup Print Out - TMU/Laser
-
-> **類型:** Improvement | **狀態:** Open
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **組件:** Front End
 
 ## 問題描述
 

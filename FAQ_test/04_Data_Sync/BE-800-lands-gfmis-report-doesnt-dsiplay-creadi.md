@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-800: [Lands] GFMIS report doesn't dsiplay creadit card (inserted by manual) payment method"
 issue_key: BE-800
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-800: [Lands] GFMIS report doesn't dsiplay creadit card (inserted by manual) payment method
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-10-09
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

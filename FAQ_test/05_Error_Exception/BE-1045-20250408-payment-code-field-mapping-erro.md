@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1045: 20250408 Payment Code field mapping error"
 issue_key: BE-1045
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1045: 20250408 Payment Code field mapping error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-10-06
-> **負責人:** Jett.He
-> **組件:** Data Interface
 
 ## 問題描述
 

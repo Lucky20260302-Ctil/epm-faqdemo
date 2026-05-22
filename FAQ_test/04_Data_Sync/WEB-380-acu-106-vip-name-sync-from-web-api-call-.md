@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-380: [ACU-106] VIP name sync from web API call instead of hardcoding as BEAPI"
 issue_key: WEB-380
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-380: [ACU-106] VIP name sync from web API call instead of hardcoding as BEAPI
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-01-08
-> **負責人:** Sherman tse
-> **組件:** BEAPICRM
 
 ## 問題描述
 

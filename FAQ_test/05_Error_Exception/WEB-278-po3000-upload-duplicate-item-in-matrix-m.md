@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-278: PO3000 upload duplicate item in matrix mode"
 issue_key: WEB-278
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-278: PO3000 upload duplicate item in matrix mode
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-04-06
-> **負責人:** Jerry Wong
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

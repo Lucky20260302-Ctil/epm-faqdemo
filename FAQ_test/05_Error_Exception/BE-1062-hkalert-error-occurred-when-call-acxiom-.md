@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1062: [HK][Alert] Error occurred when call ACXIOM CRM API: Profile Search"
 issue_key: BE-1062
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1062: [HK][Alert] Error occurred when call ACXIOM CRM API: Profile Search
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

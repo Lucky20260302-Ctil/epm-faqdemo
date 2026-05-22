@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1337: SPH Service memo member information mask with deposit"
 issue_key: FE-1337
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1337: SPH Service memo member information mask with deposit
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-03-05
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

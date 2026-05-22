@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-279: iPad Sales - 03"
 issue_key: MP-279
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-279: iPad Sales - 03
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-12-10
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

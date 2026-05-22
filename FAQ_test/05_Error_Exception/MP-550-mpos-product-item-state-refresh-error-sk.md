@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-550: MPOS Product item state refresh error (SKU: 3334)"
 issue_key: MP-550
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-550: MPOS Product item state refresh error (SKU: 3334)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-05-15
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

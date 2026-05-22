@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-326: [eName] Unable to update modified customer data"
 issue_key: WEB-326
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-326: [eName] Unable to update modified customer data
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-06-21
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

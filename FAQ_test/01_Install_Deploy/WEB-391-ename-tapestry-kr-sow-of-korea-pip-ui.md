@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-391: eName - Tapestry KR- SOW of Korea PIP UI Masking Enhancements"
 issue_key: WEB-391
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-391: eName - Tapestry KR- SOW of Korea PIP UI Masking Enhancements
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-06-30
-> **負責人:** Ken Wang
-> **組件:** eName
 
 ## 問題描述
 

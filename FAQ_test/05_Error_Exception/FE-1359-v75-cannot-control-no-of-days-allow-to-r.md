@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1359: v75 cannot control no of days allow to reprint the memo"
 issue_key: FE-1359
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1359: v75 cannot control no of days allow to reprint the memo
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

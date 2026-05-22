@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-934: MF0001 Show the wrong retail"
 issue_key: BE-934
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-934: MF0001 Show the wrong retail
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-12-03
-> **負責人:** Andrew_Au
-> **組件:** Backend (Web)
 
 ## 問題描述
 

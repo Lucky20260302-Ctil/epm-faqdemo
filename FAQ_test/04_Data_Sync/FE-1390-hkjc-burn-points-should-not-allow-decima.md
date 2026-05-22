@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1390: HKJC burn points should not allow decimals"
 issue_key: FE-1390
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1390: HKJC burn points should not allow decimals
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-06-12
-> **負責人:** Andy Ko
-> **組件:** Front End
 
 ## 問題描述
 

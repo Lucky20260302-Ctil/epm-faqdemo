@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-59: csplus - SQL & API split GLDATA"
 issue_key: WEB-59
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-59: csplus - SQL & API split GLDATA
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-09-04
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

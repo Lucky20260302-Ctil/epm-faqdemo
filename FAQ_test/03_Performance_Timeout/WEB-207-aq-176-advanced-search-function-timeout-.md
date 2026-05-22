@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-207: AQ-176: Advanced Search function timeout error message"
 issue_key: WEB-207
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-207: AQ-176: Advanced Search function timeout error message
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-11-09
-> **負責人:** Joy Li
-> **組件:** API
 
 ## 問題描述
 

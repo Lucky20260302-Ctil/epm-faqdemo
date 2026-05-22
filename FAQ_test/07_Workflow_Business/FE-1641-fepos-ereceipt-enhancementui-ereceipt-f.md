@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1641: FEPOS eReceipt Enhancement(UI + eReceipt flow)"
 issue_key: FE-1641
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1641: FEPOS eReceipt Enhancement(UI + eReceipt flow)
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-09-30
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

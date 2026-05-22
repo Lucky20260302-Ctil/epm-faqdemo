@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-951: CS-940 CJ return policy"
 issue_key: BE-951
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-951: CS-940 CJ return policy
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-11-22
-> **負責人:** Andrew_Au
-> **組件:** Backend (V66)
 
 ## 問題描述
 

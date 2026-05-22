@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-901: cash coupon show repeat"
 issue_key: FE-901
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-901: cash coupon show repeat 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-08-18
-> **負責人:** Desmond Mak
-> **組件:** Frontend, Sales
 
 ## 問題描述
 

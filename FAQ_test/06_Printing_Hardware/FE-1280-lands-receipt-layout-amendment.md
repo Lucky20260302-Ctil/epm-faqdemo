@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1280: Lands Receipt layout Amendment"
 issue_key: FE-1280
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1280: Lands Receipt layout Amendment
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **組件:** Front End
 
 ## 問題描述
 

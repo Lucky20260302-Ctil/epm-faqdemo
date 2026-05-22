@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-905: SPH iyy,idd,imm missing by interface import member"
 issue_key: BE-905
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-905: SPH iyy,idd,imm missing by interface import member
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-10-24
-> **負責人:** Bobby
-> **組件:** Backend (V66)
 
 ## 問題描述
 

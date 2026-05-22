@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1218: [CS-1824] [INC3250498]Issue_MO_CRM Job APP_CS2000_Acxiom_CRM_Backend_Data_Sync_MO has been Completed Abnormally"
 issue_key: BE-1218
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1218: [CS-1824] [INC3250498]Issue_MO_CRM Job APP_CS2000_Acxiom_CRM_Backend_Data_Sync_MO has been Completed Abnormally
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **負責人:** Cy Lau
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1037: New VIP - Member Enquiry Page"
 issue_key: FE-1037
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1037: New VIP - Member Enquiry Page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-12-02
-> **負責人:** Joy Li
-> **組件:** Enquiry
 
 ## 問題描述
 

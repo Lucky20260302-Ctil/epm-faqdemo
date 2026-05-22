@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-385: SOW of MPOS PrintHub Enhancement"
 issue_key: WEB-385
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-385: SOW of MPOS PrintHub Enhancement
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-05-12
-> **負責人:** Cy Lau
-> **組件:** BEAPI
 
 ## 問題描述
 

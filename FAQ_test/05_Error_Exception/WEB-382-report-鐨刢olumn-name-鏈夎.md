@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-382: report 的column name 有误"
 issue_key: WEB-382
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-382: report 的column name 有误
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **負責人:** Anson Cheung
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-706: PO_Price Method cannot triggered from IM_price flag"
 issue_key: BE-706
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-706: PO_Price Method cannot triggered from IM_price flag
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-12-30
-> **負責人:** Jacky Lam
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

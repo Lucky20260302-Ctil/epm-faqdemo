@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1235: [CS-1412] Issue_OC555 Landlord sales interface logic is wrong"
 issue_key: BE-1235
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1235: [CS-1412] Issue_OC555 Landlord sales interface logic is wrong
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2026-05-05
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-829: AS2000 and SE8008 Text search on Error Message or Filename field doesn't work when the field has null"
 issue_key: BE-829
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-829: AS2000 and SE8008 Text search on Error Message or Filename field doesn't work when the field has null
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-11-10
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

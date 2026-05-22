@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-332: Remove 1st and 2nd page in new customer creation flow"
 issue_key: WEB-332
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-332: Remove 1st and 2nd page in new customer creation flow
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2023-07-20
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

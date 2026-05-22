@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1130: J345 Sales data incorrect + wrong dayend report"
 issue_key: FE-1130
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1130: J345 Sales data incorrect + wrong dayend report
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-03-06
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-516: Polling program --- Error “ETX file not found”"
 issue_key: BE-516
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-516: Polling program --- Error “ETX file not found”
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-08-24
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

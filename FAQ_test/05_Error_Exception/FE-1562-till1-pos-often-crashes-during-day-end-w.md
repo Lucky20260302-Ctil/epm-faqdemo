@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1562: till1 POS Often crashes during day end while input 'Y'"
 issue_key: FE-1562
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1562: till1 POS Often crashes during day end while input 'Y'
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-02-24
-> **負責人:** Joy Li
-> **組件:** Front End v720.02
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1548: Requiring Acxiom SEA QR Code decryption key"
 issue_key: FE-1548
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1548: Requiring Acxiom SEA QR Code decryption key 
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-12-24
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

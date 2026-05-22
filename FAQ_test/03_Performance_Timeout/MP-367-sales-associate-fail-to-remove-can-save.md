@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-367: Sales Associate fail to remove + can save invalid/resigned staff"
 issue_key: MP-367
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-367: Sales Associate fail to remove + can save invalid/resigned staff
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-02-22
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

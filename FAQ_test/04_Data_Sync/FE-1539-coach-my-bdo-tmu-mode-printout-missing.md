@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1539: Coach MY BDO - TMU mode printout missing footer"
 issue_key: FE-1539
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1539: Coach MY BDO - TMU mode printout missing footer
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-10-28
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

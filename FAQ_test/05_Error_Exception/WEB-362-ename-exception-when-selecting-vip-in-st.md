@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-362: ename exception when selecting VIP in store operations mode"
 issue_key: WEB-362
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-362: ename exception when selecting VIP in store operations mode
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-30
-> **組件:** eName
 
 ## 問題描述
 

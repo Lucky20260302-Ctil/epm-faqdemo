@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-762: [MPOS-87] HK region-MPOS - v3.29.5 20250325.3 [400] Invalid member type issue"
 issue_key: MP-762
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-762: [MPOS-87] HK region-MPOS - v3.29.5 20250325.3 [400] Invalid member type issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-05-02
-> **負責人:** Tovi Wang
-> **組件:** MPOS
 
 ## 問題描述
 

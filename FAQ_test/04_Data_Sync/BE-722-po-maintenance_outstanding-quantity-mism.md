@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-722: PO Maintenance_Outstanding Quantity Mismatch"
 issue_key: BE-722
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-722: PO Maintenance_Outstanding Quantity Mismatch
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-03-02
-> **負責人:** Hans Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

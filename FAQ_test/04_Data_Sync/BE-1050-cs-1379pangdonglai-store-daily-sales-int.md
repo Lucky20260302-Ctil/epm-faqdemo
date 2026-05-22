@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1050: [CS-1379]Pangdonglai Store Daily Sales Interface"
 issue_key: BE-1050
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1050: [CS-1379]Pangdonglai Store Daily Sales Interface
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-05-12
-> **負責人:** Jett.He
-> **組件:** Data Interface
 
 ## 問題描述
 

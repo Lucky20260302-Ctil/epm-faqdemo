@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1275: [Lands] Display same items no. in POS"
 issue_key: FE-1275
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1275: [Lands] Display same items no. in POS
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

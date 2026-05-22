@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-689: No data in a batch in Stock Replenishment Batch but sill able to execute Batch Validate"
 issue_key: BE-689
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-689: No data in a batch in Stock Replenishment Batch but sill able to execute Batch Validate
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-02-21
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

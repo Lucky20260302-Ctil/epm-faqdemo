@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-502: Support e-coupon with 15 character length"
 issue_key: BE-502
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-502: Support e-coupon with 15 character length
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-06-24
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1074: Coach .NetFramework 4.8"
 issue_key: BE-1074
 issue_type: Task
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1074: Coach .NetFramework 4.8
-
-> **類型:** Task | **狀態:** HOLD
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0), Data Interface
 
 ## 問題描述
 

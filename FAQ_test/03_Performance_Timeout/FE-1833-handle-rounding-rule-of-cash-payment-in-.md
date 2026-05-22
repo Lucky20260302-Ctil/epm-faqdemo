@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1833: Handle Rounding rule of Cash Payment in Tapestry ANZ"
 issue_key: FE-1833
 issue_type: Improvement
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1833: Handle Rounding rule of Cash Payment in Tapestry ANZ
-
-> **類型:** Improvement | **狀態:** Open
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

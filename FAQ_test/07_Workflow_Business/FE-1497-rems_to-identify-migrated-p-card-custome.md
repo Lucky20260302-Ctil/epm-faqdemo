@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1497: REMS_To identify migrated P card customers and offer discount"
 issue_key: FE-1497
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1497: REMS_To identify migrated P card customers and offer discount
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-03-04
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

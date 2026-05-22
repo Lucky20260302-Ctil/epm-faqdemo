@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1551: [Coach][CRM milestone 2] BEAPI send dynamic token= True but POS validate the dynamic token is fail"
 issue_key: FE-1551
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1551: [Coach][CRM milestone 2] BEAPI send dynamic token= True but POS validate the dynamic token is fail
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-03-13
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

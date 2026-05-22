@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1615: RIN01443671- loading member cost more time in V75"
 issue_key: FE-1615
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1615: RIN01443671- loading member cost more time in V75
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Anson Cheung
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

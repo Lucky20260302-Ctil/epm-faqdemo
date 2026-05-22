@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-532: ChainStorePlus Day End Validation issue when Misc. Amount exists"
 issue_key: BE-532
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-532: ChainStorePlus Day End Validation issue when Misc. Amount exists
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-12-21
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

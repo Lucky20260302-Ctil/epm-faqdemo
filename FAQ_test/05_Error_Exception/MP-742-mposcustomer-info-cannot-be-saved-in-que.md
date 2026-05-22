@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-742: [MPOS]Customer info cannot be saved in queue busting when order saved with no member"
 issue_key: MP-742
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-742: [MPOS]Customer info cannot be saved in queue busting when order saved with no member
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2025-02-24
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

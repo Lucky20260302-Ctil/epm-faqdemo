@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1943: IMX V75 Ecoupon display front size"
 issue_key: FE-1943
 issue_type: Task
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1943: IMX V75 Ecoupon display front size
-
-> **類型:** Task | **狀態:** Test in Progress
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

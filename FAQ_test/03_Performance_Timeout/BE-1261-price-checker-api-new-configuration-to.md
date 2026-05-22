@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1261: Price Checker API - New Configuration to handle on-sales validation in Full Date mode"
 issue_key: BE-1261
 issue_type: Bug PRD
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1261: Price Checker API - New Configuration to handle on-sales validation in Full Date mode
-
-> **類型:** Bug PRD | **狀態:** Test in Progress
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.5
-> **負責人:** Daniel Leung
-> **組件:** API
 
 ## 問題描述
 

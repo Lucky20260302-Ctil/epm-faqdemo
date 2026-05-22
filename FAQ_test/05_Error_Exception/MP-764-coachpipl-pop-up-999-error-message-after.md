@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-764: [Coach][PIPL] Pop up 999 error message after searching member with EXIT_PERMIT=1 by mobile number"
 issue_key: MP-764
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-764: [Coach][PIPL] Pop up 999 error message after searching member with EXIT_PERMIT=1 by mobile number
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-04-03
-> **負責人:** Daniel Leung
-> **組件:** MPOS API
 
 ## 問題描述
 

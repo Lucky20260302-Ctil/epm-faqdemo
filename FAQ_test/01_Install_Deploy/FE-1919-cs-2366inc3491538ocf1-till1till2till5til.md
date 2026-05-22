@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1919: [CS-2366][INC3491538]OCF1 Till1/Till2/Till5/Till7 All upgraded computer action slow and seems lagging all the time (all function)"
 issue_key: FE-1919
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1919: [CS-2366][INC3491538]OCF1 Till1/Till2/Till5/Till7 All upgraded computer action slow and seems lagging all the time (all function)
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

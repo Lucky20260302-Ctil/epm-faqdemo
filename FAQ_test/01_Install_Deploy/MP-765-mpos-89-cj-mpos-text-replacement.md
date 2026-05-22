@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-765: [MPOS-89] CJ mPOS Text Replacement"
 issue_key: MP-765
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-765: [MPOS-89] CJ mPOS Text Replacement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-06-05
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1059: [CS-1413]Issue_P type in CS2000"
 issue_key: BE-1059
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1059: [CS-1413]Issue_P type in CS2000
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-07-04
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

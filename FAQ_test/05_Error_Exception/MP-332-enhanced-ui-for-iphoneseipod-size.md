@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-332: Enhanced UI for iPhoneSE/iPod Size"
 issue_key: MP-332
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-332: Enhanced UI for iPhoneSE/iPod Size
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-12-17
-> **負責人:** Kelly Ng
-> **組件:** MPOS
 
 ## 問題描述
 

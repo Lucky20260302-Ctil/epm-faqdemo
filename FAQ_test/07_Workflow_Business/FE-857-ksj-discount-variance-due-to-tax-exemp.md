@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-857: KSJ - discount variance due to tax exemption"
 issue_key: FE-857
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-857: KSJ - discount variance due to tax exemption
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-08-16
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

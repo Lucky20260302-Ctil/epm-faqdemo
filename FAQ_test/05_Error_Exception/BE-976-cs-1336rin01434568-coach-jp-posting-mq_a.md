@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-976: [CS-1336]RIN01434568-COACH JP Posting MQ_A&MQ_01 terminated"
 issue_key: BE-976
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-976: [CS-1336]RIN01434568-COACH JP Posting MQ_A&MQ_01 terminated
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-05-02
-> **負責人:** Joseph_Hu
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

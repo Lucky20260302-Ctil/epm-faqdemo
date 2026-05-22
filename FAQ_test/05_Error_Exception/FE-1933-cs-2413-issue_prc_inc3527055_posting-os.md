@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1933: [CS-2413] Issue_PRC_INC3527055_Posting  OSS_A/ OSS_B/ OSS_C file time delay"
 issue_key: FE-1933
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1933: [CS-2413] Issue_PRC_INC3527055_Posting  OSS_A/ OSS_B/ OSS_C file time delay
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2026-04-17
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

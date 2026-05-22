@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1930: [CS-2632]How to enable Signout button in CS2000 POS FE"
 issue_key: FE-1930
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1930: [CS-2632]How to enable Signout button in CS2000 POS FE
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

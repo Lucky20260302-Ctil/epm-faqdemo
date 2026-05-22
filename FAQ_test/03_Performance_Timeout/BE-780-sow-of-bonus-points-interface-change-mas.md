@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-780: SOW of Bonus Points Interface Change Master VIP Update Logic"
 issue_key: BE-780
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-780: SOW of Bonus Points Interface Change Master VIP Update Logic
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-08-18
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

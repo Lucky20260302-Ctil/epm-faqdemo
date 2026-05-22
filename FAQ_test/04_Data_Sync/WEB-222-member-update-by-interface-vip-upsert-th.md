@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-222: Member update by interface (Vip Upsert Thread)"
 issue_key: WEB-222
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-222: Member update by interface (Vip Upsert Thread)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-03-01
-> **負責人:** Joy Li
-> **組件:** POS_API
 
 ## 問題描述
 

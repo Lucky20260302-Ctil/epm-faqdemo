@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-764: Please note all the database changes for the following tasks"
 issue_key: BE-764
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-764: Please note all the database changes for the following tasks
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-06-16
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

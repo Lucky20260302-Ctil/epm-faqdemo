@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-335: Cannot connect license server of enhancement"
 issue_key: MP-335
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-335: Cannot connect license server of enhancement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-01-29
-> **負責人:** kingsley_ng
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

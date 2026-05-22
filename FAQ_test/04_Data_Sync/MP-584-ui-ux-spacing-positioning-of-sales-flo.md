@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-584: UI / UX Spacing / positioning of sales flow"
 issue_key: MP-584
 issue_type: Improvement
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-584: UI / UX Spacing / positioning of sales flow
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-11-06
-> **組件:** MPOS
 
 ## 問題描述
 

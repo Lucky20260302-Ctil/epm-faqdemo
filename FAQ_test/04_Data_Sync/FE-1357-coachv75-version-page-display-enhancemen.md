@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1357: [Coach][v75] Version page display enhancement after permanent key inputed"
 issue_key: FE-1357
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1357: [Coach][v75] Version page display enhancement after permanent key inputed
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-03-21
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

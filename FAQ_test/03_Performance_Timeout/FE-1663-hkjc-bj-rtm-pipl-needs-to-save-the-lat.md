@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1663: HKJC BJ RTM - PIPL needs to save the latest IsConsentToHK in Deposit Return and Deposit Settlement."
 issue_key: FE-1663
 issue_type: Bug QA
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1663: HKJC BJ RTM - PIPL needs to save the latest IsConsentToHK in Deposit Return and Deposit Settlement.  
-
-> **類型:** Bug QA | **狀態:** Test in Progress
-> **分類:** 效能與逾時 | **FAQ 分數:** 10.0
-> **負責人:** Bobby
-> **組件:** POS+BE
 
 ## 問題描述
 

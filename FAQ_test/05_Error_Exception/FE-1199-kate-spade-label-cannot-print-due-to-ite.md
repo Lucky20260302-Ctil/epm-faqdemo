@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1199: Kate Spade label cannot print due to item size is 10"
 issue_key: FE-1199
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1199: Kate Spade label cannot print due to item size is 10
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-12-19
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

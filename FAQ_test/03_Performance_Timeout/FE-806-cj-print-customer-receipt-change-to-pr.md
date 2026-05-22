@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-806: CJ Print Customer Receipt - Change to Print Customer Copy"
 issue_key: FE-806
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-806: CJ Print Customer Receipt - Change to Print Customer Copy 
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-11-06
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

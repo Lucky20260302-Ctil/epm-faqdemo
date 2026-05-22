@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-575: Return item allow price overwrite > List Price"
 issue_key: MP-575
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-575: Return item allow price overwrite > List Price 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-10-24
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

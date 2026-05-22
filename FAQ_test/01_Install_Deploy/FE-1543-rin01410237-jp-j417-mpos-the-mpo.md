@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1543: RIN01410237 - JP - J417  - Mpos : the mpos will register double sales"
 issue_key: FE-1543
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1543: RIN01410237 - JP - J417  - Mpos : the mpos will register double sales
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

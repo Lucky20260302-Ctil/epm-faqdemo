@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1399: cash drawer deceive name from csh1 to csh2"
 issue_key: FE-1399
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1399: cash drawer deceive name from csh1 to csh2
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-05-30
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

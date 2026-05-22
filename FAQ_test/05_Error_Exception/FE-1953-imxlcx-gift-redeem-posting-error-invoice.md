@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1953: IMX[LCX] gift redeem posting error Invoice page count out of sequence"
 issue_key: FE-1953
 issue_type: Task
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1953: IMX[LCX] gift redeem posting error Invoice page count out of sequence                                              
-
-> **類型:** Task | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Jerry Wong
-> **組件:** Front End
 
 ## 問題描述
 

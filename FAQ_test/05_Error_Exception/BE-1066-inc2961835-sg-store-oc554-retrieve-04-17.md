@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1066: [INC2961835] SG store OC554 Retrieve 04-17 sales records to Landlord have error"
 issue_key: BE-1066
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1066: [INC2961835] SG store OC554 Retrieve 04-17 sales records to Landlord have error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

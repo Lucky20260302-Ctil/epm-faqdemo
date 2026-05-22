@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-879: Print Label program"
 issue_key: FE-879
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-879: Print Label program
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-12-18
-> **負責人:** Andrew_Au
-> **組件:** Frontend
 
 ## 問題描述
 

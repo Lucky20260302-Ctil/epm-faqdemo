@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1158: MPOS cannot complete the sales transactions when set the prtcompany='PROJECT"
 issue_key: FE-1158
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1158: MPOS cannot complete the sales transactions when set the prtcompany='PROJECT
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

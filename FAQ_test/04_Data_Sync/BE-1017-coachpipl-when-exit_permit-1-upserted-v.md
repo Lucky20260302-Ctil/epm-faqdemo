@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1017: [Coach][PIPL] When EXIT_PERMIT = 1, upserted value of vip_comp_code need to be 11 in vip table"
 issue_key: BE-1017
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1017: [Coach][PIPL] When EXIT_PERMIT = 1, upserted value of vip_comp_code need to be 11 in vip table
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2026-05-05
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1414: [CS-1073] KS MY/SG - CDP member sales with coupon cannot post to BE with error"
 issue_key: FE-1414
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1414: [CS-1073] KS MY/SG - CDP member sales with coupon cannot post to BE with error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **解決日期:** 2025-03-06
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

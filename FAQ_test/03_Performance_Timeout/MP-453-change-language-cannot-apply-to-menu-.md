@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-453: Change language cannot apply to menu"
 issue_key: MP-453
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-453: Change language cannot apply to menu 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-08-16
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

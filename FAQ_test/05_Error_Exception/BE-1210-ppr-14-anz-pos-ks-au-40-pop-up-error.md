@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1210: [PPR-14] ANZ - POS KS AU 40 - pop up error when execute the program manually in server side"
 issue_key: BE-1210
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1210: [PPR-14] ANZ - POS KS AU 40 - pop up error when execute the program manually in server side
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **負責人:** Joy Li
-> **組件:** Backend (V66)
 
 ## 問題描述
 

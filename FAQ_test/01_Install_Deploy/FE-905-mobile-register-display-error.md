@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-905: Mobile register display error"
 issue_key: FE-905
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-905: Mobile register display error
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-08-18
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-233: Discount creation cannot be updated in CS2K BE"
 issue_key: WEB-233
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-233: Discount creation cannot be updated in CS2K BE
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2022-06-28
-> **負責人:** Joy Li
-> **組件:** Epromo
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-652: Cannot display Retail Price after users selected item in Price Markup/Down Maintenance"
 issue_key: BE-652
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-652: Cannot display Retail Price after users selected item in Price Markup/Down Maintenance
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-02-15
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

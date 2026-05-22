@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1051: [CS-1390] CAR Interface Changing the posting date time to transaction hour-min"
 issue_key: BE-1051
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1051: [CS-1390] CAR Interface Changing the posting date time to transaction hour-min
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-05-12
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

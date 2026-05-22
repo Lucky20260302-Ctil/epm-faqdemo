@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1691: [INC2961036] total amount didn't minus the discount"
 issue_key: FE-1691
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1691: [INC2961036] total amount didn't minus the discount
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Front End v720.02
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-786: [Stability, Tech Debt] SignalR plugin development"
 issue_key: MP-786
 issue_type: Improvement
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-786: [Stability, Tech Debt] SignalR plugin development
-
-> **類型:** Improvement | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1685: INC2946404 - TW - OC727 Till0 failed print out dayend report"
 issue_key: FE-1685
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1685: INC2946404 - TW - OC727 Till0 failed print out dayend report
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-06-05
-> **負責人:** Sang
-> **組件:** Day End
 
 ## 問題描述
 

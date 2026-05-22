@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-349: No network checking on search page to confirm"
 issue_key: MP-349
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-349: No network checking on search page to confirm
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-02-23
-> **負責人:** Sam Chan
-> **組件:** MPOS
 
 ## 問題描述
 

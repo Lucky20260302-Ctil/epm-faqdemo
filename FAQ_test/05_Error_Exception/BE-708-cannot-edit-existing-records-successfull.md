@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-708: Cannot edit existing records successfully in VAT Tax Rate"
 issue_key: BE-708
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-708: Cannot edit existing records successfully in VAT Tax Rate
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-03-03
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

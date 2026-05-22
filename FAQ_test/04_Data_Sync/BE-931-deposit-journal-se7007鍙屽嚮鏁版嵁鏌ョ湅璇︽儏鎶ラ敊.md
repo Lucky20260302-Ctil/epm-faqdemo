@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-931: Deposit Journal (SE7007):双击数据查看详情，报错"
 issue_key: BE-931
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-931: Deposit Journal (SE7007):双击数据查看详情，报错
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-11-06
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

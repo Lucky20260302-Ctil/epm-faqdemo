@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-705: [CS-1092] V75 - MPOS v3.28.3 unable to redeem Gift cert"
 issue_key: MP-705
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-705: [CS-1092] V75 - MPOS v3.28.3 unable to redeem Gift cert
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-08-30
-> **負責人:** Sherman tse
-> **組件:** MPOS
 
 ## 問題描述
 

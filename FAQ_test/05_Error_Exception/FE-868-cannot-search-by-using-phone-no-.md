@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-868: cannot search by using phone no."
 issue_key: FE-868
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-868: cannot search by using phone no. 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-08-16
-> **負責人:** Desmond Mak
-> **組件:** Frontend
 
 ## 問題描述
 

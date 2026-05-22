@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-780: [MPOS-101]KSJ MPOS - v3.29.5f invalid member type issue"
 issue_key: MP-780
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-780: [MPOS-101]KSJ MPOS - v3.29.5f invalid member type issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2025-07-04
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

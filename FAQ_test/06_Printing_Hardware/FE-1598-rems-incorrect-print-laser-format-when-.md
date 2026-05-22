@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1598: REMS incorrect print laser format , when default printer is tmu windows printer"
 issue_key: FE-1598
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1598: REMS incorrect print laser format , when default printer is tmu windows printer
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-01-03
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

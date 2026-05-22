@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1830: Modify FEPOS to have Day-end consolidated report if 3rd party (Omni) is enabled"
 issue_key: FE-1830
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1830: Modify FEPOS to have Day-end consolidated report if 3rd party (Omni) is enabled
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-02-26
-> **負責人:** Ken Wang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1268: [Lands] Cannot update correct price in real time when GOV member change as Public status"
 issue_key: FE-1268
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1268: [Lands] Cannot update correct price in real time when GOV member change as Public status
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-07-27
-> **負責人:** Sang
-> **組件:** front end v760.02
 
 ## 問題描述
 

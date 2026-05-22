@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-248: CJ Line QA 500 Error (CS-70)"
 issue_key: WEB-248
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-248: CJ Line QA 500 Error (CS-70)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-09-08
-> **負責人:** Joy Li
-> **組件:** API_Gateway
 
 ## 問題描述
 

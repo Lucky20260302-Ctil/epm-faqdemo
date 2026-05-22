@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file"
 issue_key: FE-1745
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-09-30
-> **負責人:** Shaun_Huang
-> **組件:** Front End
 
 ## 問題描述
 

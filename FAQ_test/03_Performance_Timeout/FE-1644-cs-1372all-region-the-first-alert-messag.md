@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1644: [CS-1372]All region The ‘First Alert Message’ will be changed after resaved"
 issue_key: FE-1644
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1644: [CS-1372]All region The ‘First Alert Message’ will be changed after resaved
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-07-04
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

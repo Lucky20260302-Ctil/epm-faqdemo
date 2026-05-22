@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-790: 【MPOS-114】CJ MPOS Prod_ J801 Sales page show null ''button''"
 issue_key: MP-790
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-790: 【MPOS-114】CJ MPOS Prod_ J801 Sales page show null ''button''
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-08-20
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

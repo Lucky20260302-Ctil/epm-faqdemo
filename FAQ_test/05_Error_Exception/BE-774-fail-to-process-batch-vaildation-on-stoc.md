@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-774: Fail to process batch vaildation on Stock Receive (TF6000)"
 issue_key: BE-774
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-774: Fail to process batch vaildation on Stock Receive (TF6000)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-06-23
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

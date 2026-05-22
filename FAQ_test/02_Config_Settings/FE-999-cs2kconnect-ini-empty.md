@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-999: cs2kconnect ini empty"
 issue_key: FE-999
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-999: cs2kconnect ini empty
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-07-23
-> **負責人:** Joy Li
-> **組件:** CS2kconnect
 
 ## 問題描述
 

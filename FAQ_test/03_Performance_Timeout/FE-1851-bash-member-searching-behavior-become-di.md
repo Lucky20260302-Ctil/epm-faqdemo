@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1851: [BASH] Member searching behavior become different after applied BASH release for fixing member issue"
 issue_key: FE-1851
 issue_type: Bug QA
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1851: [BASH] Member searching behavior become different after applied BASH release for fixing member issue
-
-> **類型:** Bug QA | **狀態:** DEV Done
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

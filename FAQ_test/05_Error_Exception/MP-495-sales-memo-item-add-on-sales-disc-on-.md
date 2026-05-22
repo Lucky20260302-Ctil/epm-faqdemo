@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-495: Sales Memo Item - Add On Sales disc % on mPOS sales item (API)"
 issue_key: MP-495
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-495: Sales Memo Item - Add On Sales disc % on mPOS sales item (API) 
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-09-21
-> **負責人:** howard
-> **組件:** MPOS API
 
 ## 問題描述
 

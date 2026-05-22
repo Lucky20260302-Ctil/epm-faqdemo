@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1513: IMX Dtutil error screen"
 issue_key: FE-1513
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1513: IMX Dtutil error screen
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-12-24
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

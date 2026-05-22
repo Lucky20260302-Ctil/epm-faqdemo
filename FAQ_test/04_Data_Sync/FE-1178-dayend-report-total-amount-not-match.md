@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1178: Dayend report total amount not match"
 issue_key: FE-1178
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1178: Dayend report total amount not match
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-25
-> **組件:** Front End
 
 ## 問題描述
 

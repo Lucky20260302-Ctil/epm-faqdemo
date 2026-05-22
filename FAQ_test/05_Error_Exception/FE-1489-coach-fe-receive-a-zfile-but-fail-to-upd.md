@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1489: [Coach] FE receive a zfile but fail to update tblcoupon table"
 issue_key: FE-1489
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1489: [Coach] FE receive a zfile but fail to update tblcoupon table
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-05
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

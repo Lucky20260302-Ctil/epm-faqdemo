@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-323: eName Mid-term - Barcode UI"
 issue_key: WEB-323
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-323: eName Mid-term - Barcode UI
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-06-16
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

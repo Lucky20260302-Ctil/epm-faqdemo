@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-809: [INC3398638] iPad cannot read barcode after update iOS26"
 issue_key: MP-809
 issue_type: Bug PRD
 status: Open
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # MP-809: [INC3398638] iPad cannot read barcode after update iOS26
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-543: Fail to update eCoupon redeem status"
 issue_key: MP-543
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-543: Fail to update eCoupon redeem status
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-03-01
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

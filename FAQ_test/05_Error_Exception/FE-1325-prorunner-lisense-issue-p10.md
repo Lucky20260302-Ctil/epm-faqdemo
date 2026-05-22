@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1325: Prorunner Lisense issue (P10)"
 issue_key: FE-1325
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1325: Prorunner Lisense issue (P10)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-01-08
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

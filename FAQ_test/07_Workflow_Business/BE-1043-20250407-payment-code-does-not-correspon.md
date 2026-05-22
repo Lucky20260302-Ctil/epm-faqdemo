@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1043: 20250407 payment code does not correspond to tender code"
 issue_key: BE-1043
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1043: 20250407 payment code does not correspond to tender code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-06-05
-> **負責人:** Jett.He
-> **組件:** Data Interface
 
 ## 問題描述
 

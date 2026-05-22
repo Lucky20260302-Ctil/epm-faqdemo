@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-834: new member created from member panel can't enjoy MM discount"
 issue_key: FE-834
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-834: new member created from member panel can't enjoy MM discount
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-08-01
-> **負責人:** Sang
-> **組件:** Frontend, Sales
 
 ## 問題描述
 

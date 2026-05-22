@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1530: Coach MY BDO - e-receipt (void) reason text is cut off at bottom"
 issue_key: FE-1530
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1530: Coach MY BDO - e-receipt (void) reason text is cut off at bottom
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-02-12
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

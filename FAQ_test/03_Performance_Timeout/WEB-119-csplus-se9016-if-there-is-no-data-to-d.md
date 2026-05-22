@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-119: csplus - SE9016 If there is no data to display while clicking the Analysis button, it will display 'no data' instead of 'loading'"
 issue_key: WEB-119
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-119: csplus - SE9016 If there is no data to display while clicking the Analysis button, it will display "no data" instead of "loading"
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-11
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

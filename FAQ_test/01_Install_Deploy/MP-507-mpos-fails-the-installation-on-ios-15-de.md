@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-507: MPOS Fails the Installation on iOS 15 Devices"
 issue_key: MP-507
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-507: MPOS Fails the Installation on iOS 15 Devices
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-12-08
-> **負責人:** Nathan Chan
-> **組件:** MPOS
 
 ## 問題描述
 

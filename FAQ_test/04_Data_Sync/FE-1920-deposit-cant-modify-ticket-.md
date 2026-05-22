@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1920: deposit can't modify ticket"
 issue_key: FE-1920
 issue_type: Bug QA
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1920: deposit can't modify ticket 
-
-> **類型:** Bug QA | **狀態:** Test in Progress
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

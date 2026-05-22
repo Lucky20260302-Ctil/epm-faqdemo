@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1872: [CS-2028] Setup Mpos last transaction number and member number"
 issue_key: FE-1872
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1872: [CS-2028] Setup Mpos last transaction number and member number
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2026-04-29
-> **負責人:** Joy Li
-> **組件:** API, Front End, MPOS
 
 ## 問題描述
 

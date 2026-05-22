@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-531: Multi-S3 Polling for All regions + new posting table"
 issue_key: BE-531
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-531: Multi-S3 Polling for All regions + new posting table 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-11-25
-> **負責人:** Joy Li
-> **組件:** Table
 
 ## 問題描述
 

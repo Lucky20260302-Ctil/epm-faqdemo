@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-587: 3.19.2 - Local IIS print - Missing Re-send wording"
 issue_key: MP-587
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-587: 3.19.2 - Local IIS print - Missing Re-send wording
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-08
-> **負責人:** Joy Li
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

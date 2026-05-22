@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-348: Payment Module - A920 Integration issue"
 issue_key: MP-348
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-348: Payment Module - A920 Integration issue
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-07-20
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

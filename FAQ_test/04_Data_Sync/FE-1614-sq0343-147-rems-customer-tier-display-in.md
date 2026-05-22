@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1614: (SQ0343-147) [REMS] Customer Tier display in POS UI not match with APP display"
 issue_key: FE-1614
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1614: (SQ0343-147) [REMS] Customer Tier display in POS UI not match with APP display
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1604: [CS-1315] - Issue_JP_INC2775648_Rakuten outlet J148 - CS2000 failed import transaction on 12/19"
 issue_key: FE-1604
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1604: [CS-1315] - Issue_JP_INC2775648_Rakuten outlet J148 - CS2000 failed import transaction on 12/19
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Cy Lau
-> **組件:** interface
 
 ## 問題描述
 

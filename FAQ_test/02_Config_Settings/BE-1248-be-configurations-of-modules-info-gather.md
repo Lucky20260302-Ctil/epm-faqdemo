@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1248: [BE] Configurations of Modules info gathering"
 issue_key: BE-1248
 issue_type: Task
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1248: [BE] Configurations of Modules info gathering
-
-> **類型:** Task | **狀態:** Selected for Development (migrated)
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

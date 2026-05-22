@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1051: Remove “listener.” and change MultiSubnetFailover from True to False"
 issue_key: FE-1051
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1051: Remove “listener.” and change MultiSubnetFailover from True to False
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-01-10
-> **負責人:** Joy Li
-> **組件:** Install_Package
 
 ## 問題描述
 

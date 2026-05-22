@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1345: [Lands] Government type only allow paid by 'Cash' for 0 amount"
 issue_key: FE-1345
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1345: [Lands] Government type only allow paid by "Cash" for 0 amount
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-02-15
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

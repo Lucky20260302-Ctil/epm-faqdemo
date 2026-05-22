@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-340: API: Missing Content of Payment API"
 issue_key: MP-340
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-340: API: Missing Content of Payment API
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-02-04
-> **負責人:** Kelly Ng
-> **組件:** MPOS API
 
 ## 問題描述
 

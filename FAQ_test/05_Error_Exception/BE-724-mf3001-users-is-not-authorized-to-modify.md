@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-724: MF3001 users is not authorized to modify the record"
 issue_key: BE-724
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-724: MF3001 users is not authorized to modify the record 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-04-06
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

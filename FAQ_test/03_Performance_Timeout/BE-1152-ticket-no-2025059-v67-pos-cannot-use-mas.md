@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1152: Ticket no. 2025059 v67 pos cannot use mastconv files to update pos data"
 issue_key: BE-1152
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1152: Ticket no. 2025059 v67 pos cannot use mastconv files to update pos data
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

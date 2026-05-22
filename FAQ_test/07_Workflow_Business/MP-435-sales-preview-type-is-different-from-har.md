@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-435: Sales Preview Type is different from Hardcopy in Cloud"
 issue_key: MP-435
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-435: Sales Preview Type is different from Hardcopy in Cloud
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-06-03
-> **負責人:** kingsley_ng
-> **組件:** MPOS API
 
 ## 問題描述
 

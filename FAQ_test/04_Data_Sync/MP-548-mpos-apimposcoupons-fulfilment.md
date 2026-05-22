@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-548: [MPOS-API][MPOS]Coupons fulfilment"
 issue_key: MP-548
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-548: [MPOS-API][MPOS]Coupons fulfilment
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-07-23
-> **負責人:** Daniel Leung
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

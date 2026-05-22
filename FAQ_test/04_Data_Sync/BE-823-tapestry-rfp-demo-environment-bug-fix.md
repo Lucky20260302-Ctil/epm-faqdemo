@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-823: Tapestry RFP Demo environment bug fix"
 issue_key: BE-823
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-823: Tapestry RFP Demo environment bug fix
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-11-02
-> **負責人:** Hans Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

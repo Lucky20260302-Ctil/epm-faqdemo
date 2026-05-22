@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1662: IMX void memo didnt return BP to member"
 issue_key: FE-1662
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1662: IMX void memo didnt return BP to member
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 8.0
-> **解決日期:** 2025-09-30
-> **負責人:** Jerry Wong
-> **組件:** Front End
 
 ## 問題描述
 

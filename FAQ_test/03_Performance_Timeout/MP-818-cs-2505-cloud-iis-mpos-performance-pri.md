@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-818: [CS-2505] Cloud IIS MPOS Performance - Printing"
 issue_key: MP-818
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-818: [CS-2505] Cloud IIS MPOS Performance - Printing
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-04-17
-> **負責人:** Sherman tse
-> **組件:** MPOS, MPOS API, MPOSPrint.exe
 
 ## 問題描述
 

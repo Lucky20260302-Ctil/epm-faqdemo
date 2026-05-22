@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-923: [Coach][CRM milestone 2] Fail to create new member into Backend DB VIP table"
 issue_key: BE-923
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-923: [Coach][CRM milestone 2] Fail to create new member into Backend DB VIP table
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-11-08
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

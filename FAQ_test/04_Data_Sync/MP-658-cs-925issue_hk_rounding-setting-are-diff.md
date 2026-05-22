@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-658: CS-925:Issue_HK_Rounding setting are different between POS and Mpos RIN01299427"
 issue_key: MP-658
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-658: CS-925:Issue_HK_Rounding setting are different between POS and Mpos RIN01299427
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-07-12
-> **負責人:** Cy Lau
-> **組件:** MPOS API
 
 ## 問題描述
 

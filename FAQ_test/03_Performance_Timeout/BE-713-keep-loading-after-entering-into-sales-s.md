@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-713: Keep loading after entering into Sales Staff Code Maintenance (MF0007)"
 issue_key: BE-713
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-713: Keep loading after entering into Sales Staff Code Maintenance (MF0007)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-02-16
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

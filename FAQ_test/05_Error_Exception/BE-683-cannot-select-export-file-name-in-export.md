@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-683: Cannot select export file name in Export POS Master Data"
 issue_key: BE-683
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-683: Cannot select export file name in Export POS Master Data
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-03-03
-> **負責人:** Thomas
-> **組件:** Backend (Web)
 
 ## 問題描述
 

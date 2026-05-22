@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-726: [Coach][CRM milestone 2] Keep loading after scan qr code that is out of CRM dynamic QR code"
 issue_key: MP-726
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-726: [Coach][CRM milestone 2] Keep loading after scan qr code that is out of CRM dynamic QR code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-13
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

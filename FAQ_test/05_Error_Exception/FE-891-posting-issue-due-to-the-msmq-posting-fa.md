@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-891: posting issue due to the MSMQ posting failure then POS switched to FTP posting"
 issue_key: FE-891
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-891: posting issue due to the MSMQ posting failure then POS switched to FTP posting
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-08-18
-> **負責人:** Desmond Mak
-> **組件:** Frontend
 
 ## 問題描述
 

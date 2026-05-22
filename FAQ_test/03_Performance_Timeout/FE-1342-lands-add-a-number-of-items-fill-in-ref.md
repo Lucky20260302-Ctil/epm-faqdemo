@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1342: [Lands] Add a number of items & fill in ref no/ additional no., then pos pop up restart message"
 issue_key: FE-1342
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1342: [Lands] Add a number of items & fill in ref no/ additional no., then pos pop up restart message
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-02-19
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

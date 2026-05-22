@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1908: [CS-2293]CJ_Customer data search_cannot see 'membership available period' info"
 issue_key: FE-1908
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1908: [CS-2293]CJ_Customer data search_cannot see "membership available period" info
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2026-04-17
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1153: [CS-1371] Testing schedule for SQL Server Upgrade from 2016 to 2022"
 issue_key: BE-1153
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1153: [CS-1371] Testing schedule for SQL Server Upgrade from 2016 to 2022
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-05-05
-> **負責人:** Sherman tse
-> **組件:** Backend (ChainStorePlus 7.0), Table
 
 ## 問題描述
 

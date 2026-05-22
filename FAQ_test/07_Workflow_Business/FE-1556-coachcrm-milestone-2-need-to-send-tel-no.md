@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1556: [Coach][CRM milestone 2] Need to send tel no.  to beapi when use QR code find member"
 issue_key: FE-1556
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1556: [Coach][CRM milestone 2] Need to send tel no.  to beapi when use QR code find member
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-11-22
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

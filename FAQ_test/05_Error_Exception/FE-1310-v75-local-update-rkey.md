@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1310: V75 Local update Rkey"
 issue_key: FE-1310
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1310: V75 Local update Rkey
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

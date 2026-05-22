@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1032: [ACU-122] Email field (When search customer) should have validation in backend"
 issue_key: BE-1032
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1032: [ACU-122] Email field (When search customer) should have validation in backend
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-05-02
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

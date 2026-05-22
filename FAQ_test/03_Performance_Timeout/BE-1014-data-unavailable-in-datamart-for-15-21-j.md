@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1014: Data Unavailable in Datamart for 15-21 Jan"
 issue_key: BE-1014
 issue_type: Change Request
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1014: Data Unavailable in Datamart for 15-21 Jan
-
-> **類型:** Change Request | **狀態:** DEV Done
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

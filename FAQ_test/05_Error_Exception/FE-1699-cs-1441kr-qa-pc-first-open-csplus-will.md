@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1699: [CS-1441]KR QA PC - First open CSPLUS will pop out follow error after dayend"
 issue_key: FE-1699
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1699: [CS-1441]KR QA PC - First open CSPLUS will pop out follow error after dayend
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-05-30
-> **負責人:** Sherman tse
-> **組件:** Frontend
 
 ## 問題描述
 

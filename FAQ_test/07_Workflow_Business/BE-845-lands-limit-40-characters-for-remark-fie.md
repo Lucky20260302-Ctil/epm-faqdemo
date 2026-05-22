@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-845: [Lands] Limit 40 characters for remark field from HKMS unpaid order"
 issue_key: BE-845
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-845: [Lands] Limit 40 characters for remark field from HKMS unpaid order
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-03
-> **負責人:** Sherman tse
-> **組件:** Backend (V66)
 
 ## 問題描述
 

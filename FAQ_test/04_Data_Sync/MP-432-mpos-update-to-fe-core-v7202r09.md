@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-432: MPOS update to FE core V72.02R09"
 issue_key: MP-432
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-432: MPOS update to FE core V72.02R09
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-07-20
-> **負責人:** kingsley_ng
-> **組件:** MPOS API
 
 ## 問題描述
 

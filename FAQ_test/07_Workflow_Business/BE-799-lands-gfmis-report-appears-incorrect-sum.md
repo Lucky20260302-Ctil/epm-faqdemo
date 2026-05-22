@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-799: [Lands] GFMIS report appears incorrect sum of total price"
 issue_key: BE-799
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-799: [Lands] GFMIS report appears incorrect sum of total price
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-09-07
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

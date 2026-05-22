@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-535: Enhancement - MPOS IIS Enhancement"
 issue_key: MP-535
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-535: Enhancement - MPOS IIS Enhancement
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-01-22
-> **負責人:** Cy Lau
-> **組件:** MPOS, MPOS API, MPOSPrint.exe
 
 ## 問題描述
 
@@ -40,7 +35,8 @@ has_images: True
 > PRD Log: Take J314 20/6 to 22/6 as example Server Log: \\172.16.183.201\localuser\support\JIRA_DB\MP-535\IIS_Server_Log_J314.zip IPA Log: \\172.16.183.201\localuser\support\JIRA_DB\MP-535\J314_2022-06-20-23_UI_Log.zip FE MPOS print log: \\172.16.183.201\localuser\support\JIRA_DB\MP-535\J314_2022-06-20-23_Log.zip
 
 > **Joy Li** (2022-06-27):
-> Video from COACH: copied to folder \\172.16.183.201\localuser\support\JIRA_DB\MP-535\   
+> Video from COACH: copied to folder \\172.16.183.201\localuser\support\JIRA_DB\MP-535\
+   
 
 > **Steven Yuen** (2022-06-27):
 > Added J486_MPOSPrint_20220531.log FE MPOS print log: \\172.16.183.201\localuser\support\JIRA_DB\MP-535\J486_2022-05-31_Log  

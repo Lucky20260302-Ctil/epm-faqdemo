@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-725: Purchase Order would duplicate a set of same items after Item Receive more than 1 time"
 issue_key: BE-725
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-725: Purchase Order would duplicate a set of same items after Item Receive more than 1 time
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-03-02
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

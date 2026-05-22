@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-653: LandsD day end checking popup error"
 issue_key: MP-653
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-653: LandsD day end checking popup error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-06-09
-> **負責人:** Johnny Cheung
-> **組件:** Backend
 
 ## 問題描述
 

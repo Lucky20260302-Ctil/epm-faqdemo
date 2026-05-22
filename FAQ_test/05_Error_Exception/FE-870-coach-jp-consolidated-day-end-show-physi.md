@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-870: Coach JP Consolidated Day End Show Physical Count Information Error"
 issue_key: FE-870
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-870: Coach JP Consolidated Day End Show Physical Count Information Error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-07-12
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

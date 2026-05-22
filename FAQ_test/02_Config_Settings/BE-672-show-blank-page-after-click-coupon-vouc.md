@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-672: Show blank page after Click  Coupon Voucher Enquiry (se8007)"
 issue_key: BE-672
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-672: Show blank page after Click  Coupon Voucher Enquiry (se8007) 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-02-21
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-646: Cannot back to correct place in menu when users enter from specific tabs"
 issue_key: BE-646
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-646: Cannot back to correct place in menu when users enter from specific tabs
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-04-27
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

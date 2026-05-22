@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1236: [CS-2668/PPR-235] New Request - Store code logic enhance for C360 API call"
 issue_key: BE-1236
 issue_type: Change Request
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1236: [CS-2668/PPR-235] New Request - Store code logic enhance for C360 API call
-
-> **類型:** Change Request | **狀態:** Release
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

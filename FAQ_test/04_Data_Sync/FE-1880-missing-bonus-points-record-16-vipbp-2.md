@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1880: Missing Bonus Points record 16- vipbp & 20 - ptsanly"
 issue_key: FE-1880
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1880: Missing Bonus Points record 16- vipbp & 20 - ptsanly
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Joy Li
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

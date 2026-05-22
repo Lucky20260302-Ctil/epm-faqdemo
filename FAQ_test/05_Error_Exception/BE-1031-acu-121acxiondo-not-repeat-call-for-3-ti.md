@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1031: [ACU-121][Acxion]Do not repeat call for 3 times when receive 400 error from CRM"
 issue_key: BE-1031
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1031: [ACU-121][Acxion]Do not repeat call for 3 times when receive 400 error from CRM 
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-05-02
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

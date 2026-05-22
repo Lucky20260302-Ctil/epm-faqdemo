@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1196: New Member Default Member Type"
 issue_key: FE-1196
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1196: New Member Default Member Type
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-05-04
-> **負責人:** Yan Wong
-> **組件:** Front End
 
 ## 問題描述
 

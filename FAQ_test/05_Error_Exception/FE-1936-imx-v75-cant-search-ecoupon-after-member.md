@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1936: IMX V75 cant search ecoupon after member create"
 issue_key: FE-1936
 issue_type: Task
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1936: IMX V75 cant search ecoupon after member create
-
-> **類型:** Task | **狀態:** DEV Done
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

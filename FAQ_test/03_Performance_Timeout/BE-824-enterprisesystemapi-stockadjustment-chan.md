@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-824: EnterpriseSystemAPI StockAdjustment changes"
 issue_key: BE-824
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-824: EnterpriseSystemAPI StockAdjustment changes
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-11-13
-> **負責人:** Sherman tse
-> **組件:** Backend (Web), Data Interface
 
 ## 問題描述
 

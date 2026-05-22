@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1734: [INC3104662]PRC region, V75, on 19th Jul, Till 0 missing the Mpos dayend report"
 issue_key: FE-1734
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1734: [INC3104662]PRC region, V75, on 19th Jul, Till 0 missing the Mpos dayend report
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-09-08
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

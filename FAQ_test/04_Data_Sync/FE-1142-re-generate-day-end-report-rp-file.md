@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1142: Re-generate Day End Report (RP File)"
 issue_key: FE-1142
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1142: Re-generate Day End Report (RP File)
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-12-07
-> **負責人:** Andrew_Au
-> **組件:** Day End
 
 ## 問題描述
 

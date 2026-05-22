@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-774: [MPOS-95] KSJ MPOS - v3.23.2-v1a - Invalid pop-up window on Sales page"
 issue_key: MP-774
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-774: [MPOS-95] KSJ MPOS - v3.23.2-v1a - Invalid pop-up window on Sales page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

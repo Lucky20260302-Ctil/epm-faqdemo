@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1907: [INC3506967] Diner's ePayment issue"
 issue_key: FE-1907
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1907: [INC3506967] Diner's ePayment issue
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **負責人:** Sang
-> **組件:** Payment
 
 ## 問題描述
 

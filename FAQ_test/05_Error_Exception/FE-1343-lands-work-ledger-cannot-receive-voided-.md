@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1343: [Lands] work ledger cannot receive voided order from shopping cart"
 issue_key: FE-1343
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1343: [Lands] work ledger cannot receive voided order from shopping cart
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-02-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1776: CN Epromo error"
 issue_key: FE-1776
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1776: CN Epromo error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Tovi Wang
-> **組件:** Frontend
 
 ## 問題描述
 

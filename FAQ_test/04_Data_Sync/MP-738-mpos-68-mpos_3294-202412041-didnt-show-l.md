@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-738: [MPOS-68] MPOS_3.29.4-20241204.1 Didn't show Line bind indicator(For JP Region)"
 issue_key: MP-738
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-738: [MPOS-68] MPOS_3.29.4-20241204.1 Didn't show Line bind indicator(For JP Region)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-06-05
-> **負責人:** Sherman tse
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

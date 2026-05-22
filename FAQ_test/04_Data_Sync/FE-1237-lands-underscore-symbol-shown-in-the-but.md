@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1237: [Lands] Underscore symbol shown in the button in Transacion Reference"
 issue_key: FE-1237
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1237: [Lands] Underscore symbol shown in the button in Transacion Reference
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-05-11
-> **負責人:** Sang
-> **組件:** front end v760.01R01A
 
 ## 問題描述
 

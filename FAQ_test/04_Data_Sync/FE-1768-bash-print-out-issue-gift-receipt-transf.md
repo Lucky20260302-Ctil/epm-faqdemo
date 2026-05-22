@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1768: [BASH] Print out issue: Gift receipt, Transfer"
 issue_key: FE-1768
 issue_type: Bug QA
 status: Deployment
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1768: [BASH] Print out issue: Gift receipt, Transfer
-
-> **類型:** Bug QA | **狀態:** Deployment
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

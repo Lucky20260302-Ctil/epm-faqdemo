@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1326: [Lands] Redo DayEnd: Octopus transaction display 0 but have orders paid by"
 issue_key: FE-1326
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1326: [Lands] Redo DayEnd: Octopus transaction display 0 but have orders paid by 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-02-19
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

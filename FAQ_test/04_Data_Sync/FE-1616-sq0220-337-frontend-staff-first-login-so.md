@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1616: [SQ0220-337] frontend staff first login, some mandatory fields are missing value whenfirst login AD auto created in RTM"
 issue_key: FE-1616
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1616: [SQ0220-337] frontend staff first login, some mandatory fields are missing value whenfirst login AD auto created in RTM
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-02-07
-> **負責人:** Anson Cheung
-> **組件:** Front End
 
 ## 問題描述
 

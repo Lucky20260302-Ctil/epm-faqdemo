@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1000: [CS-1341][CS-1183] Same Member ID with different names and mobile numbers"
 issue_key: BE-1000
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1000: [CS-1341][CS-1183] Same Member ID with different names and mobile numbers
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **負責人:** Anson Cheung
-> **組件:** eName
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-485: Missing Nationality Option Box for Coach JP in TaxExempt Memo"
 issue_key: MP-485
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-485: Missing Nationality Option Box for Coach JP in TaxExempt Memo
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-08-18
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

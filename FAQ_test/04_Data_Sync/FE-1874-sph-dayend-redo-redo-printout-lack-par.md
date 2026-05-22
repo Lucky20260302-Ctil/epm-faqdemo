@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1874: [SPH] Dayend Redo - Redo printout lack part of printout compared with reprint printout"
 issue_key: FE-1874
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1874: [SPH] Dayend Redo - Redo printout lack part of printout compared with reprint printout
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Day End
 
 ## 問題描述
 

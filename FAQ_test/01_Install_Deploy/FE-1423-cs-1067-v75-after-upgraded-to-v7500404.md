@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1423: [CS-1067] V75 - After upgraded to v75.004.0401.0002, POS launch error"
 issue_key: FE-1423
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1423: [CS-1067] V75 - After upgraded to v75.004.0401.0002, POS launch error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-09-23
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

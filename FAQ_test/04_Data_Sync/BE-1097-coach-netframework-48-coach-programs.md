@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1097: Coach .NetFramework 4.8 - Coach Programs"
 issue_key: BE-1097
 issue_type: Task
 status: Closed
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # BE-1097: Coach .NetFramework 4.8 - Coach Programs
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **組件:** Data Interface
 
 ## 問題描述
 

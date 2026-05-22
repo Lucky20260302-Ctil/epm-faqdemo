@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-988: [CS-1323] - 01-15 9 CN V75 pilot store can't upload ACP data file to BE- RIN01442452"
 issue_key: BE-988
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-988: [CS-1323] - 01-15 9 CN V75 pilot store can't upload ACP data file to BE- RIN01442452
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **解決日期:** 2025-02-21
-> **負責人:** Cy Lau
-> **組件:** polling
 
 ## 問題描述
 

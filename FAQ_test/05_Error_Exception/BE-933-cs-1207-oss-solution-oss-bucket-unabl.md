@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-933: CS-1207- OSS Solution - OSS bucket Unable to get z-file from app server"
 issue_key: BE-933
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-933: CS-1207- OSS Solution - OSS bucket Unable to get z-file from app server
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-11-05
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

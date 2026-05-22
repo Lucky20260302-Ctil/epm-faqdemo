@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1274: [Lands] POS fails to disable Cash button when order needs to be refunded"
 issue_key: FE-1274
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1274: [Lands] POS fails to disable Cash button when order needs to be refunded
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 10.0
-> **解決日期:** 2023-08-08
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

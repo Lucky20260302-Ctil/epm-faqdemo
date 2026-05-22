@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1324: [Lands] Print out of transfer receive support display item description"
 issue_key: FE-1324
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1324: [Lands] Print out of transfer receive support display item description
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-01-10
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

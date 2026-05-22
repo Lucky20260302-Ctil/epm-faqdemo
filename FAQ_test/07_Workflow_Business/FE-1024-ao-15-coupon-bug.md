@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1024: A+O 15% coupon bug"
 issue_key: FE-1024
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1024: A+O 15% coupon bug
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-06-28
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

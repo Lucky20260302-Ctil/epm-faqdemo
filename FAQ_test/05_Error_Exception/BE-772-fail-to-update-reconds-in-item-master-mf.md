@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-772: Fail to update reconds in Item Master (MF0001)"
 issue_key: BE-772
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-772: Fail to update reconds in Item Master (MF0001)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-07-27
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

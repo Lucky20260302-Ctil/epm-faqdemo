@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-527: Day end valiadtion (Misc Amount)"
 issue_key: BE-527
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-527: Day end valiadtion (Misc Amount)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-10-26
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

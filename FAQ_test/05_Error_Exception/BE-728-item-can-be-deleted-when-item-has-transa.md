@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-728: Item can be deleted when item has transaction"
 issue_key: BE-728
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-728: Item can be deleted when item has transaction
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-04-06
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

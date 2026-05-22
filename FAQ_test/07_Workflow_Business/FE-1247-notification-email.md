@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1247: Notification - Email"
 issue_key: FE-1247
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1247: Notification - Email
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-09-25
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

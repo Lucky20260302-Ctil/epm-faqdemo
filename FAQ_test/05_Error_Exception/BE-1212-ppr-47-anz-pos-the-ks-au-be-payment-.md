@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1212: [PPR-47] ANZ POS - the KS AU BE - payment type code maintain screen has wrong field text"
 issue_key: BE-1212
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1212: [PPR-47] ANZ POS - the KS AU BE - payment type code maintain screen has wrong field text
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (V66)
 
 ## 問題描述
 

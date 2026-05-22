@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-654: Rounding issue in R23 & 3.23.1"
 issue_key: MP-654
 issue_type: Bug QA
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-654: Rounding issue in R23 & 3.23.1
-
-> **類型:** Bug QA | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Frontend, MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1581: WIAM, Once the account is logged in, check that the Expiry Date is different from what is described in the file"
 issue_key: FE-1581
 issue_type: Bug QA
 status: Closed
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # FE-1581: WIAM, Once the account is logged in, check that the Expiry Date is different from what is described in the file
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **組件:** Frontend
 
 ## 問題描述
 

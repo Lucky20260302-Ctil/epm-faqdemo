@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-412: [CS-1820] COH_KR_eName_Capture prospect customer"
 issue_key: WEB-412
 issue_type: Change Request
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-412: [CS-1820] COH_KR_eName_Capture prospect customer
-
-> **類型:** Change Request | **狀態:** HOLD
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **負責人:** Cy Lau
-> **組件:** eName
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-378: [ACU-83] Car error from member type 'P'"
 issue_key: WEB-378
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-378: [ACU-83] Car error from member type 'P'
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-12-20
-> **負責人:** Sherman tse
-> **組件:** BEAPICRM
 
 ## 問題描述
 

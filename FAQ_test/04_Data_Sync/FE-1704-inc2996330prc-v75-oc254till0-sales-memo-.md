@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1704: [INC2996330]PRC V75 OC254till0 sales memo 00009176 missed vip gender"
 issue_key: FE-1704
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1704: [INC2996330]PRC V75 OC254till0 sales memo 00009176 missed vip gender
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1009: IMX Member search error 'Text Contains Unicode(s) is NotAllowed'"
 issue_key: BE-1009
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1009: IMX Member search error "Text Contains Unicode(s) is NotAllowed"
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

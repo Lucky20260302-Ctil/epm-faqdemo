@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-985: Total amount duplicate when syncing memo OC65 - 20002034 to CN CRM side"
 issue_key: BE-985
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-985: Total amount duplicate when syncing memo OC65 - 20002034 to CN CRM side
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

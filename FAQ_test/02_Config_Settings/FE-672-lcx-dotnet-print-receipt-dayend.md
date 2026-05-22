@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-672: LCX DotNet Print Receipt / DayEnd"
 issue_key: FE-672
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-672: LCX DotNet Print Receipt / DayEnd
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **負責人:** Derek_Leung
-> **組件:** Frontend
 
 ## 問題描述
 

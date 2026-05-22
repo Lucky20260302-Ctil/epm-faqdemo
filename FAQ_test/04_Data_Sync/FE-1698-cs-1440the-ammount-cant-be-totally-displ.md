@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1698: [CS-1440]The ammount can't be totally displayed as bellow:"
 issue_key: FE-1698
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1698: [CS-1440]The ammount can't be totally displayed as bellow:
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **負責人:** Sang
-> **組件:** Printing
 
 ## 問題描述
 

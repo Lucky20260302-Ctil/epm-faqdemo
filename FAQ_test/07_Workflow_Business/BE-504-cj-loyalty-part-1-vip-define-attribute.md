@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-504: CJ Loyalty Part 1 - VIP Define Attribute DB Update"
 issue_key: BE-504
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-504: CJ Loyalty Part 1 - VIP Define Attribute DB Update
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-07-08
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

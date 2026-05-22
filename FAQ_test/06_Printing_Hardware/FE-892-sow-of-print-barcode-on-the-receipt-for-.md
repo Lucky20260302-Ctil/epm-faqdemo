@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-892: SOW of Print Barcode on the Receipt for Coach Japan"
 issue_key: FE-892
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-892: SOW of Print Barcode on the Receipt for Coach Japan
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-03-09
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

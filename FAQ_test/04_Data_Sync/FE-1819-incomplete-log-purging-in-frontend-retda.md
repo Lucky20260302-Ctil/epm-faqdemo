@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1819: incomplete log purging in frontend Retdata6/history"
 issue_key: FE-1819
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1819: incomplete log purging in frontend Retdata6/history
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** sang_ko
-> **組件:** Front End
 
 ## 問題描述
 

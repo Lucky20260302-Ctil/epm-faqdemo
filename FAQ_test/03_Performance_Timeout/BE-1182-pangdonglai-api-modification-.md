@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1182: Pangdonglai API modification"
 issue_key: BE-1182
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1182: Pangdonglai API modification 
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-11-19
-> **負責人:** Andrew_Au
-> **組件:** Data Interface
 
 ## 問題描述
 

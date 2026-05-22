@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-353: testing new workclow"
 issue_key: WEB-353
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-353: testing new workclow
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-07-09
-> **負責人:** Andrew_Au
-> **組件:** FE
 
 ## 問題描述
 

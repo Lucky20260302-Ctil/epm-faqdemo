@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-798: [MPOS-123] JP MPOS has started experiencing situations where scanning product A brings up product B's information"
 issue_key: MP-798
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-798: [MPOS-123] JP MPOS has started experiencing situations where scanning product A brings up product B's information
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Tovi Wang
-> **組件:** MPOS
 
 ## 問題描述
 

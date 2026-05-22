@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1468: JC REMS SQ0343-126 – Opted out customer still able to fetch profile."
 issue_key: FE-1468
 issue_type: Change Request
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1468: JC REMS SQ0343-126 – Opted out customer still able to fetch profile.
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-09-04
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-202: Can make change for transaction no."
 issue_key: MP-202
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-202: Can make change for transaction no.
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-07-22
-> **負責人:** Sang
-> **組件:** MPOS
 
 ## 問題描述
 

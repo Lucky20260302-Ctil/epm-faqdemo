@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-370: Discount show 0% off in UI and also apply to MM coupon face value"
 issue_key: MP-370
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-370: Discount show 0% off in UI and also apply to MM coupon face value
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-08-18
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

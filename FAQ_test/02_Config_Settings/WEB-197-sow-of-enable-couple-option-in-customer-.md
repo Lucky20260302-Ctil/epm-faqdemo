@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-197: SOW of Enable Couple Option in Customer Gender and email 2 in e Name"
 issue_key: WEB-197
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-197: SOW of Enable Couple Option in Customer Gender and email 2 in e Name
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-07-16
-> **負責人:** Samuel Ma
-> **組件:** eName, WEB Enquiry
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-146: MM Coupon Module - Allow to input quantity of the MM coupon"
 issue_key: MP-146
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-146: MM Coupon Module - Allow to input quantity of the MM coupon
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-05-07
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

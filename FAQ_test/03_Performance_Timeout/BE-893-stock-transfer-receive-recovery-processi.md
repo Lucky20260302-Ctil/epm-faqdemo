@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-893: Stock Transfer Receive Recovery Process(IC8001)：modify时，修改Rcvy.Rec.由“1”改为“2”，点击Save，页面一直在loading"
 issue_key: BE-893
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-893: Stock Transfer Receive Recovery Process(IC8001)：modify时，修改Rcvy.Rec.由“1”改为“2”，点击Save，页面一直在loading
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-09-09
-> **負責人:** ryan
-> **組件:** Backend (Web)
 
 ## 問題描述
 

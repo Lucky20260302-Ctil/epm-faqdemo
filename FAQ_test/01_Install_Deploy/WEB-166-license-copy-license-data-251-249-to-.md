@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-166: License - Copy license data (.251 & .249) to strapi (cloud)"
 issue_key: WEB-166
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-166: License - Copy license data (.251 & .249) to strapi (cloud)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-11-11
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

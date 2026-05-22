@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1948: [CS-2862][INC3565017]Purchase History enquire only display last 5 transaction"
 issue_key: FE-1948
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1948: [CS-2862][INC3565017]Purchase History enquire only display last 5 transaction 
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

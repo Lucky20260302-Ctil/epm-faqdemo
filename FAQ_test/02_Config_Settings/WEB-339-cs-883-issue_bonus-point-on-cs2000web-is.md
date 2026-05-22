@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-339: [CS-883] issue_bonus point on CS2000web is incorrect"
 issue_key: WEB-339
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-339: [CS-883] issue_bonus point on CS2000web is incorrect
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-02-29
-> **負責人:** Anson Cheung
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

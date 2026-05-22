@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1813: PPR-72: Disable Gain for return"
 issue_key: FE-1813
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1813: PPR-72: Disable Gain for return
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

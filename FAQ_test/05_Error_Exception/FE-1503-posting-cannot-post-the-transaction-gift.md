@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1503: Posting cannot post the transaction ,gift redeem with item serial no records"
 issue_key: FE-1503
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1503: Posting cannot post the transaction ,gift redeem with item serial no records
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-10-24
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

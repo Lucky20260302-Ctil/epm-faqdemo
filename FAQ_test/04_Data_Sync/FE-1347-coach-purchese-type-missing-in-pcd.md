@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1347: Coach Purchese type missing in PCD"
 issue_key: FE-1347
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1347: Coach Purchese type missing in PCD
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-03-05
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1799: [INC3278161]Till 0 sales memo no invoice QR code"
 issue_key: FE-1799
 issue_type: Bug DEV
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1799: [INC3278161]Till 0 sales memo no invoice QR code
-
-> **類型:** Bug DEV | **狀態:** Selected for Development (migrated)
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

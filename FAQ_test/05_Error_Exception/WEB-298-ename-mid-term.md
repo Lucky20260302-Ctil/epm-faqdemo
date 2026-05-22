@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-298: eName Mid-term"
 issue_key: WEB-298
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-298: eName Mid-term
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-05-17
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1400: auto OPOS installation for cash drawer CSH2"
 issue_key: FE-1400
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1400: auto OPOS installation for cash drawer CSH2
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-05-30
-> **負責人:** Joy Li
-> **組件:** Install_Package
 
 ## 問題描述
 

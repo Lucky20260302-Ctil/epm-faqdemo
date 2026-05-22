@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-992: BE will be crashed when double click the Master File Amendment Log"
 issue_key: BE-992
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-992: BE will be crashed when double click the Master File Amendment Log
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-01-27
-> **負責人:** Gavin Zhou
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

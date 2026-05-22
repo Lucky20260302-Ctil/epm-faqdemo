@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-499: mPOS doesn't restart (POS day end with mPOS idle)"
 issue_key: MP-499
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-499: mPOS doesn't restart (POS day end with mPOS idle)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-09-21
-> **負責人:** howard
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1065: [Coach][KR PrintAgent] X32TMUPrint stop working when POS call the X32TMUPrint.exe"
 issue_key: BE-1065
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1065: [Coach][KR PrintAgent] X32TMUPrint stop working when POS call the X32TMUPrint.exe
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-05-12
-> **負責人:** Cy Lau
-> **組件:** Frontend
 
 ## 問題描述
 

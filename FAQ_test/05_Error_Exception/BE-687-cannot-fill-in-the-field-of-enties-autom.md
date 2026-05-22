@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-687: Cannot fill in the field of Enties automatically after select From data - To date"
 issue_key: BE-687
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-687: Cannot fill in the field of Enties automatically after select From data - To date
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-04-27
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

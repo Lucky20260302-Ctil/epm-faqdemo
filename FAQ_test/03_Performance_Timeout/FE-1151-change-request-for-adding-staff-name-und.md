@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1151: Change request for adding staff name under staff code"
 issue_key: FE-1151
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1151: Change request for adding staff name under staff code 
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-03-06
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

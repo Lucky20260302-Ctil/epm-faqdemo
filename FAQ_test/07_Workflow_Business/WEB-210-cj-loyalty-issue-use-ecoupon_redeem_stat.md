@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-210: CJ Loyalty issue: use ecoupon_redeem_status to check whether ecoupon available"
 issue_key: WEB-210
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-210: CJ Loyalty issue: use ecoupon_redeem_status to check whether ecoupon available
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-12-07
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1236: [Lands] Displayed incorrect gender in several places for a member"
 issue_key: FE-1236
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1236: [Lands] Displayed incorrect gender in several places for a member
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-05-17
-> **負責人:** Sang
-> **組件:** front end v760.01R01A
 
 ## 問題描述
 

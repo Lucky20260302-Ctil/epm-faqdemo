@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-868: 在Color Code Maintenance（MF0003）中，选择sub color，点击save时，提示invalid sub color 1"
 issue_key: BE-868
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-868: 在Color Code Maintenance（MF0003）中，选择sub color，点击save时，提示invalid sub color 1
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-07-30
-> **負責人:** Andrew_Au
-> **組件:** Backend (Web)
 
 ## 問題描述
 

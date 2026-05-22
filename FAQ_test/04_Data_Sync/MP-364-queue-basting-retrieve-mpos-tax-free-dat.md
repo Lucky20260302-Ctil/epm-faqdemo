@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-364: Queue basting retrieve MPOS Tax-Free Data (MPOS Part)"
 issue_key: MP-364
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-364: Queue basting retrieve MPOS Tax-Free Data (MPOS Part)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-02-22
-> **負責人:** kingsley_ng
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

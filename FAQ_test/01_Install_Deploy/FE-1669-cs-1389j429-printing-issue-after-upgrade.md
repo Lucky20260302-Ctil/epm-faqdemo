@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1669: [CS-1389]J429 printing issue after upgrade to v75.004.1100.0008"
 issue_key: FE-1669
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1669: [CS-1389]J429 printing issue after upgrade to v75.004.1100.0008
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2026-05-05
-> **負責人:** Sang
-> **組件:** Install_Package
 
 ## 問題描述
 

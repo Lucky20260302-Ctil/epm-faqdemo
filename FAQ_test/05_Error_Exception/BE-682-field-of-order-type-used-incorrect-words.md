@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-682: Field of Order Type used incorrect words limitation"
 issue_key: BE-682
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-682: Field of Order Type used incorrect words limitation
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-02-17
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

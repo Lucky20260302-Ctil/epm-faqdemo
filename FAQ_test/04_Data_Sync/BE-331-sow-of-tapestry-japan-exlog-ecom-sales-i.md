@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-331: SOW of Tapestry Japan EXLOG eCom Sales Interface"
 issue_key: BE-331
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-331: SOW of Tapestry Japan EXLOG eCom Sales Interface
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-26
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

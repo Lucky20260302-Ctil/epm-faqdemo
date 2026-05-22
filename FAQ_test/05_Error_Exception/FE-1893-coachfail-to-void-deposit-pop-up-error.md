@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1893: [Coach]Fail to void Deposit & pop up error"
 issue_key: FE-1893
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1893: [Coach]Fail to void Deposit & pop up error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2026-02-26
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

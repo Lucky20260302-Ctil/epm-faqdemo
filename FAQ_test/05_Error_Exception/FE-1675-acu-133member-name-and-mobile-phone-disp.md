@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1675: [ACU-133]Member name and mobile phone display without mask while searching CN member by QR code scanning on HK POS"
 issue_key: FE-1675
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1675: [ACU-133]Member name and mobile phone display without mask while searching CN member by QR code scanning on HK POS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Tovi Wang
-> **組件:** Front End
 
 ## 問題描述
 

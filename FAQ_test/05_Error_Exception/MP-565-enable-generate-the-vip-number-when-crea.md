@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-565: enable generate the vip number when create the vip"
 issue_key: MP-565
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-565: enable generate the vip number when create the vip
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-10-19
-> **負責人:** Sang
-> **組件:** MPOS
 
 ## 問題描述
 

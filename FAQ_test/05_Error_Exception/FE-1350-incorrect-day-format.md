@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1350: incorrect day format"
 issue_key: FE-1350
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1350: incorrect day format
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

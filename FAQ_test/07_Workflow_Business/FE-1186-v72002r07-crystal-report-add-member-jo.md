@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1186: v720.02R07 Crystal Report - Add Member Join Date"
 issue_key: FE-1186
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1186: v720.02R07 Crystal Report - Add Member Join Date
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-12-02
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

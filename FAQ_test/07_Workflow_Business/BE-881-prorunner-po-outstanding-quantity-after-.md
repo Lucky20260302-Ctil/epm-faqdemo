@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-881: Prorunner PO Outstanding Quantity after Return to Supplier"
 issue_key: BE-881
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-881: Prorunner PO Outstanding Quantity after Return to Supplier
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-09-17
-> **負責人:** Jason Wu
-> **組件:** Backend (Web)
 
 ## 問題描述
 

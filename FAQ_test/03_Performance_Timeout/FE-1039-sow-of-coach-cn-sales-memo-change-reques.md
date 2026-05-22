@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1039: SOW of Coach CN Sales Memo Change Request_v1.1"
 issue_key: FE-1039
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1039: SOW of Coach CN Sales Memo Change Request_v1.1
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-12-15
-> **負責人:** Yan Wong
-> **組件:** Front End
 
 ## 問題描述
 

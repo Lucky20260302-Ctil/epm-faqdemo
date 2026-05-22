@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1045: AQ-238: Remove empty pre-load items"
 issue_key: FE-1045
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1045: AQ-238: Remove empty pre-load items
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-12-21
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

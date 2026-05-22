@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-763: KS SEA CRM Memberson CDP backend Sale journal daily scheduled task"
 issue_key: BE-763
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-763: KS SEA CRM Memberson CDP backend Sale journal daily scheduled task
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-07-27
-> **負責人:** Johnny Cheung
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

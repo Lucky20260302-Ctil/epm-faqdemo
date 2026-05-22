@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1047: 20250408 After setting the schedule task, the program cannot start itself and can only start manually"
 issue_key: BE-1047
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1047: 20250408 After setting the schedule task, the program cannot start itself and can only start manually
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-09-08
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1883: HKJC REMS B223 Print Day End Issue"
 issue_key: FE-1883
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1883: HKJC REMS B223 Print Day End Issue
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

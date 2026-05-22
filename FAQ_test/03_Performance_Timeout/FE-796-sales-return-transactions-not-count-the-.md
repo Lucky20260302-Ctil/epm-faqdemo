@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-796: Sales return transactions not count the number of memo in sales performance enquiry"
 issue_key: FE-796
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-796: Sales return transactions not count the number of memo in sales performance enquiry
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2020-11-23
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

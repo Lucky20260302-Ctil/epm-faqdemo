@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-383: [ACU-81] Birthday is not set as null for 1900/2999-1-1 member"
 issue_key: WEB-383
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-383: [ACU-81] Birthday is not set as null for 1900/2999-1-1 member
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-07-23
-> **負責人:** Joseph_Hu
-> **組件:** BEAPICRM
 
 ## 問題描述
 

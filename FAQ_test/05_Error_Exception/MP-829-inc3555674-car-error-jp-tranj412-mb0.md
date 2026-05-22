@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-829: INC3555674 - CAR Error - JP-tran#J412-MB005013 Sum of item does not equal the payment sum 04/23"
 issue_key: MP-829
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-829: INC3555674 - CAR Error - JP-tran#J412-MB005013 Sum of item does not equal the payment sum 04/23
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

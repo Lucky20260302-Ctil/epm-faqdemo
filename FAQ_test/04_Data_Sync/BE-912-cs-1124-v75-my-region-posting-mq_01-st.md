@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-912: [CS-1124] V75 - MY region Posting MQ_01 stuck"
 issue_key: BE-912
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-912: [CS-1124] V75 - MY region Posting MQ_01 stuck
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-10-18
-> **負責人:** Andrew_Au
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

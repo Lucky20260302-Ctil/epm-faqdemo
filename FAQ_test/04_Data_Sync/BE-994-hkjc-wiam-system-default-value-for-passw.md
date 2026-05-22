@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-994: HKJC WIAM System Default value for Password Min. Length and Expiry Period"
 issue_key: BE-994
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-994: HKJC WIAM System Default value for Password Min. Length and Expiry Period
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-07
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

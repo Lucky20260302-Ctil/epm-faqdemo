@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-317: Back End V7 Installation Package (First installation)"
 issue_key: BE-317
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-317: Back End V7 Installation Package (First installation)
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-09-24
-> **負責人:** Judy Cheng
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

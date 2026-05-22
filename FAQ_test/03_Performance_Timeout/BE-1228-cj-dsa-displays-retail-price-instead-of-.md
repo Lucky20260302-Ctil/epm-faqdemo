@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)"
 issue_key: BE-1228
 issue_type: Bug PRD
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)
-
-> **類型:** Bug PRD | **狀態:** Release
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **負責人:** Daniel Leung
-> **組件:** API
 
 ## 問題描述
 

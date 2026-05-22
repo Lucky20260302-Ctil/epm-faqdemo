@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-784: [CS-1336]Coach JP MQ_A terminate issue"
 issue_key: MP-784
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-784: [CS-1336]Coach JP MQ_A terminate issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Tovi Wang
-> **組件:** Backend
 
 ## 問題描述
 

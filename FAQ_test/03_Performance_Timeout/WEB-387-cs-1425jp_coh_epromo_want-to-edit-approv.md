@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-387: [CS-1425]JP_COH_ePromo_want to edit approval result email receiver"
 issue_key: WEB-387
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-387: [CS-1425]JP_COH_ePromo_want to edit approval result email receiver
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-07-04
-> **負責人:** Sherman tse
-> **組件:** Epromo
 
 ## 問題描述
 

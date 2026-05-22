@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-758: [MPOS-85] MPOS 3.29.5 - HK Region, CBDT function not working in MPOS"
 issue_key: MP-758
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-758: [MPOS-85] MPOS 3.29.5 - HK Region, CBDT function not working in MPOS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

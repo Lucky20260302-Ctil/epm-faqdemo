@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-971: cannot sync domain account record, program log show error message"
 issue_key: BE-971
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-971: cannot sync domain account record, program log show error message
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-18
-> **負責人:** Cy Lau
-> **組件:** Backend (V64)
 
 ## 問題描述
 

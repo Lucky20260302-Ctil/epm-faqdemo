@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-869: Primary_Sales Staff： 在Contact Number输入’12345678‘，点击save报错"
 issue_key: BE-869
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-869: Primary_Sales Staff： 在Contact Number输入’12345678‘，点击save报错
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-07-18
-> **負責人:** ryan
-> **組件:** Backend (Web)
 
 ## 問題描述
 

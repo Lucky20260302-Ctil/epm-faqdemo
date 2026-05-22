@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-538: RIN01022241: Missing Sales in PC file"
 issue_key: MP-538
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-538: RIN01022241: Missing Sales in PC file 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-07-12
-> **負責人:** Sang
-> **組件:** MPOS API
 
 ## 問題描述
 

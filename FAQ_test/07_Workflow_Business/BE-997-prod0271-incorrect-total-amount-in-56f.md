@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-997: [PROD0271] Incorrect Total Amount in 56F"
 issue_key: BE-997
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-997: [PROD0271] Incorrect Total Amount in 56F
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-21
-> **負責人:** Peter_Hu
-> **組件:** Inquiry
 
 ## 問題描述
 

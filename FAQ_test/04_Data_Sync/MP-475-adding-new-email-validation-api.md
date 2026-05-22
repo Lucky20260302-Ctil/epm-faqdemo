@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-475: Adding New Email Validation API"
 issue_key: MP-475
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-475: Adding New Email Validation API
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-08-04
-> **負責人:** kingsley_ng
-> **組件:** MPOS API
 
 ## 問題描述
 

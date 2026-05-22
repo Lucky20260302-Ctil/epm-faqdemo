@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-730: Maximum query string on setting in IIS for 3P-module"
 issue_key: MP-730
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-730: Maximum query string on setting in IIS for 3P-module
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-21
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

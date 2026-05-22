@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-757: [MPOS-83] MPOS v3.30.2 - KSJ MPOS Sales Data Posting Error"
 issue_key: MP-757
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-757: [MPOS-83] MPOS v3.30.2 - KSJ MPOS Sales Data Posting Error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 10.0
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

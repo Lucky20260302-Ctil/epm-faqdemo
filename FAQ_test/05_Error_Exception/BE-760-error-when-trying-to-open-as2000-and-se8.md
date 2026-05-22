@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-760: error when trying to open AS2000 and SE8008"
 issue_key: BE-760
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-760: error when trying to open AS2000 and SE8008
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-06-23
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

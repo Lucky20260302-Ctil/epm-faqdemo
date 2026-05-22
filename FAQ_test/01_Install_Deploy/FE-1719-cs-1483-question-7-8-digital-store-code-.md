@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1719: [CS-1483] Question 7-8 digital store code for ANZ POS setup"
 issue_key: FE-1719
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1719: [CS-1483] Question 7-8 digital store code for ANZ POS setup
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-07-10
-> **負責人:** Andrew_Au
-> **組件:** BackEnd, Front End, MPOS
 
 ## 問題描述
 

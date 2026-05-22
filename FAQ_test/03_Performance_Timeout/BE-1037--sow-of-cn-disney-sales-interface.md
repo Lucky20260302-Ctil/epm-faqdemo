@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1037:  SOW of CN Disney Sales Interface"
 issue_key: BE-1037
 issue_type: SOW
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1037:  SOW of CN Disney Sales Interface
-
-> **類型:** SOW | **狀態:** HOLD
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **負責人:** Jett.He
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-932: [CS-1220] Barcode on registeration page is not scannable with scanner"
 issue_key: BE-932
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-932: [CS-1220] Barcode on registeration page is not scannable with scanner
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-11-06
-> **負責人:** Andy Ko
-> **組件:** eName
 
 ## 問題描述
 

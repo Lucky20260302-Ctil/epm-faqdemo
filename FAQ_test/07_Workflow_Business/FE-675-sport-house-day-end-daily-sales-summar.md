@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-675: Sport House Day End - Daily Sales Summary"
 issue_key: FE-675
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-675: Sport House Day End - Daily Sales Summary
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-03-28
-> **負責人:** Daniel Wan
-> **組件:** Frontend
 
 ## 問題描述
 

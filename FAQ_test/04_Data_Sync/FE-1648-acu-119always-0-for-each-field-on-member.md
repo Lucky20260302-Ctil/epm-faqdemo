@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1648: [ACU-119]Always 0 for each field on member profile page while querying CN member with exit_permit=1 on HK POS FE"
 issue_key: FE-1648
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1648: [ACU-119]Always 0 for each field on member profile page while querying CN member with exit_permit=1 on HK POS FE
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-05-02
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

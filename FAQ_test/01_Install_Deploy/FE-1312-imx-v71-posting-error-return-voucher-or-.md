@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1312: IMX V71 posting error 'Return Voucher or gift cert amount not matched'"
 issue_key: FE-1312
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1312: IMX V71 posting error "Return Voucher or gift cert amount not matched"
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-03-05
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

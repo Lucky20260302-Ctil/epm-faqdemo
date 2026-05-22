@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1185: generate pcd files for ZZBHKG04"
 issue_key: BE-1185
 issue_type: Task
 status: HOLD
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1185: generate pcd files for ZZBHKG04
-
-> **類型:** Task | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

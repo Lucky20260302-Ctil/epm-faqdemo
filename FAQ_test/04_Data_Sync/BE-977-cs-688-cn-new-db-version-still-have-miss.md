@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-977: [CS-688] CN New DB version still have 'Missing first line issue'"
 issue_key: BE-977
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-977: [CS-688] CN New DB version still have "Missing first line issue"
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-314: Member Sync in CN-HK-MO (V66)"
 issue_key: BE-314
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-314: Member Sync in CN-HK-MO (V66)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-09-24
-> **組件:** Backend (V66)
 
 ## 問題描述
 

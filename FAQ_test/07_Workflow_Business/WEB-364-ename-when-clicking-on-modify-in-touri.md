@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-364: ename - when clicking on Modify in tourist registration, the page should return to tourist page"
 issue_key: WEB-364
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-364: ename - when clicking on Modify in tourist registration, the page should return to tourist page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-09-30
-> **組件:** eName
 
 ## 問題描述
 

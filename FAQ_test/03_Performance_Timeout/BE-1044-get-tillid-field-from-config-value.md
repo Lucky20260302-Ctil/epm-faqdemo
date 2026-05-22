@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1044: Get tillId field from config value"
 issue_key: BE-1044
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1044: Get tillId field from config value
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-06-05
-> **負責人:** Jett.He
-> **組件:** Data Interface
 
 ## 問題描述
 

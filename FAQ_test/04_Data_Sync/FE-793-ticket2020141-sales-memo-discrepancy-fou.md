@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-793: ticket:2020141 sales memo, discrepancy found in posted data"
 issue_key: FE-793
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-793: ticket:2020141 sales memo, discrepancy found in posted data
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2020-11-11
-> **負責人:** Sang
-> **組件:** Frontend, Sales
 
 ## 問題描述
 

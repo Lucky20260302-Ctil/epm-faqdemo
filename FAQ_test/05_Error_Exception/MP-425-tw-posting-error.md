@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-425: TW-posting error"
 issue_key: MP-425
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-425: TW-posting error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-05-17
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

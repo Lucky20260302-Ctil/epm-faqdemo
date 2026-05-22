@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-870: [Lands] Masconv function fail to overwrite encrypted masconv"
 issue_key: BE-870
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-870: [Lands] Masconv function fail to overwrite encrypted masconv
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-07-10
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-879: [Lands] Pop up error after click on SEND LOG in POS Transmission log(DI8004)"
 issue_key: BE-879
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-879: [Lands] Pop up error after click on SEND LOG in POS Transmission log(DI8004)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-08-13
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

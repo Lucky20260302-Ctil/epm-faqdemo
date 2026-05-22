@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1190: BASH Receipt Print Layout (add Chinese description to payment type)"
 issue_key: FE-1190
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1190: BASH Receipt Print Layout (add Chinese description to payment type)
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-12-19
-> **負責人:** Fredie Lim
-> **組件:** Frontend
 
 ## 問題描述
 

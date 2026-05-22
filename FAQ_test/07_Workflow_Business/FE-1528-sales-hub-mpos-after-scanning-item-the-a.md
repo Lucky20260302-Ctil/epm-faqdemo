@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1528: Sales Hub MPOS after scanning item the auto focus to search bar"
 issue_key: FE-1528
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1528: Sales Hub MPOS after scanning item the auto focus to search bar
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-02-25
-> **負責人:** Sherman tse
-> **組件:** MPOS
 
 ## 問題描述
 

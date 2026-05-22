@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-815: Printing preview display blank page"
 issue_key: MP-815
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-815: Printing preview display blank page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Joseph_Hu
-> **組件:** MPOS
 
 ## 問題描述
 

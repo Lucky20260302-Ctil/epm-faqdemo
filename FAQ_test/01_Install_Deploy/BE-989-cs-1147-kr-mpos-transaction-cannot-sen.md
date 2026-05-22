@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-989: [CS-1147] - KR MPOS transaction cannot send to DB"
 issue_key: BE-989
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-989: [CS-1147] - KR MPOS transaction cannot send to DB
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

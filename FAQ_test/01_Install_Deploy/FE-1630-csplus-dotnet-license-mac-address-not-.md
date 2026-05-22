@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1630: CSPLUS DotNet License - mac address not perm"
 issue_key: FE-1630
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1630: CSPLUS DotNet License - mac address not perm
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-04-16
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

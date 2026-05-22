@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-635: Fail to add new member when inserted email address"
 issue_key: MP-635
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-635: Fail to add new member when inserted email address
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-02-14
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

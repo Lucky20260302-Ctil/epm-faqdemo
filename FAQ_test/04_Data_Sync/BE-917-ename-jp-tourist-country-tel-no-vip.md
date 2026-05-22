@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-917: eName - JP Tourist - country tel no >> vip_areatel_2"
 issue_key: BE-917
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-917: eName - JP Tourist - country tel no >> vip_areatel_2
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-10-16
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

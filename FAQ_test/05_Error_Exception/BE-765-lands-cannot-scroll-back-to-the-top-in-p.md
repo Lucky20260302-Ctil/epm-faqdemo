@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-765: [Lands] Cannot scroll back to the top in pop up filter (Stock On-Hand By Item)"
 issue_key: BE-765
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-765: [Lands] Cannot scroll back to the top in pop up filter (Stock On-Hand By Item)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-07-27
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

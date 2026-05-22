@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-866: [Lands]Things need to be encrypted"
 issue_key: BE-866
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-866: [Lands]Things need to be encrypted
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-08-29
-> **負責人:** Sherman tse
-> **組件:** Backend (V64)
 
 ## 問題描述
 

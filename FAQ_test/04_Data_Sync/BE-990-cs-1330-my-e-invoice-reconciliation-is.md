@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-990: [CS-1330] - MY E-invoice Reconciliation Issue"
 issue_key: BE-990
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-990: [CS-1330] - MY E-invoice Reconciliation Issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-05-06
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1016: [CS2000 FE] v72.0213.0000_verify_Indicator_NG"
 issue_key: FE-1016
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1016: [CS2000 FE] v72.0213.0000_verify_Indicator_NG
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-12-02
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

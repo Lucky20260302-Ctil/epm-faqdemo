@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1237: [CS-2219]CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines"
 issue_key: BE-1237
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1237: [CS-2219]CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **負責人:** Jerry Wong
-> **組件:** Table
 
 ## 問題描述
 

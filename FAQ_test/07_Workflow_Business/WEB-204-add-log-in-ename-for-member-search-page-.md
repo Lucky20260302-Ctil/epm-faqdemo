@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-204: Add log in Ename for member search page - Barcode and detail un match"
 issue_key: WEB-204
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-204: Add log in Ename for member search page - Barcode and detail un match
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-10-08
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

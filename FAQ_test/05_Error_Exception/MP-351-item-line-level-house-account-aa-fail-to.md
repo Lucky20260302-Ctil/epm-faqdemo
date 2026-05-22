@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-351: Item Line Level House Account (AA) fail to update into DB"
 issue_key: MP-351
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-351: Item Line Level House Account (AA) fail to update into DB
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-02-22
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

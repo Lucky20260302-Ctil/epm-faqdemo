@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1746: 【CS-1588】By region to cancel customer survey after the payment"
 issue_key: FE-1746
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1746: 【CS-1588】By region to cancel customer survey after the payment
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

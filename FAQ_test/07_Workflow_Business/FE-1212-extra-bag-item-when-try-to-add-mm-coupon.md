@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1212: extra bag item when try to add MM coupon after pressing 'X' to close levy"
 issue_key: FE-1212
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1212: extra bag item when try to add MM coupon after pressing 'X' to close levy
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-02-08
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1028: Deposit Settle on-sales item have disc var"
 issue_key: FE-1028
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1028: Deposit Settle on-sales item have disc var
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-12-03
-> **負責人:** Yan Wong
-> **組件:** Front End
 
 ## 問題描述
 

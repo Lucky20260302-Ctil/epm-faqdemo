@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking"
 issue_key: WEB-343
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-04-25
-> **負責人:** Joy Li
-> **組件:** interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-605: Re-save Item Master action leads to Onsales Price Data clear up"
 issue_key: BE-605
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-605: Re-save Item Master action leads to Onsales Price Data clear up 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-06-13
-> **負責人:** Steven Yuen
-> **組件:** Master
 
 ## 問題描述
 

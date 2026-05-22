@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-580:  [dbTrans].[dbo].[InvTrx File Payment] isChange Wrongly input"
 issue_key: MP-580
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-580:  [dbTrans].[dbo].[InvTrx File Payment] isChange Wrongly input
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-11-18
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

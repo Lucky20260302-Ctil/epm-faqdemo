@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1029: Cannot redeem bonus points coupon after onsale or applied mix & match"
 issue_key: FE-1029
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1029: Cannot redeem bonus points coupon after onsale or applied mix & match
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

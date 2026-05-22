@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1219: New Sales Export Interface for Mayang Mall"
 issue_key: BE-1219
 issue_type: SOW
 status: Open
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # BE-1219: New Sales Export Interface for Mayang Mall 
-
-> **類型:** SOW | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **組件:** Data Interface
 
 ## 問題描述
 

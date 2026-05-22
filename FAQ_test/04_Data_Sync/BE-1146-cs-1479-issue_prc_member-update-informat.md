@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1146: [CS-1479] Issue_PRC_Member update information will send to FE by Zlog file"
 issue_key: BE-1146
 issue_type: Bug PRD
 status: Design
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1146: [CS-1479] Issue_PRC_Member update information will send to FE by Zlog file
-
-> **類型:** Bug PRD | **狀態:** Design
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Jerry Wong
-> **組件:** polling
 
 ## 問題描述
 

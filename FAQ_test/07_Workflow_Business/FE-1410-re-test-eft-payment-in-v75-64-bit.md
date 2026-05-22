@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1410: Re-test EFT payment in V75 (64 bit)"
 issue_key: FE-1410
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1410: Re-test EFT payment in V75 (64 bit)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-09-23
-> **負責人:** Sherman tse
-> **組件:** Payment
 
 ## 問題描述
 

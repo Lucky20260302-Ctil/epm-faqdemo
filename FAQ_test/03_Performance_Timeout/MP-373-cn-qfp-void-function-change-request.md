@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-373: CN-QFP void function Change request"
 issue_key: MP-373
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-373: CN-QFP void function Change request
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-06-03
-> **負責人:** Sam Chan
-> **組件:** MPOS
 
 ## 問題描述
 

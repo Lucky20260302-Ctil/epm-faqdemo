@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-755: MPOS eReceipt Enhancement (UI + eReceipt Flow)"
 issue_key: MP-755
 issue_type: Improvement
 status: Release
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-755: MPOS eReceipt Enhancement (UI + eReceipt Flow)
-
-> **類型:** Improvement | **狀態:** Release
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS, MPOS API, MPOSPrint.exe
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-331: Reprint UI - Missing Print Job Send to Printer"
 issue_key: MP-331
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-331: Reprint UI - Missing Print Job Send to Printer 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-17
-> **負責人:** Sam Chan
-> **組件:** MPOS
 
 ## 問題描述
 

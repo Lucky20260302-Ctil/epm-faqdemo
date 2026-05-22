@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1777: AO V75 create transfer out memo popup error message"
 issue_key: FE-1777
 issue_type: Bug QA
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1777: AO V75 create transfer out memo popup error message
-
-> **類型:** Bug QA | **狀態:** DEV Done
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

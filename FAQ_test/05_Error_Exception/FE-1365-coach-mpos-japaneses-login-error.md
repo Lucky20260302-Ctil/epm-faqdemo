@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1365: Coach Mpos Japanese's login error"
 issue_key: FE-1365
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1365: Coach Mpos Japanese's login error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-11-29
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

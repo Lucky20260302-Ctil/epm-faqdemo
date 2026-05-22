@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-238: epromo-TaskScheduler bug fix"
 issue_key: WEB-238
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-238: epromo-TaskScheduler bug fix
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-09-02
-> **負責人:** Joy Li
-> **組件:** MailApproval, TaskScheduler
 
 ## 問題描述
 

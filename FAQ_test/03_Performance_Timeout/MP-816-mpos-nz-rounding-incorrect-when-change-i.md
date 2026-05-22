@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-816: MPOS NZ Rounding incorrect when change is ending in 6¢"
 issue_key: MP-816
 issue_type: Bug QA
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-816: MPOS NZ Rounding incorrect when change is ending in 6¢
-
-> **類型:** Bug QA | **狀態:** Open
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **負責人:** Joseph_Hu
-> **組件:** MPOS
 
 ## 問題描述
 

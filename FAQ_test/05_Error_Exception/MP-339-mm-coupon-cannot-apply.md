@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-339: MM coupon cannot apply"
 issue_key: MP-339
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-339: MM coupon cannot apply
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-01-29
-> **負責人:** kingsley_ng
-> **組件:** MPOS API
 
 ## 問題描述
 

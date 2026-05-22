@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-563: New member cannot online update BE"
 issue_key: MP-563
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-563: New member cannot online update BE
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-01-22
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

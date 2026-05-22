@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-831: [Lands] Reason code with XR should be excluded from export stock level: adjustment qty"
 issue_key: BE-831
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-831: [Lands] Reason code with XR should be excluded from export stock level: adjustment qty
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-831: [CS-2651] CS2K Unable to retreive the order upload by MPOS"
 issue_key: MP-831
 issue_type: Bug QA
 status: Release
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-831: [CS-2651] CS2K Unable to retreive the order upload by MPOS
-
-> **類型:** Bug QA | **狀態:** Release
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Sang
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

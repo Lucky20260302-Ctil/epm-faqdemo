@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-774: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition"
 issue_key: FE-774
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-774: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-11-23
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

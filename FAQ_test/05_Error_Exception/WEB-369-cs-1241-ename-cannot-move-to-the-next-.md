@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-369: [CS-1241] eName - Cannot move to the next page when we did not input gender info on the registration page"
 issue_key: WEB-369
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-369: [CS-1241] eName - Cannot move to the next page when we did not input gender info on the registration page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-01-03
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

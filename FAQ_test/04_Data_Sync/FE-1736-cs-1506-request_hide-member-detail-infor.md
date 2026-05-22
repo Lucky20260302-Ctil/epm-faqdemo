@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1736: [CS-1506] Request_Hide Member Detail information button"
 issue_key: FE-1736
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1736: [CS-1506] Request_Hide Member Detail information button
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-08-20
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-437: CJ#135-2nd time Qbusting Japanese characters display ????"
 issue_key: MP-437
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-437: CJ#135-2nd time Qbusting Japanese characters display ???? 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-06-16
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

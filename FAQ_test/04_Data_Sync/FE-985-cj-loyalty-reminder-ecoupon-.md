@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-985: CJ Loyalty - Reminder eCoupon"
 issue_key: FE-985
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-985: CJ Loyalty - Reminder eCoupon 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-08-16
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1697: REMS Update New Logo on the receipt"
 issue_key: FE-1697
 issue_type: Change Request
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1697: REMS Update New Logo on the receipt
-
-> **類型:** Change Request | **狀態:** Test in Progress
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **負責人:** Bobby
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1226: After created multiple Credit Card, the range between 'From Gift Cert' and 'To Gift Cert' do not proceed properly"
 issue_key: BE-1226
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1226: After created multiple Credit Card, the range between "From Gift Cert" and "To Gift Cert" do not proceed properly
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

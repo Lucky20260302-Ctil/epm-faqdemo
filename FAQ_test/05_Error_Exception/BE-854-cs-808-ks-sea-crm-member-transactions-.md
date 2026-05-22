@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-854: [CS-808] KS SEA CRM - Member transactions failed to register to Memberson CRM"
 issue_key: BE-854
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-854: [CS-808] KS SEA CRM - Member transactions failed to register to Memberson CRM
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **解決日期:** 2024-05-09
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

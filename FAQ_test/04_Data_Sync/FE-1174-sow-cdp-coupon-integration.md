@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1174: SOW CDP Coupon Integration"
 issue_key: FE-1174
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1174: SOW CDP Coupon Integration
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-03-08
-> **負責人:** Yan Wong
-> **組件:** Front End v720.02
 
 ## 問題描述
 

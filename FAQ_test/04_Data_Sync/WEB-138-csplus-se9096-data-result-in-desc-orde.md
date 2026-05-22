@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-138: csplus - SE9096 data result in desc order"
 issue_key: WEB-138
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-138: csplus - SE9096 data result in desc order
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-11
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

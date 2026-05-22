@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-785: Incomplete transaction due to out of memory"
 issue_key: FE-785
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-785: Incomplete transaction due to out of memory 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2020-11-23
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

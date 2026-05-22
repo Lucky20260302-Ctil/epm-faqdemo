@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-880: ProRunner duplicate GRN posting"
 issue_key: BE-880
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-880: ProRunner duplicate GRN posting
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Cy Lau
-> **組件:** Backend (Web)
 
 ## 問題描述
 

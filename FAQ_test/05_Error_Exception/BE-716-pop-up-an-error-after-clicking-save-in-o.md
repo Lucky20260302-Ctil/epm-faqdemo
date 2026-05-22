@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-716: Pop up an error after clicking 'save' in On Sale Price Maintenance (On-Line Mode) (MF3001)"
 issue_key: BE-716
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-716: Pop up an error after clicking "save" in On Sale Price Maintenance (On-Line Mode) (MF3001)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-03-01
-> **負責人:** Jerry Wong
-> **組件:** Frontend
 
 ## 問題描述
 

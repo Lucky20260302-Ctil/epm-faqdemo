@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-720: Fail to print invoice and delivery note in records with invoice generate status in Online Order Delivery Information (OR0005)"
 issue_key: BE-720
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-720: Fail to print invoice and delivery note in records with invoice generate status in Online Order Delivery Information (OR0005)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

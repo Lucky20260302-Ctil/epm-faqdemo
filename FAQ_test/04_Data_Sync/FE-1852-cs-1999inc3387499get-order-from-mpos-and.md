@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1852: [CS-1999][INC3387499]get order from mpos and pay on LPOS, while cancel the payment, the seller of item will disappear"
 issue_key: FE-1852
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1852: [CS-1999][INC3387499]get order from mpos and pay on LPOS, while cancel the payment, the seller of item will disappear
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2026-03-25
-> **負責人:** Sherman tse
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-745: [MPOS-74]JP Region, can not select E-Coupon even the member we selected have available ecoupon"
 issue_key: MP-745
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-745: [MPOS-74]JP Region, can not select E-Coupon even the member we selected have available ecoupon
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-05-02
-> **負責人:** Joseph_Hu
-> **組件:** MPOS
 
 ## 問題描述
 

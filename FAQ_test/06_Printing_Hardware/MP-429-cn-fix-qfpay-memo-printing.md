@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-429: CN-Fix QFPay memo printing"
 issue_key: MP-429
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-429: CN-Fix QFPay memo printing
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-06-03
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

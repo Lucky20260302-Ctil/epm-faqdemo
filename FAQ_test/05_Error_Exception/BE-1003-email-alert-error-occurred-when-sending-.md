@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1003: Email [Alert] Error occurred when sending data to BDO MW"
 issue_key: BE-1003
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1003: Email [Alert] Error occurred when sending data to BDO MW
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

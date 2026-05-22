@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1769: Posting Error by incorrect Sales code"
 issue_key: FE-1769
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1769: Posting Error by incorrect Sales code
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 安裝與部署 | **FAQ 分數:** 8.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

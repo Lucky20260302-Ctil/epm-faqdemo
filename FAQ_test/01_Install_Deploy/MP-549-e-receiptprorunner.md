@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-549: E-Receipt(ProRunner)"
 issue_key: MP-549
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-549: E-Receipt(ProRunner)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-09-26
-> **負責人:** Andrew_Au
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

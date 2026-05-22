@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat"
 issue_key: FE-812
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2020-11-23
-> **負責人:** Derek_Leung
-> **組件:** Sales
 
 ## 問題描述
 

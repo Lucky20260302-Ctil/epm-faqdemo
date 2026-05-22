@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-825: Display standard interface data import result"
 issue_key: BE-825
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-825: Display standard interface data import result
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-11-13
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

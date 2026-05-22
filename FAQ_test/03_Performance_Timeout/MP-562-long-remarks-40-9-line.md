@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-562: Long remarks (40 * 9 line)"
 issue_key: MP-562
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-562: Long remarks (40 * 9 line)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-11-18
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

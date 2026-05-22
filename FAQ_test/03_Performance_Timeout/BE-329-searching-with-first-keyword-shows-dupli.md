@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-329: Searching with first keyword shows duplicate results"
 issue_key: BE-329
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-329: Searching with first keyword shows duplicate results
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-01-15
-> **負責人:** howard
-> **組件:** Backend (Web)
 
 ## 問題描述
 

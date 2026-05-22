@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1147: cs [2025069] online coupon for mm redemption validation failure"
 issue_key: BE-1147
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1147: cs [2025069] online coupon for mm redemption validation failure
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-07-14
-> **負責人:** Joy Li
-> **組件:** Backend (V66)
 
 ## 問題描述
 

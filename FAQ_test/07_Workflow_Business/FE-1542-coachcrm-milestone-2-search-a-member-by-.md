@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1542: [Coach][CRM milestone 2] Search a member by Scan QR code but Button of Purchase history & Profile dimmed"
 issue_key: FE-1542
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1542: [Coach][CRM milestone 2] Search a member by Scan QR code but Button of Purchase history & Profile dimmed 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-18
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

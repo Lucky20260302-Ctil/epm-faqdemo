@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-854: CS2000POS x64 Bit"
 issue_key: FE-854
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-854: CS2000POS x64 Bit
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-12-06
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

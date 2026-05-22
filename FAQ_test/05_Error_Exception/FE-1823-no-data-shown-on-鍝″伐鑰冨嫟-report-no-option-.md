@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1823: No data shown on 員工考勤 report & no option of location selection when doing transfer memo"
 issue_key: FE-1823
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1823: No data shown on 員工考勤 report & no option of location selection when doing transfer memo
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

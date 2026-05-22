@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-907: [ACXIOM CRM] Change selection logic for sales and sales reconsolidation"
 issue_key: BE-907
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-907: [ACXIOM CRM] Change selection logic for sales and sales reconsolidation
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-09-23
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-657: Records of Gift Cert. Memo Information can be clicked to item information page"
 issue_key: BE-657
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-657: Records of Gift Cert. Memo Information can be clicked to item information page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-04-27
-> **負責人:** Ken Lam
-> **組件:** Inquiry
 
 ## 問題描述
 

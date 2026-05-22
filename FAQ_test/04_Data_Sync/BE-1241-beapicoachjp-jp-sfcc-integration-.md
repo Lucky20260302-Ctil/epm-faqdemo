@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1241: [BEAPI][CoachJP] JP SFCC Integration"
 issue_key: BE-1241
 issue_type: Change Request
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1241: [BEAPI][CoachJP] JP SFCC Integration 
-
-> **類型:** Change Request | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **負責人:** Jerry Wong
-> **組件:** API
 
 ## 問題描述
 

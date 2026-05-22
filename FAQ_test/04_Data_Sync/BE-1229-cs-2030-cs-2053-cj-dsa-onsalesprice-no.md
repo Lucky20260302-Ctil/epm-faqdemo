@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1229: [CS-2030] -[CS-2053]  CJ DSA OnSalesPrice not effective owing to ZeroLength Temp solution"
 issue_key: BE-1229
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1229: [CS-2030] -[CS-2053]  CJ DSA OnSalesPrice not effective owing to ZeroLength Temp solution
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-02-26
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

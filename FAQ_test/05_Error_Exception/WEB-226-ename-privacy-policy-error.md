@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-226: eName Privacy Policy error"
 issue_key: WEB-226
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-226: eName Privacy Policy error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-05-31
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

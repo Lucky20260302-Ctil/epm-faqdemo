@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-704: [Coach][Saleshub][JP] Fail to enter into issue sales page & pop up NoSuchMethodError"
 issue_key: MP-704
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-704: [Coach][Saleshub][JP] Fail to enter into issue sales page & pop up NoSuchMethodError 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-07-10
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

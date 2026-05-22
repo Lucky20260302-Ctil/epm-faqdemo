@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1149: [INC3083299]pwhistlg表pwhistlg_password字段NULL值"
 issue_key: BE-1149
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1149: [INC3083299]pwhistlg表pwhistlg_password字段NULL值
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-10-09
-> **負責人:** Joy Li
-> **組件:** Table
 
 ## 問題描述
 

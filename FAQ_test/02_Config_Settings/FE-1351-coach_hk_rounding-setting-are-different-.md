@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1351: Coach_HK_Rounding setting are different between POS and Mpos"
 issue_key: FE-1351
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1351: Coach_HK_Rounding setting are different between POS and Mpos
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-10-29
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-363: TW production issue: incorrect on sales price"
 issue_key: MP-363
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-363: TW production issue: incorrect on sales price
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-02-11
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

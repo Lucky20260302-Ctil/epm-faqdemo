@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1612: [CS-1334] - RIN01443208-sales memo preview no printing function"
 issue_key: FE-1612
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1612: [CS-1334] - RIN01443208-sales memo preview no printing function 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-24
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1560: All till POS cannot reset password of account 653224"
 issue_key: FE-1560
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1560: All till POS cannot reset password of account 653224
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **負責人:** Sang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

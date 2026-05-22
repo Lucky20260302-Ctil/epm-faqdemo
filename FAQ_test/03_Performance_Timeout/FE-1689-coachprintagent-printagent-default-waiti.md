@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1689: [Coach][PrintAgent] PrintAgent default waiting Time not enough, x32TMUPrint.exe would occur timeout"
 issue_key: FE-1689
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1689: [Coach][PrintAgent] PrintAgent default waiting Time not enough, x32TMUPrint.exe would occur timeout 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-09-30
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

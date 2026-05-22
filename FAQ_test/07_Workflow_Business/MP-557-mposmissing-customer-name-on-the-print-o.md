@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-557: [MPOS]Missing customer name on the print out"
 issue_key: MP-557
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-557: [MPOS]Missing customer name on the print out
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

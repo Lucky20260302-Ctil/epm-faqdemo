@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1403: J431 2024-06-01 fixed by correct Member No in J431-00024115"
 issue_key: FE-1403
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1403: J431 2024-06-01 fixed by correct Member No in J431-00024115 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-09-08
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

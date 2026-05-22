@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-827: [INC3507150]After entering product and customer information, the screen suddenly disappears"
 issue_key: MP-827
 issue_type: Bug DEV
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-827: [INC3507150]After entering product and customer information, the screen suddenly disappears
-
-> **類型:** Bug DEV | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

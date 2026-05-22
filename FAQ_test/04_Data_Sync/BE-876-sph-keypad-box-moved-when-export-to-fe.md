@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-876: SPH Keypad box moved when export to FE"
 issue_key: BE-876
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-876: SPH Keypad box moved when export to FE
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Bobby
-> **組件:** Backend (V66)
 
 ## 問題描述
 

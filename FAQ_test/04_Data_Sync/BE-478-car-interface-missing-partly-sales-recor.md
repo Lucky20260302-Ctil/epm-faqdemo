@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-478: CAR Interface missing partly sales record"
 issue_key: BE-478
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-478: CAR Interface missing partly sales record
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-04-14
-> **負責人:** Joy Li
-> **組件:** Backend (V66)
 
 ## 問題描述
 

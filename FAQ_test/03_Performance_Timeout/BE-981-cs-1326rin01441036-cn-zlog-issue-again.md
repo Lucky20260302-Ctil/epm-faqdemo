@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-981: [CS-1326]RIN01441036] - CN Zlog issue again on 2025-01-11"
 issue_key: BE-981
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-981: [CS-1326]RIN01441036] - CN Zlog issue again on 2025-01-11
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

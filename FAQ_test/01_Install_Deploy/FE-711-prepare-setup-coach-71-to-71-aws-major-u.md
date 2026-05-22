@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-711: Prepare Setup Coach 71 to 71 (AWS Major Upgrade)"
 issue_key: FE-711
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-711: Prepare Setup Coach 71 to 71 (AWS Major Upgrade)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-09-29
-> **負責人:** Andrew_Au
-> **組件:** Frontend
 
 ## 問題描述
 

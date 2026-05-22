@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-819: CloudPrintNotificationServer fails to update result to MPOS API"
 issue_key: MP-819
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-819: CloudPrintNotificationServer fails to update result to MPOS API
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1737: RE: CS2000 - Sales Memo Symbol Enquiry"
 issue_key: FE-1737
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1737: RE: CS2000 - Sales Memo Symbol Enquiry
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

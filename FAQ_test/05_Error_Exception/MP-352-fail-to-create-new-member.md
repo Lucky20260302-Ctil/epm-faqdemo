@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-352: Fail to create new member"
 issue_key: MP-352
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-352: Fail to create new member
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-01-29
-> **負責人:** Joy Li
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

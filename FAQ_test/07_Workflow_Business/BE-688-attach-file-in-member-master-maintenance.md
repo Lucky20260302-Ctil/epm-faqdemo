@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-688: Attach file in Member Master Maintenance placed at incorrect position"
 issue_key: BE-688
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-688: Attach file in Member Master Maintenance placed at incorrect position
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-02-17
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

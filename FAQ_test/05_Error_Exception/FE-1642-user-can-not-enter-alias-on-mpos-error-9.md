@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1642: user can not enter alias on mpos, error 999:System.Glocalization.GregorianCalendar"
 issue_key: FE-1642
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1642: user can not enter alias on mpos, error 999:System.Glocalization.GregorianCalendar
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-585: Loading elements / scence during the sales flow"
 issue_key: MP-585
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-585: Loading elements / scence during the sales flow
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-11-04
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

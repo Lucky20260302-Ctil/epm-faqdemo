@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-223: ipaddress page filtering"
 issue_key: WEB-223
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-223: ipaddress page filtering
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-05-31
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

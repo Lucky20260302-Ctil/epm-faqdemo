@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1013: Member Panel Validate for invalid Member"
 issue_key: FE-1013
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1013: Member Panel Validate for invalid Member 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-06-16
-> **負責人:** Steven Yuen
-> **組件:** Frontend
 
 ## 問題描述
 

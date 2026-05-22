@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-708: [Coach][JP][SalesHub] Pop up an error & fail to override list price in MPOS"
 issue_key: MP-708
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-708: [Coach][JP][SalesHub] Pop up an error & fail to override list price in MPOS
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-07-24
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

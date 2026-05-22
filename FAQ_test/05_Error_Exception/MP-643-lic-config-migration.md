@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-643: Lic Config Migration"
 issue_key: MP-643
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-643: Lic Config Migration
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-11-06
-> **負責人:** Cy Lau
-> **組件:** MPOS API
 
 ## 問題描述
 

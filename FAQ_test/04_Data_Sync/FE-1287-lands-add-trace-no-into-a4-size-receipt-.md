@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1287: [Lands] Add Trace No. into A4 size receipt print out"
 issue_key: FE-1287
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1287: [Lands] Add Trace No. into A4 size receipt print out
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

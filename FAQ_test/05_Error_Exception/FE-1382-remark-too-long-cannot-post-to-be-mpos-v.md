@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1382: Remark too long cannot post to be (Mpos v3.25.1)"
 issue_key: FE-1382
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1382: Remark too long cannot post to be (Mpos v3.25.1)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-06-25
-> **負責人:** Sherman tse
-> **組件:** MPOS
 
 ## 問題描述
 

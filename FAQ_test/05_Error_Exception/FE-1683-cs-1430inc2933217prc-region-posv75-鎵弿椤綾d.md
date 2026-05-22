@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1683: [CS-1430][INC2933217]PRC region POSV75 扫描顾CDP礼券的核销码,显示'parse coupon QR code error'"
 issue_key: FE-1683
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1683: [CS-1430][INC2933217]PRC region POSV75 扫描顾CDP礼券的核销码,显示"parse coupon QR code error"
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

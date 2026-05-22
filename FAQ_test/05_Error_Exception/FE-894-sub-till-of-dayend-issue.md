@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-894: Sub till of dayend issue"
 issue_key: FE-894
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-894: Sub till of dayend issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-23
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

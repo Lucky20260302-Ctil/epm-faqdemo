@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-623: Display unusual screen after tab Pay under network disconnect condition"
 issue_key: MP-623
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-623: Display unusual screen after tab Pay under network disconnect condition
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-02-20
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

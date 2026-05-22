@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1002: CS-1351 Issue_HK_POS reconsolidation have discrepancy"
 issue_key: BE-1002
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1002: CS-1351 Issue_HK_POS reconsolidation have discrepancy
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **解決日期:** 2025-05-02
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

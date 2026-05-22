@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-527: ZEBRA printer when off cannot print to original printer"
 issue_key: MP-527
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-527: ZEBRA printer when off cannot print to original printer
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-07-10
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

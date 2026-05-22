@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-512: Bonus Point Import - Performance tuning for large file"
 issue_key: BE-512
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-512: Bonus Point Import - Performance tuning for large file
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-08-17
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

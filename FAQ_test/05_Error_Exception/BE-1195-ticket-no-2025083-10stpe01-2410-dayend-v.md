@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1195: Ticket No. 2025083 10STPE01 24/10 dayend validation , error in sales and payment"
 issue_key: BE-1195
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1195: Ticket No. 2025083 10STPE01 24/10 dayend validation , error in sales and payment 
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

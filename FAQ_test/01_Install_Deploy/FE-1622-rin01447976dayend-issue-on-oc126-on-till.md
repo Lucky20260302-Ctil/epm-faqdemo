@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1622: [RIN01447976]dayend issue on OC126 on till1 after upgraded to V75"
 issue_key: FE-1622
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1622: [RIN01447976]dayend issue on OC126 on till1 after upgraded to V75
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-24
-> **負責人:** Sang
-> **組件:** CS2kconnect, Front End v750.01R01A
 
 ## 問題描述
 

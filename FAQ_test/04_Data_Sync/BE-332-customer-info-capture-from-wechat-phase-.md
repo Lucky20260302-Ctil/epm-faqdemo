@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-332: Customer Info Capture from WeChat (Phase 2-MPOS)"
 issue_key: BE-332
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-332: Customer Info Capture from WeChat (Phase 2-MPOS)
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-10
-> **負責人:** Joy Li
-> **組件:** Backend (Web)
 
 ## 問題描述
 

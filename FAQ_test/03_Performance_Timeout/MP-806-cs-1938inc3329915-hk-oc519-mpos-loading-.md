@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-806: [CS-1938][INC3329915] HK OC519 MPOS loading for 1 min when generated all the payment"
 issue_key: MP-806
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-806: [CS-1938][INC3329915] HK OC519 MPOS loading for 1 min when generated all the payment
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Tovi Wang
-> **組件:** MPOS
 
 ## 問題描述
 

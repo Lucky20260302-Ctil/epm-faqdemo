@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-723: [Coach][CRM milestone 2] Display 1 member result only but Backend Db has more than 1 same tel records"
 issue_key: MP-723
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-723: [Coach][CRM milestone 2] Display 1 member result only but Backend Db has more than 1 same tel records
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-11-14
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

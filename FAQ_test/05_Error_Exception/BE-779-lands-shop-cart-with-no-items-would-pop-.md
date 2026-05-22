@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-779: [Lands] Shop Cart with no items would pop up No response error"
 issue_key: BE-779
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-779: [Lands] Shop Cart with no items would pop up No response error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Daniel Leung
-> **組件:** Frontend
 
 ## 問題描述
 

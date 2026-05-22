@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-602: SOW of Getting Back End Sales to print in POS"
 issue_key: MP-602
 issue_type: SOW
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-602: SOW of Getting Back End Sales to print in POS
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-05-19
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-791: MPOS-113: Request set eReceipt function as disabled for JP MPOS config"
 issue_key: MP-791
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-791: MPOS-113: Request set eReceipt function as disabled for JP MPOS config
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-08-13
-> **組件:** MPOS API
 
 ## 問題描述
 

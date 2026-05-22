@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-898: Cost Adjustment Information(IC3009):Create By Range,click save ,提示语法异常"
 issue_key: BE-898
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-898: Cost Adjustment Information(IC3009):Create By Range,click save ,提示语法异常
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-10-21
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

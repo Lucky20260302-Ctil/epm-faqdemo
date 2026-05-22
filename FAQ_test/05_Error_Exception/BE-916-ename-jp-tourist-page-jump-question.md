@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-916: eName - JP Tourist - Page jump question"
 issue_key: BE-916
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-916: eName - JP Tourist - Page jump question
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-10-16
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

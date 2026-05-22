@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-526: ZEBRA printer layout"
 issue_key: MP-526
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-526: ZEBRA printer layout
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-05-27
-> **負責人:** Sang
-> **組件:** MPOS
 
 ## 問題描述
 

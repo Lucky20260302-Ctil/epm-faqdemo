@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1025: Hi Bobby/Sanyo Team,     We received an alert that when cs2000 call acxiom CRM API, could you help to investigate the reason.  Error occurred time: 2025-03-07 04:52:05"
 issue_key: BE-1025
 issue_type: Bug PRD
 status: Closed
@@ -15,10 +16,6 @@ has_images: False
 ---
 
 # BE-1025: Hi Bobby/Sanyo Team,     We received an alert that when cs2000 call acxiom CRM API, could you help to investigate the reason.  Error occurred time: 2025-03-07 04:52:05
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **組件:** API
 
 ## 問題描述
 

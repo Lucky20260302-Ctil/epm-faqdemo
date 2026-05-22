@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-348: ntfbat create time leading zero issue"
 issue_key: BE-348
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-348: ntfbat create time leading zero issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-17
-> **組件:** Backend (V66)
 
 ## 問題描述
 

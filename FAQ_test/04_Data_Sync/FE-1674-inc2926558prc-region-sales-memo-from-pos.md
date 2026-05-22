@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1674: [INC2926558]PRC region sales memo from POSV75has different format with that from POSv72"
 issue_key: FE-1674
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1674: [INC2926558]PRC region sales memo from POSV75has different format with that from POSv72
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-06-05
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

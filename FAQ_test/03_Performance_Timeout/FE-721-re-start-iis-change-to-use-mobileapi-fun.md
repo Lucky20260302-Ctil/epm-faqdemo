@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-721: Re-start IIS change to use MobileAPI function"
 issue_key: FE-721
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-721: Re-start IIS change to use MobileAPI function
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-05-06
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

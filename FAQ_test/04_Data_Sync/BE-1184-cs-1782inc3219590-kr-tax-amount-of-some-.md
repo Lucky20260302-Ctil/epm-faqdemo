@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1184: [CS-1782][INC3219590] KR Tax amount of some transactions in OC858 & OC818 are wrong"
 issue_key: BE-1184
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1184: [CS-1782][INC3219590] KR Tax amount of some transactions in OC858 & OC818 are wrong
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-803: KS Vip cleansing changes"
 issue_key: BE-803
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-803: KS Vip cleansing changes
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-11-22
-> **負責人:** Joy Li
-> **組件:** Backend (Web)
 
 ## 問題描述
 

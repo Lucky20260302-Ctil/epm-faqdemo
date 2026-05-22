@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-533: [Coach] Item Sales Amount & Payment Amount Variance"
 issue_key: MP-533
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-533: [Coach] Item Sales Amount & Payment Amount Variance
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 8.5
-> **解決日期:** 2024-07-11
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

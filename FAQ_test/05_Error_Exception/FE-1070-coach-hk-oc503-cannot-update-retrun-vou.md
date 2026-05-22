@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1070: Coach hk OC503 cannot update  Retrun Voucher redeem records"
 issue_key: FE-1070
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1070: Coach hk OC503 cannot update  Retrun Voucher redeem records
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-28
-> **負責人:** Sang
-> **組件:** Day End, Front End
 
 ## 問題描述
 

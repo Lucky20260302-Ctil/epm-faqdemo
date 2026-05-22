@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-641: Japan full-byte AA"
 issue_key: MP-641
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-641: Japan full-byte AA
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-07-12
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1232: Duplicate Void Sales Memo"
 issue_key: FE-1232
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1232: Duplicate Void Sales Memo
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-03-05
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

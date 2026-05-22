@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-193: Prepare MPOS API 3.7.1 release for COACH"
 issue_key: WEB-193
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-193: Prepare MPOS API 3.7.1 release for COACH
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-12-23
-> **負責人:** Joy Li
-> **組件:** API
 
 ## 問題描述
 

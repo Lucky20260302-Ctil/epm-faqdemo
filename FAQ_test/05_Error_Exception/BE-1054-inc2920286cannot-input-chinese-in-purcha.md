@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1054: [INC2920286]cannot input Chinese in purchase-bank info"
 issue_key: BE-1054
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1054: [INC2920286]cannot input Chinese in purchase-bank info
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-06-05
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

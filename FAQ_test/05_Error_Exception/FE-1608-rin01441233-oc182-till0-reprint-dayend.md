@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1608: RIN01441233 - OC182 till0 reprint dayend report error,but reprint sales memo normal"
 issue_key: FE-1608
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1608: RIN01441233 - OC182 till0 reprint dayend report error,but reprint sales memo normal
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Tovi Wang
-> **組件:** report
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-571: Cannot retrieve the modified member record"
 issue_key: MP-571
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-571: Cannot retrieve the modified member record
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-08-15
-> **負責人:** Andrew_Au
-> **組件:** MPOS
 
 ## 問題描述
 

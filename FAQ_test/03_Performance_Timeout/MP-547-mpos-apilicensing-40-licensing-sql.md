@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-547: [MPOS-API]Licensing 4.0 / Licensing SQL"
 issue_key: MP-547
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-547: [MPOS-API]Licensing 4.0 / Licensing SQL
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-11-21
-> **負責人:** Andrew_Au
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

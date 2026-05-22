@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-330: Data concurrency handling"
 issue_key: BE-330
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-330: Data concurrency handling
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-06-15
-> **負責人:** howard
-> **組件:** Backend (Web)
 
 ## 問題描述
 

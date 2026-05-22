@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1486: [BASH][FE] POS cannot search member by Email address"
 issue_key: FE-1486
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1486: [BASH][FE] POS cannot search member by Email address
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-08-20
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

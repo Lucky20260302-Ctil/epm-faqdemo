@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1157: [CS-1550]TW CRM - Wrong Country Code when sending API Call"
 issue_key: BE-1157
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1157: [CS-1550]TW CRM - Wrong Country Code when sending API Call
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-10-02
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

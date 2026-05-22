@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1193: [PPR-22] - ANZ POS - AU 20 Web sales import error - Exchange rate not found"
 issue_key: BE-1193
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1193: [PPR-22] - ANZ POS - AU 20 Web sales import error - Exchange rate not found
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **負責人:** Tovi Wang
-> **組件:** Data Interface
 
 ## 問題描述
 

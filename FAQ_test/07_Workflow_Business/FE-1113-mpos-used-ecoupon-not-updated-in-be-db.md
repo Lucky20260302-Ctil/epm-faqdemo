@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1113: MPOS Used ecoupon not updated in BE DB"
 issue_key: FE-1113
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1113: MPOS Used ecoupon not updated in BE DB
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1026: Test Coach V75 Print layout (Laser)"
 issue_key: FE-1026
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1026: Test Coach V75 Print layout (Laser)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

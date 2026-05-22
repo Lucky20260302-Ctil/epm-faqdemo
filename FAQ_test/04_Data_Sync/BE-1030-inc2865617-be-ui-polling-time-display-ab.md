@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1030: [INC2865617] BE UI Polling time display abnormal"
 issue_key: BE-1030
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1030: [INC2865617] BE UI Polling time display abnormal
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Jerry Wong
-> **組件:** polling
 
 ## 問題描述
 

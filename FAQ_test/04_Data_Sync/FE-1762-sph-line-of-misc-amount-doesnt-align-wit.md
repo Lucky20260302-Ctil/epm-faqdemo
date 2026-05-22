@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1762: [SPH] Line of Misc. Amount doesn't align with the right side"
 issue_key: FE-1762
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1762: [SPH] Line of Misc. Amount doesn't align with the right side 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-10-02
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

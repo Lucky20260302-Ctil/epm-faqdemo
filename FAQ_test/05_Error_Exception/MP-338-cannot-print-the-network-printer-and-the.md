@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-338: Cannot print the network printer and the MPOS check the wrong database config table (dbmas.tblconfig), should be check the SSE.dbtrans.tblconfig to control print to which printer."
 issue_key: MP-338
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-338: Cannot print the network printer and the MPOS check the wrong database config table (dbmas.tblconfig), should be check the SSE.dbtrans.tblconfig to control print to which printer.
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-01-22
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

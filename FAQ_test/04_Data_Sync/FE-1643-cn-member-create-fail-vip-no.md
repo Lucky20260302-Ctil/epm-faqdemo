@@ -1,5 +1,6 @@
 ---
 project: ERM FEPOS
+title: "FE-1643: [ACU-115] CN Member can't be created by QR code scanning or mobile number inputting"
 issue_key: FE-1643
 issue_type: Bug PRD
 status: Closed

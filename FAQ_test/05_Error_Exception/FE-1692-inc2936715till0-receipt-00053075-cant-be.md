@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1692: [INC2936715]Till0 receipt 00053075 can't be printed fully"
 issue_key: FE-1692
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1692: [INC2936715]Till0 receipt 00053075 can't be printed fully
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End v720.02, Front End v750.01R01A
 
 ## 問題描述
 

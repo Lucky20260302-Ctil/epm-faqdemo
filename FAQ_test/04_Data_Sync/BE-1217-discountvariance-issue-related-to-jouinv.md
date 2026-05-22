@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1217: Discountvariance issue related to jouinv_exrate,jouinv_item_qty,jouinv_item_amt"
 issue_key: BE-1217
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1217: Discountvariance issue related to jouinv_exrate,jouinv_item_qty,jouinv_item_amt
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-05-14
-> **負責人:** Sang
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

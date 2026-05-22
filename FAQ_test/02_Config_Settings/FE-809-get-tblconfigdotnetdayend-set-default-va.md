@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-809: Get tblconfig.DotnetDayend set default value to 'N'"
 issue_key: FE-809
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-809: Get tblconfig.DotnetDayend set default value to "N"
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.0
-> **解決日期:** 2020-11-06
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

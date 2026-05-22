@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1718: DTUT Fail to display data in Details Grid"
 issue_key: FE-1718
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1718: DTUT Fail to display data in Details Grid 
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

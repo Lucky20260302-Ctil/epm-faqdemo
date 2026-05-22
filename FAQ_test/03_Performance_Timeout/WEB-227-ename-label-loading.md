@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-227: eName label loading"
 issue_key: WEB-227
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-227: eName label loading
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-05-31
-> **組件:** eName
 
 ## 問題描述
 

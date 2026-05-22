@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-936: SOW of ACXIOM CRM API Integration - Scan QR Code - API Part"
 issue_key: BE-936
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-936: SOW of ACXIOM CRM API Integration - Scan QR Code - API Part
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-11-15
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-990: CN Print in english"
 issue_key: FE-990
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-990: CN Print in english
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-08-19
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

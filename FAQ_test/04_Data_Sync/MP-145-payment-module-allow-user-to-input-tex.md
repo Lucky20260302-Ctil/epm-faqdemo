@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-145: Payment Module - Allow user to input text in the credit card number bar"
 issue_key: MP-145
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-145: Payment Module - Allow user to input text in the credit card number bar
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-05-07
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

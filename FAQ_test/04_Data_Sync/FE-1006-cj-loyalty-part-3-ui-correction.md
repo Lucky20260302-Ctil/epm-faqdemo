@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1006: CJ Loyalty Part 3 - UI correction"
 issue_key: FE-1006
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1006: CJ Loyalty Part 3 - UI correction
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-08-27
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

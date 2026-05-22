@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-200: Change item price display details"
 issue_key: MP-200
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-200: Change item price display details
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-06-22
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

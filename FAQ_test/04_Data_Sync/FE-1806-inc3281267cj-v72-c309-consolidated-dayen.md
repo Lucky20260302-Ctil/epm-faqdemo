@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1806: [INC3281267]CJ V72 C309 consolidated dayend missing sub till data"
 issue_key: FE-1806
 issue_type: Bug DEV
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1806: [INC3281267]CJ V72 C309 consolidated dayend missing sub till data
-
-> **類型:** Bug DEV | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

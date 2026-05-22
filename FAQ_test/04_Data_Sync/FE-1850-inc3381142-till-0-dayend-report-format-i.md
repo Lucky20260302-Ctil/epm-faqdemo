@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1850: INC3381142 Till 0 Dayend Report Format Issue"
 issue_key: FE-1850
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1850: INC3381142 Till 0 Dayend Report Format Issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** report
 
 ## 問題描述
 

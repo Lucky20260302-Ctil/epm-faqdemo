@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-492: Deposit Return - memo number created is duplicated with POS"
 issue_key: MP-492
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-492: Deposit Return - memo number created is duplicated with POS
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-10-18
-> **負責人:** Nathan Chan
-> **組件:** MPOS API
 
 ## 問題描述
 

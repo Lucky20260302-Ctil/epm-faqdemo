@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1435: (SQ0343-104) [MVP 1] Had created sales in REMS but cannot find record in WCRM so cannot earn point"
 issue_key: FE-1435
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1435: (SQ0343-104) [MVP 1] Had created sales in REMS but cannot find record in WCRM so cannot earn point
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-09-17
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

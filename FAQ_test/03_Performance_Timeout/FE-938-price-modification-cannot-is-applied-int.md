@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-938: Price Modification cannot is applied into item with negative quantity (sales return)"
 issue_key: FE-938
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-938: Price Modification cannot is applied into item with negative quantity (sales return)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-08-18
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

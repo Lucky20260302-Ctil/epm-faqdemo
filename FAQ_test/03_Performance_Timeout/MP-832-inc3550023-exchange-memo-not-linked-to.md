@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-832: INC3550023 - Exchange memo NOT linked to Original sales memo"
 issue_key: MP-832
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-832: INC3550023 - Exchange memo NOT linked to Original sales memo
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

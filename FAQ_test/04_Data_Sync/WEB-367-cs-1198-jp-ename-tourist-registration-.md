@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-367: [CS-1198] JP eName - Tourist Registration - Duplicate International country code are not support"
 issue_key: WEB-367
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-367: [CS-1198] JP eName - Tourist Registration - Duplicate International country code are not support
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-12-06
-> **負責人:** Daniel Leung
-> **組件:** eName
 
 ## 問題描述
 

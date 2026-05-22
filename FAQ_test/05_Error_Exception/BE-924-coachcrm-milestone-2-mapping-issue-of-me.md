@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-924: [Coach][CRM milestone 2] mapping issue of member id"
 issue_key: BE-924
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-924: [Coach][CRM milestone 2] mapping issue of member id
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 10.0
-> **解決日期:** 2024-11-01
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1815: [PPR-72]ANZ POS - footer text change"
 issue_key: FE-1815
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1815: [PPR-72]ANZ POS - footer text change
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-11-24
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1814: [INC3313258]sales memo 00059306 not generated in PCD file,not found in dbtrans.sdf, can be found in dbhist.sdf."
 issue_key: FE-1814
 issue_type: Bug DEV
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1814: [INC3313258]sales memo 00059306 not generated in PCD file,not found in dbtrans.sdf, can be found in dbhist.sdf.
-
-> **類型:** Bug DEV | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

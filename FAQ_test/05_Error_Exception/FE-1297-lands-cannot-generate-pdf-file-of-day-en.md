@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1297: [Lands] Cannot generate PDF file of Day End after DayEnd"
 issue_key: FE-1297
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1297: [Lands] Cannot generate PDF file of Day End after DayEnd
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

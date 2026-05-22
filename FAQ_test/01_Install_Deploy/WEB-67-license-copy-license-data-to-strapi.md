@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-67: License - Copy License data to strapi"
 issue_key: WEB-67
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-67: License - Copy License data to strapi
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-09-04
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

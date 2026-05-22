@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1667: [CS-1399]Issue_CS2000 change password"
 issue_key: FE-1667
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1667: [CS-1399]Issue_CS2000 change password
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-09-30
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

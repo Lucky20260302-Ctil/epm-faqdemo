@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-776: CS-595:Chinese Character in store address"
 issue_key: BE-776
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-776: CS-595:Chinese Character in store address
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-09-04
-> **負責人:** Thomas
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-998: The 'HKJC_IAM.exe' contains more than 10 characters"
 issue_key: BE-998
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-998: The "HKJC_IAM.exe" contains more than 10 characters
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (V66)
 
 ## 問題描述
 

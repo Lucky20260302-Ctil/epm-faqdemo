@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1909: [CS-2081]JP_COH&KS_Consumption Tax Free regulation change"
 issue_key: FE-1909
 issue_type: Bug PRD
 status: SOW Send
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1909: [CS-2081]JP_COH&KS_Consumption Tax Free regulation change
-
-> **類型:** Bug PRD | **狀態:** SOW Send
-> **分類:** 安裝與部署 | **FAQ 分數:** 9.5
-> **負責人:** Cy Lau
-> **組件:** Front End, MPOS, MPOS_API
 
 ## 問題描述
 

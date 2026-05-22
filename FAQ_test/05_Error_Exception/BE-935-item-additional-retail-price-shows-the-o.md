@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-935: Item Additional Retail Price shows the On Sale Price Record"
 issue_key: BE-935
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-935: Item Additional Retail Price shows the On Sale Price Record
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-12-24
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

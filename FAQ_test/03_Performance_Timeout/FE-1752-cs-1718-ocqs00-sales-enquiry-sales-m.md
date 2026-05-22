@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1752: [CS-1718] OCQS00 - Sales Enquiry - Sales Memo - Consolidation Issue"
 issue_key: FE-1752
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1752: [CS-1718] OCQS00 - Sales Enquiry - Sales Memo - Consolidation Issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Enquiry
 
 ## 問題描述
 

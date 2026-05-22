@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1624: Deposit Settlement After Using MM Coupons get negative net amount"
 issue_key: FE-1624
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1624: Deposit Settlement After Using MM Coupons get negative net amount
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-04-14
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

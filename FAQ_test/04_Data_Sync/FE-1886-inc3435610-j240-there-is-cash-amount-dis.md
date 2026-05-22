@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1886: [INC3435610] J240 There is cash amount discrepancy in dayend report."
 issue_key: FE-1886
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1886: [INC3435610] J240 There is cash amount discrepancy in dayend report.
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

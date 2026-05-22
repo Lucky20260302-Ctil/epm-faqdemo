@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-671: Cannot logout in Env 101"
 issue_key: BE-671
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-671: Cannot logout in Env 101
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-07
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

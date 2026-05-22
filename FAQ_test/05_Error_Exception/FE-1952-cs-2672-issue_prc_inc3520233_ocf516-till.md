@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1952: [CS-2672] Issue_PRC_INC3520233_OCF516 till0 sales cannot be uploaded to HKMR timely"
 issue_key: FE-1952
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1952: [CS-2672] Issue_PRC_INC3520233_OCF516 till0 sales cannot be uploaded to HKMR timely
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Tovi Wang
-> **組件:** Frontend
 
 ## 問題描述
 

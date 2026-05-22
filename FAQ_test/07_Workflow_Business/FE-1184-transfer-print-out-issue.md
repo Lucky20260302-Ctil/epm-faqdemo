@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1184: Transfer print out issue"
 issue_key: FE-1184
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1184: Transfer print out issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-12-05
-> **負責人:** Sherman tse
-> **組件:** Frontend
 
 ## 問題描述
 

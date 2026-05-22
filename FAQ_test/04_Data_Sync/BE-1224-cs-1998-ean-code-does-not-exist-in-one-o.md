@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1224: [CS-1998] EAN Code does not exist in one of the files - COH_JP_Apollo/CRM_new data extract"
 issue_key: BE-1224
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1224: [CS-1998] EAN Code does not exist in one of the files - COH_JP_Apollo/CRM_new data extract
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-793: [MPOS-115][INC3149444]CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub"
 issue_key: MP-793
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-793: [MPOS-115][INC3149444]CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-09-02
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

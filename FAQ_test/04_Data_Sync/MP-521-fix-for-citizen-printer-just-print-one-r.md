@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-521: Fix for Citizen printer just print one receipt"
 issue_key: MP-521
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-521: Fix for Citizen printer just print one receipt
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-04-29
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

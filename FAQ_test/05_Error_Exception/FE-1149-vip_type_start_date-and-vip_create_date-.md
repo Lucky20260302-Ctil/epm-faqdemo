@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1149: vip_type_start_date and vip_create_date value error upon new member creation"
 issue_key: FE-1149
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1149: vip_type_start_date and vip_create_date value error upon new member creation
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-05-04
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

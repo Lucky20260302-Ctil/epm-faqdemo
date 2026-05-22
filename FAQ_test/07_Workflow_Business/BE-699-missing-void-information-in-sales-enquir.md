@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-699: Missing Void information in Sales Enquiry"
 issue_key: BE-699
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-699: Missing Void information in Sales Enquiry
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-11-16
-> **負責人:** Bobby
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

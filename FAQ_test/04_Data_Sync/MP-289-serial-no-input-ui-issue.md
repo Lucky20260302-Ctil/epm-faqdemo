@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-289: Serial No. input UI issue"
 issue_key: MP-289
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-289: Serial No. input UI issue
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-07-20
-> **負責人:** Kelly Ng
-> **組件:** MPOS
 
 ## 問題描述
 

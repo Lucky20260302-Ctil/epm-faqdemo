@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1511: HKJC V75 license issue"
 issue_key: FE-1511
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1511: HKJC V75 license issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

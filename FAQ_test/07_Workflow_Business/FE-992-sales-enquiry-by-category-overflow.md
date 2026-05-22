@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-992: Sales Enquiry By Category - overflow"
 issue_key: FE-992
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-992: Sales Enquiry By Category - overflow
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-08-19
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

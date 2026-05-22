@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1944: [CS-2771][INC3564250] OC09 till 0 pos slow issue"
 issue_key: FE-1944
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1944: [CS-2771][INC3564250] OC09 till 0 pos slow issue 
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

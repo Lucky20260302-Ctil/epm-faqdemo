@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1690: [CS-1407]KS SEA - Purchase history page cannot show up after upgrading to v75.004.1100.0008"
 issue_key: FE-1690
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1690: [CS-1407]KS SEA - Purchase history page cannot show up after upgrading to v75.004.1100.0008
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-08-29
-> **負責人:** Sherman tse
-> **組件:** Frontend
 
 ## 問題描述
 

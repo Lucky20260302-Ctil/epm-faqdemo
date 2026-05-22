@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1879: [CS-2135][INC3430754]KSN237 Store said the till 1 & 2 also the new log update symbol there but after clicked it showing error “Execute.Error: Object reference not set to an instance of an object.”"
 issue_key: FE-1879
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1879: [CS-2135][INC3430754]KSN237 Store said the till 1 & 2 also the new log update symbol there but after clicked it showing error “Execute.Error: Object reference not set to an instance of an object.”
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

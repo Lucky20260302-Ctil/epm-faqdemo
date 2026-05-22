@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1171: [CS-1579]  LGV payment orders from PangdongLai API"
 issue_key: BE-1171
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1171: [CS-1579]  LGV payment orders from PangdongLai API
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-09-22
-> **負責人:** Cy Lau
-> **組件:** Data Interface
 
 ## 問題描述
 

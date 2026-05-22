@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-209: [AQ-206] Enhance Phone No Search in New VIP API"
 issue_key: WEB-209
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-209: [AQ-206] Enhance Phone No Search in New VIP API
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-12-01
-> **負責人:** Joy Li
-> **組件:** API
 
 ## 問題描述
 

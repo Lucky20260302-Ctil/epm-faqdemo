@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-49: POS_API - data validate - Will return error code '200007' if failed."
 issue_key: WEB-49
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-49: POS_API - data validate - Will return error code "200007" if failed.
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-09-04
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

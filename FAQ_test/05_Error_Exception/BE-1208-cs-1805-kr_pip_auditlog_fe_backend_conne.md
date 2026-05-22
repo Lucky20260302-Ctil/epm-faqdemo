@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1208: [CS-1805] KR_PIP_AuditLog_FE_Backend_Connectivity_issue"
 issue_key: BE-1208
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1208: [CS-1805] KR_PIP_AuditLog_FE_Backend_Connectivity_issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-11-04
-> **組件:** API
 
 ## 問題描述
 

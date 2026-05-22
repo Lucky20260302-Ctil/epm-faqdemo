@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-275: Support store e-receipt from MPOS to BE share folder by API"
 issue_key: MP-275
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-275: Support store e-receipt from MPOS to BE share folder by API
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-07-20
-> **負責人:** Samuel Ma
-> **組件:** MPOS
 
 ## 問題描述
 

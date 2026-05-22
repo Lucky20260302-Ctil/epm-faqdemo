@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-788: 【MPOS-110】JP Local IIS suddenly unable to Use"
 issue_key: MP-788
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-788: 【MPOS-110】JP Local IIS suddenly unable to Use
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Daniel Leung
-> **組件:** LocalIIS, MPOS
 
 ## 問題描述
 

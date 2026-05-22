@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-781: [MPOS][CS-1463] New Request for Reprinting receipt"
 issue_key: MP-781
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-781: [MPOS][CS-1463] New Request for Reprinting receipt
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 8.0
-> **解決日期:** 2025-07-17
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

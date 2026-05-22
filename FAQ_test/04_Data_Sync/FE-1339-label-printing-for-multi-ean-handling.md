@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1339: Label Printing for multi EAN handling"
 issue_key: FE-1339
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1339: Label Printing for multi EAN handling
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-11-29
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

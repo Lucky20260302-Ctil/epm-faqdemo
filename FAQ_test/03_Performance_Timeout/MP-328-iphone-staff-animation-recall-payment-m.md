@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-328: iPhone- Staff Animation Recall Payment Methods API"
 issue_key: MP-328
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-328: iPhone- Staff Animation Recall Payment Methods API
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-12-17
-> **負責人:** Sam Chan
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-661: LCX DotNet Print Receipt"
 issue_key: FE-661
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-661: LCX DotNet Print Receipt
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-07-08
-> **負責人:** Derek_Leung
-> **組件:** Frontend
 
 ## 問題描述
 

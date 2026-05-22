@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-724: [Coach][CRM milestone 2] No Purchase histoy & profile display when search member by telephone number"
 issue_key: MP-724
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-724: [Coach][CRM milestone 2] No Purchase histoy & profile display when search member by telephone number
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-13
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

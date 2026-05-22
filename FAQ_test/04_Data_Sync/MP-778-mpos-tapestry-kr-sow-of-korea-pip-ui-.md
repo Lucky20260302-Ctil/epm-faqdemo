@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-778: mPOS - Tapestry KR- SOW of Korea PIP UI Masking Enhancements"
 issue_key: MP-778
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-778: mPOS - Tapestry KR- SOW of Korea PIP UI Masking Enhancements
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-05-07
-> **負責人:** Daniel Leung
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

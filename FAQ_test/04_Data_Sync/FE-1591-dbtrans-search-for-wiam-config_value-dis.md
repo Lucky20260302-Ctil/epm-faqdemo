@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1591: Dbtrans ，Search for wiam, CONFIG_VALUE displays correctly"
 issue_key: FE-1591
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1591: Dbtrans ，Search for wiam, CONFIG_VALUE displays correctly
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-12-24
-> **負責人:** Gavin Zhou
-> **組件:** Front End
 
 ## 問題描述
 

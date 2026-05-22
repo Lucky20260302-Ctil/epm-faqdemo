@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1211: SOW of VIP & Online Sales API and Online Sales print in POS v1.2"
 issue_key: FE-1211
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1211: SOW of VIP & Online Sales API and Online Sales print in POS v1.2
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-05-19
-> **負責人:** Yan Wong
-> **組件:** Front End v720.02
 
 ## 問題描述
 

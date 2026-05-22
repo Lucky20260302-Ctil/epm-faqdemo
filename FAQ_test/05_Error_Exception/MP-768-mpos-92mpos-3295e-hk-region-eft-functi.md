@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-768: 【MPOS-92】MPOS 3.29.5e - HK Region, EFT function is unavailable"
 issue_key: MP-768
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-768: 【MPOS-92】MPOS 3.29.5e - HK Region, EFT function is unavailable
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

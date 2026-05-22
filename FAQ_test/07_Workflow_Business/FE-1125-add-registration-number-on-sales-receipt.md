@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1125: Add Registration Number on sales receipt for SG region"
 issue_key: FE-1125
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1125: Add Registration Number on sales receipt for SG region
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Printing, Sales
 
 ## 問題描述
 

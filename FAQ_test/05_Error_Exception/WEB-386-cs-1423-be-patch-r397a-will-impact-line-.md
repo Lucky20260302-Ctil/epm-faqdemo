@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-386: CS-1423: BE Patch R3.97a Will impact Line API Got Token Failed"
 issue_key: WEB-386
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-386: CS-1423: BE Patch R3.97a Will impact Line API Got Token Failed
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-07-11
-> **負責人:** Anson Cheung
-> **組件:** BEGW
 
 ## 問題描述
 

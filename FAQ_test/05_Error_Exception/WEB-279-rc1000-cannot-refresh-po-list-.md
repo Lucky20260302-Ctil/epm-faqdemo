@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-279: RC1000 cannot refresh PO list"
 issue_key: WEB-279
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-279: RC1000 cannot refresh PO list 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-04-06
-> **負責人:** Jerry Wong
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

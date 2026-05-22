@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1143: [ACU-170] Response status code does not indicate success: 404 (Not Found) while processing async update for member"
 issue_key: BE-1143
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1143: [ACU-170] Response status code does not indicate success: 404 (Not Found) while processing async update for member
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-07-04
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-808: cannot print memo by type/category in POS"
 issue_key: FE-808
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-808: cannot print memo by type/category in POS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2020-11-06
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

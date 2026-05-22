@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1845: [Sporthouse] result printout format of transfer V75 not similar with V72"
 issue_key: FE-1845
 issue_type: Bug QA
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1845: [Sporthouse] result printout format of transfer V75 not similar with V72
-
-> **類型:** Bug QA | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

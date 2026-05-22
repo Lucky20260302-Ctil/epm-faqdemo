@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-723: Add a release version number at the bottom left corner of the setting popup panel"
 issue_key: BE-723
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-723: Add a release version number at the bottom left corner of the setting popup panel
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-05-31
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

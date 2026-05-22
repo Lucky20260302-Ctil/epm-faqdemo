@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1779: [CS-1818] KR_PIP_AuditLog_FE_AuditLog Worker service Not executed"
 issue_key: FE-1779
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1779: [CS-1818] KR_PIP_AuditLog_FE_AuditLog Worker service Not executed
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **負責人:** Tovi Wang
-> **組件:** fe
 
 ## 問題描述
 

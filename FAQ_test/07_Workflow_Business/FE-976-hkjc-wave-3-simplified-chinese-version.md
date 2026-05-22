@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-976: HKJC Wave 3 - Simplified Chinese Version"
 issue_key: FE-976
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-976: HKJC Wave 3 - Simplified Chinese Version
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 8.5
-> **解決日期:** 2021-09-21
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

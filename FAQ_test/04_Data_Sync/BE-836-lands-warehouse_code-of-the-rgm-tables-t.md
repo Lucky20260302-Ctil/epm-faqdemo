@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-836: [Lands] Warehouse_code of the RGM tables to have the same value as the store_code column"
 issue_key: BE-836
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-836: [Lands] Warehouse_code of the RGM tables to have the same value as the store_code column
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-02-16
-> **負責人:** Jerry Wong
-> **組件:** Table
 
 ## 問題描述
 

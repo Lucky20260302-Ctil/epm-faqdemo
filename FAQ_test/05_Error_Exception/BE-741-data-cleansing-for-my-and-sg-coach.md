@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-741: Data Cleansing for MY and SG coach"
 issue_key: BE-741
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-741: Data Cleansing for MY and SG coach
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-07-20
-> **負責人:** Joy Li
-> **組件:** Backend (Web)
 
 ## 問題描述
 

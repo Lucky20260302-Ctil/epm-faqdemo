@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-762: KS SEA CRM Memberson CDP backend Sale journal schedule short period task"
 issue_key: BE-762
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-762: KS SEA CRM Memberson CDP backend Sale journal schedule short period task
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-07-27
-> **負責人:** Bobby
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

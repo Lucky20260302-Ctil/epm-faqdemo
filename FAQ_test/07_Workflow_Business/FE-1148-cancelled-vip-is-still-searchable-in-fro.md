@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1148: Cancelled VIP is still searchable in frontend POS"
 issue_key: FE-1148
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1148: Cancelled VIP is still searchable in frontend POS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1039: [ACU-127]Offloading the Upsert Process to a Separate Async Service"
 issue_key: BE-1039
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1039: [ACU-127]Offloading the Upsert Process to a Separate Async Service
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-10-06
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

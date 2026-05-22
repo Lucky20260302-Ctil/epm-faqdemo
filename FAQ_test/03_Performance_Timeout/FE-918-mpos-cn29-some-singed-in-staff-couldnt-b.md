@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-918: MPOS-CN#29: Some singed in staff couldn't be found on MPOS"
 issue_key: FE-918
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-918: MPOS-CN#29: Some singed in staff couldn't be found on MPOS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-03-01
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1434: CLONE - SQ0343-106 [MVP 1] The spending value did not update after using spending value to settle payment in REMS"
 issue_key: FE-1434
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1434: CLONE - SQ0343-106 [MVP 1] The spending value did not update after using spending value to settle payment in REMS
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-03
-> **負責人:** Andy Ko
-> **組件:** Front End
 
 ## 問題描述
 

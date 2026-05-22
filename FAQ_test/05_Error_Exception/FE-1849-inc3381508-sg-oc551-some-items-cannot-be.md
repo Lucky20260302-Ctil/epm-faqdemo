@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1849: [INC3381508] SG OC551 Some items cannot be printed from POS system"
 issue_key: FE-1849
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1849: [INC3381508] SG OC551 Some items cannot be printed from POS system
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

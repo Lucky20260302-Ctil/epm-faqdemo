@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-748: [MPOS-51] JP_mPOS Receipt Not Printed Out (Cloud IIS) -PrintHub Enhancement"
 issue_key: MP-748
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-748: [MPOS-51] JP_mPOS Receipt Not Printed Out (Cloud IIS) -PrintHub Enhancement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-05-02
-> **負責人:** Sherman tse
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

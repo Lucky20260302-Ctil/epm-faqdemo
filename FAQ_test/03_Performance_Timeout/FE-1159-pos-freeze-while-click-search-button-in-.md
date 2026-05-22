@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1159: POS freeze while click Search button in Enquiry - Return Voucher in 800x600 resolution"
 issue_key: FE-1159
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1159: POS freeze while click Search button in Enquiry - Return Voucher in 800x600 resolution
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-11-16
-> **負責人:** Andy Ko
-> **組件:** Front End
 
 ## 問題描述
 

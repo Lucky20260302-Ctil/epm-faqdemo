@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-237: epromo-TaskScheduler - incorrect zlog for Product Table"
 issue_key: WEB-237
 issue_type: Bug PRD
 status: Closed
@@ -16,12 +17,6 @@ has_images: False
 
 # WEB-237: epromo-TaskScheduler - incorrect zlog for Product Table
 
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-09-02
-> **負責人:** Joy Li
-> **組件:** MailApproval, TaskScheduler
-
 ## 問題描述
 
 None
@@ -30,7 +25,8 @@ None
 ## Jira Comments
 
 > **Joy Li** (2022-07-22):
-> Data uploaded: \\172.16.183.201\localuser\support\JIRA_DB\WEB-237\  
+> Data uploaded: \\172.16.183.201\localuser\support\JIRA_DB\WEB-237\
+  
 
 ## 相關資訊
 

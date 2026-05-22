@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-817: Stock On-Hand By Item Error"
 issue_key: BE-817
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-817: Stock On-Hand By Item Error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-12-05
-> **負責人:** Hans Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-768: Issue_PRC_failed to auto-split on oversized update log file(>15,000)"
 issue_key: BE-768
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-768: Issue_PRC_failed to auto-split on oversized update log file(>15,000)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-06-16
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

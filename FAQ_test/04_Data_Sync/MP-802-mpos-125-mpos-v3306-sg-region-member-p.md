@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-802: [MPOS-125] MPOS - v3.30.6 SG Region, member profile and purchase history is not available"
 issue_key: MP-802
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-802: [MPOS-125] MPOS - v3.30.6 SG Region, member profile and purchase history is not available
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-904: Sporthouse DotNet Print Receipt Diff"
 issue_key: FE-904
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-904: Sporthouse DotNet Print Receipt Diff
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-08-18
-> **負責人:** Derek_Leung
-> **組件:** Frontend
 
 ## 問題描述
 

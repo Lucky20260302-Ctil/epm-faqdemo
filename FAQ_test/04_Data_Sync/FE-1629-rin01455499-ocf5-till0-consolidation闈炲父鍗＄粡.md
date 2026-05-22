@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1629: [RIN01455499] OCF5 till0 consolidation非常卡，经常要10+分钟，且长时间处于无响应状态"
 issue_key: FE-1629
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1629: [RIN01455499] OCF5 till0 consolidation非常卡，经常要10+分钟，且长时间处于无响应状态
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **負責人:** Ken Wang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

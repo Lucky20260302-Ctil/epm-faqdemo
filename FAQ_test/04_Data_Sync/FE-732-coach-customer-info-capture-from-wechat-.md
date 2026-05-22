@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-732: Coach Customer Info Capture from WeChat (Phase 2)"
 issue_key: FE-732
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-732: Coach Customer Info Capture from WeChat (Phase 2)
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-05-19
-> **負責人:** Joy Li
-> **組件:** Frontend, MPOS
 
 ## 問題描述
 

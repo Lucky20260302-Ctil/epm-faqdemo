@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1191: [PPR-9] ANZ POS - AWS many BE functions cannot be opened due to error"
 issue_key: BE-1191
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1191: [PPR-9] ANZ POS - AWS many BE functions cannot be opened due to error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-04-20
-> **負責人:** Cy Lau
-> **組件:** Backend (V66)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-701: PO_Invalid Suppliers Error"
 issue_key: BE-701
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-701: PO_Invalid Suppliers Error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-01-06
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

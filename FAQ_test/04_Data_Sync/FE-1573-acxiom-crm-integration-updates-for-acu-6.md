@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1573: [ACXIOM CRM Integration] Updates for ACU-68: UI Update for Member Profile page"
 issue_key: FE-1573
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1573: [ACXIOM CRM Integration] Updates for ACU-68: UI Update for Member Profile page
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-12-05
-> **負責人:** Joseph_Hu
-> **組件:** Front End
 
 ## 問題描述
 

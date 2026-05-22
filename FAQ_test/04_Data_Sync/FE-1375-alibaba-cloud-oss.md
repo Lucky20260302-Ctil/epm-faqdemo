@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1375: Alibaba Cloud OSS"
 issue_key: FE-1375
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1375: Alibaba Cloud OSS
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-06-07
-> **負責人:** Bobby
-> **組件:** CS2kconnect, MQPolling
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1537: Coach MY - ereceipt printing LASER - void eReceipt 'Void Reason' is cut off"
 issue_key: FE-1537
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1537: Coach MY - ereceipt printing LASER - void eReceipt "Void Reason" is cut off
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-02-21
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-721: SOW of ACXIOM CRM API Integration - Scan QR Code - MPOS Part"
 issue_key: MP-721
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-721: SOW of ACXIOM CRM API Integration - Scan QR Code - MPOS Part
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-11-15
-> **負責人:** Sherman tse
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

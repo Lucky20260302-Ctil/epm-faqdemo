@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-803: [INC3255868]JP region, POS v72,mpos sales memo miss the format in PCD file"
 issue_key: MP-803
 issue_type: Bug DEV
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-803: [INC3255868]JP region, POS v72,mpos sales memo miss the format in PCD file
-
-> **類型:** Bug DEV | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** MPOS
 
 ## 問題描述
 

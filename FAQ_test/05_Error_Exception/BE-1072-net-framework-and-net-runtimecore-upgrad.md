@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1072: .NET framework and .NET runtime(core) upgrade"
 issue_key: BE-1072
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1072: .NET framework and .NET runtime(core) upgrade
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **負責人:** Sherman tse
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

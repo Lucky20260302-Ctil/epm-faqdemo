@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-843: [Lands] Enhancement of adding a Company code table into Block Vote Account (BV0001)"
 issue_key: BE-843
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-843: [Lands] Enhancement of adding a Company code table into Block Vote Account (BV0001)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-27
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

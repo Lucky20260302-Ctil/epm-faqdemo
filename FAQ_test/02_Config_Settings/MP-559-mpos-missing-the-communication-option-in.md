@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-559: Mpos missing the communication Option in create VIP form when the config set NVIPINPUTCOMMOPT='y'"
 issue_key: MP-559
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-559: Mpos missing the communication Option in create VIP form when the config set NVIPINPUTCOMMOPT='y'
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-10-24
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

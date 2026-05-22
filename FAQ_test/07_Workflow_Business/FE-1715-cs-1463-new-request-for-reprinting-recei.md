@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1715: [CS-1463] New Request for Reprinting receipt"
 issue_key: FE-1715
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1715: [CS-1463] New Request for Reprinting receipt
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 8.0
-> **解決日期:** 2025-07-15
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

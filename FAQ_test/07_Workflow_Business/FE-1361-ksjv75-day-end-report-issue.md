@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1361: [KSJ][v75] Day end report issue"
 issue_key: FE-1361
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1361: [KSJ][v75] Day end report issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-107: CR0006 - General Point Calculation (WEB based)"
 issue_key: BE-107
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-107: CR0006 - General Point Calculation (WEB based)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-04-27
-> **負責人:** howard
-> **組件:** Backend (Web)
 
 ## 問題描述
 

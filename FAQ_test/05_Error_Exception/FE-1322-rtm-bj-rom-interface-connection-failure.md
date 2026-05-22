@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1322: RTM BJ ROM Interface connection failure"
 issue_key: FE-1322
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1322: RTM BJ ROM Interface connection failure
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-01-22
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

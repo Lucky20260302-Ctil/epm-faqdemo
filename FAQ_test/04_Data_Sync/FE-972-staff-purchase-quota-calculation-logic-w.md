@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-972: Staff purchase quota calculation logic with MM coupon"
 issue_key: FE-972
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-972: Staff purchase quota calculation logic with MM coupon
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-618: Section of input item no. would disapear after delete the 6th added item"
 issue_key: MP-618
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-618: Section of input item no. would disapear after delete the 6th added item
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-06-27
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

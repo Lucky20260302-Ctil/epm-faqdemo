@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-980: [RIN01439189] - Resave one HK member OC518WH00031506 will pop out error in BE UI"
 issue_key: BE-980
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-980: [RIN01439189] - Resave one HK member OC518WH00031506 will pop out error in BE UI
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

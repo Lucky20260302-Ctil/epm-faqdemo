@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-593: HKJC- SOW of RTM - MCRM e-receipt opt-in opt-out CR"
 issue_key: BE-593
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-593: HKJC- SOW of RTM - MCRM e-receipt opt-in opt-out CR
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-06-01
-> **負責人:** Bobby
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

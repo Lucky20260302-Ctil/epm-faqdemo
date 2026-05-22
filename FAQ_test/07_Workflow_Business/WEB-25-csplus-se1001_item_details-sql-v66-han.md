@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-25: csplus - SE1001_Item_Details SQL v66 handling"
 issue_key: WEB-25
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-25: csplus - SE1001_Item_Details SQL v66 handling
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-08-14
-> **負責人:** Samuel Ma
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

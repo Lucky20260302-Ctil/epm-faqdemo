@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1029: [CS-1370] Landlord CHANGI CITY interface exported data is wrong"
 issue_key: BE-1029
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1029: [CS-1370] Landlord CHANGI CITY interface exported data is wrong
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.5
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-943: [Coach][CRM milestone 2] Enhancement for the Backend data sync function when program able to send order to crm but fail to send member"
 issue_key: BE-943
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-943: [Coach][CRM milestone 2] Enhancement for the Backend data sync function when program able to send order to crm but fail to send member 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-11-19
-> **負責人:** Anson Cheung
-> **組件:** Backend (V66)
 
 ## 問題描述
 

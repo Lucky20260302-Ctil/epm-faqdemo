@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1042: URGENT_CJ MPOS Printing Error Issue - RIN00884283"
 issue_key: FE-1042
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1042: URGENT_CJ MPOS Printing Error Issue - RIN00884283 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-12-08
-> **負責人:** Joy Li
-> **組件:** Printing
 
 ## 問題描述
 

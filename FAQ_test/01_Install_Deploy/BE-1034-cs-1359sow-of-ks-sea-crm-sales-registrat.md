@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1034: [CS-1359]SOW of KS SEA CRM Sales Registration Enhancement"
 issue_key: BE-1034
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1034: [CS-1359]SOW of KS SEA CRM Sales Registration Enhancement
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-05-12
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1128: MPOS missing day end 94 95"
 issue_key: FE-1128
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1128: MPOS missing day end 94 95
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-03-05
-> **負責人:** Joy Li
-> **組件:** Day End
 
 ## 問題描述
 

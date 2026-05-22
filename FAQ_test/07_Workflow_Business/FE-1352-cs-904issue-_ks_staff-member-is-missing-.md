@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1352: CS-904:Issue _KS_staff member is missing from FE DB RIN01293371 RIN01300770"
 issue_key: FE-1352
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1352: CS-904:Issue _KS_staff member is missing from FE DB RIN01293371 RIN01300770
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-05-06
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

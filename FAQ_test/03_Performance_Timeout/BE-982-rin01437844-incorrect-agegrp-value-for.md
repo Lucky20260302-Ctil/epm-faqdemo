@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-982: [RIN01437844] - Incorrect agegrp value for some MY OCE member data"
 issue_key: BE-982
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-982: [RIN01437844] - Incorrect agegrp value for some MY OCE member data
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **負責人:** Cy Lau
-> **組件:** Data Interface
 
 ## 問題描述
 

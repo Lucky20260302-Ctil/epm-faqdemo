@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1263: [INC3572034] COACH AU OCFA221 re-send e-receipt error message pop"
 issue_key: BE-1263
 issue_type: Bug PRD
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1263: [INC3572034] COACH AU OCFA221 re-send e-receipt error message pop
-
-> **類型:** Bug PRD | **狀態:** Test in Progress
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

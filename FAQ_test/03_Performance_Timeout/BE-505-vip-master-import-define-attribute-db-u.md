@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-505: VIP Master import + Define Attribute DB Update"
 issue_key: BE-505
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-505: VIP Master import + Define Attribute DB Update
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2021-07-12
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

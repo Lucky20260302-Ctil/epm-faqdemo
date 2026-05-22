@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-676: Supplier Code used incorrect words limitation"
 issue_key: BE-676
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-676: Supplier Code used incorrect words limitation
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-25
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

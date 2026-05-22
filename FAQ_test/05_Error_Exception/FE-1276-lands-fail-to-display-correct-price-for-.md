@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1276: [Lands] Fail to display correct price for the item that runs more than 1 event at the same time"
 issue_key: FE-1276
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1276: [Lands] Fail to display correct price for the item that runs more than 1 event at the same time
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

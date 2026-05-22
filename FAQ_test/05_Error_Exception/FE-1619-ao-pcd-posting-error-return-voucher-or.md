@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1619: AO PCD posting error - Return Voucher or gift cert. amount not match"
 issue_key: FE-1619
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1619: AO PCD posting error - Return Voucher or gift cert. amount not match
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-03-04
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

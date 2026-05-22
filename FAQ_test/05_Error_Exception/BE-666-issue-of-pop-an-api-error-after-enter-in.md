@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-666: Issue of Pop an API error after enter into some Tabs"
 issue_key: BE-666
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-666: Issue of Pop an API error after enter into some Tabs
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **解決日期:** 2023-02-15
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

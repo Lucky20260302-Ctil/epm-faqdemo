@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1227: Bypass Consolidate Day End if Has missing till Information"
 issue_key: FE-1227
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1227: Bypass Consolidate Day End if Has missing till Information
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

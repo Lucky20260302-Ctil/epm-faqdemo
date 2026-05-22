@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1868: [PPR-116] Issue_ANZ_INC3421547_ANZ stores cash drawer function request"
 issue_key: FE-1868
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1868: [PPR-116] Issue_ANZ_INC3421547_ANZ stores cash drawer function request
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-03-04
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

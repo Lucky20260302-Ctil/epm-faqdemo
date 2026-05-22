@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-572: MPOS-After modify the discount as 50%, then the price will change to 0"
 issue_key: MP-572
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-572: MPOS-After modify the discount as 50%, then the price will change to 0
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-11-18
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

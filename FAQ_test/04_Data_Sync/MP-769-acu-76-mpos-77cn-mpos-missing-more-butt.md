@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-769: [ACU-76] [MPOS-77]CN MPOS missing  'More' button on Member profile page"
 issue_key: MP-769
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-769: [ACU-76] [MPOS-77]CN MPOS missing  'More' button on Member profile page
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

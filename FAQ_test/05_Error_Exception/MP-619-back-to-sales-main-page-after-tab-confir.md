@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-619: Back to sales main page after Tab 'Confirm' in time out error"
 issue_key: MP-619
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-619: Back to sales main page after Tab "Confirm" in time out error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-06-27
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

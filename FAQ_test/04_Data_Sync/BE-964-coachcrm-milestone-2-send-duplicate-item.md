@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-964: [Coach][CRM milestone 2] Send duplicate items to CRM when order issued & voided at the same day"
 issue_key: BE-964
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-964: [Coach][CRM milestone 2] Send duplicate items to CRM when order issued & voided at the same day
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-12-24
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

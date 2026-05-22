@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-746: [MPOS-76]  MPOS 3.29.5 - JP region -Unable to select item after deploy COACH_MPOSWebAPI_R3.29.5d"
 issue_key: MP-746
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-746: [MPOS-76]  MPOS 3.29.5 - JP region -Unable to select item after deploy COACH_MPOSWebAPI_R3.29.5d
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** Frontend
 
 ## 問題描述
 

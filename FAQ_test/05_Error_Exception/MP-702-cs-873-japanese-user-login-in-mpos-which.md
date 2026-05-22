@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-702: [CS-873] Japanese user login in MPOS which caused posting error"
 issue_key: MP-702
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-702: [CS-873] Japanese user login in MPOS which caused posting error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-06-07
-> **負責人:** Joy Li
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1856: [CS-1973] INC3399076,KR V75 pilot store  OC825 CS2000  UI daiplay issue"
 issue_key: FE-1856
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1856: [CS-1973] INC3399076,KR V75 pilot store  OC825 CS2000  UI daiplay issue 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2026-02-26
-> **負責人:** Ken Wang
-> **組件:** Front End
 
 ## 問題描述
 

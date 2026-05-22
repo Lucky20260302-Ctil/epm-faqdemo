@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-195: Support to print receipt in different till's printer(Laser)"
 issue_key: MP-195
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-195: Support to print receipt in different till's printer(Laser)
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-08-17
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

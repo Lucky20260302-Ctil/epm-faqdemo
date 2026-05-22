@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1546: [Coach][CRM milestone 2] Fail to pop up member creation screen after scan a new wechat QR code"
 issue_key: FE-1546
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1546: [Coach][CRM milestone 2] Fail to pop up member creation screen after scan a new wechat QR code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-11-08
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

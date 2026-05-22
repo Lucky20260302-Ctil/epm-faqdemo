@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1765: When a store's Till doesn't complete Dayend, there is no prompt on Till 0 (INC3227274)"
 issue_key: FE-1765
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1765: When a store's Till doesn't complete Dayend, there is no prompt on Till 0 (INC3227274)
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

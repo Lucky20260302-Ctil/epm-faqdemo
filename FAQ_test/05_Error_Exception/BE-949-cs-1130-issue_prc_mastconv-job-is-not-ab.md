@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-949: CS-1130 Issue_PRC_Mastconv job is not able to be completed in 10 hours"
 issue_key: BE-949
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-949: CS-1130 Issue_PRC_Mastconv job is not able to be completed in 10 hours
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-09-11
-> **負責人:** Sherman tse
-> **組件:** Backend (V66)
 
 ## 問題描述
 

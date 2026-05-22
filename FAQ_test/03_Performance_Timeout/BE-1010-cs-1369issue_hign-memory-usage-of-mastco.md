@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1010: [CS-1369]Issue_Hign memory usage of mastconv job"
 issue_key: BE-1010
 issue_type: Bug PRD
 status: Awaiting Sprint Planning or Awaiting to do
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1010: [CS-1369]Issue_Hign memory usage of mastconv job
-
-> **類型:** Bug PRD | **狀態:** Awaiting Sprint Planning or Awaiting to do
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **負責人:** Cy Lau
-> **組件:** Process
 
 ## 問題描述
 

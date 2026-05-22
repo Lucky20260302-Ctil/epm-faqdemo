@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1402: J804 2024-05-31 fixed by change aa to AA in J804-20242729"
 issue_key: FE-1402
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1402: J804 2024-05-31 fixed by change aa to AA in J804-20242729
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-09-23
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

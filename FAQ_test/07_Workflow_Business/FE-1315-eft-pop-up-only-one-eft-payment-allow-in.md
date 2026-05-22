@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1315: [EFT] Pop up 'Only one EFT payment Allow in single transaction' when non-EFT payment method selected first, then select EFT payment"
 issue_key: FE-1315
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1315: [EFT] Pop up "Only one EFT payment Allow in single transaction" when non-EFT payment method selected first, then select EFT payment
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-12-14
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

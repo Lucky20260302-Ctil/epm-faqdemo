@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-904: RTM PIPL Localization"
 issue_key: BE-904
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-904: RTM PIPL Localization 
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-11-15
-> **負責人:** Cy Lau
-> **組件:** Data Interface
 
 ## 問題描述
 

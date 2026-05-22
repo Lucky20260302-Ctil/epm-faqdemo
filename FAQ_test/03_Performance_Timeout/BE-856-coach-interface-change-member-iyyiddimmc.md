@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-856: Coach interface change member iyy,idd,imm[CS-845]"
 issue_key: BE-856
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-856: Coach interface change member iyy,idd,imm[CS-845]
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-10-16
-> **負責人:** Jason Wu
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1027: Deposit Return Tender Selection - Show non allow Tender"
 issue_key: FE-1027
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1027: Deposit Return Tender Selection - Show non allow Tender
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-12-03
-> **組件:** Frontend
 
 ## 問題描述
 

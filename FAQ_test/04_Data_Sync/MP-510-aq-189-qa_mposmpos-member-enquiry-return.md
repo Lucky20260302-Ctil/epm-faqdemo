@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-510: AQ-189 QA_MPOS:MPOS member enquiry return 'Record Not Found'"
 issue_key: MP-510
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-510: AQ-189 QA_MPOS:MPOS member enquiry return 'Record Not Found'
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-12-08
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

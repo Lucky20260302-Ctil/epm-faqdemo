@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1569: [CS-1148] Issue_KR_not able to return items sold from other store RIN01369752 RIN01390154 RIN01388455 CS-1119"
 issue_key: FE-1569
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1569: [CS-1148] Issue_KR_not able to return items sold from other store RIN01369752 RIN01390154 RIN01388455 CS-1119
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-02-12
-> **負責人:** Joseph_Hu
-> **組件:** Front End
 
 ## 問題描述
 

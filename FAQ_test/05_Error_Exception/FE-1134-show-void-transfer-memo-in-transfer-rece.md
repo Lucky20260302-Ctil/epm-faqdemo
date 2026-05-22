@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1134: Show void transfer memo in transfer receive module"
 issue_key: FE-1134
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1134: Show void transfer memo in transfer receive module
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-09-25
-> **負責人:** Sang
-> **組件:** Transfer Receive
 
 ## 問題描述
 

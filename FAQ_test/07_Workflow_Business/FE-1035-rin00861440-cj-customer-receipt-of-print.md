@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1035: [RIN00861440] CJ customer receipt of print out missing Signature Space"
 issue_key: FE-1035
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1035: [RIN00861440] CJ customer receipt of print out missing Signature Space
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-12-02
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1283: [Lands] Config of OCL NRR doesn't auto created"
 issue_key: FE-1283
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1283: [Lands] Config of OCL NRR doesn't auto created
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-03-01
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-733: Gift cannot print due to address field contain the character ' ' '"
 issue_key: FE-733
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-733: Gift cannot print due to address field contain the character " ' "
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2020-11-06
-> **負責人:** Derek_Leung
-> **組件:** Frontend
 
 ## 問題描述
 

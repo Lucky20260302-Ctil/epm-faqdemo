@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-769: SOW of KS SEA CRM CDP Integration (Memberson)"
 issue_key: BE-769
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-769: SOW of KS SEA CRM CDP Integration (Memberson)
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-07-27
-> **負責人:** Hans Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

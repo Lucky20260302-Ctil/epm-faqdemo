@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-995: HKJC RTM WIAM System default value in MF0007 Sales Staff Maintenance"
 issue_key: BE-995
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-995: HKJC RTM WIAM System default value in MF0007 Sales Staff Maintenance
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-02-07
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

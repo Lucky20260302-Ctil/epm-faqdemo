@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-395: Internal-Wrong Price Override Reason in DB and PCD"
 issue_key: MP-395
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-395: Internal-Wrong Price Override Reason in DB and PCD
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-06-03
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

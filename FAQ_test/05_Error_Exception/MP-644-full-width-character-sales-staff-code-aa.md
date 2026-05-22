@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-644: full-width character Sales staff code AA"
 issue_key: MP-644
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-644: full-width character Sales staff code AA
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-07-11
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

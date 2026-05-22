@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1430: [POS][Coach][MY] QR code placed in incorrect place"
 issue_key: FE-1430
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1430: [POS][Coach][MY] QR code placed in incorrect place
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-07-09
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

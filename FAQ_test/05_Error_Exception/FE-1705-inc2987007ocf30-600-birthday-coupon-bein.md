@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1705: [INC2987007]OCF30 600 birthday coupon being used but not affecting"
 issue_key: FE-1705
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1705: [INC2987007]OCF30 600 birthday coupon being used but not affecting
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

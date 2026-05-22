@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-455: E-coupon selection screen issue"
 issue_key: MP-455
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-455: E-coupon selection screen issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-07-20
-> **負責人:** Kelly Ng
-> **組件:** MPOS
 
 ## 問題描述
 

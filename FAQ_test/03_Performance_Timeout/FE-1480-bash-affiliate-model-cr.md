@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1480: ba&sh affiliate model CR"
 issue_key: FE-1480
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1480: ba&sh affiliate model CR
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-23
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

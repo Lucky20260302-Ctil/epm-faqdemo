@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-561: Enable Open Item"
 issue_key: MP-561
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-561: Enable Open Item
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-07-26
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

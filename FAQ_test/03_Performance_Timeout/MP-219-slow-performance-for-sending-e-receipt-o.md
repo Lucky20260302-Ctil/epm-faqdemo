@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-219: Slow performance for sending E-receipt of email"
 issue_key: MP-219
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-219: Slow performance for sending E-receipt of email 
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-07-20
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

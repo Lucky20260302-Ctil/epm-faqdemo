@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1657: IMX gift redeem can not post to BE"
 issue_key: FE-1657
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1657: IMX gift redeem can not post to BE
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-07-28
-> **負責人:** Jason Wu
-> **組件:** BackEnd
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-973: Ticket: 2021103 Incorrect staff code"
 issue_key: FE-973
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-973: Ticket: 2021103 Incorrect staff code
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-08-16
-> **負責人:** Sang
-> **組件:** Sales
 
 ## 問題描述
 

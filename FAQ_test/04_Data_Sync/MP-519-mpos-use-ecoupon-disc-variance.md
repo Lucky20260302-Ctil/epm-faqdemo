@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-519: MPOS Use Ecoupon - Disc Variance"
 issue_key: MP-519
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-519: MPOS Use Ecoupon - Disc Variance
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

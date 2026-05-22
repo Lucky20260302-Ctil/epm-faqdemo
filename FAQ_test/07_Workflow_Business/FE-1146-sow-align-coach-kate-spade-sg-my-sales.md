@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1146: SOW Align Coach  Kate Spade SG  MY Sales Memo Print out"
 issue_key: FE-1146
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1146: SOW Align Coach  Kate Spade SG  MY Sales Memo Print out
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-09-26
-> **負責人:** Joy Li
-> **組件:** Front End v720.02
 
 ## 問題描述
 

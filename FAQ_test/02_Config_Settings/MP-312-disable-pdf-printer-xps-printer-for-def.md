@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer"
 issue_key: MP-312
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.5
-> **解決日期:** 2020-12-10
-> **負責人:** Yan Wong
-> **組件:** MPOS API
 
 ## 問題描述
 

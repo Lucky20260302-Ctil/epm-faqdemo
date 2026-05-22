@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1772: [INC3247094]PRC OC316 POSv75,Sales memo 00004891 invoice QR code can't be printed out"
 issue_key: FE-1772
 issue_type: Bug DEV
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1772: [INC3247094]PRC OC316 POSv75,Sales memo 00004891 invoice QR code can't be printed out
-
-> **類型:** Bug DEV | **狀態:** DEV Done
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **負責人:** pierre.shi
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

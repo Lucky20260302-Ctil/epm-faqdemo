@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1393: [CS-1034] Issue_JP_RIN01339795 A barcode was splited up when printed out."
 issue_key: FE-1393
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1393: [CS-1034] Issue_JP_RIN01339795 A barcode was splited up when printed out.
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-05-24
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

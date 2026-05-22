@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1218: Section of reason code display ALL type in Physical In/Out Information (IC6000)"
 issue_key: FE-1218
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1218: Section of reason code display ALL type in Physical In/Out Information (IC6000)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-03-01
-> **負責人:** Jerry Wong
-> **組件:** Front End
 
 ## 問題描述
 

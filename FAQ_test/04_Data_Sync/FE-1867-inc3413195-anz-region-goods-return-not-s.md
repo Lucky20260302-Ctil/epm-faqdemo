@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1867: [INC3413195] ANZ region Goods Return not show member detail"
 issue_key: FE-1867
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1867: [INC3413195] ANZ region Goods Return not show member detail 
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

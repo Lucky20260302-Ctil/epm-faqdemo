@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-243: Enhance Photo Source Buffer to avoid Memory Overflow"
 issue_key: MP-243
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-243: Enhance Photo Source Buffer to avoid Memory Overflow
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-12-10
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-482: Wrong Expired Date (1900/01/01) of New Member [AQ-19]"
 issue_key: MP-482
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-482: Wrong Expired Date (1900/01/01) of New Member [AQ-19]
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-09-06
-> **負責人:** howard
-> **組件:** MPOS API
 
 ## 問題描述
 

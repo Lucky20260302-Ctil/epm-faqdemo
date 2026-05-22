@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-345: [CS-1005] issue_ Information is not correct in memberson interface"
 issue_key: WEB-345
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-345: [CS-1005] issue_ Information is not correct in memberson interface
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-06-14
-> **負責人:** Joy Li
-> **組件:** BEAPI
 
 ## 問題描述
 

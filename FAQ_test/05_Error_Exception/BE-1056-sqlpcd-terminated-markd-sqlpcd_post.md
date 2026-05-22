@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1056: Sqlpcd terminated markd sqlpcd_post"
 issue_key: BE-1056
 issue_type: Improvement
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1056: Sqlpcd terminated markd sqlpcd_post
-
-> **類型:** Improvement | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

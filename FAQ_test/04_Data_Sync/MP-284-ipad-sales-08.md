@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-284: iPad Sales - 08"
 issue_key: MP-284
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-284: iPad Sales - 08
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-12-10
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

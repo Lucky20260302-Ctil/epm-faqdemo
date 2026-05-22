@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-784: [Lands] Pop up error after created a batch in Stock Transfer Batch Information (TF6000)"
 issue_key: BE-784
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-784: [Lands] Pop up error after created a batch in Stock Transfer Batch Information (TF6000)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-08-14
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

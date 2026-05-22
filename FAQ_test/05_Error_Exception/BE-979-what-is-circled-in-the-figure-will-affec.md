@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-979: What is circled in the figure will affect the resign date when the account is created"
 issue_key: BE-979
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-979: What is circled in the figure will affect the resign date when the account is created
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

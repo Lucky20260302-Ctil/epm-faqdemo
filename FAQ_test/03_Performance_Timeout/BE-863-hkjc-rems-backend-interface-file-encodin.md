@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-863: [HKJC] REMS backend interface file encoding change"
 issue_key: BE-863
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-863: [HKJC] REMS backend interface file encoding change
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-06-27
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

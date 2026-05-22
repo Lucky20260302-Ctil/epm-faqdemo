@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-779: 【MPOS-99】[INC3015022]CN PRD MPOS issue - OC189 unable to complete MPOS transaction"
 issue_key: MP-779
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-779: 【MPOS-99】[INC3015022]CN PRD MPOS issue - OC189 unable to complete MPOS transaction
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

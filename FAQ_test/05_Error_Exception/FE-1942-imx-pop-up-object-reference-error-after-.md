@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1942: [IMX] Pop up 'Object reference' error after click on New log update & complete payment"
 issue_key: FE-1942
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1942: [IMX] Pop up 'Object reference' error after click on New log update & complete payment
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2026-05-05
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

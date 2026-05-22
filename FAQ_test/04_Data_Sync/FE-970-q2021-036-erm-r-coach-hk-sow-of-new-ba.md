@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-970: Q2021-036-ERM-R- Coach HK- SOW of New Back End VIP API Development_v1.2"
 issue_key: FE-970
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-970: Q2021-036-ERM-R- Coach HK- SOW of New Back End VIP API Development_v1.2
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-09-08
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

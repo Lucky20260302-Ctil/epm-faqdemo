@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-542: Mpos return item error 'NoSuchMethodError'"
 issue_key: MP-542
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-542: Mpos return item error "NoSuchMethodError"
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-10-10
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

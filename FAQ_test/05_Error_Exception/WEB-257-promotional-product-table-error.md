@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-257: Promotional Product Table Error"
 issue_key: WEB-257
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-257: Promotional Product Table Error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-12-02
-> **負責人:** Ken Lam
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

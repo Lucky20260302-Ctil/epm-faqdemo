@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1137: [CS-1462]need raise TN ref number from 8 digital to 10 digital"
 issue_key: BE-1137
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1137: [CS-1462]need raise TN ref number from 8 digital to 10 digital
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-06-30
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0), Data Interface
 
 ## 問題描述
 

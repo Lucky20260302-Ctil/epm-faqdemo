@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-989: [RIN00726874] OCF23 User called till0 not able to click on finish when doing bankcard payment"
 issue_key: FE-989
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-989: [RIN00726874] OCF23 User called till0 not able to click on finish when doing bankcard payment
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-06-28
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

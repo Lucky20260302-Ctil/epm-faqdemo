@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member"
 issue_key: MP-747
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** Frontend
 
 ## 問題描述
 

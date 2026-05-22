@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-178: csplus - API Enhance the logic of insert gldata's table into DataTable"
 issue_key: WEB-178
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-178: csplus - API Enhance the logic of insert gldata's table into DataTable
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-11
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

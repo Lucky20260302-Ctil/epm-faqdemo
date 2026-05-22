@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1170: [INC3158440] Missing supplier_code in CS2000 BE after imported ItemMaster interface file to BE with supp_code"
 issue_key: BE-1170
 issue_type: Task
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1170: [INC3158440] Missing supplier_code in CS2000 BE after imported ItemMaster interface file to BE with supp_code
-
-> **類型:** Task | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

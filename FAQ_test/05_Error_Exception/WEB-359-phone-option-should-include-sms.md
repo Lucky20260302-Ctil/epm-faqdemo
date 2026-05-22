@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-359: phone option should include SMS"
 issue_key: WEB-359
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-359: phone option should include SMS
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-09-12
-> **負責人:** Daniel Leung
-> **組件:** eName
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1463: [Lands] POSSUPP fail to auto create Unzipped_temp folder in retdata6"
 issue_key: FE-1463
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1463: [Lands] POSSUPP fail to auto create Unzipped_temp folder in retdata6
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-03
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

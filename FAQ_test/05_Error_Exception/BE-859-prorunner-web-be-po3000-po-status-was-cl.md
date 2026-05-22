@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-859: Prorunner Web BE PO3000 PO status was closed while create"
 issue_key: BE-859
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-859: Prorunner Web BE PO3000 PO status was closed while create
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-10-29
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

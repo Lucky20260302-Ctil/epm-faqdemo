@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1372: Dotnet Transfer module missing show onhand qty function"
 issue_key: FE-1372
 issue_type: Bug QA
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1372: Dotnet Transfer module missing show onhand qty function
-
-> **類型:** Bug QA | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

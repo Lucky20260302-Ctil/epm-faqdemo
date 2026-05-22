@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1603: IMX V71 PC file drop extra line casued posting 'DBNULL'"
 issue_key: FE-1603
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1603: IMX V71 PC file drop extra line casued posting "DBNULL'
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-03-20
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

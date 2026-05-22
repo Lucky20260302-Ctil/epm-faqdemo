@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-755: Sync POS data to RGM database"
 issue_key: BE-755
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-755: Sync POS data to RGM database
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-11-10
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

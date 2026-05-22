@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-727: [MPOS-66] MPOS - Bonus point showing incorrect of MPOS member display page"
 issue_key: MP-727
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-727: [MPOS-66] MPOS - Bonus point showing incorrect of MPOS member display page   
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-03-20
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

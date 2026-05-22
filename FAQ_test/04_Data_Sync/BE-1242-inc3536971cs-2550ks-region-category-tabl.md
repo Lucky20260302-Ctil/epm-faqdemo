@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1242: [INC3536971][CS-2550]KS region Category table(MF0005) can’t edit"
 issue_key: BE-1242
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1242: [INC3536971][CS-2550]KS region Category table(MF0005) can’t edit
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Tovi Wang
-> **組件:** Table
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1580: If the length of the user account is less than 6, the user fails to log in"
 issue_key: FE-1580
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1580: If the length of the user account is less than 6, the user fails to log in
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-12-24
-> **負責人:** Gavin Zhou
-> **組件:** Frontend
 
 ## 問題描述
 

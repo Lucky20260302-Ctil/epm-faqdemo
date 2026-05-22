@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1031: Enhance Change System Date Work Flow"
 issue_key: FE-1031
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1031: Enhance Change System Date Work Flow
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-07-12
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1261: [Discount Var] CAR CN- OCF11 50092629 50092630"
 issue_key: FE-1261
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1261: [Discount Var] CAR CN- OCF11 50092629 50092630 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-23
-> **負責人:** Sang
-> **組件:** DiscountVar
 
 ## 問題描述
 

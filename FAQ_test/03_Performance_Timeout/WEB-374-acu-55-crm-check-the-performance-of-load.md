@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-374: [ACU-55] CRM: Check the performance of 'Loading Member Data'"
 issue_key: WEB-374
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-374: [ACU-55] CRM: Check the performance of "Loading Member Data"
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **負責人:** Cy Lau
-> **組件:** API
 
 ## 問題描述
 

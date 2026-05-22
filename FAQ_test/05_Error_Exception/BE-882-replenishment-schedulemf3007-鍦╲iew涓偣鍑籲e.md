@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-882: Replenishment Schedule(MF3007) : 在view中，点击new，新建内容，保存成功，页面未展示新建内容"
 issue_key: BE-882
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-882: Replenishment Schedule(MF3007) : 在view中，点击new，新建内容，保存成功，页面未展示新建内容
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-09-04
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

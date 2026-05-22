@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1807: V75 Lisenses API setup"
 issue_key: FE-1807
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1807: V75 Lisenses API setup
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2026-04-23
-> **負責人:** Bobby
-> **組件:** Front End
 
 ## 問題描述
 

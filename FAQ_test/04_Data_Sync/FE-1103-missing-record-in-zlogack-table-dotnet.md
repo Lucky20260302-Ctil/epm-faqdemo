@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1103: Missing record in zlogack table - DotNet Zupdate"
 issue_key: FE-1103
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1103: Missing record in zlogack table - DotNet Zupdate 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-07-12
-> **組件:** Frontend
 
 ## 問題描述
 

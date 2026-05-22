@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-974: ACU-86: Timeout issue cause POS data not able to send to CRM (1000 Limit)"
 issue_key: BE-974
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-974: ACU-86: Timeout issue cause POS data not able to send to CRM (1000 Limit)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-12-20
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

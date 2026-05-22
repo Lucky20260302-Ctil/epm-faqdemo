@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1659: INC2874105 Invalid field in CAR sales files during 3/21-3/23 for KR OCF90 pilot store"
 issue_key: FE-1659
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1659: INC2874105 Invalid field in CAR sales files during 3/21-3/23 for KR OCF90 pilot store
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** interface
 
 ## 問題描述
 

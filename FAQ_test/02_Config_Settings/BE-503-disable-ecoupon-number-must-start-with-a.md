@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-503: Disable ecoupon number must start with alphabetic setting"
 issue_key: BE-503
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-503: Disable ecoupon number must start with alphabetic setting
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-06-29
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

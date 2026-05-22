@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1230: MSMQ - Day end issue"
 issue_key: FE-1230
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1230: MSMQ - Day end issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-07-11
-> **負責人:** Terence Tsang
-> **組件:** CS2kconnect, MQPolling
 
 ## 問題描述
 

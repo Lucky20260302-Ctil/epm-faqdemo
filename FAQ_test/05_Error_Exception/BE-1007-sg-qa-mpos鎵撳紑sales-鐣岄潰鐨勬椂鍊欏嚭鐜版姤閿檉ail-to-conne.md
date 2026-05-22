@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1007: SG QA Mpos打开sales 界面的时候出现报错fail to connect saleshub"
 issue_key: BE-1007
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1007: SG QA Mpos打开sales 界面的时候出现报错fail to connect saleshub
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

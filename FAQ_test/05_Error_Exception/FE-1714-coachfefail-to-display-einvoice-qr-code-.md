@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1714: [Coach][FE]Fail to display einvoice qr code on the receipt"
 issue_key: FE-1714
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1714: [Coach][FE]Fail to display einvoice qr code on the receipt
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

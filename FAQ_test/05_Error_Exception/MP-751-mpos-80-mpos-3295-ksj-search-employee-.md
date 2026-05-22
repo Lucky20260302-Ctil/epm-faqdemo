@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-751: [MPOS-80] MPOS 3.29.5 - KSJ search Employee vip failed"
 issue_key: MP-751
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-751: [MPOS-80] MPOS 3.29.5 - KSJ search Employee vip failed
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

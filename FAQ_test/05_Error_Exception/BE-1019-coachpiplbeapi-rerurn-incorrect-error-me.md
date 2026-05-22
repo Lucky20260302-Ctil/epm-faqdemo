@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1019: [Coach][PIPL][BEAPI] Rerurn incorrect error message to POS when insert incorrect email/ member id/ mobile no"
 issue_key: BE-1019
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1019: [Coach][PIPL][BEAPI] Rerurn incorrect error message to POS when insert incorrect email/ member id/ mobile no
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-03-03
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1213: [CS-1545] SOW of Item Master Data Import Customization"
 issue_key: BE-1213
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1213: [CS-1545] SOW of Item Master Data Import Customization
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2026-01-08
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

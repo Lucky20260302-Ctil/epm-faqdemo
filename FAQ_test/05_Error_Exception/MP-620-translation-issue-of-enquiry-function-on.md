@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-620: Translation issue of Enquiry function on mpos"
 issue_key: MP-620
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-620: Translation issue of Enquiry function on mpos
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-06-27
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

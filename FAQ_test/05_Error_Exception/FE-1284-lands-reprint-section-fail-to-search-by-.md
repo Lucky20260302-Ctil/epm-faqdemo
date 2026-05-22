@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1284: [Lands] Reprint section: fail to search by Order no."
 issue_key: FE-1284
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1284: [Lands] Reprint section: fail to search by Order no.
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-03-01
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-219: [MMPortal] Mail Approval Log Path"
 issue_key: WEB-219
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-219: [MMPortal] Mail Approval Log Path
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-04-14
-> **負責人:** Joy Li
-> **組件:** Epromo
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1753: Upgrade JC BJ v720.01R05 to v75 - Window 11"
 issue_key: FE-1753
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1753: Upgrade JC BJ v720.01R05 to v75 - Window 11
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

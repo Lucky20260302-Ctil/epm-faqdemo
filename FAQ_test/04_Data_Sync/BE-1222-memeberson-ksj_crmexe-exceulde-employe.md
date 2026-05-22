@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1222: Memeberson KSJ_CRM.exe - Exceulde Employee Sales"
 issue_key: BE-1222
 issue_type: Task
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1222: Memeberson KSJ_CRM.exe - Exceulde Employee Sales 
-
-> **類型:** Task | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Cy Lau
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1600: [CS-1309] Issue-MY-INC2772129- CAR Error - MY-A130-Unknown Sales item type code 9999 12/20"
 issue_key: FE-1600
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1600: [CS-1309] Issue-MY-INC2772129- CAR Error - MY-A130-Unknown Sales item type code 9999 12/20
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-12
-> **負責人:** Andrew_Au
-> **組件:** interface
 
 ## 問題描述
 

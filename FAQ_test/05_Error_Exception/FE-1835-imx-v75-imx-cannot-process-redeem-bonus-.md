@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1835: [IMX] v75 IMX cannot process redeem bonus points"
 issue_key: FE-1835
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1835: [IMX] v75 IMX cannot process redeem bonus points
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-03-06
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

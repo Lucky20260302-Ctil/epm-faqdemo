@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1157: Mask staff vip no"
 issue_key: FE-1157
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1157: Mask staff vip no
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

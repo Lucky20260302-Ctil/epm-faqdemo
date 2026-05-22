@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-428: CJ#124 - add barcode scan for sales associate"
 issue_key: MP-428
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-428: CJ#124 - add barcode scan for sales associate
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-05-17
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

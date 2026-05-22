@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1791: [CS-1733] CS2K Unable to start up after upgrade to v75.004.1402.0000"
 issue_key: FE-1791
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1791: [CS-1733] CS2K Unable to start up after upgrade to v75.004.1402.0000
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

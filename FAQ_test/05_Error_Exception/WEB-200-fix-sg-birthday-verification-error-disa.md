@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-200: Fix SG Birthday Verification error + disable CJ Loyalty"
 issue_key: WEB-200
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-200: Fix SG Birthday Verification error + disable CJ Loyalty
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.5
-> **解決日期:** 2021-07-12
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-926: [Coach][CRM milestone 2] Webview of Purchase history pop up network error"
 issue_key: BE-926
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-926: [Coach][CRM milestone 2] Webview of Purchase history pop up network error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 8.5
-> **解決日期:** 2024-11-01
-> **負責人:** Daniel Leung
-> **組件:** Backend (Web)
 
 ## 問題描述
 

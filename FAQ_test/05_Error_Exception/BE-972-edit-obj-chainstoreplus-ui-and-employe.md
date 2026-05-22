@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-972: edit obj -> chainstoreplus UI and Employee ID length"
 issue_key: BE-972
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-972: edit obj -> chainstoreplus UI and Employee ID length
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **負責人:** Gavin Zhou
-> **組件:** Backend (V64)
 
 ## 問題描述
 

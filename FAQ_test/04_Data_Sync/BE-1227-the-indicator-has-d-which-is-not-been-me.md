@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1227: The indicator has ‘D' which is not been mentioned in SOW"
 issue_key: BE-1227
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1227: The indicator has ‘D' which is not been mentioned in SOW
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

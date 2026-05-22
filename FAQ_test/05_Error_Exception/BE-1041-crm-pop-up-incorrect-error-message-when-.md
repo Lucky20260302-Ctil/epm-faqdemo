@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1041: [CRM] pop up incorrect error message when click Member profile"
 issue_key: BE-1041
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1041: [CRM] pop up incorrect error message when click Member profile 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-04-02
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1038: Coach JP Input Day End/Cash Varianace - Add Validate Maximum length in confirmation process"
 issue_key: FE-1038
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1038: Coach JP Input Day End/Cash Varianace - Add Validate Maximum length in confirmation process
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-12-02
-> **負責人:** Joy Li
-> **組件:** Day End, Frontend
 
 ## 問題描述
 

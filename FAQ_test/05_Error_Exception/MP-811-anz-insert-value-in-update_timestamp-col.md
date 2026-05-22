@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-811: [ANZ] Insert value in Update_TimeStamp column for [dbTrans].[dbo].[NEW VIP]"
 issue_key: MP-811
 issue_type: Bug QA
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-811: [ANZ] Insert value in Update_TimeStamp column for [dbTrans].[dbo].[NEW VIP]
-
-> **類型:** Bug QA | **狀態:** Test in Progress
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

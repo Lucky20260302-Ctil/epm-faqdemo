@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1778: [INC3270891]dayend report was separated into two papers by laser printer"
 issue_key: FE-1778
 issue_type: Bug DEV
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1778: [INC3270891]dayend report was separated into two papers by laser printer
-
-> **類型:** Bug DEV | **狀態:** Selected for Development (migrated)
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** pierre.shi
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

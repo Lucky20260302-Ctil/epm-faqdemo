@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1257: [Lands] Fail to print out Quatation"
 issue_key: FE-1257
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1257: [Lands] Fail to print out Quatation 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2023-08-01
-> **負責人:** Sang
-> **組件:** front end v760.02
 
 ## 問題描述
 

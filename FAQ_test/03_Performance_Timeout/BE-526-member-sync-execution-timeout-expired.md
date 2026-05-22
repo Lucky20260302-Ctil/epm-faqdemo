@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-526: Member Sync -Execution Timeout Expired"
 issue_key: BE-526
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-526: Member Sync -Execution Timeout Expired
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-10-25
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

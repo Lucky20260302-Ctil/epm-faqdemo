@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-498: UI enhancement for deposit return and deposit void when the staff comfirm the message"
 issue_key: MP-498
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-498: UI enhancement for deposit return and deposit void when the staff comfirm the message
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-11-06
-> **負責人:** Kelly Ng
-> **組件:** MPOS
 
 ## 問題描述
 

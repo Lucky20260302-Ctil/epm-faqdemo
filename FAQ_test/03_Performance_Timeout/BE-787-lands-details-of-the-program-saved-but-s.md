@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-787: [Lands] Details of the program saved but still pop up Discard Changes after click Back button"
 issue_key: BE-787
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-787: [Lands] Details of the program saved but still pop up Discard Changes after click Back button
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-08-31
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

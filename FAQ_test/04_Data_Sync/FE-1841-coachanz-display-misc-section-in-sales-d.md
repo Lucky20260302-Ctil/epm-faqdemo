@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1841: [Coach][ANZ] Display MISC section in sales detail page & disable gain option"
 issue_key: FE-1841
 issue_type: Bug QA
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1841: [Coach][ANZ] Display MISC section in sales detail page & disable gain option
-
-> **類型:** Bug QA | **狀態:** Release
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

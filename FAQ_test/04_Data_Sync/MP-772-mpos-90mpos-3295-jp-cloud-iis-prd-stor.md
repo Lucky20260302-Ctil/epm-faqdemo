@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-772: [MPOS-90]MPOS 3.29.5 - JP Cloud IIS PRD store printing issue"
 issue_key: MP-772
 issue_type: Bug PRD
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-772: [MPOS-90]MPOS 3.29.5 - JP Cloud IIS PRD store printing issue
-
-> **類型:** Bug PRD | **狀態:** Test in Progress
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Sherman tse
-> **組件:** MPOSPrint.exe
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-788: [Lands] Exported GFMIS report displayed unnecessary store records"
 issue_key: BE-788
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-788: [Lands] Exported GFMIS report displayed unnecessary store records
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-09-01
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

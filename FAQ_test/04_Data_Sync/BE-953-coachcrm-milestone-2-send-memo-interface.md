@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-953: [Coach][CRM milestone 2] Send memo interface SQL enhance"
 issue_key: BE-953
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-953: [Coach][CRM milestone 2] Send memo interface SQL enhance
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-11-22
-> **負責人:** Sherman tse
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

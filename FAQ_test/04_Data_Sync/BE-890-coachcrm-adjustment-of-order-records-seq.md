@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-890: [Coach][CRM] Adjustment of order records sequence"
 issue_key: BE-890
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-890: [Coach][CRM] Adjustment of order records sequence
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-02-21
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

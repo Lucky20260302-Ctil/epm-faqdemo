@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1857: [CS-2023][INC3401351] When user perform an exchange for different colors, showing your transaction has not been saved."
 issue_key: FE-1857
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1857: [CS-2023][INC3401351] When user perform an exchange for different colors, showing your transaction has not been saved.
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-03-05
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

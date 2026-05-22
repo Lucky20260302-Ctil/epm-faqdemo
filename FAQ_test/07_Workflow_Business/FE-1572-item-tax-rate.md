@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1572: Item Tax Rate"
 issue_key: FE-1572
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1572: Item Tax Rate
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-07
-> **負責人:** Devon Liu
-> **組件:** Front End
 
 ## 問題描述
 

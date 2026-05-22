@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1370: [CS-933] Issue_PRC_not able to use member A's deposit and member B's CDP coupon in same ticket"
 issue_key: FE-1370
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1370: [CS-933] Issue_PRC_not able to use member A's deposit and member B's CDP coupon in same ticket
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-09-23
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

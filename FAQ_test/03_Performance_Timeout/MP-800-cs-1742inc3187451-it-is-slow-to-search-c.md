@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-800: [CS-1742][INC3187451] It is slow to search customer on MPOS"
 issue_key: MP-800
 issue_type: Task
 status: Awaiting Sprint Planning or Awaiting to do
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-800: [CS-1742][INC3187451] It is slow to search customer on MPOS
-
-> **類型:** Task | **狀態:** Awaiting Sprint Planning or Awaiting to do
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

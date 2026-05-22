@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1951: IMX missing VIP name in the sales memo"
 issue_key: FE-1951
 issue_type: Task
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1951: IMX missing VIP name in the sales memo
-
-> **類型:** Task | **狀態:** DEV Done
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

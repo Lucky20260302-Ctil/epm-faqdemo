@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1107: A920 - Octopus & PayMe"
 issue_key: FE-1107
 issue_type: SOW
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1107: A920 - Octopus & PayMe
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.0
-> **解決日期:** 2022-06-01
-> **組件:** Front End
 
 ## 問題描述
 

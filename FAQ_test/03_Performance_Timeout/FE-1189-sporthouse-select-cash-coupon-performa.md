@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1189: Sporthouse - Select Cash Coupon Performance Improvement"
 issue_key: FE-1189
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1189: Sporthouse - Select Cash Coupon Performance Improvement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-12-09
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1290: SG MY MPOS e-Receipt Enhancement"
 issue_key: FE-1290
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1290: SG MY MPOS e-Receipt Enhancement
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-09-14
-> **負責人:** Joy Li
-> **組件:** Printing
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1242: [Lands] Receipt from quotation missing info of Collect Office & Series Code"
 issue_key: FE-1242
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1242: [Lands] Receipt from quotation missing info of Collect Office & Series Code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** front end v760.01R01A
 
 ## 問題描述
 

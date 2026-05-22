@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1204: [CS-1544]Addition Fields #63,#64 for CAR"
 issue_key: BE-1204
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1204: [CS-1544]Addition Fields #63,#64 for CAR
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2026-02-26
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

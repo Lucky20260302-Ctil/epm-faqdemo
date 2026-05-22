@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1213: Using 'X' tp close zero levy Qty will get extre bag item"
 issue_key: FE-1213
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1213: Using 'X' tp close zero levy Qty will get extre bag item
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-02-09
-> **組件:** Front End
 
 ## 問題描述
 

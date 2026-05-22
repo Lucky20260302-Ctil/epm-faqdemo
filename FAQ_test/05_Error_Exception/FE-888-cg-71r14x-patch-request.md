@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-888: CG 71R14X patch request"
 issue_key: FE-888
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-888: CG 71R14X patch request
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **負責人:** Desmond Mak
-> **組件:** Deposit
 
 ## 問題描述
 

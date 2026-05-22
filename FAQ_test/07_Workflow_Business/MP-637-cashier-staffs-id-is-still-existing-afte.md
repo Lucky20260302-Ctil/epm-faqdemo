@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-637: Cashier staff's ID is still existing after transaction completed"
 issue_key: MP-637
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-637: Cashier staff's ID is still existing after transaction completed 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-11-16
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

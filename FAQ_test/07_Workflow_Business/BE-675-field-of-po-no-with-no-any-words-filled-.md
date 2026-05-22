@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-675: Field of P.O. No. with no any words filled in should be rounded by red color after click save"
 issue_key: BE-675
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-675: Field of P.O. No. with no any words filled in should be rounded by red color after click save
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-04-27
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

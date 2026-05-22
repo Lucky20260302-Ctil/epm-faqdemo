@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-916: MPOS #117 :Sales by mobile POS is not reflected on Sales by Casher screen."
 issue_key: FE-916
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-916: MPOS #117 :Sales by mobile POS is not reflected on Sales by Casher screen.
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-02-19
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

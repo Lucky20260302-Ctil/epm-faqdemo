@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1329: [Lands] Not allow save orders from 3 rd party into Quene busket"
 issue_key: FE-1329
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1329: [Lands] Not allow save orders from 3 rd party into Quene busket
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-02-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-996: [SQ0220-335] update frontend user in RTM backend, min length should be mandatory field"
 issue_key: BE-996
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-996: [SQ0220-335] update frontend user in RTM backend, min length should be mandatory field
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-891: [Lands] Back End Application fail to run auto send log function"
 issue_key: BE-891
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-891: [Lands] Back End Application fail to run auto send log function
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-08-13
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

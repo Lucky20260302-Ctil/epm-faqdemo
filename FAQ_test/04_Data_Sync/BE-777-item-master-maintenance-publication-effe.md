@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-777: Item Master Maintenance Publication 'Effective At' can't be displayed."
 issue_key: BE-777
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-777: Item Master Maintenance Publication "Effective At" can't be displayed.
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-08-14
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

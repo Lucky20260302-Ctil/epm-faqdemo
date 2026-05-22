@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1001: CS-1333 OSS Enhancement for Polling"
 issue_key: BE-1001
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1001: CS-1333 OSS Enhancement for Polling
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-05-02
-> **負責人:** Joseph_Hu
-> **組件:** polling
 
 ## 問題描述
 

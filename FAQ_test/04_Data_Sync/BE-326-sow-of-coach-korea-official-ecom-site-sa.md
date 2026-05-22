@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-326: SOW of Coach Korea Official eCom site Sales Interface_v1.0"
 issue_key: BE-326
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-326: SOW of Coach Korea Official eCom site Sales Interface_v1.0
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-02-08
-> **負責人:** Johnny Cheung
-> **組件:** Backend (ChainStorePlus 7.0), Backend (V66)
 
 ## 問題描述
 

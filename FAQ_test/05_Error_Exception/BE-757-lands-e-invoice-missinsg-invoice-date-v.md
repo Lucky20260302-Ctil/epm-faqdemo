@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-757: Lands e-invoice  missinsg invoice date variable"
 issue_key: BE-757
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-757: Lands e-invoice  missinsg invoice date variable
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-06-20
-> **負責人:** Jason Wu
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

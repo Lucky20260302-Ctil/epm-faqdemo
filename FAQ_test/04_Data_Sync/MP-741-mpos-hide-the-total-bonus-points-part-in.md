@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-741: [MPOS] Hide the 'Total bonus points' part in the member detail page"
 issue_key: MP-741
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-741: [MPOS] Hide the 'Total bonus points' part in the member detail page
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-01-08
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

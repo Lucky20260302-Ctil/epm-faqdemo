@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-352: POS Payment Key Button Control：Currency code input ’PAY‘，F1 input ’PAY‘  click  save，提示invalid Payment Code"
 issue_key: WEB-352
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-352: POS Payment Key Button Control：Currency code input ’PAY‘，F1 input ’PAY‘  click  save，提示invalid Payment Code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-08-30
-> **負責人:** ryan
-> **組件:** WEB Enquiry
 
 ## 問題描述
 

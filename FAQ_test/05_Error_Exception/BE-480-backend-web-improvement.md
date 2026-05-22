@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-480: Backend web improvement"
 issue_key: BE-480
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-480: Backend web improvement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-04-27
-> **負責人:** howard
-> **組件:** Backend (Web)
 
 ## 問題描述
 

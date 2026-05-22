@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1602: Front end POS replace F6 Open Item button by Retrieve Order function"
 issue_key: FE-1602
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1602: Front end POS replace F6 Open Item button by Retrieve Order function
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-02-12
-> **負責人:** Joseph_Hu
-> **組件:** Front End v720.02
 
 ## 問題描述
 

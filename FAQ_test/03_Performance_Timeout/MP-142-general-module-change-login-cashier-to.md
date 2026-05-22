@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-142: General Module - Change login cashier to sales staff"
 issue_key: MP-142
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-142: General Module - Change login cashier to sales staff
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-05-07
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

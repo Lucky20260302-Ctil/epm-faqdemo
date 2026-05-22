@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-896: AO can't show the upgrade message"
 issue_key: FE-896
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-896: AO can't show the upgrade message 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-04-26
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

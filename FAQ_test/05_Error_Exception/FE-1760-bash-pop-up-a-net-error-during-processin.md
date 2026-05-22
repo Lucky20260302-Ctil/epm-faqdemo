@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1760: [BASH] Pop up a .net error during processing dayend action"
 issue_key: FE-1760
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1760: [BASH] Pop up a .net error during processing dayend action
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-11-03
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

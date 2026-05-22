@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-908: [CRM ACXIOM ] void status update + reconsolation Null"
 issue_key: BE-908
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-908: [CRM ACXIOM ] void status update + reconsolation Null
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-09-23
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1553: [Coach][CRM milestone 2] POS display 2 same result after scan dyncmic QR code with member No."
 issue_key: FE-1553
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1553: [Coach][CRM milestone 2] POS display 2 same result after scan dyncmic QR code with member No.
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

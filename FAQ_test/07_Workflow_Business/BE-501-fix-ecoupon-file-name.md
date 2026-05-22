@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-501: Fix eCoupon file Name"
 issue_key: BE-501
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-501: Fix eCoupon file Name
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-06-22
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

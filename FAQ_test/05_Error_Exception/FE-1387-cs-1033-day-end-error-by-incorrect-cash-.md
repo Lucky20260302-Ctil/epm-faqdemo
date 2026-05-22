@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1387: [CS-1033] day end error by incorrect cash flow record"
 issue_key: FE-1387
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1387: [CS-1033] day end error by incorrect cash flow record
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-05-24
-> **負責人:** Joy Li
-> **組件:** Day End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-888: [Coach][CRM] Incorrect format of daily purchase record file"
 issue_key: BE-888
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-888: [Coach][CRM] Incorrect format of daily purchase record file
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-08-06
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

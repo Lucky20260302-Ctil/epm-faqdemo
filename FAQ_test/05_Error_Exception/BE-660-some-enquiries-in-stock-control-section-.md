@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-660: Some enquiries in Stock control section pop an API error after Click search"
 issue_key: BE-660
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-660: Some enquiries in Stock control section pop an API error after Click search
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-03-01
-> **負責人:** Ken Lam
-> **組件:** Inquiry
 
 ## 問題描述
 

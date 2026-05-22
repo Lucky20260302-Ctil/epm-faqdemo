@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1100: Missing record in zlogack table"
 issue_key: FE-1100
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1100: Missing record in zlogack table
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

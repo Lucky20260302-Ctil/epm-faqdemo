@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1891: CS-2086:Coach_CN| Account is Not temporary Prohibited while Login With Locked Account As Cashier & In Admin"
 issue_key: FE-1891
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1891: CS-2086:Coach_CN| Account is Not temporary Prohibited while Login With Locked Account As Cashier & In Admin
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-734: [MPOS-67] MPOS - Unable to issue sales memo If login account is different compare to 'Sales staff' & 'Cashier' we selected"
 issue_key: MP-734
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-734: [MPOS-67] MPOS - Unable to issue sales memo If login account is different compare to 'Sales staff' & 'Cashier' we selected
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-02-24
-> **負責人:** Daniel Leung
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

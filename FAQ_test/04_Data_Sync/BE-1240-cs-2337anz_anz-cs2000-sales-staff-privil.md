@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1240: [CS-2337]ANZ_ANZ CS2000 Sales staff privilege"
 issue_key: BE-1240
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1240: [CS-2337]ANZ_ANZ CS2000 Sales staff privilege
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

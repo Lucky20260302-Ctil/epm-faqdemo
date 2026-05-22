@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1805: [ANZ][Tax Exempt] Missing row of 'Exclusive Tax Amount' on the TMU print out"
 issue_key: FE-1805
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1805: [ANZ][Tax Exempt] Missing row of "Exclusive Tax Amount" on the TMU print out
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-02-11
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

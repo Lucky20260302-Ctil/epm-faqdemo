@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-821: [Lands] Add external ref. & unique part of Attachment on receipt"
 issue_key: BE-821
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-821: [Lands] Add external ref. & unique part of Attachment on receipt
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

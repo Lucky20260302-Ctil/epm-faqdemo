@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-369: MM Coupon Cannot display in -ve in Reprint UI"
 issue_key: MP-369
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-369: MM Coupon Cannot display in -ve in Reprint UI
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-08-18
-> **負責人:** Sam Chan
-> **組件:** MPOS
 
 ## 問題描述
 

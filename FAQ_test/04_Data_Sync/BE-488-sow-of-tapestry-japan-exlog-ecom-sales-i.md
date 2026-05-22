@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-488: SOW of Tapestry Japan EXLOG eCom Sales Interface Special Handling for Sales"
 issue_key: BE-488
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-488: SOW of Tapestry Japan EXLOG eCom Sales Interface Special Handling for Sales
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-05-26
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

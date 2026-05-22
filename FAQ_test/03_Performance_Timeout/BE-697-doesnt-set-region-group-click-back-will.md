@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-697: Doesn't set Region group & Click Back will get stuck in MX3003"
 issue_key: BE-697
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-697: Doesn't set Region group & Click Back will get stuck in MX3003
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-03-03
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

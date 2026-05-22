@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1476: HKJC REMS CWL MVP1 Bug fixes"
 issue_key: FE-1476
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1476: HKJC REMS CWL MVP1 Bug fixes
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-04
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

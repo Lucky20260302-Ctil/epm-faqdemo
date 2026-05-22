@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-889: [Coach]Posting function would be stopped suddenly"
 issue_key: BE-889
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-889: [Coach]Posting function would be stopped suddenly
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-08-05
-> **負責人:** Andrew_Au
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

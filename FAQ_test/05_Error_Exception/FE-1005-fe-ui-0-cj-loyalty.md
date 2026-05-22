@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1005: FE UI - 0% (CJ Loyalty)"
 issue_key: FE-1005
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1005: FE UI - 0% (CJ Loyalty)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-08-27
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

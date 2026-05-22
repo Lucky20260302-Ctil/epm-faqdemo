@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-878: Location Grouping Control ：存在重复数据时，点击Validate按钮，两个提示语直接死循环"
 issue_key: BE-878
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-878: Location Grouping Control ：存在重复数据时，点击Validate按钮，两个提示语直接死循环
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-08-22
-> **負責人:** Jerry Wong
-> **組件:** Backend (Web)
 
 ## 問題描述
 

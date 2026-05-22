@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-736: Item Master Maintenance MF0001 Define Publication changes"
 issue_key: BE-736
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-736: Item Master Maintenance MF0001 Define Publication changes
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-07-26
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

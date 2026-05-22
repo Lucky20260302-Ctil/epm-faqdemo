@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-599: incorrect price missing price information"
 issue_key: MP-599
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-599: incorrect price missing price information
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-03-06
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

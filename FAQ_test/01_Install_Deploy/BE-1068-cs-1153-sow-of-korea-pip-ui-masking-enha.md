@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1068: [CS-1153] SOW of Korea PIP UI Masking Enhancements"
 issue_key: BE-1068
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1068: [CS-1153] SOW of Korea PIP UI Masking Enhancements
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-10-15
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

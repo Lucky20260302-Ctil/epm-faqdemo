@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-970: [Coach][CRM milestone 2] Fail to change type 'P' from acxiom to type 'C' in pos searching flow"
 issue_key: BE-970
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-970: [Coach][CRM milestone 2] Fail to change type "P" from acxiom to type 'C' in pos searching flow
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **解決日期:** 2024-12-24
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

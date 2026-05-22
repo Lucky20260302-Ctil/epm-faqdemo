@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-929: [Coach][CRM] Send out incorrect number of items to CRM side by CRMSanyoPhaseInterface"
 issue_key: BE-929
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-929: [Coach][CRM] Send out incorrect number of items to CRM side by CRMSanyoPhaseInterface
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-04
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

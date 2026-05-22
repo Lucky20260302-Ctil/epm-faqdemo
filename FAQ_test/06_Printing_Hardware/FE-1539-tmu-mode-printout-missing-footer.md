@@ -1,5 +1,6 @@
 ---
 project: ERM FEPOS
+title: "FE-1539: Coach MY BDO - TMU mode printout missing footer"
 issue_key: FE-1539
 issue_type: Bug QA
 status: Closed

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1767: [BASH] Footer of sales memo in Laser mode used with FOOTSALES.TXT"
 issue_key: FE-1767
 issue_type: Bug QA
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1767: [BASH] Footer of sales memo in Laser mode used with FOOTSALES.TXT
-
-> **類型:** Bug QA | **狀態:** DEV Done
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1873: [SPH] Dayend Reprint - Several reports have been merged and displayed incompletely"
 issue_key: FE-1873
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1873: [SPH] Dayend Reprint - Several reports have been merged and displayed incompletely
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-02-11
-> **負責人:** Joseph_Hu
-> **組件:** Day End
 
 ## 問題描述
 

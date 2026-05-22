@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1409: [CS-1059] V75 - CS2K CMB Payment void failed"
 issue_key: FE-1409
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1409: [CS-1059] V75 - CS2K CMB Payment void failed
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-08-02
-> **負責人:** Sherman tse
-> **組件:** Payment
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-567: SOW CJ eliminate CRM Receipt Copy"
 issue_key: MP-567
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-567: SOW CJ eliminate CRM Receipt Copy 
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-10-10
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

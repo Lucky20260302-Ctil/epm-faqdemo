@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-703: Sales Staff Code Maintenance API Error"
 issue_key: BE-703
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-703: Sales Staff Code Maintenance API Error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-01-05
-> **負責人:** Ken Lam
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

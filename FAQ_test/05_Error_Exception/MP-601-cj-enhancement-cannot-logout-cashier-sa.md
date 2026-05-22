@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-601: [CJ enhancement] cannot logout cashier & sale staff"
 issue_key: MP-601
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-601: [CJ enhancement] cannot logout cashier & sale staff 
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-05-15
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

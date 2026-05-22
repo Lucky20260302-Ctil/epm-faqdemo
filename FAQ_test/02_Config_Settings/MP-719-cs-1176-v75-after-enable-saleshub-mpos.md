@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-719: [CS-1176] v75 - After enable SalesHub, MPOS no pop-up window 'Do you want to select E-Coupon' in payment page"
 issue_key: MP-719
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-719: [CS-1176] v75 - After enable SalesHub, MPOS no pop-up window 'Do you want to select E-Coupon' in payment page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-06
-> **負責人:** Jason Wu
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-315: Member Sync in CN-HK-MO (V7)"
 issue_key: BE-315
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-315: Member Sync in CN-HK-MO (V7)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-10-08
-> **負責人:** Judy Cheng
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

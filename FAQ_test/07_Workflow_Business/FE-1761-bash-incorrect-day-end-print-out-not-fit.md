@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1761: [BASH] Incorrect Day End print out not fit in the A4 size paper"
 issue_key: FE-1761
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1761: [BASH] Incorrect Day End print out not fit in the A4 size paper
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-11-03
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

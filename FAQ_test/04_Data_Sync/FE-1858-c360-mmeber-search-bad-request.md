@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1858: C360 Mmeber search Bad request"
 issue_key: FE-1858
 issue_type: Bug PRD
 status: Open
@@ -15,10 +16,6 @@ has_images: True
 ---
 
 # FE-1858: C360 Mmeber search Bad request
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **組件:** Front End
 
 ## 問題描述
 

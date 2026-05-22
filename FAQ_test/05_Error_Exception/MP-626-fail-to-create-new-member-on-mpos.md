@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-626: Fail to create new member on Mpos"
 issue_key: MP-626
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-626: Fail to create new member on Mpos
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-02-21
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

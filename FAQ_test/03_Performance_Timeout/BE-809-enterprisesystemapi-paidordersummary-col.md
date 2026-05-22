@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-809: EnterpriseSystemAPI PaidOrderSummary CollectionCounter changes"
 issue_key: BE-809
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-809: EnterpriseSystemAPI PaidOrderSummary CollectionCounter changes
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-11-13
-> **負責人:** Sherman tse
-> **組件:** Backend (Web), Data Interface
 
 ## 問題描述
 

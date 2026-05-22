@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-648: MPOS-23: JP MPOS Unable to use e-coupon - v3.21.1(Clous IIS & Local IIS both)"
 issue_key: MP-648
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-648: MPOS-23: JP MPOS Unable to use e-coupon - v3.21.1(Clous IIS & Local IIS both)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-11-16
-> **負責人:** Yan Wong
-> **組件:** MPOS API
 
 ## 問題描述
 

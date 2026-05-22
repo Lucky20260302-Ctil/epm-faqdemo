@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1411: [Internal Bug] Sales (password expired) do not pop up change password while day start"
 issue_key: FE-1411
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1411: [Internal Bug] Sales (password expired) do not pop up change password while day start
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-08-02
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

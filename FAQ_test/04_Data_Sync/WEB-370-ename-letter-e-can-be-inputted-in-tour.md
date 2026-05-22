@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-370: ename - letter e can be inputted in tourist mobile phone registration"
 issue_key: WEB-370
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-370: ename - letter e can be inputted in tourist mobile phone registration
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-11-19
-> **負責人:** Daniel Leung
-> **組件:** eName
 
 ## 問題描述
 

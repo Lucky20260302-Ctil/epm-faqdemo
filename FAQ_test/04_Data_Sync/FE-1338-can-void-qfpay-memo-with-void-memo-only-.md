@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1338: Can void QFPAY memo with 'Void Memo Only' by pressing F2"
 issue_key: FE-1338
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1338: Can void QFPAY memo with 'Void Memo Only" by pressing F2
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-05-17
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

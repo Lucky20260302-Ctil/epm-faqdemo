@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-301: MPOS allows void sales memo only for online payment"
 issue_key: MP-301
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-301: MPOS allows void sales memo only for online payment
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-07
-> **負責人:** kingsley_ng
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

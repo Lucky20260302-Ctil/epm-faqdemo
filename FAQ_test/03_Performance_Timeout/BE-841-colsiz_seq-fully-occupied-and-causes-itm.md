@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-841: Colsiz_seq fully occupied and causes ITMEAN interface hang up"
 issue_key: BE-841
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-841: Colsiz_seq fully occupied and causes ITMEAN interface hang up
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-24
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

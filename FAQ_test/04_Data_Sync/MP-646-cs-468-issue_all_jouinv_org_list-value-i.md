@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-646: CS-468: Issue_All_jouinv_org_list value is missing on 72.0219 RIN01159177"
 issue_key: MP-646
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-646: CS-468: Issue_All_jouinv_org_list value is missing on 72.0219 RIN01159177
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-07-12
-> **負責人:** Cy Lau
-> **組件:** MPOS API
 
 ## 問題描述
 

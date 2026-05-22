@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1740: [CS-1511] Day end issue_ CJ V7.5 pilot at J317/J328"
 issue_key: FE-1740
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1740: [CS-1511] Day end issue_ CJ V7.5 pilot at J317/J328
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-08-01
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

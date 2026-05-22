@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-337: [POS_API] C360 API getCustomerDetail call source Change"
 issue_key: WEB-337
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-337: [POS_API] C360 API getCustomerDetail call source Change
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-09-14
-> **負責人:** Joy Li
-> **組件:** POS_API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1954: [CS-2843]Issue_ANZ_INC3571951_Unable to send an e-receipt in CS2000"
 issue_key: FE-1954
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1954: [CS-2843]Issue_ANZ_INC3571951_Unable to send an e-receipt in CS2000
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **負責人:** Joy Li
-> **組件:** einvoice
 
 ## 問題描述
 

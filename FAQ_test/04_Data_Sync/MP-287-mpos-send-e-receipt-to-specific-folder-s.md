@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-287: MPOS send e-receipt to specific folder/ S3 via API"
 issue_key: MP-287
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-287: MPOS send e-receipt to specific folder/ S3 via API
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-07-20
-> **負責人:** kingsley_ng
-> **組件:** MPOS API
 
 ## 問題描述
 

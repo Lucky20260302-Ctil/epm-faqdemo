@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-422: Enhancement for staff member search"
 issue_key: MP-422
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-422: Enhancement for staff member search
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-06-03
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

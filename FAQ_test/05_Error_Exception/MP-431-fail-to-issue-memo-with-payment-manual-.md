@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-431: Fail to issue memo with payment = Manual VISA Card"
 issue_key: MP-431
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-431: Fail to issue memo with payment = Manual VISA Card
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-06-03
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

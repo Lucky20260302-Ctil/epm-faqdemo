@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1575: Enquiry > Member Inquiry cannot be opened when 'SEARCHMEMBERBYEXACTONLY' is set 'Y'."
 issue_key: FE-1575
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1575: Enquiry > Member Inquiry cannot be opened when 'SEARCHMEMBERBYEXACTONLY' is set 'Y'.
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

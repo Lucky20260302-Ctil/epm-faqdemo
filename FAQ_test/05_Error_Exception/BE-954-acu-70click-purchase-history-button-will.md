@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-954: [ACU-70]Click purchase history button will pop out error for POS version 75.004.0902.0001"
 issue_key: BE-954
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-954: [ACU-70]Click purchase history button will pop out error for POS version 75.004.0902.0001
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

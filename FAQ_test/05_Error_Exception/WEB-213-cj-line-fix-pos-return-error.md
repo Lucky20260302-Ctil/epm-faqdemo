@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-213: CJ Line Fix: POS return error"
 issue_key: WEB-213
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-213: CJ Line Fix: POS return error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-01-14
-> **負責人:** Joy Li
-> **組件:** BEAPI
 
 ## 問題描述
 

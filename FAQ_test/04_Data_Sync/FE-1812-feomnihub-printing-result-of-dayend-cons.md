@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1812: [FE][OmniHub] Printing result of dayend consolidate report"
 issue_key: FE-1812
 issue_type: Bug QA
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1812: [FE][OmniHub] Printing result of dayend consolidate report
-
-> **類型:** Bug QA | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

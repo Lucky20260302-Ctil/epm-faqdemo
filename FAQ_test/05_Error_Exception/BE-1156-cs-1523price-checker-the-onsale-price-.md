@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1156: [CS-1523]Price checker - the onsale price cannot return successfully"
 issue_key: BE-1156
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1156: [CS-1523]Price checker - the onsale price cannot return successfully
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-08-20
-> **負責人:** Sherman tse
-> **組件:** API
 
 ## 問題描述
 

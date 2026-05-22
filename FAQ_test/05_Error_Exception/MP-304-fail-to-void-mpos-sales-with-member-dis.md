@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-304: Fail to void MPOS sales with member + discount"
 issue_key: MP-304
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-304: Fail to void MPOS sales with member + discount 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2021-07-20
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

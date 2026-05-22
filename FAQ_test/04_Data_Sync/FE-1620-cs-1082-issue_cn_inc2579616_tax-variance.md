@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1620: [CS-1082] Issue_CN_INC2579616_Tax variance for OC183 – 10008908 (incorrect VAT & GST amount)"
 issue_key: FE-1620
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1620: [CS-1082] Issue_CN_INC2579616_Tax variance for OC183 – 10008908 (incorrect VAT & GST amount)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 8.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

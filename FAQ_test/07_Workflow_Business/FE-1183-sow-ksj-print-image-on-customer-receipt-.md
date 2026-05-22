@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1183: SOW KSJ Print Image on Customer Receipt"
 issue_key: FE-1183
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1183: SOW KSJ Print Image on Customer Receipt 
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-05-19
-> **負責人:** Yan Wong
-> **組件:** Front End
 
 ## 問題描述
 

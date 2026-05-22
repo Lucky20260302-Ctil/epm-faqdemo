@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1491: POS Sales Enquiry extend Item No. column width"
 issue_key: FE-1491
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1491: POS Sales Enquiry extend Item No. column width
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-24
-> **負責人:** Jason Wu
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

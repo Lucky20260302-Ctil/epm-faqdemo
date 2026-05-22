@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1336: Issue-JP-KSJ-Show Retail 50 error during EOD timing and cannot process"
 issue_key: FE-1336
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1336: Issue-JP-KSJ-Show Retail 50 error during EOD timing and cannot process
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-07-11
-> **負責人:** Sang
-> **組件:** Day End
 
 ## 問題描述
 

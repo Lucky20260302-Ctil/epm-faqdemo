@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-808: [CoachANZ] MPOS Enhancements alignemtn with FEPOS"
 issue_key: MP-808
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-808: [CoachANZ] MPOS Enhancements alignemtn with FEPOS
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2026-05-05
-> **負責人:** Sherman tse
-> **組件:** MPOS API
 
 ## 問題描述
 

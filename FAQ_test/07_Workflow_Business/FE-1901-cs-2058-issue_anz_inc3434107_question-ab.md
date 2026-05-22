@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1901: [CS-2058] Issue_ANZ_INC3434107_Question about Day END Cash Balancing"
 issue_key: FE-1901
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1901: [CS-2058] Issue_ANZ_INC3434107_Question about Day END Cash Balancing
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-03-25
-> **負責人:** Sherman tse
-> **組件:** Day End
 
 ## 問題描述
 

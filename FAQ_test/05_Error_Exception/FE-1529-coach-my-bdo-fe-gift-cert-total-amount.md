@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1529: Coach MY BDO FE - gift cert total amount calculation error"
 issue_key: FE-1529
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1529: Coach MY BDO FE - gift cert total amount calculation error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-10-19
-> **負責人:** Andy Ko
-> **組件:** Front End
 
 ## 問題描述
 

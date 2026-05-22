@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1200: MM Coupon Discount Calculation - Apply Rounding Method"
 issue_key: FE-1200
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1200: MM Coupon Discount Calculation - Apply Rounding Method
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Yan Wong
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1101: Missing VIP Number + Name on printed sales receipt on the creation date"
 issue_key: FE-1101
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1101: Missing VIP Number + Name on printed sales receipt on the creation date
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-07-12
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

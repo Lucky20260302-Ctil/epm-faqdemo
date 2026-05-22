@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-346: Move the config table to backend from license server"
 issue_key: MP-346
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-346: Move the config table to backend from license server
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2021-07-20
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

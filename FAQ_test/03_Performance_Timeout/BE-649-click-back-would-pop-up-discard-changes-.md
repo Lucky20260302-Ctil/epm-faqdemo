@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-649: Click Back would pop up Discard Changes error but changes has saved"
 issue_key: BE-649
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-649: Click Back would pop up Discard Changes error but changes has saved
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-04-27
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

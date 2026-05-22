@@ -1,5 +1,6 @@
 ---
 project: ChainStorePlus
+title: "BE-1020: Difference birthday format between HK and CN"
 issue_key: BE-1020
 issue_type: Bug QA
 status: Closed

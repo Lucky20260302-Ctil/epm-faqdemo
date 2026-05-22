@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1228: Display incorrect number of transaction in PC23XXXX after Day End"
 issue_key: FE-1228
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1228: Display incorrect number of transaction in PC23XXXX after Day End
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-03-27
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

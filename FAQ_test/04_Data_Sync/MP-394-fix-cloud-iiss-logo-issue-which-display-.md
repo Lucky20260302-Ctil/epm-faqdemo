@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-394: Fix Cloud IIS’s Logo issue which display in APP"
 issue_key: MP-394
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-394: Fix Cloud IIS’s Logo issue which display in APP
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-04-07
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

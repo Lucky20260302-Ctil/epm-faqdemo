@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1356: Coach MPOS search the wrong member"
 issue_key: FE-1356
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1356: Coach MPOS search the wrong member
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-27
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

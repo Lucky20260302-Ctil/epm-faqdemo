@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1605: [POS][V75][V72] Pop up an error after click on 'F7 Retrieve Order'"
 issue_key: FE-1605
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1605: [POS][V75][V72] Pop up an error after click on 'F7 Retrieve Order'
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-02-24
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

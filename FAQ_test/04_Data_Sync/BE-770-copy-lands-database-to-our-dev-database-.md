@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-770: Copy LANDS database to our DEV database environment (172.16.138.128)"
 issue_key: BE-770
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-770: Copy LANDS database to our DEV database environment (172.16.138.128)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-07-07
-> **負責人:** Andrew_Au
-> **組件:** Administration
 
 ## 問題描述
 

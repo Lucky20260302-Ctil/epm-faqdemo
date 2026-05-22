@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-48: POS_API - 'getMemberList', 'getMemberDetails', 'upsertMember' return webErrorResponse with error code '999' if exception"
 issue_key: WEB-48
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-48: POS_API - "getMemberList", "getMemberDetails", "upsertMember" return webErrorResponse with error code "999" if exception
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-09-04
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

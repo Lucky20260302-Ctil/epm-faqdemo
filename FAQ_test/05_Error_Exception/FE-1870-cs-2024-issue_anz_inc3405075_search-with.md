@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1870: [CS-2024] Issue_ANZ_INC3405075_Search with Name but fail. (C360 use first name / last name)"
 issue_key: FE-1870
 issue_type: Task
 status: Re Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1870: [CS-2024] Issue_ANZ_INC3405075_Search with Name but fail. (C360 use first name / last name)
-
-> **類型:** Task | **狀態:** Re Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

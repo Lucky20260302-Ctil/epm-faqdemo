@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-917: Garbled VIP Info"
 issue_key: FE-917
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-917: Garbled VIP Info
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-08-18
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

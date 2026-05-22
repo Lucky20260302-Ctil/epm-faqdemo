@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-899: Prorunner Web Online Order Information (OR0001) error when have more then 1 item"
 issue_key: BE-899
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-899: Prorunner Web Online Order Information (OR0001) error when have more then 1 item
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-10-29
-> **負責人:** Jason Wu
-> **組件:** Backend (Web)
 
 ## 問題描述
 

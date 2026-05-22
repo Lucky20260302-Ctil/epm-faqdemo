@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-681: Cannot display other possible options after click 'X' in Selection list of specific data"
 issue_key: BE-681
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-681: Cannot display other possible options after click "X" in Selection list of specific data
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-02-16
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

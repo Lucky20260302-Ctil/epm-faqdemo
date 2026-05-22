@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1895: DTUTIL - Add a configuration to get the POS_API URL from DTUTIL.INI"
 issue_key: FE-1895
 issue_type: Improvement
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1895: DTUTIL - Add a configuration to get the POS_API URL from DTUTIL.INI
-
-> **類型:** Improvement | **狀態:** Selected for Development (migrated)
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **負責人:** Sang
-> **組件:** DTUTIL
 
 ## 問題描述
 

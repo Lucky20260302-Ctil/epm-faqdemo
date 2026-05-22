@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-896: ACXIOM CRM API Integration - Milestone 1"
 issue_key: BE-896
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-896: ACXIOM CRM API Integration - Milestone 1
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-08-30
-> **負責人:** Joy Li
-> **組件:** Data Interface
 
 ## 問題描述
 

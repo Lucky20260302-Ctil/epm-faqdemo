@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-624: Return sales memo display incorect total amount"
 issue_key: MP-624
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-624: Return sales memo display incorect total amount
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-03-01
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

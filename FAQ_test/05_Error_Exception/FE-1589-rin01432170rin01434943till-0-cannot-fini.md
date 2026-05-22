@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1589: [RIN01432170/RIN01434943]Till 0 cannot finish dayend, showing 'Conversion from string 19/12/2024' to type Date is not valid'"
 issue_key: FE-1589
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1589: [RIN01432170/RIN01434943]Till 0 cannot finish dayend, showing "Conversion from string 19/12/2024" to type Date is not valid"
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-04-29
-> **負責人:** Jason Wu
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

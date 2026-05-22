@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-481: SOW-New Backend Member VIP API (FE-970) (API)"
 issue_key: MP-481
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-481: SOW-New Backend Member VIP API (FE-970) (API)
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-09-06
-> **負責人:** Kelly Ng
-> **組件:** MPOS API
 
 ## 問題描述
 

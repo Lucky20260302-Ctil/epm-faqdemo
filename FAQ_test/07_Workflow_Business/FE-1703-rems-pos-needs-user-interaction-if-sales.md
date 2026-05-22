@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1703: REMS POS needs user interaction if sales memo print more than one page"
 issue_key: FE-1703
 issue_type: Bug PRD
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1703: REMS POS needs user interaction if sales memo print more than one page
-
-> **類型:** Bug PRD | **狀態:** Test in Progress
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **負責人:** Bobby
-> **組件:** Receipt Printing
 
 ## 問題描述
 

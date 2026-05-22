@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1035: [ACU-128]Improved Token Retrieval Mechanism"
 issue_key: BE-1035
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1035: [ACU-128]Improved Token Retrieval Mechanism
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-05-02
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1649: [CS-1360] KSJ_CS2K_show birth year as 1900, when staff search customer"
 issue_key: FE-1649
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1649: [CS-1360] KSJ_CS2K_show birth year as 1900, when staff search customer
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-10-03
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

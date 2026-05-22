@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-749: [MPOS-78]MPOS 3.29.5  - JP region - Miss notification under tax free module if the price is lower than 5000JPY"
 issue_key: MP-749
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-749: [MPOS-78]MPOS 3.29.5  - JP region - Miss notification under tax free module if the price is lower than 5000JPY
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-05-02
-> **負責人:** Daniel Leung
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

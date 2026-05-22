@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1192: [CS-1787] New Sales Export Interface for Resorts World Sentosa"
 issue_key: BE-1192
 issue_type: SOW
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1192: [CS-1787] New Sales Export Interface for Resorts World Sentosa
-
-> **類型:** SOW | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Ken Wang
-> **組件:** Data Interface
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-729: Interface Update Log Enquiry (SE8008) and Interface Posting Error Enquiry (AS2000) changes for Lands Project"
 issue_key: BE-729
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-729: Interface Update Log Enquiry (SE8008) and Interface Posting Error Enquiry (AS2000) changes for Lands Project
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-07-26
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1198: Search Cash Coupon speed very slow"
 issue_key: FE-1198
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1198: Search Cash Coupon speed very slow
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-12-16
-> **負責人:** Jason Wu
-> **組件:** Front End
 
 ## 問題描述
 

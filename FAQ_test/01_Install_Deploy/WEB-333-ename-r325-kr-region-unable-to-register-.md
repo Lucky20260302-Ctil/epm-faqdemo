@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-333: eName R3.25 KR region unable to register for Customer"
 issue_key: WEB-333
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # WEB-333: eName R3.25 KR region unable to register for Customer
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-05-16
-> **負責人:** Cy Lau
-> **組件:** eName
 
 ## 問題描述
 

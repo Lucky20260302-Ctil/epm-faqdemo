@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-525: ZEBRA printer of API log"
 issue_key: MP-525
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-525: ZEBRA printer of API log
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-11-04
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

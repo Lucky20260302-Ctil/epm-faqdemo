@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-355: Service Item cannot select by barcode scan"
 issue_key: MP-355
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-355: Service Item cannot select by barcode scan
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-02-11
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

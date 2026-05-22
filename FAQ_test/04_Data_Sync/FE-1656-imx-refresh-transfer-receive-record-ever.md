@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1656: IMX refresh transfer receive record everytime when user enter the transfer receive page on FE"
 issue_key: FE-1656
 issue_type: Bug PRD
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1656: IMX refresh transfer receive record everytime when user enter the transfer receive page on FE
-
-> **類型:** Bug PRD | **狀態:** Test in Progress
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

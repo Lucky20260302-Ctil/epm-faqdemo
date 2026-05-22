@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-907: Apply AllowDepositSettleRefund to accsales.rpt"
 issue_key: FE-907
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-907: Apply AllowDepositSettleRefund to accsales.rpt
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **解決日期:** 2022-08-18
-> **負責人:** Sang
-> **組件:** Sales
 
 ## 問題描述
 

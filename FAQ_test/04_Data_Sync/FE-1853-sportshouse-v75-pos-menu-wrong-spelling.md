@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1853: Sportshouse v75 POS Menu wrong spelling"
 issue_key: FE-1853
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1853: Sportshouse v75 POS Menu wrong spelling
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

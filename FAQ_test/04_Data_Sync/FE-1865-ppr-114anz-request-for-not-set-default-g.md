@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1865: [PPR-114][ANZ] Request for not set default gender in new member creation"
 issue_key: FE-1865
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1865: [PPR-114][ANZ] Request for not set default gender in new member creation
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2026-03-04
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

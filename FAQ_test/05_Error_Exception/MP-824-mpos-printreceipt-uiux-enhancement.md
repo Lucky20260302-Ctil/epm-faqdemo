@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-824: MPOS PrintReceipt UIUX Enhancement"
 issue_key: MP-824
 issue_type: Improvement
 status: Release
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-824: MPOS PrintReceipt UIUX Enhancement
-
-> **類型:** Improvement | **狀態:** Release
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-931: day end issues"
 issue_key: FE-931
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-931: day end issues
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-11-28
-> **負責人:** Sang
-> **組件:** Day End, Sales
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-812: GFMIS 2023-OCT-05 changes"
 issue_key: BE-812
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-812: GFMIS 2023-OCT-05 changes
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-11-02
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

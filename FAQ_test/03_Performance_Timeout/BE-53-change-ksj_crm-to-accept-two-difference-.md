@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-53: Change KSJ_CRM to accept two difference file names (CS2000 - NONSIS / CSPSIS - SIS)"
 issue_key: BE-53
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-53: Change KSJ_CRM to accept two difference file names (CS2000 - NONSIS / CSPSIS - SIS)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-05-20
-> **負責人:** Judy Cheng
-> **組件:** Backend (Web)
 
 ## 問題描述
 

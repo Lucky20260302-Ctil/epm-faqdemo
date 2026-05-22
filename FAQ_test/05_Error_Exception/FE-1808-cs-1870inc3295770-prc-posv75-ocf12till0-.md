@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1808: [CS-1870][INC3295770] PRC POSv75 OCF12till0, print sales memos cost frequently 5~10 sec."
 issue_key: FE-1808
 issue_type: Bug DEV
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1808: [CS-1870][INC3295770] PRC POSv75 OCF12till0, print sales memos cost frequently 5~10 sec.
-
-> **類型:** Bug DEV | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

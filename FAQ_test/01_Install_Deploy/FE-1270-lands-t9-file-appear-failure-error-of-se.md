@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1270: [Lands] T9 file appear Failure Error of sending e-receipt"
 issue_key: FE-1270
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1270: [Lands] T9 file appear Failure Error of sending e-receipt
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** front end v760.02
 
 ## 問題描述
 

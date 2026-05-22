@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-649: L1010B Coupon Discount Variance"
 issue_key: MP-649
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-649: L1010B Coupon Discount Variance
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-08-30
-> **負責人:** Cy Lau
-> **組件:** MPOS API
 
 ## 問題描述
 

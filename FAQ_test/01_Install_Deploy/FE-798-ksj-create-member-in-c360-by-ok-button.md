@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-798: KSJ-Create Member in C360 by OK button"
 issue_key: FE-798
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-798: KSJ-Create Member in C360 by OK button
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.5
-> **解決日期:** 2020-10-12
-> **負責人:** Joy Li
-> **組件:** Frontend
 
 ## 問題描述
 

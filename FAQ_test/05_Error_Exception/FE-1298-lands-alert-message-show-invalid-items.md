@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1298: Lands - Alert Message show Invalid Items List which Imported from HKMS / WL/ KIOSK"
 issue_key: FE-1298
 issue_type: Improvement
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1298: Lands - Alert Message show Invalid Items List which Imported from HKMS / WL/ KIOSK
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-05-04
-> **組件:** Front End
 
 ## 問題描述
 

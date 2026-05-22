@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1077: Multi EMP failed no retry re-input , when second credit card failed. (A920)"
 issue_key: FE-1077
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1077: Multi EMP failed no retry re-input , when second credit card failed. (A920)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-03-01
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

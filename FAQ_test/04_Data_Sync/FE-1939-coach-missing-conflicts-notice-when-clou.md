@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1939: [Coach] Missing Conflicts notice when Cloud > Local for VIP sequence"
 issue_key: FE-1939
 issue_type: Bug QA
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1939: [Coach] Missing Conflicts notice when Cloud > Local for VIP sequence 
-
-> **類型:** Bug QA | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

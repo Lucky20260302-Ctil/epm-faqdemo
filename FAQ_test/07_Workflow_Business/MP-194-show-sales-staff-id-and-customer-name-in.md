@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-194: Show Sales Staff ID and Customer Name in Payment Screen"
 issue_key: MP-194
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-194: Show Sales Staff ID and Customer Name in Payment Screen
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-06-04
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

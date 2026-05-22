@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1005: [CS-1361][CA-81]Issue-MY-3 store info missing in store profile file"
 issue_key: BE-1005
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1005: [CS-1361][CA-81]Issue-MY-3 store info missing in store profile file
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

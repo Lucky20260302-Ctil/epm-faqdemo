@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1330: Bash Transfer layout missing printing price information"
 issue_key: FE-1330
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1330: Bash Transfer layout missing printing price information
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-01-22
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-918: [ACXIOM CRM] Milestone 1 - Member Missing"
 issue_key: BE-918
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-918: [ACXIOM CRM] Milestone 1 - Member Missing
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-10-16
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

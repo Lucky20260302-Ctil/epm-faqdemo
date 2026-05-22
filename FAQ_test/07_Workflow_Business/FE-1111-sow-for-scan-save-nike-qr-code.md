@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1111: SOW for Scan Save Nike QR Code"
 issue_key: FE-1111
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1111: SOW for Scan Save Nike QR Code
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-05-31
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

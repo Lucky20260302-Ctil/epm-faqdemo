@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-783: [MPOS-104]KSJ MPOS - v3.29.6 IPA employee purchase unavailable"
 issue_key: MP-783
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-783: [MPOS-104]KSJ MPOS - v3.29.6 IPA employee purchase unavailable
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-07-04
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

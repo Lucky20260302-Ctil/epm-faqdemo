@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-262: SOW of VIP & Online Sales API and Online Sales print in POS v1.2"
 issue_key: WEB-262
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-262: SOW of VIP & Online Sales API and Online Sales print in POS v1.2
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-05-19
-> **負責人:** Anson Cheung
-> **組件:** API, API_Gateway
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-795: [INC3145307]All handys failed to use MPOS, shows error when scan Till 0"
 issue_key: MP-795
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-795: [INC3145307]All handys failed to use MPOS, shows error when scan Till 0
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-10-09
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

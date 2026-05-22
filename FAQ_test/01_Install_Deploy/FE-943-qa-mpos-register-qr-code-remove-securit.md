@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-943: QA MPOS Register QR code – Remove Security port test"
 issue_key: FE-943
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-943: QA MPOS Register QR code – Remove Security port test
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-03-31
-> **負責人:** Joy Li
-> **組件:** MPOS
 
 ## 問題描述
 

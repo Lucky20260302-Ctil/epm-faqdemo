@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-887: Package Set Item Maintenance(MX4000) ：create项目时，点击save，一直提示“Invalid Package Item Code”"
 issue_key: BE-887
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-887: Package Set Item Maintenance(MX4000) ：create项目时，点击save，一直提示“Invalid Package Item Code”
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-09
-> **負責人:** ryan
-> **組件:** Backend (Web)
 
 ## 問題描述
 

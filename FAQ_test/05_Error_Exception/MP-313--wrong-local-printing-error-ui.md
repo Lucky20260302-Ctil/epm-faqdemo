@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-313: (*) Wrong Local Printing error (UI)"
 issue_key: MP-313
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-313: (*) Wrong Local Printing error (UI)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2020-12-10
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

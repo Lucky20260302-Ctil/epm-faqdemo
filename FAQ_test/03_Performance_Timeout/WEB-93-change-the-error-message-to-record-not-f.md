@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-93: change the error message to record not find."
 issue_key: WEB-93
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-93: change the error message to record not find.
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-04-27
-> **負責人:** Samuel Ma
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-335: change C360 getCustomerDetail call source code"
 issue_key: WEB-335
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-335: change C360 getCustomerDetail call source code
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-05-16
-> **負責人:** Anson Cheung
-> **組件:** BEAPI
 
 ## 問題描述
 

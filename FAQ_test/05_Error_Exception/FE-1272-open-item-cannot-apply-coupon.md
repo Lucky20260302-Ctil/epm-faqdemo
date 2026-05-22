@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1272: Open item cannot apply coupon"
 issue_key: FE-1272
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1272: Open item cannot apply coupon
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

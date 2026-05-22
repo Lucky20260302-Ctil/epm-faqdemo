@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-344: KS/CJ EXLOG eCom Sales Interface (Rakuten) - V66 package"
 issue_key: BE-344
 issue_type: Change Request
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-344: KS/CJ EXLOG eCom Sales Interface (Rakuten) - V66 package
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-11-26
-> **組件:** Backend (V66)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-956: CS2000POS X64 BIT cannot auto create dbtrans when program first start"
 issue_key: FE-956
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-956: CS2000POS X64 BIT cannot auto create dbtrans when program first start
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-08-16
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

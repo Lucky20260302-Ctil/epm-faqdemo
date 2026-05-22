@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1408: [HKJC] Burn Points (PP) payment type J unable to post to backend"
 issue_key: FE-1408
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1408: [HKJC] Burn Points (PP) payment type J unable to post to backend
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-21
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

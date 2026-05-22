@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-336: SOW request for barcode print on CJ receipt"
 issue_key: MP-336
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-336: SOW request for barcode print on CJ receipt
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-12-31
-> **負責人:** kingsley_ng
-> **組件:** MPOS, MPOS API
 
 ## 問題描述
 

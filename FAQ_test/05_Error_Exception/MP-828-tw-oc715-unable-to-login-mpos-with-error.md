@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-828: TW OC715 Unable to login MPOS with error'[999] Invalid argument(s):Key Length '"
 issue_key: MP-828
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-828: TW OC715 Unable to login MPOS with error"[999] Invalid argument(s):Key Length "
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

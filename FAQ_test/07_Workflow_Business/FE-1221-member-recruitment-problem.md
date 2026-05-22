@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1221: Member recruitment problem"
 issue_key: FE-1221
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1221: Member recruitment problem
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-09-25
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

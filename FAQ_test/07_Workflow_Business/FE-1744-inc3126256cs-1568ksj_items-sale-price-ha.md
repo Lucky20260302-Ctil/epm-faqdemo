@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1744: [INC3126256][CS-1568]KSJ_item's sale price has variance between POS and receipt"
 issue_key: FE-1744
 issue_type: Bug DEV
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1744: [INC3126256][CS-1568]KSJ_item's sale price has variance between POS and receipt
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

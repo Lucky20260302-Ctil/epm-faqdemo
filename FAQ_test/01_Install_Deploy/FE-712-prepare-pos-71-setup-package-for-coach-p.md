@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-712: Prepare POS 71 Setup package (for Coach Production)"
 issue_key: FE-712
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-712: Prepare POS 71 Setup package (for Coach Production)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-06-15
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

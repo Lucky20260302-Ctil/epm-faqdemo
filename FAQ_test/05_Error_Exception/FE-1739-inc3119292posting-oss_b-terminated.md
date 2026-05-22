@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1739: [INC3119292]Posting OSS_B terminated"
 issue_key: FE-1739
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1739: [INC3119292]Posting OSS_B terminated
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-09-08
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

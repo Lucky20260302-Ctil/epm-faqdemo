@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-679: No data inserted but still pop up Discard Changes after Click Back"
 issue_key: BE-679
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-679: No data inserted but still pop up Discard Changes after Click Back
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-03-06
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

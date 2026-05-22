@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-961: User Table Maintenance（User Security Information(GL0005)）:Click Change Password ,New Password和Verification input'AAaa123！'保存报错"
 issue_key: BE-961
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-961: User Table Maintenance（User Security Information(GL0005)）:Click Change Password ,New Password和Verification input'AAaa123！'保存报错
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-02-21
-> **負責人:** Andy Ko
-> **組件:** Backend (Web)
 
 ## 問題描述
 

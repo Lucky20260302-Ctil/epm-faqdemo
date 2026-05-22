@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1628: CN Epromo 邮件approve失败"
 issue_key: FE-1628
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1628: CN Epromo 邮件approve失败
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **負責人:** Anson Cheung
-> **組件:** BackEnd
 
 ## 問題描述
 

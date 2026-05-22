@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1038: [API] ponumber如果入了invalid value會timeout"
 issue_key: BE-1038
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1038: [API] ponumber如果入了invalid value會timeout
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-03-27
-> **負責人:** jordan.wang
-> **組件:** API
 
 ## 問題描述
 

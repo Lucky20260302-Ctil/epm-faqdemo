@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-987: [Coach][CRM] Enhancement of prevent value of vip_no_edm, vip_no_dm, vip_no_phone, vip_no_sms cannot be inserted"
 issue_key: BE-987
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-987: [Coach][CRM] Enhancement of prevent value of vip_no_edm, vip_no_dm, vip_no_phone, vip_no_sms cannot be inserted
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-02-25
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

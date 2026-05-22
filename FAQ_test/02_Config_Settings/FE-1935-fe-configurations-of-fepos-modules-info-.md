@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1935: [FE] Configurations of FEPOS modules info gathering"
 issue_key: FE-1935
 issue_type: Task
 status: Test in Progress
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1935: [FE] Configurations of FEPOS modules info gathering
-
-> **類型:** Task | **狀態:** Test in Progress
-> **分類:** 設定與配置 | **FAQ 分數:** 4.5
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-638: Display unusual screen after insert invalid symbol into field of Year"
 issue_key: MP-638
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-638: Display unusual screen after insert invalid symbol into field of Year
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-02-21
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

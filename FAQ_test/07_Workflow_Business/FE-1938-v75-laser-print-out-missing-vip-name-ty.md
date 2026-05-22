@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1938: V75 Laser print out missing VIP name & type"
 issue_key: FE-1938
 issue_type: Task
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1938: V75 Laser print out missing VIP name & type
-
-> **類型:** Task | **狀態:** Selected for Development (migrated)
-> **分類:** 流程與業務 | **FAQ 分數:** 4.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

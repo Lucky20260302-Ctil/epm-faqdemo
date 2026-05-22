@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-353: Display customer name in Delivery Order related printout report"
 issue_key: BE-353
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-353: Display customer name in Delivery Order related printout report
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-03-30
-> **負責人:** howard
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

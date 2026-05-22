@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1764: [CS-1299] Issue_Index file over 600 line in DT900 folder will not able to transfer to DT970 scanner RIN01422836"
 issue_key: FE-1764
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1764: [CS-1299] Issue_Index file over 600 line in DT900 folder will not able to transfer to DT970 scanner RIN01422836
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Sang
-> **組件:** dt900
 
 ## 問題描述
 

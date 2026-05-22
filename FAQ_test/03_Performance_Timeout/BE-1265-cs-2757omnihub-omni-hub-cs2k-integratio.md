@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1265: [CS-2757][OmniHub] Omni hub & CS2K Integration - Add Email Alert for Promotion Engine Job Failure"
 issue_key: BE-1265
 issue_type: Improvement
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1265: [CS-2757][OmniHub] Omni hub & CS2K Integration - Add Email Alert for Promotion Engine Job Failure
-
-> **類型:** Improvement | **狀態:** Selected for Development (migrated)
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **負責人:** Jerry Wong
-> **組件:** API
 
 ## 問題描述
 

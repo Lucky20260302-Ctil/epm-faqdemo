@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1848: ANZ FE follow up issue"
 issue_key: FE-1848
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1848: ANZ FE follow up issue
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **負責人:** Sang
-> **組件:** Day End, Frontend
 
 ## 問題描述
 

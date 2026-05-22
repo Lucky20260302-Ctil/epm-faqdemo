@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-968: click search member result but return to same page"
 issue_key: FE-968
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-968: click search member result but return to same page 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-07-12
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-651: Table of edit item in Open Item Recovery doesn't show 'Save' button"
 issue_key: BE-651
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-651: Table of edit item in Open Item Recovery doesn't show "Save" button
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-02-17
-> **負責人:** Ken Lam
-> **組件:** Backend (Web), Frontend
 
 ## 問題描述
 

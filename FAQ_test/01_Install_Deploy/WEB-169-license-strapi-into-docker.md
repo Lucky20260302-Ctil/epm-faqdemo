@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-169: License - Strapi into docker"
 issue_key: WEB-169
 issue_type: Task
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-169: License - Strapi into docker
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-11
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

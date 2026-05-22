@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-647: SOW of Implement MPOS e-Receipt Email sending in Coach SG and MY"
 issue_key: MP-647
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-647: SOW of Implement MPOS e-Receipt Email sending in Coach SG and MY
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 7.0
-> **解決日期:** 2023-06-12
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

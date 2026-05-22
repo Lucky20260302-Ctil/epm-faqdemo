@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1723: [SPH] S09 sales memo issue"
 issue_key: FE-1723
 issue_type: Task
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1723: [SPH] S09 sales memo issue
-
-> **類型:** Task | **狀態:** Release
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

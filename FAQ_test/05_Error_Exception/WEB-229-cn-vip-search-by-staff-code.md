@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-229: CN VIP search by staff code"
 issue_key: WEB-229
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-229: CN VIP search by staff code
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-06-23
-> **負責人:** Joy Li
-> **組件:** BEAPI
 
 ## 問題描述
 

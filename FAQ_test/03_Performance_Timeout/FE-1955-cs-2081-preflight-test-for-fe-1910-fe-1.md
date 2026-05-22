@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1955: [CS-2081] Preflight Test for [FE-1910] , [FE-1912] with no additional configurations"
 issue_key: FE-1955
 issue_type: Task
 status: Design
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1955: [CS-2081] Preflight Test for [FE-1910] , [FE-1912] with no additional configurations
-
-> **類型:** Task | **狀態:** Design
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Andrew_Au
-> **組件:** Front End
 
 ## 問題描述
 

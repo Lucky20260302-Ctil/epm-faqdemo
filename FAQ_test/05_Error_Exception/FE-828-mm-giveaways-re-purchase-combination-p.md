@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-828: MM giveaways + Re-purchase + combination price Bug"
 issue_key: FE-828
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-828: MM giveaways + Re-purchase + combination price Bug
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-11-23
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

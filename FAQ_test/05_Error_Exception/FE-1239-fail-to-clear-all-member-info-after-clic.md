@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1239: Fail to clear all member info after click Remove botton"
 issue_key: FE-1239
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1239: Fail to clear all member info after click Remove botton
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-05-11
-> **負責人:** Sang
-> **組件:** front end v760.01R01A
 
 ## 問題描述
 

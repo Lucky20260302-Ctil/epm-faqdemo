@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-941: Missing First Name and Last Name in new member creation in Deposit & GC memo"
 issue_key: FE-941
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-941: Missing First Name and Last Name in new member creation in Deposit & GC memo
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-03-31
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

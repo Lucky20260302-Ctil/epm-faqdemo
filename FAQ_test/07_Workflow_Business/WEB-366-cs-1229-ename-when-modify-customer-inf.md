@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-366: [CS-1229] eName - When modify customer info, 'Gender' & 'Opt-in' default value is incorrect"
 issue_key: WEB-366
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-366: [CS-1229] eName - When modify customer info, 'Gender' & 'Opt-in' default value is incorrect
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-11-15
-> **負責人:** Andy_Leung
-> **組件:** eName
 
 ## 問題描述
 

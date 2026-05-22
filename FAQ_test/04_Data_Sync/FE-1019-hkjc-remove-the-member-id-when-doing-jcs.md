@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1019: HKJC remove the Member ID when doing JCSmartcard status API, but still keep in transaction API (RCQ00209724)"
 issue_key: FE-1019
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1019: HKJC remove the Member ID when doing JCSmartcard status API, but still keep in transaction API (RCQ00209724)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-06-15
-> **負責人:** howard
-> **組件:** Front End
 
 ## 問題描述
 

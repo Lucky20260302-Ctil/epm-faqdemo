@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-804: [CS-1790]When a store's Till doesn't complete Dayend, there is no prompt on Till 0"
 issue_key: MP-804
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-804: [CS-1790]When a store's Till doesn't complete Dayend, there is no prompt on Till 0
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Tovi Wang
-> **組件:** Frontend
 
 ## 問題描述
 

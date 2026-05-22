@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-659: Disaplay duplicate symbol in Mix & Match Promotion Formula Information"
 issue_key: BE-659
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-659: Disaplay duplicate symbol in Mix & Match Promotion Formula Information 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-11-07
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

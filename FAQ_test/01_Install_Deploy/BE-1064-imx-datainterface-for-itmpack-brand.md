@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1064: IMX datainterface for itmpack & brand"
 issue_key: BE-1064
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1064: IMX datainterface for itmpack & brand
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-10-08
-> **負責人:** Jason Wu
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

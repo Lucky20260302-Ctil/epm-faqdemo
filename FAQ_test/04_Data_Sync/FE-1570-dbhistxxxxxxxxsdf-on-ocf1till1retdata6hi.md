@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1570: DbhistXXXXXXXX.sdf on OCF1till1/retdata6/history can't be killed automatically from 20171203 till now"
 issue_key: FE-1570
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1570: DbhistXXXXXXXX.sdf on OCF1till1\retdata6\history can't be killed automatically from 20171203 till now
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-02-24
-> **負責人:** Cy Lau
-> **組件:** Front End v720.02
 
 ## 問題描述
 

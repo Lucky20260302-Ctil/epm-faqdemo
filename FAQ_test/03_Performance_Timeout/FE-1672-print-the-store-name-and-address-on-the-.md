@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1672: Print the store name and address on the receipt"
 issue_key: FE-1672
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1672: Print the store name and address on the receipt
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2025-04-29
-> **負責人:** Jason Wu
-> **組件:** Front End v720.02
 
 ## 問題描述
 

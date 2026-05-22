@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1063: IMX Vendor Invoice Maintenance (RC1007) can not follow"
 issue_key: BE-1063
 issue_type: Bug PRD
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1063: IMX Vendor Invoice Maintenance (RC1007) can not follow 
-
-> **類型:** Bug PRD | **狀態:** DEV Done
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-106: API for save e-receipt to specific folder/ S3"
 issue_key: WEB-106
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-106: API for save e-receipt to specific folder/ S3
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-03-06
-> **負責人:** Samuel Ma
-> **組件:** API
 
 ## 問題描述
 

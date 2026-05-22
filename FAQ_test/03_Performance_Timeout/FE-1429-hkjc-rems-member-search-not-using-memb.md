@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1429: [HKJC] REMS - Member search not using member discount from member type"
 issue_key: FE-1429
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1429: [HKJC] REMS - Member search not using member discount from member type
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 8.5
-> **解決日期:** 2024-06-27
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

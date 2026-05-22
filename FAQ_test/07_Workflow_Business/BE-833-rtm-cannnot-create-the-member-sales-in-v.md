@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-833: RTM Cannnot create the member sales in version 72.0105.0102"
 issue_key: BE-833
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-833: RTM Cannnot create the member sales in version 72.0105.0102
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-03-01
-> **負責人:** Andy Ko
-> **組件:** Frontend
 
 ## 問題描述
 

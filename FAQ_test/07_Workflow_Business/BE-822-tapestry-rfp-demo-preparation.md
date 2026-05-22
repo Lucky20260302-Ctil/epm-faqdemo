@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-822: Tapestry RFP Demo Preparation"
 issue_key: BE-822
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-822: Tapestry RFP Demo Preparation
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-11-03
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1888: [ANZ] Missing 4 rows of vip_no_dm in body of  Dayend upsert member from [dbTrans].[dbo].[NEW VIP]"
 issue_key: FE-1888
 issue_type: Bug QA
 status: DEV Done
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1888: [ANZ] Missing 4 rows of vip_no_dm in body of  Dayend upsert member from [dbTrans].[dbo].[NEW VIP]
-
-> **類型:** Bug QA | **狀態:** DEV Done
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1606: RIN01441233-Till 0 cannot print out dayend report and shows printer error, this issue also occurred while reprint dayend report"
 issue_key: FE-1606
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1606: RIN01441233-Till 0 cannot print out dayend report and shows printer error, this issue also occurred while reprint dayend report
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-02-24
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

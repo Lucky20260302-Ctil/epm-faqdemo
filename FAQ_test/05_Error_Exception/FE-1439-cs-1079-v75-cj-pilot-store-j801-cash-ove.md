@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1439: [CS-1079] V7.5 CJ Pilot store J801 Cash Over short issue since May 9th"
 issue_key: FE-1439
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1439: [CS-1079] V7.5 CJ Pilot store J801 Cash Over short issue since May 9th
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-09-23
-> **負責人:** Joy Li
-> **組件:** Day End
 
 ## 問題描述
 

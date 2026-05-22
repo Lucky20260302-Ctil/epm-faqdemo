@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1431: [Lands] Things may need to be encrypted"
 issue_key: FE-1431
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1431: [Lands] Things may need to be encrypted
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-09-03
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

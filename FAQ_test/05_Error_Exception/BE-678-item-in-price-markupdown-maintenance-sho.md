@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-678: Item in Price Markup/Down Maintenance show All color for selection"
 issue_key: BE-678
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-678: Item in Price Markup/Down Maintenance show All color for selection
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-02-17
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

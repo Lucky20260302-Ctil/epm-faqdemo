@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1817: [INC3310467] KR new V72 store OC872 till1 keep missing RP file"
 issue_key: FE-1817
 issue_type: Bug PRD
 status: HOLD
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1817: [INC3310467] KR new V72 store OC872 till1 keep missing RP file
-
-> **類型:** Bug PRD | **狀態:** HOLD
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

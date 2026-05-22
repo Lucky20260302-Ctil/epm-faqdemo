@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-363: ename - line spacing should be more aligned"
 issue_key: WEB-363
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-363: ename - line spacing should be more aligned
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-09-30
-> **組件:** eName
 
 ## 問題描述
 

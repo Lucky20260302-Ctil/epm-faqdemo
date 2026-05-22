@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1464: [HKJC] REMS member search by member number bug"
 issue_key: FE-1464
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1464: [HKJC] REMS member search by member number bug
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-09-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

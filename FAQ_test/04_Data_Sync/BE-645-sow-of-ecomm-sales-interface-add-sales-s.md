@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-645: SOW of eComm Sales interface add Sales Staff Code"
 issue_key: BE-645
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-645: SOW of eComm Sales interface add Sales Staff Code
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-09-21
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

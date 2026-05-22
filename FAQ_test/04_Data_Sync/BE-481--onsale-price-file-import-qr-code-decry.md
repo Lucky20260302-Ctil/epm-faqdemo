@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-481:  Onsale Price File Import & QR Code Decryption Key Update"
 issue_key: BE-481
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-481:  Onsale Price File Import & QR Code Decryption Key Update
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-06-08
-> **負責人:** Joy Li
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1231: [CS-1881] Issue_KSMY_Missing Transactions from POS to Memberson (Selected MY stores)"
 issue_key: BE-1231
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1231: [CS-1881] Issue_KSMY_Missing Transactions from POS to Memberson (Selected MY stores)
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-04-22
-> **負責人:** Sherman tse
-> **組件:** Data Interface
 
 ## 問題描述
 

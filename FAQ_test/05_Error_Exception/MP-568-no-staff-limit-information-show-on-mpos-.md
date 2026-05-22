@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-568: No staff limit information show on MPOS v3.20.0"
 issue_key: MP-568
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-568: No staff limit information show on MPOS v3.20.0
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-11-18
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-536: Fix bug “mixnew_item_type” reset to blank after Product Table has ended lookup [RIN00913903]"
 issue_key: BE-536
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-536: Fix bug “mixnew_item_type” reset to blank after Product Table has ended lookup [RIN00913903]
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-01-28
-> **負責人:** Steven Yuen
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

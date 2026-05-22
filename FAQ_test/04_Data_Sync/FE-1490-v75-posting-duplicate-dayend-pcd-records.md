@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1490: v75 Posting Duplicate Dayend PCD Records"
 issue_key: FE-1490
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1490: v75 Posting Duplicate Dayend PCD Records
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-09-08
-> **負責人:** Sherman tse
-> **組件:** Day End
 
 ## 問題描述
 

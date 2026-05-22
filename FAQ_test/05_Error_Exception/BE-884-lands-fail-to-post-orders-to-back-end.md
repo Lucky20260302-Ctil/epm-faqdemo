@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-884: [Lands] Fail to post orders to back end"
 issue_key: BE-884
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-884: [Lands] Fail to post orders to back end
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-08-05
-> **負責人:** Jerry Wong
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

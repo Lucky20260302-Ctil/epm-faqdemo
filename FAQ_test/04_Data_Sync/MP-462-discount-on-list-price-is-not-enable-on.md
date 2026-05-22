@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-462: Discount % on list Price is not enable on MPOS"
 issue_key: MP-462
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-462: Discount % on list Price is not enable on MPOS
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-08-16
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

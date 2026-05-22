@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-201: epromo - MM resave - zlog issue"
 issue_key: WEB-201
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-201: epromo - MM resave - zlog issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-08-24
-> **負責人:** Joy Li
-> **組件:** Epromo
 
 ## 問題描述
 

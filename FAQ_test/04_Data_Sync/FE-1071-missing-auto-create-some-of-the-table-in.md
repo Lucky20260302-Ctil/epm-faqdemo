@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1071: Missing auto create some of the table in Dbhist database"
 issue_key: FE-1071
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1071: Missing auto create some of the table in Dbhist database
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-01-27
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

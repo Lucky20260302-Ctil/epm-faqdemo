@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1742: [CS-1500] Request_windows login account migration[Intune Deployment]"
 issue_key: FE-1742
 issue_type: Task
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1742: [CS-1500] Request_windows login account migration[Intune Deployment]
-
-> **類型:** Task | **狀態:** Selected for Development (migrated)
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **負責人:** Cy Lau
-> **組件:** Install_Package
 
 ## 問題描述
 

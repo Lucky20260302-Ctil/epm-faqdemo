@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-715: Pop up an error after clicking 'save' in User Group Information (GL0006)"
 issue_key: BE-715
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-715: Pop up an error after clicking "save" in User Group Information (GL0006)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-02-17
-> **負責人:** Sherman tse
-> **組件:** Frontend
 
 ## 問題描述
 

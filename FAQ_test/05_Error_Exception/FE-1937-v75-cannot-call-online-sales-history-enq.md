@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1937: V75 cannot call Online Sales History enquiry"
 issue_key: FE-1937
 issue_type: Task
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1937: V75 cannot call Online Sales History enquiry
-
-> **類型:** Task | **狀態:** Selected for Development (migrated)
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

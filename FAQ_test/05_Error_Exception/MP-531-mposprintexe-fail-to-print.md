@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-531: MPOSPrint.exe fail to print"
 issue_key: MP-531
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-531: MPOSPrint.exe fail to print
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-03-01
-> **負責人:** Cy Lau
-> **組件:** MPOSPrint.exe
 
 ## 問題描述
 

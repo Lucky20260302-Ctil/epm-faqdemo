@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-108: epromo-product table import error log enhancement"
 issue_key: WEB-108
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-108: epromo-product table import error log enhancement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-04-27
-> **負責人:** Anson Cheung
-> **組件:** Epromo
 
 ## 問題描述
 

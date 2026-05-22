@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-552: disable the preview when reprint the sales memo"
 issue_key: MP-552
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-552: disable the preview when reprint the sales memo
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.5
-> **解決日期:** 2022-11-18
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

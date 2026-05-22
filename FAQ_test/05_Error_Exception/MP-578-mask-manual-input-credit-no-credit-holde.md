@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-578: mask manual input credit no, credit holder name and expiry date"
 issue_key: MP-578
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-578: mask manual input credit no, credit holder name and expiry date
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2022-11-21
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

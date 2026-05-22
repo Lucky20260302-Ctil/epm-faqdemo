@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-761: ChainStorePlus - (Prorunner disk full)"
 issue_key: BE-761
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-761: ChainStorePlus - (Prorunner disk full)
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-09-19
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

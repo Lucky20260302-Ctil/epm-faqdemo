@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-365: ename - modifying tourist should not check duplicate email"
 issue_key: WEB-365
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # WEB-365: ename - modifying tourist should not check duplicate email
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-09-30
-> **組件:** eName
 
 ## 問題描述
 

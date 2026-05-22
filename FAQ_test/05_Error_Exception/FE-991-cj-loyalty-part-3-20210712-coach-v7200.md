@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-991: CJ Loyalty (Part 3) - 20210712 Coach v720.02R10 review"
 issue_key: FE-991
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-991: CJ Loyalty (Part 3) - 20210712 Coach v720.02R10 review
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-08-19
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

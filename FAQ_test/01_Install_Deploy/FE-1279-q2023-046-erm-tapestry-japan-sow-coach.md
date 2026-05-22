@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1279: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1"
 issue_key: FE-1279
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1279: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-04-25
-> **負責人:** Bobby
-> **組件:** Front End v720.02
 
 ## 問題描述
 

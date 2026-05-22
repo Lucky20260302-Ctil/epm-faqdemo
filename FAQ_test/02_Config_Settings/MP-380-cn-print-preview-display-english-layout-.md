@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-380: CN-print preview display English layout"
 issue_key: MP-380
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-380: CN-print preview display English layout 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-06-03
-> **負責人:** howard
-> **組件:** MPOS
 
 ## 問題描述
 

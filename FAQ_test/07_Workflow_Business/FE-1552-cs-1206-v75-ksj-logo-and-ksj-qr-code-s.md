@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1552: [CS-1206] V75 - KSJ logo and KSJ QR code showing up in receipt"
 issue_key: FE-1552
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1552: [CS-1206] V75 - KSJ logo and KSJ QR code showing up in receipt
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-11-29
-> **負責人:** Joseph_Hu
-> **組件:** Front End
 
 ## 問題描述
 

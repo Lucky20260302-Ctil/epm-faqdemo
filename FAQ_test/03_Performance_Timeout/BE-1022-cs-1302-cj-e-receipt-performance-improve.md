@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1022: [CS-1302] CJ e-receipt performance improvement"
 issue_key: BE-1022
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1022: [CS-1302] CJ e-receipt performance improvement
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-11-03
-> **負責人:** Cy Lau
-> **組件:** API, Frontend, MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1940: IMX after upgrade to V75 error in dayend"
 issue_key: FE-1940
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1940: IMX after upgrade to V75 error in dayend
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2026-05-13
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

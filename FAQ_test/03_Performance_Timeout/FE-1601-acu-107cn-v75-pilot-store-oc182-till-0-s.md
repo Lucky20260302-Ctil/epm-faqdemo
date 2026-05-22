@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1601: [ACU-107]CN V75 pilot store OC182 till 0 slow memo issue"
 issue_key: FE-1601
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1601: [ACU-107]CN V75 pilot store OC182 till 0 slow memo issue
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **負責人:** Cy Lau
-> **組件:** Payment
 
 ## 問題描述
 

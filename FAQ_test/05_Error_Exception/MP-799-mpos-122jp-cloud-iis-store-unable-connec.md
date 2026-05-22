@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-799: [MPOS-122]JP Cloud IIS store unable connect to Printhub"
 issue_key: MP-799
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-799: [MPOS-122]JP Cloud IIS store unable connect to Printhub
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Tovi Wang
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-983: [CS-1222] - Issue_Not able to Create Polling Point on AWS from Citrix INC2729069/RIN01412759"
 issue_key: BE-983
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-983: [CS-1222] - Issue_Not able to Create Polling Point on AWS from Citrix INC2729069/RIN01412759
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **負責人:** Cy Lau
-> **組件:** polling
 
 ## 問題描述
 

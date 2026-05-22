@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-188: [MMPortal] Process Approve email with space in event ID"
 issue_key: WEB-188
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-188: [MMPortal] Process Approve email with space in event ID
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2020-12-17
-> **負責人:** Joy Li
-> **組件:** Epromo
 
 ## 問題描述
 

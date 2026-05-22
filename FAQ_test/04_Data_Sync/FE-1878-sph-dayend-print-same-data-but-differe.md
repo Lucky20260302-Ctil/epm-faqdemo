@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1878: [SPH] Dayend Print - Same Data but different printout in V72 & V75"
 issue_key: FE-1878
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1878: [SPH] Dayend Print - Same Data but different printout in V72 & V75
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2026-02-11
-> **負責人:** Sang
-> **組件:** Day End
 
 ## 問題描述
 

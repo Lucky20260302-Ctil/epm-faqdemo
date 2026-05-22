@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-709: [Coach][JP] MPOS fail to display entrie Promotion code number"
 issue_key: MP-709
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-709: [Coach][JP] MPOS fail to display entrie Promotion code number
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-07-24
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

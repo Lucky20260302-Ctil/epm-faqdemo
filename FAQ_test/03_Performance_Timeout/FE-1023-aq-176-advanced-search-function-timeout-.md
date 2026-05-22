@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1023: AQ-176: Advanced Search function timeout error message"
 issue_key: FE-1023
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1023: AQ-176: Advanced Search function timeout error message
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2022-06-22
-> **負責人:** Joy Li
-> **組件:** Front End
 
 ## 問題描述
 

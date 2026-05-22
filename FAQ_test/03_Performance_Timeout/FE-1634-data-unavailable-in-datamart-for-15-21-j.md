@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1634: Data Unavailable in Datamart for 15-21 Jan"
 issue_key: FE-1634
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1634: Data Unavailable in Datamart for 15-21 Jan
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2025-04-08
-> **負責人:** Sang
-> **組件:** Front End v720.02
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-514: MPOS use exact search in Memebr Search for all search option (Config control)"
 issue_key: MP-514
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-514: MPOS use exact search in Memebr Search for all search option (Config control)
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-02-11
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

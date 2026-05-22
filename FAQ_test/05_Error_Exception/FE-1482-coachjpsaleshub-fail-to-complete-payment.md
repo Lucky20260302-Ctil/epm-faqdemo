@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1482: [Coach][JP][Saleshub] Fail to complete payment by using reinstated MM coupon"
 issue_key: FE-1482
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1482: [Coach][JP][Saleshub] Fail to complete payment by using reinstated MM coupon
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 9.0
-> **解決日期:** 2024-08-15
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

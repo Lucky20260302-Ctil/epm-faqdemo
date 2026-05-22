@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-458: UI click no response in eCoupon Reminder"
 issue_key: MP-458
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-458: UI click no response in eCoupon Reminder
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2021-07-20
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

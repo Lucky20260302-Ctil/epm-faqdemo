@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-522: eCoupon and MM Coupon cannot apply at the same time"
 issue_key: MP-522
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-522: eCoupon and MM Coupon cannot apply at the same time
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-06-13
-> **組件:** MPOS API
 
 ## 問題描述
 

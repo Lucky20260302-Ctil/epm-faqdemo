@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-712: Coach MY BDO - mpos QR code print out error"
 issue_key: MP-712
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-712: Coach MY BDO - mpos QR code print out error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-10-30
-> **負責人:** Andy Ko
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-903: Payment Module - A920 Integration issue - EPM payment time remain keep loading"
 issue_key: FE-903
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-903: Payment Module - A920 Integration issue - EPM payment time remain keep loading
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-02-22
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

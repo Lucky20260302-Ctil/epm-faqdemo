@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-516: POS cannot display two salesperson codes for the same sales memo"
 issue_key: MP-516
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-516: POS cannot display two salesperson codes for the same sales memo
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-08-18
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

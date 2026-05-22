@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-812: [Coach][MPOS] Add 4 options of New VIP Communication Channel in New member section"
 issue_key: MP-812
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-812: [Coach][MPOS] Add 4 options of New VIP Communication Channel in New member section 
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.0
-> **解決日期:** 2026-05-05
-> **負責人:** Sherman tse
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1781: [BASH] Duplicate credit card no. & name printed in sale memo"
 issue_key: FE-1781
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1781: [BASH] Duplicate credit card no. & name printed in sale memo
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-11-03
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

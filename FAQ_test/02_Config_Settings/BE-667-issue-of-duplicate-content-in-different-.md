@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-667: Issue of Duplicate content in different tabs"
 issue_key: BE-667
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-667: Issue of Duplicate content in different tabs
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-02-20
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

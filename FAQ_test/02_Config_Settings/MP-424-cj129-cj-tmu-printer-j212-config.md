@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-424: CJ#129-CJ TMU printer J212 config"
 issue_key: MP-424
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-424: CJ#129-CJ TMU printer J212 config
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-05-17
-> **負責人:** Joy Li
-> **組件:** Frontend, MPOS
 
 ## 問題描述
 

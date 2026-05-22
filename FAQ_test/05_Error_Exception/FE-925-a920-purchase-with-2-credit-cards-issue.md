@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-925: A920 purchase with 2 credit cards issue"
 issue_key: FE-925
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-925: A920 purchase with 2 credit cards issue
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-03-29
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

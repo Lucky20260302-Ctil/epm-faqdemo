@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1561: RIN01416846 - OCF26 Till0 Open the POS will show the 'TBLSALADY - 字段大小过长' this error"
 issue_key: FE-1561
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1561: RIN01416846 - OCF26 Till0 Open the POS will show the "TBLSALADY - 字段大小过长" this error
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.5
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

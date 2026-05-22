@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-805: [PPR-94]MPOS Transaction unable to post to DB"
 issue_key: MP-805
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-805: [PPR-94]MPOS Transaction unable to post to DB
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 8.5
-> **負責人:** Cy Lau
-> **組件:** MPOS
 
 ## 問題描述
 

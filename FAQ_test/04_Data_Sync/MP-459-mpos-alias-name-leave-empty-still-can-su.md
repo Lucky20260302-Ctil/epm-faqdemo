@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-459: MPOS Alias name leave empty still can submit at start page"
 issue_key: MP-459
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-459: MPOS Alias name leave empty still can submit at start page
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-06-13
-> **負責人:** kingsley_ng
-> **組件:** MPOS
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1041: AQ-171:QA_MPOS:MPOS can not find coupon but CS2000 can find"
 issue_key: FE-1041
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1041: AQ-171:QA_MPOS:MPOS can not find coupon but CS2000 can find
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2021-12-15
-> **負責人:** Yan Wong
-> **組件:** Front End
 
 ## 問題描述
 

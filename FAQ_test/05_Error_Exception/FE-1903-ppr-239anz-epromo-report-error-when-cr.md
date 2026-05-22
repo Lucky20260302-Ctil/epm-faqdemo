@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1903: [PPR-239]ANZ ePromo - Report error when create the coupon"
 issue_key: FE-1903
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1903: [PPR-239]ANZ ePromo - Report error when create the coupon
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **負責人:** Jerry Wong
-> **組件:** Service
 
 ## 問題描述
 

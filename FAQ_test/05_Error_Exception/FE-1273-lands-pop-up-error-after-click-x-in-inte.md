@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1273: [Lands] Pop up error after click 'X' in interface of HKMS 2.0/  HKMS Shop cart / WorkLedger"
 issue_key: FE-1273
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1273: [Lands] Pop up error after click "X" in interface of HKMS 2.0/  HKMS Shop cart / WorkLedger
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

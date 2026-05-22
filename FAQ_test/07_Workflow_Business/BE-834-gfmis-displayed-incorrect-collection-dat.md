@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-834: GFMIS displayed incorrect collection date in cancel order"
 issue_key: BE-834
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-834: GFMIS displayed incorrect collection date in cancel order
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-01-09
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

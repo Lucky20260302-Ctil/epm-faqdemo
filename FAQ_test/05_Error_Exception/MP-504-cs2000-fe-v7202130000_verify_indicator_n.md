@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-504: [CS2000 FE] v72.0213.0000_verify_Indicator_NG"
 issue_key: MP-504
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-504: [CS2000 FE] v72.0213.0000_verify_Indicator_NG
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2021-09-27
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

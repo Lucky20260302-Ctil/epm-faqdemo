@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-833: Enquiry Error"
 issue_key: FE-833
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-833: Enquiry Error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-06-15
-> **負責人:** Sang
-> **組件:** Enquiry
 
 ## 問題描述
 

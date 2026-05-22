@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1383: [CS-939] day end issue caused by dbhist too large"
 issue_key: FE-1383
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1383: [CS-939] day end issue caused by dbhist too large
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-05-24
-> **負責人:** Joy Li
-> **組件:** Day End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-517: [RIN00945074][OC134] Sales Amount variance between POS and MPOS"
 issue_key: MP-517
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-517: [RIN00945074][OC134] Sales Amount variance between POS and MPOS
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 8.0
-> **解決日期:** 2024-11-06
-> **負責人:** Steven Yuen
-> **組件:** MPOS
 
 ## 問題描述
 

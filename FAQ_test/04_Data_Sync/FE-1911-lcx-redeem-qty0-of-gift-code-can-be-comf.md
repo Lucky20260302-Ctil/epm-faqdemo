@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1911: [LCX] Redeem Qty=0 of gift code can be comfirmed when Gift Redeem items summary has other gift code Redeem Qty=1"
 issue_key: FE-1911
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1911: [LCX] Redeem Qty=0 of gift code can be comfirmed when Gift Redeem items summary has other gift code Redeem Qty=1
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2026-04-21
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

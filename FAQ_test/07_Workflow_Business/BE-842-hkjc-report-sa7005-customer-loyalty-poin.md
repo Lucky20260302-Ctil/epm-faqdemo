@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-842: HKJC Report (SA7005) Customer Loyalty Points Burn Report"
 issue_key: BE-842
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-842: HKJC Report (SA7005) Customer Loyalty Points Burn Report
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-09-23
-> **負責人:** Andy Ko
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

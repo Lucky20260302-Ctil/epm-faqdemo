@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1102: POS cannot display two salesperson codes for the same sales memo"
 issue_key: FE-1102
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1102: POS cannot display two salesperson codes for the same sales memo
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **解決日期:** 2022-07-12
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

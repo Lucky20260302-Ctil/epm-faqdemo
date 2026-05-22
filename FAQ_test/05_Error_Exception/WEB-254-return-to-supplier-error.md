@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-254: Return to Supplier Error"
 issue_key: WEB-254
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-254: Return to Supplier Error
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2022-11-30
-> **負責人:** Ken Lam
-> **組件:** Web (CSPlus)
 
 ## 問題描述
 

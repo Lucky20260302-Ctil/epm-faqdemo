@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1756: v75 Bank In Module"
 issue_key: FE-1756
 issue_type: Improvement
 status: Open
@@ -15,10 +16,6 @@ has_images: True
 ---
 
 # FE-1756: v75 Bank In Module
-
-> **類型:** Improvement | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **組件:** Day End
 
 ## 問題描述
 

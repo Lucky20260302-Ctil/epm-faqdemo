@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-792: [MPOS-117]CJ mPOS Prod_ J801 Tax Free indicator issue"
 issue_key: MP-792
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-792: [MPOS-117]CJ mPOS Prod_ J801 Tax Free indicator issue
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 5.5
-> **解決日期:** 2025-08-20
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

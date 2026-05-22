@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1794: [PPR-39] ANZ xconfig Bae file preapre"
 issue_key: FE-1794
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1794: [PPR-39] ANZ xconfig Bae file preapre
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 4.0
-> **解決日期:** 2026-02-11
-> **負責人:** Joy Li
-> **組件:** Config
 
 ## 問題描述
 

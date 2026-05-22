@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1510: IMX void deposit stage didnt change after getting void"
 issue_key: FE-1510
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1510: IMX void deposit stage didnt change after getting void
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-10-24
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

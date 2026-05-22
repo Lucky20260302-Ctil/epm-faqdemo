@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-927: [Coach][CRM milestone 2] BEAPICRM_CN fail to search backend DB when fail to connect CRM api"
 issue_key: BE-927
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-927: [Coach][CRM milestone 2] BEAPICRM_CN fail to search backend DB when fail to connect CRM api
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-11-01
-> **負責人:** Anson Cheung
-> **組件:** API
 
 ## 問題描述
 

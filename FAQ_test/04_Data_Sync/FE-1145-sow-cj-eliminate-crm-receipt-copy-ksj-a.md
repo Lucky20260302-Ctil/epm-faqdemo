@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1145: SOW CJ eliminate CRM Receipt Copy  KSJ add QR Code on receipt footer"
 issue_key: FE-1145
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1145: SOW CJ eliminate CRM Receipt Copy  KSJ add QR Code on receipt footer
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.5
-> **解決日期:** 2022-12-19
-> **負責人:** Joy Li
-> **組件:** Front End v720.02
 
 ## 問題描述
 

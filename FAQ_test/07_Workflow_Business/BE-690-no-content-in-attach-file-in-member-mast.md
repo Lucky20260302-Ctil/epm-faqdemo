@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-690: No content in Attach file in Member Master Maintenance (MF2005)"
 issue_key: BE-690
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-690: No content in Attach file in Member Master Maintenance (MF2005)
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2023-02-20
-> **負責人:** Ken Lam
-> **組件:** Backend (Web)
 
 ## 問題描述
 

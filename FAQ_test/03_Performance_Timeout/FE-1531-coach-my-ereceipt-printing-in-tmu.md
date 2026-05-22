@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1531: Coach MY - ereceipt printing in TMU"
 issue_key: FE-1531
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1531: Coach MY - ereceipt printing in TMU
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 10.0
-> **解決日期:** 2024-12-24
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

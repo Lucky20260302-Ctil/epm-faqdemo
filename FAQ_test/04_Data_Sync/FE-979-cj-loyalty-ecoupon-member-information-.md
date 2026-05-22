@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-979: CJ Loyalty - eCoupon Member Information Screen issue"
 issue_key: FE-979
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-979: CJ Loyalty - eCoupon Member Information Screen issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-08-18
-> **負責人:** howard
-> **組件:** Frontend
 
 ## 問題描述
 

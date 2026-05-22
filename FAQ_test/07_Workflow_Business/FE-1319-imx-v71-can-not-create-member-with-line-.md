@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1319: IMX V71 can not create member with line '34'"
 issue_key: FE-1319
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1319: IMX V71 can not create member with line "34"
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-03-05
-> **組件:** Front End
 
 ## 問題描述
 

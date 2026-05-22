@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-707: API issue, no birthday e-coupon show for this VIP “JXXX0011004851”"
 issue_key: MP-707
 issue_type: Bug QA
 status: Closed
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-707: API issue, no birthday e-coupon show for this VIP “JXXX0011004851”
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-07-24
-> **組件:** MPOS API
 
 ## 問題描述
 

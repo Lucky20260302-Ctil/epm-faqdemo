@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-382: moblic_lastlogin field is not updated after MPOS user login"
 issue_key: MP-382
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-382: moblic_lastlogin field is not updated after MPOS user login
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2022-08-18
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

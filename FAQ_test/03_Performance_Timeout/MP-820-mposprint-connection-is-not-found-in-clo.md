@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-820: MPOSPrint connection is not found in CloudHub"
 issue_key: MP-820
 issue_type: Bug PRD
 status: Release
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # MP-820: MPOSPrint connection is not found in CloudHub
-
-> **類型:** Bug PRD | **狀態:** Release
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.5
-> **負責人:** Sherman tse
-> **組件:** MPOSPrint.exe
 
 ## 問題描述
 

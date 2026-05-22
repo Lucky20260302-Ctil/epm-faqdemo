@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-922: HKJC BJ RTM PIPL MCRM API Changes"
 issue_key: BE-922
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-922: HKJC BJ RTM PIPL MCRM API Changes 
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2025-02-24
-> **負責人:** Sang
-> **組件:** Data Interface
 
 ## 問題描述
 

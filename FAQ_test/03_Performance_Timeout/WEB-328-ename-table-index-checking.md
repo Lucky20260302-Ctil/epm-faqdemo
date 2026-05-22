@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-328: eName Table index checking"
 issue_key: WEB-328
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-328: eName Table index checking
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-07-20
-> **負責人:** Anson Cheung
-> **組件:** eName
 
 ## 問題描述
 

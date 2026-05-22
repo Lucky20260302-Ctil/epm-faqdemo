@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1214: [INC3319642] PRC Posting OSS_B delay"
 issue_key: BE-1214
 issue_type: Bug PRD
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # BE-1214: [INC3319642] PRC Posting OSS_B delay
-
-> **類型:** Bug PRD | **狀態:** Selected for Development (migrated)
-> **分類:** 效能與逾時 | **FAQ 分數:** 9.0
-> **負責人:** Sang
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

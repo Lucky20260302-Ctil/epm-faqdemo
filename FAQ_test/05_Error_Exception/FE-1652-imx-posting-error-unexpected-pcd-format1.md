@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1652: IMX posting error unexpected pcd format'13'"
 issue_key: FE-1652
 issue_type: Bug PRD
 status: Closed
@@ -15,11 +16,6 @@ has_images: True
 ---
 
 # FE-1652: IMX posting error unexpected pcd format"13"
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **負責人:** Jerry Wong
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-353: Cloud Printing error"
 issue_key: MP-353
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-353: Cloud Printing error 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2021-01-29
-> **負責人:** Joy Li
-> **組件:** MPOS API
 
 ## 問題描述
 

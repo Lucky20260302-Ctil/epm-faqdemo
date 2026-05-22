@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-908: Handle Expired Cash Coupon and Change Cash Coupon Value"
 issue_key: FE-908
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-908: Handle Expired Cash Coupon and Change Cash Coupon Value
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-09-25
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

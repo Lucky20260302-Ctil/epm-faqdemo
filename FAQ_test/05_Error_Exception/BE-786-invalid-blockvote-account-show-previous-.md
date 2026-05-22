@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-786: invalid blockvote account show previous account obtained successfully instead of empty"
 issue_key: BE-786
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-786: invalid blockvote account show previous account obtained successfully instead of empty
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-09-07
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

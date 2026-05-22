@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-828: AS2000 and SE8008, top >> navigate to last page doesn't work"
 issue_key: BE-828
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-828: AS2000 and SE8008, top >> navigate to last page doesn't work
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-11-03
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-720: [CS-1179] SalesHub - MPOS after input SN No for selected item, keyboard would not auto hide"
 issue_key: MP-720
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-720: [CS-1179] SalesHub - MPOS after input SN No for selected item, keyboard would not auto hide
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 5.5
-> **解決日期:** 2024-11-06
-> **負責人:** Jason Wu
-> **組件:** MPOS
 
 ## 問題描述
 

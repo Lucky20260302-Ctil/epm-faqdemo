@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-328: SOW of ImagineX - Standard Data Interface modification"
 issue_key: BE-328
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-328: SOW of ImagineX - Standard Data Interface modification
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-12
-> **負責人:** Thomas
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

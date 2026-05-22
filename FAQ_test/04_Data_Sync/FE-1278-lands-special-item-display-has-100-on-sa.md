@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1278: [Lands] Special item display has 100% on sale"
 issue_key: FE-1278
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1278: [Lands] Special item display has 100% on sale 
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **解決日期:** 2023-11-16
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

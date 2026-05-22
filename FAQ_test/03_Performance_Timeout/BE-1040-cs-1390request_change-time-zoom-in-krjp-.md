@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1040: [CS-1390]Request_change time zoom in KR/JP car file to JPT from HKT"
 issue_key: BE-1040
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-1040: [CS-1390]Request_change time zoom in KR/JP car file to JPT from HKT 
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-05-12
-> **負責人:** Jerry Wong
-> **組件:** Data Interface
 
 ## 問題描述
 

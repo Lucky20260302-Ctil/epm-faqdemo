@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1307: Coach E-receipt missing line for 'x'"
 issue_key: FE-1307
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1307: Coach E-receipt missing line for "x" 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-09-23
-> **負責人:** Cy Lau
-> **組件:** Front End
 
 ## 問題描述
 

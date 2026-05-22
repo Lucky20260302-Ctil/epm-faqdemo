@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1360: Enhance member upgrade logic"
 issue_key: FE-1360
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1360: Enhance member upgrade logic 
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2025-02-25
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

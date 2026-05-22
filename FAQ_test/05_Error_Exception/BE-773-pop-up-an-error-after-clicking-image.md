@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-773: Pop up an error after clicking Image"
 issue_key: BE-773
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-773: Pop up an error after clicking Image
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
-> **解決日期:** 2023-06-23
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

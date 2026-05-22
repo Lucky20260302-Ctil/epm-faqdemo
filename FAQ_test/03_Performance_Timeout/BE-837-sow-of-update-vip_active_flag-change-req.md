@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-837: SOW of Update vip_active_flag change request"
 issue_key: BE-837
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-837: SOW of Update vip_active_flag change request
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2024-04-26
-> **負責人:** Bobby
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

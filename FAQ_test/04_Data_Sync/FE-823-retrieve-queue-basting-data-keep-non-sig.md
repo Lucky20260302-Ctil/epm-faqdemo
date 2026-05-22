@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-823: Retrieve Queue Basting data keep Non-sign in Salady code"
 issue_key: FE-823
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-823: Retrieve Queue Basting data keep Non-sign in Salady code
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-11-06
-> **負責人:** Yan Wong
-> **組件:** Frontend
 
 ## 問題描述
 

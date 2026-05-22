@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-130: License Module - MPOS license Logic update"
 issue_key: MP-130
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-130: License Module - MPOS license Logic update
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.5
-> **解決日期:** 2020-05-07
-> **負責人:** Yan Wong
-> **組件:** MPOS
 
 ## 問題描述
 

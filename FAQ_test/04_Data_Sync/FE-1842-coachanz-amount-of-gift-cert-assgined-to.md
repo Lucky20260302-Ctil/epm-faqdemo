@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1842: [Coach][ANZ] Amount of Gift Cert assgined to Mobile POS amount column in Cash drawer tender"
 issue_key: FE-1842
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1842: [Coach][ANZ] Amount of Gift Cert assgined to Mobile POS amount column in Cash drawer tender
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-05-05
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

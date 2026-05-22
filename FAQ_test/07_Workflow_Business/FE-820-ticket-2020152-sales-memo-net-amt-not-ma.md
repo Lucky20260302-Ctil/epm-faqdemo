@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-820: Ticket 2020152 Sales memo net amt not match with payment amount"
 issue_key: FE-820
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-820: Ticket 2020152 Sales memo net amt not match with payment amount
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 流程與業務 | **FAQ 分數:** 7.0
-> **解決日期:** 2022-06-15
-> **負責人:** Sang
-> **組件:** Enquiry, Sales
 
 ## 問題描述
 

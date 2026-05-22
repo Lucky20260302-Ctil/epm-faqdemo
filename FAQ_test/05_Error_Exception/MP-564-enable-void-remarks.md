@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-564: Enable Void remarks"
 issue_key: MP-564
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-564: Enable Void remarks
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2024-07-28
-> **負責人:** Daniel Leung
-> **組件:** MPOS
 
 ## 問題描述
 

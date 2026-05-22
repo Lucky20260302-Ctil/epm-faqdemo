@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1432: [Coach][MY] 'Scan the QR Code to request e-Invoice' should be printed at bottom of the QR code"
 issue_key: FE-1432
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1432: [Coach][MY] "Scan the QR Code to request e-Invoice" should be printed at bottom of the QR code
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.5
-> **解決日期:** 2024-06-27
-> **負責人:** Sherman tse
-> **組件:** Front End
 
 ## 問題描述
 

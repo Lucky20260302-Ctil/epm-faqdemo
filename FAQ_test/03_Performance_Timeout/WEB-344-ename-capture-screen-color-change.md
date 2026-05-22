@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-344: eName Capture Screen Color Change"
 issue_key: WEB-344
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-344: eName Capture Screen Color Change
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2024-08-27
-> **負責人:** Joy Li
-> **組件:** eName
 
 ## 問題描述
 

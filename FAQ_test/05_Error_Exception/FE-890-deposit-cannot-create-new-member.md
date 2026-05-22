@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-890: Deposit cannot create new member"
 issue_key: FE-890
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-890: Deposit cannot create new member
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2020-12-17
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

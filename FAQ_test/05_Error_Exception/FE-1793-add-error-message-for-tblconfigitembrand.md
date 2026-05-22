@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1793: Add error message for tblconfig.ItemBrand='OC' filter out"
 issue_key: FE-1793
 issue_type: Task
 status: Selected for Development (migrated)
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # FE-1793: Add error message for tblconfig.ItemBrand='OC' filter out
-
-> **類型:** Task | **狀態:** Selected for Development (migrated)
-> **分類:** 錯誤與異常 | **FAQ 分數:** 4.0
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1826: [CS-1882] [INC3323035]invalid ID could be registered as salesperson ID on CS2000 when making transaction"
 issue_key: FE-1826
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1826: [CS-1882] [INC3323035]invalid ID could be registered as salesperson ID on CS2000 when making transaction
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **解決日期:** 2026-03-25
-> **負責人:** Sherman tse
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 

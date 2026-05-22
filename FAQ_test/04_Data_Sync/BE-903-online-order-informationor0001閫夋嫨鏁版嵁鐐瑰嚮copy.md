@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-903: Online Order Information(OR0001):选择数据点击Copy时，Order No,仍然能够输入数据，保存后，Order No.里输入的数据被强制更改"
 issue_key: BE-903
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-903: Online Order Information(OR0001):选择数据点击Copy时，Order No,仍然能够输入数据，保存后，Order No.里输入的数据被强制更改
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 6.0
-> **解決日期:** 2025-02-21
-> **負責人:** ryan
-> **組件:** Backend (Web)
 
 ## 問題描述
 

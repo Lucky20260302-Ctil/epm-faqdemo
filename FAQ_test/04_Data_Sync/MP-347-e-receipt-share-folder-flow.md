@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-347: E-receipt share folder flow"
 issue_key: MP-347
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-347: E-receipt share folder flow
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2021-03-29
-> **負責人:** howard
-> **組件:** MPOS
 
 ## 問題描述
 

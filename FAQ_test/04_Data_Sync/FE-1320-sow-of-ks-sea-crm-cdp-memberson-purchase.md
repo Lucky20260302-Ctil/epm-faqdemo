@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1320: SOW of KS SEA CRM CDP (Memberson) Purchase History"
 issue_key: FE-1320
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1320: SOW of KS SEA CRM CDP (Memberson) Purchase History
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-02-19
-> **負責人:** Bobby
-> **組件:** Front End v720.02
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-670: CSPLUS 64Bit License"
 issue_key: FE-670
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-670: CSPLUS 64Bit License
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 安裝與部署 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Frontend
 
 ## 問題描述
 

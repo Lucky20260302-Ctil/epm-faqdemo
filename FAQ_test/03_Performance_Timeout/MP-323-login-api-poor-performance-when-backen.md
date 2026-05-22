@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-323: Login API - Poor performance when backend failure"
 issue_key: MP-323
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-323: Login API - Poor performance when backend failure
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.5
-> **解決日期:** 2020-12-10
-> **負責人:** kingsley_ng
-> **組件:** MPOS API
 
 ## 問題描述
 

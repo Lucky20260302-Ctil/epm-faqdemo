@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1264: [CS-2705] ANZ - Make 'Gender' as optional when create new member"
 issue_key: BE-1264
 issue_type: Bug PRD
 status: Open
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # BE-1264: [CS-2705] ANZ - Make "Gender" as optional when create new member
-
-> **類型:** Bug PRD | **狀態:** Open
-> **分類:** 資料與同步 | **FAQ 分數:** 6.5
-> **負責人:** Cy Lau
-> **組件:** Backend (ChainStorePlus 7.0)
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-1211: [CS-1622] KR PIP AuditLog – WebEnquiry"
 issue_key: BE-1211
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-1211: [CS-1622] KR PIP AuditLog – WebEnquiry
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 5.0
-> **解決日期:** 2025-11-04
-> **負責人:** Joy Li
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1366: [Coach][v75] Day End issue"
 issue_key: FE-1366
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1366: [Coach][v75] Day End issue
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-05-04
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-826: RGM payment transaction duplicated record fix and location code change"
 issue_key: BE-826
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-826: RGM payment transaction duplicated record fix and location code change
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 5.0
-> **解決日期:** 2023-11-02
-> **負責人:** Sherman tse
-> **組件:** Table
 
 ## 問題描述
 

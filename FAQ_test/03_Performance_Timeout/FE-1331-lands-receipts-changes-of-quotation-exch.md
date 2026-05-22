@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1331: [Lands] Receipts changes of Quotation, Exchange, Transfer & DayEnd report"
 issue_key: FE-1331
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1331: [Lands] Receipts changes of Quotation, Exchange, Transfer & DayEnd report
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-01-10
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-488: CN Create new member email without validation"
 issue_key: MP-488
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # MP-488: CN Create new member email without validation
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-09-06
-> **負責人:** howard
-> **組件:** MPOS
 
 ## 問題描述
 

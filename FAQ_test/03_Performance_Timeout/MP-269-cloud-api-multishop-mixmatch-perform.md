@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-269: Cloud API - MultiShop - Mix&Match Performance Issue"
 issue_key: MP-269
 issue_type: Improvement
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # MP-269: Cloud API - MultiShop - Mix&Match Performance Issue
-
-> **類型:** Improvement | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
-> **解決日期:** 2020-11-18
-> **負責人:** Yan Wong
-> **組件:** MPOS API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-733: Tapestry Japan LLC- SOW of SG Marina Bay Sands Sales Interface CR"
 issue_key: BE-733
 issue_type: SOW
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # BE-733: Tapestry Japan LLC- SOW of SG Marina Bay Sands Sales Interface CR
-
-> **類型:** SOW | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 4.0
-> **解決日期:** 2023-08-02
-> **負責人:** Anson Cheung
-> **組件:** Data Interface
 
 ## 問題描述
 

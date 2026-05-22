@@ -1,5 +1,6 @@
 ---
 project: WEB
+title: "WEB-373: [ACU-60] Performance issue for QR code scanning"
 issue_key: WEB-373
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # WEB-373: [ACU-60] Performance issue for QR code scanning
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-12-24
-> **負責人:** Joseph_Hu
-> **組件:** API
 
 ## 問題描述
 

@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1404: disable deposit function by different staff"
 issue_key: FE-1404
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1404: disable deposit function by different staff 
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 設定與配置 | **FAQ 分數:** 6.0
-> **解決日期:** 2024-06-11
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

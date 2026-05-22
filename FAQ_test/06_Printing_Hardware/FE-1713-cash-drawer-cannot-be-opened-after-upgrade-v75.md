@@ -1,5 +1,6 @@
 ---
 project: ERM FEPOS
+title: "FE-1713: [CS-1454] Cash drawer can not be opened after upgrade to V75 - MC region"
 issue_key: FE-1713
 issue_type: Bug PRD
 status: Closed

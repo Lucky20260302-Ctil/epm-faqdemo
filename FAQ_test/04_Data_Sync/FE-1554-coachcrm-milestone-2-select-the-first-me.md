@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1554: [Coach][CRM milestone 2] Select the first member to POS when CRM side return more than one member result"
 issue_key: FE-1554
 issue_type: Bug QA
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1554: [Coach][CRM milestone 2] Select the first member to POS when CRM side return more than one member result
-
-> **類型:** Bug QA | **狀態:** Closed
-> **分類:** 資料與同步 | **FAQ 分數:** 7.0
-> **解決日期:** 2024-11-08
-> **負責人:** Anson Cheung
-> **組件:** Front End
 
 ## 問題描述
 

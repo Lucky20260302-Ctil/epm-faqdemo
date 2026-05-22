@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1017: FE TMU Printing - Add Logo"
 issue_key: FE-1017
 issue_type: Change Request
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1017: FE TMU Printing - Add Logo
-
-> **類型:** Change Request | **狀態:** Closed
-> **分類:** 列印與硬體 | **FAQ 分數:** 4.0
-> **解決日期:** 2024-03-01
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

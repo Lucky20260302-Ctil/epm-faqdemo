@@ -1,5 +1,6 @@
 ---
 project: MP
+title: "MP-797: [MPOS-118]CJ mPOS Prod_ J801 Saved transaction retains old cashier ID after upgrade"
 issue_key: MP-797
 issue_type: Bug PRD
 status: Release
@@ -15,11 +16,6 @@ has_images: False
 ---
 
 # MP-797: [MPOS-118]CJ mPOS Prod_ J801 Saved transaction retains old cashier ID after upgrade
-
-> **類型:** Bug PRD | **狀態:** Release
-> **分類:** 安裝與部署 | **FAQ 分數:** 6.0
-> **負責人:** Sang
-> **組件:** MPOS
 
 ## 問題描述
 

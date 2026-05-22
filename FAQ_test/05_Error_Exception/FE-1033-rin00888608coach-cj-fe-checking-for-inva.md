@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1033: [RIN00888608][Coach CJ] FE checking for Invalid salesperson format 'AA'"
 issue_key: FE-1033
 issue_type: Bug PRD
 status: Closed
@@ -15,12 +16,6 @@ has_images: False
 ---
 
 # FE-1033: [RIN00888608][Coach CJ] FE checking for Invalid salesperson format 'AA'
-
-> **類型:** Bug PRD | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
-> **解決日期:** 2021-12-03
-> **負責人:** Sang
-> **組件:** Front End
 
 ## 問題描述
 

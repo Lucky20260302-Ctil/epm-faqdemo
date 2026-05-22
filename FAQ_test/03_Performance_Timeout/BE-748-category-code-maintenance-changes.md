@@ -1,5 +1,6 @@
 ---
 project: BE
+title: "BE-748: Category Code Maintenance Changes"
 issue_key: BE-748
 issue_type: Task
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # BE-748: Category Code Maintenance Changes
-
-> **類型:** Task | **狀態:** Closed
-> **分類:** 效能與逾時 | **FAQ 分數:** 4.5
-> **解決日期:** 2023-07-26
-> **負責人:** Sherman tse
-> **組件:** Backend (Web)
 
 ## 問題描述
 

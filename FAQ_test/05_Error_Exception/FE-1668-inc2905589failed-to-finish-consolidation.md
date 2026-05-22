@@ -1,5 +1,6 @@
 ---
 project: FE
+title: "FE-1668: [INC2905589]failed to finish consolidation,  it popped up error: Database not exist."
 issue_key: FE-1668
 issue_type: Bug DEV
 status: Closed
@@ -15,12 +16,6 @@ has_images: True
 ---
 
 # FE-1668: [INC2905589]failed to finish consolidation,  it popped up error: Database not exist.
-
-> **類型:** Bug DEV | **狀態:** Closed
-> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
-> **解決日期:** 2025-06-05
-> **負責人:** Sang
-> **組件:** Front End v750.01R01A
 
 ## 問題描述
 
