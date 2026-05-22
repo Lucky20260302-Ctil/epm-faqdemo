@@ -1,0 +1,35 @@
+---
+project: WEB
+issue_key: WEB-25
+issue_type: Task
+status: Closed
+faq_score: 4.5
+faq_category: 07_Workflow_Business
+faq_category_label: 流程與業務
+tags: [faq, web, workflow_business, web-(csplus)]
+jira_url: "https://ctil.atlassian.net/browse/WEB-25"
+created: 2020-06-04
+resolved: 2020-08-14
+resolution: Done
+has_images: False
+---
+
+# WEB-25: csplus - SE1001_Item_Details SQL v66 handling
+
+> **類型:** Task | **狀態:** Closed
+> **分類:** 流程與業務 | **FAQ 分數:** 4.5
+> **解決日期:** 2020-08-14
+> **負責人:** Samuel Ma
+> **組件:** Web (CSPlus)
+
+## 問題描述
+
+v66 DB missing column "itmast_ref_price","itmast_non_refund","itmast_moq","itmast_leadtime" will return empty string for v66
+
+
+
+## 相關資訊
+
+- **Jira:** [WEB-25](https://ctil.atlassian.net/browse/WEB-25)
+- **解決方式:** Done
+- **標籤:** csplus

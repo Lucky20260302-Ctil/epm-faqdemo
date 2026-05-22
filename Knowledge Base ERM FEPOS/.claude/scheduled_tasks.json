@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "id": "d2e5eae2",
+      "cron": "30 9 * * *",
+      "prompt": "## KB Entry Search — Daily Jira Scan\n\nRun this JQL query against the Jira API to find newly resolved tickets that may need troubleshooting knowledge base entries:\n\n```\nproject in (FE, MP, BE) AND status IN (Closed, Release) AND (description ~ \"root cause\" OR description ~ \"solution\" OR description ~ \"fix\")\n```\n\n1. Execute the JQL via the configured Jira API (ctil.atlassian.net, andrew_au@ctil.com)\n2. Check if there are **new tickets** not already documented in `03-Resources/troubleshooting/`\n3. For new tickets, fetch descriptions and comments to evaluate root cause quality\n4. Present findings to the user and ask if they want to create notes\n\nExisting troubleshooting notes: `03-Resources/troubleshooting/`\nMOC index: `03-Resources/troubleshooting/index.md`",
+      "createdAt": 1779284857701,
+      "recurring": true,
+      "createdBySessionId": "6af802f1-dc9f-4476-af31-fa66c04cfea3",
+      "createdByPid": 9655,
+      "createdByProcStart": "Thu May 21 02:17:12 2026",
+      "lastFiredAt": 1779329833565
+    }
+  ]
+}

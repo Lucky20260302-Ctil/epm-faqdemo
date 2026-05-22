@@ -24,6 +24,16 @@ title: ERM 故障排除 FAQ 知識庫
 
 ---
 
+## ERM FEPOS 知識庫
+
+| 分類 | 說明 |
+|------|------|
+| [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/index\|疑難排解]] | FE / BE / MP 疑難排解筆記 |
+| [[Knowledge Base ERM FEPOS/FAQ_by_project/index\|按專案分類 FAQ]] | FE / BE / MP / WEB 專案分類 |
+| [[Knowledge Base ERM FEPOS/FAQ_test/index\|按類型分類 FAQ]] | 安裝、配置、效能、同步、報錯等 10 類 |
+
+---
+
 ## 關於本知識庫
 
 本知識庫從已解決的 Jira 工單中提煉**根因分析**和**解決方案**，旨在：

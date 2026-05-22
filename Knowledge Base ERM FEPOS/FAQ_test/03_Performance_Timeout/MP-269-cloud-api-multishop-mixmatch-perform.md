@@ -1,0 +1,32 @@
+---
+project: MP
+issue_key: MP-269
+issue_type: Improvement
+status: Closed
+faq_score: 4.0
+faq_category: 03_Performance_Timeout
+faq_category_label: 效能與逾時
+tags: [faq, mp, performance_timeout, mpos-api]
+jira_url: "https://ctil.atlassian.net/browse/MP-269"
+created: 2020-09-09
+resolved: 2020-11-18
+resolution: Done
+has_images: False
+---
+
+# MP-269: Cloud API - MultiShop - Mix&Match Performance Issue
+
+> **類型:** Improvement | **狀態:** Closed
+> **分類:** 效能與逾時 | **FAQ 分數:** 4.0
+> **解決日期:** 2020-11-18
+> **負責人:** Yan Wong
+> **組件:** MPOS API
+
+## 問題描述
+
+None
+
+## 相關資訊
+
+- **Jira:** [MP-269](https://ctil.atlassian.net/browse/MP-269)
+- **解決方式:** Done

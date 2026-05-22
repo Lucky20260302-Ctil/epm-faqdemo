@@ -1,0 +1,54 @@
+---
+project: FE
+issue_key: FE-1933
+issue_type: Task
+status: Closed
+faq_score: 7.0
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, fe, error_exception, front-end]
+jira_url: "https://ctil.atlassian.net/browse/FE-1933"
+created: 2026-04-17
+resolved: 2026-04-17
+resolution: Done
+has_images: False
+---
+
+# FE-1933: [CS-2413] Issue_PRC_INC3527055_Posting  OSS_A/ OSS_B/ OSS_C file time delay
+
+> **類型:** Task | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
+> **解決日期:** 2026-04-17
+> **負責人:** Sherman tse
+> **組件:** Front End
+
+## 問題描述
+
+**Issue RCA:**
+
+- During the FE POS day-end process, day-end records (by till) are posted to the BE day-end related tables (dayendh and dayendp).
+
+- As part of this posting, the BE posting task automatically generates the day-end consolidation records in the same BE tables and performs the consolidation calculations.
+
+- In parallel, FE POS Till 0 also generates and uploads Till 0 and consolidation day-end records.
+
+- This results in a duplicate error when the consolidation day-end records are posted.
+
+- While this duplicate error does not impact day-end checking or data correctness, it does negatively affect posting performance, leading to delays.
+
+ 
+
+**Enhancement Plan:**
+
+- A new configuration will be introduced in FE POS to control the generation of day-end consolidation records.
+
+- With the new configuration **“dec” – Day End Consolidation** set to **Y**, till 0 will skip the generation of day-end consolidation records (record types **94** and **95**).
+
+- This change will eliminate the duplicate posting scenario and improve overall posting performance.
+
+
+
+## 相關資訊
+
+- **Jira:** [FE-1933](https://ctil.atlassian.net/browse/FE-1933)
+- **解決方式:** Done

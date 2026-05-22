@@ -1,0 +1,34 @@
+---
+project: MP
+issue_key: MP-550
+issue_type: Bug PRD
+status: Closed
+faq_score: 6.0
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, mp, error_exception, mpos]
+jira_url: "https://ctil.atlassian.net/browse/MP-550"
+created: 2022-09-16
+resolved: 2024-05-15
+resolution: Done
+has_images: False
+---
+
+# MP-550: MPOS Product item state refresh error (SKU: 3334)
+
+> **類型:** Bug PRD | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 6.0
+> **解決日期:** 2024-05-15
+> **負責人:** Daniel Leung
+> **組件:** MPOS
+
+## 問題描述
+
+When the user attempts to add the item (SKU: 3334), the sales memo could not show the price. However, the selling price shows up when the page is refreshed once.
+
+
+
+## 相關資訊
+
+- **Jira:** [MP-550](https://ctil.atlassian.net/browse/MP-550)
+- **解決方式:** Done

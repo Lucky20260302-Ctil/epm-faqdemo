@@ -1,0 +1,37 @@
+---
+project: MP
+issue_key: MP-811
+issue_type: Bug QA
+status: Test in Progress
+faq_score: 6.5
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, mp, error_exception, mpos]
+jira_url: "https://ctil.atlassian.net/browse/MP-811"
+created: 2026-02-12
+resolved: 
+resolution: 
+has_images: True
+---
+
+# MP-811: [ANZ] Insert value in Update_TimeStamp column for [dbTrans].[dbo].[NEW VIP]
+
+> **類型:** Bug QA | **狀態:** Test in Progress
+> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
+> **負責人:** Daniel Leung
+> **組件:** MPOS
+
+## 問題描述
+
+MPOS write new Member information to dbtrans.[New Vip] table have not update mandatory update_timestamp field, as POS help to execute upsert action for MPOS determinated by the update_timestamp field.
+
+> 📎 **image-20260212-042327.png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/7207c0f7-3ffc-4901-8132-675346688cae)（需 Jira 登入）
+
+
+## 附件截圖
+
+1. 📎 **image-20260212-042327.png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/7207c0f7-3ffc-4901-8132-675346688cae)
+
+## 相關資訊
+
+- **Jira:** [MP-811](https://ctil.atlassian.net/browse/MP-811)

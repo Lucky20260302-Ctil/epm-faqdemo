@@ -1,0 +1,42 @@
+---
+project: FE
+issue_key: FE-1608
+issue_type: Bug PRD
+status: Closed
+faq_score: 6.5
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, fe, error_exception, report]
+jira_url: "https://ctil.atlassian.net/browse/FE-1608"
+created: 2025-01-13
+resolved: 
+resolution: 
+has_images: True
+---
+
+# FE-1608: RIN01441233 - OC182 till0 reprint dayend report error,but reprint sales memo normal
+
+> **類型:** Bug PRD | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 6.5
+> **負責人:** Tovi Wang
+> **組件:** report
+
+## 問題描述
+
+1.Restart Spooler Service issue still.
+
+2.OC182 till0 reprint dayend report still.but print sales memo is normal.
+
+> 📎 **image (19).png** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/9afa7df1-fbc5-4c35-8219-1cc2038b03c4)（需 Jira 登入）
+
+> 📎 **222222222222222.PNG** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/93a245a1-ddc2-4aec-82d9-8df486b943ca)（需 Jira 登入）
+
+
+## 附件截圖
+
+1. 📎 **image (19).png** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/9afa7df1-fbc5-4c35-8219-1cc2038b03c4)
+2. 📎 **222222222222222.PNG** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/93a245a1-ddc2-4aec-82d9-8df486b943ca)
+
+## 相關資訊
+
+- **Jira:** [FE-1608](https://ctil.atlassian.net/browse/FE-1608)

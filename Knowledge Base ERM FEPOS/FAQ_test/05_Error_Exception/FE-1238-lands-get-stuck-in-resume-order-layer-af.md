@@ -1,0 +1,53 @@
+---
+project: FE
+issue_key: FE-1238
+issue_type: Bug QA
+status: Closed
+faq_score: 7.0
+faq_category: 05_Error_Exception
+faq_category_label: 錯誤與異常
+tags: [faq, fe, error_exception, front-end-v760.01r01a]
+jira_url: "https://ctil.atlassian.net/browse/FE-1238"
+created: 2023-05-10
+resolved: 2023-05-11
+resolution: Done
+has_images: True
+---
+
+# FE-1238: [Lands] Get stuck in Resume Order layer after inputed specific number
+
+> **類型:** Bug QA | **狀態:** Closed
+> **分類:** 錯誤與異常 | **FAQ 分數:** 7.0
+> **解決日期:** 2023-05-11
+> **負責人:** Sang
+> **組件:** front end v760.01R01A
+
+## 問題描述
+
+Reproduce steps:
+
+1. Apply a member  ID: [123456789012345678901234567890@ABC.COM](mailto:123456789012345678901234567890@ABC.COM)
+
+2. Make suspand transaction
+
+3. To  Resume order layer
+
+4. Input 12345678 into serarch field & press Enter
+
+Exsitng result:
+
+Pop up an error & Get stuck in Resume Order layer after inputed 12345678
+
+ 
+
+> 📎 **image** — [查看附件](https://ctil.atlassian.net/rest/api/3/attachment/content/7b3e416c-aa3d-45f6-9a3a-244fe6cbaff0)（需 Jira 登入）
+
+
+## 附件截圖
+
+1. 📎 **image** — [在 Jira 查看](https://ctil.atlassian.net/rest/api/3/attachment/content/7b3e416c-aa3d-45f6-9a3a-244fe6cbaff0)
+
+## 相關資訊
+
+- **Jira:** [FE-1238](https://ctil.atlassian.net/browse/FE-1238)
+- **解決方式:** Done
