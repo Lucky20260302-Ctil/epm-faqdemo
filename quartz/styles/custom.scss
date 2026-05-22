@@ -565,10 +565,146 @@ img {
   .category-grid {
     grid-template-columns: 1fr;
   }
+
+  .site-header .header-nav {
+    overflow-x: auto;
+    gap: 0;
+  }
+
+  .center > article {
+    max-width: 100%;
+    padding: 0 0.5rem;
+  }
+
+  .table-container {
+    font-size: 0.75rem;
+  }
+
+  th, td {
+    padding: 0.35rem 0.5rem;
+  }
 }
 
-@container (max-width: 800px) {
-  .category-grid {
-    grid-template-columns: 1fr;
+/* ---- FAQ Index Table (Category Pages) ---- */
+
+/* Striped rows for category index tables */
+article table tr:nth-child(even) {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+:root[saved-theme="dark"] article table tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+/* Project badge in table cells */
+.project-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 650;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  letter-spacing: 0.04em;
+}
+
+/* ---- List Page (Tag/Folder) Improvements ---- */
+
+.page-listing {
+  display: grid;
+  gap: 0.4rem;
+}
+
+.page-listing > li {
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  padding: 0.6rem 0.9rem;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  list-style: none;
+}
+
+.page-listing > li:hover {
+  border-color: var(--secondary);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+/* ---- Article Content Polish ---- */
+
+/* Better spacing for FAQ sections */
+article h2 + * {
+  margin-top: 0.4rem;
+}
+
+/* Related info section */
+article h2:last-of-type {
+  margin-top: 2.5rem;
+}
+
+/* Jira link styling */
+article a[href*="atlassian.net"]::after {
+  content: " ↗";
+  font-size: 0.7em;
+  opacity: 0.5;
+}
+
+/* ---- Enhanced Footer ---- */
+
+footer {
+  font-size: 0.78rem;
+  color: var(--gray);
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--lightgray);
+  margin-top: 3rem;
+  text-align: center;
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+  margin-bottom: 0.5rem;
+}
+
+footer a {
+  color: var(--gray);
+  font-weight: 500;
+  transition: color 0.18s ease;
+}
+
+footer a:hover {
+  color: var(--secondary);
+}
+
+/* ---- Mobile Sidebar ---- */
+
+@media all and (max-width: 800px) {
+  .left.sidebar {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.8rem;
   }
+
+  .explorer {
+    width: 100%;
+    order: 10;
+  }
+
+  .search {
+    flex: 1;
+    min-width: 150px;
+  }
+}
+
+/* ---- Smooth Page Load ---- */
+
+#quartz-root {
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
 }
