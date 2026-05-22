@@ -1,370 +1,83 @@
 ---
-tags: [moc, faq, index, config_settings]
-updated: 2026-05-21
+tags: [moc, faq, index]
+title: "配置與設定 — FAQ 索引"
+updated: 2026-05-22
 ---
 
-# 設定與配置 FAQ
+# 配置與設定
 
-> 共 **343** 筆 FAQ 筆記
+> 自動生成索引 · 69 篇 FAQ
 
-## 📋 筆記清單
+| # | 問題 |
+|---|------|
+| 1 | [[BE-1020-birthday-format-difference-hk-cn|BE-1020: Difference birthday format between HK and CN]] |
+| 2 | [[BE-1020-coachpos-difference-birthday-formart-between-hk-an|BE-1020-coachpos-difference-birthday-formart-between-hk-an]] |
+| 3 | [[BE-1248-be-configurations-of-modules-info-gather|BE-1248: [BE] Configurations of Modules info gathering]] |
+| 4 | [[BE-503-disable-ecoupon-number-must-start-with-a|BE-503: Disable ecoupon number must start with alphabetic setting]] |
+| 5 | [[BE-667-issue-of-duplicate-content-in-different-|BE-667: Issue of Duplicate content in different tabs]] |
+| 6 | [[BE-672-show-blank-page-after-click-coupon-vouc|BE-672: Show blank page after Click  Coupon Voucher Enquiry (se8007)]] |
+| 7 | [[BE-695-no-tick-in-button-of-show-hide-reorder-c|BE-695: No 'tick' in Button of Show/ Hide/ Reorder Columns]] |
+| 8 | [[BE-758-lands-e-receipt-template-add-new-fields|BE-758: Lands e-Receipt Template add new fields]] |
+| 9 | [[EPMTDCPROT-1971-開標階段-technical-compliance-check-的-label-顯示錯誤及-default-value|EPMTDCPROT-1971-開標階段-technical-compliance-check-的-label-顯示錯誤及-default-value]] |
+| 10 | [[FE-1000-printcharsetcode-xconfig-for-cn-print|FE-1000: PRINTCHARSETCODE xconfig for CN print]] |
+| 11 | [[FE-1044-aq-17-pos-system-will-not-check-the-vip_|FE-1044: AQ-17: POS system will NOT check the vip_join_date even Config “tblconfig.EnableStaffEffectiveDate” set as “Y”]] |
+| 12 | [[FE-1188-bash-create-dotnet-print-cr-library|FE-1188: BASH - Create DotNet Print CR Library]] |
+| 13 | [[FE-1196-new-member-default-member-type|FE-1196: New Member Default Member Type]] |
+| 14 | [[FE-1197-front-end-coupon-table-house-keeping|FE-1197: Front End Coupon  Table House Keeping]] |
+| 15 | [[FE-1227-bypass-consolidate-day-end-if-has-missin|FE-1227: Bypass Consolidate Day End if Has missing till Information]] |
+| 16 | [[FE-1282-lands-button-of-octopus-display-as-dimme|FE-1282: [Lands] Button of Octopus display as dimmed]] |
+| 17 | [[FE-1283-lands-config-of-ocl-nrr-doesnt-auto-crea|FE-1283: [Lands] Config of OCL NRR doesn't auto created]] |
+| 18 | [[FE-1292-imx-nation-ue-wrror|FE-1292: IMX Nation UE wrror]] |
+| 19 | [[FE-1323-lands-add-cases-sensitive-for-landswebvi|FE-1323: [Lands] Add cases sensitive for LandswebviewerURL config]] |
+| 20 | [[FE-1351-coach_hk_rounding-setting-are-different-|FE-1351: Coach_HK_Rounding setting are different between POS and Mpos]] |
+| 21 | [[FE-1404-disable-deposit-function-by-different-st|FE-1404: disable deposit function by different staff]] |
+| 22 | [[FE-1440-hkjc-rems-member-search-in-offline-mode-will-resul|FE-1440-hkjc-rems-member-search-in-offline-mode-will-resul]] |
+| 23 | [[FE-1491-pos-sales-enquiry-extend-item-no-column-|FE-1491: POS Sales Enquiry extend Item No. column width]] |
+| 24 | [[FE-1492-v75_my_rin01372901_cs2000-emp-vip-staff-info-does-|FE-1492-v75_my_rin01372901_cs2000-emp-vip-staff-info-does-]] |
+| 25 | [[FE-1493-v75-cash-drawer-value-in-poslog-table-is-incorrect|FE-1493-v75-cash-drawer-value-in-poslog-table-is-incorrect]] |
+| 26 | [[FE-1550-rin01414514-my-ocf77-miss-dayend-info-|FE-1550: RIN01414514-MY - OCF77-miss dayend info in the acp file]] |
+| 27 | [[FE-1638-cs-1372-not-able-to-receive-ecom-sales-import-aler|FE-1638-cs-1372-not-able-to-receive-ecom-sales-import-aler]] |
+| 28 | [[FE-1655-user-can-still-login-to-pos-even-his-account-is-no|FE-1655-user-can-still-login-to-pos-even-his-account-is-no]] |
+| 29 | [[FE-1670-cs-1403-unable-to-send-ereceipt-jp-cs2k-v750041200|FE-1670-cs-1403-unable-to-send-ereceipt-jp-cs2k-v750041200]] |
+| 30 | [[FE-1680-coachcrm-r12a-havent-call-upsert-api-after-issue-a|FE-1680-coachcrm-r12a-havent-call-upsert-api-after-issue-a]] |
+| 31 | [[FE-1735-acu-222dynamic-qr-code-should-be-enabled|FE-1735: [ACU-222]Dynamic QR Code should be enabled for MLC only]] |
+| 32 | [[FE-1748-cs-1592-iusse_v75_not-able-to-enable-til|FE-1748: CS-1592 Iusse_V75_not able to Enable TillA and TillB in V75]] |
+| 33 | [[FE-1794-ppr-39-anz-xconfig-bae-file-preapre|FE-1794: [PPR-39] ANZ xconfig Bae file preapre]] |
+| 34 | [[FE-1813-ppr-72-disable-gain-for-return|FE-1813: PPR-72: Disable Gain for return]] |
+| 35 | [[FE-1854-inc3394928-ksfa241-issues-with-sending-email-recei|FE-1854-inc3394928-ksfa241-issues-with-sending-email-recei]] |
+| 36 | [[FE-1882-anz-incorrect-amount-of-change-after-apply-roundin|FE-1882-anz-incorrect-amount-of-change-after-apply-roundin]] |
+| 37 | [[FE-1924-imx-dtutil-db-login-connection-string-en|FE-1924: IMX Dtutil DB login connection string enhance]] |
+| 38 | [[FE-1935-fe-configurations-of-fepos-modules-info-|FE-1935: [FE] Configurations of FEPOS modules info gathering]] |
+| 39 | [[FE-672-lcx-dotnet-print-receipt-dayend|FE-672: LCX DotNet Print Receipt / DayEnd]] |
+| 40 | [[FE-774-mm-not-working-when-enabled-mix_cachehit|FE-774: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition]] |
+| 41 | [[FE-802-mm-not-working-when-enabled-mix_cachehit|FE-802: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition]] |
+| 42 | [[FE-809-get-tblconfigdotnetdayend-set-default-va|FE-809: Get tblconfig.DotnetDayend set default value to 'N']] |
+| 43 | [[FE-826-fail-to-use-auto-create-member-function-after-pos-|FE-826-fail-to-use-auto-create-member-function-after-pos-]] |
+| 44 | [[FE-899-quick-restart-alert-|FE-899: Quick Restart alert]] |
+| 45 | [[FE-946-xconfig-auto-rollback|FE-946: xconfig auto rollback]] |
+| 46 | [[FE-968-click-search-member-result-but-return-to-same-page|FE-968-click-search-member-result-but-return-to-same-page]] |
+| 47 | [[FE-989-rin00726874-ocf23-user-called-till0-not-|FE-989: [RIN00726874] OCF23 User called till0 not able to click on finish when doing bankcard payment]] |
+| 48 | [[FE-990-cn-print-in-english|FE-990: CN Print in english]] |
+| 49 | [[FE-998-pos-autoshutdown-exe-not-functioning|FE-998: POS AutoShutdown exe not functioning]] |
+| 50 | [[FE-999-cs2kconnect-ini-empty|FE-999: cs2kconnect ini empty]] |
+| 51 | [[MP-281-ipad-sales-04|MP-281: iPad Sales - 04]] |
+| 52 | [[MP-312-disable-pdf-printer-xps-printer-for-def|MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer]] |
+| 53 | [[MP-372-member-search-search-ordering-enhance|MP-372: Member Search search & ordering Enhance]] |
+| 54 | [[MP-380-cn-print-preview-display-english-layout-|MP-380: CN-print preview display English layout]] |
+| 55 | [[MP-424-cj129-cj-tmu-printer-j212-config|MP-424: CJ#129-CJ TMU printer J212 config]] |
+| 56 | [[MP-518-sow-of-coach-cn-mpos-zebra-mini-printer|MP-518: SOW of Coach CN MPOS Zebra Mini Printer]] |
+| 57 | [[MP-559-mpos-missing-the-communication-option-in|MP-559: Mpos missing the communication Option in create VIP form when the config set NVIPINPUTCOMMOPT='y']] |
+| 58 | [[MP-576-enable-vip-input-address|MP-576: Enable VIP input address]] |
+| 59 | [[MP-719-cs-1176-v75-after-enable-saleshub-mpos|MP-719: [CS-1176] v75 - After enable SalesHub, MPOS no pop-up window 'Do you want to select E-Coupon' in payment page]] |
+| 60 | [[MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search|MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search]] |
+| 61 | [[MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-|MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-]] |
+| 62 | [[MP-747-purchase-history-unavailable-cn-region|MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member]] |
+| 63 | [[MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind|MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind]] |
+| 64 | [[MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l|MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l]] |
+| 65 | [[MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta|MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta]] |
+| 66 | [[WEB-190-disable-the-input-field-of-home-no-and-m|WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry]] |
+| 67 | [[WEB-197-sow-of-enable-couple-option-in-customer-|WEB-197: SOW of Enable Couple Option in Customer Gender and email 2 in e Name]] |
+| 68 | [[WEB-339-cs-883-issue_bonus-point-on-cs2000web-is|WEB-339: [CS-883] issue_bonus point on CS2000web is incorrect]] |
+| 69 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for]] |
 
-### ?? (1 筆)
-
-- [[02_Config_Settings/index|index]] — index.md (分數: ?)
-
-### Backend (84 筆)
-
-- [[02_Config_Settings/BE-1007-sg-qa-mpos打开sales-界面的时候出现报错fail-to-conne|BE-1007]] — 1007 sg qa mpos打开sales 界面的时候出现报错fail to conne (分數: 9.5)
-- [[02_Config_Settings/BE-1016-cs-1380-ksg555-00002320-not-send-to-geo|BE-1016]] — 1016 cs 1380 ksg555 00002320 not send to geo (分數: 5.0)
-- [[02_Config_Settings/BE-1020-coachpos-difference-birthday-formart-bet|BE-1020]] — 1020 coachpos difference birthday formart bet (分數: 7.5)
-- [[02_Config_Settings/BE-1035-acu-128improved-token-retrieval-mechanis|BE-1035]] — 1035 acu 128improved token retrieval mechanis (分數: 4.0)
-- [[02_Config_Settings/BE-1039-acu-127offloading-the-upsert-process-to-|BE-1039]] — 1039 acu 127offloading the upsert process to (分數: 7.0)
-- [[02_Config_Settings/BE-1044-get-tillid-field-from-config-value|BE-1044]] — 1044 get tillid field from config value (分數: 6.0)
-- [[02_Config_Settings/BE-1047-20250408-after-setting-the-schedule-task|BE-1047]] — 1047 20250408 after setting the schedule task (分數: 6.0)
-- [[02_Config_Settings/BE-1060-cs-1416-issue_cn_crm-api-met-503-error-o|BE-1060]] — 1060 cs 1416 issue_cn_crm api met 503 error o (分數: 9.5)
-- [[02_Config_Settings/BE-1066-inc2961835-sg-store-oc554-retrieve-04-17|BE-1066]] — 1066 inc2961835 sg store oc554 retrieve 04 17 (分數: 8.5)
-- [[02_Config_Settings/BE-1072-net-framework-and-net-runtimecore-upgrad|BE-1072]] — 1072 net framework and net runtimecore upgrad (分數: 7.5)
-- [[02_Config_Settings/BE-1097-coach-netframework-48-coach-programs|BE-1097]] — 1097 coach netframework 48 coach programs (分數: 6.0)
-- [[02_Config_Settings/BE-1137-cs-1462need-raise-tn-ref-number-from-8-d|BE-1137]] — 1137 cs 1462need raise tn ref number from 8 d (分數: 4.0)
-- [[02_Config_Settings/BE-1141-cs-1452issue_prc_oss-polling-delay-issue|BE-1141]] — 1141 cs 1452issue_prc_oss polling delay issue (分數: 9.0)
-- [[02_Config_Settings/BE-1153-cs-1371-testing-schedule-for-sql-server-|BE-1153]] — 1153 cs 1371 testing schedule for sql server (分數: 7.0)
-- [[02_Config_Settings/BE-1155-cs-1529-enable-oss-for-hkmo-dtutil2|BE-1155]] — 1155 cs 1529 enable oss for hkmo dtutil2 (分數: 4.0)
-- [[02_Config_Settings/BE-1172-cs-1628-tw-crm-profile-and-purchase-hist|BE-1172]] — 1172 cs 1628 tw crm profile and purchase hist (分數: 9.0)
-- [[02_Config_Settings/BE-1185-generate-pcd-files-for-zzbhkg04|BE-1185]] — 1185 generate pcd files for zzbhkg04 (分數: 5.5)
-- [[02_Config_Settings/BE-1192-cs-1787-new-sales-export-interface-for-r|BE-1192]] — 1192 cs 1787 new sales export interface for r (分數: 8.0)
-- [[02_Config_Settings/BE-1196-setup-coach-au-20-in-8-backend|BE-1196]] — 1196 setup coach au 20 in 8 backend (分數: 4.5)
-- [[02_Config_Settings/BE-1204-cs-1544addition-fields-6364-for-car|BE-1204]] — 1204 cs 1544addition fields 6364 for car (分數: 8.0)
-- [[02_Config_Settings/BE-1213-cs-1545-sow-of-item-master-data-import-c|BE-1213]] — 1213 cs 1545 sow of item master data import c (分數: 8.0)
-- [[02_Config_Settings/BE-1215-backend-member-posting-default-opt-out-|BE-1215]] — 1215 backend member posting default opt out (分數: 7.0)
-- [[02_Config_Settings/BE-1216-cs-1875-inc3321031inc3332412prc-posting-|BE-1216]] — 1216 cs 1875 inc3321031inc3332412prc posting (分數: 5.5)
-- [[02_Config_Settings/BE-1221-cs-1916-posting-is-not-working-for-aws-r|BE-1221]] — 1221 cs 1916 posting is not working for aws r (分數: 10.0)
-- [[02_Config_Settings/BE-1222-memeberson-ksj_crmexe-exceulde-employee-|BE-1222]] — 1222 memeberson ksj_crmexe exceulde employee (分數: 5.0)
-- [[02_Config_Settings/BE-1223-anzmf2007-csplus_updatepriceexe|BE-1223]] — 1223 anzmf2007 csplus_updatepriceexe (分數: 7.5)
-- [[02_Config_Settings/BE-1226-after-created-multiple-credit-card-the-r|BE-1226]] — 1226 after created multiple credit card the r (分數: 6.5)
-- [[02_Config_Settings/BE-1227-the-indicator-has-d-which-is-not-been-me|BE-1227]] — 1227 the indicator has d which is not been me (分數: 5.5)
-- [[02_Config_Settings/BE-1228-cj-dsa-displays-retail-price-instead-of-|BE-1228]] — 1228 cj dsa displays retail price instead of (分數: 8.5)
-- [[02_Config_Settings/BE-1231-cs-1881-issue_ksmy_missing-transactions-|BE-1231]] — 1231 cs 1881 issue_ksmy_missing transactions (分數: 7.0)
-- [[02_Config_Settings/BE-1236-cs-2668ppr-235-new-request-store-code-lo|BE-1236]] — 1236 cs 2668ppr 235 new request store code lo (分數: 7.5)
-- [[02_Config_Settings/BE-1237-cs-2219co-au-db-is-printing-only-the-fir|BE-1237]] — 1237 cs 2219co au db is printing only the fir (分數: 9.0)
-- [[02_Config_Settings/BE-1241-beapicoachjp-jp-sfcc-integration-|BE-1241]] — 1241 beapicoachjp jp sfcc integration (分數: 6.0)
-- [[02_Config_Settings/BE-1248-be-configurations-of-modules-info-gather|BE-1248]] — 1248 be configurations of modules info gather (分數: 4.0)
-- [[02_Config_Settings/BE-1257-installer-prepare-program-installation-p|BE-1257]] — 1257 installer prepare program installation p (分數: 5.0)
-- [[02_Config_Settings/BE-1261-price-checker-api-new-configuration-to-h|BE-1261]] — 1261 price checker api new configuration to h (分數: 8.5)
-- [[02_Config_Settings/BE-1264-cs-2705-anz-make-gender-as-optional-when|BE-1264]] — 1264 cs 2705 anz make gender as optional when (分數: 8.5)
-- [[02_Config_Settings/BE-1265-cs-2757omnihub-omni-hub-cs2k-integration|BE-1265]] — 1265 cs 2757omnihub omni hub cs2k integration (分數: 7.0)
-- [[02_Config_Settings/BE-313-enable-msmq-for-mpos|BE-313]] — 313 enable msmq for mpos (分數: 4.0)
-- [[02_Config_Settings/BE-498-sow-of-enable-couple-option-in-customer-|BE-498]] — 498 sow of enable couple option in customer (分數: 5.0)
-- [[02_Config_Settings/BE-500-thank-you-card-v70-issue|BE-500]] — 500 thank you card v70 issue (分數: 7.5)
-- [[02_Config_Settings/BE-503-disable-ecoupon-number-must-start-with-a|BE-503]] — 503 disable ecoupon number must start with a (分數: 6.5)
-- [[02_Config_Settings/BE-505-vip-master-import-define-attribute-db-up|BE-505]] — 505 vip master import define attribute db up (分數: 8.5)
-- [[02_Config_Settings/BE-514-cj-loyalty-part-2-enable-vip-standard-im|BE-514]] — 514 cj loyalty part 2 enable vip standard im (分數: 7.5)
-- [[02_Config_Settings/BE-539-change-standard-interface-commit-value|BE-539]] — 539 change standard interface commit value (分數: 7.0)
-- [[02_Config_Settings/BE-666-issue-of-pop-an-api-error-after-enter-in|BE-666]] — 666 issue of pop an api error after enter in (分數: 10.0)
-- [[02_Config_Settings/BE-667-issue-of-duplicate-content-in-different-|BE-667]] — 667 issue of duplicate content in different (分數: 6.0)
-- [[02_Config_Settings/BE-668-issue-of-keep-loading-in-env-101|BE-668]] — 668 issue of keep loading in env 101 (分數: 6.0)
-- [[02_Config_Settings/BE-670-issue-of-pop-an-api-error-in-env-101|BE-670]] — 670 issue of pop an api error in env 101 (分數: 10.0)
-- [[02_Config_Settings/BE-672-show-blank-page-after-click-coupon-vouch|BE-672]] — 672 show blank page after click coupon vouch (分數: 7.5)
-- [[02_Config_Settings/BE-676-supplier-code-used-incorrect-words-limit|BE-676]] — 676 supplier code used incorrect words limit (分數: 6.0)
-- [[02_Config_Settings/BE-680-position-of-aging-code-field-is-incorrec|BE-680]] — 680 position of aging code field is incorrec (分數: 6.0)
-- [[02_Config_Settings/BE-681-cannot-display-other-possible-options-af|BE-681]] — 681 cannot display other possible options af (分數: 8.5)
-- [[02_Config_Settings/BE-682-field-of-order-type-used-incorrect-words|BE-682]] — 682 field of order type used incorrect words (分數: 6.5)
-- [[02_Config_Settings/BE-685-online-order-information-used-incorrect-|BE-685]] — 685 online order information used incorrect (分數: 7.0)
-- [[02_Config_Settings/BE-694-translation-issue|BE-694]] — 694 translation issue (分數: 10.0)
-- [[02_Config_Settings/BE-695-no-tick-in-button-of-show-hide-reorder-c|BE-695]] — 695 no tick in button of show hide reorder c (分數: 6.0)
-- [[02_Config_Settings/BE-717-translation-issue-on-1721613855-invaild|BE-717]] — 717 translation issue on 1721613855 invaild (分數: 10.0)
-- [[02_Config_Settings/BE-718-clone-translation-issue|BE-718]] — 718 clone translation issue (分數: 10.0)
-- [[02_Config_Settings/BE-719-translation-issue-on-1721613855|BE-719]] — 719 translation issue on 1721613855 (分數: 10.0)
-- [[02_Config_Settings/BE-723-add-a-release-version-number-at-the-bott|BE-723]] — 723 add a release version number at the bott (分數: 4.0)
-- [[02_Config_Settings/BE-727-implement-multiple-file-handler-for-land|BE-727]] — 727 implement multiple file handler for land (分數: 4.5)
-- [[02_Config_Settings/BE-736-item-master-maintenance-mf0001-define-pu|BE-736]] — 736 item master maintenance mf0001 define pu (分數: 6.5)
-- [[02_Config_Settings/BE-741-data-cleansing-for-my-and-sg-coach|BE-741]] — 741 data cleansing for my and sg coach (分數: 8.0)
-- [[02_Config_Settings/BE-743-implement-hkjc-e-receipt-notification-mo|BE-743]] — 743 implement hkjc e receipt notification mo (分數: 5.0)
-- [[02_Config_Settings/BE-755-sync-pos-data-to-rgm-database|BE-755]] — 755 sync pos data to rgm database (分數: 5.5)
-- [[02_Config_Settings/BE-758-lands-e-receipt-template-add-new-fields|BE-758]] — 758 lands e receipt template add new fields (分數: 5.0)
-- [[02_Config_Settings/BE-763-ks-sea-crm-memberson-cdp-backend-sale-jo|BE-763]] — 763 ks sea crm memberson cdp backend sale jo (分數: 8.0)
-- [[02_Config_Settings/BE-764-please-note-all-the-database-changes-for|BE-764]] — 764 please note all the database changes for (分數: 5.0)
-- [[02_Config_Settings/BE-770-copy-lands-database-to-our-dev-database-|BE-770]] — 770 copy lands database to our dev database (分數: 5.0)
-- [[02_Config_Settings/BE-776-cs-595chinese-character-in-store-address|BE-776]] — 776 cs 595chinese character in store address (分數: 7.5)
-- [[02_Config_Settings/BE-812-gfmis-2023-oct-05-changes|BE-812]] — 812 gfmis 2023 oct 05 changes (分數: 5.5)
-- [[02_Config_Settings/BE-822-tapestry-rfp-demo-preparation|BE-822]] — 822 tapestry rfp demo preparation (分數: 5.0)
-- [[02_Config_Settings/BE-823-tapestry-rfp-demo-environment-bug-fix|BE-823]] — 823 tapestry rfp demo environment bug fix (分數: 4.5)
-- [[02_Config_Settings/BE-832-rgm-changes-map-location-code-to-the-lan|BE-832]] — 832 rgm changes map location code to the lan (分數: 4.0)
-- [[02_Config_Settings/BE-845-lands-limit-40-characters-for-remark-fie|BE-845]] — 845 lands limit 40 characters for remark fie (分數: 6.5)
-- [[02_Config_Settings/BE-858-cs-1006-issue_staff-member-purchase-issu|BE-858]] — 858 cs 1006 issue_staff member purchase issu (分數: 7.5)
-- [[02_Config_Settings/BE-880-prorunner-duplicate-grn-posting|BE-880]] — 880 prorunner duplicate grn posting (分數: 6.5)
-- [[02_Config_Settings/BE-901-item-master-bugs|BE-901]] — 901 item master bugs (分數: 8.5)
-- [[02_Config_Settings/BE-924-coachcrm-milestone-2-mapping-issue-of-me|BE-924]] — 924 coachcrm milestone 2 mapping issue of me (分數: 10.0)
-- [[02_Config_Settings/BE-926-coachcrm-milestone-2-webview-of-purchase|BE-926]] — 926 coachcrm milestone 2 webview of purchase (分數: 8.0)
-- [[02_Config_Settings/BE-949-cs-1130-issue_prc_mastconv-job-is-not-ab|BE-949]] — 949 cs 1130 issue_prc_mastconv job is not ab (分數: 6.0)
-- [[02_Config_Settings/BE-974-acu-86-timeout-issue-cause-pos-data-not-|BE-974]] — 974 acu 86 timeout issue cause pos data not (分數: 7.5)
-- [[02_Config_Settings/BE-988-cs-1323-01-15-9-cn-v75-pilot-store-cant-|BE-988]] — 988 cs 1323 01 15 9 cn v75 pilot store cant (分數: 8.5)
-
-### Frontend (165 筆)
-
-- [[02_Config_Settings/FE-1000-printcharsetcode-xconfig-for-cn-print|FE-1000]] — 1000 printcharsetcode xconfig for cn print (分數: 6.0)
-- [[02_Config_Settings/FE-1013-member-panel-validate-for-invalid-member|FE-1013]] — 1013 member panel validate for invalid member (分數: 6.0)
-- [[02_Config_Settings/FE-1021-ecr-config-cannot-auto-create|FE-1021]] — 1021 ecr config cannot auto create (分數: 6.0)
-- [[02_Config_Settings/FE-1044-aq-17-pos-system-will-not-check-the-vip_|FE-1044]] — 1044 aq 17 pos system will not check the vip_ (分數: 6.5)
-- [[02_Config_Settings/FE-1106-fail-to-write-tax-information-in-auto-en|FE-1106]] — 1106 fail to write tax information in auto en (分數: 9.5)
-- [[02_Config_Settings/FE-1107-a920-octopus-payme|FE-1107]] — 1107 a920 octopus payme (分數: 8.0)
-- [[02_Config_Settings/FE-1111-sow-for-scan-save-nike-qr-code|FE-1111]] — 1111 sow for scan save nike qr code (分數: 5.5)
-- [[02_Config_Settings/FE-1123-coach-item-sales-amount-payment-amount-v|FE-1123]] — 1123 coach item sales amount payment amount v (分數: 9.0)
-- [[02_Config_Settings/FE-1124-j812-cash-denomination-missing|FE-1124]] — 1124 j812 cash denomination missing (分數: 7.0)
-- [[02_Config_Settings/FE-1125-add-registration-number-on-sales-receipt|FE-1125]] — 1125 add registration number on sales receipt (分數: 5.5)
-- [[02_Config_Settings/FE-1158-mpos-cannot-complete-the-sales-transacti|FE-1158]] — 1158 mpos cannot complete the sales transacti (分數: 10.0)
-- [[02_Config_Settings/FE-1162-disable-cancel-giftcert|FE-1162]] — 1162 disable cancel giftcert (分數: 6.0)
-- [[02_Config_Settings/FE-1165-transfer-out-show-onhand-qty|FE-1165]] — 1165 transfer out show onhand qty (分數: 5.5)
-- [[02_Config_Settings/FE-1168-dotnet-zupdate-unable-update-tblconfigen|FE-1168]] — 1168 dotnet zupdate unable update tblconfigen (分數: 6.5)
-- [[02_Config_Settings/FE-1181-enable-create-member-flag|FE-1181]] — 1181 enable create member flag (分數: 4.5)
-- [[02_Config_Settings/FE-1183-sow-ksj-print-image-on-customer-receipt-|FE-1183]] — 1183 sow ksj print image on customer receipt (分數: 5.0)
-- [[02_Config_Settings/FE-1188-bash-create-dotnet-print-cr-library|FE-1188]] — 1188 bash create dotnet print cr library (分數: 6.5)
-- [[02_Config_Settings/FE-1195-sporthouse-use-dotnet-print-pre-generate|FE-1195]] — 1195 sporthouse use dotnet print pre generate (分數: 7.0)
-- [[02_Config_Settings/FE-1196-new-member-default-member-type|FE-1196]] — 1196 new member default member type (分數: 4.0)
-- [[02_Config_Settings/FE-1197-front-end-coupon-table-house-keeping|FE-1197]] — 1197 front end coupon table house keeping (分數: 4.0)
-- [[02_Config_Settings/FE-1211-sow-of-vip-online-sales-api-and-online-s|FE-1211]] — 1211 sow of vip online sales api and online s (分數: 6.0)
-- [[02_Config_Settings/FE-1222-sow-ksj-cr-for-printing-qr-image-on-cust|FE-1222]] — 1222 sow ksj cr for printing qr image on cust (分數: 5.0)
-- [[02_Config_Settings/FE-1227-bypass-consolidate-day-end-if-has-missin|FE-1227]] — 1227 bypass consolidate day end if has missin (分數: 6.0)
-- [[02_Config_Settings/FE-1233-release-notes-frontend-version-720207350|FE-1233]] — 1233 release notes frontend version 720207350 (分數: 8.0)
-- [[02_Config_Settings/FE-1241-lands-payment-page-cannot-show-govs-paym|FE-1241]] — 1241 lands payment page cannot show govs paym (分數: 7.0)
-- [[02_Config_Settings/FE-1247-notification-email|FE-1247]] — 1247 notification email (分數: 7.0)
-- [[02_Config_Settings/FE-1254-lands-sale-memo-second-copy-missing-repr|FE-1254]] — 1254 lands sale memo second copy missing repr (分數: 6.5)
-- [[02_Config_Settings/FE-1257-lands-fail-to-print-out-quatation-|FE-1257]] — 1257 lands fail to print out quatation (分數: 8.5)
-- [[02_Config_Settings/FE-1274-lands-pos-fails-to-disable-cash-button-w|FE-1274]] — 1274 lands pos fails to disable cash button w (分數: 10.0)
-- [[02_Config_Settings/FE-1282-lands-button-of-octopus-display-as-dimme|FE-1282]] — 1282 lands button of octopus display as dimme (分數: 5.0)
-- [[02_Config_Settings/FE-1283-lands-config-of-ocl-nrr-doesnt-auto-crea|FE-1283]] — 1283 lands config of ocl nrr doesnt auto crea (分數: 6.5)
-- [[02_Config_Settings/FE-1292-imx-nation-ue-wrror|FE-1292]] — 1292 imx nation ue wrror (分數: 5.5)
-- [[02_Config_Settings/FE-1297-lands-cannot-generate-pdf-file-of-day-en|FE-1297]] — 1297 lands cannot generate pdf file of day en (分數: 8.0)
-- [[02_Config_Settings/FE-1323-lands-add-cases-sensitive-for-landswebvi|FE-1323]] — 1323 lands add cases sensitive for landswebvi (分數: 6.0)
-- [[02_Config_Settings/FE-1346-lands-disable-collection-office-for-hkms|FE-1346]] — 1346 lands disable collection office for hkms (分數: 6.5)
-- [[02_Config_Settings/FE-1347-coach-purchese-type-missing-in-pcd|FE-1347]] — 1347 coach purchese type missing in pcd (分數: 5.5)
-- [[02_Config_Settings/FE-1351-coach_hk_rounding-setting-are-different-|FE-1351]] — 1351 coach_hk_rounding setting are different (分數: 6.0)
-- [[02_Config_Settings/FE-1357-coachv75-version-page-display-enhancemen|FE-1357]] — 1357 coachv75 version page display enhancemen (分數: 4.5)
-- [[02_Config_Settings/FE-1371-cs-1001-issue_contry-select-setting-is-n|FE-1371]] — 1371 cs 1001 issue_contry select setting is n (分數: 7.5)
-- [[02_Config_Settings/FE-1384-cs-1028-kmy-incorrect-pc-01-record-with-|FE-1384]] — 1384 cs 1028 kmy incorrect pc 01 record with (分數: 6.5)
-- [[02_Config_Settings/FE-1385-cs-981-vbretailini-missing-web3-config-|FE-1385]] — 1385 cs 981 vbretailini missing web3 config (分數: 8.0)
-- [[02_Config_Settings/FE-1393-cs-1034-issue_jp_rin01339795-a-barcode-w|FE-1393]] — 1393 cs 1034 issue_jp_rin01339795 a barcode w (分數: 9.0)
-- [[02_Config_Settings/FE-1404-disable-deposit-function-by-different-st|FE-1404]] — 1404 disable deposit function by different st (分數: 6.5)
-- [[02_Config_Settings/FE-1405-eft-pay-supports-zebra-mini-printer|FE-1405]] — 1405 eft pay supports zebra mini printer (分數: 4.5)
-- [[02_Config_Settings/FE-1406-eft-pay-supports-zebra-mini-printer|FE-1406]] — 1406 eft pay supports zebra mini printer (分數: 5.5)
-- [[02_Config_Settings/FE-1407-tc-receipt-printing|FE-1407]] — 1407 tc receipt printing (分數: 4.5)
-- [[02_Config_Settings/FE-1440-hkjc-rems-member-search-in-offline-mode-|FE-1440]] — 1440 hkjc rems member search in offline mode (分數: 8.0)
-- [[02_Config_Settings/FE-1479-cs-1012-mm-coupon-sorting-enhance-on-fe|FE-1479]] — 1479 cs 1012 mm coupon sorting enhance on fe (分數: 5.5)
-- [[02_Config_Settings/FE-1480-bash-affiliate-model-cr|FE-1480]] — 1480 bash affiliate model cr (分數: 7.5)
-- [[02_Config_Settings/FE-1486-bashfe-pos-cannot-search-member-by-email|FE-1486]] — 1486 bashfe pos cannot search member by email (分數: 7.0)
-- [[02_Config_Settings/FE-1491-pos-sales-enquiry-extend-item-no-column-|FE-1491]] — 1491 pos sales enquiry extend item no column (分數: 5.5)
-- [[02_Config_Settings/FE-1492-v75_my_rin01372901_cs2000-emp-vip-staff-|FE-1492]] — 1492 v75_my_rin01372901_cs2000 emp vip staff (分數: 9.5)
-- [[02_Config_Settings/FE-1493-v75-cash-drawer-value-in-poslog-table-is|FE-1493]] — 1493 v75 cash drawer value in poslog table is (分數: 8.0)
-- [[02_Config_Settings/FE-1520-rin01399092-prc-ocf7-cs2000-fe-all-till-|FE-1520]] — 1520 rin01399092 prc ocf7 cs2000 fe all till (分數: 7.0)
-- [[02_Config_Settings/FE-1531-coach-my-ereceipt-printing-in-tmu|FE-1531]] — 1531 coach my ereceipt printing in tmu (分數: 9.5)
-- [[02_Config_Settings/FE-1536-coach-my-bdo-zebra-mini-printer-qr-code-|FE-1536]] — 1536 coach my bdo zebra mini printer qr code (分數: 7.0)
-- [[02_Config_Settings/FE-1545-coach-sea-qr-code-ename-capture|FE-1545]] — 1545 coach sea qr code ename capture (分數: 5.5)
-- [[02_Config_Settings/FE-1548-requiring-acxiom-sea-qr-code-decryption-|FE-1548]] — 1548 requiring acxiom sea qr code decryption (分數: 6.0)
-- [[02_Config_Settings/FE-1550-rin01414514-my-ocf77-miss-dayend-info-in|FE-1550]] — 1550 rin01414514 my ocf77 miss dayend info in (分數: 5.0)
-- [[02_Config_Settings/FE-1570-dbhistxxxxxxxxsdf-on-ocf1till1retdata6hi|FE-1570]] — 1570 dbhistxxxxxxxxsdf on ocf1till1retdata6hi (分數: 5.0)
-- [[02_Config_Settings/FE-1589-rin01432170rin01434943till-0-cannot-fini|FE-1589]] — 1589 rin01432170rin01434943till 0 cannot fini (分數: 8.5)
-- [[02_Config_Settings/FE-1591-dbtrans-search-for-wiam-config_value-dis|FE-1591]] — 1591 dbtrans search for wiam config_value dis (分數: 6.0)
-- [[02_Config_Settings/FE-1602-front-end-pos-replace-f6-open-item-butto|FE-1602]] — 1602 front end pos replace f6 open item butto (分數: 6.5)
-- [[02_Config_Settings/FE-1605-posv75v72-pop-up-an-error-after-click-on|FE-1605]] — 1605 posv75v72 pop up an error after click on (分數: 7.5)
-- [[02_Config_Settings/FE-1606-rin01441233-till-0-cannot-print-out-daye|FE-1606]] — 1606 rin01441233 till 0 cannot print out daye (分數: 7.0)
-- [[02_Config_Settings/FE-1611-cs-1319-issue-jp-j433j378-pos-didnt-refl|FE-1611]] — 1611 cs 1319 issue jp j433j378 pos didnt refl (分數: 7.5)
-- [[02_Config_Settings/FE-1617-sq0220-338rtm-front-end-loginaccount-is-|FE-1617]] — 1617 sq0220 338rtm front end loginaccount is (分數: 6.0)
-- [[02_Config_Settings/FE-1641-fepos-ereceipt-enhancementui-ereceipt-fl|FE-1641]] — 1641 fepos ereceipt enhancementui ereceipt fl (分數: 6.0)
-- [[02_Config_Settings/FE-1643-acu-115-cn-member-cant-be-created-by-qr-|FE-1643]] — 1643 acu 115 cn member cant be created by qr (分數: 7.5)
-- [[02_Config_Settings/FE-1647-inc2843247-ksj-c397升级到v75以后无法取消打印店铺和客户两联|FE-1647]] — 1647 inc2843247 ksj c397升级到v75以后无法取消打印店铺和客户两联 (分數: 5.0)
-- [[02_Config_Settings/FE-1655-user-can-still-login-to-pos-even-his-acc|FE-1655]] — 1655 user can still login to pos even his acc (分數: 8.5)
-- [[02_Config_Settings/FE-1656-imx-refresh-transfer-receive-record-ever|FE-1656]] — 1656 imx refresh transfer receive record ever (分數: 5.5)
-- [[02_Config_Settings/FE-1660-acu-138no-member-card-created-while-scan|FE-1660]] — 1660 acu 138no member card created while scan (分數: 7.5)
-- [[02_Config_Settings/FE-1663-hkjc-bj-rtm-pipl-needs-to-save-the-lates|FE-1663]] — 1663 hkjc bj rtm pipl needs to save the lates (分數: 10.0)
-- [[02_Config_Settings/FE-1668-inc2905589failed-to-finish-consolidation|FE-1668]] — 1668 inc2905589failed to finish consolidation (分數: 7.0)
-- [[02_Config_Settings/FE-1669-cs-1389j429-printing-issue-after-upgrade|FE-1669]] — 1669 cs 1389j429 printing issue after upgrade (分數: 5.5)
-- [[02_Config_Settings/FE-1670-cs-1403-unable-to-send-ereceipt-jp-cs2k-|FE-1670]] — 1670 cs 1403 unable to send ereceipt jp cs2k (分數: 9.5)
-- [[02_Config_Settings/FE-1672-print-the-store-name-and-address-on-the-|FE-1672]] — 1672 print the store name and address on the (分數: 6.5)
-- [[02_Config_Settings/FE-1673-cs-1404cs2k-v7500412000001-payment-error|FE-1673]] — 1673 cs 1404cs2k v7500412000001 payment error (分數: 6.5)
-- [[02_Config_Settings/FE-1674-inc2926558prc-region-sales-memo-from-pos|FE-1674]] — 1674 inc2926558prc region sales memo from pos (分數: 5.5)
-- [[02_Config_Settings/FE-1676-inc2920844posv75-rc报告合计金额显示销售总金额备用金|FE-1676]] — 1676 inc2920844posv75 rc报告合计金额显示销售总金额备用金 (分數: 5.0)
-- [[02_Config_Settings/FE-1677-inc2915548traning-mode下员工537819登陆显示员工已离职|FE-1677]] — 1677 inc2915548traning mode下员工537819登陆显示员工已离职 (分數: 5.5)
-- [[02_Config_Settings/FE-1689-coachprintagent-printagent-default-waiti|FE-1689]] — 1689 coachprintagent printagent default waiti (分數: 7.0)
-- [[02_Config_Settings/FE-1692-inc2936715till0-receipt-00053075-cant-be|FE-1692]] — 1692 inc2936715till0 receipt 00053075 cant be (分數: 5.5)
-- [[02_Config_Settings/FE-1695-clc2-789-investigation-on-cj-lines-bindi|FE-1695]] — 1695 clc2 789 investigation on cj lines bindi (分數: 7.5)
-- [[02_Config_Settings/FE-1698-cs-1440the-ammount-cant-be-totally-displ|FE-1698]] — 1698 cs 1440the ammount cant be totally displ (分數: 6.5)
-- [[02_Config_Settings/FE-1700-coachgain-exchange-order-show-incorrect-|FE-1700]] — 1700 coachgain exchange order show incorrect (分數: 9.0)
-- [[02_Config_Settings/FE-1705-inc2987007ocf30-600-birthday-coupon-bein|FE-1705]] — 1705 inc2987007ocf30 600 birthday coupon bein (分數: 9.5)
-- [[02_Config_Settings/FE-1708-fepos-tapestry-kr-sow-of-korea-pip-ui-ma|FE-1708]] — 1708 fepos tapestry kr sow of korea pip ui ma (分數: 7.5)
-- [[02_Config_Settings/FE-1709-cs-1450new-request_cn_remove-einvoice-po|FE-1709]] — 1709 cs 1450new request_cn_remove einvoice po (分數: 7.5)
-- [[02_Config_Settings/FE-1711-inc3024503cs-1471cn-v75-ocf46-all-tills-|FE-1711]] — 1711 inc3024503cs 1471cn v75 ocf46 all tills (分數: 9.0)
-- [[02_Config_Settings/FE-1713-cs-1454-cash-drawer-can-not-be-opened-af|FE-1713]] — 1713 cs 1454 cash drawer can not be opened af (分數: 7.5)
-- [[02_Config_Settings/FE-1714-coachfefail-to-display-einvoice-qr-code-|FE-1714]] — 1714 coachfefail to display einvoice qr code (分數: 9.0)
-- [[02_Config_Settings/FE-1715-cs-1463-new-request-for-reprinting-recei|FE-1715]] — 1715 cs 1463 new request for reprinting recei (分數: 7.5)
-- [[02_Config_Settings/FE-1728-coach-laser-day-end-report-still-display|FE-1728]] — 1728 coach laser day end report still display (分數: 9.0)
-- [[02_Config_Settings/FE-1735-acu-222dynamic-qr-code-should-be-enabled|FE-1735]] — 1735 acu 222dynamic qr code should be enabled (分數: 6.0)
-- [[02_Config_Settings/FE-1742-cs-1500-request_windows-login-account-mi|FE-1742]] — 1742 cs 1500 request_windows login account mi (分數: 6.5)
-- [[02_Config_Settings/FE-1746-cs-1588by-region-to-cancel-customer-surv|FE-1746]] — 1746 cs 1588by region to cancel customer surv (分數: 5.0)
-- [[02_Config_Settings/FE-1748-cs-1592-iusse_v75_not-able-to-enable-til|FE-1748]] — 1748 cs 1592 iusse_v75_not able to enable til (分數: 5.5)
-- [[02_Config_Settings/FE-1749-cs-1628-tw-crm-profile-and-purchase-hist|FE-1749]] — 1749 cs 1628 tw crm profile and purchase hist (分數: 9.0)
-- [[02_Config_Settings/FE-1755-inc3220502-cn-laser-printer-cannot-repri|FE-1755]] — 1755 inc3220502 cn laser printer cannot repri (分數: 9.0)
-- [[02_Config_Settings/FE-1757-v75-petty-cash-print-out-tmulaser|FE-1757]] — 1757 v75 petty cash print out tmulaser (分數: 4.0)
-- [[02_Config_Settings/FE-1758-v75-cash-pickup-print-out-tmulaser|FE-1758]] — 1758 v75 cash pickup print out tmulaser (分數: 4.0)
-- [[02_Config_Settings/FE-1768-bash-print-out-issue-gift-receipt-transf|FE-1768]] — 1768 bash print out issue gift receipt transf (分數: 7.0)
-- [[02_Config_Settings/FE-1769-posting-error-by-incorrect-sales-code|FE-1769]] — 1769 posting error by incorrect sales code (分數: 8.5)
-- [[02_Config_Settings/FE-1772-inc3247094prc-oc316-posv75sales-memo-000|FE-1772]] — 1772 inc3247094prc oc316 posv75sales memo 000 (分數: 6.0)
-- [[02_Config_Settings/FE-1773-ksstyn010-cs2000pos-application-error|FE-1773]] — 1773 ksstyn010 cs2000pos application error (分數: 7.0)
-- [[02_Config_Settings/FE-1792-ao-v75-day-end-print-out-issue|FE-1792]] — 1792 ao v75 day end print out issue (分數: 6.5)
-- [[02_Config_Settings/FE-1807-v75-lisenses-api-setup|FE-1807]] — 1807 v75 lisenses api setup (分數: 4.5)
-- [[02_Config_Settings/FE-1810-feomnihub-fe-pos-fail-to-create-rpxml-af|FE-1810]] — 1810 feomnihub fe pos fail to create rpxml af (分數: 6.0)
-- [[02_Config_Settings/FE-1813-ppr-72-disable-gain-for-return|FE-1813]] — 1813 ppr 72 disable gain for return (分數: 4.0)
-- [[02_Config_Settings/FE-1815-ppr-72anz-pos-footer-text-change|FE-1815]] — 1815 ppr 72anz pos footer text change (分數: 4.5)
-- [[02_Config_Settings/FE-1817-inc3310467-kr-new-v72-store-oc872-till1-|FE-1817]] — 1817 inc3310467 kr new v72 store oc872 till1 (分數: 7.5)
-- [[02_Config_Settings/FE-1819-incomplete-log-purging-in-frontend-retda|FE-1819]] — 1819 incomplete log purging in frontend retda (分數: 6.5)
-- [[02_Config_Settings/FE-1821-cs-1865-inc3314927-ksj-c309-receipt-prin|FE-1821]] — 1821 cs 1865 inc3314927 ksj c309 receipt prin (分數: 9.5)
-- [[02_Config_Settings/FE-1822-anzvalue-of-no_edm-no_dm-no_phone-no_sms|FE-1822]] — 1822 anzvalue of no_edm no_dm no_phone no_sms (分數: 5.0)
-- [[02_Config_Settings/FE-1823-no-data-shown-on-員工考勤-report-no-option-o|FE-1823]] — 1823 no data shown on 員工考勤 report no option o (分數: 7.0)
-- [[02_Config_Settings/FE-1828-cs-1864loyalty-program-revamp-for-coach-|FE-1828]] — 1828 cs 1864loyalty program revamp for coach (分數: 7.5)
-- [[02_Config_Settings/FE-1830-modify-fepos-to-have-day-end-consolidate|FE-1830]] — 1830 modify fepos to have day end consolidate (分數: 7.0)
-- [[02_Config_Settings/FE-1832-ppr-62-fe-configuration-customer-informa|FE-1832]] — 1832 ppr 62 fe configuration customer informa (分數: 5.5)
-- [[02_Config_Settings/FE-1833-handle-rounding-rule-of-cash-payment-in-|FE-1833]] — 1833 handle rounding rule of cash payment in (分數: 7.5)
-- [[02_Config_Settings/FE-1837-cs-1917inc3351286-an-error-occurs-when-s|FE-1837]] — 1837 cs 1917inc3351286 an error occurs when s (分數: 9.5)
-- [[02_Config_Settings/FE-1838-sph-fail-to-print-out-transfer-receipt|FE-1838]] — 1838 sph fail to print out transfer receipt (分數: 7.5)
-- [[02_Config_Settings/FE-1841-coachanz-display-misc-section-in-sales-d|FE-1841]] — 1841 coachanz display misc section in sales d (分數: 6.5)
-- [[02_Config_Settings/FE-1846-bash-store-cannot-online-search-new-vip-|FE-1846]] — 1846 bash store cannot online search new vip (分數: 7.5)
-- [[02_Config_Settings/FE-1851-bash-member-searching-behavior-become-di|FE-1851]] — 1851 bash member searching behavior become di (分數: 8.0)
-- [[02_Config_Settings/FE-1856-cs-1973-inc3399076kr-v75-pilot-store-oc8|FE-1856]] — 1856 cs 1973 inc3399076kr v75 pilot store oc8 (分數: 8.5)
-- [[02_Config_Settings/FE-1859-bash-after-seearch-member-not-exists-in-|FE-1859]] — 1859 bash after seearch member not exists in (分數: 8.5)
-- [[02_Config_Settings/FE-1877-re-request-for-fe-log-investigation-feng|FE-1877]] — 1877 re request for fe log investigation feng (分數: 4.5)
-- [[02_Config_Settings/FE-1882-anz-incorrect-amount-of-change-after-app|FE-1882]] — 1882 anz incorrect amount of change after app (分數: 9.5)
-- [[02_Config_Settings/FE-1885-anz-new-member-cannot-be-upsert-by-dayen|FE-1885]] — 1885 anz new member cannot be upsert by dayen (分數: 7.5)
-- [[02_Config_Settings/FE-1895-dtutil-add-a-configuration-to-get-the-po|FE-1895]] — 1895 dtutil add a configuration to get the po (分數: 7.5)
-- [[02_Config_Settings/FE-1898-coach-dtutil-testing|FE-1898]] — 1898 coach dtutil testing (分數: 7.5)
-- [[02_Config_Settings/FE-1907-inc3506967-diners-epayment-issue|FE-1907]] — 1907 inc3506967 diners epayment issue (分數: 9.5)
-- [[02_Config_Settings/FE-1909-cs-2081jp_cohks_consumption-tax-free-reg|FE-1909]] — 1909 cs 2081jp_cohks_consumption tax free reg (分數: 9.5)
-- [[02_Config_Settings/FE-1924-imx-dtutil-db-login-connection-string-en|FE-1924]] — 1924 imx dtutil db login connection string en (分數: 4.0)
-- [[02_Config_Settings/FE-1930-cs-2632how-to-enable-signout-button-in-c|FE-1930]] — 1930 cs 2632how to enable signout button in c (分數: 6.0)
-- [[02_Config_Settings/FE-1933-cs-2413-issue_prc_inc3527055_posting-oss|FE-1933]] — 1933 cs 2413 issue_prc_inc3527055_posting oss (分數: 8.0)
-- [[02_Config_Settings/FE-1935-fe-configurations-of-fepos-modules-info-|FE-1935]] — 1935 fe configurations of fepos modules info (分數: 4.0)
-- [[02_Config_Settings/FE-1955-cs-2081-preflight-test-for-fe-1910-fe-19|FE-1955]] — 1955 cs 2081 preflight test for fe 1910 fe 19 (分數: 6.5)
-- [[02_Config_Settings/FE-670-csplus-64bit-license|FE-670]] — 670 csplus 64bit license (分數: 4.0)
-- [[02_Config_Settings/FE-672-lcx-dotnet-print-receipt-dayend|FE-672]] — 672 lcx dotnet print receipt dayend (分數: 5.0)
-- [[02_Config_Settings/FE-774-mm-not-working-when-enabled-mix_cachehit|FE-774]] — 774 mm not working when enabled mix_cachehit (分數: 5.5)
-- [[02_Config_Settings/FE-785-incomplete-transaction-due-to-out-of-mem|FE-785]] — 785 incomplete transaction due to out of mem (分數: 6.5)
-- [[02_Config_Settings/FE-802-mm-not-working-when-enabled-mix_cachehit|FE-802]] — 802 mm not working when enabled mix_cachehit (分數: 5.5)
-- [[02_Config_Settings/FE-809-get-tblconfigdotnetdayend-set-default-va|FE-809]] — 809 get tblconfigdotnetdayend set default va (分數: 5.5)
-- [[02_Config_Settings/FE-826-fail-to-use-auto-create-member-function-|FE-826]] — 826 fail to use auto create member function (分數: 9.0)
-- [[02_Config_Settings/FE-853-enhance-the-possupport-tools-add-command|FE-853]] — 853 enhance the possupport tools add command (分數: 4.0)
-- [[02_Config_Settings/FE-877-local-adj|FE-877]] — 877 local adj (分數: 4.0)
-- [[02_Config_Settings/FE-899-quick-restart-alert-|FE-899]] — 899 quick restart alert (分數: 4.5)
-- [[02_Config_Settings/FE-907-apply-allowdepositsettlerefund-to-accsal|FE-907]] — 907 apply allowdepositsettlerefund to accsal (分數: 9.0)
-- [[02_Config_Settings/FE-918-mpos-cn29-some-singed-in-staff-couldnt-b|FE-918]] — 918 mpos cn29 some singed in staff couldnt b (分數: 7.0)
-- [[02_Config_Settings/FE-926-incorrect-staff-purchase-limit|FE-926]] — 926 incorrect staff purchase limit (分數: 6.5)
-- [[02_Config_Settings/FE-936-tw-mposprintexe-bypass-self-sign-cert-op|FE-936]] — 936 tw mposprintexe bypass self sign cert op (分數: 4.5)
-- [[02_Config_Settings/FE-939-hkjc-cr-patch|FE-939]] — 939 hkjc cr patch (分數: 4.5)
-- [[02_Config_Settings/FE-940-mposprinterexe-updated-a4-debug-mode|FE-940]] — 940 mposprinterexe updated a4 debug mode (分數: 9.5)
-- [[02_Config_Settings/FE-943-qa-mpos-register-qr-code-remove-security|FE-943]] — 943 qa mpos register qr code remove security (分數: 6.5)
-- [[02_Config_Settings/FE-946-xconfig-auto-rollback|FE-946]] — 946 xconfig auto rollback (分數: 5.5)
-- [[02_Config_Settings/FE-968-click-search-member-result-but-return-to|FE-968]] — 968 click search member result but return to (分數: 6.5)
-- [[02_Config_Settings/FE-971-deposit-settlement-should-apply-new-crm-|FE-971]] — 971 deposit settlement should apply new crm (分數: 9.0)
-- [[02_Config_Settings/FE-976-hkjc-wave-3-simplified-chinese-version|FE-976]] — 976 hkjc wave 3 simplified chinese version (分數: 7.5)
-- [[02_Config_Settings/FE-989-rin00726874-ocf23-user-called-till0-not-|FE-989]] — 989 rin00726874 ocf23 user called till0 not (分數: 6.0)
-- [[02_Config_Settings/FE-990-cn-print-in-english|FE-990]] — 990 cn print in english (分數: 6.5)
-- [[02_Config_Settings/FE-998-pos-autoshutdown-exe-not-functioning|FE-998]] — 998 pos autoshutdown exe not functioning (分數: 6.5)
-- [[02_Config_Settings/FE-999-cs2kconnect-ini-empty|FE-999]] — 999 cs2kconnect ini empty (分數: 5.5)
-
-### MPOS (73 筆)
-
-- [[02_Config_Settings/MP-134-payment-module-add-config-to-control-e-r|MP-134]] — 134 payment module add config to control e r (分數: 4.5)
-- [[02_Config_Settings/MP-202-can-make-change-for-transaction-no|MP-202]] — 202 can make change for transaction no (分數: 5.0)
-- [[02_Config_Settings/MP-250-integration-of-sales-memo-controller|MP-250]] — 250 integration of sales memo controller (分數: 7.0)
-- [[02_Config_Settings/MP-281-ipad-sales-04|MP-281]] — 281 ipad sales 04 (分數: 4.5)
-- [[02_Config_Settings/MP-298-mpos-no-option-button-void-online-transa|MP-298]] — 298 mpos no option button void online transa (分數: 7.0)
-- [[02_Config_Settings/MP-312-disable-pdf-printer-xps-printer-for-defa|MP-312]] — 312 disable pdf printer xps printer for defa (分數: 6.5)
-- [[02_Config_Settings/MP-338-cannot-print-the-network-printer-and-the|MP-338]] — 338 cannot print the network printer and the (分數: 8.0)
-- [[02_Config_Settings/MP-340-api-missing-content-of-payment-api|MP-340]] — 340 api missing content of payment api (分數: 8.0)
-- [[02_Config_Settings/MP-346-move-the-config-table-to-backend-from-li|MP-346]] — 346 move the config table to backend from li (分數: 4.5)
-- [[02_Config_Settings/MP-372-member-search-search-ordering-enhance|MP-372]] — 372 member search search ordering enhance (分數: 5.5)
-- [[02_Config_Settings/MP-373-cn-qfp-void-function-change-request|MP-373]] — 373 cn qfp void function change request (分數: 5.5)
-- [[02_Config_Settings/MP-380-cn-print-preview-display-english-layout-|MP-380]] — 380 cn print preview display english layout (分數: 6.5)
-- [[02_Config_Settings/MP-385-cj122-adding-autologout-for-mpos|MP-385]] — 385 cj122 adding autologout for mpos (分數: 4.5)
-- [[02_Config_Settings/MP-422-enhancement-for-staff-member-search|MP-422]] — 422 enhancement for staff member search (分數: 4.0)
-- [[02_Config_Settings/MP-424-cj129-cj-tmu-printer-j212-config|MP-424]] — 424 cj129 cj tmu printer j212 config (分數: 4.5)
-- [[02_Config_Settings/MP-432-mpos-update-to-fe-core-v7202r09|MP-432]] — 432 mpos update to fe core v7202r09 (分數: 5.5)
-- [[02_Config_Settings/MP-462-discount-on-list-price-is-not-enable-on-|MP-462]] — 462 discount on list price is not enable on (分數: 7.5)
-- [[02_Config_Settings/MP-475-adding-new-email-validation-api|MP-475]] — 475 adding new email validation api (分數: 4.0)
-- [[02_Config_Settings/MP-481-sow-new-backend-member-vip-api-fe-970-ap|MP-481]] — 481 sow new backend member vip api fe 970 ap (分數: 5.5)
-- [[02_Config_Settings/MP-485-missing-nationality-option-box-for-coach|MP-485]] — 485 missing nationality option box for coach (分數: 5.5)
-- [[02_Config_Settings/MP-499-mpos-doesnt-restart-pos-day-end-with-mpo|MP-499]] — 499 mpos doesnt restart pos day end with mpo (分數: 5.5)
-- [[02_Config_Settings/MP-509-mpos-fails-to-retrieve-device-id-after-i|MP-509]] — 509 mpos fails to retrieve device id after i (分數: 9.0)
-- [[02_Config_Settings/MP-510-aq-189-qa_mposmpos-member-enquiry-return|MP-510]] — 510 aq 189 qa_mposmpos member enquiry return (分數: 8.0)
-- [[02_Config_Settings/MP-511-aq-189-qa_mposmpos-member-enquiry-return|MP-511]] — 511 aq 189 qa_mposmpos member enquiry return (分數: 8.0)
-- [[02_Config_Settings/MP-514-mpos-use-exact-search-in-memebr-search-f|MP-514]] — 514 mpos use exact search in memebr search f (分數: 6.0)
-- [[02_Config_Settings/MP-518-sow-of-coach-cn-mpos-zebra-mini-printer|MP-518]] — 518 sow of coach cn mpos zebra mini printer (分數: 5.0)
-- [[02_Config_Settings/MP-519-mpos-use-ecoupon-disc-variance|MP-519]] — 519 mpos use ecoupon disc variance (分數: 7.0)
-- [[02_Config_Settings/MP-521-fix-for-citizen-printer-just-print-one-r|MP-521]] — 521 fix for citizen printer just print one r (分數: 8.5)
-- [[02_Config_Settings/MP-533-coach-item-sales-amount-payment-amount-v|MP-533]] — 533 coach item sales amount payment amount v (分數: 9.0)
-- [[02_Config_Settings/MP-534-print-qr-code-option-appears-when-issuin|MP-534]] — 534 print qr code option appears when issuin (分數: 7.0)
-- [[02_Config_Settings/MP-542-mpos-return-item-error-nosuchmethoderror|MP-542]] — 542 mpos return item error nosuchmethoderror (分數: 8.5)
-- [[02_Config_Settings/MP-544-mpos-apimposstaff-purchase|MP-544]] — 544 mpos apimposstaff purchase (分數: 5.0)
-- [[02_Config_Settings/MP-547-mpos-apilicensing-40-licensing-sql|MP-547]] — 547 mpos apilicensing 40 licensing sql (分數: 5.5)
-- [[02_Config_Settings/MP-552-disable-the-preview-when-reprint-the-sal|MP-552]] — 552 disable the preview when reprint the sal (分數: 6.5)
-- [[02_Config_Settings/MP-553-dtut-appconfig-amendment|MP-553]] — 553 dtut appconfig amendment (分數: 6.5)
-- [[02_Config_Settings/MP-559-mpos-missing-the-communication-option-in|MP-559]] — 559 mpos missing the communication option in (分數: 7.0)
-- [[02_Config_Settings/MP-560-change-foreign-currency|MP-560]] — 560 change foreign currency (分數: 7.0)
-- [[02_Config_Settings/MP-561-enable-open-item|MP-561]] — 561 enable open item (分數: 7.0)
-- [[02_Config_Settings/MP-562-long-remarks-40-9-line|MP-562]] — 562 long remarks 40 9 line (分數: 6.0)
-- [[02_Config_Settings/MP-564-enable-void-remarks|MP-564]] — 564 enable void remarks (分數: 6.5)
-- [[02_Config_Settings/MP-565-enable-generate-the-vip-number-when-crea|MP-565]] — 565 enable generate the vip number when crea (分數: 7.0)
-- [[02_Config_Settings/MP-568-no-staff-limit-information-show-on-mpos-|MP-568]] — 568 no staff limit information show on mpos (分數: 6.0)
-- [[02_Config_Settings/MP-576-enable-vip-input-address|MP-576]] — 576 enable vip input address (分數: 5.5)
-- [[02_Config_Settings/MP-631-cache-the-config-asset-from-lic-server|MP-631]] — 631 cache the config asset from lic server (分數: 4.0)
-- [[02_Config_Settings/MP-643-lic-config-migration|MP-643]] — 643 lic config migration (分數: 4.0)
-- [[02_Config_Settings/MP-647-sow-of-implement-mpos-e-receipt-email-se|MP-647]] — 647 sow of implement mpos e receipt email se (分數: 7.5)
-- [[02_Config_Settings/MP-658-cs-925issue_hk_rounding-setting-are-diff|MP-658]] — 658 cs 925issue_hk_rounding setting are diff (分數: 6.5)
-- [[02_Config_Settings/MP-702-cs-873-japanese-user-login-in-mpos-which|MP-702]] — 702 cs 873 japanese user login in mpos which (分數: 7.5)
-- [[02_Config_Settings/MP-715-coach-my-bdo-mpos-qr-code-print-out-erro|MP-715]] — 715 coach my bdo mpos qr code print out erro (分數: 7.5)
-- [[02_Config_Settings/MP-719-cs-1176-v75-after-enable-saleshub-mpos-n|MP-719]] — 719 cs 1176 v75 after enable saleshub mpos n (分數: 7.5)
-- [[02_Config_Settings/MP-730-maximum-query-string-on-setting-in-iis-f|MP-730]] — 730 maximum query string on setting in iis f (分數: 5.0)
-- [[02_Config_Settings/MP-739-mpos-69-mpos_3294-202412041-999-error-af|MP-739]] — 739 mpos 69 mpos_3294 202412041 999 error af (分數: 8.0)
-- [[02_Config_Settings/MP-746-mpos-76-mpos-3295-jp-region-unable-to-se|MP-746]] — 746 mpos 76 mpos 3295 jp region unable to se (分數: 8.5)
-- [[02_Config_Settings/MP-747-mpos-77-mpos-3295-cn-region-unable-to-ch|MP-747]] — 747 mpos 77 mpos 3295 cn region unable to ch (分數: 9.0)
-- [[02_Config_Settings/MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-p|MP-754]] — 754 mpos 81 mpos 3295 jp local iis invalid p (分數: 10.0)
-- [[02_Config_Settings/MP-756-mpos-82mpos-v3302-ksj-mpos-unable-to-pri|MP-756]] — 756 mpos 82mpos v3302 ksj mpos unable to pri (分數: 8.0)
-- [[02_Config_Settings/MP-768-mpos-92mpos-3295e-hk-region-eft-function|MP-768]] — 768 mpos 92mpos 3295e hk region eft function (分數: 9.5)
-- [[02_Config_Settings/MP-778-mpos-tapestry-kr-sow-of-korea-pip-ui-mas|MP-778]] — 778 mpos tapestry kr sow of korea pip ui mas (分數: 6.0)
-- [[02_Config_Settings/MP-781-mposcs-1463-new-request-for-reprinting-r|MP-781]] — 781 mposcs 1463 new request for reprinting r (分數: 8.0)
-- [[02_Config_Settings/MP-782-mpos-102inc3043100inc3031690tw-mpos-cann|MP-782]] — 782 mpos 102inc3043100inc3031690tw mpos cann (分數: 10.0)
-- [[02_Config_Settings/MP-786-stability-tech-debt-signalr-plugin-devel|MP-786]] — 786 stability tech debt signalr plugin devel (分數: 7.5)
-- [[02_Config_Settings/MP-791-mpos-113-request-set-ereceipt-function-a|MP-791]] — 791 mpos 113 request set ereceipt function a (分數: 6.5)
-- [[02_Config_Settings/MP-792-mpos-117cj-mpos-prod_-j801-tax-free-indi|MP-792]] — 792 mpos 117cj mpos prod_ j801 tax free indi (分數: 5.5)
-- [[02_Config_Settings/MP-800-cs-1742inc3187451-it-is-slow-to-search-c|MP-800]] — 800 cs 1742inc3187451 it is slow to search c (分數: 7.0)
-- [[02_Config_Settings/MP-801-mpos-126-j804-one-mpos-shows-it-has-reac|MP-801]] — 801 mpos 126 j804 one mpos shows it has reac (分數: 7.0)
-- [[02_Config_Settings/MP-810-cs-2051inc3401848-inc3403453hk-regionoc5|MP-810]] — 810 cs 2051inc3401848 inc3403453hk regionoc5 (分數: 6.5)
-- [[02_Config_Settings/MP-812-coachmpos-add-4-options-of-new-vip-commu|MP-812]] — 812 coachmpos add 4 options of new vip commu (分數: 5.0)
-- [[02_Config_Settings/MP-813-cs-2027local-iis-is-not-able-to-run-on-w|MP-813]] — 813 cs 2027local iis is not able to run on w (分數: 4.0)
-- [[02_Config_Settings/MP-824-mpos-printreceipt-uiux-enhancement|MP-824]] — 824 mpos printreceipt uiux enhancement (分數: 7.5)
-- [[02_Config_Settings/MP-830-inc3539384j242-mpos-popout-error-passes-|MP-830]] — 830 inc3539384j242 mpos popout error passes (分數: 7.0)
-- [[02_Config_Settings/MP-831-cs-2651-cs2k-unable-to-retreive-the-orde|MP-831]] — 831 cs 2651 cs2k unable to retreive the orde (分數: 8.5)
-- [[02_Config_Settings/MP-96-printing-module-e-receipt-policy-chang-b|MP-96]] — 96 printing module e receipt policy chang b (分數: 5.0)
-- [[02_Config_Settings/MP-97-general-module-change-company-logo-by-se|MP-97]] — 97 general module change company logo by se (分數: 4.0)
-
-### Web Services (20 筆)
-
-- [[02_Config_Settings/WEB-116-csplus-se1003-change-the-default-searchi|WEB-116]] — 116 csplus se1003 change the default searchi (分數: 4.0)
-- [[02_Config_Settings/WEB-126-csplus-se9999-change-parameter-userinrol|WEB-126]] — 126 csplus se9999 change parameter userinrol (分數: 4.0)
-- [[02_Config_Settings/WEB-140-csplus-se9909-disable-paginationautopage|WEB-140]] — 140 csplus se9909 disable paginationautopage (分數: 4.5)
-- [[02_Config_Settings/WEB-164-csplus-mf2005-change-home-no-and-mobile-|WEB-164]] — 164 csplus mf2005 change home no and mobile (分數: 4.0)
-- [[02_Config_Settings/WEB-174-csplus-api-config-add-loghousekeepingone|WEB-174]] — 174 csplus api config add loghousekeepingone (分數: 4.0)
-- [[02_Config_Settings/WEB-190-disable-the-input-field-of-home-no-and-m|WEB-190]] — 190 disable the input field of home no and m (分數: 5.5)
-- [[02_Config_Settings/WEB-197-sow-of-enable-couple-option-in-customer-|WEB-197]] — 197 sow of enable couple option in customer (分數: 4.5)
-- [[02_Config_Settings/WEB-200-fix-sg-birthday-verification-error-disab|WEB-200]] — 200 fix sg birthday verification error disab (分數: 10.0)
-- [[02_Config_Settings/WEB-232-mm-portal-sophia-reported-purchase-condi|WEB-232]] — 232 mm portal sophia reported purchase condi (分數: 6.0)
-- [[02_Config_Settings/WEB-298-ename-mid-term|WEB-298]] — 298 ename mid term (分數: 5.5)
-- [[02_Config_Settings/WEB-332-remove-1st-and-2nd-page-in-new-customer-|WEB-332]] — 332 remove 1st and 2nd page in new customer (分數: 8.0)
-- [[02_Config_Settings/WEB-337-pos_api-c360-api-getcustomerdetail-call-|WEB-337]] — 337 pos_api c360 api getcustomerdetail call (分數: 7.5)
-- [[02_Config_Settings/WEB-339-cs-883-issue_bonus-point-on-cs2000web-is|WEB-339]] — 339 cs 883 issue_bonus point on cs2000web is (分數: 6.0)
-- [[02_Config_Settings/WEB-344-ename-capture-screen-color-change|WEB-344]] — 344 ename capture screen color change (分數: 4.5)
-- [[02_Config_Settings/WEB-345-cs-1005-issue_-information-is-not-correc|WEB-345]] — 345 cs 1005 issue_ information is not correc (分數: 7.5)
-- [[02_Config_Settings/WEB-359-phone-option-should-include-sms|WEB-359]] — 359 phone option should include sms (分數: 5.5)
-- [[02_Config_Settings/WEB-37-csplus-se9096-ui-auto-search-data-when-f|WEB-37]] — 37 csplus se9096 ui auto search data when f (分數: 4.0)
-- [[02_Config_Settings/WEB-391-ename-tapestry-kr-sow-of-korea-pip-ui-ma|WEB-391]] — 391 ename tapestry kr sow of korea pip ui ma (分數: 5.0)
-- [[02_Config_Settings/WEB-412-cs-1820-coh_kr_ename_capture-prospect-cu|WEB-412]] — 412 cs 1820 coh_kr_ename_capture prospect cu (分數: 5.5)
-- [[02_Config_Settings/WEB-57-csplus-enhance-api-to-support-datatable-|WEB-57]] — 57 csplus enhance api to support datatable (分數: 4.5)
-
-⬅ [返回首頁](../FAQ_Index.md)
+> 最後更新: 2026-05-22

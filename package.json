@@ -13,8 +13,9 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs -d .",
-    "build": "npx quartz build -d .",
-    "dev": "npx quartz build --serve -d .",
+    "prebuild": "python scripts/generate_indexes.py",
+    "build": "npm run prebuild && npx quartz build -d .",
+    "dev": "npm run prebuild && npx quartz build --serve -d .",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",

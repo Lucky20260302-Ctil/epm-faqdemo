@@ -1,902 +1,262 @@
 ---
-tags: [moc, faq, index, workflow_business]
-updated: 2026-05-21
+tags: [moc, faq, index]
+title: "業務流程 — FAQ 索引"
+updated: 2026-05-22
 ---
 
-# 流程與業務 FAQ
+# 業務流程
 
-> 共 **875** 筆 FAQ 筆記
+> 自動生成索引 · 248 篇 FAQ
 
-## 📋 筆記清單
+| # | 問題 |
+|---|------|
+| 1 | [[BE-1000-cs-1341cs-1183-same-member-id-with-different-names|BE-1000-cs-1341cs-1183-same-member-id-with-different-names]] |
+| 2 | [[BE-1042-20250407-amount-is-less-than-item-sales-|BE-1042: 20250407 Amount is less than Item Sales Amount]] |
+| 3 | [[BE-1043-20250407-payment-code-does-not-correspon|BE-1043: 20250407 payment code does not correspond to tender code]] |
+| 4 | [[BE-1232-cs-2099-anz-gcsap-cannot-process-void-gc-issue-rec|BE-1232-cs-2099-anz-gcsap-cannot-process-void-gc-issue-rec]] |
+| 5 | [[BE-1237-cs-2219co-au-db-is-printing-only-the-first-line-of|BE-1237-cs-2219co-au-db-is-printing-only-the-first-line-of]] |
+| 6 | [[BE-1237-cs-2219co-au-db-is-printing-only-the|BE-1237: [CS-2219]CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines]] |
+| 7 | [[BE-353-display-customer-name-in-delivery-order-|BE-353: Display customer name in Delivery Order related printout report]] |
+| 8 | [[BE-501-fix-ecoupon-file-name|BE-501: Fix eCoupon file Name]] |
+| 9 | [[BE-502-support-e-coupon-with-15-character-lengt|BE-502: Support e-coupon with 15 character length]] |
+| 10 | [[BE-504-cj-loyalty-part-1-vip-define-attribute|BE-504: CJ Loyalty Part 1 - VIP Define Attribute DB Update]] |
+| 11 | [[BE-532-chainstoreplus-day-end-validation-issue-|BE-532: ChainStorePlus Day End Validation issue when Misc. Amount exists]] |
+| 12 | [[BE-674-missing-title-in-sales-memo-by-serial-no|BE-674: Missing title in Sales Memo by Serial No. / Warranty No.(SE8003)]] |
+| 13 | [[BE-675-field-of-po-no-with-no-any-words-filled-|BE-675: Field of P.O. No. with no any words filled in should be rounded by red color after click save]] |
+| 14 | [[BE-676-supplier-code-used-incorrect-words-limit|BE-676: Supplier Code used incorrect words limitation]] |
+| 15 | [[BE-688-attach-file-in-member-master-maintenance|BE-688: Attach file in Member Master Maintenance placed at incorrect position]] |
+| 16 | [[BE-690-no-content-in-attach-file-in-member-mast|BE-690: No content in Attach file in Member Master Maintenance (MF2005)]] |
+| 17 | [[BE-699-missing-void-information-in-sales-enquir|BE-699: Missing Void information in Sales Enquiry]] |
+| 18 | [[BE-720-fail-to-print-invoice-and-delivery-note-|BE-720: Fail to print invoice and delivery note in records with invoice generate status in Online Order Delivery Information (OR0005)]] |
+| 19 | [[BE-725-purchase-order-would-duplicate-a-set-of-|BE-725: Purchase Order would duplicate a set of same items after Item Receive more than 1 time]] |
+| 20 | [[BE-726-set-of-items-in-row-become-unusual-when-|BE-726: Set of items in row become unusual when user add items with no color & size]] |
+| 21 | [[BE-776-cs-595chinese-character-in-store-address|BE-776: CS-595:Chinese Character in store address]] |
+| 22 | [[BE-799-lands-gfmis-report-appears-incorrect-sum|BE-799: [Lands] GFMIS report appears incorrect sum of total price]] |
+| 23 | [[BE-822-tapestry-rfp-demo-preparation|BE-822: Tapestry RFP Demo Preparation]] |
+| 24 | [[BE-828-as2000-and-se8008-top-navigate-to-last-|BE-828: AS2000 and SE8008, top >> navigate to last page doesn't work]] |
+| 25 | [[BE-833-rtm-cannnot-create-the-member-sales-in-v|BE-833: RTM Cannnot create the member sales in version 72.0105.0102]] |
+| 26 | [[BE-834-gfmis-displayed-incorrect-collection-dat|BE-834: GFMIS displayed incorrect collection date in cancel order]] |
+| 27 | [[BE-842-hkjc-report-sa7005-customer-loyalty-poin|BE-842: HKJC Report (SA7005) Customer Loyalty Points Burn Report]] |
+| 28 | [[BE-845-lands-limit-40-characters-for-remark-fie|BE-845: [Lands] Limit 40 characters for remark field from HKMS unpaid order]] |
+| 29 | [[BE-881-prorunner-po-outstanding-quantity-after-|BE-881: Prorunner PO Outstanding Quantity after Return to Supplier]] |
+| 30 | [[BE-968-rin01430077-hk-oc03-cs2000-member|BE-968: [RIN01430077] HK - OC03  - CS2000 - member created by Ename from Dec-12 missing vip name]] |
+| 31 | [[BE-997-prod0271-incorrect-total-amount-in-56f|BE-997: [PROD0271] Incorrect Total Amount in 56F]] |
+| 32 | [[FE-1015-vb6-cj-re-print-void-sales-memo-add-bac|FE-1015: VB6 CJ Re-print Void Sales Memo – Add back print Signature Slip]] |
+| 33 | [[FE-1024-ao-15-coupon-bug|FE-1024: A+O 15% coupon bug]] |
+| 34 | [[FE-1027-deposit-return-tender-selection-show-n|FE-1027: Deposit Return Tender Selection - Show non allow Tender]] |
+| 35 | [[FE-1028-deposit-settle-on-sales-item-have-disc-v|FE-1028: Deposit Settle on-sales item have disc var]] |
+| 36 | [[FE-1035-rin00861440-cj-customer-receipt-of-print|FE-1035: [RIN00861440] CJ customer receipt of print out missing Signature Space]] |
+| 37 | [[FE-1037-new-vip-member-enquiry-page|FE-1037: New VIP - Member Enquiry Page]] |
+| 38 | [[FE-1038-coach-jp-input-day-endcash-varianace-a|FE-1038: Coach JP Input Day End/Cash Varianace - Add Validate Maximum length in confirmation process]] |
+| 39 | [[FE-1041-aq-171qa_mposmpos-can-not-find-coupon-bu|FE-1041: AQ-171:QA_MPOS:MPOS can not find coupon but CS2000 can find]] |
+| 40 | [[FE-1046-incorrect-maximum-item-discount|FE-1046: Incorrect Maximum Item Discount]] |
+| 41 | [[FE-1098-mm-coupon-apply-sequence|FE-1098: MM Coupon Apply Sequence]] |
+| 42 | [[FE-1101-missing-vip-number-name-on-printed-sale|FE-1101: Missing VIP Number + Name on printed sales receipt on the creation date]] |
+| 43 | [[FE-1109-multi-disc-perc-mm-coupon-|FE-1109: Multi Disc Perc MM Coupon]] |
+| 44 | [[FE-1111-sow-for-scan-save-nike-qr-code|FE-1111: SOW for Scan Save Nike QR Code]] |
+| 45 | [[FE-1113-mpos-used-ecoupon-not-updated-in-be-db|FE-1113: MPOS Used ecoupon not updated in BE DB]] |
+| 46 | [[FE-1122-apply-mm-coupon-in-user-order-input-orde|FE-1122: Apply MM Coupon in User Order Input Order]] |
+| 47 | [[FE-1125-add-registration-number-on-sales-receipt|FE-1125: Add Registration Number on sales receipt for SG region]] |
+| 48 | [[FE-1128-mpos-missing-day-end-94-95|FE-1128: MPOS missing day end 94 95]] |
+| 49 | [[FE-1146-sow-align-coach-kate-spade-sg-my-sales|FE-1146: SOW Align Coach  Kate Spade SG  MY Sales Memo Print out]] |
+| 50 | [[FE-1148-cancelled-vip-is-still-searchable-in-fro|FE-1148: Cancelled VIP is still searchable in frontend POS]] |
+| 51 | [[FE-1157-mask-staff-vip-no|FE-1157: Mask staff vip no]] |
+| 52 | [[FE-1164-show-outstanding-transfer-receive-warnin|FE-1164: Show outstanding transfer receive warning when do day end process]] |
+| 53 | [[FE-1166-staff-vip-missing-staff-no-information|FE-1166: Staff VIP missing staff no information]] |
+| 54 | [[FE-1176-day-end-report-transaction-balance-and-p|FE-1176: Day End Report Transaction Balance and Payment Balance not match]] |
+| 55 | [[FE-1183-sow-ksj-print-image-on-customer-receipt-|FE-1183: SOW KSJ Print Image on Customer Receipt]] |
+| 56 | [[FE-1184-transfer-print-out-issue|FE-1184: Transfer print out issue]] |
+| 57 | [[FE-1185-sales-memo-return-voucher-print-out-issu|FE-1185: Sales memo return voucher print out issue]] |
+| 58 | [[FE-1186-v72002r07-crystal-report-add-member-jo|FE-1186: v720.02R07 Crystal Report - Add Member Join Date]] |
+| 59 | [[FE-1190-bash-receipt-print-layout-add-chinese-de|FE-1190: BASH Receipt Print Layout (add Chinese description to payment type)]] |
+| 60 | [[FE-1200-mm-coupon-discount-calculation-apply-r|FE-1200: MM Coupon Discount Calculation - Apply Rounding Method]] |
+| 61 | [[FE-1210-rounding-issue-of-discount-percentage-do|FE-1210: Rounding issue of discount percentage (dotnetprint)]] |
+| 62 | [[FE-1211-sow-of-vip-online-sales-api-and-online-|FE-1211: SOW of VIP & Online Sales API and Online Sales print in POS v1.2]] |
+| 63 | [[FE-1212-extra-bag-item-when-try-to-add-mm-coupon|FE-1212: extra bag item when try to add MM coupon after pressing 'X' to close levy]] |
+| 64 | [[FE-1213-using-x-tp-close-zero-levy-qty-will-get-|FE-1213: Using 'X' tp close zero levy Qty will get extre bag item]] |
+| 65 | [[FE-1214-search-item-with-barcode-first-instead-o|FE-1214: Search item with barcode first instead of item code]] |
+| 66 | [[FE-1221-member-recruitment-problem|FE-1221: Member recruitment problem]] |
+| 67 | [[FE-1222-sow-ksj-cr-for-printing-qr-image-on-cust|FE-1222: SOW KSJ CR for Printing QR Image on Customer Receipt]] |
+| 68 | [[FE-1224-ao-new-queen-member-turn-to-girl-after-p|FE-1224: AO new queen member turn to girl after post to BE]] |
+| 69 | [[FE-1228-display-incorrect-number-of-transaction-|FE-1228: Display incorrect number of transaction in PC23XXXX after Day End]] |
+| 70 | [[FE-1232-duplicate-void-sales-memo|FE-1232: Duplicate Void Sales Memo]] |
+| 71 | [[FE-1235-lands-display-incorrect-content-in-the-f|FE-1235: [Lands] Display incorrect content in the fields of Member Enquiry & Item Enquiry]] |
+| 72 | [[FE-1236-lands-displayed-incorrect-gender-in-seve|FE-1236: [Lands] Displayed incorrect gender in several places for a member]] |
+| 73 | [[FE-1242-lands-receipt-from-quotation-missing-inf|FE-1242: [Lands] Receipt from quotation missing info of Collect Office & Series Code]] |
+| 74 | [[FE-1243-lands-the-frist-page-of-receipt-show-hea|FE-1243: [Lands] The frist page of receipt show header only when order quantities of items over 20]] |
+| 75 | [[FE-1244-cj-receipt-customer-receipt-missing-rev|FE-1244: [CJ] Receipt & Customer receipt missing Revenue stamp when order amount over 50,000]] |
+| 76 | [[FE-1247-notification-email|FE-1247: Notification - Email]] |
+| 77 | [[FE-1253-sow-of-online-sales-api-and-online-sales|FE-1253: SOW of Online Sales API and Online Sales print in POS Coupon Handling]] |
+| 78 | [[FE-1258-lands-total-quantity-in-receipt-display-|FE-1258: [Lands] Total Quantity in receipt display as 0 when order imported from HKMS 2.0/ shop cart]] |
+| 79 | [[FE-1264-lands-fail-to-reprint-day-end|FE-1264: [Lands] Fail to Reprint Day End]] |
+| 80 | [[FE-1285-cj-pop-up-e-receipt-sending-dialogue-whe|FE-1285: [CJ] Pop up E-Receipt Sending Dialogue when users confirm to Void orders]] |
+| 81 | [[FE-1286-lands-adjustment-for-payment-information|FE-1286: [Lands] Adjustment for payment information in receipt]] |
+| 82 | [[FE-1291-bash-v72-double-void-issue-|FE-1291: BASH V72 double void issue]] |
+| 83 | [[FE-1293-lands-payment-method-blockvote-displayed|FE-1293: [Lands] Payment method: BlockVote displayed Trace No. in the receipt]] |
+| 84 | [[FE-1307-coach-e-receipt-missing-line-for-x-|FE-1307: Coach E-receipt missing line for 'x']] |
+| 85 | [[FE-1308-double-bp-redeem-for-member|FE-1308: Double BP redeem for member]] |
+| 86 | [[FE-1311-imx-sales-memo-print-extra-paper|FE-1311: IMX sales memo print extra paper.]] |
+| 87 | [[FE-1315-eft-pop-up-only-one-eft-payment-allow-in|FE-1315: [EFT] Pop up 'Only one EFT payment Allow in single transaction' when non-EFT payment method selected first, then select EFT payment]] |
+| 88 | [[FE-1318-hk-ename-follow-up-pre-scan-vip-barcode-before-sub|FE-1318-hk-ename-follow-up-pre-scan-vip-barcode-before-sub]] |
+| 89 | [[FE-1319-imx-v71-can-not-create-member-with-line-|FE-1319: IMX V71 can not create member with line '34']] |
+| 90 | [[FE-1327-lands-missing-cancellation-report-after-|FE-1327: [Lands] Missing Cancellation report after print out day end report]] |
+| 91 | [[FE-1328-lands-add-a-pop-up-notice-not-allow-mix|FE-1328: [Lands] Add a pop up notice & not allow mix up payment for users]] |
+| 92 | [[FE-1333-imx-qfpay-aliwechat-side-have-no-record-|FE-1333: IMX QFPay Ali/Wechat side have no record and we have void record.]] |
+| 93 | [[FE-1334-fe-double-byte-fe-sales-associate-aa-|FE-1334: FE double byte FE sales Associate AA]] |
+| 94 | [[FE-1344-lands-for-cancelled-order-no-need-to-rep|FE-1344: [Lands] For cancelled order, no need to reprint copy]] |
+| 95 | [[FE-1352-cs-904issue-_ks_staff-member-is-missing-|FE-1352: CS-904:Issue _KS_staff member is missing from FE DB RIN01293371 RIN01300770]] |
+| 96 | [[FE-1354-coachcn-print-out-v75-checking|FE-1354: [Coach][CN] Print out V75 checking]] |
+| 97 | [[FE-1361-ksjv75-day-end-report-issue|FE-1361: [KSJ][v75] Day end report issue]] |
+| 98 | [[FE-1362-coach-v75-web-sales-memo-amount-0|FE-1362: Coach V75 web sales memo amount = 0]] |
+| 99 | [[FE-1386-v75-day-end-missing-rpxxxxxxm-file-in-ti|FE-1386: [v75] day end missing RPXXXXXX.M file in till 0]] |
+| 100 | [[FE-1410-re-test-eft-payment-in-v75-64-bit|FE-1410: Re-test EFT payment in V75 (64 bit)]] |
+| 101 | [[FE-1422-hkjc-rems-error-sanyoposdcnc-todo-getm|FE-1422: [HKJC] REMS error - SanyoPos.DCNC 'Todo GetMemberBaseInfoByMemberNo.' error pop up]] |
+| 102 | [[FE-1433-sq0343-106-mvp-1-the-spending-value-did-|FE-1433: SQ0343-106 [MVP 1] The spending value did not update after using spending value to settle payment in REMS]] |
+| 103 | [[FE-1434-clone-sq0343-106-mvp-1-the-spending-va|FE-1434: CLONE - SQ0343-106 [MVP 1] The spending value did not update after using spending value to settle payment in REMS]] |
+| 104 | [[FE-1476-hkjc-rems-cwl-mvp1-bug-fixes|FE-1476: HKJC REMS CWL MVP1 Bug fixes]] |
+| 105 | [[FE-1481-coachjp-close-saleshubexe-printhubexe-m|FE-1481: [Coach][JP] Close SalesHub.exe, printhub.exe & MPOS after Dayend]] |
+| 106 | [[FE-1497-rems_to-identify-migrated-p-card-custome|FE-1497: REMS_To identify migrated P card customers and offer discount]] |
+| 107 | [[FE-1499-cs-1139-v75-sg-redo-day-end-preview-fo|FE-1499: [CS-1139] V75 - SG redo day end preview format is not correct]] |
+| 108 | [[FE-1525-coach-my-bdo-qr-code-doesnt-contain-an|FE-1525: Coach MY BDO - QR code doesn't contain any information after identity=]] |
+| 109 | [[FE-1528-sales-hub-mpos-after-scanning-item-the-a|FE-1528: Sales Hub MPOS after scanning item the auto focus to search bar]] |
+| 110 | [[FE-1530-coach-my-bdo-e-receipt-void-reason-tex|FE-1530: Coach MY BDO - e-receipt (void) reason text is cut off at bottom]] |
+| 111 | [[FE-1537-coach-my-ereceipt-printing-laser-voi|FE-1537: Coach MY - ereceipt printing LASER - void eReceipt 'Void Reason' is cut off]] |
+| 112 | [[FE-1542-coachcrm-milestone-2-search-a-member-by-|FE-1542: [Coach][CRM milestone 2] Search a member by Scan QR code but Button of Purchase history & Profile dimmed]] |
+| 113 | [[FE-1545-coach-sea-qr-code-ename-capture|FE-1545: Coach SEA QR Code eName Capture]] |
+| 114 | [[FE-1552-cs-1206-v75-ksj-logo-and-ksj-qr-code-s|FE-1552: [CS-1206] V75 - KSJ logo and KSJ QR code showing up in receipt]] |
+| 115 | [[FE-1553-coachcrm-milestone-2-pos-display-2-same-|FE-1553: [Coach][CRM milestone 2] POS display 2 same result after scan dyncmic QR code with member No.]] |
+| 116 | [[FE-1556-coachcrm-milestone-2-need-to-send-tel-no|FE-1556: [Coach][CRM milestone 2] Need to send tel no.  to beapi when use QR code find member]] |
+| 117 | [[FE-1559-revise-for-rems-discount-offer-logic|FE-1559: Revise for REMS discount offer logic]] |
+| 118 | [[FE-1567-cs-1128-for-cn-ocf87-10013580-is-used-to-void-ocf8|FE-1567-cs-1128-for-cn-ocf87-10013580-is-used-to-void-ocf8]] |
+| 119 | [[FE-1569-cs-1148-issue_kr_not-able-to-return-item|FE-1569: [CS-1148] Issue_KR_not able to return items sold from other store RIN01369752 RIN01390154 RIN01388455 CS-1119]] |
+| 120 | [[FE-1572-item-tax-rate|FE-1572: Item Tax Rate]] |
+| 121 | [[FE-1583-coachtax-rate-print-out-of-receipt-print|FE-1583: [Coach][Tax rate] Print out of Receipt printing display 'Reprint' wording]] |
+| 122 | [[FE-1612-cs-1334-rin01443208-sales-memo-preview|FE-1612: [CS-1334] - RIN01443208-sales memo preview no printing function]] |
+| 123 | [[FE-1613-rin01443610-jp-j375-mpos-the-sa-acc|FE-1613: RIN01443610-JP - J375 - Mpos : The SA account displayed in the transaction logged in on Mpos is incorrect]] |
+| 124 | [[FE-1641-fepos-ereceipt-enhancementui-ereceipt-f|FE-1641: FEPOS eReceipt Enhancement(UI + eReceipt flow)]] |
+| 125 | [[FE-1647-inc2843247-ksj-c397升级到v75以后无法取消打印店铺和客户两联|FE-1647: [INC2843247] KSJ C397升级到V75以后，无法取消打印店铺和客户两联销售单。]] |
+| 126 | [[FE-1686-jc-rtm-deposit-settlement-set-default-|FE-1686: JC RTM Deposit Settlement - Set Default Member Selection Method]] |
+| 127 | [[FE-1697-rems-update-new-logo-on-the-receipt|FE-1697: REMS Update New Logo on the receipt]] |
+| 128 | [[FE-1703-rems-pos-needs-user-interaction-if-sales|FE-1703: REMS POS needs user interaction if sales memo print more than one page]] |
+| 129 | [[FE-1715-cs-1463-new-request-for-reprinting-recei|FE-1715: [CS-1463] New Request for Reprinting receipt]] |
+| 130 | [[FE-1722-lcx-v75-printing-customer-service-coun|FE-1722: LCX v75 Printing - Customer Service Counter Operation]] |
+| 131 | [[FE-1723-sph-s09-sales-memo-issue|FE-1723: [SPH] S09 sales memo issue]] |
+| 132 | [[FE-1724-cs-1487-no-qty-for-void-and-return-deposit-listed-|FE-1724-cs-1487-no-qty-for-void-and-return-deposit-listed-]] |
+| 133 | [[FE-1728-coach-laser-day-end-report-still-display-按金單數量-whe|FE-1728-coach-laser-day-end-report-still-display-按金單數量-whe]] |
+| 134 | [[FE-1729-ocf5tc00002166店铺确认未使用二维码查询但在714日20点的查询过程|FE-1729: OCF5TC00002166,店铺确认未使用二维码查询，但在7.14日20点的查询过程中，该会员号被自动创建。]] |
+| 135 | [[FE-1737-re-cs2000-sales-memo-symbol-enquiry|FE-1737: RE: CS2000 - Sales Memo Symbol Enquiry]] |
+| 136 | [[FE-1740-cs-1511-day-end-issue_-cj-v75-pilot-at-j|FE-1740: [CS-1511] Day end issue_ CJ V7.5 pilot at J317/J328]] |
+| 137 | [[FE-1744-inc3126256cs-1568ksj_items-sale-price-ha|FE-1744: [INC3126256][CS-1568]KSJ_item's sale price has variance between POS and receipt]] |
+| 138 | [[FE-1757-v75-petty-cash-print-out-tmulaser|FE-1757: V75 Petty Cash Print Out - TMU/Laser]] |
+| 139 | [[FE-1758-v75-cash-pickup-print-out-tmulaser|FE-1758: V75 Cash Pickup Print Out - TMU/Laser]] |
+| 140 | [[FE-1761-bash-incorrect-day-end-print-out-not-fit|FE-1761: [BASH] Incorrect Day End print out not fit in the A4 size paper]] |
+| 141 | [[FE-1765-when-a-stores-till-doesnt-complete-dayen|FE-1765: When a store's Till doesn't complete Dayend, there is no prompt on Till 0 (INC3227274)]] |
+| 142 | [[FE-1767-bash-footer-of-sales-memo-in-laser-mode-|FE-1767: [BASH] Footer of sales memo in Laser mode used with FOOTSALES.TXT]] |
+| 143 | [[FE-1770-anz-tmu-receipt-printingtax-exemption-f|FE-1770: ANZ TMU Receipt printing(Tax Exemption & Footer]] |
+| 144 | [[FE-1772-inc3247094prc-oc316-posv75sales-memo-000|FE-1772: [INC3247094]PRC OC316 POSv75,Sales memo 00004891 invoice QR code can't be printed out]] |
+| 145 | [[FE-1792-ao-v75-day-end-print-out-issue|FE-1792: [AO] V75 Day End print out issue]] |
+| 146 | [[FE-1805-anztax-exempt-missing-row-of-exclusive-t|FE-1805: [ANZ][Tax Exempt] Missing row of 'Exclusive Tax Amount' on the TMU print out]] |
+| 147 | [[FE-1832-ppr-62-fe-configuration-customer-informa|FE-1832: PPR-62 <FE Configuration> Customer Information in Receipt]] |
+| 148 | [[FE-1846-bash-store-cannot-online-search-new-vip-in-v75|FE-1846-bash-store-cannot-online-search-new-vip-in-v75]] |
+| 149 | [[FE-1848-anz-fe-follow-up-issue|FE-1848: ANZ FE follow up issue]] |
+| 150 | [[FE-1859-bash-after-seearch-member-not-exists-in-local-dbma|FE-1859-bash-after-seearch-member-not-exists-in-local-dbma]] |
+| 151 | [[FE-1868-ppr-116-issue_anz_inc3421547_anz-stores-|FE-1868: [PPR-116] Issue_ANZ_INC3421547_ANZ stores cash drawer function request]] |
+| 152 | [[FE-1883-hkjc-rems-b223-print-day-end-issue|FE-1883: HKJC REMS B223 Print Day End Issue]] |
+| 153 | [[FE-1889-cs-2095inc3439918-cn-00013669-sales-mem|FE-1889: [CS-2095][INC3439918] CN 00013669  sales memo not shows the invoice QR code]] |
+| 154 | [[FE-1901-cs-2058-issue_anz_inc3434107_question-ab|FE-1901: [CS-2058] Issue_ANZ_INC3434107_Question about Day END Cash Balancing]] |
+| 155 | [[FE-1927-imx-v75-sales-memo-tmu-print-layout|FE-1927: IMX V75 sales memo TMU print layout]] |
+| 156 | [[FE-1938-v75-laser-print-out-missing-vip-name-ty|FE-1938: V75 Laser print out missing VIP name & type]] |
+| 157 | [[FE-675-sport-house-day-end-daily-sales-summar|FE-675: Sport House Day End - Daily Sales Summary]] |
+| 158 | [[FE-734-customer-info-capture-from-wechat-phase-|FE-734: Customer Info Capture from WeChat (Phase 1)]] |
+| 159 | [[FE-812-void-sales-transaction-can-use-cash-coupon-but-voi|FE-812-void-sales-transaction-can-use-cash-coupon-but-voi]] |
+| 160 | [[FE-814-member-gift-redemption-incorrect-bonus-p|FE-814: member gift redemption, incorrect bonus point balance]] |
+| 161 | [[FE-815-add-log-of-parse-member-qr-code-result|FE-815: add log of parse Member QR Code result]] |
+| 162 | [[FE-820-ticket-2020152-sales-memo-net-amt-not-ma|FE-820: Ticket 2020152 Sales memo net amt not match with payment amount]] |
+| 163 | [[FE-827-f1-function-key-is-not-work-to-search-me|FE-827: [F1] function key is not work to search member]] |
+| 164 | [[FE-834-new-member-created-from-member-panel-can|FE-834: new member created from member panel can't enjoy MM discount]] |
+| 165 | [[FE-836-member-gift-redemption-incorrect-bonus-p|FE-836: Member gift redemption, incorrect bonus point balance printed on memo]] |
+| 166 | [[FE-837-void-service-memo-support-online-payme|FE-837: Void Service Memo - Support Online Payment]] |
+| 167 | [[FE-838-void-gift-cert-memo-support-online-pa|FE-838: Void Gift Cert  Memo - Support Online Payment]] |
+| 168 | [[FE-839-void-deposit-memo-support-online-payme|FE-839: Void Deposit Memo - Support Online Payment]] |
+| 169 | [[FE-855-cs2000pos-x64-bit-dot-net-dayend-imx-tes|FE-855: CS2000POS X64 BIT Dot Net Dayend (IMX Test)]] |
+| 170 | [[FE-857-ksj-discount-variance-due-to-tax-exemp|FE-857: KSJ - discount variance due to tax exemption]] |
+| 171 | [[FE-887-hkjc-sales-receipt-display-9999-qty|FE-887: HKJC Sales Receipt Display 9999 Qty]] |
+| 172 | [[FE-895-cs2000pos-x64-bit-dot-net-print-error-in|FE-895: CS2000POS X64 BIT Dot Net Print error in sales memo, but normal in dayend]] |
+| 173 | [[FE-898-r14x-patch-testing-issues|FE-898: R14X patch testing issues]] |
+| 174 | [[FE-901-cash-coupon-show-repeat-|FE-901: cash coupon show repeat]] |
+| 175 | [[FE-902-agile-new-member-expire-date|FE-902: Agile New Member Expire Date]] |
+| 176 | [[FE-916-mpos-117-sales-by-mobile-pos-is-not-refl|FE-916: MPOS #117 :Sales by mobile POS is not reflected on Sales by Casher screen.]] |
+| 177 | [[FE-929-incorrect-bp-print-out-|FE-929: Incorrect BP print out]] |
+| 178 | [[FE-937-sales-enquiry-total-sales-net-sales-sho|FE-937: Sales enquiry total sales & net sales show 0]] |
+| 179 | [[FE-941-missing-first-name-and-last-name-in-new-|FE-941: Missing First Name and Last Name in new member creation in Deposit & GC memo]] |
+| 180 | [[FE-942-tw-qa-deposit-printing-issue|FE-942: TW QA Deposit printing issue]] |
+| 181 | [[FE-944-multiple-disc-promotion-not-work|FE-944: Multiple disc. promotion not work]] |
+| 182 | [[FE-947-in-sales-inquiry-data-shows-0-in-print-o|FE-947: In sales inquiry data shows 0 in print out]] |
+| 183 | [[FE-971-deposit-settlement-should-apply-new-crm-option-ui-|FE-971-deposit-settlement-should-apply-new-crm-option-ui-]] |
+| 184 | [[FE-972-staff-purchase-quota-calculation-logic-with-mm-cou|FE-972-staff-purchase-quota-calculation-logic-with-mm-cou]] |
+| 185 | [[FE-976-hkjc-wave-3-simplified-chinese-version|FE-976: HKJC Wave 3 - Simplified Chinese Version]] |
+| 186 | [[FE-980-cj-loyalty-no-reminder-ecoupon-display|FE-980-cj-loyalty-no-reminder-ecoupon-display]] |
+| 187 | [[FE-983-cash-coupon-tender-amount-not-match-sel|FE-983: cash coupon  tender Amount not match selected cash coupon amount]] |
+| 188 | [[FE-988-update-extend-db-structure-for-tblcoupon|FE-988: Update/ Extend db structure for tblcoupon in dbtrans and dbsse to support 15 digit coupon]] |
+| 189 | [[FE-992-sales-enquiry-by-category-overflow|FE-992: Sales Enquiry By Category - overflow]] |
+| 190 | [[FE-995-no-redeemed-coupon-status-upadte-for-voi|FE-995: no redeemed coupon status upadte for voided memo in PC file]] |
+| 191 | [[FE-997-member-details-searching-screen|FE-997: Member details searching screen]] |
+| 192 | [[MP-134-payment-module-add-config-to-control-e|MP-134: Payment Module - Add Config to Control E-receipt ON/OFF]] |
+| 193 | [[MP-194-show-sales-staff-id-and-customer-name-in|MP-194: Show Sales Staff ID and Customer Name in Payment Screen]] |
+| 194 | [[MP-204-payment-module-display-staff-id-vip-in|MP-204: Payment Module - Display staff ID, VIP Info in Payment Screen]] |
+| 195 | [[MP-250-integration-of-sales-memo-controller|MP-250: Integration of Sales Memo Controller]] |
+| 196 | [[MP-285-ipad-sales-09|MP-285: iPad Sales - 09]] |
+| 197 | [[MP-298-mpos-no-option-button-void-online-transa|MP-298: MPOS no option button void online transaction only]] |
+| 198 | [[MP-363-tw-production-issue-incorrect-on-sales-p|MP-363: TW production issue: incorrect on sales price]] |
+| 199 | [[MP-371-member-enquiry-read-barcode-and-search|MP-371: Member Enquiry - Read barcode and searching according to the selected criteria]] |
+| 200 | [[MP-379-internal-fix-member-qr-code-filter-issue|MP-379: Internal-Fix Member QR Code Filter Issue]] |
+| 201 | [[MP-422-enhancement-for-staff-member-search|MP-422: Enhancement for staff member search]] |
+| 202 | [[MP-428-cj124-add-barcode-scan-for-sales-assoc|MP-428: CJ#124 - add barcode scan for sales associate]] |
+| 203 | [[MP-435-sales-preview-type-is-different-from-har|MP-435: Sales Preview Type is different from Hardcopy in Cloud]] |
+| 204 | [[MP-438-enhanced-getcashierlist-getsalemanlist-|MP-438: Enhanced GetCashierList & GetSalemanList in Sales Memo]] |
+| 205 | [[MP-456-e-coupon-click-on-reprint-screen-display|MP-456: E-coupon click on reprint screen display product not found]] |
+| 206 | [[MP-472-multi-mm-coupon-selection|MP-472: Multi-MM coupon selection]] |
+| 207 | [[MP-482-wrong-expired-date-19000101-of-new-membe|MP-482: Wrong Expired Date (1900/01/01) of New Member [AQ-19]]] |
+| 208 | [[MP-485-missing-nationality-option-box-for-coach|MP-485: Missing Nationality Option Box for Coach JP in TaxExempt Memo]] |
+| 209 | [[MP-498-ui-enhancement-for-deposit-return-and-de|MP-498: UI enhancement for deposit return and deposit void when the staff comfirm the message]] |
+| 210 | [[MP-520-multi-disc-perc-mm-coupon|MP-520: Multi Disc Perc MM Coupon]] |
+| 211 | [[MP-529-mpos-cloud-printing-customer-receipt-p|MP-529: MPOS Cloud Printing - Customer receipt printing 领收书]] |
+| 212 | [[MP-534-print-qr-code-option-appears-when-issuin|MP-534: Print QR Code option appears when issuing return memo]] |
+| 213 | [[MP-540-rin01039287-memo-price|MP-540: RIN01039287: Memo price]] |
+| 214 | [[MP-552-disable-the-preview-when-reprint-the-sal|MP-552: disable the preview when reprint the sales memo]] |
+| 215 | [[MP-557-mposmissing-customer-name-on-the-print-o|MP-557: [MPOS]Missing customer name on the print out]] |
+| 216 | [[MP-566-cumtomer-survey-not-ready|MP-566: Cumtomer Survey not ready]] |
+| 217 | [[MP-569-manual-overwrite-the-discount|MP-569: Manual overwrite the discount]] |
+| 218 | [[MP-602-sow-of-getting-back-end-sales-to-print-i|MP-602: SOW of Getting Back End Sales to print in POS]] |
+| 219 | [[MP-616-mpos-print-receipt-missing-member-name|MP-616-mpos-print-receipt-missing-member-name]] |
+| 220 | [[MP-617-suggest-to-display-credit-card-details-|MP-617: Suggest to display credit card details]] |
+| 221 | [[MP-618-section-of-input-item-no-would-disapear-|MP-618: Section of input item no. would disapear after delete the 6th added item]] |
+| 222 | [[MP-623-display-unusual-screen-after-tab-pay-und|MP-623: Display unusual screen after tab Pay under network disconnect condition]] |
+| 223 | [[MP-624-return-sales-memo-display-incorect-total|MP-624: Return sales memo display incorect total amount]] |
+| 224 | [[MP-637-cashier-staffs-id-is-still-existing-afte|MP-637: Cashier staff's ID is still existing after transaction completed]] |
+| 225 | [[MP-649-l1010b-coupon-discount-variance|MP-649-l1010b-coupon-discount-variance]] |
+| 226 | [[MP-655-q2023-046-erm-tapestry-japan-sow-coach|MP-655: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1]] |
+| 227 | [[MP-720-cs-1179-saleshub-mpos-after-input-sn-n|MP-720: [CS-1179] SalesHub - MPOS after input SN No for selected item, keyboard would not auto hide]] |
+| 228 | [[MP-723-coachcrm-milestone-2-display-1-member-re|MP-723: [Coach][CRM milestone 2] Display 1 member result only but Backend Db has more than 1 same tel records]] |
+| 229 | [[MP-733-mpos-56queue-busting-member-info-would|MP-733: [MPOS-56]Queue Busting - Member Info would be cleared out after update on MPOS]] |
+| 230 | [[MP-744-cs-1339took-approx-3mins-to-search-for-v|MP-744: [CS-1339]Took approx 3mins to search for VIP on mPOS]] |
+| 231 | [[MP-755-mpos-ereceipt-enhancement-ui-ereceipt-f|MP-755: MPOS eReceipt Enhancement (UI + eReceipt Flow)]] |
+| 232 | [[MP-759-mpos-84-mpos-v3295-hk-region-for-the-pri|MP-759: [MPOS-84] MPOS V3.29.5 HK Region, for the print function should print directly instead pop-up window]] |
+| 233 | [[MP-781-mposcs-1463-new-request-for-reprinting-r|MP-781: [MPOS][CS-1463] New Request for Reprinting receipt]] |
+| 234 | [[MP-785-coach-receipt-from-receipt-printing-are|MP-785: [Coach]  Receipt from receipt printing are missing QR code & order number]] |
+| 235 | [[WEB-204-add-log-in-ename-for-member-search-page-|WEB-204: Add log in Ename for member search page - Barcode and detail un match]] |
+| 236 | [[WEB-210-cj-loyalty-issue-use-ecoupon_redeem_stat|WEB-210: CJ Loyalty issue: use ecoupon_redeem_status to check whether ecoupon available]] |
+| 237 | [[WEB-221-bug-ename-duplicate-vip-id|WEB-221: Bug - Ename duplicate VIP ID]] |
+| 238 | [[WEB-25-csplus-se1001_item_details-sql-v66-han|WEB-25: csplus - SE1001_Item_Details SQL v66 handling]] |
+| 239 | [[WEB-250-online-sales-file-downloaded|WEB-250: ‘Online sales’ file downloaded]] |
+| 240 | [[WEB-251-fix-in-member-edit-function|WEB-251: Fix in Member Edit Function]] |
+| 241 | [[WEB-253-web-close-po-process-auto-without-extrac|WEB-253: Web Close PO Process (Auto) without Extract]] |
+| 242 | [[WEB-262-sow-of-vip-online-sales-api-and-online-|WEB-262: SOW of VIP & Online Sales API and Online Sales print in POS v1.2]] |
+| 243 | [[WEB-322-sow-of-online-sales-api-and-online-sales|WEB-322: SOW of Online Sales API and Online Sales print in POS Coupon Handling]] |
+| 244 | [[WEB-327-ename-customer-conform-page-display-for-|WEB-327: [eName] Customer conform page display for email 1 and email 2]] |
+| 245 | [[WEB-364-ename-when-clicking-on-modify-in-touri|WEB-364: ename - when clicking on Modify in tourist registration, the page should return to tourist page]] |
+| 246 | [[WEB-366-cs-1229-ename-when-modify-customer-inf|WEB-366: [CS-1229] eName - When modify customer info, 'Gender' & 'Opt-in' default value is incorrect]] |
+| 247 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for]] |
+| 248 | [[WEB-404-tw-crm-cross-border-check|WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need]] |
 
-### ?? (1 筆)
-
-- [[07_Workflow_Business/index|index]] — index.md (分數: ?)
-
-### Backend (225 筆)
-
-- [[07_Workflow_Business/BE-1000-cs-1341cs-1183-same-member-id-with-diffe|BE-1000]] — 1000 cs 1341cs 1183 same member id with diffe (分數: 6.5)
-- [[07_Workflow_Business/BE-1001-cs-1333-oss-enhancement-for-polling|BE-1001]] — 1001 cs 1333 oss enhancement for polling (分數: 6.5)
-- [[07_Workflow_Business/BE-1002-cs-1351-issue_hk_pos-reconsolidation-hav|BE-1002]] — 1002 cs 1351 issue_hk_pos reconsolidation hav (分數: 9.0)
-- [[07_Workflow_Business/BE-1006-rin01453283cs-1383tw-ocf820t00012419-mem|BE-1006]] — 1006 rin01453283cs 1383tw ocf820t00012419 mem (分數: 6.0)
-- [[07_Workflow_Business/BE-1009-imx-member-search-error-text-contains-un|BE-1009]] — 1009 imx member search error text contains un (分數: 6.0)
-- [[07_Workflow_Business/BE-1011-rin01457238rin01457099mo-region-3-stores|BE-1011]] — 1011 rin01457238rin01457099mo region 3 stores (分數: 7.0)
-- [[07_Workflow_Business/BE-1013-email-if-there-is-similar-error-in-tw-vi|BE-1013]] — 1013 email if there is similar error in tw vi (分數: 8.0)
-- [[07_Workflow_Business/BE-1014-data-unavailable-in-datamart-for-15-21-j|BE-1014]] — 1014 data unavailable in datamart for 15 21 j (分數: 7.5)
-- [[07_Workflow_Business/BE-1017-coachpipl-when-exit_permit-1-upserted-va|BE-1017]] — 1017 coachpipl when exit_permit 1 upserted va (分數: 5.0)
-- [[07_Workflow_Business/BE-1019-coachpiplbeapi-rerurn-incorrect-error-me|BE-1019]] — 1019 coachpiplbeapi rerurn incorrect error me (分數: 8.5)
-- [[07_Workflow_Business/BE-1022-cs-1302-cj-e-receipt-performance-improve|BE-1022]] — 1022 cs 1302 cj e receipt performance improve (分數: 6.0)
-- [[07_Workflow_Business/BE-1023-beapi-enhancement-pdf-handling-request-n|BE-1023]] — 1023 beapi enhancement pdf handling request n (分數: 4.0)
-- [[07_Workflow_Business/BE-1027-cs-1374-issue-prc-alert-error-occurred-w|BE-1027]] — 1027 cs 1374 issue prc alert error occurred w (分數: 7.0)
-- [[07_Workflow_Business/BE-1028-cs-1376-my-e-invoice-ocf77-20228699-unab|BE-1028]] — 1028 cs 1376 my e invoice ocf77 20228699 unab (分數: 7.5)
-- [[07_Workflow_Business/BE-1029-cs-1370-landlord-changi-city-interface-e|BE-1029]] — 1029 cs 1370 landlord changi city interface e (分數: 8.0)
-- [[07_Workflow_Business/BE-1031-acu-121acxiondo-not-repeat-call-for-3-ti|BE-1031]] — 1031 acu 121acxiondo not repeat call for 3 ti (分數: 5.5)
-- [[07_Workflow_Business/BE-1032-acu-122-email-field-when-search-customer|BE-1032]] — 1032 acu 122 email field when search customer (分數: 6.5)
-- [[07_Workflow_Business/BE-1034-cs-1359sow-of-ks-sea-crm-sales-registrat|BE-1034]] — 1034 cs 1359sow of ks sea crm sales registrat (分數: 8.0)
-- [[07_Workflow_Business/BE-1037--sow-of-cn-disney-sales-interface|BE-1037]] — 1037  sow of cn disney sales interface (分數: 4.5)
-- [[07_Workflow_Business/BE-1038-api-ponumber如果入了invalid-value會timeout|BE-1038]] — 1038 api ponumber如果入了invalid value會timeout (分數: 7.5)
-- [[07_Workflow_Business/BE-1041-crm-pop-up-incorrect-error-message-when-|BE-1041]] — 1041 crm pop up incorrect error message when (分數: 7.0)
-- [[07_Workflow_Business/BE-1042-20250407-amount-is-less-than-item-sales-|BE-1042]] — 1042 20250407 amount is less than item sales (分數: 5.5)
-- [[07_Workflow_Business/BE-1043-20250407-payment-code-does-not-correspon|BE-1043]] — 1043 20250407 payment code does not correspon (分數: 5.5)
-- [[07_Workflow_Business/BE-1045-20250408-payment-code-field-mapping-erro|BE-1045]] — 1045 20250408 payment code field mapping erro (分數: 6.0)
-- [[07_Workflow_Business/BE-1046-cs-1396my-e-invoice-api-data-issue|BE-1046]] — 1046 cs 1396my e invoice api data issue (分數: 7.0)
-- [[07_Workflow_Business/BE-1049-cs-1395-invalid-pop-up-window-for-cn-emp|BE-1049]] — 1049 cs 1395 invalid pop up window for cn emp (分數: 5.5)
-- [[07_Workflow_Business/BE-1050-cs-1379pangdonglai-store-daily-sales-int|BE-1050]] — 1050 cs 1379pangdonglai store daily sales int (分數: 4.5)
-- [[07_Workflow_Business/BE-1051-cs-1390-car-interface-changing-the-posti|BE-1051]] — 1051 cs 1390 car interface changing the posti (分數: 8.0)
-- [[07_Workflow_Business/BE-1052-cs-1386issue_cn_mst-skuonsale-table-inve|BE-1052]] — 1052 cs 1386issue_cn_mst skuonsale table inve (分數: 4.0)
-- [[07_Workflow_Business/BE-1053-cs-1388issue_prc_price-group-is-not-work|BE-1053]] — 1053 cs 1388issue_prc_price group is not work (分數: 5.0)
-- [[07_Workflow_Business/BE-1055-sow-of-changing-car-interface-posting-da|BE-1055]] — 1055 sow of changing car interface posting da (分數: 6.5)
-- [[07_Workflow_Business/BE-1059-cs-1413issue_p-type-in-cs2000|BE-1059]] — 1059 cs 1413issue_p type in cs2000 (分數: 8.0)
-- [[07_Workflow_Business/BE-1061-bash-pop-up-printing-error-before-comple|BE-1061]] — 1061 bash pop up printing error before comple (分數: 7.5)
-- [[07_Workflow_Business/BE-1062-hkalert-error-occurred-when-call-acxiom-|BE-1062]] — 1062 hkalert error occurred when call acxiom (分數: 7.0)
-- [[07_Workflow_Business/BE-1065-coachkr-printagent-x32tmuprint-stop-work|BE-1065]] — 1065 coachkr printagent x32tmuprint stop work (分數: 7.0)
-- [[07_Workflow_Business/BE-1067-cs-1423-callout-from-coolbe-on-cs2k-qa-e|BE-1067]] — 1067 cs 1423 callout from coolbe on cs2k qa e (分數: 8.0)
-- [[07_Workflow_Business/BE-1068-cs-1153-sow-of-korea-pip-ui-masking-enha|BE-1068]] — 1068 cs 1153 sow of korea pip ui masking enha (分數: 6.0)
-- [[07_Workflow_Business/BE-107-cr0006-general-point-calculation-web-bas|BE-107]] — 107 cr0006 general point calculation web bas (分數: 4.5)
-- [[07_Workflow_Business/BE-1139-inc3027922-jp-order-j152-e0002473-come-f|BE-1139]] — 1139 inc3027922 jp order j152 e0002473 come f (分數: 6.0)
-- [[07_Workflow_Business/BE-1142-sowcoachcn-salesorder-enquiry-for-integr|BE-1142]] — 1142 sowcoachcn salesorder enquiry for integr (分數: 5.5)
-- [[07_Workflow_Business/BE-1143-acu-170-response-status-code-does-not-in|BE-1143]] — 1143 acu 170 response status code does not in (分數: 4.5)
-- [[07_Workflow_Business/BE-1146-cs-1479-issue_prc_member-update-informat|BE-1146]] — 1146 cs 1479 issue_prc_member update informat (分數: 5.0)
-- [[07_Workflow_Business/BE-1147-cs-2025069-online-coupon-for-mm-redempti|BE-1147]] — 1147 cs 2025069 online coupon for mm redempti (分數: 4.0)
-- [[07_Workflow_Business/BE-1156-cs-1523price-checker-the-onsale-price-ca|BE-1156]] — 1156 cs 1523price checker the onsale price ca (分數: 7.0)
-- [[07_Workflow_Business/BE-1158-inc3138937客人新注册会员成功后user告知确认注册成功了因为弹出了会员|BE-1158]] — 1158 inc3138937客人新注册会员成功后user告知确认注册成功了因为弹出了会员 (分數: 6.0)
-- [[07_Workflow_Business/BE-1166-cs-1244-inc2939533issue_cn_not-able-to-c|BE-1166]] — 1166 cs 1244 inc2939533issue_cn_not able to c (分數: 4.0)
-- [[07_Workflow_Business/BE-1171-cs-1579-lgv-payment-orders-from-pangdong|BE-1171]] — 1171 cs 1579 lgv payment orders from pangdong (分數: 6.5)
-- [[07_Workflow_Business/BE-1174-cs-1674-cs-549request_curent-onsales-pri|BE-1174]] — 1174 cs 1674 cs 549request_curent onsales pri (分數: 4.0)
-- [[07_Workflow_Business/BE-1182-pangdonglai-api-modification-|BE-1182]] — 1182 pangdonglai api modification (分數: 6.0)
-- [[07_Workflow_Business/BE-1184-cs-1782inc3219590-kr-tax-amount-of-some-|BE-1184]] — 1184 cs 1782inc3219590 kr tax amount of some (分數: 5.0)
-- [[07_Workflow_Business/BE-1193-ppr-22-anz-pos-au-20-web-sales-import-er|BE-1193]] — 1193 ppr 22 anz pos au 20 web sales import er (分數: 8.0)
-- [[07_Workflow_Business/BE-1194-inc3276962-car-error-tw-ocf82-00116396-s|BE-1194]] — 1194 inc3276962 car error tw ocf82 00116396 s (分數: 7.0)
-- [[07_Workflow_Business/BE-1195-ticket-no-2025083-10stpe01-2410-dayend-v|BE-1195]] — 1195 ticket no 2025083 10stpe01 2410 dayend v (分數: 8.0)
-- [[07_Workflow_Business/BE-1205-cs-1786-member-master-maintenance-and-me|BE-1205]] — 1205 cs 1786 member master maintenance and me (分數: 6.5)
-- [[07_Workflow_Business/BE-1212-ppr-47-anz-pos-the-ks-au-be-payment-type|BE-1212]] — 1212 ppr 47 anz pos the ks au be payment type (分數: 6.0)
-- [[07_Workflow_Business/BE-1214-inc3319642-prc-posting-oss_b-delay|BE-1214]] — 1214 inc3319642 prc posting oss_b delay (分數: 8.0)
-- [[07_Workflow_Business/BE-1217-discountvariance-issue-related-to-jouinv|BE-1217]] — 1217 discountvariance issue related to jouinv (分數: 6.0)
-- [[07_Workflow_Business/BE-1219-new-sales-export-interface-for-mayang-ma|BE-1219]] — 1219 new sales export interface for mayang ma (分數: 7.0)
-- [[07_Workflow_Business/BE-1220-exclude-lgv-miscalculation-of-pangdongla|BE-1220]] — 1220 exclude lgv miscalculation of pangdongla (分數: 7.0)
-- [[07_Workflow_Business/BE-1224-cs-1998-ean-code-does-not-exist-in-one-o|BE-1224]] — 1224 cs 1998 ean code does not exist in one o (分數: 6.0)
-- [[07_Workflow_Business/BE-1225-sow-of-tapestry-anz-gift-card-handling|BE-1225]] — 1225 sow of tapestry anz gift card handling (分數: 4.0)
-- [[07_Workflow_Business/BE-1229-cs-2030-cs-2053-cj-dsa-onsalesprice-not-|BE-1229]] — 1229 cs 2030 cs 2053 cj dsa onsalesprice not (分數: 6.0)
-- [[07_Workflow_Business/BE-1232-cs-2099-anz-gcsap-cannot-process-void-gc|BE-1232]] — 1232 cs 2099 anz gcsap cannot process void gc (分數: 10.0)
-- [[07_Workflow_Business/BE-1234-anz-gift-card-face-value|BE-1234]] — 1234 anz gift card face value (分數: 5.0)
-- [[07_Workflow_Business/BE-1235-cs-1412-issue_oc555-landlord-sales-inter|BE-1235]] — 1235 cs 1412 issue_oc555 landlord sales inter (分數: 7.0)
-- [[07_Workflow_Business/BE-1240-cs-2337anz_anz-cs2000-sales-staff-privil|BE-1240]] — 1240 cs 2337anz_anz cs2000 sales staff privil (分數: 5.0)
-- [[07_Workflow_Business/BE-1263-inc3572034-coach-au-ocfa221-re-send-e-re|BE-1263]] — 1263 inc3572034 coach au ocfa221 re send e re (分數: 6.5)
-- [[07_Workflow_Business/BE-1266--inc3586573there-are-some-g-type-member-|BE-1266]] — 1266  inc3586573there are some g type member (分數: 7.5)
-- [[07_Workflow_Business/BE-314-member-sync-in-cn-hk-mo-v66|BE-314]] — 314 member sync in cn hk mo v66 (分數: 4.0)
-- [[07_Workflow_Business/BE-315-member-sync-in-cn-hk-mo-v7|BE-315]] — 315 member sync in cn hk mo v7 (分數: 4.0)
-- [[07_Workflow_Business/BE-326-sow-of-coach-korea-official-ecom-site-sa|BE-326]] — 326 sow of coach korea official ecom site sa (分數: 4.0)
-- [[07_Workflow_Business/BE-329-searching-with-first-keyword-shows-dupli|BE-329]] — 329 searching with first keyword shows dupli (分數: 6.5)
-- [[07_Workflow_Business/BE-331-sow-of-tapestry-japan-exlog-ecom-sales-i|BE-331]] — 331 sow of tapestry japan exlog ecom sales i (分數: 4.0)
-- [[07_Workflow_Business/BE-332-customer-info-capture-from-wechat-phase-|BE-332]] — 332 customer info capture from wechat phase (分數: 4.5)
-- [[07_Workflow_Business/BE-343-kscj-exlog-ecom-sales-interface-rakuten-|BE-343]] — 343 kscj exlog ecom sales interface rakuten (分數: 4.5)
-- [[07_Workflow_Business/BE-344-kscj-exlog-ecom-sales-interface-rakuten-|BE-344]] — 344 kscj exlog ecom sales interface rakuten (分數: 4.5)
-- [[07_Workflow_Business/BE-346-sow-of-coach-korea-official-ecom-site-sa|BE-346]] — 346 sow of coach korea official ecom site sa (分數: 4.0)
-- [[07_Workflow_Business/BE-353-display-customer-name-in-delivery-order-|BE-353]] — 353 display customer name in delivery order (分數: 6.0)
-- [[07_Workflow_Business/BE-478-car-interface-missing-partly-sales-recor|BE-478]] — 478 car interface missing partly sales recor (分數: 6.0)
-- [[07_Workflow_Business/BE-487-q2021-047-erm-sow-of-lfc-exclude-eshop-t|BE-487]] — 487 q2021 047 erm sow of lfc exclude eshop t (分數: 4.0)
-- [[07_Workflow_Business/BE-488-sow-of-tapestry-japan-exlog-ecom-sales-i|BE-488]] — 488 sow of tapestry japan exlog ecom sales i (分數: 4.0)
-- [[07_Workflow_Business/BE-501-fix-ecoupon-file-name|BE-501]] — 501 fix ecoupon file name (分數: 6.0)
-- [[07_Workflow_Business/BE-502-support-e-coupon-with-15-character-lengt|BE-502]] — 502 support e coupon with 15 character lengt (分數: 4.5)
-- [[07_Workflow_Business/BE-504-cj-loyalty-part-1-vip-define-attribute-d|BE-504]] — 504 cj loyalty part 1 vip define attribute d (分數: 5.5)
-- [[07_Workflow_Business/BE-506-member-sync-program-update|BE-506]] — 506 member sync program update (分數: 8.5)
-- [[07_Workflow_Business/BE-507-car-interface-emergency-handle-ecoupon-d|BE-507]] — 507 car interface emergency handle ecoupon d (分數: 4.5)
-- [[07_Workflow_Business/BE-509-kate-spade-japan-exlog-ecom-sales-interf|BE-509]] — 509 kate spade japan exlog ecom sales interf (分數: 4.0)
-- [[07_Workflow_Business/BE-515-posting-duplicate-vipactlog-error|BE-515]] — 515 posting duplicate vipactlog error (分數: 8.0)
-- [[07_Workflow_Business/BE-516-polling-program-error-etx-file-not-found|BE-516]] — 516 polling program error etx file not found (分數: 8.5)
-- [[07_Workflow_Business/BE-523-mastconv-filter-member-not-download-erro|BE-523]] — 523 mastconv filter member not download erro (分數: 6.5)
-- [[07_Workflow_Business/BE-526-member-sync-execution-timeout-expired|BE-526]] — 526 member sync execution timeout expired (分數: 6.5)
-- [[07_Workflow_Business/BE-527-day-end-valiadtion-misc-amount|BE-527]] — 527 day end valiadtion misc amount (分數: 8.5)
-- [[07_Workflow_Business/BE-532-chainstoreplus-day-end-validation-issue-|BE-532]] — 532 chainstoreplus day end validation issue (分數: 5.5)
-- [[07_Workflow_Business/BE-536-fix-bug-mixnew_item_type-reset-to-blank-|BE-536]] — 536 fix bug mixnew_item_type reset to blank (分數: 7.5)
-- [[07_Workflow_Business/BE-605-re-save-item-master-action-leads-to-onsa|BE-605]] — 605 re save item master action leads to onsa (分數: 7.0)
-- [[07_Workflow_Business/BE-641-no-return-despost-record-generate-in-zlo|BE-641]] — 641 no return despost record generate in zlo (分數: 6.0)
-- [[07_Workflow_Business/BE-645-sow-of-ecomm-sales-interface-add-sales-s|BE-645]] — 645 sow of ecomm sales interface add sales s (分數: 4.0)
-- [[07_Workflow_Business/BE-646-cannot-back-to-correct-place-in-menu-whe|BE-646]] — 646 cannot back to correct place in menu whe (分數: 6.5)
-- [[07_Workflow_Business/BE-650-cannot-save-item-changes-successfully-in|BE-650]] — 650 cannot save item changes successfully in (分數: 6.5)
-- [[07_Workflow_Business/BE-653-add-purchase-type-drop-down-in-pos-sales|BE-653]] — 653 add purchase type drop down in pos sales (分數: 4.0)
-- [[07_Workflow_Business/BE-655-cannot-print-amendment-list-successfully|BE-655]] — 655 cannot print amendment list successfully (分數: 8.0)
-- [[07_Workflow_Business/BE-658-data-cannot-be-cleared-after-serial-numb|BE-658]] — 658 data cannot be cleared after serial numb (分數: 7.0)
-- [[07_Workflow_Business/BE-659-disaplay-duplicate-symbol-in-mix-match-p|BE-659]] — 659 disaplay duplicate symbol in mix match p (分數: 7.0)
-- [[07_Workflow_Business/BE-663-keep-loading-after-enter-analysis-code-m|BE-663]] — 663 keep loading after enter analysis code m (分數: 7.0)
-- [[07_Workflow_Business/BE-665-pop-up-an-api-error-after-click-columns-|BE-665]] — 665 pop up an api error after click columns (分數: 6.5)
-- [[07_Workflow_Business/BE-669-pop-up-of-shortcut-to-create-stock-recei|BE-669]] — 669 pop up of shortcut to create stock recei (分數: 5.5)
-- [[07_Workflow_Business/BE-673-import-item-master-material-to-brand-|BE-673]] — 673 import item master material to brand (分數: 7.5)
-- [[07_Workflow_Business/BE-674-missing-title-in-sales-memo-by-serial-no|BE-674]] — 674 missing title in sales memo by serial no (分數: 6.0)
-- [[07_Workflow_Business/BE-675-field-of-po-no-with-no-any-words-filled-|BE-675]] — 675 field of po no with no any words filled (分數: 5.5)
-- [[07_Workflow_Business/BE-677-pop-up-a-blank-page-after-click-on-sale-|BE-677]] — 677 pop up a blank page after click on sale (分數: 5.5)
-- [[07_Workflow_Business/BE-678-item-in-price-markupdown-maintenance-sho|BE-678]] — 678 item in price markupdown maintenance sho (分數: 6.0)
-- [[07_Workflow_Business/BE-679-no-data-inserted-but-still-pop-up-discar|BE-679]] — 679 no data inserted but still pop up discar (分數: 6.5)
-- [[07_Workflow_Business/BE-683-cannot-select-export-file-name-in-export|BE-683]] — 683 cannot select export file name in export (分數: 7.5)
-- [[07_Workflow_Business/BE-684-a-user-group-doesnt-show-which-program-s|BE-684]] — 684 a user group doesnt show which program s (分數: 5.5)
-- [[07_Workflow_Business/BE-686-no-save-dialog-pop-up-after-click-x-in-d|BE-686]] — 686 no save dialog pop up after click x in d (分數: 6.0)
-- [[07_Workflow_Business/BE-687-cannot-fill-in-the-field-of-enties-autom|BE-687]] — 687 cannot fill in the field of enties autom (分數: 7.0)
-- [[07_Workflow_Business/BE-688-attach-file-in-member-master-maintenance|BE-688]] — 688 attach file in member master maintenance (分數: 6.5)
-- [[07_Workflow_Business/BE-689-no-data-in-a-batch-in-stock-replenishmen|BE-689]] — 689 no data in a batch in stock replenishmen (分數: 6.5)
-- [[07_Workflow_Business/BE-690-no-content-in-attach-file-in-member-mast|BE-690]] — 690 no content in attach file in member mast (分數: 6.0)
-- [[07_Workflow_Business/BE-692-pop-api-error-after-click-save-in-on-sal|BE-692]] — 692 pop api error after click save in on sal (分數: 7.0)
-- [[07_Workflow_Business/BE-693-record-of-additional-price-displayed-as-|BE-693]] — 693 record of additional price displayed as (分數: 7.0)
-- [[07_Workflow_Business/BE-697-doesnt-set-region-group-click-back-will-|BE-697]] — 697 doesnt set region group click back will (分數: 6.0)
-- [[07_Workflow_Business/BE-699-missing-void-information-in-sales-enquir|BE-699]] — 699 missing void information in sales enquir (分數: 6.0)
-- [[07_Workflow_Business/BE-701-po_invalid-suppliers-error|BE-701]] — 701 po_invalid suppliers error (分數: 6.5)
-- [[07_Workflow_Business/BE-702-po_cannot-triggle-trader-terms|BE-702]] — 702 po_cannot triggle trader terms (分數: 6.5)
-- [[07_Workflow_Business/BE-703-sales-staff-code-maintenance-api-error|BE-703]] — 703 sales staff code maintenance api error (分數: 7.5)
-- [[07_Workflow_Business/BE-704-po_title-column-shifts-after-upload-fail|BE-704]] — 704 po_title column shifts after upload fail (分數: 6.5)
-- [[07_Workflow_Business/BE-705-cannot-display-ticked-programs-in-pos-se|BE-705]] — 705 cannot display ticked programs in pos se (分數: 7.0)
-- [[07_Workflow_Business/BE-706-po_price-method-cannot-triggered-from-im|BE-706]] — 706 po_price method cannot triggered from im (分數: 6.5)
-- [[07_Workflow_Business/BE-708-cannot-edit-existing-records-successfull|BE-708]] — 708 cannot edit existing records successfull (分數: 6.5)
-- [[07_Workflow_Business/BE-709-fail-to-define-color-in-item-master-mf00|BE-709]] — 709 fail to define color in item master mf00 (分數: 6.5)
-- [[07_Workflow_Business/BE-712-fail-to-make-a-batch-vaildation-on-stock|BE-712]] — 712 fail to make a batch vaildation on stock (分數: 7.0)
-- [[07_Workflow_Business/BE-713-keep-loading-after-entering-into-sales-s|BE-713]] — 713 keep loading after entering into sales s (分數: 6.5)
-- [[07_Workflow_Business/BE-714-pop-up-an-error-after-clicking-by-input-|BE-714]] — 714 pop up an error after clicking by input (分數: 6.5)
-- [[07_Workflow_Business/BE-715-pop-up-an-error-after-clicking-save-in-u|BE-715]] — 715 pop up an error after clicking save in u (分數: 7.0)
-- [[07_Workflow_Business/BE-716-pop-up-an-error-after-clicking-save-in-o|BE-716]] — 716 pop up an error after clicking save in o (分數: 7.0)
-- [[07_Workflow_Business/BE-720-fail-to-print-invoice-and-delivery-note-|BE-720]] — 720 fail to print invoice and delivery note (分數: 6.5)
-- [[07_Workflow_Business/BE-721-cannont-load-to-view-physical-adjustment|BE-721]] — 721 cannont load to view physical adjustment (分數: 7.0)
-- [[07_Workflow_Business/BE-722-po-maintenance_outstanding-quantity-mism|BE-722]] — 722 po maintenance_outstanding quantity mism (分數: 7.0)
-- [[07_Workflow_Business/BE-725-purchase-order-would-duplicate-a-set-of-|BE-725]] — 725 purchase order would duplicate a set of (分數: 8.0)
-- [[07_Workflow_Business/BE-726-set-of-items-in-row-become-unusual-when-|BE-726]] — 726 set of items in row become unusual when (分數: 5.5)
-- [[07_Workflow_Business/BE-728-item-can-be-deleted-when-item-has-transa|BE-728]] — 728 item can be deleted when item has transa (分數: 6.5)
-- [[07_Workflow_Business/BE-731-web-chainstoreplus-item-master-cannot-sh|BE-731]] — 731 web chainstoreplus item master cannot sh (分數: 6.0)
-- [[07_Workflow_Business/BE-733-tapestry-japan-llc-sow-of-sg-marina-bay-|BE-733]] — 733 tapestry japan llc sow of sg marina bay (分數: 4.0)
-- [[07_Workflow_Business/BE-739-sales-staff-code-maintenance-mf0007-chan|BE-739]] — 739 sales staff code maintenance mf0007 chan (分數: 4.5)
-- [[07_Workflow_Business/BE-748-category-code-maintenance-changes|BE-748]] — 748 category code maintenance changes (分數: 4.0)
-- [[07_Workflow_Business/BE-749-sales-staff-code-maintenance|BE-749]] — 749 sales staff code maintenance (分數: 4.0)
-- [[07_Workflow_Business/BE-751-member-master-maintenance-change|BE-751]] — 751 member master maintenance change (分數: 4.0)
-- [[07_Workflow_Business/BE-762-ks-sea-crm-memberson-cdp-backend-sale-jo|BE-762]] — 762 ks sea crm memberson cdp backend sale jo (分數: 7.0)
-- [[07_Workflow_Business/BE-769-sow-of-ks-sea-crm-cdp-integration-member|BE-769]] — 769 sow of ks sea crm cdp integration member (分數: 4.5)
-- [[07_Workflow_Business/BE-772-fail-to-update-reconds-in-item-master-mf|BE-772]] — 772 fail to update reconds in item master mf (分數: 6.5)
-- [[07_Workflow_Business/BE-773-pop-up-an-error-after-clicking-image|BE-773]] — 773 pop up an error after clicking image (分數: 6.0)
-- [[07_Workflow_Business/BE-774-fail-to-process-batch-vaildation-on-stoc|BE-774]] — 774 fail to process batch vaildation on stoc (分數: 7.0)
-- [[07_Workflow_Business/BE-775-fail-to-display-unit-cost-in-return-to-s|BE-775]] — 775 fail to display unit cost in return to s (分數: 7.5)
-- [[07_Workflow_Business/BE-779-lands-shop-cart-with-no-items-would-pop-|BE-779]] — 779 lands shop cart with no items would pop (分數: 6.5)
-- [[07_Workflow_Business/BE-782-lands-fail-to-adjust-blockvote-balance-i|BE-782]] — 782 lands fail to adjust blockvote balance i (分數: 7.0)
-- [[07_Workflow_Business/BE-783-lands-wordings-change-add-a-column-for-d|BE-783]] — 783 lands wordings change add a column for d (分數: 7.0)
-- [[07_Workflow_Business/BE-784-lands-pop-up-error-after-created-a-batch|BE-784]] — 784 lands pop up error after created a batch (分數: 6.5)
-- [[07_Workflow_Business/BE-787-lands-details-of-the-program-saved-but-s|BE-787]] — 787 lands details of the program saved but s (分數: 6.0)
-- [[07_Workflow_Business/BE-788-lands-exported-gfmis-report-displayed-un|BE-788]] — 788 lands exported gfmis report displayed un (分數: 6.5)
-- [[07_Workflow_Business/BE-789-lands-add-a-new-field-for-display-compay|BE-789]] — 789 lands add a new field for display compay (分數: 4.0)
-- [[07_Workflow_Business/BE-791-lands-gfmis-report-missing-payment-summa|BE-791]] — 791 lands gfmis report missing payment summa (分數: 7.5)
-- [[07_Workflow_Business/BE-799-lands-gfmis-report-appears-incorrect-sum|BE-799]] — 799 lands gfmis report appears incorrect sum (分數: 6.5)
-- [[07_Workflow_Business/BE-800-lands-gfmis-report-doesnt-dsiplay-creadi|BE-800]] — 800 lands gfmis report doesnt dsiplay creadi (分數: 6.0)
-- [[07_Workflow_Business/BE-804-ks-sea-crm-combine-the-multiple-items-in|BE-804]] — 804 ks sea crm combine the multiple items in (分數: 5.5)
-- [[07_Workflow_Business/BE-806-lands-data-migration-from-pos2-sales-rec|BE-806]] — 806 lands data migration from pos2 sales rec (分數: 4.5)
-- [[07_Workflow_Business/BE-809-enterprisesystemapi-paidordersummary-col|BE-809]] — 809 enterprisesystemapi paidordersummary col (分數: 5.5)
-- [[07_Workflow_Business/BE-816-physical-adjustment-detail-item-list-des|BE-816]] — 816 physical adjustment detail item list des (分數: 5.5)
-- [[07_Workflow_Business/BE-821-lands-add-external-ref-unique-part-of-at|BE-821]] — 821 lands add external ref unique part of at (分數: 4.0)
-- [[07_Workflow_Business/BE-826-rgm-payment-transaction-duplicated-recor|BE-826]] — 826 rgm payment transaction duplicated recor (分數: 6.0)
-- [[07_Workflow_Business/BE-828-as2000-and-se8008-top-navigate-to-last-p|BE-828]] — 828 as2000 and se8008 top navigate to last p (分數: 4.5)
-- [[07_Workflow_Business/BE-833-rtm-cannnot-create-the-member-sales-in-v|BE-833]] — 833 rtm cannnot create the member sales in v (分數: 6.0)
-- [[07_Workflow_Business/BE-834-gfmis-displayed-incorrect-collection-dat|BE-834]] — 834 gfmis displayed incorrect collection dat (分數: 6.0)
-- [[07_Workflow_Business/BE-842-hkjc-report-sa7005-customer-loyalty-poin|BE-842]] — 842 hkjc report sa7005 customer loyalty poin (分數: 6.0)
-- [[07_Workflow_Business/BE-850-lands-enhancement-for-agent-proxy-to-gen|BE-850]] — 850 lands enhancement for agent proxy to gen (分數: 7.0)
-- [[07_Workflow_Business/BE-854-cs-808-ks-sea-crm-member-transactions-fa|BE-854]] — 854 cs 808 ks sea crm member transactions fa (分數: 9.5)
-- [[07_Workflow_Business/BE-856-coach-interface-change-member-iyyiddimmc|BE-856]] — 856 coach interface change member iyyiddimmc (分數: 6.5)
-- [[07_Workflow_Business/BE-866-landsthings-need-to-be-encrypted|BE-866]] — 866 landsthings need to be encrypted (分數: 6.5)
-- [[07_Workflow_Business/BE-867-建立location-code時-選擇了已存在的country-code-但仍然|BE-867]] — 867 建立location code時 選擇了已存在的country code 但仍然 (分數: 6.0)
-- [[07_Workflow_Business/BE-868-在color-code-maintenancemf0003中选择sub-colo|BE-868]] — 868 在color code maintenancemf0003中选择sub colo (分數: 6.5)
-- [[07_Workflow_Business/BE-869-primary_sales-staff-在contact-number输入123|BE-869]] — 869 primary_sales staff 在contact number输入123 (分數: 7.0)
-- [[07_Workflow_Business/BE-870-lands-masconv-function-fail-to-overwrite|BE-870]] — 870 lands masconv function fail to overwrite (分數: 8.0)
-- [[07_Workflow_Business/BE-877-financial-period-maintenance填入数据保存时报错|BE-877]] — 877 financial period maintenance填入数据保存时报错 (分數: 6.0)
-- [[07_Workflow_Business/BE-878-location-grouping-control-存在重复数据时点击valid|BE-878]] — 878 location grouping control 存在重复数据时点击valid (分數: 6.5)
-- [[07_Workflow_Business/BE-881-prorunner-po-outstanding-quantity-after-|BE-881]] — 881 prorunner po outstanding quantity after (分數: 5.5)
-- [[07_Workflow_Business/BE-882-replenishment-schedulemf3007-在view中点击new|BE-882]] — 882 replenishment schedulemf3007 在view中点击new (分數: 6.0)
-- [[07_Workflow_Business/BE-884-lands-fail-to-post-orders-to-back-end|BE-884]] — 884 lands fail to post orders to back end (分數: 6.5)
-- [[07_Workflow_Business/BE-887-package-set-item-maintenancemx4000-creat|BE-887]] — 887 package set item maintenancemx4000 creat (分數: 7.0)
-- [[07_Workflow_Business/BE-888-coachcrm-incorrect-format-of-daily-purch|BE-888]] — 888 coachcrm incorrect format of daily purch (分數: 6.0)
-- [[07_Workflow_Business/BE-890-coachcrm-adjustment-of-order-records-seq|BE-890]] — 890 coachcrm adjustment of order records seq (分數: 4.5)
-- [[07_Workflow_Business/BE-893-stock-transfer-receive-recovery-processi|BE-893]] — 893 stock transfer receive recovery processi (分數: 6.0)
-- [[07_Workflow_Business/BE-898-cost-adjustment-informationic3009create-|BE-898]] — 898 cost adjustment informationic3009create (分數: 5.5)
-- [[07_Workflow_Business/BE-899-prorunner-web-online-order-information-o|BE-899]] — 899 prorunner web online order information o (分數: 6.0)
-- [[07_Workflow_Business/BE-903-online-order-informationor0001选择数据点击copy|BE-903]] — 903 online order informationor0001选择数据点击copy (分數: 5.5)
-- [[07_Workflow_Business/BE-904-rtm-pipl-localization-|BE-904]] — 904 rtm pipl localization (分數: 6.5)
-- [[07_Workflow_Business/BE-905-sph-iyyiddimm-missing-by-interface-impor|BE-905]] — 905 sph iyyiddimm missing by interface impor (分數: 7.0)
-- [[07_Workflow_Business/BE-906-online-order-invoice-generationor0003inv|BE-906]] — 906 online order invoice generationor0003inv (分數: 6.0)
-- [[07_Workflow_Business/BE-907-acxiom-crm-change-selection-logic-for-sa|BE-907]] — 907 acxiom crm change selection logic for sa (分數: 7.5)
-- [[07_Workflow_Business/BE-908-crm-acxiom-void-status-update-reconsolat|BE-908]] — 908 crm acxiom void status update reconsolat (分數: 8.0)
-- [[07_Workflow_Business/BE-918-acxiom-crm-milestone-1-member-missing|BE-918]] — 918 acxiom crm milestone 1 member missing (分數: 7.0)
-- [[07_Workflow_Business/BE-919-ename-tourist-sow-bugh-fix|BE-919]] — 919 ename tourist sow bugh fix (分數: 5.5)
-- [[07_Workflow_Business/BE-920-my-einvoice-backend-interface-prepayment|BE-920]] — 920 my einvoice backend interface prepayment (分數: 6.5)
-- [[07_Workflow_Business/BE-923-coachcrm-milestone-2-fail-to-create-new-|BE-923]] — 923 coachcrm milestone 2 fail to create new (分數: 7.5)
-- [[07_Workflow_Business/BE-928-why-jouinv_pur_type-is-null-for-some-sal|BE-928]] — 928 why jouinv_pur_type is null for some sal (分數: 8.5)
-- [[07_Workflow_Business/BE-929-coachcrm-send-out-incorrect-number-of-it|BE-929]] — 929 coachcrm send out incorrect number of it (分數: 7.5)
-- [[07_Workflow_Business/BE-931-deposit-journal-se7007双击数据查看详情报错|BE-931]] — 931 deposit journal se7007双击数据查看详情报错 (分數: 6.0)
-- [[07_Workflow_Business/BE-934-mf0001-show-the-wrong-retail|BE-934]] — 934 mf0001 show the wrong retail (分數: 5.5)
-- [[07_Workflow_Business/BE-943-coachcrm-milestone-2-enhancement-for-the|BE-943]] — 943 coachcrm milestone 2 enhancement for the (分數: 8.0)
-- [[07_Workflow_Business/BE-945-coachcrm-got-timeout-error-after-process|BE-945]] — 945 coachcrm got timeout error after process (分數: 9.5)
-- [[07_Workflow_Business/BE-951-cs-940-cj-return-policy|BE-951]] — 951 cs 940 cj return policy (分數: 4.5)
-- [[07_Workflow_Business/BE-952-coachcrm-milestone-2-member-purchase-and|BE-952]] — 952 coachcrm milestone 2 member purchase and (分數: 6.0)
-- [[07_Workflow_Business/BE-964-coachcrm-milestone-2-send-duplicate-item|BE-964]] — 964 coachcrm milestone 2 send duplicate item (分數: 7.0)
-- [[07_Workflow_Business/BE-968-rin01430077-hk-oc03-cs2000-member-create|BE-968]] — 968 rin01430077 hk oc03 cs2000 member create (分數: 5.0)
-- [[07_Workflow_Business/BE-970-coachcrm-milestone-2-fail-to-change-type|BE-970]] — 970 coachcrm milestone 2 fail to change type (分數: 8.0)
-- [[07_Workflow_Business/BE-973-acu-91-repeatedly-sending-order-and-sku-|BE-973]] — 973 acu 91 repeatedly sending order and sku (分數: 6.5)
-- [[07_Workflow_Business/BE-976-cs-1336rin01434568-coach-jp-posting-mq_a|BE-976]] — 976 cs 1336rin01434568 coach jp posting mq_a (分數: 6.0)
-- [[07_Workflow_Business/BE-978-rin01439145-cs-1114-prc-prc_store-cs2000|BE-978]] — 978 rin01439145 cs 1114 prc prc_store cs2000 (分數: 8.0)
-- [[07_Workflow_Business/BE-980-rin01439189-resave-one-hk-member-oc518wh|BE-980]] — 980 rin01439189 resave one hk member oc518wh (分數: 6.5)
-- [[07_Workflow_Business/BE-982-rin01437844-incorrect-agegrp-value-for-s|BE-982]] — 982 rin01437844 incorrect agegrp value for s (分數: 6.5)
-- [[07_Workflow_Business/BE-985-total-amount-duplicate-when-syncing-memo|BE-985]] — 985 total amount duplicate when syncing memo (分數: 6.5)
-- [[07_Workflow_Business/BE-987-coachcrm-enhancement-of-prevent-value-of|BE-987]] — 987 coachcrm enhancement of prevent value of (分數: 5.0)
-- [[07_Workflow_Business/BE-989-cs-1147-kr-mpos-transaction-cannot-send-|BE-989]] — 989 cs 1147 kr mpos transaction cannot send (分數: 8.0)
-- [[07_Workflow_Business/BE-990-cs-1330-my-e-invoice-reconciliation-issu|BE-990]] — 990 cs 1330 my e invoice reconciliation issu (分數: 5.5)
-- [[07_Workflow_Business/BE-994-hkjc-wiam-system-default-value-for-passw|BE-994]] — 994 hkjc wiam system default value for passw (分數: 4.5)
-- [[07_Workflow_Business/BE-995-hkjc-rtm-wiam-system-default-value-in-mf|BE-995]] — 995 hkjc rtm wiam system default value in mf (分數: 4.0)
-
-### Frontend (421 筆)
-
-- [[07_Workflow_Business/FE-1005-fe-ui-0-cj-loyalty|FE-1005]] — 1005 fe ui 0 cj loyalty (分數: 5.5)
-- [[07_Workflow_Business/FE-1006-cj-loyalty-part-3-ui-correction|FE-1006]] — 1006 cj loyalty part 3 ui correction (分數: 5.5)
-- [[07_Workflow_Business/FE-1009-0-service-item-free-gift-cannot-apply-ec|FE-1009]] — 1009 0 service item free gift cannot apply ec (分數: 6.0)
-- [[07_Workflow_Business/FE-1010-staff-sales-input-staff-no-and-search-di|FE-1010]] — 1010 staff sales input staff no and search di (分數: 6.0)
-- [[07_Workflow_Business/FE-1015-vb6-cj-re-print-void-sales-memo-add-back|FE-1015]] — 1015 vb6 cj re print void sales memo add back (分數: 6.5)
-- [[07_Workflow_Business/FE-1019-hkjc-remove-the-member-id-when-doing-jcs|FE-1019]] — 1019 hkjc remove the member id when doing jcs (分數: 6.5)
-- [[07_Workflow_Business/FE-1023-aq-176-advanced-search-function-timeout-|FE-1023]] — 1023 aq 176 advanced search function timeout (分數: 7.0)
-- [[07_Workflow_Business/FE-1024-ao-15-coupon-bug|FE-1024]] — 1024 ao 15 coupon bug (分數: 6.0)
-- [[07_Workflow_Business/FE-1027-deposit-return-tender-selection-show-non|FE-1027]] — 1027 deposit return tender selection show non (分數: 6.5)
-- [[07_Workflow_Business/FE-1028-deposit-settle-on-sales-item-have-disc-v|FE-1028]] — 1028 deposit settle on sales item have disc v (分數: 6.5)
-- [[07_Workflow_Business/FE-1029-cannot-redeem-bonus-points-coupon-after-|FE-1029]] — 1029 cannot redeem bonus points coupon after (分數: 4.0)
-- [[07_Workflow_Business/FE-1033-rin00888608coach-cj-fe-checking-for-inva|FE-1033]] — 1033 rin00888608coach cj fe checking for inva (分數: 7.0)
-- [[07_Workflow_Business/FE-1035-rin00861440-cj-customer-receipt-of-print|FE-1035]] — 1035 rin00861440 cj customer receipt of print (分數: 7.0)
-- [[07_Workflow_Business/FE-1036-pos-issue-when-select-mm-coupon-window-p|FE-1036]] — 1036 pos issue when select mm coupon window p (分數: 4.0)
-- [[07_Workflow_Business/FE-1037-new-vip-member-enquiry-page|FE-1037]] — 1037 new vip member enquiry page (分數: 5.5)
-- [[07_Workflow_Business/FE-1038-coach-jp-input-day-endcash-varianace-add|FE-1038]] — 1038 coach jp input day endcash varianace add (分數: 5.5)
-- [[07_Workflow_Business/FE-1039-sow-of-coach-cn-sales-memo-change-reques|FE-1039]] — 1039 sow of coach cn sales memo change reques (分數: 4.0)
-- [[07_Workflow_Business/FE-1041-aq-171qa_mposmpos-can-not-find-coupon-bu|FE-1041]] — 1041 aq 171qa_mposmpos can not find coupon bu (分數: 6.0)
-- [[07_Workflow_Business/FE-1046-incorrect-maximum-item-discount|FE-1046]] — 1046 incorrect maximum item discount (分數: 5.5)
-- [[07_Workflow_Business/FE-1050-cannot-void-manually-card-sale-memo|FE-1050]] — 1050 cannot void manually card sale memo (分數: 6.0)
-- [[07_Workflow_Business/FE-1067-72002r14b1-void-multi-emp-memo-error|FE-1067]] — 1067 72002r14b1 void multi emp memo error (分數: 6.0)
-- [[07_Workflow_Business/FE-1070-coach-hk-oc503-cannot-update-retrun-vouc|FE-1070]] — 1070 coach hk oc503 cannot update retrun vouc (分數: 6.0)
-- [[07_Workflow_Business/FE-1098-mm-coupon-apply-sequence|FE-1098]] — 1098 mm coupon apply sequence (分數: 5.5)
-- [[07_Workflow_Business/FE-1099-sow-of-cj-loyalty-customization-add-ecou|FE-1099]] — 1099 sow of cj loyalty customization add ecou (分數: 4.0)
-- [[07_Workflow_Business/FE-1101-missing-vip-number-name-on-printed-sales|FE-1101]] — 1101 missing vip number name on printed sales (分數: 6.5)
-- [[07_Workflow_Business/FE-1102-pos-cannot-display-two-salesperson-codes|FE-1102]] — 1102 pos cannot display two salesperson codes (分數: 5.0)
-- [[07_Workflow_Business/FE-1109-multi-disc-perc-mm-coupon-|FE-1109]] — 1109 multi disc perc mm coupon (分數: 5.5)
-- [[07_Workflow_Business/FE-1113-mpos-used-ecoupon-not-updated-in-be-db|FE-1113]] — 1113 mpos used ecoupon not updated in be db (分數: 6.0)
-- [[07_Workflow_Business/FE-1117-inc1765584-tax-amount-in-c364-is-wrong-o|FE-1117]] — 1117 inc1765584 tax amount in c364 is wrong o (分數: 8.0)
-- [[07_Workflow_Business/FE-1122-apply-mm-coupon-in-user-order-input-orde|FE-1122]] — 1122 apply mm coupon in user order input orde (分數: 4.0)
-- [[07_Workflow_Business/FE-1126-enhance-coach-print-out-performance-re-g|FE-1126]] — 1126 enhance coach print out performance re g (分數: 7.0)
-- [[07_Workflow_Business/FE-1127-ksj-incorrect-vip-create-by-c360|FE-1127]] — 1127 ksj incorrect vip create by c360 (分數: 6.5)
-- [[07_Workflow_Business/FE-1128-mpos-missing-day-end-94-95|FE-1128]] — 1128 mpos missing day end 94 95 (分數: 6.0)
-- [[07_Workflow_Business/FE-1130-j345-sales-data-incorrect-wrong-dayend-r|FE-1130]] — 1130 j345 sales data incorrect wrong dayend r (分數: 6.5)
-- [[07_Workflow_Business/FE-1133-slow-day-end-|FE-1133]] — 1133 slow day end (分數: 4.0)
-- [[07_Workflow_Business/FE-1134-show-void-transfer-memo-in-transfer-rece|FE-1134]] — 1134 show void transfer memo in transfer rece (分數: 6.0)
-- [[07_Workflow_Business/FE-1135-imaginex-double-void-issue-|FE-1135]] — 1135 imaginex double void issue (分數: 5.5)
-- [[07_Workflow_Business/FE-1137-sales-mismatch-ocf80-30114974-2022-07-24|FE-1137]] — 1137 sales mismatch ocf80 30114974 2022 07 24 (分數: 5.5)
-- [[07_Workflow_Business/FE-1146-sow-align-coach-kate-spade-sg-my-sales-m|FE-1146]] — 1146 sow align coach kate spade sg my sales m (分數: 4.0)
-- [[07_Workflow_Business/FE-1149-vip_type_start_date-and-vip_create_date-|FE-1149]] — 1149 vip_type_start_date and vip_create_date (分數: 6.5)
-- [[07_Workflow_Business/FE-1151-change-request-for-adding-staff-name-und|FE-1151]] — 1151 change request for adding staff name und (分數: 4.0)
-- [[07_Workflow_Business/FE-1152-add-purchase-type-drop-down-in-pos-sales|FE-1152]] — 1152 add purchase type drop down in pos sales (分數: 4.0)
-- [[07_Workflow_Business/FE-1159-pos-freeze-while-click-search-button-in-|FE-1159]] — 1159 pos freeze while click search button in (分數: 8.0)
-- [[07_Workflow_Business/FE-1164-show-outstanding-transfer-receive-warnin|FE-1164]] — 1164 show outstanding transfer receive warnin (分數: 5.5)
-- [[07_Workflow_Business/FE-1173-standalone-mode-day-end-process-long-run|FE-1173]] — 1173 standalone mode day end process long run (分數: 6.0)
-- [[07_Workflow_Business/FE-1174-sow-cdp-coupon-integration|FE-1174]] — 1174 sow cdp coupon integration (分數: 4.0)
-- [[07_Workflow_Business/FE-1176-day-end-report-transaction-balance-and-p|FE-1176]] — 1176 day end report transaction balance and p (分數: 6.5)
-- [[07_Workflow_Business/FE-1184-transfer-print-out-issue|FE-1184]] — 1184 transfer print out issue (分數: 6.5)
-- [[07_Workflow_Business/FE-1185-sales-memo-return-voucher-print-out-issu|FE-1185]] — 1185 sales memo return voucher print out issu (分數: 7.5)
-- [[07_Workflow_Business/FE-1186-v72002r07-crystal-report-add-member-join|FE-1186]] — 1186 v72002r07 crystal report add member join (分數: 4.5)
-- [[07_Workflow_Business/FE-1189-sporthouse-select-cash-coupon-performanc|FE-1189]] — 1189 sporthouse select cash coupon performanc (分數: 4.5)
-- [[07_Workflow_Business/FE-1190-bash-receipt-print-layout-add-chinese-de|FE-1190]] — 1190 bash receipt print layout add chinese de (分數: 4.5)
-- [[07_Workflow_Business/FE-1198-search-cash-coupon-speed-very-slow|FE-1198]] — 1198 search cash coupon speed very slow (分數: 6.0)
-- [[07_Workflow_Business/FE-1200-mm-coupon-discount-calculation-apply-rou|FE-1200]] — 1200 mm coupon discount calculation apply rou (分數: 7.5)
-- [[07_Workflow_Business/FE-1210-rounding-issue-of-discount-percentage-do|FE-1210]] — 1210 rounding issue of discount percentage do (分數: 7.0)
-- [[07_Workflow_Business/FE-1212-extra-bag-item-when-try-to-add-mm-coupon|FE-1212]] — 1212 extra bag item when try to add mm coupon (分數: 7.0)
-- [[07_Workflow_Business/FE-1213-using-x-tp-close-zero-levy-qty-will-get-|FE-1213]] — 1213 using x tp close zero levy qty will get (分數: 7.0)
-- [[07_Workflow_Business/FE-1214-search-item-with-barcode-first-instead-o|FE-1214]] — 1214 search item with barcode first instead o (分數: 7.0)
-- [[07_Workflow_Business/FE-1217-section-of-reason-code-display-all-type-|FE-1217]] — 1217 section of reason code display all type (分數: 7.0)
-- [[07_Workflow_Business/FE-1218-section-of-reason-code-display-all-type-|FE-1218]] — 1218 section of reason code display all type (分數: 7.0)
-- [[07_Workflow_Business/FE-1219-bash-|FE-1219]] — 1219 bash (分數: 6.0)
-- [[07_Workflow_Business/FE-1220-deposit-retrun-cannot-show-the-payment-d|FE-1220]] — 1220 deposit retrun cannot show the payment d (分數: 7.0)
-- [[07_Workflow_Business/FE-1221-member-recruitment-problem|FE-1221]] — 1221 member recruitment problem (分數: 5.5)
-- [[07_Workflow_Business/FE-1224-ao-new-queen-member-turn-to-girl-after-p|FE-1224]] — 1224 ao new queen member turn to girl after p (分數: 7.0)
-- [[07_Workflow_Business/FE-1225-dotnet-day-end-write-pcd-94-missing-tr-o|FE-1225]] — 1225 dotnet day end write pcd 94 missing tr o (分數: 6.0)
-- [[07_Workflow_Business/FE-1228-display-incorrect-number-of-transaction-|FE-1228]] — 1228 display incorrect number of transaction (分數: 8.5)
-- [[07_Workflow_Business/FE-1230-msmq-day-end-issue|FE-1230]] — 1230 msmq day end issue (分數: 5.5)
-- [[07_Workflow_Business/FE-1232-duplicate-void-sales-memo|FE-1232]] — 1232 duplicate void sales memo (分數: 6.5)
-- [[07_Workflow_Business/FE-1235-lands-display-incorrect-content-in-the-f|FE-1235]] — 1235 lands display incorrect content in the f (分數: 6.0)
-- [[07_Workflow_Business/FE-1236-lands-displayed-incorrect-gender-in-seve|FE-1236]] — 1236 lands displayed incorrect gender in seve (分數: 7.0)
-- [[07_Workflow_Business/FE-1238-lands-get-stuck-in-resume-order-layer-af|FE-1238]] — 1238 lands get stuck in resume order layer af (分數: 7.0)
-- [[07_Workflow_Business/FE-1239-fail-to-clear-all-member-info-after-clic|FE-1239]] — 1239 fail to clear all member info after clic (分數: 6.0)
-- [[07_Workflow_Business/FE-1242-lands-receipt-from-quotation-missing-inf|FE-1242]] — 1242 lands receipt from quotation missing inf (分數: 7.0)
-- [[07_Workflow_Business/FE-1243-lands-the-frist-page-of-receipt-show-hea|FE-1243]] — 1243 lands the frist page of receipt show hea (分數: 6.0)
-- [[07_Workflow_Business/FE-1244-cj-receipt-customer-receipt-missing-reve|FE-1244]] — 1244 cj receipt customer receipt missing reve (分數: 6.5)
-- [[07_Workflow_Business/FE-1251-application-crash-after-inserting-photo-|FE-1251]] — 1251 application crash after inserting photo (分數: 7.5)
-- [[07_Workflow_Business/FE-1253-sow-of-online-sales-api-and-online-sales|FE-1253]] — 1253 sow of online sales api and online sales (分數: 5.5)
-- [[07_Workflow_Business/FE-1256-lands-search-for-a-member-no-with-non-pu|FE-1256]] — 1256 lands search for a member no with non pu (分數: 6.0)
-- [[07_Workflow_Business/FE-1258-lands-total-quantity-in-receipt-display-|FE-1258]] — 1258 lands total quantity in receipt display (分數: 7.5)
-- [[07_Workflow_Business/FE-1259-discount-var-car-cn-ocf23-00130109|FE-1259]] — 1259 discount var car cn ocf23 00130109 (分數: 6.0)
-- [[07_Workflow_Business/FE-1260-discount-var-car-cn-ocf22-10171338|FE-1260]] — 1260 discount var car cn ocf22 10171338 (分數: 6.0)
-- [[07_Workflow_Business/FE-1261-discount-var-car-cn-ocf11-50092629-50092|FE-1261]] — 1261 discount var car cn ocf11 50092629 50092 (分數: 6.0)
-- [[07_Workflow_Business/FE-1262-cnfail-to-void-deposit-settle|FE-1262]] — 1262 cnfail to void deposit settle (分數: 7.0)
-- [[07_Workflow_Business/FE-1263-lands-pop-an-error-after-select-get-hkms|FE-1263]] — 1263 lands pop an error after select get hkms (分數: 6.0)
-- [[07_Workflow_Business/FE-1264-lands-fail-to-reprint-day-end|FE-1264]] — 1264 lands fail to reprint day end (分數: 7.0)
-- [[07_Workflow_Business/FE-1265-lands-suspend-transaction-in-resume-orde|FE-1265]] — 1265 lands suspend transaction in resume orde (分數: 7.0)
-- [[07_Workflow_Business/FE-1267-lands-fail-to-complete-payment-when-tran|FE-1267]] — 1267 lands fail to complete payment when tran (分數: 9.0)
-- [[07_Workflow_Business/FE-1268-lands-cannot-update-correct-price-in-rea|FE-1268]] — 1268 lands cannot update correct price in rea (分數: 8.0)
-- [[07_Workflow_Business/FE-1269-sow-of-ks-sea-crm-cdp-integration-member|FE-1269]] — 1269 sow of ks sea crm cdp integration member (分數: 4.5)
-- [[07_Workflow_Business/FE-1271-open-item-applied-an-unusable-coupon-but|FE-1271]] — 1271 open item applied an unusable coupon but (分數: 8.0)
-- [[07_Workflow_Business/FE-1272-open-item-cannot-apply-coupon|FE-1272]] — 1272 open item cannot apply coupon (分數: 7.0)
-- [[07_Workflow_Business/FE-1273-lands-pop-up-error-after-click-x-in-inte|FE-1273]] — 1273 lands pop up error after click x in inte (分數: 7.0)
-- [[07_Workflow_Business/FE-1275-lands-display-same-items-no-in-pos|FE-1275]] — 1275 lands display same items no in pos (分數: 7.0)
-- [[07_Workflow_Business/FE-1276-lands-fail-to-display-correct-price-for-|FE-1276]] — 1276 lands fail to display correct price for (分數: 7.5)
-- [[07_Workflow_Business/FE-1278-lands-special-item-display-has-100-on-sa|FE-1278]] — 1278 lands special item display has 100 on sa (分數: 7.0)
-- [[07_Workflow_Business/FE-1279-q2023-046-erm-tapestry-japan-sow-coach-j|FE-1279]] — 1279 q2023 046 erm tapestry japan sow coach j (分數: 5.5)
-- [[07_Workflow_Business/FE-1281-lands-display-0-price-for-shop-cart-item|FE-1281]] — 1281 lands display 0 price for shop cart item (分數: 7.0)
-- [[07_Workflow_Business/FE-1284-lands-reprint-section-fail-to-search-by-|FE-1284]] — 1284 lands reprint section fail to search by (分數: 6.5)
-- [[07_Workflow_Business/FE-1285-cj-pop-up-e-receipt-sending-dialogue-whe|FE-1285]] — 1285 cj pop up e receipt sending dialogue whe (分數: 4.5)
-- [[07_Workflow_Business/FE-1286-lands-adjustment-for-payment-information|FE-1286]] — 1286 lands adjustment for payment information (分數: 4.0)
-- [[07_Workflow_Business/FE-1288-lands-still-pop-up-transaction-has-not-b|FE-1288]] — 1288 lands still pop up transaction has not b (分數: 6.5)
-- [[07_Workflow_Business/FE-1291-bash-v72-double-void-issue-|FE-1291]] — 1291 bash v72 double void issue (分數: 5.5)
-- [[07_Workflow_Business/FE-1293-lands-payment-method-blockvote-displayed|FE-1293]] — 1293 lands payment method blockvote displayed (分數: 7.0)
-- [[07_Workflow_Business/FE-1294-lands-cannot-send-out-receipt-email-when|FE-1294]] — 1294 lands cannot send out receipt email when (分數: 7.0)
-- [[07_Workflow_Business/FE-1300-invalid-color-code|FE-1300]] — 1300 invalid color code (分數: 6.0)
-- [[07_Workflow_Business/FE-1302-member-panel-show-member-type-discount-e|FE-1302]] — 1302 member panel show member type discount e (分數: 6.5)
-- [[07_Workflow_Business/FE-1307-coach-e-receipt-missing-line-for-x-|FE-1307]] — 1307 coach e receipt missing line for x (分數: 6.0)
-- [[07_Workflow_Business/FE-1308-double-bp-redeem-for-member|FE-1308]] — 1308 double bp redeem for member (分數: 8.0)
-- [[07_Workflow_Business/FE-1311-imx-sales-memo-print-extra-paper|FE-1311]] — 1311 imx sales memo print extra paper (分數: 6.5)
-- [[07_Workflow_Business/FE-1312-imx-v71-posting-error-return-voucher-or-|FE-1312]] — 1312 imx v71 posting error return voucher or (分數: 8.0)
-- [[07_Workflow_Business/FE-1315-eft-pop-up-only-one-eft-payment-allow-in|FE-1315]] — 1315 eft pop up only one eft payment allow in (分數: 6.5)
-- [[07_Workflow_Business/FE-1318-hk-ename-follow-up-pre-scan-vip-barcode-|FE-1318]] — 1318 hk ename follow up pre scan vip barcode (分數: 8.0)
-- [[07_Workflow_Business/FE-1319-imx-v71-can-not-create-member-with-line-|FE-1319]] — 1319 imx v71 can not create member with line (分數: 5.5)
-- [[07_Workflow_Business/FE-1320-sow-of-ks-sea-crm-cdp-memberson-purchase|FE-1320]] — 1320 sow of ks sea crm cdp memberson purchase (分數: 4.0)
-- [[07_Workflow_Business/FE-1322-rtm-bj-rom-interface-connection-failure|FE-1322]] — 1322 rtm bj rom interface connection failure (分數: 7.0)
-- [[07_Workflow_Business/FE-1326-lands-redo-dayend-octopus-transaction-di|FE-1326]] — 1326 lands redo dayend octopus transaction di (分數: 7.0)
-- [[07_Workflow_Business/FE-1327-lands-missing-cancellation-report-after-|FE-1327]] — 1327 lands missing cancellation report after (分數: 6.0)
-- [[07_Workflow_Business/FE-1328-lands-add-a-pop-up-notice-not-allow-mix-|FE-1328]] — 1328 lands add a pop up notice not allow mix (分數: 5.5)
-- [[07_Workflow_Business/FE-1329-lands-not-allow-save-orders-from-3-rd-pa|FE-1329]] — 1329 lands not allow save orders from 3 rd pa (分數: 6.0)
-- [[07_Workflow_Business/FE-1331-lands-receipts-changes-of-quotation-exch|FE-1331]] — 1331 lands receipts changes of quotation exch (分數: 6.5)
-- [[07_Workflow_Business/FE-1333-imx-qfpay-aliwechat-side-have-no-record-|FE-1333]] — 1333 imx qfpay aliwechat side have no record (分數: 8.0)
-- [[07_Workflow_Business/FE-1334-fe-double-byte-fe-sales-associate-aa-|FE-1334]] — 1334 fe double byte fe sales associate aa (分數: 6.0)
-- [[07_Workflow_Business/FE-1335-hk-ename-followup-customer-data-can-not-|FE-1335]] — 1335 hk ename followup customer data can not (分數: 7.0)
-- [[07_Workflow_Business/FE-1336-issue-jp-ksj-show-retail-50-error-during|FE-1336]] — 1336 issue jp ksj show retail 50 error during (分數: 7.5)
-- [[07_Workflow_Business/FE-1337-sph-service-memo-member-information-mask|FE-1337]] — 1337 sph service memo member information mask (分數: 6.5)
-- [[07_Workflow_Business/FE-1338-can-void-qfpay-memo-with-void-memo-only-|FE-1338]] — 1338 can void qfpay memo with void memo only (分數: 5.5)
-- [[07_Workflow_Business/FE-1340-issue_all_inc2379288_ean-blank-transacti|FE-1340]] — 1340 issue_all_inc2379288_ean blank transacti (分數: 6.0)
-- [[07_Workflow_Business/FE-1342-lands-add-a-number-of-items-fill-in-ref-|FE-1342]] — 1342 lands add a number of items fill in ref (分數: 7.0)
-- [[07_Workflow_Business/FE-1343-lands-work-ledger-cannot-receive-voided-|FE-1343]] — 1343 lands work ledger cannot receive voided (分數: 7.5)
-- [[07_Workflow_Business/FE-1344-lands-for-cancelled-order-no-need-to-rep|FE-1344]] — 1344 lands for cancelled order no need to rep (分數: 6.0)
-- [[07_Workflow_Business/FE-1345-lands-government-type-only-allow-paid-by|FE-1345]] — 1345 lands government type only allow paid by (分數: 5.5)
-- [[07_Workflow_Business/FE-1348-ticket-no-2024003-pos-shows-error-msg-af|FE-1348]] — 1348 ticket no 2024003 pos shows error msg af (分數: 6.5)
-- [[07_Workflow_Business/FE-1349-cscsp-2024005deposit-failure-invalid-sta|FE-1349]] — 1349 cscsp 2024005deposit failure invalid sta (分數: 8.0)
-- [[07_Workflow_Business/FE-1352-cs-904issue-_ks_staff-member-is-missing-|FE-1352]] — 1352 cs 904issue _ks_staff member is missing (分數: 6.5)
-- [[07_Workflow_Business/FE-1353-cs-923-issue_jp_missing-sales-id-when-ch|FE-1353]] — 1353 cs 923 issue_jp_missing sales id when ch (分數: 6.5)
-- [[07_Workflow_Business/FE-1354-coachcn-print-out-v75-checking|FE-1354]] — 1354 coachcn print out v75 checking (分數: 9.5)
-- [[07_Workflow_Business/FE-1356-coach-mpos-search-the-wrong-member|FE-1356]] — 1356 coach mpos search the wrong member (分數: 7.5)
-- [[07_Workflow_Business/FE-1360-enhance-member-upgrade-logic-|FE-1360]] — 1360 enhance member upgrade logic (分數: 4.5)
-- [[07_Workflow_Business/FE-1361-ksjv75-day-end-report-issue|FE-1361]] — 1361 ksjv75 day end report issue (分數: 7.0)
-- [[07_Workflow_Business/FE-1362-coach-v75-web-sales-memo-amount-0|FE-1362]] — 1362 coach v75 web sales memo amount 0 (分數: 5.5)
-- [[07_Workflow_Business/FE-1364-ao-member-upgrade-message|FE-1364]] — 1364 ao member upgrade message (分數: 6.5)
-- [[07_Workflow_Business/FE-1366-coachv75-day-end-issue|FE-1366]] — 1366 coachv75 day end issue (分數: 7.5)
-- [[07_Workflow_Business/FE-1367-imx-sales-memo-logo-update|FE-1367]] — 1367 imx sales memo logo update (分數: 5.5)
-- [[07_Workflow_Business/FE-1369-issue_prc_not-able-to-use-member-as-depo|FE-1369]] — 1369 issue_prc_not able to use member as depo (分數: 8.5)
-- [[07_Workflow_Business/FE-1370-cs-933-issue_prc_not-able-to-use-member-|FE-1370]] — 1370 cs 933 issue_prc_not able to use member (分數: 9.0)
-- [[07_Workflow_Business/FE-1383-cs-939-day-end-issue-caused-by-dbhist-to|FE-1383]] — 1383 cs 939 day end issue caused by dbhist to (分數: 7.5)
-- [[07_Workflow_Business/FE-1386-v75-day-end-missing-rpxxxxxxm-file-in-ti|FE-1386]] — 1386 v75 day end missing rpxxxxxxm file in ti (分數: 6.0)
-- [[07_Workflow_Business/FE-1387-cs-1033-day-end-error-by-incorrect-cash-|FE-1387]] — 1387 cs 1033 day end error by incorrect cash (分數: 6.5)
-- [[07_Workflow_Business/FE-1397-cs-2024020-imshkg06-v71-cannot-issue-dep|FE-1397]] — 1397 cs 2024020 imshkg06 v71 cannot issue dep (分數: 7.0)
-- [[07_Workflow_Business/FE-1401-bash-missing-minus-100-ecoupon|FE-1401]] — 1401 bash missing minus 100 ecoupon (分數: 6.0)
-- [[07_Workflow_Business/FE-1402-j804-2024-05-31-fixed-by-change-aa-to-aa|FE-1402]] — 1402 j804 2024 05 31 fixed by change aa to aa (分數: 7.5)
-- [[07_Workflow_Business/FE-1403-j431-2024-06-01-fixed-by-correct-member-|FE-1403]] — 1403 j431 2024 06 01 fixed by correct member (分數: 7.0)
-- [[07_Workflow_Business/FE-1408-hkjc-burn-points-pp-payment-type-j-unabl|FE-1408]] — 1408 hkjc burn points pp payment type j unabl (分數: 7.5)
-- [[07_Workflow_Business/FE-1409-cs-1059-v75-cs2k-cmb-payment-void-failed|FE-1409]] — 1409 cs 1059 v75 cs2k cmb payment void failed (分數: 7.5)
-- [[07_Workflow_Business/FE-1410-re-test-eft-payment-in-v75-64-bit|FE-1410]] — 1410 re test eft payment in v75 64 bit (分數: 6.0)
-- [[07_Workflow_Business/FE-1411-internal-bug-sales-password-expired-do-n|FE-1411]] — 1411 internal bug sales password expired do n (分數: 6.0)
-- [[07_Workflow_Business/FE-1414-cs-1073-ks-mysg-cdp-member-sales-with-co|FE-1414]] — 1414 cs 1073 ks mysg cdp member sales with co (分數: 9.5)
-- [[07_Workflow_Business/FE-1415-hkjc-member-page-unable-to-show-member-t|FE-1415]] — 1415 hkjc member page unable to show member t (分數: 6.0)
-- [[07_Workflow_Business/FE-1422-hkjc-rems-error-sanyoposdcnc-todo-getmem|FE-1422]] — 1422 hkjc rems error sanyoposdcnc todo getmem (分數: 7.0)
-- [[07_Workflow_Business/FE-1428-v67-showing-incorrect-ecoupon-on-pos|FE-1428]] — 1428 v67 showing incorrect ecoupon on pos (分數: 6.0)
-- [[07_Workflow_Business/FE-1429-hkjc-rems-member-search-not-using-member|FE-1429]] — 1429 hkjc rems member search not using member (分數: 8.0)
-- [[07_Workflow_Business/FE-1431-lands-things-may-need-to-be-encrypted|FE-1431]] — 1431 lands things may need to be encrypted (分數: 5.0)
-- [[07_Workflow_Business/FE-1433-sq0343-106-mvp-1-the-spending-value-did-|FE-1433]] — 1433 sq0343 106 mvp 1 the spending value did (分數: 7.0)
-- [[07_Workflow_Business/FE-1434-clone-sq0343-106-mvp-1-the-spending-valu|FE-1434]] — 1434 clone sq0343 106 mvp 1 the spending valu (分數: 7.0)
-- [[07_Workflow_Business/FE-1435-sq0343-104-mvp-1-had-created-sales-in-re|FE-1435]] — 1435 sq0343 104 mvp 1 had created sales in re (分數: 4.5)
-- [[07_Workflow_Business/FE-1436-sq0343-104-mvp-1-had-created-sales-in-re|FE-1436]] — 1436 sq0343 104 mvp 1 had created sales in re (分數: 4.5)
-- [[07_Workflow_Business/FE-1438-hkjc-rems-void-memo-will-always-return-e|FE-1438]] — 1438 hkjc rems void memo will always return e (分數: 8.0)
-- [[07_Workflow_Business/FE-1463-lands-possupp-fail-to-auto-create-unzipp|FE-1463]] — 1463 lands possupp fail to auto create unzipp (分數: 7.0)
-- [[07_Workflow_Business/FE-1464-hkjc-rems-member-search-by-member-number|FE-1464]] — 1464 hkjc rems member search by member number (分數: 7.0)
-- [[07_Workflow_Business/FE-1468-jc-rems-sq0343-126-opted-out-customer-st|FE-1468]] — 1468 jc rems sq0343 126 opted out customer st (分數: 4.0)
-- [[07_Workflow_Business/FE-1476-hkjc-rems-cwl-mvp1-bug-fixes|FE-1476]] — 1476 hkjc rems cwl mvp1 bug fixes (分數: 7.0)
-- [[07_Workflow_Business/FE-1481-coachjp-close-saleshubexe-printhubexe-mp|FE-1481]] — 1481 coachjp close saleshubexe printhubexe mp (分數: 7.5)
-- [[07_Workflow_Business/FE-1482-coachjpsaleshub-fail-to-complete-payment|FE-1482]] — 1482 coachjpsaleshub fail to complete payment (分數: 9.0)
-- [[07_Workflow_Business/FE-1489-coach-fe-receive-a-zfile-but-fail-to-upd|FE-1489]] — 1489 coach fe receive a zfile but fail to upd (分數: 6.5)
-- [[07_Workflow_Business/FE-1496--hkjc-rems-sow-of-pos-a4-sales-memo-cust|FE-1496]] — 1496  hkjc rems sow of pos a4 sales memo cust (分數: 4.0)
-- [[07_Workflow_Business/FE-1497-rems_to-identify-migrated-p-card-custome|FE-1497]] — 1497 rems_to identify migrated p card custome (分數: 4.0)
-- [[07_Workflow_Business/FE-1498-cs-1137-v75-cs2k-mpos-gift-cert-transact|FE-1498]] — 1498 cs 1137 v75 cs2k mpos gift cert transact (分數: 9.5)
-- [[07_Workflow_Business/FE-1499-cs-1139-v75-sg-redo-day-end-preview-form|FE-1499]] — 1499 cs 1139 v75 sg redo day end preview form (分數: 6.5)
-- [[07_Workflow_Business/FE-1502-rtm-pipl-localization|FE-1502]] — 1502 rtm pipl localization (分數: 6.5)
-- [[07_Workflow_Business/FE-1503-posting-cannot-post-the-transaction-gift|FE-1503]] — 1503 posting cannot post the transaction gift (分數: 7.0)
-- [[07_Workflow_Business/FE-1510-imx-void-deposit-stage-didnt-change-afte|FE-1510]] — 1510 imx void deposit stage didnt change afte (分數: 7.0)
-- [[07_Workflow_Business/FE-1514-cs-1129-vat-amount-of-oc134-00042938-oc1|FE-1514]] — 1514 cs 1129 vat amount of oc134 00042938 oc1 (分數: 6.0)
-- [[07_Workflow_Business/FE-1522-v75-void-gift-cert-caused-posting-error-|FE-1522]] — 1522 v75 void gift cert caused posting error (分數: 8.0)
-- [[07_Workflow_Business/FE-1525-coach-my-bdo-qr-code-doesnt-contain-any-|FE-1525]] — 1525 coach my bdo qr code doesnt contain any (分數: 5.5)
-- [[07_Workflow_Business/FE-1527-hkjc-pipl-member-not-found-error|FE-1527]] — 1527 hkjc pipl member not found error (分數: 7.0)
-- [[07_Workflow_Business/FE-1528-sales-hub-mpos-after-scanning-item-the-a|FE-1528]] — 1528 sales hub mpos after scanning item the a (分數: 4.5)
-- [[07_Workflow_Business/FE-1530-coach-my-bdo-e-receipt-void-reason-text-|FE-1530]] — 1530 coach my bdo e receipt void reason text (分數: 6.0)
-- [[07_Workflow_Business/FE-1532-coach-my-bdo-return-ereceipt-incorrectly|FE-1532]] — 1532 coach my bdo return ereceipt incorrectly (分數: 7.5)
-- [[07_Workflow_Business/FE-1537-coach-my-ereceipt-printing-laser-void-er|FE-1537]] — 1537 coach my ereceipt printing laser void er (分數: 6.5)
-- [[07_Workflow_Business/FE-1540-rin01408980-prc-ocf29-cs2000-fe-member-s|FE-1540]] — 1540 rin01408980 prc ocf29 cs2000 fe member s (分數: 6.5)
-- [[07_Workflow_Business/FE-1541-coachcrm-milestone-2-pop-up-member-not-f|FE-1541]] — 1541 coachcrm milestone 2 pop up member not f (分數: 8.5)
-- [[07_Workflow_Business/FE-1542-coachcrm-milestone-2-search-a-member-by-|FE-1542]] — 1542 coachcrm milestone 2 search a member by (分數: 6.5)
-- [[07_Workflow_Business/FE-1543-rin01410237-jp-j417-mpos-the-mpos-will-r|FE-1543]] — 1543 rin01410237 jp j417 mpos the mpos will r (分數: 8.5)
-- [[07_Workflow_Business/FE-1544-prorunner-v75-can-not-apply-all-item-dis|FE-1544]] — 1544 prorunner v75 can not apply all item dis (分數: 6.0)
-- [[07_Workflow_Business/FE-1546-coachcrm-milestone-2-fail-to-pop-up-memb|FE-1546]] — 1546 coachcrm milestone 2 fail to pop up memb (分數: 7.0)
-- [[07_Workflow_Business/FE-1547-coachcrm-milestone-2-fail-to-display-mut|FE-1547]] — 1547 coachcrm milestone 2 fail to display mut (分數: 9.5)
-- [[07_Workflow_Business/FE-1549-when-print-the-first-transaction-of-the-|FE-1549]] — 1549 when print the first transaction of the (分數: 5.5)
-- [[07_Workflow_Business/FE-1551-coachcrm-milestone-2-beapi-send-dynamic-|FE-1551]] — 1551 coachcrm milestone 2 beapi send dynamic (分數: 7.5)
-- [[07_Workflow_Business/FE-1552-cs-1206-v75-ksj-logo-and-ksj-qr-code-sho|FE-1552]] — 1552 cs 1206 v75 ksj logo and ksj qr code sho (分數: 6.5)
-- [[07_Workflow_Business/FE-1553-coachcrm-milestone-2-pos-display-2-same-|FE-1553]] — 1553 coachcrm milestone 2 pos display 2 same (分數: 6.5)
-- [[07_Workflow_Business/FE-1554-coachcrm-milestone-2-select-the-first-me|FE-1554]] — 1554 coachcrm milestone 2 select the first me (分數: 7.5)
-- [[07_Workflow_Business/FE-1556-coachcrm-milestone-2-need-to-send-tel-no|FE-1556]] — 1556 coachcrm milestone 2 need to send tel no (分數: 7.0)
-- [[07_Workflow_Business/FE-1557-coachcrm-milestone-2-botton-of-purchase-|FE-1557]] — 1557 coachcrm milestone 2 botton of purchase (分數: 7.5)
-- [[07_Workflow_Business/FE-1558-coachcrm-milestone-2-pop-up-an-error-aft|FE-1558]] — 1558 coachcrm milestone 2 pop up an error aft (分數: 7.5)
-- [[07_Workflow_Business/FE-1559-revise-for-rems-discount-offer-logic|FE-1559]] — 1559 revise for rems discount offer logic (分數: 4.0)
-- [[07_Workflow_Business/FE-1562-till1-pos-often-crashes-during-day-end-w|FE-1562]] — 1562 till1 pos often crashes during day end w (分數: 6.0)
-- [[07_Workflow_Business/FE-1566-coachcrm-milestone-2-no-need-to-display-|FE-1566]] — 1566 coachcrm milestone 2 no need to display (分數: 8.0)
-- [[07_Workflow_Business/FE-1567-cs-1128-for-cn-ocf87-10013580-is-used-to|FE-1567]] — 1567 cs 1128 for cn ocf87 10013580 is used to (分數: 7.5)
-- [[07_Workflow_Business/FE-1569-cs-1148-issue_kr_not-able-to-return-item|FE-1569]] — 1569 cs 1148 issue_kr_not able to return item (分數: 6.0)
-- [[07_Workflow_Business/FE-1572-item-tax-rate|FE-1572]] — 1572 item tax rate (分數: 4.0)
-- [[07_Workflow_Business/FE-1573-acxiom-crm-integration-updates-for-acu-6|FE-1573]] — 1573 acxiom crm integration updates for acu 6 (分數: 5.0)
-- [[07_Workflow_Business/FE-1576-rin01424961-my-kmy720-cs2000-fe-after-up|FE-1576]] — 1576 rin01424961 my kmy720 cs2000 fe after up (分數: 7.5)
-- [[07_Workflow_Business/FE-1584-coachtax-rate-display-incorrect-tax-exem|FE-1584]] — 1584 coachtax rate display incorrect tax exem (分數: 6.5)
-- [[07_Workflow_Business/FE-1585-imx-msmq-missing-sales-memo|FE-1585]] — 1585 imx msmq missing sales memo (分數: 5.0)
-- [[07_Workflow_Business/FE-1586-pos-will-pop-请联系财务手工开票-when-exchange-ite|FE-1586]] — 1586 pos will pop 请联系财务手工开票 when exchange ite (分數: 6.5)
-- [[07_Workflow_Business/FE-1595-cs-1314-rin01434013-jp-c338-cs2000-fe-ca|FE-1595]] — 1595 cs 1314 rin01434013 jp c338 cs2000 fe ca (分數: 7.5)
-- [[07_Workflow_Business/FE-1597-poscoachcn-fail-to-add-new-index-into-ta|FE-1597]] — 1597 poscoachcn fail to add new index into ta (分數: 7.0)
-- [[07_Workflow_Business/FE-1600-cs-1309-issue-my-inc2772129-car-error-my|FE-1600]] — 1600 cs 1309 issue my inc2772129 car error my (分數: 7.0)
-- [[07_Workflow_Business/FE-1604-cs-1315-issue_jp_inc2775648_rakuten-outl|FE-1604]] — 1604 cs 1315 issue_jp_inc2775648_rakuten outl (分數: 7.5)
-- [[07_Workflow_Business/FE-1607-be-769rin01439497-kmy-kmy586-cs2000-fe-s|FE-1607]] — 1607 be 769rin01439497 kmy kmy586 cs2000 fe s (分數: 9.0)
-- [[07_Workflow_Business/FE-1608-rin01441233-oc182-till0-reprint-dayend-r|FE-1608]] — 1608 rin01441233 oc182 till0 reprint dayend r (分數: 6.0)
-- [[07_Workflow_Business/FE-1609-rin01442431-prc-ocf88-cs2000-fe-receipt-|FE-1609]] — 1609 rin01442431 prc ocf88 cs2000 fe receipt (分數: 6.0)
-- [[07_Workflow_Business/FE-1612-cs-1334-rin01443208-sales-memo-preview-n|FE-1612]] — 1612 cs 1334 rin01443208 sales memo preview n (分數: 6.5)
-- [[07_Workflow_Business/FE-1613-rin01443610-jp-j375-mpos-the-sa-account-|FE-1613]] — 1613 rin01443610 jp j375 mpos the sa account (分數: 6.0)
-- [[07_Workflow_Business/FE-1614-sq0343-147-rems-customer-tier-display-in|FE-1614]] — 1614 sq0343 147 rems customer tier display in (分數: 6.5)
-- [[07_Workflow_Business/FE-1615-rin01443671-loading-member-cost-more-tim|FE-1615]] — 1615 rin01443671 loading member cost more tim (分數: 6.5)
-- [[07_Workflow_Business/FE-1619-ao-pcd-posting-error-return-voucher-or-g|FE-1619]] — 1619 ao pcd posting error return voucher or g (分數: 7.5)
-- [[07_Workflow_Business/FE-1620-cs-1082-issue_cn_inc2579616_tax-variance|FE-1620]] — 1620 cs 1082 issue_cn_inc2579616_tax variance (分數: 6.5)
-- [[07_Workflow_Business/FE-1623-imx-sales-staff-discount-can-not-apply-|FE-1623]] — 1623 imx sales staff discount can not apply (分數: 6.5)
-- [[07_Workflow_Business/FE-1624-deposit-settlement-after-using-mm-coupon|FE-1624]] — 1624 deposit settlement after using mm coupon (分數: 7.0)
-- [[07_Workflow_Business/FE-1626-cs-1363rin01452273前台创建会员pc-file中没有生成line|FE-1626]] — 1626 cs 1363rin01452273前台创建会员pc file中没有生成line (分數: 5.0)
-- [[07_Workflow_Business/FE-1627-imx-web-enquiry-se1004-can-not-return-it|FE-1627]] — 1627 imx web enquiry se1004 can not return it (分數: 6.5)
-- [[07_Workflow_Business/FE-1628-cn-epromo-邮件approve失败|FE-1628]] — 1628 cn epromo 邮件approve失败 (分數: 5.5)
-- [[07_Workflow_Business/FE-1631-cs-1327rin01456953pos升级到v75以后v75中opos无法同|FE-1631]] — 1631 cs 1327rin01456953pos升级到v75以后v75中opos无法同 (分數: 6.0)
-- [[07_Workflow_Business/FE-1634-data-unavailable-in-datamart-for-15-21-j|FE-1634]] — 1634 data unavailable in datamart for 15 21 j (分數: 8.0)
-- [[07_Workflow_Business/FE-1638-cs-1372-not-able-to-receive-ecom-sales-i|FE-1638]] — 1638 cs 1372 not able to receive ecom sales i (分數: 8.0)
-- [[07_Workflow_Business/FE-1639-cs-1385inc2843607rin01459972sales-memo00|FE-1639]] — 1639 cs 1385inc2843607rin01459972sales memo00 (分數: 6.0)
-- [[07_Workflow_Business/FE-1640-cs-1378rin01454411-oc113-cn-v75-member-p|FE-1640]] — 1640 cs 1378rin01454411 oc113 cn v75 member p (分數: 5.5)
-- [[07_Workflow_Business/FE-1645-acu-116-always-message-this-member-does-|FE-1645]] — 1645 acu 116 always message this member does (分數: 7.5)
-- [[07_Workflow_Business/FE-1648-acu-119always-0-for-each-field-on-member|FE-1648]] — 1648 acu 119always 0 for each field on member (分數: 8.5)
-- [[07_Workflow_Business/FE-1649-cs-1360-ksj_cs2k_show-birth-year-as-1900|FE-1649]] — 1649 cs 1360 ksj_cs2k_show birth year as 1900 (分數: 7.0)
-- [[07_Workflow_Business/FE-1650-inc2850641-hk-ocf1-till-2-pos-shows-unkn|FE-1650]] — 1650 inc2850641 hk ocf1 till 2 pos shows unkn (分數: 7.0)
-- [[07_Workflow_Business/FE-1652-imx-posting-error-unexpected-pcd-format1|FE-1652]] — 1652 imx posting error unexpected pcd format1 (分數: 7.5)
-- [[07_Workflow_Business/FE-1653-coachpipl-pop-up-incorrect-message-after|FE-1653]] — 1653 coachpipl pop up incorrect message after (分數: 8.0)
-- [[07_Workflow_Business/FE-1659-inc2874105-invalid-field-in-car-sales-fi|FE-1659]] — 1659 inc2874105 invalid field in car sales fi (分數: 5.5)
-- [[07_Workflow_Business/FE-1661-inc2876638inc2910074ticket问题解决客户想了解关于问题描|FE-1661]] — 1661 inc2876638inc2910074ticket问题解决客户想了解关于问题描 (分數: 6.5)
-- [[07_Workflow_Business/FE-1662-imx-void-memo-didnt-return-bp-to-member|FE-1662]] — 1662 imx void memo didnt return bp to member (分數: 7.0)
-- [[07_Workflow_Business/FE-1665-coachcrmclick-on-profile-no-response-whe|FE-1665]] — 1665 coachcrmclick on profile no response whe (分數: 9.0)
-- [[07_Workflow_Business/FE-1666-inc2892861cs-1402-cn-ocf26-staff-coh6572|FE-1666]] — 1666 inc2892861cs 1402 cn ocf26 staff coh6572 (分數: 8.5)
-- [[07_Workflow_Business/FE-1671-cs-1404-cs2k-v7500412000001-payment-erro|FE-1671]] — 1671 cs 1404 cs2k v7500412000001 payment erro (分數: 6.0)
-- [[07_Workflow_Business/FE-1675-acu-133member-name-and-mobile-phone-disp|FE-1675]] — 1675 acu 133member name and mobile phone disp (分數: 7.5)
-- [[07_Workflow_Business/FE-1680-coachcrm-r12a-havent-call-upsert-api-aft|FE-1680]] — 1680 coachcrm r12a havent call upsert api aft (分數: 8.5)
-- [[07_Workflow_Business/FE-1681-cs-1428inc2932812inc2870564quantity-of-r|FE-1681]] — 1681 cs 1428inc2932812inc2870564quantity of r (分數: 7.0)
-- [[07_Workflow_Business/FE-1682-cs-1415-issue_cn-_member-id-can-be-any-c|FE-1682]] — 1682 cs 1415 issue_cn _member id can be any c (分數: 5.5)
-- [[07_Workflow_Business/FE-1683-cs-1430inc2933217prc-region-posv75-扫描顾cd|FE-1683]] — 1683 cs 1430inc2933217prc region posv75 扫描顾cd (分數: 5.0)
-- [[07_Workflow_Business/FE-1684-cs-1419-75-not-able-to-select-cdp-coupon|FE-1684]] — 1684 cs 1419 75 not able to select cdp coupon (分數: 7.5)
-- [[07_Workflow_Business/FE-1685-inc2946404-tw-oc727-till0-failed-print-o|FE-1685]] — 1685 inc2946404 tw oc727 till0 failed print o (分數: 6.5)
-- [[07_Workflow_Business/FE-1686-jc-rtm-deposit-settlement-set-default-me|FE-1686]] — 1686 jc rtm deposit settlement set default me (分數: 6.5)
-- [[07_Workflow_Business/FE-1687-acu-140-coach-team-request-to-removed-th|FE-1687]] — 1687 acu 140 coach team request to removed th (分數: 9.0)
-- [[07_Workflow_Business/FE-1688-cs-1429inc2939252-tax-is-missing-for-two|FE-1688]] — 1688 cs 1429inc2939252 tax is missing for two (分數: 8.0)
-- [[07_Workflow_Business/FE-1690-cs-1407ks-sea-purchase-history-page-cann|FE-1690]] — 1690 cs 1407ks sea purchase history page cann (分數: 6.5)
-- [[07_Workflow_Business/FE-1691-inc2961036-total-amount-didnt-minus-the-|FE-1691]] — 1691 inc2961036 total amount didnt minus the (分數: 5.5)
-- [[07_Workflow_Business/FE-1693-coachprintagentmissing-kill-printagent-p|FE-1693]] — 1693 coachprintagentmissing kill printagent p (分數: 6.5)
-- [[07_Workflow_Business/FE-1697-rems-update-new-logo-on-the-receipt|FE-1697]] — 1697 rems update new logo on the receipt (分數: 4.0)
-- [[07_Workflow_Business/FE-1703-rems-pos-needs-user-interaction-if-sales|FE-1703]] — 1703 rems pos needs user interaction if sales (分數: 6.5)
-- [[07_Workflow_Business/FE-1704-inc2996330prc-v75-oc254till0-sales-memo-|FE-1704]] — 1704 inc2996330prc v75 oc254till0 sales memo (分數: 4.0)
-- [[07_Workflow_Business/FE-1706-cs-1426issue_prc-oss_b-file-time-is-more|FE-1706]] — 1706 cs 1426issue_prc oss_b file time is more (分數: 8.0)
-- [[07_Workflow_Business/FE-1710-cs-1451v7500413010000-unable-to-issue-de|FE-1710]] — 1710 cs 1451v7500413010000 unable to issue de (分數: 6.0)
-- [[07_Workflow_Business/FE-1712-inc3010134客户做完销售以后db的vip表中issue-date会被sa|FE-1712]] — 1712 inc3010134客户做完销售以后db的vip表中issue date会被sa (分數: 5.0)
-- [[07_Workflow_Business/FE-1716-inc3032884the-different-between-dayendp-|FE-1716]] — 1716 inc3032884the different between dayendp (分數: 5.5)
-- [[07_Workflow_Business/FE-1719-cs-1483-question-7-8-digital-store-code-|FE-1719]] — 1719 cs 1483 question 7 8 digital store code (分數: 6.0)
-- [[07_Workflow_Business/FE-1721-lcx-v75-multi-shift-day-end|FE-1721]] — 1721 lcx v75 multi shift day end (分數: 4.0)
-- [[07_Workflow_Business/FE-1722-lcx-v75-printing-customer-service-counte|FE-1722]] — 1722 lcx v75 printing customer service counte (分數: 4.0)
-- [[07_Workflow_Business/FE-1723-sph-s09-sales-memo-issue|FE-1723]] — 1723 sph s09 sales memo issue (分數: 4.0)
-- [[07_Workflow_Business/FE-1724-cs-1487-no-qty-for-void-and-return-depos|FE-1724]] — 1724 cs 1487 no qty for void and return depos (分數: 9.0)
-- [[07_Workflow_Business/FE-1736-cs-1506-request_hide-member-detail-infor|FE-1736]] — 1736 cs 1506 request_hide member detail infor (分數: 4.0)
-- [[07_Workflow_Business/FE-1737-re-cs2000-sales-memo-symbol-enquiry|FE-1737]] — 1737 re cs2000 sales memo symbol enquiry (分數: 7.0)
-- [[07_Workflow_Business/FE-1738-inc3113670hk-ocf583-till-1-pos-failed-to|FE-1738]] — 1738 inc3113670hk ocf583 till 1 pos failed to (分數: 6.0)
-- [[07_Workflow_Business/FE-1740-cs-1511-day-end-issue_-cj-v75-pilot-at-j|FE-1740]] — 1740 cs 1511 day end issue_ cj v75 pilot at j (分數: 5.5)
-- [[07_Workflow_Business/FE-1744-inc3126256cs-1568ksj_items-sale-price-ha|FE-1744]] — 1744 inc3126256cs 1568ksj_items sale price ha (分數: 6.0)
-- [[07_Workflow_Business/FE-1750-inc3167754-cs2000-pos系统显示cbm付款失败发送请求时出错|FE-1750]] — 1750 inc3167754 cs2000 pos系统显示cbm付款失败发送请求时出错 (分數: 5.0)
-- [[07_Workflow_Business/FE-1751-bash-win11-update|FE-1751]] — 1751 bash win11 update (分數: 5.5)
-- [[07_Workflow_Business/FE-1752-cs-1718-ocqs00-sales-enquiry-sales-memo-|FE-1752]] — 1752 cs 1718 ocqs00 sales enquiry sales memo (分數: 7.0)
-- [[07_Workflow_Business/FE-1760-bash-pop-up-a-net-error-during-processin|FE-1760]] — 1760 bash pop up a net error during processin (分數: 7.0)
-- [[07_Workflow_Business/FE-1761-bash-incorrect-day-end-print-out-not-fit|FE-1761]] — 1761 bash incorrect day end print out not fit (分數: 6.5)
-- [[07_Workflow_Business/FE-1765-when-a-stores-till-doesnt-complete-dayen|FE-1765]] — 1765 when a stores till doesnt complete dayen (分數: 5.5)
-- [[07_Workflow_Business/FE-1766-cs-1764-cj-prod-issue_v75-store-consolid|FE-1766]] — 1766 cs 1764 cj prod issue_v75 store consolid (分數: 7.0)
-- [[07_Workflow_Business/FE-1767-bash-footer-of-sales-memo-in-laser-mode-|FE-1767]] — 1767 bash footer of sales memo in laser mode (分數: 5.0)
-- [[07_Workflow_Business/FE-1776-cn-epromo-error|FE-1776]] — 1776 cn epromo error (分數: 6.0)
-- [[07_Workflow_Business/FE-1779-cs-1818-kr_pip_auditlog_fe_auditlog-work|FE-1779]] — 1779 cs 1818 kr_pip_auditlog_fe_auditlog work (分數: 7.5)
-- [[07_Workflow_Business/FE-1780-ao-store-tn-issue|FE-1780]] — 1780 ao store tn issue (分數: 6.0)
-- [[07_Workflow_Business/FE-1799-inc3278161till-0-sales-memo-no-invoice-q|FE-1799]] — 1799 inc3278161till 0 sales memo no invoice q (分數: 6.0)
-- [[07_Workflow_Business/FE-1805-anztax-exempt-missing-row-of-exclusive-t|FE-1805]] — 1805 anztax exempt missing row of exclusive t (分數: 4.5)
-- [[07_Workflow_Business/FE-1808-cs-1870inc3295770-prc-posv75-ocf12till0-|FE-1808]] — 1808 cs 1870inc3295770 prc posv75 ocf12till0 (分數: 6.5)
-- [[07_Workflow_Business/FE-1814-inc3313258sales-memo-00059306-not-genera|FE-1814]] — 1814 inc3313258sales memo 00059306 not genera (分數: 4.5)
-- [[07_Workflow_Business/FE-1818-inc3314542-whats-the-mm-coupons-display-|FE-1818]] — 1818 inc3314542 whats the mm coupons display (分數: 6.0)
-- [[07_Workflow_Business/FE-1826-cs-1882-inc3323035invalid-id-could-be-re|FE-1826]] — 1826 cs 1882 inc3323035invalid id could be re (分數: 6.0)
-- [[07_Workflow_Business/FE-1827-anz-pop-up-object-reference-not-set-to-a|FE-1827]] — 1827 anz pop up object reference not set to a (分數: 6.0)
-- [[07_Workflow_Business/FE-1834-ksj-produce-2-rows-of-line-34-in-pcd-fil|FE-1834]] — 1834 ksj produce 2 rows of line 34 in pcd fil (分數: 7.0)
-- [[07_Workflow_Business/FE-1836-cs-1939inc3344641-inc3362865prc-store-oc|FE-1836]] — 1836 cs 1939inc3344641 inc3362865prc store oc (分數: 8.5)
-- [[07_Workflow_Business/FE-1839-inc3353418when-they-are-processing-a-cmb|FE-1839]] — 1839 inc3353418when they are processing a cmb (分數: 6.0)
-- [[07_Workflow_Business/FE-1840-coachanz-issue-of-cash-denomination-cash|FE-1840]] — 1840 coachanz issue of cash denomination cash (分數: 7.0)
-- [[07_Workflow_Business/FE-1843-miss-sales-memo|FE-1843]] — 1843 miss sales memo (分數: 4.5)
-- [[07_Workflow_Business/FE-1847-bash-store-failed-to-show-replenishment-|FE-1847]] — 1847 bash store failed to show replenishment (分數: 6.5)
-- [[07_Workflow_Business/FE-1848-anz-fe-follow-up-issue|FE-1848]] — 1848 anz fe follow up issue (分數: 8.0)
-- [[07_Workflow_Business/FE-1849-inc3381508-sg-oc551-some-items-cannot-be|FE-1849]] — 1849 inc3381508 sg oc551 some items cannot be (分數: 8.0)
-- [[07_Workflow_Business/FE-1850-inc3381142-till-0-dayend-report-format-i|FE-1850]] — 1850 inc3381142 till 0 dayend report format i (分數: 6.0)
-- [[07_Workflow_Business/FE-1852-cs-1999inc3387499get-order-from-mpos-and|FE-1852]] — 1852 cs 1999inc3387499get order from mpos and (分數: 6.0)
-- [[07_Workflow_Business/FE-1854-inc3394928-ksfa241-issues-with-sending-e|FE-1854]] — 1854 inc3394928 ksfa241 issues with sending e (分數: 9.5)
-- [[07_Workflow_Business/FE-1855-inc3395382till1-dayend-report-show-debit|FE-1855]] — 1855 inc3395382till1 dayend report show debit (分數: 4.5)
-- [[07_Workflow_Business/FE-1857-cs-2023inc3401351-when-user-perform-an-e|FE-1857]] — 1857 cs 2023inc3401351 when user perform an e (分數: 6.5)
-- [[07_Workflow_Business/FE-1858-c360-mmeber-search-bad-request|FE-1858]] — 1858 c360 mmeber search bad request (分數: 7.0)
-- [[07_Workflow_Business/FE-1860-ppr-108-anz_day-end_consolidation_up-dow|FE-1860]] — 1860 ppr 108 anz_day end_consolidation_up dow (分數: 5.5)
-- [[07_Workflow_Business/FE-1866-inc3407172-unable-to-update-customer-ema|FE-1866]] — 1866 inc3407172 unable to update customer ema (分數: 9.5)
-- [[07_Workflow_Business/FE-1867-inc3413195-anz-region-goods-return-not-s|FE-1867]] — 1867 inc3413195 anz region goods return not s (分數: 6.5)
-- [[07_Workflow_Business/FE-1868-ppr-116-issue_anz_inc3421547_anz-stores-|FE-1868]] — 1868 ppr 116 issue_anz_inc3421547_anz stores (分數: 7.5)
-- [[07_Workflow_Business/FE-1870-cs-2024-issue_anz_inc3405075_search-with|FE-1870]] — 1870 cs 2024 issue_anz_inc3405075_search with (分數: 4.0)
-- [[07_Workflow_Business/FE-1872-cs-2028-setup-mpos-last-transaction-numb|FE-1872]] — 1872 cs 2028 setup mpos last transaction numb (分數: 5.5)
-- [[07_Workflow_Business/FE-1878-sph-dayend-print-same-data-but-different|FE-1878]] — 1878 sph dayend print same data but different (分數: 7.0)
-- [[07_Workflow_Business/FE-1883-hkjc-rems-b223-print-day-end-issue|FE-1883]] — 1883 hkjc rems b223 print day end issue (分數: 7.0)
-- [[07_Workflow_Business/FE-1888-anz-missing-4-rows-of-vip_no_dm-in-body-|FE-1888]] — 1888 anz missing 4 rows of vip_no_dm in body (分數: 5.5)
-- [[07_Workflow_Business/FE-1889-cs-2095inc3439918-cn-00013669-sales-memo|FE-1889]] — 1889 cs 2095inc3439918 cn 00013669 sales memo (分數: 5.0)
-- [[07_Workflow_Business/FE-1890-inc3456669ksj-region-pos-v7500413050200p|FE-1890]] — 1890 inc3456669ksj region pos v7500413050200p (分數: 4.5)
-- [[07_Workflow_Business/FE-1893-coachfail-to-void-deposit-pop-up-error|FE-1893]] — 1893 coachfail to void deposit pop up error (分數: 8.0)
-- [[07_Workflow_Business/FE-1901-cs-2058-issue_anz_inc3434107_question-ab|FE-1901]] — 1901 cs 2058 issue_anz_inc3434107_question ab (分數: 6.5)
-- [[07_Workflow_Business/FE-1903-ppr-239anz-epromo-report-error-when-crea|FE-1903]] — 1903 ppr 239anz epromo report error when crea (分數: 5.5)
-- [[07_Workflow_Business/FE-1905-coach-cashier-field-inputed-with-invalid|FE-1905]] — 1905 coach cashier field inputed with invalid (分數: 7.5)
-- [[07_Workflow_Business/FE-1906-dtut-edit-module-pop-up-could-not-find-f|FE-1906]] — 1906 dtut edit module pop up could not find f (分數: 6.0)
-- [[07_Workflow_Business/FE-1908-cs-2293cj_customer-data-search_cannot-se|FE-1908]] — 1908 cs 2293cj_customer data search_cannot se (分數: 7.5)
-- [[07_Workflow_Business/FE-1916-coachjp-jp-sfcc-integration-|FE-1916]] — 1916 coachjp jp sfcc integration (分數: 4.5)
-- [[07_Workflow_Business/FE-1919-cs-2366inc3491538ocf1-till1till2till5til|FE-1919]] — 1919 cs 2366inc3491538ocf1 till1till2till5til (分數: 8.0)
-- [[07_Workflow_Business/FE-1920-deposit-cant-modify-ticket-|FE-1920]] — 1920 deposit cant modify ticket (分數: 6.5)
-- [[07_Workflow_Business/FE-1926-inc3536938kr-region-v75-销售-重印-在线重印重印被voi|FE-1926]] — 1926 inc3536938kr region v75 销售 重印 在线重印重印被voi (分數: 4.0)
-- [[07_Workflow_Business/FE-1929-inc3520233prc-region-ocf516till0-posv75c|FE-1929]] — 1929 inc3520233prc region ocf516till0 posv75c (分數: 4.5)
-- [[07_Workflow_Business/FE-1936-imx-v75-cant-search-ecoupon-after-member|FE-1936]] — 1936 imx v75 cant search ecoupon after member (分數: 5.0)
-- [[07_Workflow_Business/FE-1937-v75-cannot-call-online-sales-history-enq|FE-1937]] — 1937 v75 cannot call online sales history enq (分數: 4.0)
-- [[07_Workflow_Business/FE-1942-imx-pop-up-object-reference-error-after-|FE-1942]] — 1942 imx pop up object reference error after (分數: 7.0)
-- [[07_Workflow_Business/FE-1943-imx-v75-ecoupon-display-front-size|FE-1943]] — 1943 imx v75 ecoupon display front size (分數: 4.5)
-- [[07_Workflow_Business/FE-1948-cs-2862inc3565017purchase-history-enquir|FE-1948]] — 1948 cs 2862inc3565017purchase history enquir (分數: 7.5)
-- [[07_Workflow_Business/FE-1949-inc3581166prc-regionoc126till0-pos-v7500|FE-1949]] — 1949 inc3581166prc regionoc126till0 pos v7500 (分數: 4.5)
-- [[07_Workflow_Business/FE-1950-inc3562113aws-sg-region-oc654pos-v750040|FE-1950]] — 1950 inc3562113aws sg region oc654pos v750040 (分數: 5.0)
-- [[07_Workflow_Business/FE-1951-imx-missing-vip-name-in-the-sales-memo|FE-1951]] — 1951 imx missing vip name in the sales memo (分數: 4.5)
-- [[07_Workflow_Business/FE-1952-cs-2672-issue_prc_inc3520233_ocf516-till|FE-1952]] — 1952 cs 2672 issue_prc_inc3520233_ocf516 till (分數: 7.0)
-- [[07_Workflow_Business/FE-1954-cs-2843issue_anz_inc3571951_unable-to-se|FE-1954]] — 1954 cs 2843issue_anz_inc3571951_unable to se (分數: 8.0)
-- [[07_Workflow_Business/FE-663-dotnet-zupdate-deposit|FE-663]] — 663 dotnet zupdate deposit (分數: 4.0)
-- [[07_Workflow_Business/FE-664-dotnet-day-end-till-mpos|FE-664]] — 664 dotnet day end till mpos (分數: 4.0)
-- [[07_Workflow_Business/FE-675-sport-house-day-end-daily-sales-summary|FE-675]] — 675 sport house day end daily sales summary (分數: 4.0)
-- [[07_Workflow_Business/FE-686-dotnet-return-voucher-enquiry|FE-686]] — 686 dotnet return voucher enquiry (分數: 4.5)
-- [[07_Workflow_Business/FE-716-deposit-remarks-field-only-show-1-line|FE-716]] — 716 deposit remarks field only show 1 line (分數: 4.0)
-- [[07_Workflow_Business/FE-725-sg-my-card-machinemodel-a920-integration|FE-725]] — 725 sg my card machinemodel a920 integration (分數: 4.0)
-- [[07_Workflow_Business/FE-732-coach-customer-info-capture-from-wechat-|FE-732]] — 732 coach customer info capture from wechat (分數: 5.0)
-- [[07_Workflow_Business/FE-734-customer-info-capture-from-wechat-phase-|FE-734]] — 734 customer info capture from wechat phase (分數: 4.5)
-- [[07_Workflow_Business/FE-741-membership-upgrade-logic-enhancement-sow|FE-741]] — 741 membership upgrade logic enhancement sow (分數: 4.0)
-- [[07_Workflow_Business/FE-793-ticket2020141-sales-memo-discrepancy-fou|FE-793]] — 793 ticket2020141 sales memo discrepancy fou (分數: 6.5)
-- [[07_Workflow_Business/FE-796-sales-return-transactions-not-count-the-|FE-796]] — 796 sales return transactions not count the (分數: 7.5)
-- [[07_Workflow_Business/FE-798-ksj-create-member-in-c360-by-ok-button|FE-798]] — 798 ksj create member in c360 by ok button (分數: 7.5)
-- [[07_Workflow_Business/FE-806-cj-print-customer-receipt-change-to-prin|FE-806]] — 806 cj print customer receipt change to prin (分數: 5.0)
-- [[07_Workflow_Business/FE-811-gift-receipt-cannot-print-out-for-sales-|FE-811]] — 811 gift receipt cannot print out for sales (分數: 9.0)
-- [[07_Workflow_Business/FE-812-void-sales-transaction-can-use-cash-coup|FE-812]] — 812 void sales transaction can use cash coup (分數: 7.5)
-- [[07_Workflow_Business/FE-814-member-gift-redemption-incorrect-bonus-p|FE-814]] — 814 member gift redemption incorrect bonus p (分數: 5.5)
-- [[07_Workflow_Business/FE-820-ticket-2020152-sales-memo-net-amt-not-ma|FE-820]] — 820 ticket 2020152 sales memo net amt not ma (分數: 7.5)
-- [[07_Workflow_Business/FE-822-be-v6-settle-other-deposit-issue-just-re|FE-822]] — 822 be v6 settle other deposit issue just re (分數: 7.0)
-- [[07_Workflow_Business/FE-827-f1-function-key-is-not-work-to-search-me|FE-827]] — 827 f1 function key is not work to search me (分數: 5.5)
-- [[07_Workflow_Business/FE-832-gift-receipt-errors|FE-832]] — 832 gift receipt errors (分數: 8.0)
-- [[07_Workflow_Business/FE-833-enquiry-error|FE-833]] — 833 enquiry error (分數: 5.0)
-- [[07_Workflow_Business/FE-834-new-member-created-from-member-panel-can|FE-834]] — 834 new member created from member panel can (分數: 6.5)
-- [[07_Workflow_Business/FE-836-member-gift-redemption-incorrect-bonus-p|FE-836]] — 836 member gift redemption incorrect bonus p (分數: 7.0)
-- [[07_Workflow_Business/FE-837-void-service-memo-support-online-payment|FE-837]] — 837 void service memo support online payment (分數: 6.0)
-- [[07_Workflow_Business/FE-838-void-gift-cert-memo-support-online-payme|FE-838]] — 838 void gift cert memo support online payme (分數: 6.0)
-- [[07_Workflow_Business/FE-839-void-deposit-memo-support-online-payment|FE-839]] — 839 void deposit memo support online payment (分數: 7.0)
-- [[07_Workflow_Business/FE-855-cs2000pos-x64-bit-dot-net-dayend-imx-tes|FE-855]] — 855 cs2000pos x64 bit dot net dayend imx tes (分數: 8.0)
-- [[07_Workflow_Business/FE-857-ksj-discount-variance-due-to-tax-exempti|FE-857]] — 857 ksj discount variance due to tax exempti (分數: 6.5)
-- [[07_Workflow_Business/FE-867-regenerate-the-transaction-records-to-pc|FE-867]] — 867 regenerate the transaction records to pc (分數: 5.5)
-- [[07_Workflow_Business/FE-868-cannot-search-by-using-phone-no-|FE-868]] — 868 cannot search by using phone no (分數: 6.0)
-- [[07_Workflow_Business/FE-869-coach-jp-consolidated-day-end-show-physi|FE-869]] — 869 coach jp consolidated day end show physi (分數: 6.0)
-- [[07_Workflow_Business/FE-870-coach-jp-consolidated-day-end-show-physi|FE-870]] — 870 coach jp consolidated day end show physi (分數: 6.0)
-- [[07_Workflow_Business/FE-882-re-do-day-end-consolidation-require-clic|FE-882]] — 882 re do day end consolidation require clic (分數: 4.5)
-- [[07_Workflow_Business/FE-887-hkjc-sales-receipt-display-9999-qty|FE-887]] — 887 hkjc sales receipt display 9999 qty (分數: 6.5)
-- [[07_Workflow_Business/FE-888-cg-71r14x-patch-request|FE-888]] — 888 cg 71r14x patch request (分數: 6.5)
-- [[07_Workflow_Business/FE-889-sph-discount-control-by-brand-based-on-l|FE-889]] — 889 sph discount control by brand based on l (分數: 6.0)
-- [[07_Workflow_Business/FE-890-deposit-cannot-create-new-member|FE-890]] — 890 deposit cannot create new member (分數: 7.0)
-- [[07_Workflow_Business/FE-895-cs2000pos-x64-bit-dot-net-print-error-in|FE-895]] — 895 cs2000pos x64 bit dot net print error in (分數: 7.0)
-- [[07_Workflow_Business/FE-897-duplicated-transaction-caused-by-out-of-|FE-897]] — 897 duplicated transaction caused by out of (分數: 6.5)
-- [[07_Workflow_Business/FE-898-r14x-patch-testing-issues|FE-898]] — 898 r14x patch testing issues (分數: 6.0)
-- [[07_Workflow_Business/FE-901-cash-coupon-show-repeat-|FE-901]] — 901 cash coupon show repeat (分數: 7.5)
-- [[07_Workflow_Business/FE-902-agile-new-member-expire-date|FE-902]] — 902 agile new member expire date (分數: 5.5)
-- [[07_Workflow_Business/FE-906-ticket-no-2021010-cgstpe010-deposit-tran|FE-906]] — 906 ticket no 2021010 cgstpe010 deposit tran (分數: 8.0)
-- [[07_Workflow_Business/FE-908-handle-expired-cash-coupon-and-change-ca|FE-908]] — 908 handle expired cash coupon and change ca (分數: 6.0)
-- [[07_Workflow_Business/FE-913-sow-of-add-member-upgrade-info-on-sales-|FE-913]] — 913 sow of add member upgrade info on sales (分數: 4.5)
-- [[07_Workflow_Business/FE-914-error-when-return-0-item|FE-914]] — 914 error when return 0 item (分數: 6.0)
-- [[07_Workflow_Business/FE-916-mpos-117-sales-by-mobile-pos-is-not-refl|FE-916]] — 916 mpos 117 sales by mobile pos is not refl (分數: 6.0)
-- [[07_Workflow_Business/FE-922-coupon-qty-count-in-sales-memo-inconsist|FE-922]] — 922 coupon qty count in sales memo inconsist (分數: 5.0)
-- [[07_Workflow_Business/FE-925-a920-purchase-with-2-credit-cards-issue|FE-925]] — 925 a920 purchase with 2 credit cards issue (分數: 6.5)
-- [[07_Workflow_Business/FE-928-attend_pos_date-is-not-equal-to-pos-date|FE-928]] — 928 attend_pos_date is not equal to pos date (分數: 5.0)
-- [[07_Workflow_Business/FE-929-incorrect-bp-print-out-|FE-929]] — 929 incorrect bp print out (分數: 6.0)
-- [[07_Workflow_Business/FE-930-dayend-validation-failure-error-in-payme|FE-930]] — 930 dayend validation failure error in payme (分數: 6.5)
-- [[07_Workflow_Business/FE-931-day-end-issues|FE-931]] — 931 day end issues (分數: 5.0)
-- [[07_Workflow_Business/FE-937-sales-enquiry-total-sales-net-sales-show|FE-937]] — 937 sales enquiry total sales net sales show (分數: 6.0)
-- [[07_Workflow_Business/FE-938-price-modification-cannot-is-applied-int|FE-938]] — 938 price modification cannot is applied int (分數: 8.0)
-- [[07_Workflow_Business/FE-941-missing-first-name-and-last-name-in-new-|FE-941]] — 941 missing first name and last name in new (分數: 7.0)
-- [[07_Workflow_Business/FE-942-tw-qa-deposit-printing-issue|FE-942]] — 942 tw qa deposit printing issue (分數: 6.5)
-- [[07_Workflow_Business/FE-944-multiple-disc-promotion-not-work|FE-944]] — 944 multiple disc promotion not work (分數: 6.5)
-- [[07_Workflow_Business/FE-947-in-sales-inquiry-data-shows-0-in-print-o|FE-947]] — 947 in sales inquiry data shows 0 in print o (分數: 6.5)
-- [[07_Workflow_Business/FE-972-staff-purchase-quota-calculation-logic-w|FE-972]] — 972 staff purchase quota calculation logic w (分數: 8.0)
-- [[07_Workflow_Business/FE-973-ticket-2021103-incorrect-staff-code|FE-973]] — 973 ticket 2021103 incorrect staff code (分數: 6.0)
-- [[07_Workflow_Business/FE-977-cj-loyalty-ecoupon-not-equal-to-db|FE-977]] — 977 cj loyalty ecoupon not equal to db (分數: 7.5)
-- [[07_Workflow_Business/FE-978-cj-loyalty-ecoupon-used-column-indentati|FE-978]] — 978 cj loyalty ecoupon used column indentati (分數: 6.0)
-- [[07_Workflow_Business/FE-979-cj-loyalty-ecoupon-member-information-sc|FE-979]] — 979 cj loyalty ecoupon member information sc (分數: 8.0)
-- [[07_Workflow_Business/FE-980-cj-loyalty-no-reminder-ecoupon-display|FE-980]] — 980 cj loyalty no reminder ecoupon display (分數: 8.5)
-- [[07_Workflow_Business/FE-981-cj-loyalty-ecoupon-single-match-press-en|FE-981]] — 981 cj loyalty ecoupon single match press en (分數: 7.0)
-- [[07_Workflow_Business/FE-982-cj-loyalty-valid-ecoupon-display-cannot-|FE-982]] — 982 cj loyalty valid ecoupon display cannot (分數: 7.0)
-- [[07_Workflow_Business/FE-983-cash-coupon-tender-amount-not-match-sele|FE-983]] — 983 cash coupon tender amount not match sele (分數: 5.5)
-- [[07_Workflow_Business/FE-984-cj-loyalty-message-translation|FE-984]] — 984 cj loyalty message translation (分數: 7.0)
-- [[07_Workflow_Business/FE-985-cj-loyalty-reminder-ecoupon-|FE-985]] — 985 cj loyalty reminder ecoupon (分數: 7.0)
-- [[07_Workflow_Business/FE-986-cj-loyalty-member-message-centre-cannot-|FE-986]] — 986 cj loyalty member message centre cannot (分數: 7.5)
-- [[07_Workflow_Business/FE-988-update-extend-db-structure-for-tblcoupon|FE-988]] — 988 update extend db structure for tblcoupon (分數: 5.5)
-- [[07_Workflow_Business/FE-991-cj-loyalty-part-3-20210712-coach-v72002r|FE-991]] — 991 cj loyalty part 3 20210712 coach v72002r (分數: 6.5)
-- [[07_Workflow_Business/FE-992-sales-enquiry-by-category-overflow|FE-992]] — 992 sales enquiry by category overflow (分數: 5.5)
-- [[07_Workflow_Business/FE-995-no-redeemed-coupon-status-upadte-for-voi|FE-995]] — 995 no redeemed coupon status upadte for voi (分數: 6.0)
-- [[07_Workflow_Business/FE-996-cj-loyalty-part-2-fe-fix|FE-996]] — 996 cj loyalty part 2 fe fix (分數: 8.0)
-- [[07_Workflow_Business/FE-997-member-details-searching-screen|FE-997]] — 997 member details searching screen (分數: 5.5)
-
-### MPOS (170 筆)
-
-- [[07_Workflow_Business/MP-130-license-module-mpos-license-logic-update|MP-130]] — 130 license module mpos license logic update (分數: 5.0)
-- [[07_Workflow_Business/MP-142-general-module-change-login-cashier-to-s|MP-142]] — 142 general module change login cashier to s (分數: 4.0)
-- [[07_Workflow_Business/MP-145-payment-module-allow-user-to-input-text-|MP-145]] — 145 payment module allow user to input text (分數: 4.5)
-- [[07_Workflow_Business/MP-194-show-sales-staff-id-and-customer-name-in|MP-194]] — 194 show sales staff id and customer name in (分數: 5.0)
-- [[07_Workflow_Business/MP-203-check-search-member-performance-71|MP-203]] — 203 check search member performance 71 (分數: 4.0)
-- [[07_Workflow_Business/MP-204-payment-module-display-staff-id-vip-info|MP-204]] — 204 payment module display staff id vip info (分數: 4.0)
-- [[07_Workflow_Business/MP-271-void-sales-memo-with-member-performance-|MP-271]] — 271 void sales memo with member performance (分數: 5.0)
-- [[07_Workflow_Business/MP-277-ipad-sales-01|MP-277]] — 277 ipad sales 01 (分數: 6.0)
-- [[07_Workflow_Business/MP-278-ipad-sales-02|MP-278]] — 278 ipad sales 02 (分數: 5.0)
-- [[07_Workflow_Business/MP-279-ipad-sales-03|MP-279]] — 279 ipad sales 03 (分數: 5.5)
-- [[07_Workflow_Business/MP-284-ipad-sales-08|MP-284]] — 284 ipad sales 08 (分數: 4.0)
-- [[07_Workflow_Business/MP-285-ipad-sales-09|MP-285]] — 285 ipad sales 09 (分數: 5.0)
-- [[07_Workflow_Business/MP-300-main-pos-allows-void-m-till-memo|MP-300]] — 300 main pos allows void m till memo (分數: 4.0)
-- [[07_Workflow_Business/MP-301-mpos-allows-void-sales-memo-only-for-onl|MP-301]] — 301 mpos allows void sales memo only for onl (分數: 5.5)
-- [[07_Workflow_Business/MP-304-fail-to-void-mpos-sales-with-member-disc|MP-304]] — 304 fail to void mpos sales with member disc (分數: 8.0)
-- [[07_Workflow_Business/MP-305-customer-info-capture-from-wechat-phase-|MP-305]] — 305 customer info capture from wechat phase (分數: 4.0)
-- [[07_Workflow_Business/MP-307-log-enhancement|MP-307]] — 307 log enhancement (分數: 6.5)
-- [[07_Workflow_Business/MP-308-wrong-filter-of-void-memo-list|MP-308]] — 308 wrong filter of void memo list (分數: 6.5)
-- [[07_Workflow_Business/MP-319-370-mpos-allows-void-sales-memo-only-for|MP-319]] — 319 370 mpos allows void sales memo only for (分數: 5.5)
-- [[07_Workflow_Business/MP-328-iphone-staff-animation-recall-payment-me|MP-328]] — 328 iphone staff animation recall payment me (分數: 5.5)
-- [[07_Workflow_Business/MP-337-cannot-scan-and-save-to-queue-busting-wh|MP-337]] — 337 cannot scan and save to queue busting wh (分數: 6.0)
-- [[07_Workflow_Business/MP-339-mm-coupon-cannot-apply|MP-339]] — 339 mm coupon cannot apply (分數: 6.0)
-- [[07_Workflow_Business/MP-349-no-network-checking-on-search-page-to-co|MP-349]] — 349 no network checking on search page to co (分數: 4.5)
-- [[07_Workflow_Business/MP-352-fail-to-create-new-member|MP-352]] — 352 fail to create new member (分數: 6.0)
-- [[07_Workflow_Business/MP-362-rin00613130-the-new-member-information-w|MP-362]] — 362 rin00613130 the new member information w (分數: 6.5)
-- [[07_Workflow_Business/MP-363-tw-production-issue-incorrect-on-sales-p|MP-363]] — 363 tw production issue incorrect on sales p (分數: 6.0)
-- [[07_Workflow_Business/MP-367-sales-associate-fail-to-remove-can-save-|MP-367]] — 367 sales associate fail to remove can save (分數: 6.0)
-- [[07_Workflow_Business/MP-369-mm-coupon-cannot-display-in-ve-in-reprin|MP-369]] — 369 mm coupon cannot display in ve in reprin (分數: 7.0)
-- [[07_Workflow_Business/MP-370-discount-show-0-off-in-ui-and-also-apply|MP-370]] — 370 discount show 0 off in ui and also apply (分數: 6.0)
-- [[07_Workflow_Business/MP-371-member-enquiry-read-barcode-and-searchin|MP-371]] — 371 member enquiry read barcode and searchin (分數: 4.0)
-- [[07_Workflow_Business/MP-374-sow-of-coach-japan-cat-link-app|MP-374]] — 374 sow of coach japan cat link app (分數: 4.0)
-- [[07_Workflow_Business/MP-379-internal-fix-member-qr-code-filter-issue|MP-379]] — 379 internal fix member qr code filter issue (分數: 6.0)
-- [[07_Workflow_Business/MP-426-cj-130-queue-busting-fail-to-close-the-o|MP-426]] — 426 cj 130 queue busting fail to close the o (分數: 9.0)
-- [[07_Workflow_Business/MP-427-cj-128-queue-busting-object-error|MP-427]] — 427 cj 128 queue busting object error (分數: 6.5)
-- [[07_Workflow_Business/MP-428-cj124-add-barcode-scan-for-sales-associa|MP-428]] — 428 cj124 add barcode scan for sales associa (分數: 6.0)
-- [[07_Workflow_Business/MP-430-queue-busting-page-customer-name-is-not-|MP-430]] — 430 queue busting page customer name is not (分數: 6.0)
-- [[07_Workflow_Business/MP-431-fail-to-issue-memo-with-payment-manual-v|MP-431]] — 431 fail to issue memo with payment manual v (分數: 5.0)
-- [[07_Workflow_Business/MP-435-sales-preview-type-is-different-from-har|MP-435]] — 435 sales preview type is different from har (分數: 4.5)
-- [[07_Workflow_Business/MP-437-cj135-2nd-time-qbusting-japanese-charact|MP-437]] — 437 cj135 2nd time qbusting japanese charact (分數: 6.5)
-- [[07_Workflow_Business/MP-438-enhanced-getcashierlist-getsalemanlist-i|MP-438]] — 438 enhanced getcashierlist getsalemanlist i (分數: 5.5)
-- [[07_Workflow_Business/MP-44-general-module-mpos-and-cs2000-of-date-c|MP-44]] — 44 general module mpos and cs2000 of date c (分數: 6.5)
-- [[07_Workflow_Business/MP-453-change-language-cannot-apply-to-menu-|MP-453]] — 453 change language cannot apply to menu (分數: 7.0)
-- [[07_Workflow_Business/MP-455-e-coupon-selection-screen-issue|MP-455]] — 455 e coupon selection screen issue (分數: 8.0)
-- [[07_Workflow_Business/MP-456-e-coupon-click-on-reprint-screen-display|MP-456]] — 456 e coupon click on reprint screen display (分數: 7.5)
-- [[07_Workflow_Business/MP-458-ui-click-no-response-in-ecoupon-reminder|MP-458]] — 458 ui click no response in ecoupon reminder (分數: 6.5)
-- [[07_Workflow_Business/MP-463-redeemed-coupon-status-update-by-pc-file|MP-463]] — 463 redeemed coupon status update by pc file (分數: 7.0)
-- [[07_Workflow_Business/MP-464-re-used-voided-e-coupon|MP-464]] — 464 re used voided e coupon (分數: 8.0)
-- [[07_Workflow_Business/MP-472-multi-mm-coupon-selection|MP-472]] — 472 multi mm coupon selection (分數: 6.0)
-- [[07_Workflow_Business/MP-473-adding-期限-in-mpos-e-coupon-enquiry|MP-473]] — 473 adding 期限 in mpos e coupon enquiry (分數: 4.0)
-- [[07_Workflow_Business/MP-474-adding-email-api-validation-in-new-membe|MP-474]] — 474 adding email api validation in new membe (分數: 4.0)
-- [[07_Workflow_Business/MP-482-wrong-expired-date-19000101-of-new-membe|MP-482]] — 482 wrong expired date 19000101 of new membe (分數: 5.5)
-- [[07_Workflow_Business/MP-483-remove-the-login-checking-for-sales-staf|MP-483]] — 483 remove the login checking for sales staf (分數: 6.0)
-- [[07_Workflow_Business/MP-488-cn-create-new-member-email-without-valid|MP-488]] — 488 cn create new member email without valid (分數: 6.5)
-- [[07_Workflow_Business/MP-490-0-discount-coupon-should-show-in-all-pag|MP-490]] — 490 0 discount coupon should show in all pag (分數: 6.0)
-- [[07_Workflow_Business/MP-492-deposit-return-memo-number-created-is-du|MP-492]] — 492 deposit return memo number created is du (分數: 6.5)
-- [[07_Workflow_Business/MP-495-sales-memo-item-add-on-sales-disc-on-mpo|MP-495]] — 495 sales memo item add on sales disc on mpo (分數: 5.5)
-- [[07_Workflow_Business/MP-498-ui-enhancement-for-deposit-return-and-de|MP-498]] — 498 ui enhancement for deposit return and de (分數: 5.0)
-- [[07_Workflow_Business/MP-500-mpos-customer-birthday-should-not-show-i|MP-500]] — 500 mpos customer birthday should not show i (分數: 6.0)
-- [[07_Workflow_Business/MP-501-unnecessary-pop-up-error-message-for-sal|MP-501]] — 501 unnecessary pop up error message for sal (分數: 5.5)
-- [[07_Workflow_Business/MP-503-mpos-price-rounds-incorrectly-with-decim|MP-503]] — 503 mpos price rounds incorrectly with decim (分數: 7.5)
-- [[07_Workflow_Business/MP-515-sow-of-cj-loyalty-customization-add-ecou|MP-515]] — 515 sow of cj loyalty customization add ecou (分數: 4.5)
-- [[07_Workflow_Business/MP-516-pos-cannot-display-two-salesperson-codes|MP-516]] — 516 pos cannot display two salesperson codes (分數: 7.0)
-- [[07_Workflow_Business/MP-517-rin00945074oc134-sales-amount-variance-b|MP-517]] — 517 rin00945074oc134 sales amount variance b (分數: 8.5)
-- [[07_Workflow_Business/MP-520-multi-disc-perc-mm-coupon|MP-520]] — 520 multi disc perc mm coupon (分數: 5.5)
-- [[07_Workflow_Business/MP-522-ecoupon-and-mm-coupon-cannot-apply-at-th|MP-522]] — 522 ecoupon and mm coupon cannot apply at th (分數: 6.0)
-- [[07_Workflow_Business/MP-524-inc1765584-tax-amount-in-c364-is-wrong-o|MP-524]] — 524 inc1765584 tax amount in c364 is wrong o (分數: 8.0)
-- [[07_Workflow_Business/MP-529-mpos-cloud-printing-customer-receipt-pri|MP-529]] — 529 mpos cloud printing customer receipt pri (分數: 7.0)
-- [[07_Workflow_Business/MP-537-coach-item-sales-amount-payment-amount-v|MP-537]] — 537 coach item sales amount payment amount v (分數: 9.5)
-- [[07_Workflow_Business/MP-538-rin01022241-missing-sales-in-pc-file-|MP-538]] — 538 rin01022241 missing sales in pc file (分數: 6.5)
-- [[07_Workflow_Business/MP-540-rin01039287-memo-price|MP-540]] — 540 rin01039287 memo price (分數: 7.0)
-- [[07_Workflow_Business/MP-543-fail-to-update-ecoupon-redeem-status|MP-543]] — 543 fail to update ecoupon redeem status (分數: 8.0)
-- [[07_Workflow_Business/MP-545-a920-enhancement|MP-545]] — 545 a920 enhancement (分數: 4.0)
-- [[07_Workflow_Business/MP-548-mpos-apimposcoupons-fulfilment|MP-548]] — 548 mpos apimposcoupons fulfilment (分數: 6.5)
-- [[07_Workflow_Business/MP-549-e-receiptprorunner|MP-549]] — 549 e receiptprorunner (分數: 5.5)
-- [[07_Workflow_Business/MP-550-mpos-product-item-state-refresh-error-sk|MP-550]] — 550 mpos product item state refresh error sk (分數: 6.5)
-- [[07_Workflow_Business/MP-557-mposmissing-customer-name-on-the-print-o|MP-557]] — 557 mposmissing customer name on the print o (分數: 7.0)
-- [[07_Workflow_Business/MP-563-new-member-cannot-online-update-be|MP-563]] — 563 new member cannot online update be (分數: 7.5)
-- [[07_Workflow_Business/MP-566-cumtomer-survey-not-ready|MP-566]] — 566 cumtomer survey not ready (分數: 6.0)
-- [[07_Workflow_Business/MP-569-manual-overwrite-the-discount|MP-569]] — 569 manual overwrite the discount (分數: 5.5)
-- [[07_Workflow_Business/MP-571-cannot-retrieve-the-modified-member-reco|MP-571]] — 571 cannot retrieve the modified member reco (分數: 6.5)
-- [[07_Workflow_Business/MP-572-mpos-after-modify-the-discount-as-50-the|MP-572]] — 572 mpos after modify the discount as 50 the (分數: 7.0)
-- [[07_Workflow_Business/MP-575-return-item-allow-price-overwrite-list-p|MP-575]] — 575 return item allow price overwrite list p (分數: 6.5)
-- [[07_Workflow_Business/MP-580--dbtransdboinvtrx-file-payment-ischange-|MP-580]] — 580  dbtransdboinvtrx file payment ischange (分數: 6.0)
-- [[07_Workflow_Business/MP-584-ui-ux-spacing-positioning-of-sales-flow|MP-584]] — 584 ui ux spacing positioning of sales flow (分數: 5.0)
-- [[07_Workflow_Business/MP-585-loading-elements-scence-during-the-sales|MP-585]] — 585 loading elements scence during the sales (分數: 4.5)
-- [[07_Workflow_Business/MP-588-mpos-write-original-list-price-and-curre|MP-588]] — 588 mpos write original list price and curre (分數: 6.5)
-- [[07_Workflow_Business/MP-597-sow-cdp-coupon-integration|MP-597]] — 597 sow cdp coupon integration (分數: 4.0)
-- [[07_Workflow_Business/MP-601-cj-enhancement-cannot-logout-cashier-sal|MP-601]] — 601 cj enhancement cannot logout cashier sal (分數: 5.0)
-- [[07_Workflow_Business/MP-602-sow-of-getting-back-end-sales-to-print-i|MP-602]] — 602 sow of getting back end sales to print i (分數: 4.5)
-- [[07_Workflow_Business/MP-616-mpos-print-receipt-missing-member-name|MP-616]] — 616 mpos print receipt missing member name (分數: 9.0)
-- [[07_Workflow_Business/MP-617-suggest-to-display-credit-card-details-|MP-617]] — 617 suggest to display credit card details (分數: 6.5)
-- [[07_Workflow_Business/MP-618-section-of-input-item-no-would-disapear-|MP-618]] — 618 section of input item no would disapear (分數: 6.5)
-- [[07_Workflow_Business/MP-619-back-to-sales-main-page-after-tab-confir|MP-619]] — 619 back to sales main page after tab confir (分數: 7.5)
-- [[07_Workflow_Business/MP-620-translation-issue-of-enquiry-function-on|MP-620]] — 620 translation issue of enquiry function on (分數: 6.5)
-- [[07_Workflow_Business/MP-623-display-unusual-screen-after-tab-pay-und|MP-623]] — 623 display unusual screen after tab pay und (分數: 6.5)
-- [[07_Workflow_Business/MP-624-return-sales-memo-display-incorect-total|MP-624]] — 624 return sales memo display incorect total (分數: 8.0)
-- [[07_Workflow_Business/MP-626-fail-to-create-new-member-on-mpos|MP-626]] — 626 fail to create new member on mpos (分數: 8.5)
-- [[07_Workflow_Business/MP-635-fail-to-add-new-member-when-inserted-ema|MP-635]] — 635 fail to add new member when inserted ema (分數: 7.0)
-- [[07_Workflow_Business/MP-636-cannot-switch-on-thank-you-card|MP-636]] — 636 cannot switch on thank you card (分數: 7.0)
-- [[07_Workflow_Business/MP-637-cashier-staffs-id-is-still-existing-afte|MP-637]] — 637 cashier staffs id is still existing afte (分數: 6.5)
-- [[07_Workflow_Business/MP-638-display-unusual-screen-after-insert-inva|MP-638]] — 638 display unusual screen after insert inva (分數: 7.0)
-- [[07_Workflow_Business/MP-639-sale-void-display-sales-memo-no-from-oth|MP-639]] — 639 sale void display sales memo no from oth (分數: 8.0)
-- [[07_Workflow_Business/MP-644-full-width-character-sales-staff-code-aa|MP-644]] — 644 full width character sales staff code aa (分數: 7.5)
-- [[07_Workflow_Business/MP-646-cs-468-issue_all_jouinv_org_list-value-i|MP-646]] — 646 cs 468 issue_all_jouinv_org_list value i (分數: 5.5)
-- [[07_Workflow_Business/MP-648-mpos-23-jp-mpos-unable-to-use-e-coupon-v|MP-648]] — 648 mpos 23 jp mpos unable to use e coupon v (分數: 7.0)
-- [[07_Workflow_Business/MP-649-l1010b-coupon-discount-variance|MP-649]] — 649 l1010b coupon discount variance (分數: 7.5)
-- [[07_Workflow_Business/MP-653-landsd-day-end-checking-popup-error|MP-653]] — 653 landsd day end checking popup error (分數: 6.0)
-- [[07_Workflow_Business/MP-654-rounding-issue-in-r23-3231|MP-654]] — 654 rounding issue in r23 3231 (分數: 5.5)
-- [[07_Workflow_Business/MP-655-q2023-046-erm-tapestry-japan-sow-coach-j|MP-655]] — 655 q2023 046 erm tapestry japan sow coach j (分數: 5.5)
-- [[07_Workflow_Business/MP-703-mposcoach-sales-hub|MP-703]] — 703 mposcoach sales hub (分數: 4.0)
-- [[07_Workflow_Business/MP-704-coachsaleshubjp-fail-to-enter-into-issue|MP-704]] — 704 coachsaleshubjp fail to enter into issue (分數: 7.5)
-- [[07_Workflow_Business/MP-707-api-issue-no-birthday-e-coupon-show-for-|MP-707]] — 707 api issue no birthday e coupon show for (分數: 6.0)
-- [[07_Workflow_Business/MP-708-coachjpsaleshub-pop-up-an-error-fail-to-|MP-708]] — 708 coachjpsaleshub pop up an error fail to (分數: 8.5)
-- [[07_Workflow_Business/MP-709-coachjp-mpos-fail-to-display-entrie-prom|MP-709]] — 709 coachjp mpos fail to display entrie prom (分數: 8.0)
-- [[07_Workflow_Business/MP-710-mposcoach-customer-information-page-has-|MP-710]] — 710 mposcoach customer information page has (分數: 6.5)
-- [[07_Workflow_Business/MP-720-cs-1179-saleshub-mpos-after-input-sn-no-|MP-720]] — 720 cs 1179 saleshub mpos after input sn no (分數: 6.0)
-- [[07_Workflow_Business/MP-722-coachcrm-milestone-2-pop-up-an-error-whe|MP-722]] — 722 coachcrm milestone 2 pop up an error whe (分數: 8.0)
-- [[07_Workflow_Business/MP-723-coachcrm-milestone-2-display-1-member-re|MP-723]] — 723 coachcrm milestone 2 display 1 member re (分數: 7.0)
-- [[07_Workflow_Business/MP-724-coachcrm-milestone-2-no-purchase-histoy-|MP-724]] — 724 coachcrm milestone 2 no purchase histoy (分數: 7.5)
-- [[07_Workflow_Business/MP-725-cs-1231-mpos-ksj-no-response-after-scann|MP-725]] — 725 cs 1231 mpos ksj no response after scann (分數: 7.5)
-- [[07_Workflow_Business/MP-726-coachcrm-milestone-2-keep-loading-after-|MP-726]] — 726 coachcrm milestone 2 keep loading after (分數: 6.5)
-- [[07_Workflow_Business/MP-727-mpos-66-mpos-bonus-point-showing-incorre|MP-727]] — 727 mpos 66 mpos bonus point showing incorre (分數: 7.0)
-- [[07_Workflow_Business/MP-729-acu-68-ui-update-for-member-profile-page|MP-729]] — 729 acu 68 ui update for member profile page (分數: 4.0)
-- [[07_Workflow_Business/MP-733-mpos-56queue-busting-member-info-would-b|MP-733]] — 733 mpos 56queue busting member info would b (分數: 7.5)
-- [[07_Workflow_Business/MP-736-cs-1284-hk-oc501-transactions-on-nov-20-|MP-736]] — 736 cs 1284 hk oc501 transactions on nov 20 (分數: 5.5)
-- [[07_Workflow_Business/MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable|MP-737]] — 737 cs 1286 ksj mpos pilot store c312 unable (分數: 7.5)
-- [[07_Workflow_Business/MP-741-mpos-hide-the-total-bonus-points-part-in|MP-741]] — 741 mpos hide the total bonus points part in (分數: 4.0)
-- [[07_Workflow_Business/MP-742-mposcustomer-info-cannot-be-saved-in-que|MP-742]] — 742 mposcustomer info cannot be saved in que (分數: 8.0)
-- [[07_Workflow_Business/MP-745-mpos-74jp-region-can-not-select-e-coupon|MP-745]] — 745 mpos 74jp region can not select e coupon (分數: 7.5)
-- [[07_Workflow_Business/MP-749-mpos-78mpos-3295-jp-region-miss-notifica|MP-749]] — 749 mpos 78mpos 3295 jp region miss notifica (分數: 6.5)
-- [[07_Workflow_Business/MP-750-mpos-79mpos-3295-sales-staff-didnt-auto-|MP-750]] — 750 mpos 79mpos 3295 sales staff didnt auto (分數: 6.0)
-- [[07_Workflow_Business/MP-752-coachpiplmpos-pop-up-incorrect-error-mes|MP-752]] — 752 coachpiplmpos pop up incorrect error mes (分數: 8.0)
-- [[07_Workflow_Business/MP-753-rin01454411jp-j355-mpos-when-user-enter-|MP-753]] — 753 rin01454411jp j355 mpos when user enter (分數: 7.0)
-- [[07_Workflow_Business/MP-755-mpos-ereceipt-enhancement-ui-ereceipt-fl|MP-755]] — 755 mpos ereceipt enhancement ui ereceipt fl (分數: 6.0)
-- [[07_Workflow_Business/MP-757-mpos-83-mpos-v3302-ksj-mpos-sales-data-p|MP-757]] — 757 mpos 83 mpos v3302 ksj mpos sales data p (分數: 10.0)
-- [[07_Workflow_Business/MP-758-mpos-85-mpos-3295-hk-region-cbdt-functio|MP-758]] — 758 mpos 85 mpos 3295 hk region cbdt functio (分數: 7.5)
-- [[07_Workflow_Business/MP-759-mpos-84-mpos-v3295-hk-region-for-the-pri|MP-759]] — 759 mpos 84 mpos v3295 hk region for the pri (分數: 8.0)
-- [[07_Workflow_Business/MP-760-cs-820jp-mpos-ereceipt-receipt-printout-|MP-760]] — 760 cs 820jp mpos ereceipt receipt printout (分數: 7.5)
-- [[07_Workflow_Business/MP-762-mpos-87-hk-region-mpos-v3295-202503253-4|MP-762]] — 762 mpos 87 hk region mpos v3295 202503253 4 (分數: 7.5)
-- [[07_Workflow_Business/MP-763-mpos-88-mpos-v3295-202503253-jp-region-m|MP-763]] — 763 mpos 88 mpos v3295 202503253 jp region m (分數: 6.5)
-- [[07_Workflow_Business/MP-764-coachpipl-pop-up-999-error-message-after|MP-764]] — 764 coachpipl pop up 999 error message after (分數: 7.5)
-- [[07_Workflow_Business/MP-765-mpos-89-cj-mpos-text-replacement|MP-765]] — 765 mpos 89 cj mpos text replacement (分數: 5.0)
-- [[07_Workflow_Business/MP-767-mpos-91-mpos-ksj-3295e-if-member-we-sele|MP-767]] — 767 mpos 91 mpos ksj 3295e if member we sele (分數: 10.0)
-- [[07_Workflow_Business/MP-769-acu-76-mpos-77cn-mpos-missing-more-butto|MP-769]] — 769 acu 76 mpos 77cn mpos missing more butto (分數: 7.0)
-- [[07_Workflow_Business/MP-770-cs-1424-ksj-mpos-some-customers-are-unab|MP-770]] — 770 cs 1424 ksj mpos some customers are unab (分數: 10.0)
-- [[07_Workflow_Business/MP-773-mpos-94mpos-3295-cn-region-unable-to-cre|MP-773]] — 773 mpos 94mpos 3295 cn region unable to cre (分數: 7.5)
-- [[07_Workflow_Business/MP-774-mpos-95-ksj-mpos-v3232-v1a-invalid-pop-u|MP-774]] — 774 mpos 95 ksj mpos v3232 v1a invalid pop u (分數: 7.5)
-- [[07_Workflow_Business/MP-775-mpos-96-ksj-mpos-v3232-v1a-posting-issue|MP-775]] — 775 mpos 96 ksj mpos v3232 v1a posting issue (分數: 8.5)
-- [[07_Workflow_Business/MP-776-mpos-97-ksj-mpos-v3232-v1a-unable-to-get|MP-776]] — 776 mpos 97 ksj mpos v3232 v1a unable to get (分數: 7.0)
-- [[07_Workflow_Business/MP-779-mpos-99inc3015022cn-prd-mpos-issue-oc189|MP-779]] — 779 mpos 99inc3015022cn prd mpos issue oc189 (分數: 7.0)
-- [[07_Workflow_Business/MP-780-mpos-101ksj-mpos-v3295f-invalid-member-t|MP-780]] — 780 mpos 101ksj mpos v3295f invalid member t (分數: 8.5)
-- [[07_Workflow_Business/MP-783-mpos-104ksj-mpos-v3296-ipa-employee-purc|MP-783]] — 783 mpos 104ksj mpos v3296 ipa employee purc (分數: 7.0)
-- [[07_Workflow_Business/MP-784-cs-1336coach-jp-mq_a-terminate-issue|MP-784]] — 784 cs 1336coach jp mq_a terminate issue (分數: 7.0)
-- [[07_Workflow_Business/MP-785-coach-receipt-from-receipt-printing-are-|MP-785]] — 785 coach receipt from receipt printing are (分數: 6.5)
-- [[07_Workflow_Business/MP-793-mpos-115inc3149444cj-mpos-prod_-j317-the|MP-793]] — 793 mpos 115inc3149444cj mpos prod_ j317 the (分數: 9.0)
-- [[07_Workflow_Business/MP-797-mpos-118cj-mpos-prod_-j801-saved-transac|MP-797]] — 797 mpos 118cj mpos prod_ j801 saved transac (分數: 7.0)
-- [[07_Workflow_Business/MP-798-mpos-123-jp-mpos-has-started-experiencin|MP-798]] — 798 mpos 123 jp mpos has started experiencin (分數: 6.0)
-- [[07_Workflow_Business/MP-799-mpos-122jp-cloud-iis-store-unable-connec|MP-799]] — 799 mpos 122jp cloud iis store unable connec (分數: 7.0)
-- [[07_Workflow_Business/MP-802-mpos-125-mpos-v3306-sg-region-member-pro|MP-802]] — 802 mpos 125 mpos v3306 sg region member pro (分數: 6.0)
-- [[07_Workflow_Business/MP-803-inc3255868jp-region-pos-v72mpos-sales-me|MP-803]] — 803 inc3255868jp region pos v72mpos sales me (分數: 4.5)
-- [[07_Workflow_Business/MP-804-cs-1790when-a-stores-till-doesnt-complet|MP-804]] — 804 cs 1790when a stores till doesnt complet (分數: 7.0)
-- [[07_Workflow_Business/MP-805-ppr-94mpos-transaction-unable-to-post-to|MP-805]] — 805 ppr 94mpos transaction unable to post to (分數: 8.5)
-- [[07_Workflow_Business/MP-806-cs-1938inc3329915-hk-oc519-mpos-loading-|MP-806]] — 806 cs 1938inc3329915 hk oc519 mpos loading (分數: 7.0)
-- [[07_Workflow_Business/MP-807-ppr-102-coach-au-mpos-transaction-with-v|MP-807]] — 807 ppr 102 coach au mpos transaction with v (分數: 7.0)
-- [[07_Workflow_Business/MP-809-inc3398638-ipad-cannot-read-barcode-afte|MP-809]] — 809 inc3398638 ipad cannot read barcode afte (分數: 7.0)
-- [[07_Workflow_Business/MP-811-anz-insert-value-in-update_timestamp-col|MP-811]] — 811 anz insert value in update_timestamp col (分數: 5.5)
-- [[07_Workflow_Business/MP-827-inc3507150after-entering-product-and-cus|MP-827]] — 827 inc3507150after entering product and cus (分數: 6.0)
-- [[07_Workflow_Business/MP-829-inc3555674-car-error-jp-tranj412-mb00501|MP-829]] — 829 inc3555674 car error jp tranj412 mb00501 (分數: 8.0)
-- [[07_Workflow_Business/MP-832-inc3550023-exchange-memo-not-linked-to-o|MP-832]] — 832 inc3550023 exchange memo not linked to o (分數: 7.0)
-- [[07_Workflow_Business/MP-833-inc3593461-car-error-jp-j243-mb000233-su|MP-833]] — 833 inc3593461 car error jp j243 mb000233 su (分數: 6.5)
-
-### Web Services (58 筆)
-
-- [[07_Workflow_Business/WEB-120-csplus-se7011-bug-fixing-for-calculating|WEB-120]] — 120 csplus se7011 bug fixing for calculating (分數: 4.0)
-- [[07_Workflow_Business/WEB-138-csplus-se9096-data-result-in-desc-order|WEB-138]] — 138 csplus se9096 data result in desc order (分數: 4.0)
-- [[07_Workflow_Business/WEB-145-csplus-us1001-account-type-change-from-0|WEB-145]] — 145 csplus us1001 account type change from 0 (分數: 4.0)
-- [[07_Workflow_Business/WEB-171-sow-coach-china-gg66-sales-interface-dev|WEB-171]] — 171 sow coach china gg66 sales interface dev (分數: 4.0)
-- [[07_Workflow_Business/WEB-172-csplus-sql-se1001base-change-to-if-skip-|WEB-172]] — 172 csplus sql se1001base change to if skip (分數: 4.0)
-- [[07_Workflow_Business/WEB-176-csplus-api-re-order-the-sqlite-column|WEB-176]] — 176 csplus api re order the sqlite column (分數: 4.0)
-- [[07_Workflow_Business/WEB-180-csplus-change-payment-details-gird-layou|WEB-180]] — 180 csplus change payment details gird layou (分數: 4.0)
-- [[07_Workflow_Business/WEB-204-add-log-in-ename-for-member-search-page-|WEB-204]] — 204 add log in ename for member search page (分數: 6.0)
-- [[07_Workflow_Business/WEB-210-cj-loyalty-issue-use-ecoupon_redeem_stat|WEB-210]] — 210 cj loyalty issue use ecoupon_redeem_stat (分數: 6.0)
-- [[07_Workflow_Business/WEB-213-cj-line-fix-pos-return-error|WEB-213]] — 213 cj line fix pos return error (分數: 6.5)
-- [[07_Workflow_Business/WEB-215-sow-of-cj-loyalty-customization-add-ecou|WEB-215]] — 215 sow of cj loyalty customization add ecou (分數: 4.0)
-- [[07_Workflow_Business/WEB-221-bug-ename-duplicate-vip-id|WEB-221]] — 221 bug ename duplicate vip id (分數: 7.0)
-- [[07_Workflow_Business/WEB-222-member-update-by-interface-vip-upsert-th|WEB-222]] — 222 member update by interface vip upsert th (分數: 6.0)
-- [[07_Workflow_Business/WEB-229-cn-vip-search-by-staff-code|WEB-229]] — 229 cn vip search by staff code (分數: 6.0)
-- [[07_Workflow_Business/WEB-233-discount-creation-cannot-be-updated-in-c|WEB-233]] — 233 discount creation cannot be updated in c (分數: 8.5)
-- [[07_Workflow_Business/WEB-238-epromo-taskscheduler-bug-fix|WEB-238]] — 238 epromo taskscheduler bug fix (分數: 6.5)
-- [[07_Workflow_Business/WEB-249-csplus-sales-enquiry-error-missing-locat|WEB-249]] — 249 csplus sales enquiry error missing locat (分數: 6.0)
-- [[07_Workflow_Business/WEB-25-csplus-se1001_item_details-sql-v66-handl|WEB-25]] — 25 csplus se1001_item_details sql v66 handl (分數: 4.5)
-- [[07_Workflow_Business/WEB-250-online-sales-file-downloaded|WEB-250]] — 250 online sales file downloaded (分數: 7.5)
-- [[07_Workflow_Business/WEB-251-fix-in-member-edit-function|WEB-251]] — 251 fix in member edit function (分數: 5.5)
-- [[07_Workflow_Business/WEB-252-sow-cdp-coupon-integration|WEB-252]] — 252 sow cdp coupon integration (分數: 4.0)
-- [[07_Workflow_Business/WEB-253-web-close-po-process-auto-without-extrac|WEB-253]] — 253 web close po process auto without extrac (分數: 5.5)
-- [[07_Workflow_Business/WEB-254-return-to-supplier-error|WEB-254]] — 254 return to supplier error (分數: 6.5)
-- [[07_Workflow_Business/WEB-255-member-management-maintenance-error|WEB-255]] — 255 member management maintenance error (分數: 7.0)
-- [[07_Workflow_Business/WEB-256-po_upload-error|WEB-256]] — 256 po_upload error (分數: 8.0)
-- [[07_Workflow_Business/WEB-257-promotional-product-table-error|WEB-257]] — 257 promotional product table error (分數: 6.5)
-- [[07_Workflow_Business/WEB-258-purchase-order-error|WEB-258]] — 258 purchase order error (分數: 6.5)
-- [[07_Workflow_Business/WEB-262-sow-of-vip-online-sales-api-and-online-s|WEB-262]] — 262 sow of vip online sales api and online s (分數: 5.0)
-- [[07_Workflow_Business/WEB-322-sow-of-online-sales-api-and-online-sales|WEB-322]] — 322 sow of online sales api and online sales (分數: 5.5)
-- [[07_Workflow_Business/WEB-324-sow-of-ks-sea-crm-cdp-integration-member|WEB-324]] — 324 sow of ks sea crm cdp integration member (分數: 4.5)
-- [[07_Workflow_Business/WEB-326-ename-unable-to-update-modified-customer|WEB-326]] — 326 ename unable to update modified customer (分數: 6.5)
-- [[07_Workflow_Business/WEB-327-ename-customer-conform-page-display-for-|WEB-327]] — 327 ename customer conform page display for (分數: 6.0)
-- [[07_Workflow_Business/WEB-333-ename-r325-kr-region-unable-to-register-|WEB-333]] — 333 ename r325 kr region unable to register (分數: 4.5)
-- [[07_Workflow_Business/WEB-335-change-c360-getcustomerdetail-call-sourc|WEB-335]] — 335 change c360 getcustomerdetail call sourc (分數: 4.5)
-- [[07_Workflow_Business/WEB-340-cs-683-system-change-request_customer-in|WEB-340]] — 340 cs 683 system change request_customer in (分數: 6.0)
-- [[07_Workflow_Business/WEB-348-webissues-found-during-automation-script|WEB-348]] — 348 webissues found during automation script (分數: 5.5)
-- [[07_Workflow_Business/WEB-352-pos-payment-key-button-controlcurrency-c|WEB-352]] — 352 pos payment key button controlcurrency c (分數: 6.5)
-- [[07_Workflow_Business/WEB-357-exchange-rate新增成功后列表不会自动刷新需要退出目录重进才能显示新增|WEB-357]] — 357 exchange rate新增成功后列表不会自动刷新需要退出目录重进才能显示新增 (分數: 6.0)
-- [[07_Workflow_Business/WEB-362-ename-exception-when-selecting-vip-in-st|WEB-362]] — 362 ename exception when selecting vip in st (分數: 6.0)
-- [[07_Workflow_Business/WEB-364-ename-when-clicking-on-modify-in-tourist|WEB-364]] — 364 ename when clicking on modify in tourist (分數: 5.5)
-- [[07_Workflow_Business/WEB-365-ename-modifying-tourist-should-not-check|WEB-365]] — 365 ename modifying tourist should not check (分數: 6.5)
-- [[07_Workflow_Business/WEB-366-cs-1229-ename-when-modify-customer-info-|WEB-366]] — 366 cs 1229 ename when modify customer info (分數: 5.5)
-- [[07_Workflow_Business/WEB-374-acu-55-crm-check-the-performance-of-load|WEB-374]] — 374 acu 55 crm check the performance of load (分數: 7.0)
-- [[07_Workflow_Business/WEB-375-acu-68-ui-update-for-member-profile-page|WEB-375]] — 375 acu 68 ui update for member profile page (分數: 4.0)
-- [[07_Workflow_Business/WEB-378-acu-83-car-error-from-member-type-p|WEB-378]] — 378 acu 83 car error from member type p (分數: 6.0)
-- [[07_Workflow_Business/WEB-38-csplus-se9096-ui-bonus-point-set-to-1-de|WEB-38]] — 38 csplus se9096 ui bonus point set to 1 de (分數: 4.0)
-- [[07_Workflow_Business/WEB-381-epromo-improvements|WEB-381]] — 381 epromo improvements (分數: 4.5)
-- [[07_Workflow_Business/WEB-383-acu-81-birthday-is-not-set-as-null-for-1|WEB-383]] — 383 acu 81 birthday is not set as null for 1 (分數: 5.0)
-- [[07_Workflow_Business/WEB-387-cs-1425jp_coh_epromo_want-to-edit-approv|WEB-387]] — 387 cs 1425jp_coh_epromo_want to edit approv (分數: 4.0)
-- [[07_Workflow_Business/WEB-404-cs-1514-tw-crm-cross-border-should-only-|WEB-404]] — 404 cs 1514 tw crm cross border should only (分數: 6.5)
-- [[07_Workflow_Business/WEB-415-kr-ename-making-use-of-tourist-ename-for|WEB-415]] — 415 kr ename making use of tourist ename for (分數: 4.0)
-- [[07_Workflow_Business/WEB-46-pos_api-log-the-result-before-pass-to-fe|WEB-46]] — 46 pos_api log the result before pass to fe (分數: 4.5)
-- [[07_Workflow_Business/WEB-47-pos_api-upsertmember-accept-as-a-null-va|WEB-47]] — 47 pos_api upsertmember accept as a null va (分數: 5.0)
-- [[07_Workflow_Business/WEB-48-pos_api-getmemberlist-getmemberdetails-u|WEB-48]] — 48 pos_api getmemberlist getmemberdetails u (分數: 6.0)
-- [[07_Workflow_Business/WEB-49-pos_api-data-validate-will-return-error-|WEB-49]] — 49 pos_api data validate will return error (分數: 6.0)
-- [[07_Workflow_Business/WEB-51-pos_api-upsertmember-get-the-latest-memb|WEB-51]] — 51 pos_api upsertmember get the latest memb (分數: 4.5)
-- [[07_Workflow_Business/WEB-54-csplus-change-payment-details-gird-layou|WEB-54]] — 54 csplus change payment details gird layou (分數: 4.0)
-- [[07_Workflow_Business/WEB-93-change-the-error-message-to-record-not-f|WEB-93]] — 93 change the error message to record not f (分數: 5.0)
-
-⬅ [返回首頁](../FAQ_Index.md)
+> 最後更新: 2026-05-22
