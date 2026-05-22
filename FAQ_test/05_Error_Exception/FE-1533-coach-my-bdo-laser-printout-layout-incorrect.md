@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 FE-1533: Coach MY BDO - laser printout layout incorrect
 

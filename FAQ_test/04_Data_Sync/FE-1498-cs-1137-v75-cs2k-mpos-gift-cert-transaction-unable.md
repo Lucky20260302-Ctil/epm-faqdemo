@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1498: v75 - CS2K & MPOS Gift cert transaction unable post to DB.
 

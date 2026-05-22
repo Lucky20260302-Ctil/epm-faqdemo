@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1049: Supplier Invitation Request (Pre-Reg)的Draft中，Click了Offline之后，有些字段是错误的
 

@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 BE-1000: Same Member ID with different names and mobile numbers
 

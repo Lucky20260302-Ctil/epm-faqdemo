@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1971: 開標階段 Technical Compliance Check 的 label 顯示錯誤及 default value 預設為 disqualify
 

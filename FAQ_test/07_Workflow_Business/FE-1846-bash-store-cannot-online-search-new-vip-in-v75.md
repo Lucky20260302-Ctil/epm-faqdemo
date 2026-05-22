@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 FE-1846: BASH Store cannot online search new VIP in v75
 

@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 FE-1655: User can still login to POS even his account is not in any RTM Domain Group
 

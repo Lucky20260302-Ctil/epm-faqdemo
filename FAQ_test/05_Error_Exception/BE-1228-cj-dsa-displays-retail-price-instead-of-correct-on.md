@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)
 

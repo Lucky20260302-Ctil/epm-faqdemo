@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 BE-1237: CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines
 

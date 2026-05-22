@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 MP-793: CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub
 

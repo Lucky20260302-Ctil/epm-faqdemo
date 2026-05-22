@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1275: Missing Select Draft Procurement Strategy from Pre-Reg e-form
 

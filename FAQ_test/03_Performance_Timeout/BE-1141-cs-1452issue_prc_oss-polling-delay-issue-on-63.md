@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 03_Performance_Timeout
 category_label: 效能與超時
-quality: partial
+quality: complete
 ---
 BE-1141: Issue_PRC_OSS Polling Delay issue on 6.3
 

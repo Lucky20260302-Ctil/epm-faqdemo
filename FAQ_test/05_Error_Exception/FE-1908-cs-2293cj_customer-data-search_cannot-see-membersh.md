@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 FE-1908: CJ_Customer data search_cannot see "membership available period" info
 

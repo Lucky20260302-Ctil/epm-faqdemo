@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 FE-1117: INC1765584 Tax amount in C364 is wrong on 4/6, 4/9, 4/10, 4/11.4/12
 

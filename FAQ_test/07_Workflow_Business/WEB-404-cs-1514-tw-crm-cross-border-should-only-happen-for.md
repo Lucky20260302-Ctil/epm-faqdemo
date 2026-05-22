@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need
 

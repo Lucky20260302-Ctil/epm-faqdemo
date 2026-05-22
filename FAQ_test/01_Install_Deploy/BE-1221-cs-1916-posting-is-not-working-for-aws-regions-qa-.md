@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 01_Install_Deploy
 category_label: 安裝與部署
-quality: partial
+quality: complete
 ---
 BE-1221: POSTING is not working for AWS regions - QA Env
 

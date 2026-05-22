@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1042: Pre-Reg中，添加Approvaler的时候，选择了一个Approvaler的时候，另一个Approvaler应该是不能选择的
 

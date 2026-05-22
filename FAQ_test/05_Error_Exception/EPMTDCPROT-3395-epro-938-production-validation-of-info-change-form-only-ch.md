@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-3395: EPRO-938 [Production] Validation of Info Change form only checks if a row is added but not if any information is inputte
 

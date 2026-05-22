@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 MP-737: KSJ mPOS: Pilot store C312 unable to search VIP
 

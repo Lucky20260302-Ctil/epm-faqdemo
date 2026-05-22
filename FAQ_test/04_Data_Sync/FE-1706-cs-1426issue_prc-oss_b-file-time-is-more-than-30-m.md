@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1706: Issue_PRC OSS_B file time is more than 30 minutes
 

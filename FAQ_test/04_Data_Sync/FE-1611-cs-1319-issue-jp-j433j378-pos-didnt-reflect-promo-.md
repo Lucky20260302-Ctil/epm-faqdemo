@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1611: Issue-JP-J433&J378 POS didn't reflect Promo Code : CLE062A _RIN01439021
 

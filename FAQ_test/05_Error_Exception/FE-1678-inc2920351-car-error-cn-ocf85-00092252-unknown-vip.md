@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 FE-1678: CAR Error - CN OCF85-00092252 Unknown vip type code 9999 04/17
 

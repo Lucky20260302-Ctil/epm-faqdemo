@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 06_Printing_Hardware
 category_label: 列印與硬體
-quality: partial
+quality: complete
 ---
 MP-756: MPOS v3.30.2 - KSJ MPOS unable to print directly after issue sales memo
 

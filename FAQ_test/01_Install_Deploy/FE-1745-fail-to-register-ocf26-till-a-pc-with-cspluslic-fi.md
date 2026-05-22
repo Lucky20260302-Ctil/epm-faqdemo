@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 01_Install_Deploy
 category_label: 安裝與部署
-quality: partial
+quality: complete
 ---
 FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file
 

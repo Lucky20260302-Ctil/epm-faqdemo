@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1711: CN v75 OCF46 All tills cannot find a member
 

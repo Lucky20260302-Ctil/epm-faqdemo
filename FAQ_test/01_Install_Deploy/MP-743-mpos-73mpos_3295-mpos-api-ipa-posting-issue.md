@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 01_Install_Deploy
 category_label: 安裝與部署
-quality: partial
+quality: complete
 ---
 MP-743: MPOS_3.29.5 (MPOS API + IPA) Posting Issue
 

@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 FE-1837: An error occurs when setting the POS of the cash drawer balance to 'All'.
 

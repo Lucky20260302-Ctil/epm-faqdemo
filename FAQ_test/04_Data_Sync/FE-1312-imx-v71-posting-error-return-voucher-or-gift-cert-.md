@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1312: IMX V71 posting error "Return Voucher or gift cert amount not matched"
 

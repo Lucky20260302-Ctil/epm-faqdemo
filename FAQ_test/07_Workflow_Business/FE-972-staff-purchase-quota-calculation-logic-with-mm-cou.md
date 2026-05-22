@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 FE-972: Staff purchase quota calculation logic with MM coupon
 

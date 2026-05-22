@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 FE-1638: Not able to receive Ecom sales import alert email
 

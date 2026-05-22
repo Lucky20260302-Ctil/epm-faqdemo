@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 03_Performance_Timeout
 category_label: 效能與超時
-quality: partial
+quality: complete
 ---
 BE-945:  Got timeout error after process Backend data sync
 

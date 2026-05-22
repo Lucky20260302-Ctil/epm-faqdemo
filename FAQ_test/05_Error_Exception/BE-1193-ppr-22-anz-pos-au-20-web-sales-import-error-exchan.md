@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 BE-1193: ANZ POS - AU 20 Web sales import error - Exchange rate not found
 

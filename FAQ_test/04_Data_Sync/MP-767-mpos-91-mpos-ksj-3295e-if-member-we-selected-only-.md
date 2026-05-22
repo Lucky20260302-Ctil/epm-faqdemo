@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 MP-767: MPOS KSJ 3.29.5e, if member we selected only have 'Home phone no', will cause posting error
 

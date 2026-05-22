@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 06_Printing_Hardware
 category_label: 列印與硬體
-quality: partial
+quality: complete
 ---
 BE-655: Cannot print Amendment list successfully after make an amendment of delivery order batch
 

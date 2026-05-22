@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 FE-826: Fail to use auto create member function after POS restart
 

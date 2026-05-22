@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-3550: EPRO-1027[CR] The DOI features under change request should also be applied for supplier management flows
 

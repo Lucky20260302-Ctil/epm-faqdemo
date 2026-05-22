@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 FE-1724: No Qty for Void and return deposit listed on Till1 dayend report
 

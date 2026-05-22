@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 MP-745: JP Region, can not select E-Coupon even the member we selected have available ecoupon
 

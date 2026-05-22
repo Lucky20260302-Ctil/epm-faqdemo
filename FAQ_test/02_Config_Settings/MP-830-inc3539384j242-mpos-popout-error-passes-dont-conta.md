@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 MP-830: J242 MPOS popout error "Passes don't contain empty strings or space characters" after scaned the QR code
 

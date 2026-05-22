@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1798: Online BOQ supplier 提交報價時不應帶入 buyer 的建議價
 

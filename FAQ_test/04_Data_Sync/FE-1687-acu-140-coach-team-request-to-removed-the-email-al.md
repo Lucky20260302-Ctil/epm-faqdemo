@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1687: Coach Team request to removed the Email alert for the CRM return "ERROR|CDP-CUST-404|Customer not found"
 

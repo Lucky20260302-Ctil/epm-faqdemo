@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 FE-1680: R12A haven't call upsert api after issue an order with new member created by POS
 

@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 06_Printing_Hardware
 category_label: 列印與硬體
-quality: partial
+quality: complete
 ---
 FE-1393: Issue_JP_RIN01339795 A barcode was splited up when printed out.
 

@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-3499: [CR] 在part 1 已經 submit NonConflict，到rfq setting 時候 create doi submit Conflict，但是仲未approval 這張doi，rfq setting 仲可以繼續approv
 

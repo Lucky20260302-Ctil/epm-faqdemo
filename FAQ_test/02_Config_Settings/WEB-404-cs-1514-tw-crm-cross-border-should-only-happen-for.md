@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need
 

@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-3385: EPRO-929 [Production] Supplier with same name as FMS Only Supplier can be selected in Full Registration Invitation
 

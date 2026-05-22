@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 FE-1492: V75_MY_RIN01372901_CS2000 EMP VIP staff info does not update in FE 
 

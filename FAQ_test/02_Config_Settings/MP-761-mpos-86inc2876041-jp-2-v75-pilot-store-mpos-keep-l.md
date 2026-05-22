@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 MP-761: JP 2 V75 Pilot store MPOS keep loading and pop out error:”Fail to Connect SalesHub”after update to new version
 

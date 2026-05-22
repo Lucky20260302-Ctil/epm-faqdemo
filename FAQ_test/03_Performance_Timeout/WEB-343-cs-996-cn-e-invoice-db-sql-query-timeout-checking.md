@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 03_Performance_Timeout
 category_label: 效能與超時
-quality: partial
+quality: complete
 ---
 WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking
 

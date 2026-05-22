@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
-quality: partial
+quality: complete
 ---
 MP-746: MPOS 3.29.5 - JP region -Unable to select item after deploy COACH_MPOSWebAPI_R3.29.5d
 

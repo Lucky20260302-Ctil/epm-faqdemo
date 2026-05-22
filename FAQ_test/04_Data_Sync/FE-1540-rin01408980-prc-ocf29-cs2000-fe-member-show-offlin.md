@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 FE-1540: RIN01408980 - PRC - OCF29 - CS2000 - FE : member show offline on CS2000 FE
 

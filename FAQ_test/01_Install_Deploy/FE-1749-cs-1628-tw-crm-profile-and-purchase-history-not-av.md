@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 01_Install_Deploy
 category_label: 安裝與部署
-quality: partial
+quality: complete
 ---
 FE-1749: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version - FE
 

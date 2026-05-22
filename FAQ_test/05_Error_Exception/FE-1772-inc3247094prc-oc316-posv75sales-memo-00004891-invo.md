@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 FE-1772: PRC OC316 POSv75,Sales memo 00004891 invoice QR code can't be printed out
 

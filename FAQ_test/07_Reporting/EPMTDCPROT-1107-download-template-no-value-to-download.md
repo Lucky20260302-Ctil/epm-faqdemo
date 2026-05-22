@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 07_Reporting
 category_label: 報表
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1107: Download Template - no value to download
 

@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1277: Tender Issue e-form - Exception Approval required for the time frame between the issue date and closing date is less tha
 

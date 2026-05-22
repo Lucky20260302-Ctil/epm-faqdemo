@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 01_Install_Deploy
 category_label: 安裝與部署
-quality: partial
+quality: complete
 ---
 FE-1385: vbretail.ini missing Web3 config
 

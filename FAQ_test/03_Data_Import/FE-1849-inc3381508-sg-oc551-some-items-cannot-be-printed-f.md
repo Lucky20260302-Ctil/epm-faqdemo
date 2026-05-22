@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 03_Data_Import
 category_label: 資料匯入
-quality: partial
+quality: complete
 ---
 FE-1849: SG OC551 Some items cannot be printed from POS system
 

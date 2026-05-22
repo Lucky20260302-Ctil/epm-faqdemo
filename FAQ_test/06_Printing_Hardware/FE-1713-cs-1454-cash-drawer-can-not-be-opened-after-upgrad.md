@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 06_Printing_Hardware
 category_label: 列印與硬體
-quality: partial
+quality: complete
 ---
 FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region
 

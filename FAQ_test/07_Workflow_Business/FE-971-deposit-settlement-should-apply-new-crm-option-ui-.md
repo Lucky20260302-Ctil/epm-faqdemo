@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 FE-971: Deposit Settlement should apply new CRM option UI (same as issuing Sales Memo)
 

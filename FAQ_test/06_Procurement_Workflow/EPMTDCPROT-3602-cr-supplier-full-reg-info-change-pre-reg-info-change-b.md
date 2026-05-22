@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-3602: [CR Supplier] full-reg info change / pre-reg info change / br update 這些create form 完成DOI後不會顯示在draft list的第一頁第一個
 

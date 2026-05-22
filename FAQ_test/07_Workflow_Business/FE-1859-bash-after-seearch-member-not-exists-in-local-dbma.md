@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
-quality: partial
+quality: complete
 ---
 FE-1859: After seearch member (Not exists in local DBMas) by BEDB connection (CS2000) cannot applied
 

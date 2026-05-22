@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 BE-928: Why jouinv_pur_type is null for some sales memo in CN DB
 

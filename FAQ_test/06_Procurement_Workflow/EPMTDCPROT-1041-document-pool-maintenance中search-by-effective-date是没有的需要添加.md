@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 06_Procurement_Workflow
 category_label: 採購流程
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-1041: Document Pool Maintenance中，Search by Effective Date是没有的，需要添加Effective Date的搜索条件
 

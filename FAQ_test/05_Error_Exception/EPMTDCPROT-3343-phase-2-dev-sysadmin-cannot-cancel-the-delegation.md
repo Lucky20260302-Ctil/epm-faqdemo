@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 05_Error_Exception
 category_label: 報錯與異常
-quality: partial
+quality: complete
 ---
 EPMTDCPROT-3343: [Phase 2 DEV] Sysadmin cannot cancel the delegation
 

@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 04_Data_Sync
 category_label: 資料同步
-quality: partial
+quality: complete
 ---
 BE-1012: Invalid UPC Code to FASC in Item 1APKTS25KDM001 Mem Bdg K-Tee plain
 

@@ -20,7 +20,7 @@ components: []
 has_images: false
 category: 07_Other
 category_label: 其他
-quality: partial
+quality: complete
 ---
 EP24MPFA-18: 
 

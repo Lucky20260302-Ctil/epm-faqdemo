@@ -19,7 +19,7 @@ components:
 has_images: false
 category: 06_Printing_Hardware
 category_label: 列印與硬體
-quality: partial
+quality: complete
 ---
 FE-1838: Fail to print out transfer receipt
 
