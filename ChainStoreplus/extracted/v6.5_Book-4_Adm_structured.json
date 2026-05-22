@@ -1,0 +1,223 @@
+{
+  "version": "v6.5",
+  "book": "Book-4_Adm",
+  "filename": "CS2000v6.5_rev1.1_(Book-4)Adm.pdf",
+  "total_pages": 43,
+  "pages": [
+    {
+      "page": 1,
+      "text": " \nPage 1 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n \n \n \n \nChainStore 2000  Application Package  \n \n \nUser Operation Manual  (v6.5.0) \n Edition v1. 1 (d200912)  \n<The System Administration>  \n________________________________________________________________________  \n \n \n \n 1605 Shuk Tak Centre, West Tower  \n200 Connaught Road, Central  \nShueng Wan, Hong Kong  \nTel. 852 -2880 -9119  \nFax. 852 -2811 -9424  \ninfo@sanyoextended.com  \nwww.sanyoextended.com  \n",
+      "section": null
+    },
+    {
+      "page": 2,
+      "text": " \nPage 2 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n \n \nCONFIDENTIALITY  \n \n \n \nThis document contains confidential information about software package \n“ChainStore 2000 ” developed and owned by Sanyo Extended System Services Ltd.  \n \nThis document is made exclusively for “ ChainStore 2000 ” Licensee who is the legal \nLicense holder under Terms and Conditions of Software License Agreement with Sanyo \nExtended System Services Ltd.  \n \nNo part of this document may b e released, reproduced or transmitted in any form or by any \nmeans, electronic or mechanical, including but without limitation, photocopying and recording, \nfor any purpose other than Licensee‟s personal use without written permission of Sanyo \nExtended Syste m Services Ltd.  \n \nThe information in this document is subject to change without notice.  \n \n Copyright  Sanyo Extended System Services Ltd ., 200 9 \nAll Rights Reserved  \n \n \n ",
+      "section": null
+    },
+    {
+      "page": 3,
+      "text": " \nPage 3 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nTable of Content  \n                Page  \nSECTION   9    DATA INTERFACE  ................................ ................................ ................................ ......................  4 \n9.1 POS  ORIENTED DATA POLLING INTERFACE  (THE STANDARD INSTALLATION ) ................................ ................................ .......  6 \n9.1.1  POS  / REMOT E SERVER ORIENTED POLLING POINT MAINTENANCE  ................................ ................................ ..............  7 \n9.1.2  POS  TRANSMISSION LOG CONTROL  ................................ ................................ ................................ .......................  8 \n9.1.3  POS  ORIENTED POLLING CONTROL  ................................ ................................ ................................ ........................  9 \n9.1.4  POS  ORIENTED POLLING HISTORY ENQUIRY  ................................ ................................ ................................ ..........  12 \n9.1.5  POS  ORIENTED POLLING ERROR ENQUIRY  ................................ ................................ ................................ .............  14 \n9.2 SERVER ORIENTED POS  DATA POLLING INTERFACE  (AVAILABLE ONLY UNDER SPECIAL REQUEST ) ................................ .........  15 \n9.2.1  PHONE / HOST NAME MAINTENANCE  ................................ ................................ ................................ ..................  15 \n9.2.2  POS  TRANSMISSION LOG CONTROL  ................................ ................................ ................................ .....................  17 \n9.2.3  SERVER ORIENTED POS  POLLING CONTROL  ................................ ................................ ................................ ...........  19 \n9.3 POS  LOCAL INVENTORY REQUEST LOG CONTROL (OPTIONAL MODULE ) ................................ ................................ ..........  20 \n9.4 POS  OUTSTANDING TRANSFER REQUEST LOG CONTROL (OPTIONAL MODULE ) ................................ ................................ . 21 \n9.5 DATA EXPORT TO POS ................................ ................................ ................................ ................................ ...........  22 \n9.6 CS2000  INTERFACE FOR DATA IMPORT & EXPORT (OPTIONAL MODULE ) ................................ ................................ ........  23 \n9.7 EXTERNAL SYSTEM DATA IMPORT INTERFACE (OPTIONAL MODULE) ................................ ................................ ................  23 \nSECTION   10    ADMI NISTRATION  ................................ ................................ ................................ .................  24 \n10.1 POS  DATA POSTING PROCESS ................................ ................................ ................................ .............................  25 \n10.1.1  POS Data Posting Control  ................................ ................................ ................................ ...................  25 \n10.1.2  Posting Error History Log ................................ ................................ ................................ ....................  30 \n10.1.3  POS Day End Inquiry  ................................ ................................ ................................ ...........................  32 \n10.1.4  Missing Documents No. Enquiry  ................................ ................................ ................................ ........  35 \n10.1.5  Incomplete POS Day End Enquiry  ................................ ................................ ................................ .......  36 \n10.2 WEB BASED POS  POLLING & POSTING STATUS  CONTROL (NEW) ................................ ................................ ..............  37 \n10.2.1  POS Polling & Posting Status Enquiry  ................................ ................................ ................................ . 37 \n10.2.2  POS “Polling ” Alert Message Setting Program  ................................ ................................ ...................  38 \n10.2.3  POS  “Posting”  Alert Message Setting Program  ................................ ................................ ................  39 \n10.3 MONTH /YEAR ENDS PROCESS  ................................ ................................ ................................ ............................  40 \n10.3.1  MONTH END CLOSING BALANCE PROCESS  ................................ ................................ ................................ ........  40 \n10.3.2  SALES ANALYSIS YEAR END PROCESS  ................................ ................................ ................................ ...............  42 \n10.4 PURGE HISTORY  ................................ ................................ ................................ ................................ ...............  43 \n \n \n ",
+      "section": "SECTION   9    DATA INTERFACE  ................................ ................................ ................................ ...................."
+    },
+    {
+      "page": 4,
+      "text": " \nPage 4 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nSECTION   9    DATA INTERFACE  \n \nIn this section, we will discuss different Data Interfaces available in the application package  \nChainStore 2000. In general, the package is come in 3  main categories in Data Interface:  \n \n Interface for POS Terminals in Shops  \n Interface for Data Import from Other Systems (Optional)  \n Interface for Data Export to Other Systems (Optional)  \n \nThe most commonly used data interface in ChainStore 2000 package is the Interface for POS \nTerminals in shops. This is the package‟s standard system background task used for controlling \ndata upload and download between POS and the back office Server System.  This data transferring \nwork is performed automatically by a special ba ckground communication task once submitted.   \n \n",
+      "section": "SECTION   9    DATA INTERFACE"
+    },
+    {
+      "page": 5,
+      "text": " \nPage 5 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n",
+      "section": "SECTION   9    DATA INTERFACE"
+    },
+    {
+      "page": 6,
+      "text": " \nPage 6 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.1 POS Oriented Data Polling Interface  (The Standard Installation ) \n \n \nThis is the standard data polling technology widely used today by installed customers if their \noperation connections are Internet based environment. – The data polling is activated from POS \nClient to Server . \n \n \n \n",
+      "section": "SECTION   9    DATA INTERFACE"
+    },
+    {
+      "page": 7,
+      "text": " \nPage 7 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.1.1  POS / Remote Server Oriented Polling Point Maintenance  \n \nBefore the POS Data Interface could work as expected in the system, user is required to set up \nproper POS terminal addres s, Location ID, Server Directory Name… in the application Process \n“POS / Remote Server Oriented Polling Point Maintenance  ” below:  \n \n \n \n",
+      "section": "SECTION   9    DATA INTERFACE"
+    },
+    {
+      "page": 8,
+      "text": " \nPage 8 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.1.2  POS Transmission Log Control  \n \nAfter we have properly set up the calling IDs or Server Name for each POS location, we no w \nbegin to understand what kind of information/data have sent to POS via the back office‟s \nbackground communication module.  \nThe ChainStore 2000 Back Office system will „prepare‟  automatically all the related data \nchanges in the server and sent to POS in sh ops automatically once available.  Furthermore, user in \nthe back office could make additional control over these transmission activities such as:  \n \n send data automatically(default), or  \n sent data on -demand under user initiation, or  \n re-send data again from a specific date in case of necessary  \n \nA “Transmission Log File” which consists of all data sent history will be kept in the system and \navailable to user for inquiry under POS Transmission Log Control Process.   \n \nIn general, data changes like product items upd ate, price changes, tables changes, and all other data \nthat POS need to know are downloaded to POS either Manually  or Automatically  by a preset time.   \nPlease read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same  \n \nScreen Di splay :  \n \n",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 9,
+      "text": " \nPage 9 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.1.3  POS Oriented Polling Control  \n \nPOS Data Polling Start/Stop Process  \n \nThis is the process for Start Up, or Shut Down a “Data Sending/Polling” job in the system.  In \norder for the application able to perform Data Sending/Polling works between the Server and POS \nat shops automatically, user must first “Start Up ” the polling communication task in this process.  \n \nThe “ Start Polling”   \n \nThis is for user to start up the Polling  task in background for POS communication.  Once \nsubmitted, this task works au tomatically to receive or send data between the Server and POS in \nshops  non-stop until the Polling Task is terminated .  The task will check to each POS till ‟s data \nfolder  one by one  in FTP Com Server .     \n \n \n \n As the “ Start Polling ” button is pressed, the sy stem will go into Start Up \npreparation process with Status returned to the Task Status bar.    ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 10,
+      "text": " \nPage 10 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n \n \n \nIn certain circumstance, user may want to “Shut Down”  this polling task for some reasons, such as \nPhysical Stock Count, or regular system maintenance job s ….etc.   \nThis shut down function works only if the Polling task is “In Progress ”. Once shut down, the data \npolling between Server and FTP Co m Server will be stop until next start up.  \n \n \n \n \n After the Polling T ask is \nfinished the Start Up \npreparation, the Task \nStatus will be change d \n“Just Submit ” \n \nFunction NOT use now.  \nThis is now replaced by an \napplication scheduled task.  ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 11,
+      "text": " \nPage 11 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nThe Polling Task Status  \n \n \n \n \n \nThere are the tasks statuses will be shown in this status bar:       \n \nIn progress -   The background Polling communication task is in progress;  \n \nJust submitted - The background Polling communication  task is just submitted  and preparing \npolling task to start;  \n \nTo be terminated -       The background Polling communication task is now in termination  process ; \n \nTerminated -    Background Polling task is terminated;  \n \nIDLE -   Background Polling task is idle  \n \n ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 12,
+      "text": " \nPage 12 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.1.4  POS Oriented Polling History Enquiry  \n \nThis is a comprehensive real time inquiry screen for user to check on the latest communication \nactivities and status of each POS in shops. It is recommended user should regular ly visit this \ninquiry to make sure the data communication between Server and POS are working normally as \nexpected. The calling status, calling time, records received/send, error codes if any, and \nexplanation will be shown on screen per each call was made b y the Server to POS.  \n \n Screen Display : - \n Polling History Index Screen ==>  \n \n \n \n",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 13,
+      "text": " \nPage 13 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nDouble click to the selected item from this inquiry screen, the following information page is \ndisplayed:  \n \n       Polling History Detail Screen ==> \n \n \n \nThis is a detail informa tion page for that particular communication call.  All the data fields are \nself-explanatory.  Some data fields are technical related just for engineering information purpose. \nGeneral user need not understand these meaning and it is mainly used for our Supp ort Engineer to \nanalyze the call in case of needed.  \n \n \n",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 14,
+      "text": " \nPage 14 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.1.5  POS Oriented Polling Error Enquiry  \n \nThis is a real time inquiry screen for user to check on the Polling Status with Error message from \nlatest communication activities for each POS in shops. It is rec ommended user should regularly \nvisit this inquiry to make sure the data communication between Server and POS are working \nnormally as expected. The error message, calling date time, error file name will be shown on \nscreen for each error call was made by the  Server to POS.  Most of the errors may be occurred due \nto temporarily out of FTP connections between POS and the Server in which may be recovered \nand re -connected  again  in the next few trials by the system without attention.; but a few error \nmessages are worth to pay attention to find out the true disconnection reasons behind – such as \nPOS system failure or others.   \n \n Screen Display : - \n \n",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 15,
+      "text": " \nPage 15 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n 9.2 Server Oriented POS Data Polling Interface  (Available only Under Special Request ) \n \nThis is the convention al (old) polling method call from Server to POS client s.  \n \nBefore the POS Data Interface could work as expected in the system, user is required to set up \nproper POS terminal address, a calling ID or phone number, in the application Process \n“Phone/Host Name Maintenance ” below.  \n \n9.2.1  Phone / Host Name Maintenance  \n \nObjective : \nMaintenance of the polling point of each remote shop for data interface  \n \n         Functions : -  1.  Create Record  \n                              2.  Modify Record  \n                              3.  Delete Re cord \n \n ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 16,
+      "text": " \nPage 16 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nScreen Display : - \n             \nPolling Phone No./Host Name Maintenance Screen ==>  \n \n \n          \nPrompt     Description  \n \nPolling Point    X(10) -  Must field  \n    The name of polling point of the shop  \n \nLocation     X(8) -  Must field  \nThe location code of the shop  \n \nWorking Hours   The Location's Polling Hours  \n \nPC Status    as stated  \n \n",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 17,
+      "text": " \nPage 17 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n 9.2.2  POS Transmission Log Control  \n \nAfter we have properly set up the calling IDs or phone numbers of each POS, we now begin to \nunderstand what kind of information/data have sent to POS via the back office‟s background \ncommunication module.  \nThe ChainStore 2000 Back Office system will „prepare‟  automatically all the related data \nchanges in the server and sent to POS in shops automatically once available.  Furthermore, user in \nthe ba ck office could make additional control over these transmission activities such as:  \n send out data automatically(default), or  \n sent manually now under user initiation, or  \n re-send data again from a specific date in case of necessary  \n \nA “Transmission Log File”  which consists of all data sent history will be kept in the system and \navailable to user for inquiry under POS Transmission Log Control Process.   \n \nIn general, data changes like product items update, price changes, tables changes, and all other data \nthat P OS need to know are downloaded to POS either Manually  or Automatically  by a preset time.   \nThe time set up will be discussed under “ Start/Stop Process”  in next page.  \n \nScreen Display :  \n \n \n \n \nThe “ Send Log”  Button  \nThis function will manually release all data wait \nto be sent from Server to POS and sent right the \nway after co nfirmation  ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 18,
+      "text": " \nPage 18 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nPOS Transmission Log Control Screen ==>  \n \n           Prompt                         Description  \n \n            Date                         -  The date of change data was sent  \n \n            Time                         -  The time of change data was sent  \n \n            Sen/Rec  (S/R)            -  Send and Receive flag  \n \n            Filename            -  Send log file name  \n \n            Record Count            -  Send log file record count  \n  \n \nThe \"Send Log Button\" Screen Display :  \n \n \n \n \n ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 19,
+      "text": " \nPage 19 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nThe “ Re-Send Log”  Button  \n \nThis function allows user to re -send the downloading data once ag ain from Server to POS start \nfrom a specific date and locations.  \n \nScreen Display: - \n \nRe-send POS Transmission Log Control Screen ==>  \n \n \n \n           Prompt    Description  \n \n            Re-send Since   Input the date dd/mm/yyyy;  \nThe system will re -sent the data  from this date  \n \n            Log Seq   The Sequence log number  \n \n            From/To Loc   Send data to the locations in the From/To range  \n \n \n \n9.2.3  Server Oriented POS Polling Control  \n \nThis function please refer to “POS oriented Polling Control ” in previous secti on 9. 1.3.  All \nfunctions are the same.  ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 20,
+      "text": " \nPage 20 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n   \n9.3 POS Local Inventory Request Log Control (Optional Module)  \n \nThis is user on -demand request of system download of Inventory Data from Back End Server to \nPOS client PC for updating of POS local inventory opening balan ce when necessary.   This process \nwill make the system to prepare download files to be send – the actual sending is the process \"POS \nO/S Transfer Request Log Contro l\" in next page.   \n \nThis is a process should be used with care since the system will use Serv er's inventory on -hand qty \nto over -write POS inventory on -hand qty as opening balance of the date.  \n \nPlease consult our System Consultant before use.  \n \n \n \n \nThese are the local inventory files ready \nto be sent upon user instruction.  This is the send 'Complete' \nhistory record.  ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 21,
+      "text": " \nPage 21 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.4 POS Outstanding Transfer Request Log Control (Optional Module)  \n \nWhen user has finished preparin g the local inventory sending files from previous process, this \nprocess is allowed user to make the final sending action to respective POS locations as from list.  \n \n \n \nThis is the send request button.  These are the sent history records  ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 22,
+      "text": " \nPage 22 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.5 Data Export  to POS   \n \nThis process allow user to send a most updated fresh copy of ALL  master files that POS required \nfrom Back Office Server .  \n \nThis is a manual process initiate by user on -demand.  This is useful when you in doubt the files \nintegrity in POS, or in situation of re -building POS application & data from scratch.  \n \n \n \n \n \n \n",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 23,
+      "text": " \nPage 23 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n9.6 CS20 00 Interface for Data Import & Export  (Optional Module)  \n \nThis is a Data Interface Module specialized for Data Exchange function between \nChainStore 2000 and the third party software applications. This module cannot be available as a \nstandard module mainly be cause of different applications has different data definition and format. \nSanyo Extended is glad to provide interfacing development regarding this function upon request.   \nPlease contact our Sales & Marketing personnel for details.  \n \n \n \n \n9.7 External System Data  Import  Interface (Optional Module)  \n \nThis is a Data Interface Module specialized for Data Exchange function between \nChainStore 2000 and the third party software applications. This module cannot be available as a \nstandard module mainly because of different a pplications has different data definition and format. \nSanyo Extended is glad to provide interfacing development regarding this function upon request.   \nPlease contact our Sales & Marketing personnel for details.  \n \n \n \n \n \n \n \n ",
+      "section": "Please read previous section 9.1.2 \" POS Transmission Log Control \" - All functions are the same"
+    },
+    {
+      "page": 24,
+      "text": " \nPage 24 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nSECTION   10    ADMINISTRATION  \n \nIn the basic design of ChainStore 2000, all transaction data in POS front end is polled back to \nBack Office server under POS scheduled task i n “near to ” real time basis . It means POS data \ncreated i n ChainStore 2000 POS front end will sent back to back office server automatically in \nits shortest available moment. This real time  action allows user able to monitor all POS activities \nincluding customer sales, inventory status , stock transfer, or POS customer services ... etc.,  in the \nback office  any time . \n \nThis real time  „raw” POS data is therefore d esigned to be updat ed to server database immediately  \nonce available for timely information service to back office users. This is the job of “ POS Data \nPosting Process” . \n \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 25,
+      "text": " \nPage 25 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.1 POS Data Posting Process  \n \n10.1.1  POS Data Posting Contr ol  \n \n \n \nThe “Current Task Status” Bar:  \n \nThere is a few task statuses will be shown in this status bar:       \n \nIn progress -    The Posting task is in progress;  \nJust submitted -  The Posting task is just submitted;  \nTo be terminated -   The Posting task is now in termination;  \nTerminated -    The Posting task is terminated;  \nIDLE -    The Posting task is idle  \n \nThe “ Start POSTING ” Function  \n \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 26,
+      "text": " \nPage 26 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n This function allows user to start up the Posting task in background for data updating.  Once \nsubmitted, this task works a utomatically to update data coming in from POS in shops. This Posting \nTask will make POS real time  data could update to corresponding files immediately.  \n \nAs the “ Start Posting ” button is pressed, the Task Status Bar will change to “IN PROGRESS” and \nposti ng task will start non -stop until “STOP POSTING ” is pressed.   \n \n \n \nImportant:   Only ONE  posting Task activated is allowed.   \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 27,
+      "text": " \nPage 27 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n The “ Stop POSTING ” Function  \n \nThis function allows user to Shut Down  the POSTING task in background for Data Updating. This \nshut down function works only the Posting task is in progress. Once shut down, the POS data will \nbe no longer posted until next start up.  \n  \nAs the  “ Stop POSTING ” button is pressed, the system will respond as follow and data posting \nwill stop.   \n \n \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 28,
+      "text": " \nPage 28 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n The “Modi fy Repl. Time” Button  \n \nThis “Modify Replenishment Time” function defines the shop‟s general stock replenishment cycle \nand some others parameters. The default replenishment cycle is on daily basis unless specify \notherwise. It allows user to back days  the re plenishment cycle plus some others parameter at user \nspecification.  \n \n \n \n    \nPrompt  \n Description  \nNext Replenishment Date   99 99 9999 -  Optional field (dd/mm/ yyyy ) \n The date instructing next stock replenishment to be performed \nfor shops in background postin g process  \n \nTime   99 99 99 -  Optional field (hh:mm:ss)  \n The Time instructing next stock replenishment to be performed \nfor shops in background posting process. (Default = 00:00:00)  \nReplenishment Period  \n  To specify number of days per each replenishment cycle ; \n Example : input “3” means one stock replenishment cycle for \nevery 3 days period;  \n  \nBack Days  \n  Allows user to specify a number of days backward when \nperforming the next stock replenishment routine;  \n Since default stock replenishment to shop is based on da ily \nsales qty,  therefore it is particular useful for users to recap \nsome missing replenishment job in case of needed    \nFrom / To Seasons  \n  Allows user to specify the stock replenishment only within the \n“from / to” seasons as stated.  ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 29,
+      "text": " \nPage 29 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n Prompt  \n Description  \n This option could avo id off seasons stock to be replenished \nagain  \n  \nMain Warehouse  \n  To specific which is the main warehouse that stock \nreplenishment should go to  \nCheck Box for “Check \nWarehouse on -hand”   “ ”  stand for YES and the replenishment routine will check \non warehou se on -hand stock and give picking advise \naccordingly;  \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 30,
+      "text": " \nPage 30 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.1.2  Posting Error History Log  \n \nThis is an inquiry for checking Posting Errors from the data update of POS Data send back to \noffice real time everyday, if any. In general,  if everything goes right,  thi s inquiry box should be \nempty indicating NO ERRORS are found during POS data posting. However, it is possible that \nerrors may be found in the posting job due to many reasons – such as some reference tables, \nrecords are missing from the system, or damaged r ecords received etc..  In some cases, the error \nmessage displayed may not be a “true error ”. It could be a warning message to alert user that \nunusual thing was happened during the update.  Consequently, the System Administrator needs to \nknow these messages  are the “true errors” and why it happened, or any subsequent support job \nneed to follow regarding this message.  \n \nThis is recommended the System Administrator should check up this inquiry at least once a day, or \nin the frequency that suit to your own opera tion, to ensure that the data polled back is correctly \nupdated and without errors. Please contact our system support in case of error and you cannot \nunderstand the meaning of it.     \n \n \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 31,
+      "text": " \nPage 31 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n \nPrompt  \n  \nDescription  \nDate  dd/mm/yyyy – the record posting date  \n \nTime  hh:mm:ss -  the record posting time  \n \nLoc \n The Location/shop code of the error record  \nFilename  the error record‟s filename  \n \nType  \n The error record type  \nReference No.  \n The reference number of the record  \nError Code / Message  The Error Code & its message  \n  \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 32,
+      "text": " \nPage 32 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.1.3  POS Day End Inquiry  \n \nThe POS Day End job is an important step for POS daily operation. This POS Day End Process is \na daily routine done by POS personnel in shop at business closing of the day.  This serves the \npurpose of ending the POS curre nt business day and preparing a new start for next business day. It \nis important for back office Administrator to know all shops should have done this job properly on \ntime.  \n \nThis inquiry program records those day ends activities in shops. The shops will se nd automatically \na day end message to Back Office once the Day End job is done. For the shops without Day End \nmessage in this inquiry of the day may imply missing Day End process from them.  Further \ninvestigation is recommended for this missing cause.  \n \n \n \n \nPrompt  \n  \nDescription  \nDate  dd/mm/yyyy – the Day End date  \n \nTime  hh:mm:ss -  the Day End time  \n \nLoc \n The Day End Location code  \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 33,
+      "text": " \nPage 33 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \nPrompt  \n  \nDescription  \n \nTill the Till No. of the location  \n  \nType  \n The error record type  \nCount - Sales  \n The total Sales Memos received  \nCount – Tfx \n The total Transfer Memos received  \nCount – Dep  \n The total Deposit Memos received  \nCount – Serv \n The total Services Memos received  \nCount – Gift \n The total Gift Cert. Memos received  \nMisc. Amt  \n The total Misc. Amount $ received  \nTotal Amt  \n The total POS cash drawer amount received  \nCheck  \n  “Y” = the Day End is complete and all records received without \nmissing  \n \n \nBy double clicking the highlighted row will display the Day End transaction details as follows:  \n \n \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 34,
+      "text": " \nPage 34 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 35,
+      "text": " \nPage 35 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.1.4  Missing Documents No. Enquiry  \n \nThis is a n inquiry process to read the system history journal s for documents number sequence \nverif ication.  User have to input the checking date range and types of document searching in the \ncheck box on the left with a click on \"Check\" button,  The list box on the ri ght will list the missing \ndocument numbers in case is found.  \n \nThis search help s user to found missing documents  / memo easier in case happened.  \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 36,
+      "text": " \nPage 36 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.1.5  Incomplete POS Day End Enquiry  \n \nThis is a n inquiry process to read the system journal histo ry for POS Day End  verification.  The \ninquiry show the POS location's last Day End date for user verification.   \n \nThis information is very helpful if user need to know the POS Day End process status of each shop \nfrom time to time.  \n \n \n \n \n \n \n \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 37,
+      "text": " \nPage 37 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.2 Web based POS Polling & Posting Status  Control  (New)  \n \nThis is a  Web Based online inquiry  to check the data synchronization  status between POS tills and \nback office servers  real time  per company basis .  \n \n10.2.1  POS Polling & Posting Status Enquiry  \nThis inquiry shows how long the company ‟s each PO S till the data has not been up loaded since \nupdated .   \n \n \n \n \n The Node ‟s \nElapse Time \nfrom last Posting  \nThe first node # of each company is default as \n“Empty ”.   From second Node and onward (if only \navailable ) will be #1, #2 …. Etc. User choice of inquiring the polling details by shop \nlocation, or by ALL Locations as illustrated . \n This is the Elapse Time count from last “Successful ” polling;  \n How to Read?   for example if the POS polling cycle is set for once in every 15 minutes, therefore the elapse time fall \nbetween  0  – 46 min.( between 1 -3 polling cycles)  would be considered as  normal.   \n This is the Elapse Time count from last polling  of the Till regardless it was “Successful ” or “Un-Successful ” (i.e. action \nincomplete) data upload;  \n In most case s the two Elapse Times should be identical EXCEPT the data last POLLED was verified as incomplete  / un-\nsuccessful  data upload (i.e. data missing, records count / bytes count not right …etc).   ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 38,
+      "text": " \nPage 38 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.2.2  POS “Polling ” Alert Message Setting Program  \n \n \nThis UI show how to set alert message  in case the Polling task is not working properly.  \n \n \n \n Once set up, CS2000 will send email message based on the “Alert List ” at defi ned time interval.  \nSecon d reminder message could be set up in defined time interval as stated  ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 39,
+      "text": " \nPage 39 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.2.3  POS  “Posting ”  Alert Message Setting Program  \n \nThis UI show how to set alert message  in case the POS Posting task in Back Office is not working \nproperly.  \n \n \nThis is the second and onward messages CS2000 will send at defined time interval.  This is the First Alert message will be sent based on the Alert List at defined time interval , i.e. after 60 \nminutes  as example   ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 40,
+      "text": " \nPage 40 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.3 Month/Year Ends Process  \n \n10.3.1  Month End Closing Balance Process  \n \nThere are a few reports and processes required a Month End job before p roduction,  \n \nSuch as :  \n Month End Balance Reports  \n Consignment Settlement Process (an optional module)  \n \nThe Month End Closing Balance Process is a Stock Maintenance process to close a stock period by \nmonth and proceed to month end stock balance reports produc tion. This month end process NEED \nNOT  to be performed at the exact last date of a month, instead, it could be day back at any time as \nlong as the target processing month(s) is passed  and still outstanding for Month End  process .  \n \n \n \n \nExample :  Assume the l ast month end month done in the system was May 2009 and today system \ndate is 20th October 2009, therefore u ser is allowed to perform month end process  start from June \nuntil September 2009.  \n \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 41,
+      "text": " \nPage 41 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n \nThe system automatic check for the last month end month and allow user works up until last \ncomplete month .  Item Cost re-calculation will be performed automatically under Month End \nprocess.   \n \n \n \nImportant Note  \n \nAfter the Month End process, NO back day transaction is allowed .    \nTherefore it is important for user to make sure no outstanding \ntransactions are left behind before month end process.  \n \n \n \n \n \n \n \n \nUser ha s to input the „ Close Up to Month’  in mm/yyyy  format and the system will perform month \nend process up until that month once confirmed.  \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 42,
+      "text": " \nPage 42 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n \n10.3.2  Sales Analysis Year End Process  \n \nThis process will update the current year‟s summary sales analysis da ta into last year history \nsummary and open up a new fiscal year summary as current.  \n \n \n \n \n \n \n ",
+      "section": "SECTION   10    ADMINISTRATION"
+    },
+    {
+      "page": 43,
+      "text": " \nPage 43 of 43 \nCS2000v6.5.0 Manual Book4  \nAdministration v1.1 (12/09)  \n  \n10.4 Purge History  \n \nThis is the Purge History Data function to provide option to user delete history data from database \n– ONLY when it is very necessary.   \n \nThe system  design has NO restriction on history data volume as long as the Database engine and \nyour disk storage capacity allowed.  \n \n \nImportant Note  \n \nThis Purge History Process will delete history data / journal records from Database and \nCANNOT  be recovered.  \n \nThis is important to user fully understand the true meaning of this process before action.  \n \nYou are strongly advi sed that  you should consult o ur System Support Consult ant before action.  \n \n \n………… End of Book FOUR  (4) < The Administration  >   …………..  \n",
+      "section": "SECTION   10    ADMINISTRATION"
+    }
+  ]
+}

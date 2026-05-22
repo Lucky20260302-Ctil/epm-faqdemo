@@ -1,0 +1,193 @@
+{
+  "version": "v7",
+  "book": "Book-4_INQUIRY",
+  "filename": "ChainStorePlus v7 BE_user_manual_r1.2_(Book-4)INQUIRY.pdf",
+  "total_pages": 37,
+  "pages": [
+    {
+      "page": 1,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 1 of 37 \n  \n \n \nChainStore Plus Application Package  \n \n \nUser Operation Manual  (v7.0) \n Edition v1.2 (d202303)  \n________________________________________________________________________ \n \n \n \n \n \n \n \n  \nLevel 10, Cyberport 2, \n100 Cyberport Road, Hong Kong \n",
+      "section": null
+    },
+    {
+      "page": 2,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 2 of 37 \n  \n \nCONFIDENTIALITY \n \n \n \nThis document contains confidential information about software package \n“ChainStore Plus” developed and owned by Sanyo Extended System Services \nLtd. \n \nThis document is made exclusively for “ ChainStore Plus” Licensee who is the \nlegal License holder under Terms and Conditions of Software License Agreement with \nSanyo Extended System Services Ltd.  \n \nNo part of this document may be released, reproduced or transmitted in any form or by \nany means, electronic or mechanical, including but without limitation, photocopying \nand recording, for any purpose other than Licensee’s personal use without written \npermission of Sanyo Extended System Services Ltd. \n \nThe information in this document is subject to change without notice.  \n \n Copyright  Sanyo Extended System Services Ltd ., 1999 -2023 \nAll Rights Reserved \n \n \n \n  ",
+      "section": null
+    },
+    {
+      "page": 3,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 3 of 37 \n Table of Content \n          Page \n \nSECTION   7    ON-LINE ENUQIRY .....................................................................................................4  \n7.1 STOCK ENQUIRY BY ITEM  ..............................................................................................................5  \n7.2 STOCK ENQUIRY BY LOCATION ................................................................................................... 11  \n7.3 POS ON-LINE SALES & SALES MEMO ......................................................................................... 12  \n7.4 POS ON-LINE SALES INQUIRY ..................................................................................................... 14  \n7.5 SALES JOURNAL BY MEMO NO/LOCATION .................................................................................. 15  \n7.6 PURCHASE ORDER ....................................................................................................................... 17  \n7.7 PURCHASE RECEIVE JOURNAL ..................................................................................................... 20  \n7.8 TRANSFER JOURNAL .................................................................................................................... 21  \n7.9 STOCK TRANSFER RECEIVE INQUIRY ........................................................................................... 23  \n7.10 PHYSICAL I/O JOURNAL .......................................................................................................... 24  \n7.11 PHYSICAL COUNT JOURNAL  .................................................................................................... 26  \n7.12 DELIVERY ORDER JOURNAL ................................................................................................... 28  \n7.13 RETURN TO SUPPLIER JOURNAL .............................................................................................. 30  \n7.14 DELIVERY ORDER RECEIVE (STOCK-IN) JOURNAL ENQUIRY .................................................. 31  \n7.15 DEPOSIT JOURNAL .................................................................................................................. 32  \n7.16 MEMBER ACTIVITIES DETAILS ................................................................................................ 33  \n7.17 SALESMAN MEMBER NO INQUIRY  ........................................................................................... 35  \n7.18 MEMBER SALES TURNOVER SUMMARY .................................................................................. 36  \n \n \n \n  ",
+      "section": "SECTION   7    ON-LINE ENUQIRY .....................................................................................................4"
+    },
+    {
+      "page": 4,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 4 of 37 \n SECTION   7    ON-LINE ENUQIRY \n \nObjective  : On Line Inquiry is a major function in the package allows user to retrieve \nreal time data directly from data base and display on screen.   This on line \ninquiry is save time from report printing, offer user to enjoy timely data \ninformation at instance. However, certain restrictions have to be \nconsidered when we design these inquiry programs.   In order for user to \nenjoy instant screen response from inquiry without significant delay, the \ninquiry programming should be strict forward, simple in calculation and \nno large amount of sorting data involved, or else the inquiry screen may \nhang for some moment until complex calculation is done. To prevent long \nwaiting inquiry process, complicate data analysis should be avoided, or \npresented in report or journals format in status of inquiry. Currently the at \nleast the following inquiry is available from the application as standard: \n \n1. Stock Enquiry By Item \n2. Stock Enquiry By Location \n4. Sales Journal \n5. Purchase Receive Journal \n6. Transfer Journal \n7. Physical I/O Journal \n8. Physical Count Journal \n9. Delivery Order Journal \n10. Deposit journal \n11. Service Memo Journal \n12. Member Sales Journal  \n13. Price Mark-Up/Down Journal \n14. Sales Journal By Serial No \n \nIn the following, we will discuss each of them in details and how they function in the \nsystem. \n  ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 5,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 5 of 37 \n 7.1 Stock Enquiry by item  \n \nStock On Hand Only (By Item) \n \nObjective: An enquiry of item information that user can check the availability of particular \nstock \n \nScreen Display :- \nItem Index Screen ==> \n \n \n \n \n  \nMouse selects the desired item and double click to pop the \nSelection Menu as shown ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 6,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 6 of 37 \n Fig. 1  Sample Screen  - Item Distribution Detail  ==> \n \n \n \n \n \n \n \n \n \nThe above screen shows the stock distribution details of a particular item.  It tells exactly \nhow many on-hand qty the item in stock, and where are they. The qty is listed by location  \nsequence on the left, and the size-run on top with color selection in the header label.  \n \nLabel Description \n \nAll Color - it shows on hand qty for all color – without color qty \nbreak down \n \nColor - it shows on hand qty for a specific color based on \nselection \n \nBy Color & Location - This is the default matrix display that color is on header \nlabel, Locations and Size Run are in the matrix form as \nabove illustration (fig 6.2) \n \nBy Location & Color - This is the matrix will switch the display format to \nLocation on header label, Color and Size Run are in the \nmatrix form as illustration in Fig 6.3 \n \nSkip Zero Qty        - Do not display those locations with zero on-hand qty  \n \nSkip Size Zero Qty - Do not display the Size Run with zero on-hand qty  \n  \nZoom - up to 16 x Size Runs are displayed in the matrix \n \nLocation Layer: \nThis is the Location filtering function from optional table  \"Location Layer\"; \nThis could filter and \"group\" the locations together under one screen based on the definition \nbuilt in the optional table \"Location Tree\". \n ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 7,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 7 of 37 \n Mode - display on-hand qty in different inventory status \n  \n \n \nFig. 2   Sample Screen  - Item Distribution Summary (Item Style Level only) \n \nThe sample screen below shows the information of a particular item (Item Style level only)  \nin different inventory status. Some information is available only if the optional modules \n\"Purchase Order\" or “Distribution Sales Sub-System” are licensed. \n \n \n \nLabel Legends of above Sample Screen - Item Distribution Summary (Item Style Level only)  \n \nScreen Label \n Description \nPhy.  O/H \n Physical Stock On-Hand: \n This is the actual recorded stock on hand qty in the system; \n This qty include In-Transit Stock qty of the location.  \n \nIn ChainStorePlus system, the transfer stock qty will automatically add to receiving \nlocation once transfer note is issued regardless the stock has been received.  \n \nO/H(Excl Tfx \nIn)  \nIn Transit In-Transit Stock Qty: \n This is the In-Transfer Stock Qty (the stock qty to be received) that NOT YET  \nconfirmed by the receiving locations; \n This In-Transit Stock Qty will be updated automatically once the Stock Transfer \nqty is confirmed by the receiving party; \n \nImportant:  This In-Transit Qty is included in the Physical On-Hand Qty by the \nsystem as described above;  \n \nOut Transit  Out-Transit Stock Qty:  \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 8,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 8 of 37 \n Screen Label \n Description \n This is the Transfer Out Stock Qty of the Location but NOT YET  confirmed \nreceiving by the receiving locations; \n Therefore the Company's Total In-Transit and the Total Out-Transit must be \nbalance \n \nNon Res. Non Reserved Qty (Optional) \n This is the Non-Reserved Qty of Total Sales Orders of the location in Wholesales \nOperation \n This non-Reserved Qty will be updated once the qty become reserved or direct \ncustomer delivery is made; \n \nReserved Reserved Qty (Optional) \n This is the Reserved Qty of  the location; \n For the Shop location(s)  – system will sum up the outstanding \"DEPOSIT\"  qty \nas Reserved qty; \n For the Warehouse Location(s)  – the system will sum up the actual \"Reserved\" \nqty (a special optional process in Wholesales & Distribution Module) of Sales \nOrders in the Wholesales Operation; \n This Reserved Qty will be updated once the customer delivery is made; \n \nO/H Avail On-hand Qty Available for Sell of the Location \n= Physical On-Hand – Reserved Qty \n \nOn Order On Order Qty \n The Total Outstanding Qty of Purchase Order of the Location \n   \nTot Avail Total Available \nThis Qty will include On-Order Qty and the calculation as follows: \n = On-Hand Available + On-Order Qty \n \n \n  ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 9,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 9 of 37 \n Fig. 3 -  Sample Screen Item Quantity Enquiry (down to Color & Size level) Screen  \n \n \n \nThe above screen shows the detailed information of a particular item (down to Color & \nSize level)  in different inventory status. Some information is available only if the optional \nmodules “Distribution Sales Sub-System” are licensed.  \n \nFig. 4.1 Sample Screen Item Detail Enquiry  Screen ==> \n \nThis inquiry screen show the detail Item Master as below \n \n \n  \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 10,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 10 of 37 \n Fig. 5 -  Sample Screen On-Sales Price Enquiry  \n \n \n \n \n \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 11,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 11 of 37 \n 7.2 Stock Enquiry by Location \n \nObjective :- This inquiry is check stock by Location \n \nScreen Display :- \nItem Index Screen ==> \n \n \n \nThe above screen shows all the inventory locations in the system including shops and \nwarehouses for user selection. \n \nSample Screens: \n \nStock Qty by Location & Cat & Season Enquiry Screen ==> \n \n \n \n \n \n \n \n \n \nThe On Hand Qty \nExclude In-Transit Qty \nThe Physical SOH including \nStock to be received In-Transit ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 12,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 12 of 37 \n By click the selected location, the following screen will be displayed. \n \n \n \n7.3 POS On-line Sales & Sales Memo \n \nObjective: Compare the performance of shops  \n \nIn the Location selection window, you can select four types of comparison : all location, \nparticular location, division or country. Click on the radio button and select the choice \nfrom the combo box.  \n \nIn the mode selection window, you can set the comparison rules. \n1. Summary By:   \n Location  \n Division \n Group \n Country \n2. Mode:  \n Total \n Sales \n Deposit \n Deposit Settlement \n Sales (Excl Dep Set) \n Service \n Gift Cert. \n3. Type: \n All Location  \n Own Shop  \n Web store \n Franchise  \n4. Day Range: \n Day \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 13,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 13 of 37 \n  Period  \n Week \n Month \n Year \n5. Compare: \n Last Year same day \n Last month same day \n Last week same day \n Target \n User Define \n \n \n  ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 14,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 14 of 37 \n 7.4 POS On-Line Sales Inquiry \n \n \n \nIn the above screen, you can see the comparison between two different periods of time.  \n \n \n  \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 15,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 15 of 37 \n 7.5 Sales Journal by Memo No/Location \n \n          Objective :-  An enquiry of sales information that user can check the sales \n                              figure from particular sales memo or location. \n \n          Functions :- \n1. By Sales Memo No. Enquiry displayed by \nsales memo number as the reference key \n2. By Location & Date Enquiry displayed by \nlocation and date as the reference key \n3. By Model No Enquiry display by model no \n \n4. By Guarantee No  Enquiry display by guarantee no \n \n          Screen Display :- \n              Sales Journal Enquiry Index Screen - by Sales Memo No. ==> \n \n \n \n  \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 16,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 16 of 37 \n Screen Display :- \n              \n Sales Journal Detail Inquiry Screen  \n  \n \n  \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 17,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 17 of 37 \n 7.6 Purchase Order \n \nObjective :-  An enquiry of Purchase Delivery Order and its detail information  \n \nScreen display  : - \n Purchase Order Journal Enquiry  ==> \n \n \n \n \n  \nPO Type : \nNormal PO, or: \nBlanket PO – a Bulk Order to \nsupplier and schedule the \ndeliveries as per user's request \nD/R Qty: \nThe Delivery Request Note Qty; \nExclusive use for Blanket PO only; \nBlanket PO will make delivery to user \nonly if \"Delivery Request (D/R) is made ;  ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 18,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 18 of 37 \n Sample Screen Purchase Order Detail Screen ==> Header Info \n \n \n \n \n \n \n \n \n \n \n \n \nSample Screen Purchase Order Detail Screen ==> Others & Remarks  \n \n \n \n \n \nItem Discounts allowed in detail item input \nscreen by item level if checked \nThis is Invoice Discounted input field. \nStock Receive action may be \nrejected if Validity is passed  ",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 19,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 19 of 37 \n Sample Item Information Management Screen ==> \n \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 20,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 20 of 37 \n 7.7 Purchase Receive Journal  \n \nObjective:-  An enquiry of purchase receive and its detail information. The stock receipt \ndata could be retrieved in the following data paths in separate data folder: \n \n Screen Display :-     Purchase Receive Enquiry Index Screen ==> \n \n \n \nGeneral Purchase Receipt information :- \n \nPurchase Receive Number, Date, Purchase Order Number, Supplier Code, Supplier \nReference Number, Purchase Receive Amount, Currency in use, and in the sorting \nsequence of data folders at top. \n \nSample Screen Purchase Receive Detail Header Screen ==> \n \nBy double click the mouse from the selected Purchase Receipt record  \n \n \n \nThis data format is the same as in Purchase Receipt Process except all data fields are \nprotected in Inquiry.    \n \n",
+      "section": "SECTION   7    ON-LINE ENUQIRY"
+    },
+    {
+      "page": 21,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 21 of 37 \n 7.8 Transfer Journal  \n \nObjective:-  An enquiry of item transfer information with respect to the Transfer \nprocesses performed at Stock System discussed in section 5. \n \n          Screen Display:- Transfer Journal Enquiry Index Screen ==> \n \n \n               General Transfer index information:- \n               Transfer Reference Number, Transfer Date, and the remarks of the transfer. \n \n1. On the Item index View Menu, click the select item  \n \n2. In the selection dialog box , click the Transfer Detail Enquiry (See Sample Screen  6.12) \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 22,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 22 of 37 \n Fig(6.12) \nSample Screen Transfer Journal Detail ==> \nBy click the dialog box in Transfer Journal Enquiry Index Screen \n   \n \n \n           General Transfer item detail information  :- \n Transfer Reference Number, \n Transfer Date, Remarks; \n Transfer Item  \n Detail page with Item Number \n Color and Size of item(if any), \n Transfer From/To Location \n Transfer Quantity \n Average Cost, \n Total Transfer Cost,  \n Reference Number of Picking List \n Total Item Transfer Quantities and Total \n Cost of such Transfer Reference \n \n(N.B. Average Cost, Total Transfer Cost and Cost of such Transfer Reference will \nnot be displayed if the user logon account’s access right for such fields has not been \nenabled.). \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 23,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 23 of 37 \n 7.9 Stock Transfer Receive Inquiry  \n \nThis is the data format as Stock Transfer  Receive Confirmation Process EXCEPT \nthis is fields protected. \n \n \n \n \n \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 24,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 24 of 37 \n 7.10 Physical I/O Journal  \n \n         Objective :-  An enquiry of Physical Adjustment general and detail  \n                             information. \n \n          Screen Display :- \n              Physical I/O Enquiry Index Screen :- \n   \n \n \n \n           General Physical I/O Index information :- \n               \n Physical I/O Reference Number \n Physical I/O Date \n Physical I/O Location \n Physical I/O Quantity \n Physical I/O Reason \n and Remarks of Physical I/O. \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 25,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 25 of 37 \n Double click the select item from the physical count index View Menu (See Sample screen \n6.13)  \n \nFig(6.13) \n        \nPhysical I/O Item Detail Screen :- \n \n \n            \nGeneral Physical I/O Item Detail information :- \n \n              Physical I/O Reference Number, Physical I/O Date, Remarks of Physical \n              I/O ; an Item Detail page with Item Number, Color, Size, Inseam, Location Code, \n              Adjusted quantity, Average Cost, Total Adjusted Cost, Total Adjusted \n              quantities and Total Adjusted Cost of the Physical I/O reference. \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 26,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 26 of 37 \n 7.11 Physical Count journal  \n \n          Objective :-  An enquiry of physical counts general and detail information. \n \n          Functions :- \n1. By Reference No.  Enquiry displayed by \nReference Number as the reference key \n2. By Date Enquiry displayed by Date as \nthe reference key \n3. By Count Sheet No. Enquiry displayed by \nPhysical Count Sheet Number as the \nreference key. \n          Screen Display :- \n              Physical Count Enquiry Index Screen ==> \n \n \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 27,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 27 of 37 \n Physical Count Item Detail Screen ==> \n \n \n \nGeneral Physical Count Item Detail information :- \n            Physical Count Reference Number, Physical Count Date, Remarks of \n            Physical Count, a Item information table with Item Number, Color, Size, Inseam \n            Location, Physical Count Quantity, Physical Count Sheet Number, and \n            User ID who had performed the Physical Count. \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 28,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 28 of 37 \n 7.12 Delivery Order Journal  \n \nObjective :-  An enquiry of Delivery Order and its detail information  \n \nFunctions:- \nReference No  Inquiry display by Reference Number \nDate   Inquiry display by Date \nProject No        Inquiry display by Project Number \n \nScreen display  : - \n Delivery Order Journal Enquiry  ==> \n \n \n \nGeneral Delivery Order Index Information : - \nReference Number, Delivery Order Date, Customer Code (N.B. It may be \nCustomer Name. It subjects to how developer set the parameter. ) ,  \nTransaction Code, Project Number and Total Delivery Value Amount. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSample Screen Delivery Order Detail Screen ==> \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 29,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 29 of 37 \n  \n \n \n \nGeneral Delivery Order Detail Information : - \nPick List Reference Number, Department Code, Pick List Reference Date, \nCustomer Name, Delivery Order Date, Remarks, Project Number, Currency, \nExchange Rate, Discount, Total Amount, Other Discount, Other Charge and Net \nTotal Amount. \n \nSample Item Information Management Screen ==> \n \n \n \n \nGeneral Item Information Management Detail Information : - \n \nPick Reference Number, Sequence Number, Item Code, Unit Price, Location Code, \nQuantity, Unit, Total Price and Total Quantity, Total Amount., Transaction Code. \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 30,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 30 of 37 \n 7.13 Return to Supplier Journal \n \nObjective :- An enquiry of information about return supplier journal \n \n \nScreen Display :- \nReturn supplier journal Index Screen ==> \n \n \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 31,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 31 of 37 \n 7.14 Delivery Order Receive (Stock-In) Journal Enquiry  \n \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 32,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 32 of 37 \n 7.15 Deposit Journal  \n \nObjective :- An enquiry of information about Deposit Journal \n \nFunctions:-    1.    By Deposit No. \n2. By Date \n3. By Customer Name \n4. By Phone No. \n \nScreen Display :- \nDeposit Journal Index Screen ==> \n \n \n \nGeneral deposit journal index information :- \nDeposit No., Date, Customer Name, Phone No., Deposit Amount, Status \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 33,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 33 of 37 \n 7.16 Member Activities Details  \n \nObjective :  This inquiry enables user to read sales details of each member customer \ndown to details level.  \n \nScreen Display :- \n \n \n \n \n \nMouse select and click will display the \nSelection Menu as shown for user's \nfurther action ",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 34,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 34 of 37 \n Member Activities Details screen sample -2 \n \n \nThis is a screen sample of \"ALL\" activities for a selected member from pop up display \nselection of \"ALL\"  \n \n \n \n \n \n \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 35,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 35 of 37 \n 7.17 Member Sales Memo Journal Inquiry \n \nThis is the Sales Memo Inquiry filtered by Member in sequence of Sales Memo \nNumber  \n \n \n \n \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 36,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 36 of 37 \n 7.18 Member Sales Figures Summary  \n \n \n \nScreen Display Member Sales Information ==> \n \n \n \nGeneral Un-posted Location Transfer :- \nName, Type, Discount,  ID No., Status,  Limit, Month \nLast Year Gross Sales, Current Year Gross Sales, Last Year Net Sales,  \nCurrent Year Net Sales \n \n \n  \n",
+      "section": "processes performed at Stock System discussed in section 5."
+    },
+    {
+      "page": 37,
+      "text": "ChainStorePlus v7 Book-4 \nEdition 1.2_202303  \nPage 37 of 37 \n  \n \n \n \n \n \n \n \n \n- END OF BOOK (4) :  INQUIRY – \n ",
+      "section": "processes performed at Stock System discussed in section 5."
+    }
+  ]
+}

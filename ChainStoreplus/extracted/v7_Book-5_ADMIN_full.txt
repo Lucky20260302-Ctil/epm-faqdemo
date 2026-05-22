@@ -1,0 +1,795 @@
+=== PAGE 1 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 1 of 33 
+  
+ 
+ChainStore Plus Application Package  
+ 
+ 
+User Operation Manual  (v7.0) 
+ Edition v1.2 (d202303)  
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Level 10, Cyberport 2, 
+100 Cyberport Road, Hong Kong 
+The Book Four (5)  
+Data Inter faces & Administr ation 
+
+=== PAGE 2 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 2 of 33 
+  
+ 
+CONFIDENTIALITY 
+ 
+ 
+ 
+This document contains confidential information about software package 
+“ChainStore Plus” developed and owned by Sanyo Extended System Services 
+Ltd. 
+ 
+This document is made exclusively for “ ChainStore Plus” Licensee who is 
+the legal License holder under Terms and Conditions of Software License Agreement 
+with Sanyo Extended System Services Ltd.  
+ 
+No part of this document may be released, reproduced or transmitted in any form or 
+by any means, electronic or mechanical, including but without limitation, 
+photocopying and recording, for any purpose other than Licensee’s personal use 
+without written permission of Sanyo Extended System Services Ltd. 
+ 
+The information in this document is subject to change without notice.  
+ 
+ Copyright  Sanyo Extended System Services Ltd ., 1999 -2023 
+All Rights Reserved 
+ 
+ 
+ 
+
+=== PAGE 3 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 3 of 33 
+  
+Table of Content 
+           Page 
+ 
+SECTION   8    DATA INTERFACE ......................................................................................................... 4  
+8.1 POS ORIENTED DATA INTERFACE  .................................................................................................... 5  
+8.1.1 POS/Remote Server Oriented Polling Point Maintenance ..................................................... 5  
+8.1.2 POS Transmission Log Control .............................................................................................. 8  
+8.1.3 POS Data Polling Control .....................................................................................................11  
+8.1.4 Polling History Inquiry ..........................................................................................................14  
+8.1.5 POS Transmission Log Update Inquiry .................................................................................16  
+8.1.6 POS Transmission Log Update Error Inquiry .......................................................................17  
+8.2 DATA EXPORT TO POS ....................................................................................................................18  
+8.3 CS2000  INTERFACE FOR DATA IMPORT & EXPORT .........................................................................20  
+8.3.1 Interface Update Log Inquiry ................................................................................................21  
+8.3.2 Interface Posting Error Enquiry ............................................................................................22  
+8.3.3 Outbound Interface Log Enquiry ...........................................................................................23  
+SECTION   9    ADMINISTRATION ........................................................................................................24  
+9.1 POS DATA POSTING PROCESS .........................................................................................................25  
+9.1.1 POS Data Posting Control ....................................................................................................25  
+9.1.2 Posting Error History Log .....................................................................................................27  
+9.1.3 POS Day End Inquiry ............................................................................................................28  
+ 
+ 
+ 
+
+=== PAGE 4 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 4 of 33 
+  
+SECTION   8    DATA INTERFACE 
+ 
+In this section, we will discuss different Data Interfaces available in the application 
+package ChainStore Plus. In general, the package is come in 3 main categories in 
+Data Interface: 
+ 
+ Interface for POS Terminals in Shops 
+ Interface for Data Import from Other Systems (Optional)  
+ Interface for Data Export to Other Systems (Optional)  
+ 
+The most used data interface in ChainStore Plus package is the Interface for POS 
+Terminals in shops. This is the package’s standard system background task used for 
+controlling data upload and download between POS and the back-office Server System.  
+This data transferring work is performed automatically by a special background 
+communication task once submitted.   
+ 
+
+
+=== PAGE 5 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 5 of 33 
+  
+8.1 POS Oriented Data Interface 
+ 
+This is the convention polling method call from Server to POS client.  
+ 
+Before the POS Data Interface could work as expected in the system, user is required to 
+set up proper POS Polling Point in the application Process “POS/Remote Server 
+Oriented Polling Point Maintenance” below. 
+ 
+8.1.1 POS/Remote Server Oriented Polling Point Maintenance 
+ 
+Objective: 
+Maintenance of the polling point of each remote shop for data interface  
+ 
+         Functions :-  1.  Create Record 
+                              2.  Modify Record 
+                              3.  Delete Record 
+ 
+ 
+
+=== PAGE 6 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 6 of 33 
+  
+Screen Display :- 
+             
+POS/Remote Server Oriented Polling Point Maintenance Screen ==> 
+ 
+ 
+          
+Prompt    Description 
+ 
+POS Location   X(8) -  Must field (if POS option selected) 
+    Location Code of the POS 
+ 
+Till No.    X(1) -  Must field 
+The machine ID of the POS 
+ 
+Remote Server   X(10) – Must Field (if Remote Server option selected) 
+Remote Server Name 
+ 
+FTP Login ID   X(256) - Optional 
+FTP Server Login ID of the POS 
+ 
+FTP Password   X(10) – Optional 
+    FTP Server Login Password 
+ 
+ZLOG File Format   Options  
+Delimited   Tab delimited 
+Fixed Width   Fixed length 
+ 
+Compress Zlog File  Zip the Zlog file if file size larger than a specific size 
+ 
+
+=== PAGE 7 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 7 of 33 
+ Last Log Sent   Information field 
+The file name of the last log file sent 
+ 
+Last Log Queued  Information field  
+The file name of the last log file queued 
+ 
+ 
+
+=== PAGE 8 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 8 of 33 
+ 8.1.2 POS Transmission Log Control 
+ 
+After we have properly set up the Polling Point of each POS, we now begin to understand 
+what kind of information/data has been sent to POS via the back-office’s background 
+communication module.  
+The ChainStore Plus Back Office system will ‘prepare’  automatically all the related 
+data changes in the server and sent to POS in shops automatically once available.  
+Furthermore, user in the back office could make additional control over these 
+transmission activities such as: 
+ send out data automatically(default), or 
+ sent manually now under user initiation, or 
+ re-send data again from a specific date in case of necessary 
+ 
+A “Transmission Log File” which consists of all data sent history will be kept in the 
+system and available to user for inquiry under POS Transmission Log Control Process.   
+ 
+In general, data changes like product items update, price changes, tables changes, and all 
+other data that POS need to know are downloaded to POS either Manually  or 
+Automatically  by a preset time. The time set up will be discussed under “ Start/Stop 
+Process” on the next page. 
+ 
+Screen Display : 
+ 
+ 
+ 
+ 
+ 
+ 
+ The “Send Log”  Button 
+This function will manually release all data wait 
+to be sent from Server to POS and sent right the 
+way after confirmation.  
+
+=== PAGE 9 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 9 of 33 
+ POS Transmission Log Control Screen ==> 
+ 
+           Prompt                        Description 
+ 
+            Date                         -  The date of change data was sent 
+ 
+            Time                         -  The time of change data was sent 
+ 
+            User - User who create the log file 
+ 
+Send/Receive            -  Send and Receive flag 
+ 
+            Type - Send Type 
+ Manual – Manual Create 
+ Auto – Auto Create 
+ 
+Location - Location specific log file 
+ 
+Filename            -  Send log file name 
+ 
+            Record Count            -  Send log file record count 
+  
+ 
+After clicked "Send Log”  button, it will ask user to input the number of record per log 
+file. Click “OK” button to confirm Log file generation. 
+ 
+Screen Display : 
+ 
+ 
+ 
+
+=== PAGE 10 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 10 of 33 
+ Prompt                          Description 
+ 
+No. of Record Per Packet  -  The number of record per log file 
+ 
+ 
+The “Re-Send Log”  Button 
+ 
+This function allows the user to re-send the downloading data once again from Server to 
+POS start from a specific date and locations.  
+ 
+Screen Display:- 
+ 
+Re-send POS Transmission Log Control Screen ==> 
+ 
+ 
+ 
+           Prompt   Description 
+ 
+            Re-send Since  Input the date dd/mm/yyyy; 
+The system will re-sent the data from this date 
+ 
+            Log Seq  The Sequence log number 
+ 
+            From/To Loc  Send data to the locations in the From/To range  
+ 
+
+=== PAGE 11 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 11 of 33 
+ 8.1.3 POS Data Polling Control  
+ 
+POS Data Polling Start/Stop Process 
+ 
+This is the process for Start Up or Shut Down a “Data Sending/Polling” job in the system.  
+In order for the application to be able to perform Data Sending/Polling works between the 
+Server and POS at shops automatically, user must first “Start Up ” the sending/polling 
+communication task in this process.  
+ 
+In certain circumstances, user may want to “Shut Down”  this communication task for 
+some reasons, such as Physical Stock Count, or maintenance job like Database Back Up 
+etc. Additional functions of setting up sending log time  or switching nodes , are also 
+available in this process at user’s choice.  
+ 
+ 
+ 
+There are a few task statuses will be shown in this status bar:       
+ 
+In progress -    The background Polling communication task is in progress;  
+Just submitted -  The background Polling communication is just submitted; 
+To be terminated -      The background Polling communication task is now in termination; 
+Terminated -    Background Polling task is terminated; 
+IDLE -    Background Polling task is idle 
+ 
+
+=== PAGE 12 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 12 of 33 
+  
+The “Start Polling”  Function 
+ 
+This polling task runs in the background and is triggered daily by a scheduled task. Once 
+the task is executed, the task automatically and continuously looks into each store FTP 
+folder one by one according to the polling point registered in the "POS/Remote Server 
+Oriented Polling Point Maint.” table. The task will transfer the POS uploaded files from 
+FTP folders to the POS data folder for the posting process.   
+ 
+When the polling task is running normally, it will update the polling status and the last 
+action taken in the POS Oriented Polling Control. 
+ 
+The “Stop Polling”  Function 
+ 
+This function allows user to Shut Down  the Polling/Sending Communication task in 
+background for POS communication. This shut down function works only if the 
+Communication task is in progress. Once shut down, the data exchange between Server 
+and POS will not work any longer until the next start up.  
+ 
+ 
+As the “Stop Polling”  button is pressed, the system will return the “To be terminated” 
+status. The Current Task Status will change to “Terminated” when the task is stopped.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 13 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 13 of 33 
+ The “Reset” Function – Change the status to “IDLE” and the task is ready for Start Up 
+again. 
+ 
+ 
+ 
+ The “Refresh”  function 
+ 
+This allows the user to refresh the inquiry screen to display the latest status of the 
+Communication Task. 
+ 
+ 
+ 
+ 
+
+=== PAGE 14 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 14 of 33 
+ 8.1.4 Polling History Inquiry 
+ 
+This is a comprehensive real time inquiry screen for users to check on the latest 
+communication activities and status of each POS in shops. It is recommended that the 
+user should regularly visit this inquiry to make sure the data communication between 
+Server and POS is working normally as expected. The polling status, polling time, 
+records received/send, error codes if any, and explanation will be shown on screen for 
+each call was made by the Server to POS. 
+ 
+  Polling History Index Screen ==> 
+ 
+ 
+ 
+          Prompt                        Description 
+ 
+            Date                         -  Polling date 
+ 
+            Time                         -  Polling time 
+ 
+            Loc.                          -  Shop/Store location code 
+ 
+            Till                    - The machine ID of POS  
+ 
+            Sen/Rec             -  Send (S) and Receive (R) flag 
+ 
+            Type - Polling Channel 
+ 
+File Size - The file size of data file  
+ 
+
+=== PAGE 15 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 15 of 33 
+ File Name - The file name of data file  
+ 
+Completed Date -  The completed date of the process 
+ 
+Completed Time - The completed time of the process 
+ 
+            Error Message               -  ‘E’ = Error in that file process 
+ -  Blank indicate normal without error      
+ 
+Double click to the selected item from this inquiry screen, the following information page 
+is displayed: 
+ 
+       Polling History Detail Screen ==> 
+ 
+ 
+ 
+This is a detail information page for that particular polling process. The information is 
+mainly used for tracking which file is processing and whether the task completed by the 
+process in case of needed. 
+ 
+ 
+
+=== PAGE 16 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 16 of 33 
+  
+8.1.5 POS Transmission Log Update Inquiry 
+ 
+This is Inquiry for the Status of POS data update sent by Back Office. 
+ 
+Whenever POS received data file from back office for updating, POS will send back an 
+Update Status to Back End server after data updated. This send back message will 
+indicate whether the POS update is successful, or Error. 
+ 
+ 
+The Screen Display: 
+ 
+ 
+ 
+ 
+
+=== PAGE 17 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 17 of 33 
+ 8.1.6 POS Transmission Log Update Error Inquiry 
+ 
+This is Inquiry for Error Status of POS data update sent by Back Office. 
+ 
+This Error Message gives user a brief message about the POS update error so back-office 
+user could take proper action for data recovery if necessary. 
+ 
+The Screen Display: 
+ 
+ 
+ 
+
+=== PAGE 18 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 18 of 33 
+ 8.2 Data Export to POS 
+This process allows the user to send a most updated fresh copy of ALL master files that 
+POS required from Back Office Server.  
+ 
+This is a manual process initiated by user on-demand.  This is useful when you doubt the 
+files integrity in POS, or in situation of re-building POS application & data from scratch. 
+ 
+ 
+ 
+ 
+ 
+ Select check box. 
+Check the box to select what master data to 
+export to the POS Master Data Update file.  
+
+=== PAGE 19 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 19 of 33 
+           Prompt   Description 
+ 
+Brand Code   -  X(10) Optional 
+- Export this brand item master to file only 
+ 
+No. of record per file - integer  
+- Maximum number of record export to the file 
+ 
+Select check box - Check the boxes to select what master data to export 
+ 
+ 
+ 
+
+=== PAGE 20 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 20 of 33 
+  
+8.3 CS2000 Interface for Data Import & Export 
+ 
+This is a Data Interface Module specialized for Data Exchange function between 
+ChainStore Plus and the third-party software applications.  
+ 
+ 
+ 
+ 
+
+=== PAGE 21 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 21 of 33 
+ 8.3.1 Interface Update Log Inquiry  
+ 
+This is the Inquiry screen for the Interface Update Log History.  Users could get a detail 
+update log history from this inquiry for Data Interface updating process.  
+ 
+ 
+
+=== PAGE 22 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 22 of 33 
+ 8.3.2 Interface Posting Error Enquiry  
+ 
+In this interface option, we provide an Inquiry screen for Interface Updating Error 
+message in case of errors.  Brief description of Error message will be displayed for user 
+reference. Data recovery by user may be expected if error is found from the updating 
+process. 
+ 
+ 
+ 
+
+=== PAGE 23 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 23 of 33 
+ 8.3.3 Outbound Interface Log Enquiry 
+ 
+This is the Inquiry screen for the Outbound Interface Update Log History.  Users could 
+get a detail update log history from this inquiry for Outbound Data Interface updating 
+process.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 24 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 24 of 33 
+ SECTION   9    ADMINISTRATION  
+ 
+In this section, we will discuss how we are going to handle those data polled back to 
+Server from POS terminals as discussed in previous section. 
+ 
+In the basic design of ChainStore Plus, all data is polled back to Back Office server 
+from POS on real time basis . It means any activity that happened in ChainStore Plus 
+POS will be sent back to back office server automatically in its shortest available moment. 
+This real time action allows user able to monitor all POS activities including customer 
+sales, inventory status, stock transfer, or other POS customer services available in back 
+office. 
+ 
+In fact, this real time  ‘raw” data from POS has to be updated immediately  to server 
+database in order to provide timely information service to back-office users. This is the 
+job of “POS Data Posting Process” . 
+ 
+ 
+
+=== PAGE 25 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 25 of 33 
+ 9.1 POS Data Posting Process 
+ 
+9.1.1 POS Data Posting Control  
+ 
+ 
+ 
+The “Current Task Status”: 
+ 
+There are a few task statuses will be shown in this status bar:       
+ 
+In progress -    The Posting task is in progress;  
+Just submitted -  The Posting task is just submitted; 
+To be terminated -   The Posting task is now in termination; 
+Terminated -    The Posting task is terminated; 
+IDLE -    The Posting task is idle 
+ 
+The “Start POSTING” Function 
+ 
+This Posting task runs in the background and is triggered daily by a scheduled task. Once 
+the task is executed, the task works automatically to update data uploaded from POS. It 
+will make POS real time data update to corresponding files immediately.  
+ 
+When the Posting task is running normally, it will update the posting status to “IN 
+PROGRESS” and the last action taken in the POS Data Posting Control. The posting task 
+will run non-stop until “STOP POSTING” is triggered by scheduled task or manual click 
+the “Stop Posting” button.  
+ 
+ 
+
+=== PAGE 26 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 26 of 33 
+ The “STOP POSTING”  Function 
+ 
+This function allows the user to stop the POSTING task in background for Data Updating. 
+This function works only when the Posting task is in progress. Once stopped, the POS 
+data will be no longer posted until the next start up. 
+  
+As the “STOP POSTING”  button is pressed, the system will respond as follows and 
+data posting will stop.   
+ 
+ 
+ 
+ 
+The “Reset” function 
+This function allows the user to change the status to “IDLE” and the task is ready for 
+Start Up again. 
+ 
+The “Modify Repl. Time”  function 
+This function allows the user to change the stock replenish schedule. 
+ 
+The “Refresh”  function 
+This function allows the user to refresh the inquiry screen to display the latest status of 
+the Posting Task. 
+ 
+The “DISABLE/ENABLE POSTING”  Function 
+This function allows the user to disable/enable  the POSTING process for Data Updating. 
+The Posting task is still running in background in this mode. But this function will 
+suspend the data updating until the user clicks this button to enable the POSTING process 
+again. 
+ 
+ 
+
+=== PAGE 27 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 27 of 33 
+ 9.1.2 Posting Error History Log 
+ 
+This is an inquiry for checking Posting Errors from the data update of POS Data sent 
+back to office real time everyday, if any. In general, if everything goes right, this inquiry 
+box should be empty indicating NO ERRORS are found during POS data posting. 
+However, it is possible that errors may be found in the posting job due to many reasons – 
+such as some reference tables, records are missing from the system, or damaged records 
+received etc... In some cases, the error message displayed may not be a “true error ”. It 
+could be a warning message to alert users that unusual things happened during the 
+updating.  Consequently, the System Administrator needs to know these messages are the 
+“true errors” and why it happened, or any subsequent support job need to follow 
+regarding this message. 
+ 
+This is recommended that the System Administrator should check this inquiry at least 
+once a day, or at the frequency that suits your own operation, to ensure that the data 
+polled back is correctly updated and without errors.  
+ 
+ 
+ 
+          Prompt   Description 
+ 
+Date    - Posting Error Date 
+ 
+Time   - Posting Error Time 
+ 
+Location  - Posting Error Location 
+ 
+ Filename  - The Error Record file name 
+Type   - The Error Record Type 
+
+=== PAGE 28 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 28 of 33 
+  
+Ref. No.  - The Reference No. of the record (if any) 
+ 
+Error Code  - The Error Reference Code (if any) 
+ 
+Error Message  - The Error Message 
+ 
+9.1.3 POS Day End Inquiry 
+ 
+The POS Day End job is an important step for POS daily operation. This POS Day End 
+Process is a daily routine done by POS personnel in the shop at business closing of the 
+day.  This serves the purpose of ending the POS current business day and preparing a 
+new start for the next business day. It is important for the back-office Administrator to 
+know all shops should have done this job properly on time. 
+ 
+This inquiry program records those day ends activities in shops. The shops will send 
+automatically a day end message to Back Office once the Day End job is done. For the 
+shops without Day End message in this inquiry of the day may imply missing Day End 
+process from them.  Further investigation is recommended for this missing cause. 
+ 
+ 
+ 
+          Prompt   Description 
+ 
+Date    - The Day End Date 
+ 
+Time   - The Day End Time 
+ 
+Location  - The Day End Location 
+
+=== PAGE 29 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 29 of 33 
+  
+ Till   - The machine ID of the POS 
+ 
+ Cashier  - The Staff Code of Cashier 
+ 
+ Shift#   - The Staff Code of Shift Cashier 
+ 
+ Sales   - The Number of Sales Transaction 
+ 
+ Tfx   - The Number of Stock Transfer Transaction 
+ 
+ Dep   - The Number of Deposit Transaction 
+ 
+ Serv   - The Number of Service Transaction  
+ 
+ Gift   - The Number of Gift Certificate Transaction 
+  
+ Gaway   - The Number of Giveaway Transaction 
+ 
+ Redm   - The Number of Gift Redemption  
+ 
+ Misc. Amount  - The amount of miscellaneous income 
+ 
+ Total Amount  - The Total Income Amount 
+ 
+ Check   - Day End Check Flag 
+- Y = Day End Verified 
+- Blank = Day End Not Verified 
+ 
+ 
+ 
+
+=== PAGE 30 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 30 of 33 
+ By double clicking the highlighted row will display the Day End transaction details as 
+follows:  
+ 
+Click “Payment” button to look into the payment detail. 
+ 
+ 
+Shows the payment tender received of that day. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 31 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 31 of 33 
+ Click “Count” tab to see the number of transaction of that day. 
+ 
+ 
+Click “Amount” tab to see the amount of transaction of that day. 
+ 
+
+=== PAGE 32 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 32 of 33 
+ Click “Other” tab to see the which transaction has error. 
+ 
+
+=== PAGE 33 ===
+ChainStorePlus v7 Book-5 
+Edition 1.2_202303  
+Page 33 of 33 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- END OF BOOK (5) :  ADMIN – 
+ 

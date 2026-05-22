@@ -1,0 +1,4680 @@
+=== PAGE 1 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 1 of 139 
+ 
+ 
+ 
+ChainStore 2000  Application Package  
+ 
+ 
+User Operation Manual  (v6.5) 
+ Edition v1. 1 (d200 912)  
+________________________________________________________________________  
+ 
+ 
+ 
+ 1605 Shuk Tak Centre, West Tower  
+200 Connaught Road, Central  
+Shueng Wan, Hong Kong  
+Tel. 852 -2880 -9119  
+Fax. 852 -2811 -9424  
+info@sanyoextended.com  
+www.sanyoextended.com  
+
+
+=== PAGE 2 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 2 of 139  
+ 
+ 
+CONFIDENTIALITY  
+ 
+ 
+ 
+This document contains confidential information about software package 
+“ChainStore 2000” developed and owned by Sanyo Extended System Services Ltd.  
+ 
+This document is made exclusively for “ ChainStore 2000” Licensee who is the 
+legal License holder under Terms and Conditions of Software License Agreement 
+with Sanyo Extended System Services Ltd.  
+ 
+No part of this document may be released, reproduced or tran smitted in any form or 
+by any means, electronic or mechanical, including but without limitation, 
+photocopying and recording, for any purpose other than Licensee‟s personal use 
+without written permission of Sanyo Extended System Services Ltd.  
+ 
+The informati on in this document is subject to change without notice.  
+ 
+ Copyright  Sanyo Extended System Services Ltd ., 2009 
+All Rights Reserved  
+ 
+ 
+ 
+
+=== PAGE 3 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 3 of 139  
+Table of Content  
+ 
+           Page 
+ 
+SECTION  6   SYSTEM PROCESS  ................................ ................................ ................................ .................  5 
+6.1 PURCHASE ORDER PROCESS  ................................ ................................ ................................ ....................  8 
+6.2 STOCK RECEIVE  ................................ ................................ ................................ ................................ ... 14 
+6.2.1  The Stock Receive WITH Regul ar Purchase Order  ................................ ................................ . 14 
+6.2.2  The Stock Receive Without Regular Purchase Order  ................................ ............................  21 
+6.2.3  The Stock Receive for Special PO (for special process only)  ................................ ..................  24 
+6.2.4  The Stock Receive Confirmation Process after Input of Stock Receive Data  .........................  26 
+6.2.5 Vendor Invoice Input  / Creation  Maintenance  ................................ ................................ ...... 29 
+6.2.6  Vendor Invoice Verification Process  ................................ ................................ ......................  33 
+6.2.7  Vendor Invoice Confirmation Process  ................................ ................................ ...................  37 
+6.2.8  Stock Receipt Expense Input  ................................ ................................ ................................ . 38 
+6.3 STOCK TRANSFER  ................................ ................................ ................................ ................................  40 
+6.3.1  Location Transfer  ................................ ................................ ................................ ..................  40 
+6.3.2  Item Oriented Transfer  ................................ ................................ ................................ .........  47 
+6.3.3  Stock Transfer Receive Confirmation  ................................ ................................ ....................  53 
+6.3.4  Stoc k Transfer Receive Recovery & Adjustment  ................................ ................................ ... 55 
+6.3.5  Transfer Batch Generation ................................ ................................ ................................ .... 57 
+6.3.6  Stock Transfer Process (The New Edition)  ................................ ................................ .............  59 
+6.4 INVENTORY CONTROL  ................................ ................................ ................................ ..........................  65 
+6.4.1  Physical Adjustment Proc ess ................................ ................................ ................................ . 65 
+6.4.2  Physical Count Process  ................................ ................................ ................................ ..........  69 
+6.4.3  Stock Replenishment  ................................ ................................ ................................ .............  79 
+6.4.4  Open Item Recovery Process  ................................ ................................ ................................ . 84 
+6.4.5  Return To Supplier  ................................ ................................ ................................ ................  86 
+6.5 STOCK COST ADJUSTMENT  ................................ ................................ ................................ ....................  94 
+6.5.1  Stock Cost Adjustment Maintenance  ................................ ................................ ....................  94 
+6.5.2  Standard Cost Write Down Process  ................................ ................................ ......................  95 
+6.6 DELIVERY  ORDER PROCESS  ................................ ................................ ................................ ....................  96 
+6.6.1  Delivery Order Process – Stock Out  ................................ ................................ .......................  96 
+6.6.2  Delivery Order Process – Stock In  ................................ ................................ ........................  107 
+6.6.3  Generate Delivery Order (D.O.) by Transfer  ................................ ................................ ........  110 
+6.7 PRICE MARK-UP/DOWN  ................................ ................................ ................................ ....................  111 
+6.8 CUSTOMER LOYALTY (OPTIONAL MODULE ) ................................ ................................ ............................  113 
+6.8.1  Bonus Point Adjustment Maintenance – With Redemption Group  ................................ .... 113 
+6.8.2  Change Member Number Process  ................................ ................................ ......................  114 
+6.8.3  Member e -Coupon Generation Process  ................................ ................................ ..............  115 
+6.9 WHOLESALES & DISTRIBUTION MODULE (OPTIONAL MODULE ) ................................ ................................ . 117 
+6.9.1  Sales Order Processing of Wholesales Module  ................................ ................................ ... 118 
+6.9.2  Stock Reservation Process (A Option Module of Wholesales Process)  ...............................  119 
+6.9.3  Reservation Check & Approval (a Option Module of Wholesales Process)  .........................  121 
+6.9.4  Sales Invoice Pick List Generation Process of Wholesales Module  ................................ ..... 122 
+6.9.5  Stock Picking and Invoicin g Maintenance Process of Wholesales Module  .........................  123 
+6.10 FRANCHISEE STORE PROCESS (OPTIONAL MODULE – FOR SPECIFIC USE ONL Y) ................................ ..........  125 
+6.11 CONSIGNMENT STOCK SETTLEMENT PROCESS (WEB BASED OPTIONAL MODULE ) ................................ ..... 129 
+6.11.1  Consignment Stock Settlement Work Flow diagram  ................................ ......................  130 
+
+=== PAGE 4 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 4 of 139 Table of Content  
+ 
+           Page 
+ 
+6.11.2  Consignment Stock Settlement Data Flow diagram  ................................ ......................  131 
+6.11.3  The Consignment Stock Settlement Process Screen Layout  ................................ ...........  132 
+6.11.4  The Consignment Stock Trial Settlement Process  ................................ ..........................  134 
+6.11.5  The Consignment Stock Settlement Report Printing & Layout  ................................ .......  135 
+6.11.6  The Consignment Stock Trial Settlement Report Sample  ................................ ...............  136 
+6.11.7  The Consignment Stock Trial Settlement EXCEPTION Report Sample  ............................  137 
+6.11.8  The Consignment Stock Final Settlement Report Layout Sample  ................................ ... 138 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 5 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 5 of 139  
+SECTION  6   SYSTEM PROCESS  
+ 
+Objective  :  The System Processing modules are one of the main operation  in the 
+package to perform necessary data files / database updating according to 
+functions.  The se standard and optional processing modules are included:  
+ 
+1. Purchase Order Process (optional)  
+- Purchase Order Process  
+Performs purchase order process and manages the PO stock  
+update and provides related reports for stock -in administration.  
+ 
+ 
+2. Stock System  
+There are several different processes are included in stock 
+system. They are Stock Receipt, Stock Return, Transfer, 
+Physical Adjustment Process, Physical Co unt Process, Stock 
+Replenishment and … etc.. Each process has unique functions 
+and role in many areas, but they have one thing in common - 
+all stock related processes provide different methodology to 
+handle stock transactions.  
+ 
+3. Delivery Order Process  
+This process allows user to perform stock transaction related 
+work using specific transaction codes for business related 
+transactions.  
+ 
+4 Consignment Stock Purchase and Settlement (Optional)  
+- Consignment Stock Operation is a complex job. This optional 
+module provides a well -developed and well -defined stock 
+settlement process leads to a better consignment management 
+advantage. Many useful & meaningful reports are included in the 
+module for related auditing, settlement and accounting control 
+purposed. Detail documents are provid es for use of full -proof 
+information for both in -house and suppliers in all cases.  
+ 
+5 Price Mark Up / Mark Down Process  
+- List Price Transaction Maintenance allows the user to define the 
+mark -up or mark -down of the wholesale or retail prices of any 
+particular items.  
+ 
+6 Cost Adjustment Process  
+- Adjust the average cost of the item accompany with an average 
+cost update history log.  
+ 
+
+=== PAGE 6 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 6 of 139 7 Open Item Rectory Process  
+- Allows back office user to recovery the actual item code sold in 
+sales memo, where the salespersons were en tered as an open 
+item from P OS. 
+ 
+Most of the update processes in the package are performed in batch 
+convention and follow in a very similar routine  as follows :  
+ 
+1). Batch Maintenance  - Similar to the Maintenance processes 
+described in Sec.4, it performs the 
+mainte nance process of the batch information. 
+Creation, Modification, and Deletion 
+functions are included.  
+ 
+2). Batch Validation  - It performs validation of the batch after input 
+has been finished. This is a must step before 
+get into final posting job.  
+ 
+3). Batch Posting  - It performs updating job to master files, 
+analysis figures, and journals. This updating 
+job is non -reversible.  It changes data 
+information in the database permanently. User 
+should make sure that the posting is correctly 
+done. The transaction (i nput) batches will be 
+deleted if no errors are found in the posting.  
+ 
+4). Modify Description  - Allow user to modify the batch description.  
+ 
+5). Scratch Batch  - Remove the existing batch by user.  
+ 
+6). Clear In Use Status  - In case of abnormal termination to  a particular 
+batch during processing, the batch‟s status 
+may be still set at “in use” mode and no one 
+can access this batch until this “Clear in Use” 
+button is clicked.  
+ 
+7). Change Status  - Every batch in the process has its own current 
+status, different restrictions are applied 
+according to status. This function lets user 
+change the batch‟s status for their convenience 
+of processing.  
+ 
+8). Search Up  - Enable selection bar upward movement.  
+ 
+9). Search Down  - Enable selection bar downward movement.  
+ 
+Most of  the processing steps are sequence -dependent.  One cannot be performed without 
+others having been completed. The general workflow in batch control processes that we 
+will discuss later is as follows :- 
+
+=== PAGE 7 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 7 of 139  
+ 
+ 
+ 
+ 
+                             
+                                                                                                                            2. Batch Validation or         
+       1.   Performs Batch                                                                              Batch Maintenance can be  
+             Maintenance                                                                                        performed as many times  
+                                                                                                                               until information is completed  
+                                                                                                                               (See Loop)  
+                                                                                                                             
+                                                                                                          3. Performs Batch Posting                                
+                                                                                                            after Batch Validation has  
+                                                                                                                  been completed  
+ 
+  
+ 
+ Batch Maintenance  
+Batch Validation  
+Batch Posting  
+
+=== PAGE 8 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 8 of 139 
+6.1 Purcha se Order Process  
+ 
+The Purchase Order Process in the application is allowed user to create Purchase Orders 
+for suppliers and work thru it all the way from order placing, stock receiving, outstanding 
+orders tracking, inventory cost updating (via stock receiv ing process), and reports.  
+ 
+6.1.1 Purchase Order Maintenance  
+ 
+User could “click” to perform Purchase Order Creation, Modification, or Deletion from 
+the menu as shown below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Or, mouse pointing at the desire Purchase 
+Order record and double click for next 
+maintenance action  Create a New Purch ase Order by 
+Pressing the NEW button  
+
+=== PAGE 9 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 9 of 139 
+Purchase Order Detail Maintenance Screen  
+ 
+Header Input  
+ 
+The data fields in the menu shown mostly are self-explanatory except may be a few of 
+them need to be elaborate further :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The values in these data 
+fields are calculated by 
+the system automatically 
+and cannot be input     Normal PO: the Purchase Order is created in normal mode. Partial delivery 
+allowed  
+ Blanket PO: the Purchase Order is  created as a bulk order mode that supplier 
+may deliver the items spread across a period of time - i.e. a year or a season 
+period. The delivery of a Blank Order therefore requires additional “Delivery 
+Request” in next stage to complete.  
+This check box will enable 
+item discount input data 
+field available in item level  This is header leve l 
+discount  
+
+=== PAGE 10 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 10 of 139 
+Purchase Order Detail Maintenance Screen  
+ 
+PO Terms Input  
+ 
+Click to the 2nd folder will get into PO terms input and the data fields in  this menu shown 
+mostly are explained by themselves except may be a few of them need to be elaborate 
+further :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Expected Shipment Date:  
+Some PO Reports are requiring this d ata as for sorting 
+field 
+This will be used for a default 
+location for PO stock receive 
+process  This may be used as a default location to 
+“Distribute” the arrival stock.  This works 
+only under some “special” designed 
+programs.  
+
+=== PAGE 11 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 11 of 139 
+ 
+Purchase Order Expected Shipment Table  Screen  
+ 
+ 
+User input the expected delivery schedule in this table for reference.  
+ 
+ 
+ 
+ 
+
+=== PAGE 12 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 12 of 139  
+Purchase Order Detail Maintenance Screen  
+ 
+Detail Items Input  
+ 
+The data fields in the menu shown mostly are explained by themselves except may be a 
+few of them need to be elaborate further:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User may input PO qty dire ct in this field, or input from 
+"Color & Size" button if the item has color and size 
+break down.  
+This "Save" Button will save the PO 
+record into PO Master on -line 
+
+=== PAGE 13 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 13 of 139  
+The Column Legend for Pur chase Order  
+ 
+ 
+ Column  Function Description  
+ 
+1 List Price  The List Price of this purchase item  
+ 
+2 Def Disc%   The default discount % of this Purchase item;  
+ In order the system able to retrieve this default discount 
+value automatically, it is required pre -set by user in master 
+table in advance;  
+ This disc% value can be set either in Supplier Master or 
+Supplier PO Discount Table under Purchase Order Module  
+. 
+3 Ovr Disc%  
+  This is the manual over ride discount input by user incase 
+of the default discount is not  applicable;  
+ The system will take this discount for purchase unit cost 
+calculation if available; or user the default discount if 
+otherwise  
+ 
+4 Unit Cost   This is unit purchase cost either calculated by the system; 
+OR 
+ User self input a figure over riding all  system calculation;  
+ The figure will turn RED  if this value is different than 
+default PO cost for user alert;  
+  
+5 Qty  Purchase Qty. Input by user  
+  
+6 Order 
+Amount  A system calculation field based on unit purchase by purchase 
+Qty 
+ 
+7 Unit Unit of measure  of the purchase item  
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 14 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 14 of 139  
+6.2 Stock Receive  
+ 
+6.2.1 The Stock Recei ve WITH Regular Purchase Order  
+ 
+The Stock Receive Process is involving 2 major separate operations:  
+a) the stock balance update based on actual receive qty from warehouse or 
+receiving locations;  
+b) the stock weighted average cost update based on settlement cost (against 
+supplier‟s invoices) confirmed by Account Department, or relevant operator;  
+ 
+ 
+ 
+Part One : The Operation Flow of Receive Qty Stock Update  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock Qty 
+Receive  
+ Vendor Delivery 
+Note  
+ (DN) Maintenance  
+（Option al Input  
+only） 
+ 
+Physical Stock 
+Receive Input 
+against PO  
+ 
+Batch Validation  
+ 
+Receive Qty  
+ Stock Posting   
+Receive Reports   
+Physical Stock 
+Receive Input  
+WITHOUT PO  
+
+=== PAGE 15 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 15 of 139  
+
+
+=== PAGE 16 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 16 of 139 
+ 
+ 
+The Physical Stock Qty Receive Process :   a). The Stock Balance Updating  
+ 
+ 
+ This is the process to allow user input the stock receipt qty into the system for invent ory 
+balance updat e.  This stock receipt process could involve with or without a Purchase 
+Order (an optional module):  
+ 
+The Stock Receive Process WITH Purchase Order / DRV#  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Input the PO Number if the Stock 
+Receive is against PO;  
+ Or Leave blank by press OK to go for 
+full PO selection in next page.  
+
+=== PAGE 17 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 17 of 139 
+ 
+In case of blank i nput, the following screen will be display:  
+ 
+ All outst anding POs will be display for user‟s selection ;  
+ user has choice to view the POs in different sort paths – by Purchase Order# 
+(PO#), by Delivery Request #(DRV#), by Supplier, by Expected Delivery 
+Date, or by Receiving Location;  
+ User highlighted and mouse  click the desired row and a “x” will be marked 
+on the left indicating selection . Multiple selection allowed ; 
+ Press “NEW” button on tool bar on top will make the system to create a 
+receiving batch with default receive qty based on the outstanding qty of 
+selected POs automatically;  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Select the desired PO by pointing and mouse click;  
+ The selected PO is marked by “x” on the left;  
+ Multiple POs selection allowed;  
+ 
+
+=== PAGE 18 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 18 of 139 
+ 
+THE NEXT SCREEN ….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User needs to input the receiving location as 
+the pre -fix of a Receive Number  
+This part of Receive Number could be user input 
+or system generation. The field will be protected 
+is system g eneration parameter is chosen  
+User needs to input Supplier‟s 
+Delivery Note Number here. It is 
+important for Supplier Invoice 
+verification purpose in later stage  
+System auto g enerated field cannot 
+be input  Click to Item Information 
+Folder for next step when 
+all input fields are done  
+ 
+
+=== PAGE 19 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 19 of 139 
+Item Information Folder  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Color and Size input of a 
+particular Item / Style  Three(3) Receiving Status allowed under one Receiving Batch:  
+ Stock Receive under PO  
+ Stock Receive without PO  
+ Stock Receive under Delivery Request from a Blanket Order  
+ 
+The Blue Color  indicating which receiving status is now activated.  
+TEXT data import from external 
+source is allowed – Optional 
+feature.  
+Press this “SAVE”  button when all 
+input complete. This will lead user to 
+next Receive Confirmation Step.  
+
+=== PAGE 20 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 20 of 139 The Button Legend  for “Stock Receive Information Folder ” 
+ 
+ Button  Function Description  
+ 
+1 Insert  Insert an Item  
+ 
+2 Delete  Delete an Item  
+ 
+3 Select PO  This button allow user to inquire all outstanding Purchase 
+Orders of this particular supplier and make selection from 
+these POs. After selection, the system will bring in these 
+orders and make those outstanding PO qty as the default 
+receiving qty;  
+  
+4 Verify  The system will verify the input data once every time this 
+button is press. Warning or error message will be display in 
+status line after verification  
+ 
+5 PO Enquiry  To inquire Purchase Order details if press  
+  
+6 Color & S ize Input color and size details of the selected item  
+ 
+7 Description  Display the detail description of the selected item  
+ 
+8 Load  Import external TEXT data from a system directory. This 
+function require exact data format specified by the 
+application.  Ple ase consult our software consultant before 
+use; 
+  
+ Special Buttons   
+9 Model & 
+Guarantee No.   This is special function do not open for general user but 
+available only under special option.;  
+ This function allows user to input the item‟s unique 
+guarantee num ber and model number in stock receiving 
+stage;  
+ One item number associate only one guarantee 
+number – therefore one(1) only qty per each item (color 
+& size not allowed) is allowed if this option is used.  
+10 Item Create   This is special function do not open for general user but 
+available only under special option.;  
+ In some special business practice, user cannot create 
+item master in advance not until stock receiving 
+moment. This option therefore allows user to create a 
+new item record while stock receiving op eration is in 
+process..  
+ 
+
+=== PAGE 21 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 21 of 139  
+6.2.2 The Stock Receive Without Regular Purchase Order   
+ 
+For Stock Receive WITOUT Normal Purchase Order, or by Special custom  made PO , 
+may enter the Stock Receive Items from "Stock Receive Confirmation"  Menu in this 
+process as follows :  
+ 
+1. From The Main Menu  Click at "Stock Receive Confirmation" : 
+ 
+ 
+2. The Stock Receive Input Menu and Click "New" or "F7"  
+
+
+=== PAGE 22 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 22 of 139  
+3. The Stock Receive Header Input Screen will be displayed as follows:  
+ 
+ 
+Same Input procedure as in previous section "Stock Rec eive against PO / DRV#"  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Receipt No.  
+Input the Receiving Location Code and the 
+Receiving Number can be auto generate 
+depending on parameter setting;  
+
+=== PAGE 23 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 23 of 139  
+4. Input t he Receiving Item in Color & Size Detail for process WITHOUT PO  
+ 
+ 
+ 
+ 
+ 
+Select the Indicator 
+"Without PO"  Input Item Color & size 
+Detail after pressing this 
+button  
+Input the receiving Item Code  
+
+=== PAGE 24 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 24 of 139  
+6.2.3 The Stock Receive for Special PO (for special process only)  
+ 
+User still can "retrieve" special PO from this screen by pressing th e "Select PO" button as 
+follows (This PO retrieval process is for special operation only, May not for suitable for 
+general user operation:  
+ 
+ 
+ 
+After Pressing "Select PO button, the below screen will pop up for input"  
+ 
+This is a special 
+custom -made PO 
+retrieval key for special 
+operation only (Not for 
+general Customer):  
+ Season Code 
+Input , & 
+ Fabric Code Input  
+
+=== PAGE 25 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 25 of 139  
+After input the correct Season  and Fabric Code, the system will retrieve ALL related POs 
+matched with these two(2) parameter and display for user's selection;  
+ 
+ 
+ 
+The selected POs contain will be retrieved and placed as Receiving Items as follows for 
+user's receive confirmation:  
+ 
+
+
+=== PAGE 26 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 26 of 139 
+ 
+6.2.4 The Stock Receive Confirmation Process  after Input of Stock Receive Data  
+ 
+ 
+ 
+  Function  
+1 Modify Receive   This is Stock Receive Maintenance that allow user 
+to add, modify and delete receiving items within a 
+batch. User is recommended to make all necessary  
+correction before  go into next operation step.  
+ However, user is allowed roll back to this 
+maintenance for further data correction from work 
+steps below any time BEFORE Posting  in step 6;  
+ 
+2 Print Receive Report  Print the receiving qty into Print Queue  
+ 
+3 Generate Bar Code  Print Bar Code label for the receiving stock.  
+ 
+
+=== PAGE 27 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 27 of 139   Function  
+4 Generate Interface  Generate TEXT interface file based on the receiving 
+batch data. This is optional feature of the system  
+.  
+5 Receive Validation   Batch Validation.  The system require s the batch 
+must be validated before Posting. Validation 
+Report will be printed to Print Queue  
+automatically by the system  
+ User is required to check on the validation report 
+before go on to next POSTING step;  
+ User always could go back to the previous step  in 
+case of error is found.  
+ 
+6 Receive Posting  This is the final step in stock balance qty update. User 
+is required to ensure all data input in the batch is 
+accurate.  NO data change is allowed after posting. 
+Data cannot be reverted after this point.  
+7 Validation by Range  User has choice to validate the batch by range – if 
+more than one receiving batches in the system  
+   
+8 Posting by Range  User has choice to Post the batch by range – if more 
+than one validated receiving batches in the system  
+   
+ 
+ 
+ 
+ 
+
+=== PAGE 28 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 28 of 139  
+ 
+
+
+=== PAGE 29 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 29 of 139 
+ 
+ 
+The Vendor Invoice Update Process  :   The Invo ice Input & Confirmation  
+ 
+ 
+This is the process to allow user input the Vendor ‟s Invoice information against stock 
+receipt into the system for stock cost registration.   
+ 
+6.2.5 Vendor Invoice Input  / Creati on Maintenance  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press this NEW button for 
+creating new Vendor Invoice 
+input  
+Or point and click to an existing 
+invoice record for amendment  
+
+=== PAGE 30 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 30 of 139 
+The Next Maintenance Screen…….  
+ 
+<Header Information > 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input Vendor‟s Invoice 
+Number here   Input Vendor‟s Delivery Note #. 
+The system will auto retrieve the 
+correct delivery batch with qty 
+from system as default.  
+ Or user could inquire from 
+TABLE button for selection in 
+case of needed;  
+These are auto 
+calculation fields from 
+details of invoice   These are extra calculation f ields 
+defined by user;  
+ These charge code must defined in 
+Charge Table Master befo re hand;  
+ These extra costs have user definable 
+option whether should be included as 
+part of invoice value  
+
+=== PAGE 31 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 31 of 139 
+ 
+<Payment & Remarks>  Folder  
+ 
+ 
+This folder is use for the invoice's payment method input and all fields are strict forward 
+and self explana tory 
+ 
+ 
+ 
+
+=== PAGE 32 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 32 of 139 
+ 
+<The Item Information > Folder  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The system will auto display the 
+PO cost of this item, if it is stock 
+receive against PO   The system  will compare the PO cost 
+to the input invoice cost and feed 
+back the number in RED  if these two 
+numbers are not agreed.  
+ Please aware This RED number is 
+display for information only without 
+further action  
+ The system w ill compare the Invoice 
+Qty to Actual Receive Qty and feed 
+back the number in RED  if these two 
+numbers are not agreed.  
+ Please aware This RED number is 
+display for information only without 
+further action  
+  This process is for Invoice Data 
+Input maintenance only;  
+ User all to do is to make sure the 
+invoice data input correctly  against 
+vend or invoice (s) and then press 
+“SAVE” button to exit for next 
+“Invoice Verification” Process    
+
+=== PAGE 33 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 33 of 139 
+ 
+6.2.6 Vendor Invoice Verification Process  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User point at and double click the invoice 
+record for the next detail verification step  
+This check box allow user to verify more 
+than one invoice record at a time  
+
+=== PAGE 34 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 34 of 139 
+Vendor Invoice Verification Process  …… /cont.  
+ 
+ 
+The Column Legend  
+ 
+ Column  Function Description  
+ 
+1 PO#  The PO number of this receivin g item  
+ 
+2 List Price  The List Price of this receiving item  
+ 
+3 PO Cost  The Purchase Order Cost of this receiving item  
+ 
+4 Inv Cost   The Vendor‟s invoice billing cost of this receiving item.  
+ The figure will turn BLUE  if this value is different than PO 
+cost for user alert;  
+  
+5 Settle Cost   The Settlement Cost;  
+ This is user input field. Default is PO cost. User need to 
+input this field to indicate the final unit settlement cost , if 
+
+=== PAGE 35 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 35 of 139  Column  Function Description  
+ 
+different than PO default cost,  user want to pay for this 
+receiving item;  
+ The figure will turn RED  if this numbe r is different than 
+PO cost for user alert;  
+  Important : this final settlement cost will be used for 
+weighted average cost updat ing in Month End process once 
+confirmed by user in the next confirmation step  
+  
+6 Inv Qty   The Vendor‟s invoice billing Qty of this receiving item;  
+ The figure will turn BLUE  if this value is different than 
+Physical Receiv ed Qty for user alert;  
+ 
+7 Recv Qty  The Actual Receiving Qty reported from user department – such 
+as warehouse or other receiving locations;  
+ 
+8 Settle Qty   The Settlement Qty;  
+ This is user input field. Default is Receive Qty. User need 
+to input this field to indicate the final confirmed qty for this 
+receiving item;  
+ The figure will turn RED  if this number is different than 
+Receiving Qty for user alert;  
+  The final settlement qty will be used for invoice settlement 
+calculation once confirmed by user in the next confirmation 
+step.  Relevant Stock Adjustment  transactions  will be 
+generated by the system automatically based on the 
+confirmed invoice qty  to recover variance  from warehouse 
+qty receiving in early stage , if any . 
+  
+9 Settle Amt  Auto calculation field based on settled cost and settled qty  
+  
+10 Unit Unit of measure of the receiving item  
+ 
+11 Loc The receiving location for user‟s reference  
+ 
+ 
+ 
+ 
+The Button Legend  
+ 
+ Button  Function Descrip tion 
+ 
+1 Verify  The system will verify the input data once every time 
+this button is press. Warning or error message will be 
+display in status line after verification  
+
+=== PAGE 36 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 36 of 139  Button  Function Descrip tion 
+ 
+ 
+2 PO Enquiry  To inquire Purchase Order details if press  
+  
+3 Color & Size  Input color a nd size details of the selected item  
+ 
+4 Description  The description of the selected receiving item  
+ 
+5 Recv Qty  The detail break down of actual receive qty done by 
+receiving user department – such as warehouse or other 
+receiving locations;  
+ 
+ Special Butt ons  
+6 Inv Remarks  Invoice Remarks areas.  
+  
+ 
+ 
+ 
+
+=== PAGE 37 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 37 of 139 
+ 
+6.2.7 Vendor Invoice Confirmation Process  
+ 
+ This process is ma de for vendor invoice  CONFIRMATION  only and therefore 
+amendment to data is not allowed.  
+ 
+ User needs to go back to Vendor Invoice Verification Proces s in previous menu for 
+data amendment if necessary;  
+ 
+ This process has same user interface as Invoice Verification Process. The system 
+will log down all costs details in Receiving Cost journal once confirmed. The 
+inventory cost updating JOB will therefore b e performed by the system in Month 
+End process automatically afterward;  
+ 
+ 
+ 
+
+=== PAGE 38 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 38 of 139 
+ 
+6.2.8 Stock Receipt Expense Input   
+ 
+From time to time, there were always some stock expenses or costs come in late or 
+occurred after the stock was received, updated and sometime even sold.   
+ 
+In order to cover this real business environment, the application has developed a special 
+“Inventory Cost Recalculation” routine to recover this late cost insertion situation. The 
+system able to accept late inventory expenses i.e. insurance, freight charges, rebates, 
+commission …etc. in date sequence by Receiving Batch basis.  The system therefore will 
+re-calculate each item‟s weighed average cost in date order at “MONTH END Process” 
+regardless the item status was sold at the moment of data input  - but the expenses dat e of 
+course cannot be earlier than the date of stock receiving batch.  
+ 
+ 
+ 
+ 
+ 
+ 
+ This is expenses code Table Master  
+This is the stock receiving batch information need to be input by user. 
+The system will re -calculate the  stock cost based accordingly. A cost 
+change history log record will be generated by the system automatically.  
+
+=== PAGE 39 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 39 of 139  
+ 
+Important Notice:  
+ 
+ This cost adjustment / recalculation process is performed automatically based on 
+system‟s log files at Month End Process;  
+ No further changes or Expenses input is allow ed to previous months once the Month 
+End process of the month is done;  
+ Therefore some cost information or GP analysis could be changed or may be 
+different between before  and after Month End process es 
+ The re-calculated “journal transaction costs ” in those months that  have successful  
+Month End  should be considered as final and will be stayed unchange d in the system.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 40 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 40 of 139  
+6.3 Stock Transfer  
+ 
+6.3.1 Location Transfer  
+ 
+This is a Stock Transfer Process for transferring MANY  items to one or many 
+locations at once.  The system called this process as Location Oriented Transfer .  
+This is particular useful for situation of removing stock items from one location to 
+another.  
+ 
+Objectives : - Issue transfer processes for a particular item in every record  
+ 
+Functions : - 1. Batch M aintenance  
+1.1 Create Record  
+1.2 Modify Record  
+1.3 Delete Record  
+2. Batch Validation  
+3. Generate Pick List - Transfer Pick List generation process, 
+the warehouse personnel transfer items 
+by referring the information in this list.  
+4. Batch Amendment - Modif ication of batch information can 
+only be done by this process when Pick 
+List generation (3. above) has completed 
+for this batch.  
+5. Print Amendment List - Transfer Amendment List generation 
+process. This is the most updated list 
+that warehouse personnel sh ould 
+refer to during perform items transfer.  
+6. Generate Labels & D/O - Labels and Delivery Note 
+generation.  
+7. Batch Posting  
+8. Modify Description  
+9.   Modify Remark  
+10. Scratch Batch  
+11. Clear In Use Status  
+12. Change Status  
+13. Search Up  
+14. Search Dow n 
+ 
+Status : -    1. Input - Batch is in data input mode  
+2. Validated - Batch has been validated  
+3. Pick Gen. - Pick List generation process has completed  
+4. Amd Create - Batch Amendment has been created  
+
+=== PAGE 41 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 41 of 139 5. Amd Print - Amendment List generation process has  
+   completed  
+6. Label Prt - Labels & D/O generation process has  
+   completed  
+7. Partly Pst - Error occurred during posting, batch is needed 
+to be posted again  
+
+=== PAGE 42 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 42 of 139  
+Workflow of Location Transfer Process (Manual Data Input) : 
+ 
+             The functions that we  have discussed above have their process sequence,  
+             this is to say, they are sequence dependent. The workflow of this process  
+             is shown as follows:    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Batch Maintenance  
+Batch Validation  
+Generate Pick List  
+Batch Amendment  
+Print Amendment List  
+Generate Labels & D/O  
+Batch Posting  
+
+=== PAGE 43 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 43 of 139 Workflow o f Location Transfer Process (by Hand Held Scanner Input  Option ): 
+ 
+ 
+ 
+
+
+=== PAGE 44 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 44 of 139  
+Location Transfer Process Screen Display : - 
+ 
+Menu Screen  
+ 
+ 
+ 
+ 
+Function  Description  
+ 
+<Enter>  - Search for the desire record that user decide to 
+process  
+- Verify the input while input is done  
+- Start modification mode during record is found  
+ 
+F1 - Confirmation of Transfer record  
+ 
+F5 - Search for previous page of inquiry screen  
+ 
+F6 - Search for next page of inquiry screen  
+ 
+ESC - Abort and return to previous screen  
+ 
+
+
+=== PAGE 45 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 45 of 139 Maintenance Screen  
+ 
+ 
+ 
+Promp t Description  
+ 
+Ref. No.  9(08) - Display only  
+- Reference number for location transfer  
+- auto-generated by system during record confirmation  
+ 
+Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+- Date of transfer made  
+- Default as system date, user can overwrite it  
+ 
+Del Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+- The delivery date of transfer made  
+ 
+From Loc.  X(04) – Must Field  
+  
+Remark  X(40) – Optional Field  
+ 
+Seq. 9(03) - Display only  
+- Sequence number of transfer information  
+- maximum 500 sequence numbers in every re ference 
+no. 
+ 
+Item  X(14) - Must field  
+- Code of item to be transferred  
+ 
+Color  X(03) - Must field if item has color control  
+
+=== PAGE 46 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 46 of 139 - Color of item to be transferred  
+ 
+Size X(04) - Must field if item has size control  
+-  Size of item to be transferred  
+ 
+To Loc.  X(04) - Must field  
+- Destination location of transferred item  
+ 
+Qty. S9(07) – Must field  
+- the transfer qty input  
+ 
+Description  X(40) - Display field  
+- Total transfer quantities of this location in particular 
+reference no.  
+ 
+Total  9(07) - Display field  
+- Total tran sfer quantities of this location in particular 
+reference no.  
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Insert  --Insert new item input  
+ 
+Delete  --Delete select item record  
+ 
+Copy Item  --Copy previous item code only  
+ 
+Copy item & Co l --Copy previous item code and colo r 
+ 
+
+=== PAGE 47 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 47 of 139  
+6.3.2 Item Oriented Transfer  
+ 
+This is a Stock Transfer Process for transferring ONE  item to many locations at 
+once.  The system called this process as Item Oriented Transfer .  This is particular 
+useful for situation of op en season stock distribution, or daily stock replenishment 
+process in the warehouses.  
+ 
+Objectives : - Issue transfer processes for a particular item in every record  
+ 
+Functions : - 1. Batch Maintenance  
+1.1 Create Record  
+1.2 Modify Record  
+1.3 Delete Record  
+2. Batch Validation  
+3. Generate Pick List - Transfer Pick List generation process, 
+the warehouse personnel transfer items 
+by referring the information in this list.  
+4. Batch Amendment - Modification of batch information can 
+only be done by this process when P ick 
+List generation (3. above) has completed 
+for this batch.  
+5. Print Amendment List - Transfer Amendment List generation 
+process. This is the most updated list 
+that warehouse personnel should 
+refer to during perform items transfer.  
+6. Generate Labels & D/ O - Labels and Delivery Note 
+generation.  
+7. Batch Posting  
+8. Modify Description  
+9.   Modify Remark  
+10. Scratch Batch  
+11. Clear In Use Status  
+12. Change Status  
+13. Search Up  
+14. Search Down  
+ 
+Status : - 1. Input - Batch is in data input mode  
+2. Validated - Batch has been validated  
+3. Pick Gen. - Pick List generation process has completed  
+4. Amd Create - Batch Amendment has been created  
+5. Amd Print - Amendment List generation process has 
+completed  
+6. Label Prt - Labels & D/O generation process has 
+completed  
+
+=== PAGE 48 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 48 of 139 7. Partly Pst - Error occurred during posting, batch is needed 
+to be posted again  
+ 
+Workflow of Item Oriented Transfer Process : - 
+ 
+             The functions that we have discussed above have their process sequence,  
+             this is to say, they are sequ ence dependent. The workflow of this process  
+             is shown as follows:    
+ 
+Screen Display : - 
+     Menu Screen  
+ 
+ 
+ 
+The Item Oriented Transfer operational menu shows helpful information for user such as 
+batch number, division code, description of th e batch, the recent modification date, the 
+recent validation date, the creation date of the batch, and the status of the batch.  
+ 
+Function  Description  
+ 
+F5 - Search for previous page of Menu Screen.  
+ 
+F6 - Search for next page of Menu Screen.  
+ 
+ESC - Abort and  return to previous screen.  
+
+=== PAGE 49 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 49 of 139 Maintenance Screen  
+ 
+ 
+ 
+Prompt  Description  
+ 
+Ref. No.  9(08) - Display only  
+- Reference number for item transfer  
+- auto-generated by system during record confirmation  
+ 
+Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+- Date of transfer  made  
+- Default as system date, user can overwrite it  
+ 
+Item No.  X(14) - Must field  
+- Code of item to be transferred  
+ 
+Color  X(03) - Must field if item has color control  
+- Color of item to be transferred  
+ 
+Size X(04) - Must field if item has size control  
+-  Size of item to be transferred  
+ 
+Remark  -  Remark statement of the batch  
+
+=== PAGE 50 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 50 of 139 Stock In Location   
+ 
+W/H    X(04) - Display only  
+- warehouse location code has this item  
+ 
+Loc.   X(04) - Display only  
+- warehouse location code has this item  
+ 
+Qty. S9(07) - Display onl y 
+- the on -hand quantities of this item in warehouse  
+ S9(07) - Display only  
+- total quantities of this item in warehouses at the 
+button of qty column  
+ 
+Store  X(04) - Display only  
+- Store location code has this item  
+ 
+Qty. S9(07) - Display only  
+- On-hand quan tities of this item in store  
+ S9(07) - Display only  
+- Total quantities of this item in stores at the button of 
+qty column  
+ 
+Sales  9(04) - Display only  
+-  Sales quantities of this item at store  
+9(04) - Display only  
+- Total sales quantities of this item at st ores in the 
+button of sales column  
+ 
+Request  9(04) - Display only  
+-  Request quantities of this item at store  
+9(04) - Display only  
+- Total request quantities of this item at stores in the 
+button of request column  
+ 
+Item Transfer Detail   
+ 
+Seq 9(03) - Display only 
+- Sequence number of transfer information  
+- maximum 200 sequence numbers in every reference 
+no. 
+ 
+From  X(04) - Must field  
+- Location where item is taken from  
+ 
+To  X(04) - Must field  
+
+=== PAGE 51 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 51 of 139 - Destination location of transferred item  
+ 
+Quantity  9(07) - Must fie ld 
+- Transfer quantities of this item in particular transfer  
+9(07) - Display field  
+- Total transfer quantities of this item at the button of 
+this column  
+ 
+Function  Description  
+ 
+<Enter>  - Search for the desire record that user decide to 
+process  
+- Verify the input while input is done  
+- Start modification mode during record is found  
+ 
+F1 - Confirmation of Item Oriented Transfer record  
+ 
+F5 - Search for previous page of WAREHOUSE enquiry 
+screen  
+ 
+F6 - Search for next page of WAREHOUSE enquiry 
+screen  
+ 
+ESC - Abort an d return to previous screen  
+ 
+
+=== PAGE 52 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 52 of 139          
+Sample Item Oriented Transfer Amendment Screen : - 
+ 
+ 
+General Item Transfer Amendment information : - 
+ 
+1. Reference Searched Amendment information :  
+From Location, To Location  
+2. Item Page information :  
+Item Code, Item C olor & Size, Original Qty, Amended Qty, Desc. , Total Original 
+Qty and Amended Qty.  
+ 
+
+
+=== PAGE 53 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 53 of 139  
+6.3.3 Stock Transfer Receive Confirmation  
+ 
+CS2000 requires Stock Transfer Receive Confirmation Process for ALL stock 
+transfer operation.  This is a control process to make sur e the transfer out quantity 
+are correctly received by the receiving party with confirmation.  
+ 
+In case of discrepancy, a Stock Transfer Receive Recovery & Adjustmen t process is 
+required and will be discussed in next section.  
+ 
+ 
+ 
+ 
+ 
+ Highlight and click, or press enter at the Stock Transfer record by using 
+the Transfer Note Reference No.  
+
+=== PAGE 54 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 54 of 139  
+Confirm the Receiving Quantity:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The System will generate Discrepancy Record(s) automatically if Delivery and Receiving 
+Qty are disagreed.  These Discrepancy Records therefore require future attention for 
+manual Recovery and Adjustment and will be discussed in next  section.  
+ 
+ The "Rec Qty" column will be filled with default value equal to D/N Qty  
+ User could just confirm the "Rec Qty" without change or in put if the receiving qty is 
+equal to D/N qty;  
+ Amend receive qty on "Rec Qty" column in case of discrepancy. The sample above 
+showing D/N = 8 pcs and Rec Qty = 7 pcs.;  
+ The Variance Qty will auto display under "Var." column once input  
+ Confirm if your input i s correct.  
+
+=== PAGE 55 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 55 of 139 6.3.4 Stock Transfer Receive Recovery & Adjustment  
+ 
+This is the process for recovering the discrepancy of stock transfer qty between locations.  
+Sometime this is a necessary procedure when we have a disagreement of transfer qty.  As 
+the stock transfe r receiving location confirms stock receiving disagreement, we may need 
+to determine which side of the party may be responsible for this disagreement, or none 
+them.    
+ 
+Only disagreed transfer records are shown. All records are displayed in a sorted sequen ce 
+of Transfer Reference Order Number.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The (*) signal those records are waiting to be recovered.   
+
+=== PAGE 56 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 56 of 139  
+Stock Transfer Recovery Detail Input  
+ 
+This screen will show the discrepancy details of that particular Transfer Note.  User has 
+to determine who is the right party to responsible for the disagreed qty.  
+ 
+The system will generate proper adjustment records to recover this disagreement 
+according to user‟s input. In case there is none of both party do responsible for the 
+discrepancy, user may needs to „write off‟ by performing Physical Adjustment 
+independently from the application.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 57 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 57 of 139  
+6.3.5 Transfer Batch Generation  
+ 
+Screen Display: - 
+ 
+This process allows user to generate stock transfer batch from once location to another 
+location automatically thru parameter selection as provided in the screen below:  
+ 
+This is particular useful especially under situations like new shop opening, shop to shop 
+removal, or complete stock return from one location to others may be due to season end, 
+or some other reasons.  
+ 
+ 
+Prompt    Description  
+ 
+Batch No    X(02) - Must field  
+- a unique number which indicates the Transfer 
+Batch Number  
+ 
+From Loc.    X (04) – Must field   
+- From Transfer Location  
+ 
+To Loc.    X (04) - Must field  
+- To Transfer Location  
+ 
+From Season    X (02) - Must field  
+- From Season  
+ 
+
+=== PAGE 58 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 58 of 139  
+To Season    X (02) - Must field  
+- To Season  
+ 
+From Category    X (03) - Must field  
+- From category  
+ 
+To Category    X (03) - Must field  
+- From category  
+ 
+From Item    X (14) - Must field  
+- From item  
+ 
+To Item    X (14) - Must field  
+- to item  
+ 
+Transfer Qty    X(07) - Display field  
+- Qty to be transfe r 
+ 
+Negative Stock Transfer  Radio button - Optional field  
+- include negative stock transfer or not to other 
+location  
+ 
+Function  Description  
+ 
+<Enter>  - Verify the input while input is done  
+ 
+F1 - Enter confirm to print transfer batch  
+ 
+ESC - Abort and return to  previous page  
+
+=== PAGE 59 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 59 of 139  
+6.3.6 Stock Transfer Process (The New Edition)  
+ 
+This is the new Stock Transfer Process available from ChainStore2000 version 6.4 or 
+after.  The new process will merge the both Item Oriented Stock Transfer and Location 
+Oriented Stock Transfer into one process –under one data batch file with two different 
+user interface functions.  
+ 
+The major benefit of this new combined transfer process is allow user has choice to 
+choose the most desirable interface, either item oriented or location oriented all un der one 
+data batch, anytime at user's best fit situation.  
+ 
+ 
+ 
+ 
+
+
+=== PAGE 60 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 60 of 139  
+Fig -1 : The Stock Transfer Batch Control Page  
+ 
+ 
+ 
+ 
+This is the Stock Transfer Process “workflow ” panel.  
+ 
+In this box, user is allowed only for the fun ctions are 
+available in the “Light -Up” status, and those dimmed 
+processes are prohibited from user.    
+
+=== PAGE 61 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 61 of 139  
+Fig -2 : The Stock Transfer Maintenance – By Location  & by Item  
+ 
+ 
+ 
+ 
+ User has choice either to edit 
+the data by Location or by 
+Item Mode;  
+ This sample is display ed in 
+"Location Transfer  & Line " 
+mode  
+ The use of different 
+operational mode depending 
+on business operation al 
+practice;  
+ such as general stock 
+transfer may use Location 
+Transfer, or Daily Stock 
+Replenishment may use Item 
+Transfer for better result…  
+ This sample is display 
+in "Item Transfer 
+Mode"  
+
+=== PAGE 62 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 62 of 139  
+Fig -3 : The Stock Transfer Maintenance – By Location  in LINE mode  
+ 
+ This Line Mode by location interface will display all transfer items for One(1) single 
+location at a time.  
+ 
+ 
+In Stock T ransfer Line mode display, 
+the system display the following 
+information for user' reference when 
+input Stock Transfer data:  
+ Physical Stock on Hand (SOH) 
+of the outgoing locations (usually 
+is warehouse)  
+ Available SOH of the going 
+location – this will deduc t the 
+transfer stock qty requested by 
+other data batches, therefore –ive 
+qty in RED ink will be display 
+for insufficient SOH;  
+  Physical Stock on H and (SOH) of the 
+receiving locations (usually is shop )  
+ SOH of the receiving location;  
+ Sales - this is the POS Sales Qty come 
+from Shop's Replenishment Data and 
+showing the sales qty of that shop during 
+replenishment for user's reference  
+ Transfer - this i s the Transfer Qty come 
+from Shop's Replenishment Data and 
+showing the transfer qty of that shop 
+during replenishment for user's reference  
+ Request - this is the Extra Request Qty 
+come from Shop's during replenishment 
+period for user's reference  
+
+=== PAGE 63 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 63 of 139  
+Fig -4 : The Stock Transfer Maintenance – By Location  in MATRIX  mode  
+ 
+ This Matrix Mode by location interface will display ONE(1) tr ansfer items with 
+color and size details in Matrix Form for One(1) single location at a time.  
+ 
+ 
+ 
+ 
+This is the Transfer 
+qty requested by 
+user  This is the SOH qty of the receiving 
+location, i.e. the receiving shop  
+This is th e SOH qty of the outgoing 
+location, i.e. the warehouse  
+ 
+
+=== PAGE 64 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 64 of 139  
+Fig -5 : The Stock Transfer Maintenance – By Item  in LINE  mode  
+ 
+ This Line Mode by ITEM transfer interface will display ONE(1) Transfer item  for 
+ALL Locations at a time.  This may be helpful for situation when distributing 
+/transferring one Item to many shops plus the shops SOH for reference  
+ 
+ 
+ 
+ 
+ 
+This is the Qty and the 
+transfer locations you want to 
+be trans ferred  This is the Item that you 
+want to transfer  This is the SOH information of 
+all locations including shops 
+and warehouses for reference  
+
+=== PAGE 65 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 65 of 139  
+6.4 Inventory Control  
+6.4.1 Physical Adjustment Process  
+ 
+Objectives : - The Physical Adjustment Process allo ws user to make correction 
+on stock qty with history journal.  
+ 
+Functions : - 1. Batch Maintenance  
+1.1  Create Record  
+1.2  Modify Record  
+1.3  Delete Record  
+2. Batch Validation  
+3. Batch Posting  
+4. Modify Description  
+5. Scratch Batch  
+6. Clear In Use Status  
+7. Change Status  
+8. Search Up  
+9. Search Down  
+ 
+Status : - 1. Input  - Batch is being input by operator  
+2. Validated  - Batch has been validated  
+3. Partly Pst  - Error is occurred during posting, batch needs to 
+be re -posted  
+
+=== PAGE 66 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 66 of 139 Screen Display : - 
+Menu Screen  
+ 
+ 
+Func tion Description  
+ 
+F5 - Search for previous page of Menu Screen.  
+ 
+F6 - Search for next page of Menu Screen.  
+ 
+ESC - Abort and return to previous screen.  
+ 
+
+=== PAGE 67 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 67 of 139 Batch Maintenance Screen  
+ 
+ 
+ 
+Prompt  Description  
+ 
+Ref. No.  9(08) - Display only  
+- Reference number for Physical I/O record  
+- auto-generated by system during record confirmation  
+ 
+Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+ 
+Location Code  X(04) - Must field  
+- Location where the physical I/O process is going to 
+performed  
+- Location description will be displayed  beside  
+ 
+Remarks  X(40) - Must field  
+- Remarks of particular Physical I/O record  
+ 
+Seq 9(03) - Display only  
+- Sequence number of item information  
+- maximum 200 sequence numbers in every reference 
+no. 
+ 
+Item No.  X(14) - at least one in every reference no.  
+- maximum 200 items in every reference no.  
+ 
+Col X(04) - Must field if item has color control  
+- Color of the item which need to be adjusted  
+ 
+
+=== PAGE 68 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 68 of 139 Size X(04) - Must field if item has size control  
+- Size of the item which need to be adjusted  
+ 
+Adjust  S9(07) - Must fiel d 
+- Adjusted quantity for the corresponding item  
+ 
+ 
+description  X(40) - Optional  
+- for reference only  
+ 
+Total  S9(07) - Display only  
+- Total adjust quantity  
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Insert  --Insert new item input  
+ 
+Delete  --Delete select item record  
+ 
+Copy Item  --Copy previous item code only  
+ 
+Copy item & Col  --Copy previous item code and colour  
+ 
+
+=== PAGE 69 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 69 of 139   
+6.4.2 Physical Count Process  
+ 
+Objectives : - Performs stock updating process after stock has been counted 
+physically.  
+ 
+Prerequi sites : - User must process Freeze On Hand Quantity before going to create 
+a physical count batch information.  Since the final stock posting 
+job usually is done much later than count input, therefore the Freeze 
+process is became an important step for the f inal calculation of 
+correct stock on hand after all batches were finally posted.  
+ 
+Procedures : - 1.  Create a new batch with respect to a particular location ;  
+To Proceed  
+ 2.   Activate Freeze On Hand Quantity process for items 
+involved in the location of t he batch;  
+ 
+3.  Perform physical count of stock with respect to the time 
+when Procedure 2 is done. Input physical stock count values vusing 
+Batch Maintenance  program  where same item can be input as many 
+times since item consolidation will be done by the sys tem later;  
+ 
+4.   Validation Process – Stock Variance Report generation  
+ 
+5.  Perform physical count batch posting after batch has been 
+validated . The calculation  of item ‟s stock on-hand quantity  after 
+Stock Take posting is :-  
+ 
+ 
+Current_On_Hand + (Physical _Stock Take Qty  - Freeze_On_Hand  
+ 
+ 
+Current_On_Hand : 
+ Current on hand quantity of item in stock  
+Physical_ Stock Take Qty:  Physical Stock Take value On hand 
+quantity of item found physically in 
+stock(Procedure  # 3) 
+Freeze_On_Hand  : On hand quantity of item when freeze 
+(Procedure  # 1) 
+ 
+Physical adjustment journal will be generated if difference is found 
+in Physical Count records.  
+ 
+For those stock items are existed in the stock but did not find in 
+Physical Count record in the location, zero on hand quantity w ill be 
+set to th ose items once P hysical Stock Take has been posted  
+(Procedure #5) . 
+
+=== PAGE 70 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 70 of 139  
+ 
+Functions : - 1. Freeze On Hand Quantity  
+   This is the first Must step in Physical Count Process. The 
+Freeze process will perform a snap -shot of current stock on-
+hand qua ntity and its average cost .   
+2. Batch Maintenance  
+2.1  Create Record  
+2.2  Modify Record  
+2.3  Delete Record  
+3. Batch Validation  
+4. Batch Posting  
+5. Modify Description  
+6. Scratch Batch  
+7. Clear In Use Status  
+8. Change Status (Input, Validated)  
+ 
+ Status : - 
+ 
+          1  Input  -  Batch is being input by operator  
+2. Validated  - Batch has been validated  
+3. Partly P osted - Error is found during posting,  
+     records need to be recovered, batch  
+needs to be re -posted  after recovery.  
+ 
+
+=== PAGE 71 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 71 of 139  
+Workflow of Physical Count Batch Control Process is as follows: - 
+ 
+The functions that we have discussed above have their process sequence,  
+this is to say, they are sequence dependent. The workflow of this process  
+is shown as follows:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Manua l 
+Process  
+ 
+(Hand Held Scanning  
+Work flow to be discussed  
+In next page)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Post all outstanding 
+transaction Batch es in 
+the system before stock 
+take process  
+ 
+Freeze Stock On-Hand 
+qty  
+Physical Stock Take at 
+Location (s) 
+Stock Take data input 
+using Batch 
+Maintenance  
+Batch Validation & 
+Stock Variance Report  
+Batch Posting  after 
+user verification 
+complete  Fill in Count Sheet 
+(for manual operation ) 
+
+=== PAGE 72 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 72 of 139  
+ 
+
+
+=== PAGE 73 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 73 of 139 Step 1 : Stock Freeze Operation  
+ 
+Clean up ALL outstanding data batches of the stock take location and perform Stock 
+Freeze.  
+ 
+ 
+
+
+=== PAGE 74 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 74 of 139  
+Stock Freeze Operation – Input the Stock  Freeze Range of the Location  
+ 
+ Leave Blank for 'Select ALL' of the Range  
+ After Selection and "Confirm", the system will "Freeze" (taking a snap -shot) the 
+stock's current qty status at today's system date;  
+ Stock Variance calculation therefore will based on this freeze  / snap -shot qty 
+compare to the Input Physical Stock Qty (or upload by Hand Held) in next stage  
+ 
+Importan t:  There should be NO System Stock Movement Update or Stock Activities in 
+the Stock Take Location for the period between Stock Freeze and P hysical  Stock Count  
+Complete.  
+ 
+ 
+Freeze Stock Selection Screen Display:  
+
+
+=== PAGE 75 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 75 of 139  
+Step 2:  Physical Count Stock Input Batch  
+ 
+After stock freeze operation, user could start to input physical stock count input the 
+system from the screen shown below.  
+ 
+Stock Activi ties Resume Normal  
+Since the physical stock counting process should be already completed in this input stage, 
+User may FREE to resume stock activities for the stock count location as normal – 
+provided you MUST sure the physical counting is completely finis hed.   
+ 
+Screen Display : - 
+Physical Count Stock Input Batch Screen after Stock Freeze  
+ 
+ 
+From the above menu screen titled Physical Count Batch Control, helpful  
+information is shown for user reference such as its batch number, the location that 
+physical co unt is going to perform, an description of the batch, the recent 
+modification date of the batch, the recent validation date of the batch, the date of on -
+hand quantities are freeze, and the status of the batch.  
+ 
+
+
+=== PAGE 76 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 76 of 139  
+Batch Maintenance Screen  
+ 
+ 
+Prompt  Descri ption  
+ 
+Ref. No.  9(08) - Display only  
+- Reference number for Physical Count record  
+- auto-generated by system during record confirmation  
+ 
+Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+- Date of physical count record made  
+ 
+Count Sheet No.  X(15) - Must field  
+- Count sheet number for reference used  
+ 
+Remarks  X(20) - Optional field  
+- Remarks of the physical count record  
+ 
+Seq 9(03) - Display only  
+- Sequence number of item information  
+- maximum 200 sequence numbers in every record  
+ 
+Item No.  X(14) - at least one in eve ry record  
+ 
+
+
+=== PAGE 77 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 77 of 139 Col. - Must field if item has color control  
+- Color of the item  
+ 
+Size - Must field if item has size control  
+- Size of the item  
+ 
+Quantity  9(08) - Must field  
+- Physical Count quantity  
+ 
+Description  Optional  
+- for reference only  
+ 
+Total Qty  9(08) - Display only  
+- Total physical count quantities of the record  
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Insert  --Insert new item input  
+ 
+Delete  --Delete select item record  
+ 
+Copy Item  --Copy previous item code only  
+ 
+Copy item & Co l --Copy previous item code and colour  
+ 
+ 
+
+=== PAGE 78 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 78 of 139 Step 3:  -  Stock Count Validation and Variance Report Printing  
+ 
+After the Physical Count Data Input and verified, you may want to validated the Input 
+Data and print the Stock Variance Report by the system .  
+ 
+Screen Display :  Data Validation & Variance Report Printing  
+ 
+ 
+ 
+ 
+ 
+ 
+Step 4:  -  Stock Take Posting  
+ 
+ This is the final job for the Stock Take Process.  The system will use the final 
+validated input Stock Count Data to compare the Stock Freeze qty produc e a 
+variance qty and update to Inventory as final.  
+ Corresponding Update journal / history records will be generated.  
+ 
+ 
+ User is free to chose the different print options for Stock Variance 
+Reports  
+
+=== PAGE 79 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 79 of 139   
+6.4.3 Stock Replenishment  
+ 
+Objectives : - The stock replenishment process is based on the sales, POS 
+transfer and supplemented request by each sho p location. It 
+generates item oriented transfer batches automatically after the  
+„Sales and Request Consolidation‟ process is done.  
+ 
+Functions : - 1. Request Batch Maintenance  
+2. Request Batch Validation  
+3. Sales and Request Consolidation  
+- Performs sales and request consolidation that generates an 
+item oriented transfer batch automatically for particular 
+location. (See Additional Screen)  
+4. Modify Description  
+5. Scratch Batch  
+6. Clear In Use Status  
+7. Change Status (Input, Validated)  
+ 
+Status : - 1.   Input  -  Batch is being input by operator  
+2. Validated  - Batch has been validated  
+3. Partly Pst  - Error is occurred during posting, batch needs to be 
+re-posted  
+
+=== PAGE 80 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 80 of 139 Workflow of Stock Replenishment Batch Control Process : - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+From the Stock  Replenishment Batch Control, helpful information is provided such 
+as its batch number, the division code, description, the last modification date of the 
+batch, the last validation date, batch creation date and the status.   
+ 
+ Request Batch 
+Maintenance  
+Batch 
+Validation  
+Sales / Request 
+Batch Post ing 
+Item Oriented 
+Transfer Batch 
+Generation  
+
+=== PAGE 81 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 81 of 139 Function  Description  
+ 
+F5 - Search for previous page of Menu Screen.  
+ 
+F6 - Search for next page of Menu Screen.  
+ 
+ESC - Abort and return to previous screen.  
+ 
+Batch Maintenance Screen  
+ 
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Insert  --Insert new item inpu t 
+ 
+Delete  --Delete select item record  
+ 
+Copy Item  --Copy previous item code only  
+ 
+Copy item & Col  --Copy previous item code and colour  
+ 
+ 
+
+
+=== PAGE 82 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 82 of 139  
+Batch Maintenance Screen  
+ 
+ 
+Prompt  Description  
+ 
+Ref. No.  9(08) - Display only  
+- Reference number for Stock Request r ecord  
+- Auto -generated by system during record confirmation  
+ 
+Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+- Date of request made  
+ 
+Location Code  X(04) - Must field  
+- Location where issue stock request  
+- Name of location will be displayed beside if existed  
+ 
+Rem arks X(40) - Optional field  
+- Remarks of stock request record  
+ 
+Seq 9(03) - Display only  
+- Sequence number of item information  
+- maximum 200 sequence numbers in every record  
+ 
+Item No.  X(14) - at least one in every stock request record  
+- maximum 200 in every  stock request record  
+- Code of item to be requested  
+ 
+Col X(03) - Must field if item has color control  
+- Color of item to be requested  
+ 
+Size X(04) - Must field if item has size control  
+- Size of item to be requested  
+ 
+
+=== PAGE 83 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 83 of 139 Quantity  9(07) - Must field  
+- Request q uantity of item to be requested  
+ 
+ 
+Description  X(20) - Display only  
+- Description of item to be requested  
+ 
+Total Request Qty.  9(07) - Display only  
+- Total request quantity of the stock request record  
+ 
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while  input is done  
+ 
+Insert  --Insert new item input  
+ 
+Delete  --Delete select item record  
+ 
+Copy Item  --Copy previous item code only  
+ 
+Copy item & Col  --Copy previous item code and colour  
+ 
+Sample Procedure in operating Stock Replenishment Batch Control  
+    
+From the  Stock Request Maintenance Screen, user can search the previous and next 
+record of Stock request by pressing F5 and F6 respectively.  
+ 
+After the desired record has been found, user can modify the data of Stock Request 
+record.  User can search the Item Infor mation Page (maximum 20 pages with 200 Stock 
+Request records). There are also two copy functions to allow copy previous input line‟s 
+information to the current input line as speed input.  
+ 
+After all the data is completely input, confirm ed or save the data by pressing F1 or exit 
+(without input data saving) to the previous by pressing ESC.  
+ 
+This batch is now ready to go for „Sales / Request Consolidation‟ process for Item 
+Oriented Transfer Batch generation.  
+ 
+
+=== PAGE 84 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 84 of 139 
+ 
+ 6.4.4 Open Item Recovery Process  
+ 
+This is the process al lows back office user to recovery the actual item code sold in sales 
+memo, where the salespersons were entered as an open item from POS.  
+ 
+ 
+Objective: - Allows user input the correct item code from this back office 
+process, where this sold item was entered as an open item from 
+POS at sale  
+ 
+Prerequisites: - Make sure the replaces item code has already created in Item 
+Master Maintenance.  
+ 
+Functions: - 1. By Sales Memo no.  - Inquiry displayed by Sales Memo 
+number as the reference key.  
+2.  By Sales Memo date - Inquiry displayed by Sales Memo date 
+as the reference key.  
+ 
+*** The selection of  Open Item status (i.e. Blank for All; „O‟ 
+for Outstanding) is required in the search.  
+(SEE Open Item Process Search Window (1) & (2))  
+ 
+Attention: - Open item journal history a nd Outstanding open item 
+journal can only be shown on index screen. On the other 
+hand, open item replacement can only be performed if and 
+only if the sales memo is marked outstanding Open item(s).  
+ 
+Screen Display : - 
+ 
+Open Item Recovery Process Index Scree n  ==> 
+ 
+ 
+
+=== PAGE 85 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 85 of 139 
+ 
+ General Open Item Recovery Process index information : - 
+Sales Memo number, Sales memo issue date, Total quantities of items, Sales 
+amount, Discount, Net sales amount, Miscellaneous amount, Saleslady code.  
+ 
+ 
+Function  Description  
+ 
+F1 - Pop up a Sea rch window and lets user input his/her 
+desired record (F1 -Search, F10 -Abort)  
+ 
+F5 - Search for previous page of Open Item Recovery 
+Process Index  
+ 
+F6 - Search for next page of Open Item Recovery Process 
+Index  
+ 
+F10 - Abort and return to previous screen  
+  
+Open  Item Recovery Process Amendment (Detail) Screen ==> 
+ 
+ 
+A asterisk „*‟ indicates that there is an outstanding open item entry 
+allowed for amendment.  All Other information of that entry such 
+as sold price, discount … .etc. cannot be changed except only the  
+item code.  
+
+
+=== PAGE 86 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 86 of 139 
+ 
+ 6.4.5 Return To Supplier  
+This function allows user to return goods to supplier. In some cases, such as wrong 
+delivery or damaged product, the company need to return those products to the supplier.  
+  
+Objectives : - Issue return order to a particular supplier and fulfill the stock 
+related transaction control in the system.  
+ 
+Functions : - 1. Batch Maintenance  
+1.1 Create Record  
+1.2 Modify Record  
+1.3 Delete Record  
+2. Batch Validation  
+3. Generate RTS List  
+4. Generate RTS Note  
+5. Batch Posting  
+ 
+Status : - 
+ 
+Input - Batch is in data input mode  
+Validated - Batch has been validated  
+RTS List - RTS List has been generated  
+RTS Note -  RTS Note has been generated  
+ 
+Workflow of Delivery Order Batch Control: - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Batch Maintenance  
+Stock Receive Input 
+without PO (or Receive 
+Confirmation ) 
+Batch Validation  
+Generate RTS Note  
+Batch Posting  
+
+=== PAGE 87 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 87 of 139 
+ 
+  
+Screen display <Return To Supplier>==>  
+ 
+ 
+ 
+Function  Description  
+ 
+F1 - Select the batch that user decided to process by 
+moving the selection bar at the batch number.  Then 
+an operation menu with the functions that described 
+in Functions above will be shown and let user choose 
+the op tions.  
+ 
+F2 - Activate the Search Pop Up Window in order to let 
+User enter a desired batch number and move the 
+desired batch number to the top of the Menu whether 
+the search success.  
+ 
+F3 - Search for previous page of Menu Screen.  
+ 
+F4 - Search for next page of Menu Screen.  
+ 
+F8 - Creation of new batch information. An input line with 
+fields Batch Number and Description need to be input, 
+and confirm the creation by pressing F1 or abort by 
+pressing F10.  
+F10 - Abort and return to previous screen.  
+
+=== PAGE 88 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 88 of 139 
+ 
+ Batch Maintenanc e Screen ==> Header Information Folder  
+ 
+ 
+ 
+Prompt  Description  
+ 
+Return  No. X(08) – Must field  
+- Reference number fo r a particular return no.  
+ 
+Return Date  99/99/9999 - Must field (dd/mm/yyyy)  
+- the date of item return  
+ 
+Return Type  X(01) - Must Field  
+- the return type: Normal or Consignment  
+ 
+Supplier  X(08) - Must field  
+- name of the supplier  
+ 
+Supplier Ref.  X(08)  – Optional field  
+- the reference number of supplier  
+ 
+Transfer Ref.  X(08) - Optional field  
+- the reference number of transfer  
+ 
+Currency  X(03) - Must  field 
+- Currency code (ie. HKD, USD...etc.)  
+ 
+Ex. Rate  9(05).(05) -Display field  
+- Exchange Rate between Base and Foreign Currency  
+
+=== PAGE 89 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 89 of 139 
+ 
+  
+Discount  9(03).(02) - Optional field  
+- Discount percentage for the delivery order  
+ 
+Total Ret. Qty . X(08) – Display Only  
+- the total quantity of return item  
+ 
+Ret. Amt.  X(08) – Display Only  
+- the amount of return item  
+ 
+Discount Amt..  X(08) – Display Only  
+- the discount amount of return item  
+ 
+Net Return . Amt.  9(09).(02) - Display field  
+- Net amount of such return  order  
+- Total Amt .  (1 - Discount/100)  Other Disc. + 
+Other Charge  
+ 
+Batch Maintenance Screen ==> Remarks Folder  
+ 
+ 
+ 
+Prompt  Description  
+ 
+Remarks  X(79) * (15 Rows)  
+- Text Description for remarks input.
+
+=== PAGE 90 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 90 of 139 
+ 
+  
+Batch Main tenance Screen ==> Manage Item Folder  
+ 
+ 
+ 
+Prompt  Description  
+ 
+Seq 9(02) - Display field  
+- Sequence reference number for a particular item input 
+in such delivery order  
+ 
+Item X(09) - Optional field  
+- If the Unit Price or Loc. is entered, this field has to be  
+filled in  
+ 
+Unit Price  (+/-) 9(08).9(02) - Optional field  
+- Unit price of the item  
+- Leaving blank/space will assign zero price to the field  
+ 
+Loc. X(04) - Must field  
+- Location code for the location where the delivery 
+order transaction is carried out  
+ 
+Qty (+/-)9(07) - Optional field  
+- Item quantity in such delivery transaction  
+- if the item has no color and size, Qty field will 
+become Must field  
+ 
+Unit X(04) - Display field  
+
+=== PAGE 91 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 91 of 139 
+ 
+ - Unit of measurement of the item  
+- Automatically retrieved from the item master file  
+record which is pre -defined by user  
+ 
+Rec. Amt.  (+/-)9(08).9(02) - Display field  
+- Total amount = Unit Price * Qty  
+- Automatically calculated and displayed by the system  
+ 
+Total Qty/Amt.  (+/-)9(08) / (+/ -)9(08).(02) - Display field  
+- Total quantity of items  delivered in such delivery 
+order  
+- Total amount of items delivered in such delivery 
+order  
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Insert  --Insert new item input  
+ 
+Delete  --Delete select item record  
+ 
+Col & Size  --Go to add col or & size quantity screen  
+ 
+
+=== PAGE 92 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 92 of 139 
+ 
+ Color and Size input Screen ==>   
+ 
+ 
+ 
+Prompt  Description  
+ 
+Return  No. X(08) - Display only  
+- Return  number for a particular return  Order  
+ 
+Seq 9(02) - Display field  
+- Sequence reference number for a particular item input 
+in such delivery order  
+ 
+Item code  X(09) - Display field  
+- The code for identifying the item  
+ 
+Return Loc  X(04) - Must field  
+- Location code of the return location  
+ 
+Unit Price  (+/-) 9(08).9(02) - Optional field  
+- Unit price of the item  
+- Leaving blank/space will as sign zero price to the field  
+ 
+Item Tot al Qty (+/-) 9(08).9(02) - Display field  
+- Total quantity of such item delivered in such delivery 
+order  
+Item Tot al Cost (+/-) 9(08).9(02) - Display field  
+- Total cost of such item  
+ 
+
+=== PAGE 93 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 93 of 139 
+ 
+ Color  X(03) - Must Field (at least o ne color for the item)  
+- Color code pre -defined by user to identify the color of 
+the item  
+ 
+Size (+/-) 9(08).9(02) - Must Field ( at least a quantity value 
+for one size of each color of item)  
+- Quantity of item of a particular color  
+ 
+Total Qty  (+/-) 9(08).9 (02) - Display Field  
+- Total quantity of items of different colors  
+ 
+O/H (+/-) 9(08).9(02) - Display Field  
+- Total on -hand quantity of item of a color in same 
+SIZE column  
+- N.B. figures will only be displayed when user presses 
+<ENTER> and the cursor is on t he desired row of 
+Color  
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Copy  --Copy previous qty to current row  
+ 
+Save Dep.  --Save record  
+ 
+
+=== PAGE 94 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 94 of 139 
+ 
+ 
+ 
+6.5 Stock Cost Adjustment  
+ 
+6.5.1 Stock Cost Adjustment Maintenance  
+ 
+ Objective: -  
+This the process allo w user to make cost adjustment to system stock either by 
+input a new average unit cost, or by a lump sum which the system will calculate 
+the average unit cost by weighted average calculation , or input of a flat % that 
+apply direct to a unit item  accordingl y. Stock cost adjustment is a single user 
+input process only.  
+ 
+Important:   Please notice this Cost Adjust process is NOT an online calculation 
+process but will be calculated  to Inventory only in Month End Process.  
+   
+ 
+ 
+ 
+ 
+   
+ Adjust Amount: - a lump sum 
+input that the system will 
+spread this cost into unit item 
+basis.   This Cost Adjustment Process is  Date importan t.; 
+ Date back adjustment is allowed EXCEPT no prior than last 
+Month End month;  
+ The sys tem then will adjust the stock unit cost from the date as 
+specified.  This cost adjustment therefore may involve date back 
+cost recalculation process depending on date input  
+New Average Cost  -  the system will 
+use this new input cost as the new 
+average cost of the date .  This is a strict % input that will 
+apply on unit level at the date as 
+specified  
+
+=== PAGE 95 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 95 of 139 
+ 
+  
+6.5.2 Standard Cost Write Down  Process  
+ 
+This is the Table use for keeping the Stock Write Down Ratio in % or Write Down to the 
+exact Value as user input.  This Table has the following properties:  
+ 
+ This Table has NO calculation function / process associated in the System;  
+ User is free t o input the Write down % or the Net Stock value as reference only;  
+ The value inside this Table shall NOT affect the Stock Cost in the system – since it is 
+for reference and non system calculation purposes;  
+ User is free to develop your own report(s) to appl y this Write Down Value for own 
+Analysis purpose;  
+ 
+This Table may be useful for customer has Seasonal Stock with great depreciation factor 
+for past seasons' stock – such as Apparel Retailer.   
+ 
+ 
+ 
+ 
+ 
+This Ex ample show the Table has a Flat  
+Write Down Reference Cost of $10 for 
+each pcs to ALL Inventory Stock of 
+seasons Year 2002 Summer and Winter.  
+ This Example show the Table have 
+different Write Down Reference % to 
+Inventory Stock for seasons of Year 
+2003 & 2005 Summer and Winter 
+respectively.  
+
+=== PAGE 96 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 96 of 139 
+ 
+  
+6.6 Delivery Order Process  
+ 
+6.6.1 Delivery Order Process – Stock  Out 
+ 
+This process allows user to STOCK OUT the Inventory by using unique stock transaction  
+codes created your own to relate  the work of own business transactions.  In most of retail 
+operations, common transaction types like transfer, sales, stock count ..  etc. are not 
+sufficient to handle their business requirements.  They need user definable transaction 
+codes more related to individual unique business requirements, with appropriate reports 
+and journals for future analysis.  
+ 
+Some e xamples of user specific STOCK OUT transaction codes as follows : 
+ 
+ Internal Use  
+ Internal Sales  
+ Give Away Samples  
+ Sponsorship  
+ Special Project Usage  
+ Write Off  
+ And many more ….  
+  
+In this process, Delivery Order Processing is made to handle and fulfil l this requirement.  
+It provides fl exible self defined transaction codes for different stock situation related to 
+own business operations.  
+ 
+
+=== PAGE 97 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 97 of 139 
+ 
+  
+ 
+Workflow of Delivery Order Batch Control: - 
+ 
+The functions that we have discussed above have their process sequence,  
+this is to say, they are sequen ce dependent. The workflow of this process  
+is shown as follows:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D/O Data Maintenance  
+D/O Batch Validation  
+Print Pick List  
+Batch Amendment  
+Print Amend ment List  
+Print delivery Order  
+Batch Posting  D/O Stock Out Header  Maint.  
+
+=== PAGE 98 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 98 of 139 
+ 
+  
+6.6.1.1  Delivery Order Stock OUT Process – The Normal Physical Stock Out without 
+TEXT File generation  
+ 
+ Screen display  - Delivery Order  – The St ock Out Process  Header  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inter -Company  
+ This is the control flag MUST be selected;  
+ For Normal Stock Out, the Selection should be 
+"NULL"  to indicate this is not a "Inter -
+Company" delivery; therefore the system will not 
+generate a TEXT file for the receiving party  
+ The values other than "NULL" are the Company 
+Codes of the system.  Therefore if the selection is 
+NOT  Null means this is an Inter -Company 
+Delivery and the system therefore will general a 
+delivery TEXT file for the receivi ng company for 
+Stock Receiving without data re -input  Customer Data Input  
+Optional only  
+
+=== PAGE 99 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 99 of 139 
+ 
+  
+Batch Maintenance Screen ==> Header Information Folder  
+ 
+ 
+Prompt  Description  
+ 
+Pick Ref. No.  X(08) - Display only  
+- Reference number for a particular delivery Order  
+ 
+Date  99/99/9999 - Must field (dd/mm/ yyyy ) 
+- item to be taken from that date  
+ 
+Dept. No.  X(01) - Must Field  
+- Pre-set Department Code that handle such delivery 
+order transaction  
+ 
+Customer Name  X(08) - Must field  
+- name of the customer.  
+ 
+Address  99/99/9999 - Must field (dd/mm/ yyyy ) 
+- Order to be delivery at that date  
+ 
+Remarks  X(80) - Optional field  
+- Any remarks for this Pick List  
+ 
+Del. Date  99/99/9999 - Must field (dd/mm/ yyyy ) 
+- item to be taken to that date  
+ 
+Project no.  X(07) - Optional field  
+- Pre-define project ID  
+- if the transaction is project based  then project need to 
+be entered  
+
+=== PAGE 100 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 100 of 139 
+ 
+  
+Batch Maintenance Screen ==> Payment Folder  
+ 
+ 
+ 
+Prompt  Description  
+Currency  X(03) - Must field  
+- Currency code (ie. HKD, USD...etc.)  
+ 
+Ex. Rate  9(05).(05) -Display field  
+- Exchange Rate between Base and Foreign Currency  
+ 
+Discount  9(03).(02) - Optional field  
+- Discount percentage for the delivery order  
+ 
+Total Amt.  9(09).(02) - Display field  
+- Total amount for such delivery order  
+ 
+Other Disc/Adj  9(09).(02) - Optional field  
+- Other fixed discount amount for such delivery order  
+ 
+Other Charg/Adj  9(09).(02) - Optional field  
+- Other fixed charge amount for such delivery order  
+ 
+Net Total. Amt.  9(09).(02) - Display field  
+- Net amount of such delivery order  
+- Total Amt.  (1 - Discount/100)  Other Disc. + 
+Other Charge  
+ 
+
+=== PAGE 101 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 101 of 139 
+ 
+ Batch Maintenance Screen ==> Remarks Folder  
+ 
+ 
+Prompt  Description  
+ 
+Remarks  X(79) * (15 Rows)  
+- Text Description for remarks input.
+
+
+=== PAGE 102 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 102 of 139 
+ 
+  
+Batch Maintenance Screen ==> Items Information Folder  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prompt  Descri ption  
+ 
+Seq 9(02) - Display field  
+- Sequence reference number for a particular item input 
+in such delivery order  
+ 
+Item X(09) - Optional field  
+- If the Unit Price or Loc. is entered, this field has to be 
+filled in  
+ 
+Trx X(03) - Must field  
+ This is the user definable 
+Transaction Codes input by 
+user 
+
+=== PAGE 103 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 103 of 139 
+ 
+ - Transaction Code p re-defined by user and assigned to 
+such Delivery Note  
+ 
+Unit Price  (+/-) 9(08).9(02) - Optional field  
+- Unit price of the item  
+- Leaving blank/space will assign zero price to the field  
+ 
+Loc. X(04) - Must field  
+- Location code for the location where the deli very 
+order transaction is carried out  
+ 
+Qty (+/-)9(07) - Optional field  
+- Item quantity in such delivery transaction  
+- if the item has no color and size, Qty field will 
+become Must field  
+ 
+Unit X(04) - Display field  
+- Unit of measurement of the item  
+- Automa tically retrieved from the item master file 
+record which is pre -defined by user  
+ 
+Rec. Amt.  (+/-)9(08).9(02) - Display field  
+- Total amount = Unit Price * Qty  
+- Automatically calculated and displayed by the system  
+ 
+Total Qty/Amt.  (+/-)9(08) / (+/ -)9(08).(02 ) - Display field  
+- Total quantity of items delivered in such delivery 
+order  
+- Total amount of items delivered in such delivery 
+order  
+ 
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Insert  --Insert new item input  
+ 
+Delete  --Delete se lect item record  
+ 
+Col & Size  --Go to add col & size quantity screen  
+ 
+
+=== PAGE 104 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 104 of 139 
+ 
+ Color and Size input Screen ==>   
+ 
+ 
+ 
+Prompt  Description  
+ 
+Pick Ref. No.  X(08) - Display only  
+- Reference number for a particular delivery Order  
+ 
+Seq 9(02) - Display field  
+- Sequence ref erence number for a particular item input 
+in such delivery order  
+ 
+Item code  X(09) - Display field  
+- The code for identifying the item  
+ 
+W/H  X(04) - Must field  
+- Location code of the location where the delivery 
+transaction takes place  
+ 
+Unit Price  (+/-) 9(08) .9(02) - Optional field  
+- Unit price of the item  
+- Leaving blank/space will assign zero price to the field  
+ 
+
+
+=== PAGE 105 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 105 of 139 
+ 
+ Trx. No.  X(03) - Must field  
+- Transaction Code pre -defined by user and assigned to 
+such Delivery Note  
+ 
+Item Tot Qty  (+/-) 9(08).9(02) - Display fiel d 
+- Total quantity of such item delivered in such delivery 
+order  
+Item Tot Amount  (+/-) 9(08).9(02) - Display field  
+- Total amount of such item delivered in such delivery 
+order  
+ 
+Color  X(03) - Must Field (at least one color for the item)  
+- Color code pre -defined by user to identify the color of 
+the item  
+ 
+Size (+/-) 9(08).9(02) - Must Field ( at least a quantity value 
+for one size of each color of item)  
+- Quantity of item of a particular color  
+ 
+Total Qty  (+/-) 9(08).9(02) - Display Field  
+- Total quantity of it ems of different colors  
+ 
+ 
+Function  Description  
+ 
+Verify  -- Verify the input while input is done  
+ 
+Copy  --Copy previous qty to current row  
+ 
+Save Dep.  --Save record  
+ 
+ 
+Screen Display ==> Delivery Order generation  
+ 
+
+
+=== PAGE 106 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 106 of 139 
+ 
+  
+6.6.1.2  Delivery Order Stock OUT Process – The Physi cal Stock Out Process for  "Inter -
+Company" Delivery WITH Text File generation  
+ 
+The Only different of the "Inter -Company" delivery is the value selection as 
+demonstrated below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For Inter -Company  Delivery -  Company Code MUST be s elected  
+ This is the control flag MUST be selected;  
+ For Normal Stock Out, the Selection should be "NULL"  to indicate this is not a 
+"Inter -Company" delivery; therefore the system will not generate a TEXT file for 
+the receiving party ; 
+ The value other than "NU LL" is Company Codes of the system.  Therefore if the 
+selection is NOT NULL  (i.e. any company code selected as in the screen sample) 
+means this is an Inter -Company Delivery and the system therefore will general a 
+delivery TEXT file for the receiving compan y for Stock Receiving  purpose without 
+data re -input . 
+ 
+Caution :  This TEXT data file will NOT  be updated to the receiving company as stock 
+receiving automatically. User of receiving company needs to process this text file 
+manually.  
+
+=== PAGE 107 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 107 of 139 
+ 
+  
+6.6.2 Delivery Order Process – Stock In  
+ 
+This is the Delivery Process Scree n for Stock –In function.  The system will take this 
+stock in data as one of Physical Adjustment distinguished with user defined Transaction 
+Codes, the same update mechanism of Delivery Order – Stock Out process but in the 
+reverse calculation.  
+ 
+ 
+
+
+=== PAGE 108 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 108 of 139 
+ 
+ Screen Display – Delivery Order Stock –In detail input  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Stock -In Items  
+ Input  item details with or without 
+reference Cost;  
+ The Cost input here WILL NOT 
+affect the inventory cost in the 
+system, means this will not 
+makes inventory cost 
+recalculation in this process  
+ Load Button  – For Inter -Company Delivery  
+ This allow user download the "Inter -
+Company" Text Data generated from 
+"Delivery Order Stock Out Process" in other 
+operation;  
+ This data in -take therefore could avoid 
+user's double entry thus save user's input 
+time and input error  
+ The input details of this Load Button please 
+refer to next screen.  
+  
+
+=== PAGE 109 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 109 of 139 
+ 
+  
+Screen Display of The Load Button  
+ 
+ 
+ 
+ 
+ 
+ 
+ Receive Location:   input the Receive Location of this Stock In data  
+ 
+ Trx Code :  Input the transaction code of this Stock In data  
+Company:   Input The Company Code of the Delivery Company  
+ 
+D.O. No. :  Input the Delivery Order No. of the D elivery Company  
+ 
+With the above input information, the system therefore able to search for the 
+correct Text Data file and in -take into the process as default value.  User free 
+to adjust the content according to actual receive.  
+
+=== PAGE 110 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 110 of 139 
+ 
+  
+6.6.3 Generate Delivery Order (D.O.) by Transfer  
+ 
+This process allows user to generate a Delivery Order Batch at user‟s specific transaction 
+code f rom a designated „Shadow‟ Location.  The main purpose is for some non -monetary 
+stock related transactions done at the Shops, such as sample take out from shops, or 
+sponsorship program, etc. and the such transactions are needed to be well recorded by the 
+system for later analysis purposes.  
+ 
+Screen Display: - 
+ 
+Function  Description  
+ 
+F1 - Enter confirm to print d/o batch  
+ 
+ESC - Abort and return to previous page  
+ 
+ 
+Delivery Order Data Batch will be generated according to information input from 
+screen.  
+
+
+=== PAGE 111 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 111 of 139 
+ 
+  
+6.7 Price Ma rk-Up/Down  
+ 
+Objective: - 
+ The application does not allow the change of Retail List Prices after item 
+creation. This is the only process in the system that user could mark up or 
+mark down the retail price with journal history log.  
+ 
+Functions: - 
+1. Create Recor d 
+2. Modify Record  
+3. Delete Record  
+4. Print Record  
+ 
+List Price Transaction Maintenance Screen ==> 
+ 
+ 
+After select, modify  
+ 
+Prompt  Description  
+
+
+=== PAGE 112 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 112 of 139 
+ 
+  
+Item Code  X (09) - Must field  
+- The unique code for an item  
+ 
+Effective Date  99 99 9999 - Must field (dd/mm/ yyyy ) 
+- the da te when the list price transaction becomes effective  
+ 
+Trx. Type  X (01) - Must field  
+- Consists of 3 choices, which are “A” for All, “W” for 
+Wholesale and “R” for Retail)  
+- Setting to “W” will update the wholesale list prices  
+- Setting to “R” will update th e retail price  
+- Setting to “A” will update both  
+ 
+Retail Price  9(07).99 - Optional field  
+- The new retail price  
+ 
+Maxx disc %  99.99 - Optional field  
+- The new maximum discount when Trx. Type is “A” (All)  
+ 
+Standard Cost  9(07). 99 - Optional field  
+- the stand ard cost when Trx. Type is “A” (All)  
+X (03) - Display Only  
+- The currency in use  
+ 
+Wholesale List Price  s99.99 x 4 - Optional field  
+- The mark -up percentage of original wholesale list price  
+9(07). 99 x 10 - Optional field  
+- The absolute new wholesale list p rice 
+ 
+
+=== PAGE 113 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 113 of 139 
+ 
+  
+6.8  Customer Loyalty (Optional Module)  
+ 
+One of the main functions in back office Customer Loyalty Process is Bonus Point 
+Adjustment Process in case of necessary.  Bonus Point Adjustment journal record will be 
+created for logging down the changing hist ory of Bonus Point from this adjustment 
+process.  
+ 
+6.8.1 Bonus Point Adjustment Maintenance – With Redemption Group  
+ 
+Bonus Point Adjustment Maintenance Input Screen  
+ 
+ 
+ 
+ 
+ 
+This adjusted Bonus Points will be updated 
+to Points Master  online once confirmed by 
+user 
+
+=== PAGE 114 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 114 of 139 
+ 
+  
+6.8.2 Change Member Number Process  
+ 
+This process allows user to change Member Number from a old  number to a new 
+assigned number.  
+ 
+ 
+ 
+
+
+=== PAGE 115 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 115 of 139 
+ 
+  
+6.8.3 Member e -Coupon Generation Process  
+ 
+Unlike general purpose Coupons that address for common environment, t his Member e -
+Coupon P rocess allows user to Create “e-Coupons ” that are “Personalized ” down to 
+particular membe r(s), or to a group of members as per following specification:  
+ 
+ 
+ 
+ 
+ 
+The Back Office Functions:  
+ This process will create a batch of serialized “eCoupon ” records according to the 
+input screen as specified above;  
+ This serialized eCoupon(s) will be assigned  down to individual member level, or by  
+member range, or by  member type;  
+ User also has option to prepare this eCoupon input by a text or Excel file that to be 
+imported externally (see the “From File ” radio button from sample screen above);  
+ Once the input i s complete a nd press “Generate ” button, the system then will 
+generate corresponding eCoupon records according the input in Back Office system.  
+These eCoupon records then be sent to POS front end automatically in next polling 
+cycle;  NEW  v6.5.0 
+
+=== PAGE 116 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 116 of 139 
+ 
+  
+ 
+Note:    These eCoupon  cannot be printed by the system .  User may need to “notify ” the 
+enjoying members  in various convenient ways, electronically or in any form  at user‟s 
+choice , (i.e. by email, SMS , MMS ..etc.)  for the benefit of  these eCoupons ;       
+ 
+ 
+The POS front End Functions:  
+ These eCoupon records will be sent to POS front end automatically in next polling 
+cycle and available  for member redemption;  
+ POS user will be reminded by POS system once the eCoupon member is sign -in in 
+POS from memo processing;  
+ Once the available eCoupon(s) is redeemed by eligible member, these eCoupons will 
+be marked as used and send to Back Office for complete redemption cycle same as 
+other coupons processing today;      
+ 
+ 
+
+=== PAGE 117 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 117 of 139 
+ 
+ 
+ 
+ 
+6.9 Wholesales & Distribution Module  (Optional Module)   
+ 
+ 
+The general opera tion flow of Wholesales & Distribution Module:  
+ 
+ 
+
+=== PAGE 118 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 118 of 139 
+ 
+ 
+ 
+6.9.1 Sales Order Processing  of Wholesales Module  
+ 
+This is the Sales Order Maintenance Program allows user to Create, Modify and Delete 
+Customer Sales Orders accordingly.  
+ 
+The Header screen of Customer Sales O rder Process:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is the inventory 
+location where the stock of 
+that sales order will be 
+dispatched  This is the outstanding 
+amount$ of a sales 
+order.  
+ This is the Total Net Amount a 
+Sales Order.  
+ That indicates No delivery yet 
+so far if the Outstand ing (O/S) 
+Amount is equal to Net Amount  
+value.  Sales Order Stage : 
+ “Progres s”: indicating this particular 
+sales order is now has Picking 
+activity “In Progress”;  
+ “New” : indicating this order is a 
+new order that has NO activity so far 
+since created;  
+
+=== PAGE 119 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 119 of 139 
+ 
+  
+6.9.2 Stock Reservation Process  (A Option Module of Wholesales Process)  
+ 
+This is an optional process could be configure in System's Internal Configuration by 
+Sanyo Extended  engineer  for customer who has this option process as an i ntegrated part 
+of the Wholesales and Distribution work flow.  
+ 
+Once the Stock Reservation Process  is activated, the following work flow will be 
+enforced for all transactions in the Wholesales and Distribution module as follows : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Controls:  
+ 
+ Stock Reservation Process MUST follow to next of Sales Order Process;  
+ The Sales Order CANNOT go direct to Pick List generation unless the Stock 
+Reservation is done successfully;  
+ Stock Reservation qty cannot greater than Sales Order outstand ing qty ; 
+ Stock Reservation can only be done successfully if sufficient stock on -hand;  
+ Customer Credit Control as option – valid only Accounts Receivable Interface option 
+is available;  
+ 
+ 
+  
+The Stock Reservation Process  – A Option Module Only  
+ 
+Sales Order 
+Processing  Stock 
+Reservation  
+Order 
+Maintenance  Stock 
+Reservation 
+Approval 
+Process  Invoice Pick 
+List Generation 
+from Reserved 
+Stock  
+ 
+Invoice/ Pick List 
+Amendment 
+&Confirmation  
+ Delivery Note 
+& Invo icing 
+Printing   
+Invoice & 
+Stock Posting   
+End 
+Process  
+
+=== PAGE 120 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 120 of 139 
+ 
+  
+Sales Order Stock Reservation By Order  (a Option Module of Wholesal es Process)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+More than one Stock Reservation events per 
+sales order allowed. Such as in the screen 
+sample the Sales Order# SO8005 has more 
+than one stoc k reservation incidents;  
+ Credit Available . 
+This works only if 
+Accounts Receivable 
+Interface option is 
+available  The 
+Reservation 
+Amount$.  
+ 
+The Non Reserved 
+Amount$  of this 
+Sales Order  The Total Order Amount 
+$ o this Sales Order  Reservation running # 
+auto assigned by the 
+system  
+Reservation Status  
+ Input :  This reservation order is still in the Input stage. User could change the content any time as 
+wish;  
+ Appv. Req:  <Approval Request> This reservation order is submitted for Approval. No next action 
+can b e done until approval completed.  
+ Rejected : This reservation order is rejected by Approval Process. User need to go back to "Input" 
+state for amendment and re -submit for approval;  
+ Approved : this reservation order is approved and user could go into next Stoc k Picking 
+Generation Process  
+ Picking : This Reservation is in Picking Process  
+
+=== PAGE 121 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 121 of 139 
+ 
+  
+6.9.3 Reservation Check & Approval  (a Option Module of Wholesales Process)  
+ 
+This process allows another group of user(s) to perform Stock Reservation Approval 
+which will release to next Stock Picking stage if the order is approved . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approval Amt$ : This is 
+the approval Amount of 
+this Reservation  Request  
+Credit Available$ (optional):  
+ This field works only under 
+Accounts Receivable data interface 
+is available;  
+ This field shows the customer's 
+credit amount$ for user reference  
+ Double click to this field will pop 
+up selection window for user's 
+furth er action  Status:  
+App Req  – Approval Request.  
+ The transaction will be hided away in 
+this process once the request is done – 
+regardless it is approved or rejected;  
+ The Approved transactions will be in 
+next "Invoice Pick List Generation" 
+process for next a ction  Approve or Reject:  
+Click on these two buttons will 
+Approve or Reject the selected  
+Stock Reservation respectively  
+
+=== PAGE 122 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 122 of 139 
+ 
+  
+6.9.4 Sales Invoice Pick List Generation Process  of Wholesales Module  
+ 
+This Pick List Generation Process allows user has free choice to release the previous 
+"Approved Reservation Order" to become "Invoice Pick List" at any proper moment.   
+ 
+Once the Pick List Generation is done, the transaction will pass on to next Picking 
+operation in warehouse.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The transaction will be disappeared 
+from this screen and pass on to next 
+Picking Stage once "Generation" is 
+made  
+
+=== PAGE 123 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 123 of 139 
+ 
+  
+6.9.5 Stock Picking and Invoicing Maintenance Process  of Wholesales Module  
+ 
+Once the Pick List is generated from the Generation Process, t he Pick Transaction will be 
+listed in this process for user further operation – amend, or confirm for Invoice and 
+Delivery Note generation.. etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Status Interpretation:  
+ 
+ Input  – the transaction is in Input Mode (the very first stage). User could change the data content 
+without ch ange status;  
+ Validate – the transaction already validated by the system accompany with Validation Report. It is 
+ready to move on to next Picking stage as system guide you;  
+ Pick Gen  – Pick List Generation is done. The Pick List may print in warehouse or any  print local as 
+user desired;  
+ Pick Amd  – Pick List Amendment stage. User had complete the Pick Amendment, if any, regarding 
+to the actual pick result   
+ Pick Prt – Pick List Amendment Print. User had printed again the Pick List from the amended result 
+to en sure the final pick is corrected; ,  
+ Inv. Gen . – when all of above steps complete successfully, user may go into Invoice and Delivery 
+Note Generation stage. The status will change as it once Invoice Generation is done.  
+ 
+Final Work Step:  Posting  
+ This is t he final work step for user's action when Invoice Generation is complete successfully. 
+Inventory, Sales history and all relevant transactions will be updated ONLY if POSTING process is 
+activated  
+ The transaction record will be disappeared from this screen w hen POSTING is complete 
+successfully.  
+ 
+
+=== PAGE 124 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 124 of 139 
+ 
+  
+Standard Data Batch Work Flow  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Double click on the highlighted transaction row will pop up a Work 
+Flow Windows to guide user for the next work step(s);  
+ User is restricted to perform on only those tasks are display normally. 
+The prohibited tasks w ill be dimmed to avoid user actions that may 
+change from stage to stage in different status;  
+
+=== PAGE 125 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 125 of 139 
+ 
+  
+6.10 Franchisee Store Process (Optional Module  – for specific use only ) 
+ 
+This process to allow user generating Invoices for Franchisee Stores operate under this 
+application system.  
+ 
+In order to generate Franchisee Invoices correctly, the following tables must be set before 
+this generate operation:  
+ 
+ 1. „Check‟ the Franchisee Store Mark to „ON‟ position in Location Table.  
+ 
+ 2. Input proper discount rate into „Wholesales Customer Discount Table, if  
+  available.         
+ 
+These two setting will let the system able to  apply the correct discount rate to Fran chisee 
+only customers in the following Invoice generation.   
+ 
+Franchisee Invoice Generation Rules  
+ 
+Franchisee Invoices are generated based on the shop transfer history:  
+ All stock transferred „TO‟ the franchisee stores will be billed by the system 
+according ly;  
+ All stock transfer „OUT‟ from the franchisee store will be credited by the 
+system accordingly;  
+ If the total sum of the Franchisee Store after all transfer is positive, the system 
+will generate Invoice to the Franchisee Customer, or else Credit Memo wi ll be 
+issued in case negative total sum is obtained.  
+ 
+Screen Display please refers to next page.  
+ 
+
+=== PAGE 126 ===
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 126 of 139 
+ 
+  
+ All Range is specified if leave for Blank  
+  
+ 
+ 
+ 
+ 
+ 
+User could input „Transfer Note‟ range as 
+one of the selection criteria.  
+This input allows user to self assign a Batch 
+No. to corresponding process.   This allo ws user either use the 
+Transfer Date, or Specify a 
+specific date for customer „s 
+discount calculation during the 
+invoicing.  
+
+=== PAGE 127 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 127 of 139 
+  
+Franchisee Invoice Maintenance  
+ 
+After confirming from the Invoice Generation Process, the system the n will generate Franchisee 
+Invoices to Invoice Maintenance Process  as below.  
+ 
+This is a batch mode operation with same operational logic as others modules.  User needs to 
+select the right batch and click into Invoice details for further action.   
+ 
+ 
+ 
+
+=== PAGE 128 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 128 of 139 
+ Franch isee Invoice Maintenance in down into Item Details  
+ 
+After getting into the details of the batch, you will see there may be more than one Franchisee 
+Invoices for different customers. User is free to select ant of the invoice for detail editing, 
+whenever nec essary.   
+ 
+ 
+ 
+ 
+ Select the desired 
+Invoice and click into 
+next level for details.  
+Item Details with 
+Invoice unit Price 
+for verification.   
+
+=== PAGE 129 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 129 of 139 
+  
+6.11 Consignment Stock Settlement Process (Web Based Optional Module)  
+ 
+ 
+This is a Web based Stock Consignment Process designed for Stock -In Consignment 
+operation which the specific stock payment to suppliers are settle d when the consigned 
+goods were  sold.  
+ 
+In the process, the system will keep the “settlement cost ” of each consigned stock item in 
+Item Master separately for supplier settlement process once required.   Settlement discount 
+for different on -sale periods and promotion scheme are also considered  in the system . 
+ 
+User could have choice to settle the consignment payment by selective suppliers, if 
+necessary.    Trial Settlement Report and Exception Report are also available before Final 
+Settlement P rocess.  Full transaction history is k ept in the system as well for user reference 
+upon request.  
+ 
+   NEW  v6.5.0 
+
+=== PAGE 130 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 130 of 139 
+  
+6.11.1  Consignment Stock Settlement Work Flow diagram  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) 
+ Trial Settlement 
+Report Generation  
+(3) Select / Unselect  
+Supplier(s) who should 
+included in the Final 
+Settlement   
+(4) Re-Run the Trial 
+Settlement Report for 
+final Verification, if 
+necessary  (1) 
+Trial Settlement 
+Initialization  
+(5) Process Final 
+Settlement Process 
+with Final Settlement 
+Report  The Final Settlement Process is 
+independent from system ‟s Month End 
+process. User(s) have to work on the 
+Month End separately before or after 
+the Final Settlement Process.  Select and Unselect  function in the 
+system is available for “adding ” or  
+“Removing ”  unwanted Suppliers from 
+the Trial Settlement Journal, if necessary  In the beginning  of Settlement Process, 
+user must i nitialize the Trial Settlement 
+Journal which always consists of last 
+Trial Settlement data;   
+ 
+After initialization , user need to input the Trial Settlement 
+month : “up to mm/yyyy ” then go f or Trial Settlement 
+Report Generation.  
+The Trial Settlement Process will pick up all relevant 
+transactions of non-zero, unsettled stock items up until the 
+last input mm/yyyy  date and print report (Laser printer 
+based);  
+ 
+User is free to re -run the Trial Report 
+for verification in case of doubt .   There 
+is no limit for number of Trial 
+Settlement and Report re -run. 
+Process End  
+
+=== PAGE 131 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 131 of 139 
+  
+6.11.2  Consignment Stock Settlement Data Flow diagram  
+ 
+
+
+=== PAGE 132 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 132 of 139 
+  
+6.11.3  The Consignment Stock Settlement Process Screen Layout  
+ 
+ 
+Consignment Stock Settlement Process Screen Layout Fig -1 
+ 
+ 
+ 
+ 
+ 
+ 
+ Initialization  always  is the first step in consignment settlement process.  This step 
+will help the system to clean up the “old” trial history from last trial and get ready for 
+upcoming new Trial Process.  
+The next step Trial Settlement Process will then read all related transactions records 
+(i.e. POS sales, adjustment, POS sales return, return to suppliers...etc) and perform 
+trial settlement in report format. Please refer the report format “Trial Settlement  
+Report” in next section.  
+
+=== PAGE 133 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 133 of 139 
+  
+ 
+Consignment Stock Settlement Process Screen Layout Fig -2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ These underlined headings are 
+designed to enable for sorting by 
+mouse click  
+User has choice to “select ” the desired suppliers for settlement.  On top of “Mark 
+or Un -Mark ALL ” buttons on the right, these check boxes allow user t o check for 
+“Marked ” or “Unmarked ” individually by mouse click.  
+
+=== PAGE 134 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 134 of 139 
+  
+6.11.4  The Consignment Stock Trial Settlement Process  
+ 
+ 
+ 
+ 
+ 
+After finished supplier selection (by mouse click of Mark and Un -Mark), user could go for “Trial 
+Settle ” button for Trial Settlement. “Trial Report ” button is use for print ing the Trial Settlement 
+Report afterward.  
+ 
+The “Final Settle ” button will turn “ON” and available for use after Trial Set tlement is done.   
+ 
+
+=== PAGE 135 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 135 of 139 
+  
+6.11.5  The Consignment Stock Settlement Report  Printing &  Layout  
+ 
+ 
+ 
+ 
+The Reports  
+ 
+ “Trial Report ” button is use for report print ing after  the Trial Settlement is done.  
+ 
+ “Exceptional Report ” is available for print  - check ing for settlement error s or exceptional  
+conditions . 
+ 
+ “Final Report ” is available for printing when “Final Settle ” process is complete successfully.  
+ 
+Reports layout please refer to next pages. 
+
+=== PAGE 136 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 136 of 139 
+ 6.11.6  The Consignment Stock Trial Settlement Report Sample  
+ 
+Consignment Stock Trial Se ttlement Report (CS1003)  
+                
+      Sanyo Extended System Service Ltd.  
+     04/10/2007  02:24pm  
+  
+                               Consignment Stock Trial Settlement Report  
+     Page :        1  
+   
+      Settlement Period upto 30/09/2007   
+        
+                   
+          Original Settl'mt   Final Settl'mt  
+      
+ Item  
+ Trx 
+   List                            Unit  Total   Unit Cost  
+  Unit Cost  
+  Settm't  Final  
+ Unsett'd  
+  Item No.  Description  Trx Date  Code  Ref No.  PO No.  Trx Qty  Price                          Selling Pr  Selling Amt$   %   Amt   %   Amt   Qty  Settm't Cost  GP%  Balance    
+ Merchandiser ID:  M1  
+                 Supplier Code:  ABS32546        Absolute Creative Ltd.  
+         4923459870   TLTR Name Card  Opening Balance :                   47  
+  4923459870  TLTR Name Card  02/09/2007  pos D005 -10003221  
+ 1 365.00                      365.00            365.00          55.00  
+         55.00  
+ 1 200.75  45.00%  -1 
+  
+  04/09/2007  pos D005 -00007221  
+ 1 365.00                      311.00            311.00          55.00  
+         55.00  
+ 1 171.05  45.00%  -1 
+  
+  11/09/2007  adj 10003422  
+ 1 365.00                      311.00            365.00          55.00  
+         55.00  
+ 1 200.75  45.00%  -1 
+  
+  16/09/2007  rec R100003453  CM111520  4 
+      0  0.00 0.00%                      4  
+  
+  20/09/2007  pos D005 -10003458  
+ 1 365.00                      325.00            325.00          55.00  
+         180.00  1 180.00  44.62%  -1 
+  
+  22/09/2007  pos D005 -00007399  
+ 1 365.00                      314.00            314.00          55.00  
+         52.00  
+ 1 163.28  48.00%  -1 
+  
+  26/09/2007  pos D019 -00001359  
+ 3 365.00                      320.00            960.00          55.00  
+         155.00  3 465.00  51.56%  -3 
+  
+  27/09/2007  pos D022 -00002229  
+ 2 365.00                      365.00            730.00          55.00  
+         43.00  
+ 2 313.90  57.00%  -2 
+  
+  30/09/2007  rec R100006645  CM111632  13 
+   
+    0                       13  
+  
+       Item Total :         3,370.00  
+    10 1,694.73  49.71%                   41  
+  
+                   
+                   
+            49270229871   TLTR Name Case  Opening Balance :                      8  
+  49270229871  TLTR Name Case  24/09/2007  pos D019 -00001253  
+ 1 170.00                      170.00            170.00          60.00  
+           99.00  1  99.00  41.76%  -1 
+  
+  30/09/2007  pos D022 -00002299  
+ 4 170.00                      156.00            624.00          60.00  
+         60.00  
+ 4  374.40  40.00%  -4 
+  
+    Item Total :  
+             794.00  
+    5 473.40  40.38%                      3  
+  
+                   
+       Supplier Code:  ABS32546  Total :         4,164.00  
+    15 2,168.13  47.93%                   44  
+  
+                   Supplier Code:  ALI25555        ALLPOWER INVESTMENTS LTD.  
+        4925550300  Jimy Girl Music  Opening Balance :                   16  
+  4925550300  Jimmy Girl Muisc  02/09/2007  pos D005 -10003221  
+ -1 165.00                       165.00          (165.00)  
+         81.00  
+          81.00  -1 -81.00  50.91%  1 
+  
+  04/09/2007  pos D005 -00007221  
+ 1 165.00                       165.00            165.00  
+         81.00  
+          81.00  1 81.00  50.91%  -1 
+  
+  11/09/2007  giv W088 -10003422  
+ 1 165.00                       165.00            165.00  
+         81.00  
+          81.00  1 81.00  50.91%  -1 
+  
+  20/09/2007  pos D005 -10003458  
+ 1 165.00                       165.00            165.00  
+         81.00  
+          81.00  1 81.00  50.91%  -1 
+  
+  22/09/2007  rts D005 -00007399  
+ 1 
+           81.00  
+             0 0.00  0.00%  -1 
+  
+  24/09/2007  pos D019 -00001359  
+ 3 150.00                       150.00            450.00  
+         81.00          40.00  
+ 3 180.00  60.00%  -3 
+  
+  25/09/2007  pos D022 -00002229  
+ 2 150.00                       365.00            730.00  
+         81.00          43.00  
+ 2 313.90  57.00%  -2 
+  
+       Item Total :         1,510 .00  
+    7 655.90  56.56%                      8  
+  
+                   
+       Supplier Code:  ALI25555  Total :         1,510.00  
+    7 655.90  56.56%                      8  
+  
+                   
+       Merchandizer M1      Total :         5,674.00  
+    22      2,824.03  50.23%                   52  
+  
+                   
+       Settlement Grand Total :         5,674.00  
+    22      2,824.03  50.23%                   52  
+  
+                   
+                   
+                   
+                   * Remark s: Option for NOT  printing the Items if NO sales within the Settlement Period (this will cut down the printing pages a lot)  
+         
+ 
+ 
+ 
+ By Transaction Date Based  
+
+=== PAGE 137 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 137 of 139 
+ 6.11.7  The Consignment Stock Trial Settlement EXCEPTION  Report Sample  
+ 
+ 
+Consignment Stock Trial Settlement EXCEPTION Report  (CS1003)  
+   
+            
+                    Sanyo Extended System Service Ltd.  
+      04/10/2007  02:24pm  
+  
+         Consignment Stock Trial Settlement Exception Report  
+     Page :        1  
+  
+                    Settlement Period upto 30/09/2007  
+          
+        
+            
+        
+   Original Settl'mt   Final Settl'mt  
+      
+ Item 
+ Trx 
+  Trx List Unit Total   Unit Cost  
+  Unit Cost  
+  Settm't  Final  
+ Unsett'd  
+  Item No.  Description  Trx Date  Code  Ref No.  PO No.  Qty Price  Selling Pr  Selling Amt$   %   Amt   %   Amt   Qty  Settm't Cost  GP%  Balance    
+ Merchandiser ID:  M1  
+      
+            Supplier Code:  ABS32546        Absolute Creative Ltd.  
+     
+     4923459870   Gift Box  
+ Opening Balance :                   8  
+  4923471171  Gift Box  02/09/2007  pos D005 -10003221  1 365.00             365.00             365.00          55.00  
+         55.00  
+ 1 200.75  45.00%  -1 
+  
+  04/09/2007  pos D005 -00007221  1 365.00             311.00             311.00          55.00  
+         55.00  
+ 1 171.05  45.00%  -1 
+  
+  11/09 /2007  adj 10003422  
+ 1 365.00             365.00             365.00          55.00  
+         55.00  
+ 1 200.75  45.00%  -1 
+  
+  20/09/2007  pos D005 -10003458  1 365.00             325.00             325.00          55.00  
+        180.00  1 180.00  44.62%  -1 
+  
+  22/09/2007  pos D005 -00007399  1 365.00             314.00             314.00          55.00  
+         52.00  
+ 1 163.28  48.00%  -1 
+  
+  26/09/2007  pos D019 -00001359  3 365.00             320.00             960.00          55.00  
+        155.00  3 465.00  51.56%  -3 
+  
+  27/09/2007  pos D022 -00002229  2 365.00             365.00             730.00          55.00  
+         43.00  
+ 2 313.90  57.00%  -2 
+  
+        Item Total :          3,370.00  
+    10 1,694.73  49.71%  -2 
+  
+        
+            
+        
+            Supplier Co de:  ALI25555        ALLPOWER INVESTMENTS LTD.  
+    
+     4911255503  Photo Frame  Opening Balance :                   7  
+  4911255503  Photo Frame  02/09/2007  pos D005 -10003221  -1 165.00             165.00            (165.00)  
+         81.00  
+         81.00  -1 -81.00  50.91%  1 
+  
+  04/09/2007  pos D005 -00007221  1 165.00             165.00             165.00  
+         81.00  
+         81.00  1 81.00  50.91%  -1 
+  
+  11/09/2007  giv W088 -10003422  1 165.00             165.00             165.00  
+         81.00  
+         81.00  1 81.00  50.91%  -1 
+  
+  20/09/2007  pos D005 -10003458  1 165.00             165.00             165.00  
+         81.00  
+         81.00  1 81.00  50.91%  -1 
+  
+  22/09/2007  rts D005 -00007399  1  
+           81.00  
+ 0.00  0 0.00 0.00%  -1 
+  
+  24/09/2007  pos D019 -00001359  3 165.00             150.00             450.00  
+         81.00          40.00  
+ 3 180.00  60.00%  -3 
+  
+  25/09/2007  pos D022 -00002229  2 165.00             365.00             730.00  
+         81.00          43.00  
+ 2 313.90  57.00%  -2 
+  
+        Item T otal :          1,510.00  
+    7 655.90  56.56%  -1 
+  
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+             
+ 
+
+=== PAGE 138 ===
+ 
+CS2000v6. 5 Book -3  
+Edition  v1.1_200 912 
+Page 138 of 139 
+  
+6.11.8  The Consignment Stock Final Settlement Report Layout S ample  
+ 
+Consignment Stock Final Settlement Report (CS1004)  
+                
+        Sanyo Extended System Service Ltd.  
+       04/10/2007  02:24pm  
+                                            Consignment Stock Final Settlement Report  
+       Page :        
+1  
+        Settlement Period up  to 30/09/2007  
+         
+                
+          Original Settl'mt   Final Settl'mt  
+     
+ Item  
+ Trx 
+   Unit  Total   Unit Cost  
+  Unit Cost  
+  
+Settm'
+t  Final  
+ Unsett'd  
+ Item No.  Description  Trx Date  Code  Ref No.  PO No.  Trx Qty   Selling Pr  Selling Amt$   %   Amt   %   Amt   Qty  Settm't Cost  GP%  Balance    
+Merchandiser ID:  M1  
+                Supplier Code:  ABS32546        Absolute Creative Ltd.  
+         4923459870   TLTR Name Card  Opening Balance :                   47  
+ 4923459870  TLTR Name Card  02/09/2007  pos D005 -10003221  
+ 1         365.00            365.00          55.00  
+         55.00  
+ 1 200.75  45.00%  -1 
+ 
+  04/09/2007  pos D005 -00007221  
+ 1         311.00            311.00          55.00  
+         55.00  
+ 1 171.05  45.00%  -1 
+ 
+  11/09/2007  adj 10003422  
+ 1         365.00            365.00          55.00  
+         55.00  
+ 1 200.75  45.00%  -1 
+ 
+  16/09/2007  rec R100003453  CM111520  4 
+      0  0.00  0.00%                      4  
+ 
+  20/09/2007  pos D005 -10003458  
+ 1         325.00            325.00          55.00  
+         180.00  1 180.00  44.62%  -1 
+ 
+  22/09/2007  pos D005 -00007399  
+ 1         314.00            314.00          55.00  
+         52.00  
+ 1 163.28  48.00%  -1 
+ 
+  26/09/2007  pos D019 -00001359  
+ 3         320.00            960.00          55.00  
+         155.00  3 465.00  51.56%  -3 
+ 
+  27/09/2007  pos D022 -00002229  
+ 2         365.00            730.00          55.00  
+         43.00  
+ 2 313.90  57.00%  -2 
+ 
+  30/09/2007  rec R100006645  CM111632  13 
+   
+    0                       13  
+ 
+       Item Total :         3,370.00  
+    10 1,694.73  49.71%                   41  
+ 
+                  
+                  
+            4927022987
+1   TLTR Name Case  Opening Balance :                      8  
+ 49270229871  TLTR Name Case  24/09/2007  pos D019 -00001253  
+ 1         170.00            170.00          60.00  
+           99.00  1  99.00  41.76%  -1 
+ 
+  30/09/2007  pos D022 -00002299  
+ 4         156.00            624.00          60.00  
+         60.00  
+ 4  374.40  40.00%  -4 
+ 
+    Item Total :  
+             794.00  
+    5 473.40  40.38%                      3  
+ 
+                  
+     Settlement A/C #:  004-400-414421838  Supplier Code:  ABS32546  
+Total :         4,164.00  
+    15 2,168.13  47.93%                   44  
+ 
+                 Supplier Code:  ALI25555        ALLPOWER INVESTMENTS LTD.  
+        4925550300  Jimy Girl Music  Opening Balance :                   16  
+ 4925550300  Jimmy Girl Mus ic 02/09/2007  pos D005 -10003221  
+ -1         165.00          (165.00)  
+         81.00  
+          81.00  -1 -81.00  50.91%  1 
+ 
+  04/09/2007  pos D005 -00007221  
+ 1         165.00            165.00  
+         81.00  
+          81.00  1 81.00  50.91%  -1 
+ 
+  11/09/2007  giv W088 -10003422  
+ 1         165.00            165.00  
+         81.00  
+          81.00  1 81.00  50.91%  -1 
+ 
+  20/09/2007  pos D005-10003458  
+ 1         165.00            165.00  
+         81.00  
+          81.00  1 81.00  50.91%  -1 
+ 
+  22/09/2007  rts D005 -00007399  
+ 1 
+           81.00  
+ 0.00  0 0.00  0.00%  -1 
+ 
+  24/09/2007  pos D019 -00001359  
+ 3         150.00            450.00  
+         81.00          40.00  
+ 3 180.00  60.00%  -3 
+ 
+  25/09/2007  pos D022 -00002229  
+ 2         365.00            730.00  
+         81.00          43.00  
+ 2 313.90  57.00%  -2 
+ 
+       Item Total :         1,510.00  
+    7 655.90  56.56%                      8  
+ 
+                 
+     Settlement A/C #:  004-400-41442183 9 Supplier Code:  ALI25555  Total :         1,510.00  
+    7 655.90  56.56%                      8  
+ 
+                 
+       Merchandizer M1      
+Total :         5,674.00  
+    22      2,824.03  50.23%                   52  
+                 
+       Settlement Grand Total :         5,674.00  
+    22      2,824.03  50.23%                   52  
+ 
+ 
+ 
+* Remarks: Option for NOT  printing the Items if NO sales within the Settlement Period (this will cut down the printing pa ges a lot)  
+
+=== PAGE 139 ===
+ 
+CS2000v6. 5 Book -3  
+Edition1. 0_200 903 
+Page 139 of 139 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+………… End of Book THREE  (3) …………..  
+<The System Processes>  

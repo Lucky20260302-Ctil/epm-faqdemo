@@ -1,0 +1,63 @@
+---
+title: "FR-RTR-109: FR-RTR-109: Submission of Quotations / Tenders without Offer Response"
+tags: [epro, EPRO_TenderStage]
+---
+
+# FR-RTR-109: FR-RTR-109: Submission of Quotations / Tenders without Offer Response
+
+## 需求描述
+
+Requirement ID:	FR-RTR-109	Requirement Type:	RFQ and Tender	Requirements
+Parent Requirement #:
+FR-RTR-101	Submission of Quotations / Tenders
+Description:
+3.6.	Submission of Quotations / Tenders
+3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
+(f) Declining bid with mandatory input of reason
+3.6.3	The Platform shall be developed with the following features:
+(h) Suppliers shall be allowed to withdraw and/or resubmit quotations / proposals before the closing time. However, such changes shall be restricted to the same account (i.e. If Sub-account A submitted a quotation / proposal, he will be the primary account to manage and amend the submissions which other sub-accounts cannot be able to supersede / amend them).
+(i) The Platform should reject any amendments or submissions of proposals after the closing time (documents in uploading process / documents uploaded successfully but suppliers did not click “Submit” button to confirm their submission at closing time will not be considered).
+(j) The Platform should send an email notification to the supplier upon successful submission of quotation / proposal.
+(k) The corresponding Subject Officer and/or F&A User shall have real time access to the number of submissions received on the Platform.
+(l) Suppliers shall have the option to decline the invitation with compulsory input of decline reasons.
+(m) Suppliers shall be allowed to withdraw their decline decision and submit quotations / proposals before closing time.
+Rationale:
+None
+Acceptance / Fit Criteria:
+Procurement Officers configure the RFQ/Tender exercise to allow bidders/tenderers to submit their quotations / tenders to the E-Tender Box online through the Platform.
+The Platform restricts the submission of quotations / tenders to occur only before the invitation closing date and time set by Procurement Officers. For example, if the invitation closing date and time is 24-Sep at 15:00 HKT (GMT+8), submissions will only be accepted until 24-Sep at 3:00 PM Hong Kong time. The E-Tender Box will close and lock promptly at 3:00 PM on 24-Sep Hong Kong time.
+Bidders/tenderers responding to the RFQ / Tender, submissions must begin before the closing time, and all submissions must be completed before the closing time. Any submissions that do not meet this requirement will be classified as "Invalid submission" and recorded in the Submission History.
+Bidders/tenderers can submit their quotations / tenders if none of the following conditions are not mandatory. However, if any of these conditions are mandatory, bidders/tenderers must either complete the necessary actions or pass the compliance verification before they can submit their quotations / tenders:
+Acknowledging the invitation
+Submission of the signed NDA/Confidentiality Undertaking
+for the briefing/site visit
+The e-Form for submitting quotations / tenders without offer response related to the RFQ / Tender can be used before invitation closing date and time of the RFQ / Tender:
+After submission, the Submission History will show the date and time of each submission, along with the status of submission results (e.g. Valid submission or Invalid submission).
+The Platform allows bidders/tenderers have the option to supersede their submission by submitting again or to submit a withdrawal request to take back their previous submission after submitting their quotations/tenders with an offer response.
+Outlined below are specific scenarios with their corresponding exception handling:
+Procurement Officers and Finance users have real-time access to the number of submissions received on the Platform, including:
+The number of bidders/tenderers whose submissions of quotations/tenders with offers have been received on the Platform
+The number of bidders/tenderers who submissions of quotations/tenders without offers have been received on the Platform
+The number of bidders/tenderers with no submissions received on the Platform
+The number of bidders/tenderers with no response to the RFQ/Tender exercise on the Platform
+The following report is available for internal users with access control to track the status of bidders/tenderers regarding the respond to RFQ / Tender, after invitation closing date and time:
+RFQ / Tender Performance: This report indicates whether bidders/tenderers have responded to the RFQ / Tender. If they have, it lists them along with the date and time of each submission, the submission type (such as Offer, No Offer, Withdraw), and the status of submission results (such as Valid submission and Invalid submission).
+The Platform can generate standard notification emails for external suppliers based on specific triggers:
+The Platform  the Email Log to allow internal users with access control to view standard notification emails regarding the submission of quotations/tenders. These emails will only be listed after the invitation closing date and time.
+Here are the available options and features for the e-Form:
+The preparer (External suppliers, including master account and sub-accounts with the Tender Admin role) drafts the e-Form. Drafts can be saved automatically to prevent data loss in case of a session timeout.
+The e-Form can be saved in PDF and Excel formats.
+PDF version: for attaching to emails for review and audit trails.
+Excel version: Helps the preparer in creating documents for off-system / external processes.
+Change history: The Platform automatically logs each field, capturing the date and time, the changer's details, the field modified, and old/new values.
+Amendment history: The preparer manually fills in the summary of changes with each save.
+Action History captures every e-Form status change, specifying the date, time, initiator, and new status.
+A weekly reminder email is sent to the preparer who have pending tasks to complete.
+Dependencies:
+Notifications and alerts feature
+Reminder features
+Report requirements
+Tailoring Guidelines:
+None
+Change History:
+None

@@ -1,0 +1,738 @@
+{
+  "version": "v6.5",
+  "book": "Book-1_TABLES",
+  "filename": "CS2000v6.5_rev1.1(Book-1)TABLES.pdf",
+  "total_pages": 146,
+  "pages": [
+    {
+      "page": 1,
+      "text": "Page 1 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n \n \nChainStore 2000  Application Package  \n \n \nUser Operation Manual  (v6.5) \n Edition v 1.1 (d200 903)  \n<The Introduction & Master Tables > \n________________________________________________________________________  \n \n \n \n \n \n \n \n \n \n \n 1605 Shuk Tak Centre , West Tower  \n200 Connaught Road, Central  \nShueng Wan , Hong Kong  \nTel. 852 -2880 -9119    Fax. 852 -2811 -9424  \ninfo@sanyoextended.com  \nwww.sanyoextended.com  \n",
+      "section": null
+    },
+    {
+      "page": 2,
+      "text": "Page 2 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n \n \nCONFIDENTIALITY  \n \n \n \nThis document contains confidential  information about software package \n“ChainStore 2000 ” developed and owned by Sanyo Extended System Services \nLtd. \n \nThis document is made exclusively for “ChainStore 2000 ” Licensee who is the \nlegal License holder under Terms and Conditions of Software License Agreement \nwith Sanyo Extended System Services Ltd.  \n \nNo part of this document may be released, reproduced or transmitted in any form or \nby any means, electronic or mech anical, including but without limitation, \nphotocopying and recording, for any purpose other than Licensee‟s personal use \nwithout written permission of Sanyo Extended System Services Ltd.  \n \nThe information in this document is subject to change without notice .  \n \n Copyright  Sanyo Extended System Services Ltd ., 2009 \nAll Rights Reserved  \n ",
+      "section": null
+    },
+    {
+      "page": 3,
+      "text": "Page 3 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nTable of Content  \n           Page \n \nSECTION  1   INTRODU CTION TO CHAINSTORE 2000V6. 5 SYSTEM  ................................ .......................  5 \n1.1 System Overview  ................................ ................................ ................................ .........................  5 \n1.2 Getting Start  ................................ ................................ ................................ ................................  6 \n1.2.1  Quick Refe rence of Common Used Function Keys (Icons)  ................................ ..................  6 \n1.2.2  Symbols Used  ................................ ................................ ................................ .....................  9 \n1.2.3  Hot-key Functions (The Function Key Deployment)  ................................ .........................  10 \n1.2.4  Main Menu Screens Layout  ................................ ................................ ..............................  11 \n1.3 Display Print Queue  ................................ ................................ ................................ ...................  16 \nSECTION  2    LOGON  PROCEDUR E ................................ ................................ ................................ .........  19 \nSECTION 3    SYSTEM   UTILITY  ................................ ................................ ................................ ................  21 \n3.1 COMPANY FILE MAINTENANCE  ................................ ................................ ................................ ..............  22 \n3.2 USER TABLE MAINTENANCE / SECURITY FILE MAINTENANCE  ................................ ................................ .......  24 \n3.3 SELECT COMPANY  ................................ ................................ ................................ ...............................  29 \n3.4 SELECT LANGUAGE  ................................ ................................ ................................ ..............................  30 \n3.4 CLEAR ALL WINDOWS  ................................ ................................ ................................ ..........................  31 \nSECTION   4     MASTER TABLE M AINTENANCE  ................................ ................................ .......................  35 \nTHE PRIMARY TABLES : ................................ ................................ ................................ ................................ .. 38 \n4.1 Division  Code Maintenance  ................................ ................................ ................................ .......  38 \n4.2 Location Code Maintenance  ................................ ................................ ................................ ...... 40 \n4.3 Category Code Maintenance  ................................ ................................ ................................ ..... 44 \n4.4 Size Category Maintenance  ................................ ................................ ................................ .......  46 \n4.5 Color Code Maintenance  ................................ ................................ ................................ ...........  48 \n4.6 Brand Code Maintenance  ................................ ................................ ................................ ..........  49 \n4.7 Sales Staff Code Maintenance  ................................ ................................ ................................ ... 51 \n4.8 Payment Type Code Maintenance  ................................ ................................ .............................  53 \n4.9 POS Payment Key Button Control  ................................ ................................ ..............................  58 \n4.10 Exchange Rate Maintenance  ................................ ................................ ................................  60 \n4.11 Transaction Code Maintenance  ................................ ................................ ............................  62 \n4.12 Promotion Discount Code  ................................ ................................ ................................ ..... 65 \n4.13 Owner ID Maintenance  ................................ ................................ ................................ .........  66 \n4.14 Country Code Maintenance  ................................ ................................ ................................ .. 68 \n4.15 Price Group Maintenance  ................................ ................................ ................................ ..... 70 \n4.16 Price Group Code Maintenance  ................................ ................................ ............................  72 \n4.17 Nationality Table Maintenance  ................................ ................................ ............................  73 \n4.18 Age Group Table Maintenance  ................................ ................................ .............................  75 \n4.19 Service Type Table Maintenance  ................................ ................................ ..........................  77 \n4.20 Reason Table Maintenance  ................................ ................................ ................................ .. 78 \n4.21 Location Message Maintenance  ................................ ................................ ...........................  80 \n4.22 Bulletin  ................................ ................................ ................................ ................................ .. 81 \n4.23 Season Code Maintenance ................................ ................................ ................................ .... 83 \n4.24 Receipt Charge Code Maintenance  ................................ ................................ .......................  85 \n4.25 POS Security Access Maintenance  ................................ ................................ ........................  88 ",
+      "section": "SECTION  1   INTRODU CTION TO CHAINSTORE 2000V6. 5 SYSTEM  ................................ .......................  5"
+    },
+    {
+      "page": 4,
+      "text": "Page 4 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n Table of Content  \n           Page \n \n4.26 Weather Table Maintenance  ................................ ................................ ................................  90 \n4.27 Bin Number Table Maintenance  ................................ ................................ ...........................  91 \n4.28 Occupation Code  Table Maintenance  ................................ ................................ ...................  92 \nTHE SECONDARY TABLES   : ................................ ................................ ................................ .............................  93 \n4.29 Location Tree Table  ................................ ................................ ................................ ...............  93 \n4.30 Analysis Code Table  ................................ ................................ ................................ ..............  96 \n4.30.1  The “Product Line” Table ................................ ................................ ................................ .. 97 \n4.30.2  The \"Member Line\" Table  ................................ ................................ ..............................  101 \n4.30.3  The \"Customer Line\" Table  ................................ ................................ .............................  103 \n4.31 Material Code Maintenance  ................................ ................................ ...............................  105 \n4.32 Project Number.  ................................ ................................ ................................ ..................  107 \n4.33 Department Code ................................ ................................ ................................ ................  108 \n4.34 Warehouse Lot Remarks  ................................ ................................ ................................ ..... 111 \n4.35 Aging Table  ................................ ................................ ................................ .........................  113 \n4.36 Bank / Petty Cash Code  ................................ ................................ ................................ .......  115 \n4.37 Gift Certificate Type  ................................ ................................ ................................ ............  117 \n4.38 Target Sales Table Maintenance -I (MF3000)  ................................ ................................ ...... 118 \n4.39 Target Sales Table Maintenance -II (MX3000)  ................................ ................................ .... 120 \n4.40 VAT Tax Rate  ................................ ................................ ................................ .......................  121 \n4.41 Tax Code Table  ................................ ................................ ................................ ....................  123 \n4.42 Special Item Description  ................................ ................................ ................................ ..... 125 \n4.43 Wholesales & Distribution Related Tables (Optional Module only)  ................................ .... 127 \n4.43.1  District  ................................ ................................ ................................ ............................  127 \n4.43.2  Customer Type  ................................ ................................ ................................ ...............  128 \n4.43.3  Distribution Salesman  ................................ ................................ ................................ .... 129 \n4.44 Region Tree Table for Member  ................................ ................................ ...........................  130 \n4.44.1  Regional Tree Code  ................................ ................................ ................................ ........  130 \n4.44.2  Regional Tree Code Table Maintenance  ................................ ................................ ........  131 \n4.44.3  Regional Grouping Control Maintenance  ................................ ................................ ...... 132 \n4.45 Survey Form Maintenance  ................................ ................................ ................................ .. 135 \n4.45.1  Survey Form Table Maintenance  ................................ ................................ ...................  135 \n4.45.2  Survey Questionnaires  ................................ ................................ ................................ ... 137 \n4.45.3  Survey Answer Code  ................................ ................................ ................................ .......  138 \nSPECIA L TABLES (OPTIONAL TABLES ) ................................ ................................ ................................ ..............  139 \n4.46 The Product Style  ................................ ................................ ................................ ................  139 \n4.46.1  Sex / Gender Code Maintenance  ................................ ................................ ....................  139 \n4.46.2  Collection Code Maintenance  ................................ ................................ ........................  140 \n4.46.3  Label Code Maintenance  ................................ ................................ ................................  141 \n4.47 Measure Tables (For Specific Use Only)  ................................ ................................ ..............  142 \n4.47.1  Unit of Measure  ................................ ................................ ................................ .............  142 \n4.47.2  Unit of Measure Conversion  ................................ ................................ ...........................  143 \n4.48 Custom (The Custom -Made Tables)  ................................ ................................ ....................  145 \n4.48.1  Inseam  ................................ ................................ ................................ ............................  145 \n4.48.2  Size Category Conversion  ................................ ................................ ...............................  146 \n ",
+      "section": "SECTION  1   INTRODU CTION TO CHAINSTORE 2000V6. 5 SYSTEM  ................................ .......................  5"
+    },
+    {
+      "page": 5,
+      "text": "Page 5 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nSECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM  \n \nThis book is written and designed to serve the needs of operating the ChainStore 2000 \napplication package developed by Sanyo Extended System Services Ltd..  This manual is \nwritten in simple sentence approach to illustrate all major operating procedures with \nappropriate explanations. This helps user easier to understand the application pack age \nrelated to its own business operation.  \n \n1.1 System Overview  \n \nChainStore 2000  application system package is a comprehensive retail software  \ndesigned in multi -country, multi -company, multi -store, multi -currency and multi -\nlanguage environment. The package al so comes with many optional modules to suit for \ndifferent users‟ business requirements.   \n \nChainStore 2000  comes in two major systems – the front office (POS) and Back Office \nOperations. This menu is for the Back Office Operations  only.  \n \nThe following is the list of major modules including “Optional Modules*” in \nChainStore 2000:  \n \n1. Table Maintenance;  \n2. Master Maintenance  \n3. Purchase Order Maintenance   \n4. Stock Receipt  with Payment control Process ; \n5. Stock Transfer  (combination of Location and Item Oriented Transfer) ; \n6. Physical Adjustment Process;  \n7. Physical Count Process;  \n8. Stock Replenishment;  \n9. Stock Distribution;  \n10. Price Mark -up/Down;  \n11. On-Sales Price Promotion  \n12. Inventory Cost Adjustment;  \n13. Web Based Consignment Stock Process     \n14. Wholesales & Distribution Process  \n15. Promotional Mix & Match Process  \n16. Customer Loyalty Module  \n17. On-Line Inquiry;  \n18. Web Based Management Reports by MS Reporting Services  \n19. Data Interface / Exchange  \n20. Administration Process.  \n Enhanced  \nEnhanced  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 6,
+      "text": "Page 6 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n1.2 Getting Start  \n \nBefore we start to discuss the processes in the system, we need to explain the most \nfrequently used words in the manual such as the commonly used function keys, the \nsymbols described in screen contents, and etc. This definition could help users \nmore easy t o understand the operational procedures when they are going through \nthe discussions in this manual.  \n \n1.2.1 Quick Reference of Common Used Function Keys (Icons)  \nYou will find there is a line of icons (or function keys) at top of every working \nscreen. An graphica l image or word in every icon is illustrating its \ncorresponding function, so in the following we are going to discuss those \ncommonly used icons and its functional explanations:  \n   \nFig 1 -1 \n               \n \n \n \n Previous Record  \n \nPrevious Page  \n \nNext Page  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 7,
+      "text": "Page 7 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nFig 1 -2 \n \n \n \n \n \n \n \n \n \n \n \n \n \nSearch Record  \n \nPrint Queue  \n First Record  \n Previous Page  \n \n \nNext Page  \n ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 8,
+      "text": "Page 8 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n Fig 1 -3 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nLast Record  \n Create New Record  \n \nModify Record  \n \nDelete  Exit ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 9,
+      "text": "Page 9 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n1.2.2 Symbols Used  \n \nBesides the Icons (function keys) explanations, there are screen display fields \nexplanations as well. We will use abbreviations or symbols to describe the field‟s \nmeaning for our convenience. User should learn the following symbols to make their \nperception of the later sections easier.  \n \n                           1). X(n)  -  X represents alphanumeric character. The n in bracket  \n                                            indicates that there are „n‟ number of alphanumeric  \n                                            characters.  \n  \n                                            e.g. X(5) represents 5 alphanumeric characters,  \n                                                   “12Abc”, “ab1d3”, “123” are all accepted here.  \n \n                           2). 9(n).9(m)  -  9 represents numeric character. The n in bracket  \n                                                   indicates that there are n number of numeric  \n                                                   characters. The m in bracket after the decimal po int \n                                                   indicates that there are m number of numeric  \n                                                   characters after the decimal point.  \n \n                                                   e.g. 9(3).99 repr esents 3 numeric integers with  \n                                                   2 numeric decimals point.  \n                                                   “12.10”, “123.09” are accepted here. But “as8.99”,  \n                                                   “1234.56”, “12.987” are not accepted here.  \n \n                            3). S -  S represents the numeric field is signed. In other words,  \n                                        positive (+) and negative ( -) values of the field are both  \n                                        accepted during input.  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 10,
+      "text": "Page 10 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n1.2.3 Hot-key Functions (The Function Key Deployment)  \n \nDirect Hot -Key or Function Keys deployment is available in the system for user \nfaster input in case of manual operation without mouse click. The following direct \nkeys are available in most of major operation except specified otherwise.  Users \nwill find the y are very useful in many operational processes especially for mass \ndata input environment:  \n \n                                          <Enter> - Select  Select and return the reference key  \n                                                                             to the input field  \n \n                                          F2- Search      Search for the desire record;  \n \nF3-Print Queue  Branch to “Print Queue” management  \n sub-system for report printing or preview \noptions;    \n \nShift F5 -First Go to the first page of enquired \ninformation  \n \nF5-Previous  Go to the pervious page of enquired \ninformation  \n \n                                          F6- Next  Go to the next page of enquired  \n                                                                             information  \n \nShift F6 -Last Go to the last page of enquired \ninformation  \n \n                                          F7- Create.  Create new record in correspondence\n maintenance proce ss  \n \nF8-Modify  Modify the selected record  \n \nF9-Delete  Delete the selected record  \n \n                                          ESC- Exit Exit to previous process  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 11,
+      "text": "Page 11 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n \n \n1.2.4 Main Menu Screens Layout  \n \nChainStore 2000 is designed in user -friendly and easy operational appr oach.  Screen \nlayout of the package is consistent throughout the entire application.  User could easily \nmaster the general screen functions just with simple training and practice.  \n \nLet‟s take a look of the Main Menu screen layout : - \n \n \n \n \n \n \n \n \n \n The Main \nMenu Area  The Company Name \nin Operation  \nThe Sub Menu \nArea  \nThe Sub Menu of the \nhighlighted  Topic in Main \nMenu on the left  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 12,
+      "text": "Page 12 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n \n            1.) Pull Down Menu  in System Bar for System Functions   \n \nUser will find a “System Bar” on top of the Main Menu which label s all system \noperation s of ChainStore 2000.  By pointing the cursor to System Bar, the \nfunctions within that section will be poll down ready for user selection.   Sub \nmenus are found by following the pointing arrows “” and click to confirm the \nselected process desired by user.  \n \n \nSample Display : - \n \n \n \n \n \n                 Surf the mouse and select the desired process by clicking the mouse  \n \n \n The System Bar  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 13,
+      "text": "Page 13 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n              2.) General Function Selection Tool Bar Screen   \n \nDuring the execution of process, there always has a tool bar set on top of each \nscreen. Users could activate each icon function by pointing to the icon with mouse \nclick.   \n \n(e.g. Create Record function in  Maintenance process).  \n \n \n             Tool Bar  Dis play : - \n \n \n \n \n \n \n \n \n \n \n \n \n \n   a. Select the desired function of process by click the corresponding  \nicon .  \nCreate Record  \n \nModify Record  \n Delete Record  Quit ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 14,
+      "text": "Page 14 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n             3.) General Menu / Index Screen   \n \nIn most of the processing modules, an INDEX TABLE is organized in a front \npage for user‟s easy reference/selection purpose.  This screen provides as an index \nthat shows the data under different sorting sequences.  \n      \nTable Index Sample Display : - \n \n \n \n \n \n                 a. Select the desired record or index by input the reference index key and  \n                     double click ; or by moving the cursor to highlight it.  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 15,
+      "text": "Page 15 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n             4.) General Detail Screen   \n \nSample of detail information are displayed on  this screen after the index record is  \nselected in screen 3.  \n \n            Screen Display : - \n \n",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 16,
+      "text": "Page 16 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n1.3 Display Print Queue  \n \nThose  processing reports (NOT analysis reports by MS - Reporting Services)  generated by \nChainStore 2000 application package are saved in the Print Queue system instead of \nprint direct to printer.   User requires click to the Print Queue Management Menu Screen \nby simply pressing <F3> or click to corresponding Icon. The general functions of the \nPrint Queue Ma nagement :  \n         \n         Screen Display : - \n         Print Queue Management Menu Screen  \n \n \n \n  \n \n \n        General Print Queue Management Information : - \n Generation Date and Time of print file  \n Description of print file,  \n Printer setting (Local “L ” or System “A” printer)  \n Form (Pitch),  \n Column (Right Margin),  This Print Button is for Text \nbased Print Mode  ONLY  - \nsuch as for Dot Matrix printer \nconnection  \nFor Graphic  Print Mode  – i.e. \nLaser Printer connection is \ninside this “ <Shift F2> \nPreview Button ” to be \ndescribed in next page  \n ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 17,
+      "text": "Page 17 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  Number of pages in print file,  \n Status (Protected or Printed).  \n \n         Functions               Descriptions  \n            F2                      -  Search the desired print file at the top of print queue index  \n            Shift F2    -  Print File Preview  \nF3                      -  Print the selected print file print to the printer  \nShift F5             -  Search for first page of print queue index  \n            F5                      -  Search for previous page of print queue index  \n            F6                      -  Search for next page of print queue index  \nShift F6   -  Search for last page of print queue index  \nF8 -   Set Printer and set protection to selected record form avoiding \ndeletion of it  \nShift F7  -  Display the selected record contents on screen  \n            F9                     -  Remove a particular record from the menu index screen  \n            <Esc>               -  Exit print queue and return to previous screen  \n \n \nPrint Queue Management  < Shift -F2 > “Preview” Function Descriptions : - \n \nThe “Preview” function will display the selected report on screen for user viewing \npurpose without printing.   “Preview” icon is conveniently find in the Tool Bar on top of \nthe screen in Print Queue Sub -System. (See Screen layout in last page ). \n \nPreview sc reen pop up as below when the button is pressed:  \n \n \n",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 18,
+      "text": "Page 18 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n \n \n      Functions                    Descriptions  \n \n       First - Display first page of displaying print file  \n  \nPrev                        - Display previous page of displaying print file  \n \n        Next                         - Display next page of displaying print file  \n \n        Last                          - Display last page of displaying print file  \n \n        Zoom In                   - Display close -up view of displaying print file  \n \n        Zoom out                 - Display more of the page at a reduced size  \n \n        Printer                   - Print active document by time  \n \n        Exit                          - Exit Print Queue Management Display Screen  \n This print Button \nis for Graphic \nPrint Mode  (thru \nWindows drivers) \nonly – good for \nsuch as Laser \nPrinter connection .  ",
+      "section": "SECTION  1   INTRODUCTION TO ChainStore 2000 v6.5 SYSTEM"
+    },
+    {
+      "page": 19,
+      "text": "Page 19 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n SECTION  2    LOGON  PROCED URE \n \nObjective:      \n \nIt provides a Logon Procedure when user wants into the application system. The Log On \nscreen is created to avoid from unauthorized access, it is a locked door of the system.  \nAuthorization key and password are needed for each ChainStor e2000 user. User has \nto obtain the key and password from System Administrator before first Logon.  \n \n  Screen Display : - \n \n \n \n  Logon On Screen  \n \n         Prompt                      Descriptions  \n \n         User Name                   X(40) -  Must field  \n                                          -  User Identification Number  \n \n         Password                 X( 40) -  Must field and not displayed  \n- User Personal Password  \n \n         Functions                 Descriptions  \n \n         <OK>                    - Confirm to login by input key  \n \n         <Cancel>               - Exit Logon Screen  ",
+      "section": "SECTION  2    LOGON  PROCED URE"
+    },
+    {
+      "page": 20,
+      "text": "Page 20 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n Sample Logon Procedure  \n  \n    1.  Enter the correct User Name ; \n \n    2.  Enter the Password corresponding to the input User I.D.;  \n \n3. Press <Enter> to login or click <CANCEL> to exit.  ",
+      "section": "SECTION  2    LOGON  PROCED URE"
+    },
+    {
+      "page": 21,
+      "text": "Page 21 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n \n \n  SECTION 3    SYSTEM   UTILITY  \n \nObjective:   \n \nBefore ChainStore 2000 live operations, there are several utilities that user must first \ndefine for the system to run. These utilities recommend to be executed by System \nAdministrator, or the delicat e personnel in your organization only. These functions in the \nSystem Control Menu as follows : - \n \n1. Select Company;  \n2. System – System functions maintenance  \n3. Windows – swap -in, swap -out and clear of operating windows  \n4. Log Off  \n \nWe are going to discuss these system control utilities in the next beginning section since \nmost of these modules are needed to be defined before system execution.  \n \n \n ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 22,
+      "text": "Page 22 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n3.1 Company File Maintenance  \n \nSince it is a multi -company control system, different company information will be \ndistinguished and stored in separate company data directory.  It provides the maintenance \nof company information for user to update and input the Company Master File.  \n \nObjective : -  Maintain the general company information in Co mpany Master  \n                              File. \n \nFunctions : -  1.  Create Record -   Add new record into Company Master File;  \n                     2.  Modify Record -  Change information of existing Company  \n                                                     Master File record;  \n                     3.  Inquire Record -  Display detail information of existing  \n                                                      Company Master File record;  \n                     4.  List Record -       Generates hard copy of Company Master File  \n                                                       Listing and placed at Print Queue.  \n \n Screen Display : - \n          Company File Maintenance Screen  \n \n \n ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 23,
+      "text": "Page 23 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n           Prompt                       Descriptions  \n \n           Company Code         X(02) -  Must field  \n                                             -  a unique code represents a particular company  \n \n           System Code             X(02) -  Must field  \n                                             -  System code that indicates which system that  \n                                                company can be accessed  \n \n           Company Name        X(50) -  Must field  \n                                             -  Company name  \n            Base Currency         X(03) - Must field  \n                                            -  Base currency of that company normally used  \n \n            Financial Year  \n            From                           99 9999 -  Must field (mm/ yyyy ) \n                                            -  Financial year starting month and year  \n            To                               99 9999 -  Display only (mm/ yyyy ) \n                                            -  Auto -generated after From field above is inp ut \n                                            -  Financial year ending month and year  \n \n \n             Functions             Descriptions  \n \n             <Enter>              -  Search for desire record input by user  \n                                        -  Verify input while input is done  \n \n               F1                     -  Confirm the input company record  \n \n               F5                     -  Search for previous record of Company Master File  \n \n               F6                     -  Search for ne xt record of Company Master File  \n \n               F10                   -  Abort and return to previous screen  \n \n ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 24,
+      "text": "Page 24 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n3.2 User Table Maintenance / Security File Maintenance  \n \nThis Security module provides security control on program, files and functions over user \nwho accesses to the system.  Unauthorized data access is not allowed if the user is set for \n„NO‟ access right of the function.  The system administrator therefore builds the access \nauthorization in this maintenance module according to user rights is importa nt.   \n \n \nObjective : -   \n \nMaintain the user logon information and access authorization of each operational module, \nprogram or function in the system.  \n \nFunctions : - 1.  Create Record  Add new record into the System  \n \n 2.  Modify Record  Change information of an existing record;  \n \n 3.  Delete Record  Remove an existing record  \n \n 4. Inquiry Record  Display detail of the selected record  \n  \n",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 25,
+      "text": "Page 25 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n  Screen Display : - \n  System Security Maintenance Screen  \n \n \n \n \nPrompt                         Descriptions  \n \n            User ID                        X(03) -  Must field  \n                                                 -  User logon code or I.D.  \n \n            User Name                   X (40) -  Must field  \n                                                 -  User name  \n \n            Class                            X (01) -  Must field  \n                                                 -  User level in the company  \n                                                 -  0 : Administrator  \n                                                    1 : Staff – who can see cost of product  \n                                                    2 : Junior Staff  – who cannot see cost of product  \n \n             Dept                            X (01) -  Optional field  \n                                                 -  Department code  \n Copy Button:  \nThis allows user to create a \nnew back office user by \ncopying from an existing user \naccount and the current \nprivileges.   ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 26,
+      "text": "Page 26 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  Expiry Period   No. of Months  \n    This is the Expiry Period of User's Password  \n \n Expiry Date   dd/mm/yyyy  \n    This is the Expiry Date of User's Password  \n  \n PASS button   This is the User Password set up  Button  \n    Please refer to the usage in next paragraph  \n \nThe column in table on the left hand side:  \nC - Create  \nM - Modify  \nD - Delete  \nV - Void  \nS - Close  \n \n          Screen Display : - After clicking the „PASS‟ button in „Password Information‟ box  \n          System Security Password Screen  \n         \n \n \n \n \n \n \n \nPrompt                         Descriptions  \n \n            Old Password               X( 40) -  Display Only  \n                                                  - Display „********‟ for original password  \n \n New Password             X( 40) -  Optional field  \n                                                  - User logon password corresponding to the I.D.  \n \n Verification                  X( 40) -  Optional field  \n                                               - Must be the same as „New Password‟ in order to save the \nchange  \n \nScreen Display : -  After clicking the „Add” button in „Select Company/System‟ \narea \n \n            Select Company/System Screen  \n \n \n ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 27,
+      "text": "Page 27 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n- In the company box, click the combo box of the company field, and the select \ncompany  \n X(02) – Must field  \n Company to be defined access  \n \n- In the system box, click the combo box of the system field, and the select system \nyou want to access  \n X(02) – Must field  \n System code or system group to be defined access  \n E.g. IC : Inventory Control System,  \nBC : Batch Control System  \nEN : Enquiry System, etc.  \n \n The access right of a user to a specific program/function is shown  by an icon \ninside the “Authority Tree” (  “” <Lock> stand for “not authorized to access”, \nwhile “” stand for “authorized”  ). To switch between values, double -click on \nthe icon;  \n Below the Box of “Authority Tree” are two groups of buttons, “Authorize ” and \n“Unauthorized”,  which is used to set or unset a division of programs respectively.  \nIn the function box, chose “yes” authorize, which can be use the system fu nction \n(e.g. Add, modify and delete).  \n \nOther Button  – please \nrefer to next page  ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 28,
+      "text": "Page 28 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nThe Other  Button:  \n \n \n \n \n \n \n \n \n \n \n \n \nLocation Layer Control  \n This is aimed to set user access  \nrights control in according to \nLocation Layer Table;  \n Since this is a new added features in \nthe system with only limited Access \nControl function  available today, \nplease consult our System \nConsultant before use  Caution:  \n Please note this Access Control \nTable has limited Access Control \nfunction to only specific processes. \nPlease consult our System \nConsultant before use  ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 29,
+      "text": "Page 29 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n3.3 Select Company  \n \nChainStore 2000 is a package designed in multi -company structure.  Therefore a \nfunction to allow user to select for which company he will work on is important.  \n \nObjective :-   \n \nProvides company selection indicates which company user want to work on.  This \nCompany selection function will promote  automatically every time user log -in to the \napplication.  User has choice to switch between company after log -in.  \n \nScreen Display : - \n \n \n           Prompt                     Description  \n \n           Company Name     X(50) -  Display only  \n                                          -  Company name corresponding to Company Code  \n \n           Procedure  \n \n -  Select from system tools bar at the company you are intending to work with.  \n  \nAuto prom pt to \ncompany selection \nonce log -in ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 30,
+      "text": "Page 30 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n \n3.4 Select La nguage  \n \nChainStore 2000  support s different language s; user can select their language as screen \ndisplayed . \n \n The default languages of ChainStore 2000 are: \n English  \n Conventional Chinese , and \n Simplified Chinese  \n \n< Rest of other languages  listed  is optional and subject to availability  > \n \n \n ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 31,
+      "text": "Page 31 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n3.4 Clear All Windows  \n \nThe application software ChainStore 2000 is designed in a multi -tasking environment \nthat one single user could open up more than one task or process simultaneously.   These \nactive tasks are registered under an Active Task Table  inside the system and show under \nthe „Window‟ section as follows:  \n \n \n \n \n \n \n \nIn the design of the application,  user cannot exit from ChainStore 2000 if active task \nis found find under „Window‟  section,  or in the Active Task Table.  User must exit from \nall act ive tasks before exit the application to Windows Desktop.  \nThese are the Active Tasks registered as \nrunning in the System  ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 32,
+      "text": "Page 32 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nIn some rare situation s,  user had already exit ed all active tasks from application but the \nActive Task Table still hold the task name and show in Window section, this will stop \nuser exit from the application until „Clear All Windows”  function under Administration \nSection is pressed . \n \n \n \n \n \n \n \n \n       \n \n \nSometimes the „Exit‟ section is protected even all active \ntasks are already exited from “Window”.  User cannot \nexit from application until all tasks registered in the \nsystem have been cleared by pressing “Clear All \nWindows” function.  (please refer to diag ram illustration \nbelow  )  \n ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 33,
+      "text": "Page 33 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n Activating the “Clear All Windows”  Function  \n \nThis function allows user, in this rare situation happened, to clear all task names \nregistered in the Active Task Table and release the EXIT section back to normal.  \n \n \n \n \n \nImportant  \n \nUser MUST  exit all active tasks from Windows before activating the “Clear \nAll Windows”  Function . Fail to follow this step may affect data integrity \ndepending on what tasks that still active in the Windows  while force to EXIT . \n \n \n \nWhenever you activate the “Clear All Windows”  Function, the system will confirm \nonce again to you – make sure all active Windows ( or tasks) are closed before \nconfirming “YES”  to this action.  \n \nAfter confirming the  “YES”  action in this function,  the „Exit‟ Section will be opened \nagain and user now is safe to exit from application  \n",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 34,
+      "text": "Page 34 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  ",
+      "section": "SECTION 3    SYSTEM   UTILITY"
+    },
+    {
+      "page": 35,
+      "text": "Page 35 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nSECTION   4     MASTER TABLE MAINTENANCE  \n \nObjective   :  \nIn ChainStore 2000, all the processes are working closely related to each others \nbased on many common tables.  These tables are so important that the system \ncannot run without them.  We called these tables are the fundamental building \nblock of the system.  All these tables are user definable, and must relate to user‟s \nown business operatio ns and culture.  Therefore, the value of these tables must be \nunique from customer to customer, the definition are company dependent, and \npolicy dependent as well.   This is a prerequisite must properly define all these \ntables in advance, before system ope ration.     \n \nThe following is the major Master Table Maintenance list for user‟s \naction:  \n \nThe Primary Table s \n Division Code Maintenance;  \n Location Code Maintenance;  \n Category Code Maintenance;  \n Size Code Maintenance;  \n Color Code Maintenance;  \n Brand Code Maintenance;  \n Sales Staff Code Maintenance;  \n Payment Code Maintenance;  \n Exchange Rate Maintenance;  \n District Code Maintenance;  \n Transaction Type Maintenance;  \n Promotion Discount Code  \n Owner ID Code Maintenance;  \n Country Code Maintenance;  \n Group Code Maintenance;  \n Nationality Code  \n Age Group  \n Service Type  \n Reason Code  \n  …… and more tables (see details in this section)  \n \nThe Secondary Table s \n Optional Tables  \n Material Code  \n Project code  \n Department Code  \n Warehouse Bin Location Remarks  \n Aging Code (Inventory Aging)  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 36,
+      "text": "Page 36 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  Bank / Petty Cash  \n Gift Certificate Type  \n Target Sales   \n Location Tree Table  \n Wholesales and Distribution  \n Analysis Code Table  \n Product Line  \no Product Line  \no Analysis Label Modification  \no Analysis Code  \n Member Line  \no Member Line  \no Member Analysis Label Modification  \no Member Analysis Code  \n Customer Line  \no Customer Line  \no Customer Analysis Label Modification  \no Customer Analysis Code  \n \nThe Special Table s \n Non Standard Tables  \n \n \n \n \nIn most of Maintenance processes, there are four available options from the maintenance \nscreen, they are : - \n \n3.1 Create Record - User can input a new record into master file;  \n4.1 Modify Record - User can update an existing record into  \n  master file;  \n5.1 Delete Record - User can remove an existing record from master file;  \n \nIn the following pages, we will discuss the different Mainte nance Processes, and show \nyou how they are related to each other, if any, and what contents are involved in the file.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 37,
+      "text": "Page 37 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nScreen Sample of Table  Maintenance  \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 38,
+      "text": "Page 38 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nThe Primary Tables :  \n4.1 Division Code Maintenance  \n \nThis is used for organizing  the operations in different “operating lines”. This is particular \nuseful for an organization  is operating the POS retail business in more than one “store \nname” or “business nature”.  \n \nExample:  \n \nDivision “A”   =   Diana Fashion Chain  \nDivision “B”   =   Top  Fun Gift Shop Chain  \nDivision “C”   =   Live Fit Jeans Wear Chain .... etc.  \n \nObjective :  Maintain a file of division code such that each code represents a \ndivision or department of an company.  \n \nFunctions :  1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 39,
+      "text": "Page 39 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nPrompt  Description  \n \nDivision Code  X(01) - Must field  \n- a unique code which defines a division of company  \n \nDescription  X(40) - Optional field  \n- a description or name of the defined division  \n \nFunction  Description  \n \n<Enter>  - Search for the desired record that user decides to \nprocess  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, and inquiry operation scre ens. \n \nF5 - Search for previous record while user in modification, \ndeletion, and inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, and inquiry operation screens.  \n \nShift F6  - Search for the last record while user in modification, \ndeletion, and inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n \n \n \n    ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 40,
+      "text": "Page 40 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.2 Location Code Maintenance  \n \nLocation code is design to identify the purpose/use of a specific location.  This location \ninformation is used by the system in many critical processes.    \n \nObjective : - Maintain general information of a location  \n \nFunctions :  1.  Create Record  \n2.  Modify Record  \n3.  Delete Record  \n \n(I)  The Summary Folder   \n \n \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 41,
+      "text": "Page 41 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n(II)  The General Folder   \n \nScreen Display:  \n \n \n \nMajor Data Fields Description:  \n \nPrompt  Description  \n \nLocation Code  X (08) - Must field  \n- First character should refer to division code  \n- a unique code which defines a location   \n \nLocation Type  X (01) - Must field  \n- user must select the location type from select box  \n \nFranchisee Store  optional check box  \n- check this box if this is a Franchisee Store. Specific \nprocessing routine may be applied  differently from \nregular own shops operation  \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 42,
+      "text": "Page 42 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n Location Name  X(40) - Must field  \n- a description or name of the location  \n \nDistrict  X(03) - Must field if Location is checked as \n\"Franchisee Shop ” \n \nCustomer  Code  X(03) - Must field if Location is checked as \n\"Franchisee Shop”  \n- input or selected customer code from search table  \n \n \nCountry  X (02) - Must field  \n- country code where the location is located at  \n \nCurrency  X (03) - Must field  \n-this is the currency code that the shop will be used and \nassociated with Country Code automatically. NO \ninput allowed.  \n \nPrice Group  X (03) – Optional field  \n- indicates where the location belongs to  which Price \nGroup. This will be used for On -Sales Price \nPromotion distribution.  \n \nProject Location  X (01) – Optional field  \n- “ ” the box will enable this location is a Project \nLocation.  \n- Project No. is required for installing the POS into a \nProject Location site.  \n-  \n Open/Close  Enter date of shop open or close – dd/mm/yyyy  \n \n Interface Loc  Optional. Use only interfacing with third party system  \n  that have different Location Codes than CS2000  \n \n Repl. W/H  Optional. Replenishment Warehouse. Use only when  \n  the location has special replenishment warehouse other  \n   \n Repl. Batch Grp  Optional. Replenishment Batch Group. Use only when  \n  the shop is a multiple layered location and wish the data  \n   batch of replenishment transaction files to be stored  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 43,
+      "text": "Page 43 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nScreen Display of \"Group Assign Folder\":  \n \n \n \nThe Group Assignment  FOLDER   \n \nThis is the screen for defining \"Internal District Structure\" of the Location's (i.e. \nwhere is this shop  belonging to? )  \n \n \n \n This is the box to define this \nlocation's internal structure.  \n In this sample case, this location \nis defined as \"City Level\" at \nGuangzhou;  \n The \"Tree\" structure of this \nGuangzhou City is therefore \ndisplay as in list box for user's \nreference.  \n (Note:  The Tree relationship  of \neach level shall be defined prior \nunder \"Loc ation Tree\" Table)   This is controlling the Location's \ntransfer privilege from \"Shop to \nWarehouse\"  in case of the location \nis defined as a \"Shop\" definition  \n In this sample, this shop is set to \nallow stock transfer to Warehouse   up \nto \"华南 \" level ; \n This is controlling the Location's \ntransfer privilege for  \"Shop to Shop\"  \nin case of the location is defined as a \n\"Shop\" definition  \n In this sample, this shop is set to allow \nstock transfer only within \"Guangzhou  \n厂卅 \" city;  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 44,
+      "text": "Page 44 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.3 Category Code Maintenance  \n \nObjective :  Maintain general category information for items which is used \nin Item Master Maintenance.  \n \nFunctions :  1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display :  \n \n \nPrompt  Description  \n \nCategory Code  X(03) - Must field \n- a unique code which defines the category for the Item \nMaster Maintenance  \n \nDescription  X(40) - Must field  \n- a description of such category  \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 45,
+      "text": "Page 45 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n Sub. Category  X(02) - Optional field  \n- a unique code which defines the sub -category of such \ncategory  \n- item u sing this category must belong to one of these \nsub-categories  \n- maximum 30 input of this field  \n \nSub. Category Description  X(10) - Must field if sub -category code has been \ndefined  \n- a description of such sub -category  \n \nSerial Flag  Optional  \n- Setting this to “ YES” indicates the items of this \ncategory will have serial number  \n \nDiscount Control  X(01) - Must Field  \n- default to „No‟ by the system  \n- Setting this to “YES” indicates the items of this \ncategory  have discount control which POS sales \ndiscount is not allowed  \n \nMax. Discount  99.99 - Optional field  \n- available if only „NO‟ discount control is set  \n- Expressed in a percentage of the retail price  \n \nFunction  Description  \n \n<Enter>  - Search for the desired record that user decide to \nprocess  \n- Verify the input while input is d one \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, inquiry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion,  inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, inquiry operation screens.  \n \nShift F6  - Search for the last record while user in modification, \ndeletion, inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 46,
+      "text": "Page 46 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.4 Size Category Maintenance  \n \nObjective: - Maintain a category of a set of size range for items, which is \nused in Item Master Maintenance.  \n \nFunctions: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \n \n \n \nPrompt  Description  \n \nSize Category  X (04) - Must field  \n- a unique code which defines a particular size category \nand is used in item master maintenance  \n \nSize assortment  X (04) - Optional field  \n- Maximum 16 size assortment in every size category  \n \nFunction  Description  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 47,
+      "text": "Page 47 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n <Enter>  - Search for the desired record that user decide to \nprocess  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, inq uiry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion, inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, inquiry operation screens.  \n \nShift F6  - Search for the last record while user in modification, \ndeletion, inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n \n \n \n \nSample Procedure in operating Size Category Maintenance  \n \nIn general, user should make sure the size category is completed input. By pressing  \nF5 and F6, user can search previous and next record respectively while user is in \nmodification, deletion, or Inquiry operation. After all the information have been \ninput correctly, confirm this updating or creation by pressing F1 or exit to previous \nscree n by pressing <Esc>.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 48,
+      "text": "Page 48 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.5 Color Code Maintenance  \n \nObjective :  Maintain general color information for items which is used in Item Master \nMaintenance.  \n \nFunctions :  1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display :  \n \n \n \nPrompt  Description  \n \nColor Code  X(05) - Must field  \n- a unique code which defines a particular color and is \nused in Item Master maintenance  \n \nDescription  X(40) - Optional field  \n- a short description referring to this color code  \n \nFunction  Description  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F2  - Perform clear of the record while user in input screen.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 49,
+      "text": "Page 49 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.6 Brand Code Maintenance  \n \nObjective : - Maintain general brand information for items which is used in \nItem Master Maintenance.  \n \nFunctions : - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display : - \n \n \n \n \nPrompt  Description  \n \nBrand Code  X(06) - Must field  \n- a unique code which defines a particular brand and is \nused in Item Master Maintenance  \n \nBrand Name  X(40) - Optional field  \n- field that indicates the name of such brand code  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 50,
+      "text": "Page 50 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n Supplier Code  X(08) - Must field  \n- Supplier of the Brand  \n- The supplier code will be validated against Supplier \nTable  \n \n         Max. Discount         99.99 – Optional field  \n - the max. discount allowed of the brand  \n \nFunction  Description  \n \n<Enter>  - Search for the desire record that user decide to \nprocess  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF6 - Search for the last record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF10 - Abort and return to previous screen.  \n \n<Shift>+ F1  - press <Shift>+F1 while the cursor is on the Supplier \nCode field entry, an inquire window screen accordin g \nto this field will be shown, as well as user can select \nthe information what they want in this field.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 51,
+      "text": "Page 51 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.7 Sales Staff Code Maintenance  \n \nThis is the table to create, register POS front end users /sale spersons  / cashier / staff in the \nsystem.   By assigning an unique staff code for every POS user , the system could  keep \ntrack POS user / staff access authorization, sales performance, even the log -in and log -out \nattendance in the POS automatically.  \n \n \nFig-1 \n \n \n Input of POS security Code (user \nrole) - the table need to be defined \nprior;  \n This code already has functional \naccess rights pre -set;  \n  This code will be verified by the \nsystem against relevant table  This is the month -period for enforcing the \nPOS user must RENEW his/her password \nfor POS login . \nThe value input is the password need to be \nchanged for every N months  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 52,
+      "text": "Page 52 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nFig-2 \n \n < For a dditional user rights input  > \n \n \n \n \n \n \n \n This is Location access right setting  \n In this sample, this POS user is set to allow access \non certain \"Location\" / shop only;  \n The authorized locations are further defined in the \nLocation line in the sample – such as Location \nA005 only in this case;  \n User could set to allow more access locations for \none user  with different functional  access rights \nper each individual location   ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 53,
+      "text": "Page 53 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.8 Payment Type Code Maintenance   \n \n This is the table use to define the type of payments to be accepted by POS front office in \nsale.  The common sample like cash, credit cards(AE, visa …) foreign currency ( US$, \nYen, Sterling Pounds…..etc.) or even cash coupon issued by your own company could be \ndefined in this table.  \n \n \nScreen Display: - \n \n \n \nPrompt  Description  \n \nCurrency Code  X (03) - Must field  \n- the currency for this payment type  \n \nPayment Code  X (03) - Must field  \n- a unique code that indicates this particular payment \ntype \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 54,
+      "text": "Page 54 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n - The “FMM – Membership refund”, “MEM - \nMembership”, “EPM – Electronic Payment” are \nreserved words for system usage. User is not allowed \nto use these words to define the payment code.  \n \nLocation Code  X (04) - Optional field  \n- The location where this payment type will be applied  \n \nPayment Name  X (40) - Must field  \n- The description of this payment type  \n \nRate 9(05).9(05) - Must field  \n- The exchange rate used in POS of this payment type  \n \nPaymen t Type  - Must field  \n  By Combo Box selection  \n \n  For Return Voucher function in POS front end, \n„Return Voucher‟ and Return Voucher redeem‟ type \nmust be defined  \n \n For „Deposit Return‟ function in POS front -end, at \nleast „Credit Voucher‟ type must be defined  \n \nS9000 Payment Type  X (10) – Must field  \n- if “Payment Type”=”A -Electronic Payment” , \notherwise it is blank  \n- Payment type returns from S9000 machine  \n \nReport Type  - Must field  \n- Chose “Card” belongs to the group Card  \nChose Others belongs to the group Others  \nChose Traveller Cheque belongs to the group \nTraveller Cheque  \nChose Cash belongs to the group Cash  \n \nCommission  - the commission rate for the payment type  \n \nLast Modified  99/99/9999 (dd/mm/yyy y) - Display only  \nDate  - the date when such payment type record was \nmodified last time  \n \nSkip Daily  - Must field  \nEx. Rate  - a flag that indicates whether the payment type will be \nshown in Daily Exchange Rate Input  screen  \n(Chose “Yes” or “No”)  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 55,
+      "text": "Page 55 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nThe Payment Type Function Setting  \n \n \n \n \n \nThe Payment Type ID and Functions  \n \nID \n Payment Type \nDescription  How to Use  \n \nA  \nElectronic P ayment  \n  \n This setting is required only if “Credit Card Interface ” option is \nemployed;  \n Under this option, w hen customer is paying by S9000 card \nterminal which is already certified for CS2000 POS \nconnection , the S9000 card terminal will auto return a code to \nPOS to identify exactly which “credit card ” is now charg ing – \nsuch as “Visa”, “Master  Card ” or others;  \n Therefore this setting need s to be work ed together with another \nsetting “S9000 Payment Type ” in the Table,  – i.e. electronic \nVisa, or M aster Card ;  \n  \nB EPS \n EPS payment for S9000 connection;  \nC Credit Card   This is use d when manually accepting customer ‟s Credit Card ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 56,
+      "text": "Page 56 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n ID \n Payment Type \nDescription  How to Use  \npayment WITHOUT   S9000 Card terminal connection;  \n The common t ype of Credit Card s,  i.e. Visa, AE, Master..etc. \nis defined in Payment Code field in the table  \n \nD Credit Voucher  \n This is a Non -Redeemable Refund Voucher for POS goods return  \nE Credit Card Refund  \n This is used for Credit Card R efund control in sales return or goods \nreturn operation  \n \nF Return Voucher Redeem  this specific payment tender is classified as Customer Redeem of  \nReturn Voucher(s)  \n  \nG Cash Voucher  This is used for Non-Serial Number based  Cash Voucher.  \n \nH Uniform Coupon  this specific payment code is used for “Staff Uniform ” redeem \npurpose  \n  \nI NOT use  Not Use  \n \nJ Cash Coupon  This is used for Serial Number based  Cash Voucher.  The Cash \nCoupon ‟s Serial Number will be verified when use.  \n \nK Credit Sales  \n This payment code is classified as Credit Sales  \nL Cheque  \n This is a Personal Bank Cheque payment  \nP Gift Certificate  This is Gift Certificate payment. Gift Certificate serial number is a \nMUST and verify.   \n \nR Return Voucher  This is a Redeemable Cash Voucher for POS goods return. Return \nVoucher S erial Number is a MUST and verify.   \n \nO Online Coupon Redeem  This payment tender is paid by Bonus Points Redeem converted \nfrom customer ‟s available Bonus Points Online   \n \n0 S9000(EPM)  \n  This setting is required only if “Credit Card Interface ” option is \nemployed;  \n This is used when customer is paying by Credit Card (Except \nCUP card) from S9000 card terminal;  \n S9000 will come back a Credit Card ID (Visa or Master..etc) \nfor POS next processing as specified in Type “A – Electronic \nPayment ”.  \n \n1 S9000(CUP)  \n  This setting is required only if “Credit Card Interface ” option is \nemployed;  \n This is used when customer is p aying CUP card from S9000 \ncard terminal;  \n S9000 will come back a CUP Credit Card ID for POS next \nprocessing as specified in Type “A – Electronic Payment ”.  \n \n2 Octopus   This setting is required only if “Octopus ” Interface option is \nemployed;  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 57,
+      "text": "Page 57 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n ID \n Payment Type \nDescription  How to Use  \n This is the payment tender paid by Octopus  Smart Card  \n Additional Octopus reading device and program are required  \n \n3 EPAY(Installment)  \n No Longer User  \n4 S9000 (EIN)  \n  This setting is required only if “Credit Card Interface ” option is \nemployed;  \n This is a S9000 function for Installment Payment  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 58,
+      "text": "Page 58 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.9 POS Payment Key Button Control  \n \nThis is the process allow user to set up Payment Key sequence in the POS front end \naccording to user's own preference.  \n \nFig 1  \n \n \n \n \n  User is free to edit / assign payment process to \neach of these buttons EXCEPT the last <F10> is \nreserved for \"EXIT\" button  \n User could \"group\" more than one  tender type s in \none button if necessary;  \n  Sample : the \"Foreign Exchange\" Button may \ngroup a several accept able foreign currencies \nunder one button – US$, NT, Euro, Japanese Yen \netc.… (see Fig -2 in next page)  This POS Payment Key layout could be \nassigned down to Shop Level, or \n“Blank ” means to ALL shops  \nThis POS Payment Key layout is defined \nbased on each Based Currency:  \n at least one layout for HK shops \nreceiving HK$ as based currency;  \n separate set of POS Payment Key \nlayout for shops in China which \nreceiving RMB as based currency    ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 59,
+      "text": "Page 59 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nFig 2 – the second layer of a POS Payment Button  \n \n \n \n \n \nThis is the payment code defined in the Payment \nTable prior.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 60,
+      "text": "Page 60 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.10 Exchange Rate Maintenance  \n \nThis is the exchange rate table used in the Back Office operation for base currency \ncalculation to own stock value in goods recei ving process, which if the purchase is \ncharged in foreign currency.   \n \n Important:  This is NOT  the exchange rate used for POS front end sale memo ; \n \nObjective : - Maintain the exchange relationship between two currencies  \n \nFunctions : - 1. Create Record  \n 2. Modify Record  \n 3. Delete Record  \n \nPrompt     Description  \n \nBase Currency  X(03) - Must field  \n- Base currency in used  \n \nExchange Currency  X(03) - Must field  \n- Foreign currency to be exchanged  \n \nEffective Date  99/99/9999 - Must field  \n- the effective date of this exchange  \n \nExchange Rate  9(05).9(05) - Must field  \n- Foreign currency exchange rate  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 61,
+      "text": "Page 61 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nReverse Exchange Rate  9(05).9(05) - Must field or auto -calculated  \n- the reverse exchange rate where value should be \nequal to 1 / Exchange Rate  \n \nRemarks  X(30) - Optional field  \n- remarks of this exchange  \n \nUser ID.  X(03) – Must field  \n - the user i d \n \nFunction  Description  \n \n<Enter>  - Search for the desire record that user decide to \nprocess  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion, Inqui ry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, Inquiry operation screens.  \n \nShift F6  - Search for the last record while user in modification, \ndeletion, Inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 62,
+      "text": "Page 62 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n4.11 Transaction Code Maintenance  \n \nApart from the standard transaction codes generated by the system automatically (i.e. \nSales, Stock Transfer, Physical Adjustment, and Stock Take),  this table allows user to \ncreate its own transaction codes more related to own business operations, example like \nsponsorship, give away item, sample, internal use, … etc. for specific transaction \npurposes.  System log and history journal is available for this type of transaction in form \nof inquiry and reports to be described in separate sections.  \n \nObjective: - Maintain general information of owner.  \n- Provide create, modify, delete, inquire and print Transaction \nrecords module to manage transaction data.  \n \nFunction: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display: - \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 63,
+      "text": "Page 63 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \nScreen Display: - \n \n \n \n \n \n \n \n \n \n \n  Prompt    Description  \n \n  Trx. Code    X (03) - Must Field  \n     - Transaction Code defined by user  \n \n  Description   X (40) - Must Field  \n     - Description for such Transaction Code  \n \n  Department    X (01) - Display Field  \n    - Department code pre -defined by user in Department \nCode Maintenance Module.  \nThese are the flags for identify ing nature of each Transaction Code for \nsystem ‟s different calculation , processing and controlling purposes.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 64,
+      "text": "Page 64 of 146 \nCS2000v6. 5  \nEdition1. 1_200 912 \n  \n  Status   X (01) - Must Field  \n    - Consists of 2 choices : S(S ales) or F( Non-Sales ) \n    - S (SALES) indicates the transaction of such \ndepartment is classified to Money Sales Status in \nrelated reports.  \n    - F (non-Sales)  indicates the transaction of such \ndepartment is classified to Non Money Sales Status  \nin related reports.  \n    - WARNING:  it is necessary to update the status \nfield for the new defined department after such \ndepartment code and detail has created in \nDepartment Code Maintenance Module OR \nblank/spaces will be displayed in such field and it \nwill lead to error in accuracy of related reports.  \n \n  Last Update   99/99/9999 (DD/MM/YYYY) - Display Field  \n    - The date of updating such transaction detail.  \n \n  ID  X (03) - Display Field  \n    - The ID of the latest user who updating the record.  \n \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 65,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 65  \n4.12 Promotion Discount Code  \n \nThis is the system code must be required by On -Sales Promotion Process.  User need to \ninput this promotion discount code in the On -Sales Promotio n process.  \n \nThe application system will log this promotion discount code automatically at POS sales \nprocess onto the sales history journal by item for user‟s future analysis purpose , if present.   \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 66,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 66  \n4.13 Owner ID Maintenance  \n \nThis table registers the person who may have  responsibility for a particular group of \nproducts or a particular product. By assigning this Owner ID code to appropriate files or \nmaster tables, corresponding analysis reports sorted / grouped by owner are avai lable in \nthe system upon request.  \n \nObjective : - Maintain general information of owner.  \n- Provide create, modify, delete, inquire and print Owner \nrecords module to manage owner data.  \n \nFunction : - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen D isplay : - \n \n  \n  \n  \n Prompt   Description  \n \n Owner ID Code   X(05) - Must Field  \n   - ID Code of owner defined by the user.  \n \n Description   X(40) - Must Field  \n   - Text description for the Owner ID Code.  \n \nFunction    Description  \n \n <ENTER>    - Search for the desire record that user decide to \nprocess.  \n    - Verify the input after input is done.  \n \n F1   - Perform confirmation of the record while user in \nany operation screen.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 67,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 67  Shift F5    - Search for the first record while user in \nmodification, deletion operating screen.  \n \n F5   - Search for previous record while user in \nmodification, deletion operating screen.  \n \n F6   - Search for next record while user in modification, \ndeletion operating screen.  \n \n Shift F6    - Search for the last record while use r in modification, \ndeletion operating screen.  \n \n <Esc>  - Abort and return to previous screen.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 68,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 68  \n4.14 Country Code Maintenance  \n \nThis is the country table to be used by the system for country specific functions.   \n        \n \nObjective : - Maintain general country information such that each code \nrepresents a country  \n \nFunctions : - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display: - \n \nPrompt  Description  \n \nCountry C ode X(02) - Must field  \n- a unique code that indicates a particular country  \n \nDescription  X(40) - Must field  \n- Description or name of the country  \n \nCurrency Code  X(03) - Must field  \n- Currency use of the country  \n \nFunction  Description  \n \n<Enter>  - Search for the desire record that user decide to \nprocess  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 69,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 69 Shift F5  - Search for the first record while user in modification, \ndeletion, Inqui ry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, Inquiry operation screens.  \n \nShift F6  - Search for the last record whi le user in modification, \ndeletion, Inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 70,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 70  \n4.15 Price Group Maintenance  \n \n The Price Group Table is used for creating different specific Price Group Code \nControl for different District / Areas / Territory of a Company / Region.  \n This Price Group will be used as an option in Retail Price setting, On-Sales \nPromotion Table … etc.  if user may want to create different selling prices  / promotion  \nprices  in different “groups ”  \n \n \nExample:  Such as Hong Kong is a price group  territory ,  \n  Or, the price group control is divided into HK Island, Kowloon and NT ; \nOr, Shanghai is a price group different than Beijing Price Group …etc. \n   \n \nFunctions : -   1.   Create Record  \n2.   Modify Record  \n3.   Delete Record  \n \nSummary Page Screen Display : - \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 71,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 71  \nDetail Maintenance Page Screen Display : - \n \n \n \n \nGroup Code  X(03) - Must field  \n- a unique code which indicates a particular group  \n \nDescription  X(40) - Must field  \n- Description of the group  \n \nCountry Code  X(02) - Must field  \n- a unique code that indicates for a particular country / \nregion  \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 72,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 72  \n4.16 Price Group Code Maintenance  \n \nThis is the Table Maintenance to \"group\" different Locations or shops together as a „Price \nGroup ‟ for Selling Price control.  Therefore ALL shops group ed under each \"Price Group  \nCode \" will have common Price Control process  applied . \n \nExample:  \nSuch as the shops in HK are grouped under Hong Kong Price Group  will apply \ndifferent Pricing Strategy than the Price Control group of Shanghai, for example.  \nDifferent pricing strategy formulae in different Price Group will be discussed in \n\"On-Sales Promotion\" and \"Mix & Match Promotion Events\" in next section  \n  \nScreen Display: - \n \n \n \n This example is grouping these 4 x locations under ONE Price \nGroup coded  “BJ” – named as “Beijing Group ”;  \n So any change of selling price in price group “BJ” in this \nexample will affect 4 shops – R07, R08, R080 & R081 \nautomatically  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 73,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 73  \n4.17 Nationality Table Maintenance  \n \nObjective: -  Maintain general information in the Nationality table  \n \nFunction: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display : - \n \n \nPrompt  Description  \n \nNationality Code  X(02) - Must field  \n- a unique code to identify a particular nationality  \n \nDescription  X(40) - Must field  \n- a text description for the nationality  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 74,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 74 Function  Description  \n \n<Enter>  - Search for the desire record that user decide to  process  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, Inquiry operation screens.  \n \nShift F6  - Search for the last record while user in modification, \ndeletion, Inquiry opera tion screens.  \n \n<Esc>  - Abort and return to previous screen.  \n \n  Sample Procedure in operating Group Code Maintenance  \n \n  In general, user should make sure all the must fields are completed input.  \n  By pressing F5 and F6, user can search previous and next rec ord respectively  \n  while user is in modification, deletion, or Inquiry operation. After all the  \n  information have been input correctly, confirm this updating or creation by  \n  pressing F1 or exit to previous screen by pressing <Esc>.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 75,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 75  \n4.18 Age Group Table M aintenance  \n \nObjective: -  Maintain general information in the Age Group table  \n \nFunction: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display : - \n \n \n \nPrompt   Description  \n \nAge Group Code  X(02) - Must field  \n- a unique code to identify a particular age group  \n \nDescription  X(40) - Must field  \n- a text description for the age group  \n \nFrom Age  9(02) - Must field  \n- From Age for the age group  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 76,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 76 To Age  9(02) - Must field  \n- To Age for the age group  \n \nFunction  Description  \n \n<Enter>  - Search for the desire record that user decide to process  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  \n \nShift F5  - Search for the first record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF5 - Search for previous record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, Inquiry operation screens.  \n \nShift F6  - Search for the last recor d while user in modification, \ndeletion, Inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 77,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 77  \n4.19 Service Type Table Maintenance  \n \nThis is defining different service types to be used in POS sales.   \nDifferent business operations have different service types to be defined.  \n \nExample :   For Fashion / Apparel business – Alteration service may be one of \nimportant service in the operation, and repairing service may be more important \nfor Gift Shop Retailers in the operation.  \n \nScreen Display  :- \n \n \nDifferent Services Types are \ndefined by user to fit for \nindividual operation \nrequirements  Each Service Type could default a \ncharge value which will download \nto POS for default charge in \noperation.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 78,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 78  \n4.20 Reason Table Maintenance  \n \nThis is the Reason Code Table need to be defined for some POS operation which \nrequired Reason Code when processing – such as Stock Transfer, Sales Return, \nService Memo … etc.  \n \n \nFig -1 \n \n \nPrompt     Description  \n \nReason Code  X(02) - Must field  \n- a unique code to identify  a particular reason  \n \nDescription  X(40) - Must field  \n- a text description for the reason  \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 79,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 79  \nFig -2 \n \n \n \n \n \n \n This is the type of POS functions that allowed for Reason Code ; \n Once defined, the related Reason code will be displayed in POS for user's selection \nwhen in operation  \n All these reason code will saved on Journal records and can be retrieved by user for \nfurther analysis purpose. If needed  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 80,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 \n 80  \n4.21 Location Message Maintenance  \nSpecial message, such as on sales promotion, holidays greeting like Christmas and New \nYear, could be set to print on sales memo within time period specific in this table.  \n \nScreen Display: - \n \n \n \n \n \n \"Blank for ALL location, or  \n Effective for the particular \nLocation only if Location \nCode is Present;   The effective printing date in \nPOS;  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 81,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 81  \n4.22 Bulletin  \n \nFunction: - 1.   Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display: - \n \n \n \n   \n Function    Description  \n \n <ENTER>    - Search for the desire records that user decides to \nprocess.  \n    - Verify the input after input is done.  \n \n F1   - Perform confirmation of the record while user in \nany operation screen.  \n \n F2   - Move the cursor to transaction detail region and \nenable the transaction detail input.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 82,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 82  F5   - Search for previous record while user in \nmodification, deletion operating screen.  \n \n F6   - Search for next record while user in modification, \ndeletion operating screen.  \n \n   F10 - Abort and return to previous screen.  \n \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 83,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 83  \n4.23 Season Code  Maintenance  \n \nObjective: - Maintain season information  \n- Provide create, modify, delete, inquire season information.  \n \nFunction: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display: - \n \n \n   \nPrompt      Description  \n \n  Code     X (03) - Must Field  \n- Season code defined by user  \n \n  Description    X (40) - Must Field  \n     - Description for such season code  \n \n Function    Description  \n \n <ENTER>    - Search for the desire records that user decides to \nprocess.  \n    - Verify the input after input is done.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 84,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 84  F1   - Perform confirmation of the record while user in \nany operation screen.  \n \n F2   - Move the cursor to transaction detail region and \nenable the transaction detail input.  \n \n F5   - Search for previous  record while user in \nmodification, deletion operating screen.  \n \n F6   - Search for next record while user in modification, \ndeletion operating screen.  \n \n   F10 - Abort and return to previous screen.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 85,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 85 4.24 Receipt Charge Code  Maintenance  \n \nObjective: - Maintain Re ceipt Charges Code for Stock Receive process  \n- Provide create, modify, delete, inquire season information.  \n \nFunction: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display: - \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 86,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 86 \n \n  \n \nPrompt      Description  \n \n  Charge Code    X (03) - Must Field  \n- Charge code defined by user  \n \n  Description    X (40) - Must Field  \n     - Description for the charge code  \n \n  Input Indicator    Combo Selection - Must Field  \n- To define the input field is either an Amount$ \ninput, or a percentage(%) input field  \n \n  Cost In dicator    Combo Selection - Must Field  \n By Amount Ratio – the system will distribute \nthis charge on prorate of item‟s $value  down \ninto each individual item in a receiving batch  \n By Fixed Percentage  - the system will distribute \nthis charge on a fixed percentage (%) basis \ndown into each individual item in a receiving \nbatch  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 87,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 87  By Quantity Ratio  -  the system will distribute \nthis charge on Quantity  basis (%) down into \neach individual item in a receiving batch  \n Skip Cost Calculation  \n \n  Total Indicator   Combo Selection - Must Field  \n Add to Invoice Total  – will this charge apply to \nsupplier‟s invoice as a payment for vendor; or  \n Reference Only  \n  \nThis charge code could be used by user in Stock Receiving Process to indicate some \nspecial / extra charges that wa nt to be included but may not appear in vendor‟s invoice \ndetails.  \n \nThis charge will distribute down into item level in the cost update process.  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 88,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 88  \n4.25 POS Security Access Maintenance  \n \nThis is the Maintenance program allows user to create „user role ‟ for POS users.  User \nshould assign different user rights to each POS role.  \n \n \nFig -1  \n \n \n \n \n This is the summary page of the process that list all the \n\"Security Code\" that have been defined in the system;  \n These codes will give different functional access righ ts \naccording to the \" role description\" of the definition;  \n Example : the role of a \"Shop Manage\" should has different \naccess right then a \"Shop Supervisor\" or a \"Shop Trainee\";  \n Therefore user is required to create the Access Right of a \"Shop \nManger\", or \"Sales Supervisor \"  under different POS Security \nCode ;  \n The next step shall assign this Security Code, such as Shop \nManager, to a right Sales Staff who are performing Sales \nManager role in a shop, or a collection of shops   ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 89,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 89  \nFig -2  \n \nThis is the scre en showing how to assign functional access rights to a \"Security Code\", \nthat is a \"Shop Supervisor\"  in this example:   \n \n \n \n \n \n The symbol with a \"Tick\" signify it is authorized \naccessing functions o that process;  \n Or shown with a \"Lock\" is  prohibit for access  in \nthat process function,  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 90,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 90  \n4.26 Weather Table Maintenance  \n \nThis is the Table allows user to define different Weather Conditions used for POS Day \nEnd as Optional Input.  \n \n \nThis weather conditions will be captured if the input option is enable in POS Day En d.  \nThis weather data therefore is allowed for user' own analysis in later stage a desired  \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 91,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 91  \n4.27 Bin Number Table Maintenance  \n \nThis is the Table allows user to define  / input a Stock Bin Number as reference for use of \nstock picking in warehouse by warehouse user.  \n \n Please note this is a reference data field only without calculation and update function. \nWe recommend this to be used with our optional Module \"Bar Code Scanning Hand Held \nTerminal\". The use of this Stock Bin Number has its limitation please consul t our System \nSupport Consultant before use.  \n \n \n \nThe Bin Number is a reference field \nattached to a SKU that easy for warehouse \nuser to look for the item's storing bin \nlocation.  This Bin Number could be \nprinted on Pick List for user' reference.  This is the Location Code of the Bin \nNumber.  A reference field input by \nuser  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 92,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 92  \n4.28 Occupation Code  Table Maintenance  \n \nThis is the Table allows user to define / input Occupation records to be used in “Member \nMaster Maintenance ” process  under Master Maint enance . \n \n \n \n \nXX :      a 2 -character code to represents the occupation;  \n \nX(40) :  a 40 -character description is the input field for user \nFree text input.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 93,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 93  \nThe Secondary Tables   :  \n \nLocation Tree Maintenance  \n4.29 Location Tree Table  \n \nFig -1: Location Tree Layer Definition  \n \n \n \n This is the  basic Geographic Structural layer definition for a organization;  \n In this example, this company is divided into 6 layers of operations – \nRegional, Country, Areas….etc;  \n User is free to define own set of lay ers to fit individual company's own \nstructure;  \n Up to 10 -layer maximum  \n This is only the basic structure of layers. Separate tables are required to \nfurther define the meaning of each layer when involving different operations  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 94,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 94  \nFig -2: Location Groping Contro l under the Tree Layer Definition  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \"The location Tree Table\" defined in last page will be display here in the exact layer \norder as screen;  \n The input fields on the right is used for defining additional meaning of each \nparticular layer;  \n In this sample,  the \"Country\" layer could be named in more details on the right such \nas Canada, China, The United Sates…etc.,  \n In the column of further right \"Area\", it is the next layer of Country in this sample, \ncould be self -defined the same like \"country\" layer according to individual user's \nown structure – and here is sub -divided into China South, China North and China \nEast as user's desire;  \n Once all these layers are well defined, input and saved by the system, certain \noperation processes will th erefore execute according to this structure automatically  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 95,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 95  \nFig 3 :  Location Group Control Sample in Tree V iew \n \n \n \n \nNumber of Location Tree Levels is user definable to fit for \nindividual organization business operational requirement   ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 96,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 96 \n \nAnalysis Code Tables  \n4.30 Analysis Code Table  \n \nThis Analysis Code Table is a user definable code to be used for product inquiry or \nproduct analysis purposes at user‟s discretion.  The code currently has 3 levels to allow \ncustomer to define for his own business operation:  \n \n1. The Product Line  \n2. Analysis Label of the Product Line  \n3. Detail analysis code under the Analysis Label  \n  \nScreen Display: - \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 97,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 97 4.30.1  The “Product Line” Table  \n \n \n \nThis “Product Line ” Table is to categories different products into different product line \naccording to products‟ own major group nature.  \n \nExample  :  If your Company are selling different products in nature, you may be able to \ncategorise as follows just for illus tration purpose:  \n \n \nProduct Line 1 :   \nApparel Operation  \n \nProduct Line 2 :  Jewelry & Watches  \n \nProduct Line 3 :  Toys …. Etc.  \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 98,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 98 The “Analysis Label ”  Sub-Table Maintenance Under Product Line  \n \n \nThis is the sample illustration of defining different meaningful „Analysis Labels‟ respect \nto a particular Product Line called „Jewellery‟ .  \n \nIn the sample, one customer is decided to make up 4 analysis labels that are believed \nimportant to a Product Line „Jewellery‟:  \n \n \nLabel  \nCode   \nLabel  \nDescription   \nRemarks  \n \n \nDSG   \nDesign   \nThe Design of a Jewellery is an important analysis element in \nthis product line   \n \nTYP  \n Type  The Type of a Jewellery is an important analysis element in this \nproduct line   \n \nMAT  \n Metal  The Make / Metal of a Jewellery is an important analysis \nelement in this product line   \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 99,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 99  \nLabel  \nCode   \nLabel  \nDescription   \nRemarks  \n \nSTN  \n Stone  The type of stone of a Jewellery is an important analysis \nelement in this product line   \n \n \nThe detail “Analysis Code”  Sub-Table Maintenance of an Analysis Label:  \n \nThis is the sample illustration of how to define different meaningful „Analysis Codes‟ \nrespect to a particular Analysis Label called „Type‟  under „Jewellery‟  Product Line.  \n \nIn the above sample, 4 analysis lab els is shown on the left according to user‟s label \ncreation work. Under each label, user is allowed to define in more precise terms to \nillustrate the what different “Type” he want to represent.  \n \nThis time, the customer may use the following “Analysis Codes ” to illustrate how many \ntypes of a „Jewellery‟ could mean to him in term of data analysis purposes:  \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 100,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 100  \nProduct \nLine   \nAnalysis \nLabel   \nAnalysis \nCode   \nAnalysis \nCode  \nDescription   \nRemarks  \n \n \nJewellery   \nType   \nBRA   \nBracelet   \nBracelet is one of an important \nanalysis element under jewellery \ntype    \n \n  NKC  \n Necklace  Necklace is one of an important \nanalysis element under jewellery \ntype    \n \n  RNG  Ring  Ring is one of an important \nanalysis element under jewellery \ntype    \n \n  WTH  \n Watch  Watch is one of an important \nanalysis element under jewellery \ntype  …. Etc.  \n \n \nIn the other hand, users in Apparel Operation may think the designer, material, style, \npattern are important for analysing their business data, where Jewellery retailer o bviously \nwill think differently in their own business structure.  \n \nIt is important for user to notice different „Analysis Labels‟ will bear different „Analysis \nCodes‟ depending on the product line. This user definable structure is designed to fit for \ndiffer ent type of users in different industry for each individual operation.  \n \nThis Analysis Code structure will be used again in Item Master Creation Module that lead \nyou able to collect meaningful information according your own wish.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 101,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 101  \n4.30.2  The \" Member Line \" Table  \n \nThe “Member  Line” Table is used to categories different type of VIP for further analysis.  \n \nExample  :  If your company categories VIP to different types such as Pentium, Gold and \nSilver membership:  \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 102,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 102 Member Analysis Label Modification  \n \n \n \nFor the analysis code, we can distribute the member into different category for \nfurther analysis. For example, separate member with age and gender, it can help to \nfind your company aim at which  kind of customer. You c an set the analysis criteria \nas following screen.  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 103,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 103 4.30.3  The \" Customer Line \" Table  \n \nThe “Customer Line ” Table is used to categories different type of customer for \nfurther analysis.  \n \nExample  :  If your company have various customer line such as adult and child:  \n \n \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 104,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 104 Customer Analysis Label Modification  \n \n \n \nFor the analysis code, we can distribute the customer into different category for further \nanalysis. For example, separate member with monthly salary, it can help to find \ncustomer‟s purchasing power . You can set the analysis criteria as following screen.  \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 105,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 105 (Optional Tables ) \n4.31 Material Code Maintenance  \n \n This table is used for register the product materials in table code format.    \n          \nObjective : - maintain simple information of material  \n \nFunctions : -  1. Create Record  \n 2. Modify Record  \n 3. Delete Record  \n \nScreen Display : - \n \n \n \nPrompt  Description  \n \nMaterial Code  X(03) - Must field  \n- a unique code that indicates a particular material  \n \nDescription  X(40) - Must field  \n- a description of this material  \n \nFunction  Description  \n \n<Enter>  - Search for the desire record that user decide to \nprocess  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while user in any \noperation screen  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 106,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 106  \nShift F5  - Search for the first record while user in modification, \ndeletion, Inqui ry operation screens.  \n \n \nF5 - Search for previous record while user in modification, \ndeletion, Inquiry operation screens.  \n \nF6 - Search for next record while user in modification, \ndeletion, Inquiry operation screens.  \n \nShift F6  - Search for the last record wh ile user in modification, \ndeletion, Inquiry operation screens.  \n \n<Esc>  - Abort and return to previous screen.  \n \nSample Procedure in operating Material Code Maintenance  \n \nIn general, user should make sure all the must fields are completed input. By pressing F 5 \nand F6, user can search previous and next record respectively while user is in \nmodification, deletion, or Inquiry operation. After all the information have been input \ncorrectly, confirm this updating or creation by pressing F1 or exit to previous screen by \npressing <Esc>.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 107,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 107 4.32 Project N umber . \n \nIn some cases, company business operations are project -based.  All transaction data \nrelated to one project might be required to be treated as a single unit so that the user can \nconduct analysis individually.  In this process, a project ID number can be assigned to \neach project and stored inside the system in order to keep track of the project \nperformance and related results.  \n \nObjective:  - Maintain gener al information of project.  \n- Provide create, modify, delete, inquire and print project master \nrecord module to manage project master records.  \n \nFunctions: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display : - \n \nPrompt  Description  \n \nProject No.  X(07) - Must Field  \n- Project No. defined by user for project identification.  \n \nProject Name  X(40) - Must Field  \n- Project Name or text description for such Project No.  \n \n \n \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 108,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 108 4.33 Department Code  \n \n Frequently, many decision support reports are necessary to divide into department \ncontrol break in order to perform meaningful analysis. (N.B. What is the total \nsales performance of department A between 10/95 and 11/95 ? ) Performing this \nkind of analysis,  a systematic pre -defined unique department code for each \ndepartment are needed.   \n \nObjective : - Maintain Department information keeping in system and provide a \nmethod to create, delete, modify, print and inquire records  \n \nFunctions: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \n Screen Display : - \n \n Prompt  Description  \n \n Department  X(01) - Must Field  \n  - Department Code defined by user  \n \n Description   X(40) - Optional Field  \n  - Description  for such department code or  \n   department name  \n \nFunction  Description  \n \n<Enter>  - Search for the desired record that user \ndecides to proceed  \n- Verify the input while input is done  \n \nF1 - Perform confirmation of the record while \nuser in any operation screen  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 109,
+      "text": "CS2000v6. 5  \nEdition1. 0_200 903 109  \nShift F5  - Search for the first record while user in \nmodification, deletion, Inquiry operation \nscreens.  \n \nF5 - Search for previous record while user in \nmodification, deletion, and Inquiry operation \nscreens.  \n \nF6 - Search for next record while user in \nmodifi cation, deletion, and Inquiry operation \nscreens.  \n \nShift F6  - Search for the last record while user in \nmodification, deletion, Inquiry operation \nscreens.  \n \n<Esc>  - Abort and return to previous screen.  \n \n Sample Procedure in operating Department Code Maintenan ce \n \n  In general, user should ensure all the MUST field(s) (N.B.  in this case, \ndepartment code) is(are) completely entered. If user intends to search for previous \nor next record and process in modification or deletion mode, pressing F5 or F6 \ncan achieve th e desire respectively. F1 is used to make confirmation and update \nwhat user has inputted.  In any operation mode, press <ESC> is to undo or abort \nwhat the user inputted while no any confirmation made by pressing F1. <ESC> \nfunction key also has the exit and  go to previous screen functionality.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 110,
+      "text": "",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 111,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 111 4.34 Warehouse Lot Remarks  \n \nObjective: - Maintain warehouse lot remarks table in relation to item master for future \nreporting purpose.  \n \nScreen Display:  \n \nWarehouse Lot Remarks Maintenance Menu  \n \nWarehouse Lot Remarks Edit Screen  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 112,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 112  \n  Prompt   Description  \n  Item Code   X(14) –Display field  \n- Item code  \n \nDescription   X(30) – Display field  \n- Description of item  \n \nW/H Lot Remarks  X(8) –Optional field  \n   - Warehouse lot re marks that item is defined to.  \n \nSample Instruction in operating W/H Lot Remarks Maintenance  \n \nIn general, the first page of item master table is showed on screen. User can use F5 and \nF6 to go to previous or next page to input the W/H lot remark. User also can use F2 to \nsearch a particular item directly. After all the information have been input correctly,  \nexit to previous by pressing <ESC>.  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 113,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 113  \n4.35 Aging Table  \n \nThis is the table allows user to maintain a set of aging code to represent the stock \nageing of invent ory.  This age code will use item master creation date as a reference \nbase to perform necessary calculation.  \n \nImportant  – this is only valid for specific business that the item master creation date is \nage important to inventory.  \n \nObjective: - maintain in formation of aging code  \n \nFunctions: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen Display: - \n \n \nPrompt  Description  \n \nFrom Date  99/99/9999 (dd/mm/yyyy)  \n - Optional field  \n - The starting effective date  \n \nTo Date  99/99/9999 (dd/mm/yyyy)  \n - Optional field  \n - The ending effective date  \n \nAging Code  X (04) - Must field \n \nFunction  Description  \n \n<Enter>  - Verify the input while input is done  \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 114,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 114 F1 - Perform confirmation of the record while user in \nany operation screen  \nESC - Abort and return to previous screen.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 115,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 115  \n4.36 Bank / Petty Cash Code  \n \nObjective: - Maintain general information of Bank code and Petty cash \ncode for Bank In Input process in POS  \n- Provide create, modify, delete, inquire and print Transaction \nrecords module to manage transaction data.  \n \nFunction: - 1. Create Record  \n2. Modify Record  \n3. Delete Record  \n \nScreen  Display: - \n \n \n \n   \nPrompt      Description  \n \n  Code     X (03) - Must Field  \n- Transaction Code defined by user  \n \n  Type     X (01) - Must Field  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 116,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 116      - Transaction Type defined by user  \n \n  Description    X (40) - Must Field  \n     - Description for such Transaction Code  \n \n  Account    X (40) - Must Field  \n     - Account for such Bank Account Code  \n \n \n \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 117,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 117  \n4.37 Gift Certificate Type  \n \nThis Table use for creating different Gift Certificate Type with different Face Value \nthat will be used as default value in POS Gift Certificat e Sales Process.  \n \n \n \nThe Gift Certificate default v alue \nof this Type is $100 for The GC \nType \"A\" in this example  In case of Bonus Points Earned is \nset to \"YES\", Input is required for \nthe Bonus Point given and its \nRedemption Group if sales of this \nGift Certificate Type  \n ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 118,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 118  \n4.38 Target Sales Table Maintenance -I (MF3000)   \n \nThis is first Target Sales Table built in the package for use of Sales Target set by user.  \n \nThe Sales Target could be set in either by Sales Amount$, or Sales Quantity for specific \nshop(s), division(s), sales staff…..etc. within period range.  \n \nImportant: This Sales Target Table is built for user's own reference only.  There are NO \nstandard Analysis Reports or Output associate to this Target Table. User need to \ndevelop your own analys is based on this table using third party tool(s), or Microsoft \nReporting Services, whichever applicable.  \n \n \nFig 4.37.1 – Target Sales Table  Summary Page  \n \n \n \n",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 119,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 119  \nFig 4.37.2 – Target Sales Table Detail Page  \n \n \n \nConditions:  \n \n One Sales Target peri od for one Target Event only. Its mean No Sales Target Date \nduplicate or overlap allowed;  \n \nThe Sales Target can be \nset by either Amount$, or \nSales Qty  The Date Range  can be \ndefined by Year, Month, or \nDates  \nThe Sales Target can be assigned \nto a Staff, a Division, Shop, \nCity, Region, ….etc. as per \nLocation Tree Table.  ",
+      "section": "SECTION   4     MASTER TABLE MAINTENANCE"
+    },
+    {
+      "page": 120,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 120  \n4.39 Target Sales Table Maintenance -II (MX3000)  \n \nThis is SECOND Target Sales Table built in the package for use of Sales Target set by \nuser.  \n \nMost of the definition and target setting are the same as the First Target Sales Table in \nSection 4.37. EXCEPT one condition – this table accept more than one Sales Target for \na same given period or same date range.  \n \nIt means this Table Maintenance allows creating Dates duplication or Date Overlapping \nTables which are NOT allowed in the First Target Sales Table structure in Section 4. 40.  \nThis structure may be useful for user want to define different targets for a same date \nperiod – such as Sales Target and  Sales Budget Tables may be both existed on same \nperiod of time.  \n \nSame Setting mechanism : The Sales Target could be set in either by Sales Amount$, or \nSales Quantity for specific shop(s), division(s), sales staff…..etc. within period range.  \n \nFig 4.3 8.1 – Target Sales Table (II) Detail Page  \n \n4.40 \nNew added data fields compared \nto Target Sales Table (I)  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 121,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 121 VAT Tax Rate  \n \nThis is the data Table to maintain VAT Tax information by country.  \n \nThis data will synchronize  to POS front end for Tax calculation in sale memo \nprocessing, if valid.   \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n This is the Table Summary P age display summary \ninformation of each VAT Tax record  NEW  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 122,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 122  \nThe VAT Tax Table Detail  \n \n \n \n \nThe Input:  \n \nData Field  Label s How to Use  \n \n \nRef  No.  \nThe Reference Code of this Tax R ecord \n  \nFrom Date / To Date  \n the effective date for this Tax Re cord \nCountry  The Country of this Tax R ecord. This data field will be validated \nby the system ‟s Country Table  \n   \nVAT %  this is VAT Tax % and used by  POS front end for VAT TAX \ncalculation automatically on sales memo  \n  \n \n \n \n ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 123,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 123 4.41 Tax Code  Table  \n \nThis Tax Code Table is used for situation that if some specific Government Tax may be \napplied down into product (item) level – i.e. Liquor Tax, Auto Tax, some specific \ngoods..etc.,  but NOT in POS sales memo level.    \n \nThis tax code and tax needs to be attached in Item Master record (the “Folder 4. \nAttribute ”) under Item Master Maintenance Process, if the product item has specifi c \ngovernment tax rate applied.  \n \nRemarks:   This tax calculation will NOT apply on POS sales memo calculation.  This \ntax code attach ed on Item Master does allowing user able to perform specific tax \ncalculation in back office for Government Tax reporting purpose, only if necessary.  \n \n \n NEW  \nTax Input cold be either in Rate % \nor exact $amount  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 124,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 124  \nThe Item Master Maintenance  for TAX Code Input :  \n \n \nScreen Sample:  \n \n   \n \nThe Attached Tax Code to specify this particular \nproduct (item) is requiring Tax Rate / Amount$ as per \ndefined in this Tax Code Table  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 125,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 125  \n4.42 Special Item Description  \n \n \nThis is a TEXT based table allows user input of extra LONG description  (40 x 20 = 800 \ncharacters) of an item in addition of regular  item description defined in I tem M aster \nMaintenance.   \n \n \n \n Allow display of Item Description with choice \nof English, BIG5 Chinese, or GB Chinese  \n As option, user could import this Special Item Description data from a TEXT based \ndata file instead of table input from this process one by one;  \n The exact Text data file format please consults our Implementation Support Consultant.   ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 126,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 126  \nThe D etail Input Screen  \n \n \nThe Language Box:  \n \nUser choice of language selection which will make the system save your \ndescription input into the correct language text box for easy future \nreference and processing     \nThe Text Input Area:  \n \nUp to 40 bytes a row X 20 rows = 800 bytes per Items  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 127,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 127  \n4.43 Wholesales & Distribution Related Tables (Optional Module only)  \n4.43.1  Distri ct \n \nThis is the table used in Wholesales and Distribution Module to identify the “District \nZone” of a wholesale customer.   This table will not be used in Retail operation.  \n \nScreen Display: - \nPrompt     Description  \n \nDivision Code  X(01) - Must field  \n- a unique code which defines a division of company  \n \nDescription  X(40) - Optional field  \n- a description or name of the defined division  \n \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 128,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 128  \n4.43.2  Customer Type  \n \nCustomer Type Table is used for categorizing the Wholesales Customer Type.  This \ntable may be used in the Wholesales Processing Optional Module and for user's self \nreporting development for analysis purpose  as well . \n \n \n  \n \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 129,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 129  \n4.43.3  Distribution Salesman  \n \nDistribution Salesman Table is used for defining the Salesman for Wholesales \nCustomer . This table is required by the Wholesales Processing Optional Module only.  \n \n \n \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 130,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 130 4.44 Region  Tree Table for Member  \n \n4.44.1  Regional Tree Code  \n \nRegion Tree Table is made for organization that is a multiple country / region operation \nwith cross country / region Member Customer interests.  \n \nOnce the value of these Region Tree Tables have been carefully designed and input by \nusers during implementation, the system  therefore may be able to tell the regional or \ncountry relationship of a Member easily and then share the information to all operating \nusers within the system country -wide, or regionally.  \n \n \nStep 1:     \n \nUser need s to define and input the Regional Tree Codes in this table as example below :  \n \n \n \n \n NEW  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 131,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 131 4.44.2  Regional Tree Code Table Maintenance  \n \n \nStep 2:     User need to “structure ” the regional hierarchy in this table.  \n \n \nExample:  \n \nRegion   Country  Areas  \nThis Example is illustrating a 3-layer structure   (Max 10 layer s allowed)  \n \n \n \n \n ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 132,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 132 4.44.3  Regional Grouping Control Maintenance  \n \n \nStep 3:  \n \nUser is required to “assign ” the Tree Codes defined in Step 1  into each Region Tree \nLayer built in Step 2 . as follows.  \n \nThe Screen Example:  \n \n 3 x Regions are assigned in this “Region ” level : \n 1). American,  2). Asia,  3). Europe  \n \n Within Region, such as “Region America ”, is assigned to have 3 countr ies under \n“America ” namely Canada, Mexico & T he United States  \n   \n \n \n ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 133,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 133  \nStep 4:  \n \nNest step, we are assigning “Areas ” within a Country.   \n \nIn the Screen Example:  \n   Making Country China in  3 x Areas:  \n China East  ( 华东 ) \n  China North ( 华北 )  \n Chins South ( 华南 ) \n \n \n \n \n \n \nUser could have choice to add from the “AREA S” level  down into more layers such as \ncity, district, street  level …etc. as desired  \n \n ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 134,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 134 \n \n \n \nThe Regional Hierarchy Tree Diagram Display option shown in the system  \n for user ‟s verification    \n \n More Layers to \nbe defined (up to \n10 layers)  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 135,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 135 4.45 Survey Form Maintenance  \n \nThis is a Maintenance Process that allows user able to create “Survey Form (s)” with \nself-defined questionnaires as describe in the next few pages of this manual .  Once \nconfirmed, these Survey Forms will be downloaded to POS front end for activation for \nuser input during effective  date period.  \n4.45.1  Survey Form Table Maintenance  \n \nCreating Survey Event(s)  from this Survey Form Maintenance:  \n \n \n \nDetail Input please refers to next page.  NEW  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 136,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 136  \nThe Survey Form Input Details:  \n \n \n \n \n \n The POS front end will prompt the Survey \nForms under this input sequence in case if \nmore than one Survey Forms are effective \nwithin same period.  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 137,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 137 4.45.2  Survey Questionnaires  \n \n \nUser need to design the specific Questionnaires of the Form  as sample below:  \n \n \n \n \n \n ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 138,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 138 4.45.3  Survey Answer Code  \n \nUser need to design the Standard Answers R espond for each Questionnaire as below:  \n \n \n \nThe \nQuestionnaires  \nThe Answer \nOptions of each \nQuestionnaire  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 139,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 139  \nSpecial Tables  (Optional Tables)  \n \nThe Tables grouped under this Folder are optional tables that may be required by \nspecific customers for specific use only. There is NOT required by most of general \nprocessing unless for specific purpose.  Please always consult our Business Consultant \nbefor e use.  \n \n4.46 The Product Style  \nThe following Optional Tables are mainly for describing the \"Style of a Product\" which \nmay be optionally required by Item Master Table Maintenance..  \n \n4.46.1  Sex / Gender  Code Maintenance  \n \nSex / Gender Code Table is used for defining the Gender Type of a product.  This table \nis optionally required by Item Master Table if needed.  \n \nScreen Sample:  \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 140,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 140  \n4.46.2  Collection Code Maintenance  \n \nCollection Code Table is used for defining a specific \"Collection\" of a product.  This \ntable is optionally re quired by Item Master Table if needed.  \n \n \n \n \n \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 141,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 141  \n4.46.3  Label Code Maintenance   \n \nLabel Code Table is used for some special Item Labelling description for specific use \nonly.  No practice processing in the system today  \n \n \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 142,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 142  \n4.47 Measure Tables (For Specific Use Only )  \n \nThis is the Measurement Tables will NOT be used for general processing requirement \nin the system EXCEPT very specific requirements for specific customer only.  \n \n4.47.1  Unit of Measure  \n \n \nScreen Display : - \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 143,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 143  \n4.47.2  Unit of Measure Conversion  \n \nThis is the Table used for defining the unit conversion calculation between two(2) Unit \nof Measure.  This Table will not be used for general process in the system unless \nspecific requirement is specified.  Please consult our Business Consultant for this usage \nbefore use.  \n \nExampl e: 1 dozen   =  12 pcs  \n 1 inner box  = 10 pcs  \n 1 outer box  = 12 inner box…etc.   \n \n \nFig. 1 – The Summary Page  \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 144,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 144  \nFig. 2 – The Detail Input Page  \n \n \n \n \nThis is the exchange rate with 5 decimal points.  ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 145,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 145  \n4.48 Custom (The Custom -Made Tables)  \n \nThis Folder contains custom -made Tables are for used of specific Customers \ndevelopment.  \n \n4.48.1  Inseam  \n \nInseam Table is used for special products that required the Third Dimension such as \nother than Color & Size.    Some product example may be Jean Wear or Shirt ….etc.  \n \nImportant:  T his Inseam Table needs specific process to work. NO general functions \navailable in standard system process.  \n \n \n \n \n",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    },
+    {
+      "page": 146,
+      "text": "CS2000v6. 5  \nEdition1. 1_200 903 \n 146  \n4.48.2  Size Category Conversion  \n \nSize Category Conversion Table is mainly for use of Size Category Conversion when \nCS2000 system is required to \"Match\" Category Code value to a Third Part system \nwhich has different Category Value when performing data synchronization.  \n \nThis table is NOT u sed by general process and must consult our Business Consultant \nbefore use  \n \nScreen Display: - \n \n \n   \n \n \n \n \n \n- END OF BOOK (I) :  MASTER TABLES – \n ",
+      "section": "Section 4.37. EXCEPT one condition – this table accept more than one Sales Target for"
+    }
+  ]
+}

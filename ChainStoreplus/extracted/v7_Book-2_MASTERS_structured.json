@@ -1,0 +1,218 @@
+{
+  "version": "v7",
+  "book": "Book-2_MASTERS",
+  "filename": "ChainStorePlus v7 BE_user_manual_r1.2_(Book-2)MASTERS.pdf",
+  "total_pages": 42,
+  "pages": [
+    {
+      "page": 1,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 1 of 42 \n  \nChainStore Plus Application Package  \n \n \nUser Operation Manual  (v7.0) \n Edition v1.2 (d202303)  \n<The Master Tables> \n________________________________________________________________________ \n \n \n \n \n \n \n \n \n  \nLevel 10, Cyberport 2, \n100 Cyberport Road, Hong Kong \n",
+      "section": null
+    },
+    {
+      "page": 2,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 2 of 42 \n  \n \n  CONFIDENTIALITY \n \n \n \nThis document contains confidential information about software package \n“ChainStore Plus” developed and owned by Sanyo Extended System Services Ltd. \n \nThis document is made exclusively for “ ChainStore Plus” Licensee who is the \nlegal License holder under Terms and Conditions of Software License Agreement with \nSanyo Extended System Services Ltd.  \n \nNo part of this document may be released, reproduced or transmitted in any form or by \nany means, electronic or mechanical, including but without limitation, photocopying \nand recording, for any purpose other than Licensee’s personal use without written \npermission of Sanyo Extended System Services Ltd. \n \nThe information in this document is subject to change without notice.  \n \n Copyright  Sanyo Extended System Services Ltd ., 1999 -2023 \nAll Rights Reserved \n \n  ",
+      "section": null
+    },
+    {
+      "page": 3,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 3 of 42 \n Table of Content \n \n           Page \nSECTION 5    MASTER FILES MAINTENANCE .............................................................................................. 4  \n5.1 SUPPLIER MASTER ................................................................................................................................. 4  \n5.1.1 Supplier Master Maintenance ................................................................................................ 4  \n5.1.2 Supplier Delivery Address...................................................................................................... 11  \n5.2 ITEM MASTER MAINTENANCE  ............................................................................................................... 13  \n5.2.1 Price & Cost Tab .................................................................................................................... 17  \n5.2.2 Inventory Folder .................................................................................................................... 23  \n5.2.3 Item Attribute (I) Tab ............................................................................................................ 25  \n5.2.4 Item Attribute (II) Tab ........................................................................................................... 28  \n5.3 OTHER MASTERS ................................................................................................................................ 32  \n5.3.1 Model Number ...................................................................................................................... 32  \n5.4 MEMBER MASTER ............................................................................................................................... 33  \n5.4.1 Member Type Maintenance .................................................................................................. 33  \n5.4.2 Online Credit Check on Staff / Member’s Total Purchase ..................................................... 36  \n5.4.3 Member Master Maintenance .............................................................................................. 38  \n \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE .............................................................................................. 4"
+    },
+    {
+      "page": 4,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 4 of 42 \n SECTION 5    MASTER FILES MAINTENANCE \n5.1 Supplier Master \n5.1.1 Supplier Master Maintenance \nSupplier Master Maintenance allows user input detail information about a supplier for \nprocessing purpose. \n \nFig 1. – Summary Page  \n Can be either sort by Supplier Code or by Supplier Name: \n \n \n \n \n \n  \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 5,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 5 of 42 \n  \nFig 2. – Folder Page 1 of Detail Input Page  \n \nDouble click the row will lead to Detail Modification Page as follows: \n \n \n \n \nPrompt Description \n \nSupplier Code X(8) - Must field \n- a particular supplier \n \nSupplier Name X(150) - Must field \n- a supplier name in English \n \nChinese Name X(150) - Optional field \n- a supplier name in Chinese \n \nAttn. X (20) – Optional field \n- Person to be attended to in this supplier \n \nAddress Line X (30) x 4 - Optional field \n- Supplier’s delivery address \n \nCity X (20) - Optional field \n- City for the delivery address \n \nCountry X (12) - Optional field \n- Country for the delivery address \n \nPostal X (08) - Optional field \n- Postal for the delivery address \n \n \nState X (04) - Optional field \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 6,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 6 of 42 \n - State for the delivery address \n \nCountry Code X (02) – Optional field \n- Country for the delivery address that is pre-defined in \n‘Country Code Maintenance \n-  \nDistrict Code X (03) – Optional field \n- District code for the delivery address that is pre-\ndefined in ‘District table Maintenance’ \n \n \nFig 3. – Folder Page 2 of Detail Input Page  \n \n \n \n \nPrompt Description \n \nCountry  X(10) x 3 - Optional field \n- a country code    \n \nArea  X(8) x 3 – Optional field \n- an area code \n \nTel No,.  X(30) x 3 – Optional field \n- a subscriber number \n \nExtension X(15) x 3 - Optional field \n- a extension number \n \nTelex No. X(25) - Must field \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 7,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 7 of 42 \n - a teletypewriters connected number by wire through \nautomatic exchanges \n \nTitle X (80) - Optional field \n- the contact person’s position title \n \nFirst Name X (30) - Optional field \n- the contact person’s first name \n \nLast Name X (30) - Optional field \n- the contact person’s last name \n \n \nFig 4. – Folder Page 3 of Detail Input Page (Middle Part) \n \n \n \n \n  \nThe Credit Term in # of Days \nThe Credit Limit.  This is input \namount to indicate the Max. \nTotal Credit is allowed by the \nSupplier  Optional field for Payment \nMethod input ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 8,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 8 of 42 \n Fig 4. – Folder Page 3 of Detail Input Page (Bottom Part) \n \n \n \n \n \n  \nOwner ID.  This is the \"User\" who \nresponsible for this Supplier in the Company Currency.  This is the default currency for \nthis Supplier in use of Purchase Order and \ncan be override by user in Purchase Order \nMaintenance Process on demand. \nDiscount.  This is the default general \nDiscount offered by the Supplier.  The \nDiscount has up to 5 discount rates and to be \ncalculated in input sequence as \"discount on \ntop of other discount\" mechanism in \nPurchase Order Processing as default.  The \nDiscount is calculated based on Retail List \nPrice of the product.  Discount Rate.  This is indicated how the \n\"Discount Rate\" to be handled : \n H - Default  the discount rate in \nPurchase Order's Header Level; \n I - Default  the discount rate in \nPurchase Order's Item Level; \nor \n the discount rate is for Reference only \n– No calculation; \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 9,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 9 of 42 \n Fig 5. – Folder Page 4 of Detail Input Page  \n \n \n \n \n \n \n \n \n \n \n \nPrompt Description \n \nEmail Address X(40) - Optional field \n- a contact email address \n \nWeb Site X(4) – Optional field \n- a online website \n \n \n \n \n \n \n \n \n \n \n  \nIt is free to use the for own analysis purposes by own developed \nreports or tools.  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 10,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 10 of 42 \n Fig 5. – Folder Page 5 of Detail Input Page \n \n \n \nPrompt Description \n \nBank Code X(20) - Optional field \n- a settlement bank code \n \nBank Name  X(30) – Optional field \n- a settlement bank name \n  \nA/C No. X(10) – Optional field \n- a bank account number \n \nCRM ID X(20) – Optional field \n- Refer to the identity number in customer relation \nmanagement system  \n \nBR X(20) – Optional field \n- Business Registration number \n \nSalutation X(30) – Optional field \n \n \n \n \n \n \n \n \n  \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 11,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 11 of 42 \n 5.1.2 Supplier Delivery Address \n \nSupplier Delivery Address Maintenance allows user input detail information about delivery \naddress of the supplier for processing purpose. \n \nObjective :- Maintain general information of particular supplier delivery address \n \nFunction :- 1.  Create Record \n2.  Modify Record \n3.  Delete Record \n4.  View Record  \n5.  Copy Record as new \n6.  Find Record \n7.  Sort by header \n8.  Adjust column indication                                 \n \n \nScreen Display : \n \n \n \n \nPrompt Description \n \nSupplier Code X(8) - Must field \n- a particular supplier \n \nDel. Addr. Code X(3) - Must field \n- a unique code that indicates a particular delivery \naddress for the particular supplier \n \nAttn. X (20) – Optional field \n- Person to be attended to in this supplier \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 12,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 12 of 42 \n  \nDelivery Address X (30) x 4 - Optional field \n- Supplier’s delivery address \n \nCity X (20) - Optional field \n- City for the delivery address \n \nCity Code X (4) - Optional field \n- City code for the delivery address \n \nCountry X (12) - Optional field \n- Country for the delivery address \n \nPostal X (08) - Optional field \n- Postal for the delivery address \n \nState X (04) - Optional field \n- State for the delivery address \n \nCountry Code X (02) – Optional field \n- Country for the delivery address that is pre-defined in \n‘Country Code Maintenance \n \nDistrict Code X (03) - Must field \n- District code for the delivery address that is pre-\ndefined in ‘District table Maintenance’ \n \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 13,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 13 of 42 \n 5.2 Item Master Maintenance  \n \nThis is the most important and as well the Core Master Table in the system.   This Master \nItems File will link up many important basic tables that discussed previously in this manual.   \nThis is a primary data set will be shared by many processes or subsystems in \nChainStore Plus. \n \nIt is important for user to set up data correctly in this Item Master File. \n \nThe Item Master maintenance comes into different folders, basically, the first folder \n“Primary Input” is holding primary information must require by Item Master Table.   All \ninformation in this primary folder is mandatory fields.  Rest of other folders, may be \nsecondary input, but still containing important data information to many users depending \non business and operations. \n \nObjective :- Maintain detail information of an item. \n \nPrimary Input Folder \n \n           Fig 1  \n \n \n \n  \n Stock Indicator.  Details as below \n- Must field  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 14,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 14 of 42 \n             Fig 2 \n \n \n \n \n \n \n \n \n \nPrompt  Description \n \nItem Code  X(14) - Must field \n- a unique code which defines a particular item \n \n \nCategory Code  X(05) - Must field \n- a code which is pre-defined in Category master file \n \nSub. Category  X(05) - Must field \n- a code which is pre-defined in Category master file \nand belongs to the category code above \n \nSupplier Item Code  X(10) – Must field \n- an item code for the same item which is defined by \nthe supplier \n \nLong Description   X(40) x 2 - Must field (Secondary is optional) \n- detailed item description \n \nShort Description   X(20) x2  - Optional field \n- short item description \n \nDimension Control.  Details as below \n- Must field  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 15,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 15 of 42 \n             Multi-Language Button This is a button use in case of user input other \nlanguage description as a supplement data.  Some \nselective documents such as sales memo could print \nin Chinese upon user request.  \n \nDimension Control  Combo selection - Must field \nConfirm at least one of the following selection: \n A - No Col & Size, \n B - Col & Size, \n C - Color Only \n D – Inseam (optional for specific use only) \n \nSize Category  X(04) - Must field if Dimension Control is B, no need \nto enter this field otherwise \n- Pre-defined Size table is required \n- The “More Size” Button”  :  more than one \n‘size-category’ for one item is allowed \n \n            Stock Indicator  Confirm at least one of the following selections : \n \nStock Indicator  \n How to Use  \nB - Buy Off stock  User’s own Inventory Stock. This is the most common use \nindicator for most of customer \n \nC - Consignment Stock    The flag to indicate this is an Inventory Item do not own by User. \nFuture calculation processing may be applied subject to optional \nmodule purchased \n \nG – Package Set.   This flag indicated the Item is a Packaged Item which link to a pre-\ndefined Item Table Set under specific process. ChainStorePlus \nback office system will break the Packaged Items sold in POS front \nend into detail product items based on the Item Table Set then write \nto Sales Journal as history in break down details. \nPlease consult Sanyo Extended Business Consultant before use.   \n \nN – Special Handle Item  This is a special control flag for some custom made special process. \nNot for general usage. Please consult Sanyo Extended Business \nConsultant before use. \n \nS – Coupon M & M Item  This is an Item specially created for Promotion Mix & Match \ncalculation in POS processing. Must work with Mix & Match \nCoupon Process Rule  under Mix & Match Promotion Module; \n \nV – Service Item   This is to indicate that this Item is available for “Sell” in POS \nBUT NOT  a countable stock therefore NO inventory movement \nunder normal Stock Control process.  The typical item examples \nare \"Repair\", Alteration  Service\", ….etc.;  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 16,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 16 of 42 \n Stock Indicator  \n How to Use \n \n \n            Size/Inseam Cat.                    X(04) - Optional field  \n- Only allow to be chosen when Dimension \nControl is “B” or “D”  \n- Pre-define in Size Category Information \n \nDefine Color Code  X(04) - Must field if Dimension Control is set to \nother than \"A\".  \n- Pre-defined color table is required. \n- The system will check on this color control in \nmost of process and refuse color input if the \ncolor is not previously defined in this control \ntable. \n \nRetail Price 9(07).99 - Optional field \n- the retail list price of such item \n- this retail list price will be used for bar code \nlabel or price tag printing; \n- this input field is open to input only at \ncreation mode.  No retail list price \nmodification is allowed once item is created.  \nPrice modification could only be accepted in \n“Mark up Mark down” process in the system; \n \nWholesale Price 9(07).99 - Optional field \n- the wholesale price of the item \n- this price may be used for customer invoicing \nprocess in Wholesales & Distribution \nModules (an options of ChainStore Plus);  \n \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 17,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 17 of 42 \n 5.2.1 Price & Cost Tab \n \nThe Folder holds important prices and costs information of that item. \n \n \n \nPrompt  Description \n \nRetail Price 9(07).99 - Optional field \n- the retail list price of such item \n- this retail list price will be used for bar code \nlabel or price tag printing; \n- this input field is open to input only at \ncreation mode.  No retail list price \nmodification is allowed once item is created.  \nPrice modification could only be accepted in \n“Mark up Mark down” process in the system; \n \nThe ‘Retail’ Button this button will bring user into another input box for \nmulti location prices input, such as different retail \nprices for different country, group, location, or even \ncolor & size.   \n \nThe ‘Consign’ Button        this button will bring the Consignment Stock Cost \nCalculation Table for Consignment Stock Settlement \nProcess \n \nWholesales Price 9(07).99 - Optional field \n- the wholesales price of such item \n- this price will be used for customer invoicing \nprocess in Distribution Modules (an options \nof ChainStore Plus);  \n \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 18,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 18 of 42 \n The ‘Wholesales’ Button this button will bring user into another input box for \nadditional Wholesales prices input.  up to ten(10) , \ndifferent wholesales prices per item is allowed \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 19,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 19 of 42 \n The “Consign”  Button The Consignment Stock Cost Calculation Table for \nConsignment Stock Settlement Process  \n \nThis Table is used ONLY for consignment stock cost settlement calculation for supplier. \nFor user who does not use Stock Consignment Optional Module please ignore the table. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n  \nThe Effect Date of \nthis Consignment \nCost The consignment \nsettlement cost in \nfixed amount The consignment settlement costs in \npercentage % respect to either Retail \nList Price or Retail Sold price \nrespectively; \nInput on only ONE of these two(2) \nfields allowed   The effective Shop \nLocation of this \nConsignment Cost. \nBlank = ALL locations ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 20,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 20 of 42 \n  \n \nThe Item Costs Values Reference: \n \n \nScreen Display \n \n \n \nPrompt  Description \nPrice Group X(03) - Optional field \n- a code that indicates the price group of such item \n \nDiscount Ctrl.  X(01) - Must Field \n- default to ‘NO’ discount Control to the item; \n- ‘NO’ means sales discount is allowed in POS \nsales \n- Max Discount input is enable if ‘No’ is \nselected \n- ‘YES’ means NO discount is allowed in this \nitem  \n-  \nMax Discount.  99.99 - Optional field \n- Maximum discount allowed on such item \n- Expressed in a percentage of the retail price \n \n \nStandard Cost 9(07).99 – Optional Input field \n- The standard cost of the item \n- This standard cost value will not be changed unless \noverride by user; \n \n \nFOB Cost 9(07).99 – Optional Input field \n- The FOB cost of the item \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 21,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 21 of 42 \n - This FOB cost value will not be changed unless \noverride by user. \n- The input space on the Right is the currency code \nof the FOB Cost \n \nAverage Cost 9(07).99 - Display only \n- this is a weighted average cost  calculation updated \nby the system automatically after performing \npurchase receipt operation. \n The expression :- \n \n(On-hand-Qty * Avg-Cost) + (Receive-Qty * Rec-\nCost) \n(On-hand-Qty + Receive-Qty \n \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 22,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 22 of 42 \n  \nThe “MORE”  Button The MORE costs reference Table  \n \n \n The MORE Button consists of different Item Costs recorded by the system \nautomatically in different operating stages.  User could get use of these different costs \nto make the own reports for Costing Calculation, Analysis and Controls. The Costs \nare described as follows: \n \n \n \n \n  \nMonth End Actual Cost \n This is the CONFIRMED Item's Weighted Average Cost after the Month \nEnd Process.  This Cost had been re-calculated by the system in the \nMonth End Process to include ALL costs incurred into the Item since last \nMonth End.  \nLast Receive Average Cost \n The average cost ( NOT weighted Average Cost) calculated at the moment of \nStock Receive; \n This cost will included ALL other costs incurred, such as F&I, as long as they \nare known to  the system in the moment of calculation \n \nLast Receive Unit Cost \n This is The Unit Cost marked from the Last Receive moment; \n No expenses or additional cost included. \n FOB Average Cost \n This is the weighed average FOB cost calculated at the \nmoment of Stock Receive. \n This cost will included ONLY the item's FOB cost \nwithout any other costs incurred even they are known to \nthe system in moment of calculation \n Average Cost \n This is the \nweighed average \ncost calculated \nat the moment of \nStock Receive. \n This cost will \nincluded ALL \nother costs \nincurred, such as \nF&I, as long as \nthey are known \nto  the system in Last PO Unit Cost \n This is The Unit Cost \nmarked from the Last PO; \n No expenses or additional \ncost included. \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 23,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 23 of 42 \n 5.2.2 Inventory Folder \n \n \n \n \nLegends: \n \nMain W/H  X(04) - Optional field \n- the default warehouse code for this item  \n \nW/H Lot Remarks  X(10) - Optional field \n- this is a reference field to indicate which lot, or \nsection of the warehouse that the item to be stored.  \n \nReorder Level 9(07).99 - Optional field – No practice process today. \n- consists of 2 fields (min/std) \n(min) : minimum quantity of on-hand stock \nkeeping \n(std) : standard quantity of on-hand stock keeping \n \nThe “Reorder” Button for color & size reorder level input - No practice \nprocess today. \n \nInventory Group Optional Field - No practice process today. \n - use for classifying the Inventory Group of the item.  \n \nUnit Of Measure  X(04) - Must field \n- a code that indicates the item’s unit of measure e.g. \nSET, piece as PCE, etc. \n \nSupplier  X(08) –Must field \n- the code will validate against Supplier Master File  \n \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 24,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 24 of 42 \n ‘More Supplier’ button multiple suppliers per item is allowed \n \nSupplier Item Code X(15) - Optional field \n- The article/product number the supplier used \n- For reference only \n \nProducer Code X(03) - Optional field \n- a producer code for reference only \n \n \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 25,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 25 of 42 \n 5.2.3 Item Attribute (I) Tab \n \nSome optional Legends: \n \n \n  \nSpecial Promotion Flag (optional): \n This is the control to indicate this \nitem is under special promotion mark; \n No practice process for this control \nflag today; just for information \nreference only \n \nTax Code : \nThis is the VAT% / VAT$ tax code for the item, if \navailable. Tax table is associated in this field.  Model Replenishment (optional): \n This control to indicate this item is \nreplenished by Model No., NOT \nby Item No. as standard  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 26,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 26 of 42 \n Other Legends of Item Attribute(I) Folder: \n \nOwner ID X(05) - Must field \n- will valid the input against Owner ID table \n- this is the pre-defined code for Merchandiser that \nmanages and handles this item \n \nBrand  X(06) - Must field \n- will valid the input against Brand table \n \nCountry  X(02) - Optional field \n- will valid the input against Country table \n- country code which indicates where the item \ncomes from and should exist in Country Code \nmaster file if input \n \nMaterial Code   X(03) - Optional field \n- will valid the input against Material Code table \nReplenishment Optional \n- ‘’ means such item is allowed to replenish from \nwarehouse to shop \n \n \nDiscontinue Item - Optional \n  ‘ ’ means this is an discontinued item   \nThis indicate the items will not purchase again but \ncontinue to sell.  This Mark allows the system to \nprocess this item for sale, but stop purchase against \nthe items without deletion of this item record.  \n \nLock/Release Item   Optional   \n  ‘ ’ means this is a Locked item   \nThis item will stop for all transactions. User can \nrelease this Lock Item function if “blank” is selected \n \nEAN/UPC Code  input the UPC/EAN bar code value from here if the \n  item has the said bar code value associated with it. \n \nBar Code Sequence  X(07) - Display only \n- a computer-generated bar code sequence \n- the system is default to use this bar code \nsequence to represent the item in the POS front \nend system unless specify otherwise             \n \nReference  X(06) - Optional field \n- a code for user own reference only \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 27,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 27 of 42 \n Gift  Optional   \n  ‘ ’ means this is a Gift item \nmeans that such item can be given away as a gift, of \nzero retail price and cost allowed \n \nAnalysis code desc.  X(03) x 10 – Display fields \n- Short code describes the position stand in the item \n- Display according to its position defines at Analysis \nCode Table Maintenance  \n \nAnalysis code   X(03) x 10 – Optional fields \n- the code will validate against analysis code table  \n- user could activate each field with its own code for \nfuture analysis reports generation purpose \n \nExternal Season  X(4) – Optional \nFor user requires season code ‘outside’ of item code \nstructure. For user reference only.  \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 28,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 28 of 42 \n 5.2.4 Item Attribute (II) Tab \n \n \n \n \n \n \n \n \n \n \n \n \nPrompt  Description \n \nBrand  X(30) Optional \nUse for the item has brand name  \n  \nYear  X(04) Optional \nYear of product \n \nCategory  X(12) - Optional field \n- item category code  \n \nModel Number  X(20) Optional field \n- the model number of the item \n \nArticle  X(30) Optional \n  \nVariante  X() Optional \n \nSex  X(04) - Optional field \n- sex information \nImage \n This is the button will lead to display the Image(s) / Picture(s) of the Item; \n The images / pictures(s) need to be stored in a dedicated Image Folder previously defined and the \nImage File name name MUST be in the following format: \n <Filename> = Item # _999, where the '999' is the sequence # of the image \n       i.e.     A9008765433_001, A9008765433_002, A9008765433_003 .. etc. \n the system will collect all pictures belong to this item and display at once under standard Windows \nPicture Explorer. ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 29,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 29 of 42 \n  \nSeason  X(02) Optional field \n- season information needs to be pre-defined in \n“Season Code’ \n \nCollection  X(30) Optional \n-  collection of the item \n \nSub Category  X(12) - Optional field \n- item sub-category code  \n \nLabel  X(20) Optional field \n- the label of the item \n \nProduct  X(20) Optional field \n \n \nPublication for item has Book or Publication related with    \nelements as follows for user’s reference.  \n \n \nPublication Screen Display \n  \n \n \nPrompt  Description \n \nMagazine Code  X(20) Optional \n- The ID of the publication \n  \nEdition No.  X(20) Optional \n- The edition of the publication \n \nLanguage Version  X(20) - Optional field \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 30,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 30 of 42 \n - The version number of the publication printed in a \nlanguage \n \nPublisher  X(40) - Optional field \n- The Publisher name \n \nAuthor  X(40) - Optional field \n- The Author name \n \nSpecial & Date Tab \n \n \n \nMajor Prompt  Description \n \nModel Number  X(30) Optional \nUse for the item has model number associate with it.  \nSpecial search key is available for this Model No. in \nItem Inquiry function.  Perfect for Watches & \nJewelry Retailers or who have similar product nature. \n  \nWarranty Number  X(30) Optional \nUse for the item has unique serial number associate \nwith it.  Special search key is available for this serial \nno. search in Item Inquiry function.  Perfect for \nWatches & Jewelry Retailers or who have similar \nproduct nature. \n \n            Body Number  X(20) - Optional field \n- information number from the manufacturer \n \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 31,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 31 of 42 \n  \nStyle Number  X(12) - Optional field \n- a code for user own reference only \n \nVolume / Content/Container Optional field \n- a code for user own reference only \n \nExpiration Date  dd/mm/yyyy  - Optional field \n- to indicate the expiration date of the item, if \navailable \n- for user reference only \n \nSome Important Dates for Display only: \n \nCreation Date  99/99/9999 (dd/mm/yyyy) - Display only \n- the date when such item master record is created \n \nFirst Receipt Date  99/99/9999 (dd/mm/yyyy) - Display only \n- the date when such item master record is first \nreceived \n \nLast Receipt Date  99/99/9999 (dd/mm/yyyy) - Display only \n- the date when such item master record is last \nreceived \n \nFirst Transfer Date  99/99/9999 (dd/mm/yyyy) - Display only \n- the date when such item master record is first \ntransfer (usually the first transfer is from \nwarehouse to shops) \n \nLast Sales Date  99/99/9999 (dd/mm/yyyy) - Display only \n- the date when such item master record is last sold \n \nNew Season 1st Delivery Date 99/99/9999 (dd/mm/yyyy) - Display only \n- the date that this item is marked as the first \ndelivery date of the season – valid only for \nspecial seasonal product \n \nLast Modified Date  99/99/9999 (dd/mm/yyyy) - Display only \n- the date when such item master record is last \nmodified and logged with user ID  \n \n \n  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 32,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 32 of 42 \n 5.3 Other Masters \n \n5.3.1 Model Number \n \nFunctions :- \nBy Item Search Key Enquiry by Model No. \n \nObjective :- An enquiry or modification of item information that user can check \nthe availability of particular stock \n \nSample screen Model Number Information \n \n \n \n   Prompt  Description \n \n   Item Code       X(14) - Must field \n     - a unique code which defines a particular item \n \n   Description      X(40) - Must field \n    - detail item description \n \n   Model Number        X(30) – Must field \nFunctions :- \nBy Item Search Key Enquiry by Guarantee No \n \nObjective :-  \nAn enquiry or modification of item information that user can check the Guarantee \nNo. of particular stock \n \nSample screen Model Number Information \n \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 33,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 33 of 42 \n 5.4 Member Master \n \n5.4.1 Member Type Maintenance   \n \nPrerequisites: - This is the table to create Member Type for grouping members \ninto meaningful member groups. This will provide easier path to \norganize relative data for meaningful reports upon request. \n \nObjective : - Maintain member type information which classify member into \ndifferent categories. \n \nFunction : - 1.  Create Record \n2. Clear Record \n3. Validate Record \n \nScreen Display  : \n \n \n \n \n \n \n This is set for the Member Type is classified for Crossed \nRegion customers. It means the member discount specified \nunder this type will apply to POS sales for those are visiting \nOverseas members within organization.  ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 34,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 34 of 42 \n  \nPrompt Description  \n \nMember Type X(01) - Must Field \n- Type code of member \n \nDescription X(40) - Optional Field \n- Text description of such member type \n \nDiscount % 9(02).9(02) - Optional Field \n- The entitled sales discount Percentage for this \nmember type \n \nExtra % 9(02).9(02) - Optional Field \n- The entitled EXTRA sales discount Percentage in case \nof special promotional event \n \nMax Disc. Bar % 9(02).9(02) - Optional Field \n- The maximum discount % is allowed under all \npromotional events   \n \nTurn-over Control X(01) - Must Field \n- Control with Turn-over Limit plus either Amount \nbase or Qty base is allowed \n \nTurn-over Limit 9(06).(02) - Optional Field \n- Maximum accumulated sales amount permitted for such \nmember type if Limit Control is active.  This usually \napply to staff purchase environment \n \nControl Period X(01) - Optional Field \n- Control the limit is controlled whether one time \npurchase, monthly or Quarterly bases. \n \nSales Control X(01) - Must Field \n- indicate the turn over limit should based on Gross \nSales or Net Sales amount  \n \nStaff Control X(01) - Must Field \n- to indicate this is a non-staff or staff member type  \n \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 35,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 35 of 42 \n  \n \nThis Other Button in input screen allows user to define additional discount controls to \nwhere and how it should be applied for this Customer Type.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTo specify which Location, \nwhich Division, which Brand \nor which Product Category \nshould apply to this \nparticular Customer Type   \nIndicate which particular locations, \ndivisions, brands and category should \nbe applied.  Any specific discount % or Extra \nDiscount % apply to this Customer \nType. ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 36,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 36 of 42 \n  \n5.4.2 Online Credit Check on Staff / Member’s Total Purchase   \n \n \n \n \nIn case the purchase limit is applied for this particular customer type, i.e. Staff \nPurchase, the POS system will perform ONLINE credit check in Back Office via \ninternet connection to avoid over limit purchase.  POS front end system will reject \nthe sales if found the member, most likely is staff purchase, is over purchase \nwithin control period.    \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 37,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 37 of 42 \n  \nThe Upgrade Rules for Member Customer \n \nThis is the general upgrade rule ALL the customers from a customer to another \ncustomer type when the following defined conditions are satisfied.  This member \nupgrade process will be performed by a batch job in back office as per user schedule.  \n \n \n \n  \nPOS Prompt Alert Controls setting: \n Once the Alert Prompt  is checked plus  \nEffected Period  (in Days) is filled, the \nPOS front end system will then auto \ndisplay the TEXT message on the right \nas POS user reminder within the \neffective period; \nFor meaning in Example above: \n  Whenever member customers under \nthis customer type “F” is making \npurchase in shop within 180 days \ncounted from the customer’s first \npurchase date, will lead the POS system \nto prompt the Text message on the \nright automatically as reminder to POS \nuser during sales action.   Member Type Upgrade Controls setting \nALL members within the customer type will \nupgrade to a new member type as specified if \nthe total Bonus Points earned over the input \nvalue since the first purchase date; \n \nFor meaning in example above:  \nALL members within the customer type “F” \nwill upgrade to member type “E” if the total \nBonus Points earned is over “5,000” points \nsince the first purchase date.  \n \nThere is NO Member downgrade mechanism \nyet as of version 6.4.3. ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 38,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 38 of 42 \n 5.4.3 Member Master Maintenance  \n \nThis is the Master file to store Member details. This master file provides opportunity \nto allow users perform customer analysis based on member’s sales history, behavior \nand hobby.   \n \nObjective :- Maintain the personal information of customers who are frequent \nshoppers or potential members \n \nFunctions :- 1. Create Record \n2. Clear Record \n3. Validate Record \n \nPage 1 Screen Display :- \n \n \n \n \n \nPrompt   Description \n \nMember No.    X(15) - Must field \n- An unique number which indicates the member no. \n \nType  X(01) - Must field \n- Type code of the member that is pre-defined in \n‘Membership Management Information’ \n \n \nLastname  X(30) - Must field \n- Member’s lastname \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 39,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 39 of 42 \n  \nFirstname  X(30) - Must field \n- Member’s firstname \n \nAddress  X(90) x 4 - Optional field \n- Address of customer who join member. \n \nArea Code  X(02) - Optional field \n- User-defined area code for reference only \n \nPostal Code  X(202) - Optional field \n- User-defined postal code for reference only \n \nHome No.  X(15) - Optional field \n- Phone number of customer \n \nMobile No.  X(15) - Optional field \n- Phone number of customer \n \nIssue Date  99 99 9999 - Must field \n- The member membership issue date \n \nIssue Shop   X(04) - Must field \n- Shop which issues this member membership \n  \nPickup Shop  X(04) - Must field \n- Member take their membership from which shop \n \nExpiry Date  99 99 9999 - Must field \n- The member membership expiry date \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 40,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 40 of 42 \n Page 2  \n \n \n \nPrompt  Description \n \n \nDate of Birth  99 99 9999 - Optional field \n- Birth date of customer who joins as member \n \nAge  9(02) - Display only \n- Automatically calculated if birth date is given \n \nAge Group  system selection of correct age group or user self-\ninput \n  \nCard I.D.   X(15) - Optional field \n- Identification Card No. of customer \n \nNationality  X(02) - Optional field \n- Nationality of customer who joins member \n- Check against nationality table \n \nSex  Member gender \n \n \n \n \n \n \n  \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 41,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 41 of 42 \n Page 3  \n \n \n \n \nThe below is a Free TEXT input format for user’s own reference \n \n  \n",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    },
+    {
+      "page": 42,
+      "text": "ChainStorePlus v7 Book-2  \nEdition 1.2_202303  \nPage 42 of 42 \n  \n \n \n \n \n \n \n \n \n- END OF BOOK (2) :  MASTER TABLES – \n ",
+      "section": "SECTION 5    MASTER FILES MAINTENANCE"
+    }
+  ]
+}

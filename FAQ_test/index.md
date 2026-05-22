@@ -6,7 +6,7 @@ updated: 2026-05-22
 
 # ERM FAQ 知識庫
 
-> 自動生成索引 · 1817 篇 FAQ · 11 個分類
+> 自動生成索引 · 1941 篇 FAQ · 18 個分類
 
 ## 分類導航
 
@@ -23,6 +23,13 @@ updated: 2026-05-22
 | [[07_Other/index|其他]] | 6 |
 | [[07_Reporting/index|報表]] | 1 |
 | [[07_Workflow_Business/index|業務流程]] | 248 |
+| [[08_EPRO_System/index|08_EPRO_System]] | 28 |
+| [[09_EPRO_PreTender/index|09_EPRO_PreTender]] | 31 |
+| [[10_EPRO_TenderStage/index|10_EPRO_TenderStage]] | 11 |
+| [[11_EPRO_PostTender/index|11_EPRO_PostTender]] | 16 |
+| [[12_EPRO_Supplier/index|12_EPRO_Supplier]] | 10 |
+| [[13_EPRO_Reports/index|13_EPRO_Reports]] | 23 |
+| [[14_EPRO_Others/index|14_EPRO_Others]] | 5 |
 
 ---
 

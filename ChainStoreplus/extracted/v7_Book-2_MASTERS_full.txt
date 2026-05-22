@@ -1,0 +1,1490 @@
+=== PAGE 1 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 1 of 42 
+  
+ChainStore Plus Application Package  
+ 
+ 
+User Operation Manual  (v7.0) 
+ Edition v1.2 (d202303)  
+<The Master Tables> 
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Level 10, Cyberport 2, 
+100 Cyberport Road, Hong Kong 
+
+
+=== PAGE 2 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 2 of 42 
+  
+ 
+  CONFIDENTIALITY 
+ 
+ 
+ 
+This document contains confidential information about software package 
+“ChainStore Plus” developed and owned by Sanyo Extended System Services Ltd. 
+ 
+This document is made exclusively for “ ChainStore Plus” Licensee who is the 
+legal License holder under Terms and Conditions of Software License Agreement with 
+Sanyo Extended System Services Ltd.  
+ 
+No part of this document may be released, reproduced or transmitted in any form or by 
+any means, electronic or mechanical, including but without limitation, photocopying 
+and recording, for any purpose other than Licensee’s personal use without written 
+permission of Sanyo Extended System Services Ltd. 
+ 
+The information in this document is subject to change without notice.  
+ 
+ Copyright  Sanyo Extended System Services Ltd ., 1999 -2023 
+All Rights Reserved 
+ 
+  
+
+=== PAGE 3 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 3 of 42 
+ Table of Content 
+ 
+           Page 
+SECTION 5    MASTER FILES MAINTENANCE .............................................................................................. 4  
+5.1 SUPPLIER MASTER ................................................................................................................................. 4  
+5.1.1 Supplier Master Maintenance ................................................................................................ 4  
+5.1.2 Supplier Delivery Address...................................................................................................... 11  
+5.2 ITEM MASTER MAINTENANCE  ............................................................................................................... 13  
+5.2.1 Price & Cost Tab .................................................................................................................... 17  
+5.2.2 Inventory Folder .................................................................................................................... 23  
+5.2.3 Item Attribute (I) Tab ............................................................................................................ 25  
+5.2.4 Item Attribute (II) Tab ........................................................................................................... 28  
+5.3 OTHER MASTERS ................................................................................................................................ 32  
+5.3.1 Model Number ...................................................................................................................... 32  
+5.4 MEMBER MASTER ............................................................................................................................... 33  
+5.4.1 Member Type Maintenance .................................................................................................. 33  
+5.4.2 Online Credit Check on Staff / Member’s Total Purchase ..................................................... 36  
+5.4.3 Member Master Maintenance .............................................................................................. 38  
+ 
+  
+
+=== PAGE 4 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 4 of 42 
+ SECTION 5    MASTER FILES MAINTENANCE 
+5.1 Supplier Master 
+5.1.1 Supplier Master Maintenance 
+Supplier Master Maintenance allows user input detail information about a supplier for 
+processing purpose. 
+ 
+Fig 1. – Summary Page  
+ Can be either sort by Supplier Code or by Supplier Name: 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 5 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 5 of 42 
+  
+Fig 2. – Folder Page 1 of Detail Input Page  
+ 
+Double click the row will lead to Detail Modification Page as follows: 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Supplier Code X(8) - Must field 
+- a particular supplier 
+ 
+Supplier Name X(150) - Must field 
+- a supplier name in English 
+ 
+Chinese Name X(150) - Optional field 
+- a supplier name in Chinese 
+ 
+Attn. X (20) – Optional field 
+- Person to be attended to in this supplier 
+ 
+Address Line X (30) x 4 - Optional field 
+- Supplier’s delivery address 
+ 
+City X (20) - Optional field 
+- City for the delivery address 
+ 
+Country X (12) - Optional field 
+- Country for the delivery address 
+ 
+Postal X (08) - Optional field 
+- Postal for the delivery address 
+ 
+ 
+State X (04) - Optional field 
+
+
+=== PAGE 6 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 6 of 42 
+ - State for the delivery address 
+ 
+Country Code X (02) – Optional field 
+- Country for the delivery address that is pre-defined in 
+‘Country Code Maintenance 
+-  
+District Code X (03) – Optional field 
+- District code for the delivery address that is pre-
+defined in ‘District table Maintenance’ 
+ 
+ 
+Fig 3. – Folder Page 2 of Detail Input Page  
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Country  X(10) x 3 - Optional field 
+- a country code    
+ 
+Area  X(8) x 3 – Optional field 
+- an area code 
+ 
+Tel No,.  X(30) x 3 – Optional field 
+- a subscriber number 
+ 
+Extension X(15) x 3 - Optional field 
+- a extension number 
+ 
+Telex No. X(25) - Must field 
+
+
+=== PAGE 7 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 7 of 42 
+ - a teletypewriters connected number by wire through 
+automatic exchanges 
+ 
+Title X (80) - Optional field 
+- the contact person’s position title 
+ 
+First Name X (30) - Optional field 
+- the contact person’s first name 
+ 
+Last Name X (30) - Optional field 
+- the contact person’s last name 
+ 
+ 
+Fig 4. – Folder Page 3 of Detail Input Page (Middle Part) 
+ 
+ 
+ 
+ 
+  
+The Credit Term in # of Days 
+The Credit Limit.  This is input 
+amount to indicate the Max. 
+Total Credit is allowed by the 
+Supplier  Optional field for Payment 
+Method input 
+
+=== PAGE 8 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 8 of 42 
+ Fig 4. – Folder Page 3 of Detail Input Page (Bottom Part) 
+ 
+ 
+ 
+ 
+ 
+  
+Owner ID.  This is the "User" who 
+responsible for this Supplier in the Company Currency.  This is the default currency for 
+this Supplier in use of Purchase Order and 
+can be override by user in Purchase Order 
+Maintenance Process on demand. 
+Discount.  This is the default general 
+Discount offered by the Supplier.  The 
+Discount has up to 5 discount rates and to be 
+calculated in input sequence as "discount on 
+top of other discount" mechanism in 
+Purchase Order Processing as default.  The 
+Discount is calculated based on Retail List 
+Price of the product.  Discount Rate.  This is indicated how the 
+"Discount Rate" to be handled : 
+ H - Default  the discount rate in 
+Purchase Order's Header Level; 
+ I - Default  the discount rate in 
+Purchase Order's Item Level; 
+or 
+ the discount rate is for Reference only 
+– No calculation; 
+ 
+
+=== PAGE 9 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 9 of 42 
+ Fig 5. – Folder Page 4 of Detail Input Page  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Email Address X(40) - Optional field 
+- a contact email address 
+ 
+Web Site X(4) – Optional field 
+- a online website 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+It is free to use the for own analysis purposes by own developed 
+reports or tools.  
+
+=== PAGE 10 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 10 of 42 
+ Fig 5. – Folder Page 5 of Detail Input Page 
+ 
+ 
+ 
+Prompt Description 
+ 
+Bank Code X(20) - Optional field 
+- a settlement bank code 
+ 
+Bank Name  X(30) – Optional field 
+- a settlement bank name 
+  
+A/C No. X(10) – Optional field 
+- a bank account number 
+ 
+CRM ID X(20) – Optional field 
+- Refer to the identity number in customer relation 
+management system  
+ 
+BR X(20) – Optional field 
+- Business Registration number 
+ 
+Salutation X(30) – Optional field 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 11 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 11 of 42 
+ 5.1.2 Supplier Delivery Address 
+ 
+Supplier Delivery Address Maintenance allows user input detail information about delivery 
+address of the supplier for processing purpose. 
+ 
+Objective :- Maintain general information of particular supplier delivery address 
+ 
+Function :- 1.  Create Record 
+2.  Modify Record 
+3.  Delete Record 
+4.  View Record  
+5.  Copy Record as new 
+6.  Find Record 
+7.  Sort by header 
+8.  Adjust column indication                                 
+ 
+ 
+Screen Display : 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Supplier Code X(8) - Must field 
+- a particular supplier 
+ 
+Del. Addr. Code X(3) - Must field 
+- a unique code that indicates a particular delivery 
+address for the particular supplier 
+ 
+Attn. X (20) – Optional field 
+- Person to be attended to in this supplier 
+
+
+=== PAGE 12 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 12 of 42 
+  
+Delivery Address X (30) x 4 - Optional field 
+- Supplier’s delivery address 
+ 
+City X (20) - Optional field 
+- City for the delivery address 
+ 
+City Code X (4) - Optional field 
+- City code for the delivery address 
+ 
+Country X (12) - Optional field 
+- Country for the delivery address 
+ 
+Postal X (08) - Optional field 
+- Postal for the delivery address 
+ 
+State X (04) - Optional field 
+- State for the delivery address 
+ 
+Country Code X (02) – Optional field 
+- Country for the delivery address that is pre-defined in 
+‘Country Code Maintenance 
+ 
+District Code X (03) - Must field 
+- District code for the delivery address that is pre-
+defined in ‘District table Maintenance’ 
+ 
+  
+
+=== PAGE 13 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 13 of 42 
+ 5.2 Item Master Maintenance  
+ 
+This is the most important and as well the Core Master Table in the system.   This Master 
+Items File will link up many important basic tables that discussed previously in this manual.   
+This is a primary data set will be shared by many processes or subsystems in 
+ChainStore Plus. 
+ 
+It is important for user to set up data correctly in this Item Master File. 
+ 
+The Item Master maintenance comes into different folders, basically, the first folder 
+“Primary Input” is holding primary information must require by Item Master Table.   All 
+information in this primary folder is mandatory fields.  Rest of other folders, may be 
+secondary input, but still containing important data information to many users depending 
+on business and operations. 
+ 
+Objective :- Maintain detail information of an item. 
+ 
+Primary Input Folder 
+ 
+           Fig 1  
+ 
+ 
+ 
+  
+ Stock Indicator.  Details as below 
+- Must field  
+
+=== PAGE 14 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 14 of 42 
+             Fig 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prompt  Description 
+ 
+Item Code  X(14) - Must field 
+- a unique code which defines a particular item 
+ 
+ 
+Category Code  X(05) - Must field 
+- a code which is pre-defined in Category master file 
+ 
+Sub. Category  X(05) - Must field 
+- a code which is pre-defined in Category master file 
+and belongs to the category code above 
+ 
+Supplier Item Code  X(10) – Must field 
+- an item code for the same item which is defined by 
+the supplier 
+ 
+Long Description   X(40) x 2 - Must field (Secondary is optional) 
+- detailed item description 
+ 
+Short Description   X(20) x2  - Optional field 
+- short item description 
+ 
+Dimension Control.  Details as below 
+- Must field  
+
+=== PAGE 15 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 15 of 42 
+             Multi-Language Button This is a button use in case of user input other 
+language description as a supplement data.  Some 
+selective documents such as sales memo could print 
+in Chinese upon user request.  
+ 
+Dimension Control  Combo selection - Must field 
+Confirm at least one of the following selection: 
+ A - No Col & Size, 
+ B - Col & Size, 
+ C - Color Only 
+ D – Inseam (optional for specific use only) 
+ 
+Size Category  X(04) - Must field if Dimension Control is B, no need 
+to enter this field otherwise 
+- Pre-defined Size table is required 
+- The “More Size” Button”  :  more than one 
+‘size-category’ for one item is allowed 
+ 
+            Stock Indicator  Confirm at least one of the following selections : 
+ 
+Stock Indicator  
+ How to Use  
+B - Buy Off stock  User’s own Inventory Stock. This is the most common use 
+indicator for most of customer 
+ 
+C - Consignment Stock    The flag to indicate this is an Inventory Item do not own by User. 
+Future calculation processing may be applied subject to optional 
+module purchased 
+ 
+G – Package Set.   This flag indicated the Item is a Packaged Item which link to a pre-
+defined Item Table Set under specific process. ChainStorePlus 
+back office system will break the Packaged Items sold in POS front 
+end into detail product items based on the Item Table Set then write 
+to Sales Journal as history in break down details. 
+Please consult Sanyo Extended Business Consultant before use.   
+ 
+N – Special Handle Item  This is a special control flag for some custom made special process. 
+Not for general usage. Please consult Sanyo Extended Business 
+Consultant before use. 
+ 
+S – Coupon M & M Item  This is an Item specially created for Promotion Mix & Match 
+calculation in POS processing. Must work with Mix & Match 
+Coupon Process Rule  under Mix & Match Promotion Module; 
+ 
+V – Service Item   This is to indicate that this Item is available for “Sell” in POS 
+BUT NOT  a countable stock therefore NO inventory movement 
+under normal Stock Control process.  The typical item examples 
+are "Repair", Alteration  Service", ….etc.;  
+
+=== PAGE 16 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 16 of 42 
+ Stock Indicator  
+ How to Use 
+ 
+ 
+            Size/Inseam Cat.                    X(04) - Optional field  
+- Only allow to be chosen when Dimension 
+Control is “B” or “D”  
+- Pre-define in Size Category Information 
+ 
+Define Color Code  X(04) - Must field if Dimension Control is set to 
+other than "A".  
+- Pre-defined color table is required. 
+- The system will check on this color control in 
+most of process and refuse color input if the 
+color is not previously defined in this control 
+table. 
+ 
+Retail Price 9(07).99 - Optional field 
+- the retail list price of such item 
+- this retail list price will be used for bar code 
+label or price tag printing; 
+- this input field is open to input only at 
+creation mode.  No retail list price 
+modification is allowed once item is created.  
+Price modification could only be accepted in 
+“Mark up Mark down” process in the system; 
+ 
+Wholesale Price 9(07).99 - Optional field 
+- the wholesale price of the item 
+- this price may be used for customer invoicing 
+process in Wholesales & Distribution 
+Modules (an options of ChainStore Plus);  
+ 
+  
+
+=== PAGE 17 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 17 of 42 
+ 5.2.1 Price & Cost Tab 
+ 
+The Folder holds important prices and costs information of that item. 
+ 
+ 
+ 
+Prompt  Description 
+ 
+Retail Price 9(07).99 - Optional field 
+- the retail list price of such item 
+- this retail list price will be used for bar code 
+label or price tag printing; 
+- this input field is open to input only at 
+creation mode.  No retail list price 
+modification is allowed once item is created.  
+Price modification could only be accepted in 
+“Mark up Mark down” process in the system; 
+ 
+The ‘Retail’ Button this button will bring user into another input box for 
+multi location prices input, such as different retail 
+prices for different country, group, location, or even 
+color & size.   
+ 
+The ‘Consign’ Button        this button will bring the Consignment Stock Cost 
+Calculation Table for Consignment Stock Settlement 
+Process 
+ 
+Wholesales Price 9(07).99 - Optional field 
+- the wholesales price of such item 
+- this price will be used for customer invoicing 
+process in Distribution Modules (an options 
+of ChainStore Plus);  
+ 
+
+
+=== PAGE 18 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 18 of 42 
+ The ‘Wholesales’ Button this button will bring user into another input box for 
+additional Wholesales prices input.  up to ten(10) , 
+different wholesales prices per item is allowed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 19 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 19 of 42 
+ The “Consign”  Button The Consignment Stock Cost Calculation Table for 
+Consignment Stock Settlement Process  
+ 
+This Table is used ONLY for consignment stock cost settlement calculation for supplier. 
+For user who does not use Stock Consignment Optional Module please ignore the table. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The Effect Date of 
+this Consignment 
+Cost The consignment 
+settlement cost in 
+fixed amount The consignment settlement costs in 
+percentage % respect to either Retail 
+List Price or Retail Sold price 
+respectively; 
+Input on only ONE of these two(2) 
+fields allowed   The effective Shop 
+Location of this 
+Consignment Cost. 
+Blank = ALL locations 
+
+=== PAGE 20 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 20 of 42 
+  
+ 
+The Item Costs Values Reference: 
+ 
+ 
+Screen Display 
+ 
+ 
+ 
+Prompt  Description 
+Price Group X(03) - Optional field 
+- a code that indicates the price group of such item 
+ 
+Discount Ctrl.  X(01) - Must Field 
+- default to ‘NO’ discount Control to the item; 
+- ‘NO’ means sales discount is allowed in POS 
+sales 
+- Max Discount input is enable if ‘No’ is 
+selected 
+- ‘YES’ means NO discount is allowed in this 
+item  
+-  
+Max Discount.  99.99 - Optional field 
+- Maximum discount allowed on such item 
+- Expressed in a percentage of the retail price 
+ 
+ 
+Standard Cost 9(07).99 – Optional Input field 
+- The standard cost of the item 
+- This standard cost value will not be changed unless 
+override by user; 
+ 
+ 
+FOB Cost 9(07).99 – Optional Input field 
+- The FOB cost of the item 
+
+
+=== PAGE 21 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 21 of 42 
+ - This FOB cost value will not be changed unless 
+override by user. 
+- The input space on the Right is the currency code 
+of the FOB Cost 
+ 
+Average Cost 9(07).99 - Display only 
+- this is a weighted average cost  calculation updated 
+by the system automatically after performing 
+purchase receipt operation. 
+ The expression :- 
+ 
+(On-hand-Qty * Avg-Cost) + (Receive-Qty * Rec-
+Cost) 
+(On-hand-Qty + Receive-Qty 
+ 
+  
+
+=== PAGE 22 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 22 of 42 
+  
+The “MORE”  Button The MORE costs reference Table  
+ 
+ 
+ The MORE Button consists of different Item Costs recorded by the system 
+automatically in different operating stages.  User could get use of these different costs 
+to make the own reports for Costing Calculation, Analysis and Controls. The Costs 
+are described as follows: 
+ 
+ 
+ 
+ 
+  
+Month End Actual Cost 
+ This is the CONFIRMED Item's Weighted Average Cost after the Month 
+End Process.  This Cost had been re-calculated by the system in the 
+Month End Process to include ALL costs incurred into the Item since last 
+Month End.  
+Last Receive Average Cost 
+ The average cost ( NOT weighted Average Cost) calculated at the moment of 
+Stock Receive; 
+ This cost will included ALL other costs incurred, such as F&I, as long as they 
+are known to  the system in the moment of calculation 
+ 
+Last Receive Unit Cost 
+ This is The Unit Cost marked from the Last Receive moment; 
+ No expenses or additional cost included. 
+ FOB Average Cost 
+ This is the weighed average FOB cost calculated at the 
+moment of Stock Receive. 
+ This cost will included ONLY the item's FOB cost 
+without any other costs incurred even they are known to 
+the system in moment of calculation 
+ Average Cost 
+ This is the 
+weighed average 
+cost calculated 
+at the moment of 
+Stock Receive. 
+ This cost will 
+included ALL 
+other costs 
+incurred, such as 
+F&I, as long as 
+they are known 
+to  the system in Last PO Unit Cost 
+ This is The Unit Cost 
+marked from the Last PO; 
+ No expenses or additional 
+cost included. 
+ 
+
+=== PAGE 23 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 23 of 42 
+ 5.2.2 Inventory Folder 
+ 
+ 
+ 
+ 
+Legends: 
+ 
+Main W/H  X(04) - Optional field 
+- the default warehouse code for this item  
+ 
+W/H Lot Remarks  X(10) - Optional field 
+- this is a reference field to indicate which lot, or 
+section of the warehouse that the item to be stored.  
+ 
+Reorder Level 9(07).99 - Optional field – No practice process today. 
+- consists of 2 fields (min/std) 
+(min) : minimum quantity of on-hand stock 
+keeping 
+(std) : standard quantity of on-hand stock keeping 
+ 
+The “Reorder” Button for color & size reorder level input - No practice 
+process today. 
+ 
+Inventory Group Optional Field - No practice process today. 
+ - use for classifying the Inventory Group of the item.  
+ 
+Unit Of Measure  X(04) - Must field 
+- a code that indicates the item’s unit of measure e.g. 
+SET, piece as PCE, etc. 
+ 
+Supplier  X(08) –Must field 
+- the code will validate against Supplier Master File  
+ 
+
+
+=== PAGE 24 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 24 of 42 
+ ‘More Supplier’ button multiple suppliers per item is allowed 
+ 
+Supplier Item Code X(15) - Optional field 
+- The article/product number the supplier used 
+- For reference only 
+ 
+Producer Code X(03) - Optional field 
+- a producer code for reference only 
+ 
+ 
+  
+
+=== PAGE 25 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 25 of 42 
+ 5.2.3 Item Attribute (I) Tab 
+ 
+Some optional Legends: 
+ 
+ 
+  
+Special Promotion Flag (optional): 
+ This is the control to indicate this 
+item is under special promotion mark; 
+ No practice process for this control 
+flag today; just for information 
+reference only 
+ 
+Tax Code : 
+This is the VAT% / VAT$ tax code for the item, if 
+available. Tax table is associated in this field.  Model Replenishment (optional): 
+ This control to indicate this item is 
+replenished by Model No., NOT 
+by Item No. as standard  
+
+=== PAGE 26 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 26 of 42 
+ Other Legends of Item Attribute(I) Folder: 
+ 
+Owner ID X(05) - Must field 
+- will valid the input against Owner ID table 
+- this is the pre-defined code for Merchandiser that 
+manages and handles this item 
+ 
+Brand  X(06) - Must field 
+- will valid the input against Brand table 
+ 
+Country  X(02) - Optional field 
+- will valid the input against Country table 
+- country code which indicates where the item 
+comes from and should exist in Country Code 
+master file if input 
+ 
+Material Code   X(03) - Optional field 
+- will valid the input against Material Code table 
+Replenishment Optional 
+- ‘’ means such item is allowed to replenish from 
+warehouse to shop 
+ 
+ 
+Discontinue Item - Optional 
+  ‘ ’ means this is an discontinued item   
+This indicate the items will not purchase again but 
+continue to sell.  This Mark allows the system to 
+process this item for sale, but stop purchase against 
+the items without deletion of this item record.  
+ 
+Lock/Release Item   Optional   
+  ‘ ’ means this is a Locked item   
+This item will stop for all transactions. User can 
+release this Lock Item function if “blank” is selected 
+ 
+EAN/UPC Code  input the UPC/EAN bar code value from here if the 
+  item has the said bar code value associated with it. 
+ 
+Bar Code Sequence  X(07) - Display only 
+- a computer-generated bar code sequence 
+- the system is default to use this bar code 
+sequence to represent the item in the POS front 
+end system unless specify otherwise             
+ 
+Reference  X(06) - Optional field 
+- a code for user own reference only 
+ 
+
+=== PAGE 27 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 27 of 42 
+ Gift  Optional   
+  ‘ ’ means this is a Gift item 
+means that such item can be given away as a gift, of 
+zero retail price and cost allowed 
+ 
+Analysis code desc.  X(03) x 10 – Display fields 
+- Short code describes the position stand in the item 
+- Display according to its position defines at Analysis 
+Code Table Maintenance  
+ 
+Analysis code   X(03) x 10 – Optional fields 
+- the code will validate against analysis code table  
+- user could activate each field with its own code for 
+future analysis reports generation purpose 
+ 
+External Season  X(4) – Optional 
+For user requires season code ‘outside’ of item code 
+structure. For user reference only.  
+  
+
+=== PAGE 28 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 28 of 42 
+ 5.2.4 Item Attribute (II) Tab 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prompt  Description 
+ 
+Brand  X(30) Optional 
+Use for the item has brand name  
+  
+Year  X(04) Optional 
+Year of product 
+ 
+Category  X(12) - Optional field 
+- item category code  
+ 
+Model Number  X(20) Optional field 
+- the model number of the item 
+ 
+Article  X(30) Optional 
+  
+Variante  X() Optional 
+ 
+Sex  X(04) - Optional field 
+- sex information 
+Image 
+ This is the button will lead to display the Image(s) / Picture(s) of the Item; 
+ The images / pictures(s) need to be stored in a dedicated Image Folder previously defined and the 
+Image File name name MUST be in the following format: 
+ <Filename> = Item # _999, where the '999' is the sequence # of the image 
+       i.e.     A9008765433_001, A9008765433_002, A9008765433_003 .. etc. 
+ the system will collect all pictures belong to this item and display at once under standard Windows 
+Picture Explorer. 
+
+=== PAGE 29 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 29 of 42 
+  
+Season  X(02) Optional field 
+- season information needs to be pre-defined in 
+“Season Code’ 
+ 
+Collection  X(30) Optional 
+-  collection of the item 
+ 
+Sub Category  X(12) - Optional field 
+- item sub-category code  
+ 
+Label  X(20) Optional field 
+- the label of the item 
+ 
+Product  X(20) Optional field 
+ 
+ 
+Publication for item has Book or Publication related with    
+elements as follows for user’s reference.  
+ 
+ 
+Publication Screen Display 
+  
+ 
+ 
+Prompt  Description 
+ 
+Magazine Code  X(20) Optional 
+- The ID of the publication 
+  
+Edition No.  X(20) Optional 
+- The edition of the publication 
+ 
+Language Version  X(20) - Optional field 
+
+
+=== PAGE 30 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 30 of 42 
+ - The version number of the publication printed in a 
+language 
+ 
+Publisher  X(40) - Optional field 
+- The Publisher name 
+ 
+Author  X(40) - Optional field 
+- The Author name 
+ 
+Special & Date Tab 
+ 
+ 
+ 
+Major Prompt  Description 
+ 
+Model Number  X(30) Optional 
+Use for the item has model number associate with it.  
+Special search key is available for this Model No. in 
+Item Inquiry function.  Perfect for Watches & 
+Jewelry Retailers or who have similar product nature. 
+  
+Warranty Number  X(30) Optional 
+Use for the item has unique serial number associate 
+with it.  Special search key is available for this serial 
+no. search in Item Inquiry function.  Perfect for 
+Watches & Jewelry Retailers or who have similar 
+product nature. 
+ 
+            Body Number  X(20) - Optional field 
+- information number from the manufacturer 
+ 
+
+
+=== PAGE 31 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 31 of 42 
+  
+Style Number  X(12) - Optional field 
+- a code for user own reference only 
+ 
+Volume / Content/Container Optional field 
+- a code for user own reference only 
+ 
+Expiration Date  dd/mm/yyyy  - Optional field 
+- to indicate the expiration date of the item, if 
+available 
+- for user reference only 
+ 
+Some Important Dates for Display only: 
+ 
+Creation Date  99/99/9999 (dd/mm/yyyy) - Display only 
+- the date when such item master record is created 
+ 
+First Receipt Date  99/99/9999 (dd/mm/yyyy) - Display only 
+- the date when such item master record is first 
+received 
+ 
+Last Receipt Date  99/99/9999 (dd/mm/yyyy) - Display only 
+- the date when such item master record is last 
+received 
+ 
+First Transfer Date  99/99/9999 (dd/mm/yyyy) - Display only 
+- the date when such item master record is first 
+transfer (usually the first transfer is from 
+warehouse to shops) 
+ 
+Last Sales Date  99/99/9999 (dd/mm/yyyy) - Display only 
+- the date when such item master record is last sold 
+ 
+New Season 1st Delivery Date 99/99/9999 (dd/mm/yyyy) - Display only 
+- the date that this item is marked as the first 
+delivery date of the season – valid only for 
+special seasonal product 
+ 
+Last Modified Date  99/99/9999 (dd/mm/yyyy) - Display only 
+- the date when such item master record is last 
+modified and logged with user ID  
+ 
+ 
+  
+
+=== PAGE 32 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 32 of 42 
+ 5.3 Other Masters 
+ 
+5.3.1 Model Number 
+ 
+Functions :- 
+By Item Search Key Enquiry by Model No. 
+ 
+Objective :- An enquiry or modification of item information that user can check 
+the availability of particular stock 
+ 
+Sample screen Model Number Information 
+ 
+ 
+ 
+   Prompt  Description 
+ 
+   Item Code       X(14) - Must field 
+     - a unique code which defines a particular item 
+ 
+   Description      X(40) - Must field 
+    - detail item description 
+ 
+   Model Number        X(30) – Must field 
+Functions :- 
+By Item Search Key Enquiry by Guarantee No 
+ 
+Objective :-  
+An enquiry or modification of item information that user can check the Guarantee 
+No. of particular stock 
+ 
+Sample screen Model Number Information 
+ 
+
+
+=== PAGE 33 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 33 of 42 
+ 5.4 Member Master 
+ 
+5.4.1 Member Type Maintenance   
+ 
+Prerequisites: - This is the table to create Member Type for grouping members 
+into meaningful member groups. This will provide easier path to 
+organize relative data for meaningful reports upon request. 
+ 
+Objective : - Maintain member type information which classify member into 
+different categories. 
+ 
+Function : - 1.  Create Record 
+2. Clear Record 
+3. Validate Record 
+ 
+Screen Display  : 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is set for the Member Type is classified for Crossed 
+Region customers. It means the member discount specified 
+under this type will apply to POS sales for those are visiting 
+Overseas members within organization.  
+
+=== PAGE 34 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 34 of 42 
+  
+Prompt Description  
+ 
+Member Type X(01) - Must Field 
+- Type code of member 
+ 
+Description X(40) - Optional Field 
+- Text description of such member type 
+ 
+Discount % 9(02).9(02) - Optional Field 
+- The entitled sales discount Percentage for this 
+member type 
+ 
+Extra % 9(02).9(02) - Optional Field 
+- The entitled EXTRA sales discount Percentage in case 
+of special promotional event 
+ 
+Max Disc. Bar % 9(02).9(02) - Optional Field 
+- The maximum discount % is allowed under all 
+promotional events   
+ 
+Turn-over Control X(01) - Must Field 
+- Control with Turn-over Limit plus either Amount 
+base or Qty base is allowed 
+ 
+Turn-over Limit 9(06).(02) - Optional Field 
+- Maximum accumulated sales amount permitted for such 
+member type if Limit Control is active.  This usually 
+apply to staff purchase environment 
+ 
+Control Period X(01) - Optional Field 
+- Control the limit is controlled whether one time 
+purchase, monthly or Quarterly bases. 
+ 
+Sales Control X(01) - Must Field 
+- indicate the turn over limit should based on Gross 
+Sales or Net Sales amount  
+ 
+Staff Control X(01) - Must Field 
+- to indicate this is a non-staff or staff member type  
+ 
+ 
+
+=== PAGE 35 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 35 of 42 
+  
+ 
+This Other Button in input screen allows user to define additional discount controls to 
+where and how it should be applied for this Customer Type.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To specify which Location, 
+which Division, which Brand 
+or which Product Category 
+should apply to this 
+particular Customer Type   
+Indicate which particular locations, 
+divisions, brands and category should 
+be applied.  Any specific discount % or Extra 
+Discount % apply to this Customer 
+Type. 
+
+=== PAGE 36 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 36 of 42 
+  
+5.4.2 Online Credit Check on Staff / Member’s Total Purchase   
+ 
+ 
+ 
+ 
+In case the purchase limit is applied for this particular customer type, i.e. Staff 
+Purchase, the POS system will perform ONLINE credit check in Back Office via 
+internet connection to avoid over limit purchase.  POS front end system will reject 
+the sales if found the member, most likely is staff purchase, is over purchase 
+within control period.    
+
+
+=== PAGE 37 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 37 of 42 
+  
+The Upgrade Rules for Member Customer 
+ 
+This is the general upgrade rule ALL the customers from a customer to another 
+customer type when the following defined conditions are satisfied.  This member 
+upgrade process will be performed by a batch job in back office as per user schedule.  
+ 
+ 
+ 
+  
+POS Prompt Alert Controls setting: 
+ Once the Alert Prompt  is checked plus  
+Effected Period  (in Days) is filled, the 
+POS front end system will then auto 
+display the TEXT message on the right 
+as POS user reminder within the 
+effective period; 
+For meaning in Example above: 
+  Whenever member customers under 
+this customer type “F” is making 
+purchase in shop within 180 days 
+counted from the customer’s first 
+purchase date, will lead the POS system 
+to prompt the Text message on the 
+right automatically as reminder to POS 
+user during sales action.   Member Type Upgrade Controls setting 
+ALL members within the customer type will 
+upgrade to a new member type as specified if 
+the total Bonus Points earned over the input 
+value since the first purchase date; 
+ 
+For meaning in example above:  
+ALL members within the customer type “F” 
+will upgrade to member type “E” if the total 
+Bonus Points earned is over “5,000” points 
+since the first purchase date.  
+ 
+There is NO Member downgrade mechanism 
+yet as of version 6.4.3. 
+
+=== PAGE 38 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 38 of 42 
+ 5.4.3 Member Master Maintenance  
+ 
+This is the Master file to store Member details. This master file provides opportunity 
+to allow users perform customer analysis based on member’s sales history, behavior 
+and hobby.   
+ 
+Objective :- Maintain the personal information of customers who are frequent 
+shoppers or potential members 
+ 
+Functions :- 1. Create Record 
+2. Clear Record 
+3. Validate Record 
+ 
+Page 1 Screen Display :- 
+ 
+ 
+ 
+ 
+ 
+Prompt   Description 
+ 
+Member No.    X(15) - Must field 
+- An unique number which indicates the member no. 
+ 
+Type  X(01) - Must field 
+- Type code of the member that is pre-defined in 
+‘Membership Management Information’ 
+ 
+ 
+Lastname  X(30) - Must field 
+- Member’s lastname 
+
+
+=== PAGE 39 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 39 of 42 
+  
+Firstname  X(30) - Must field 
+- Member’s firstname 
+ 
+Address  X(90) x 4 - Optional field 
+- Address of customer who join member. 
+ 
+Area Code  X(02) - Optional field 
+- User-defined area code for reference only 
+ 
+Postal Code  X(202) - Optional field 
+- User-defined postal code for reference only 
+ 
+Home No.  X(15) - Optional field 
+- Phone number of customer 
+ 
+Mobile No.  X(15) - Optional field 
+- Phone number of customer 
+ 
+Issue Date  99 99 9999 - Must field 
+- The member membership issue date 
+ 
+Issue Shop   X(04) - Must field 
+- Shop which issues this member membership 
+  
+Pickup Shop  X(04) - Must field 
+- Member take their membership from which shop 
+ 
+Expiry Date  99 99 9999 - Must field 
+- The member membership expiry date 
+ 
+
+=== PAGE 40 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 40 of 42 
+ Page 2  
+ 
+ 
+ 
+Prompt  Description 
+ 
+ 
+Date of Birth  99 99 9999 - Optional field 
+- Birth date of customer who joins as member 
+ 
+Age  9(02) - Display only 
+- Automatically calculated if birth date is given 
+ 
+Age Group  system selection of correct age group or user self-
+input 
+  
+Card I.D.   X(15) - Optional field 
+- Identification Card No. of customer 
+ 
+Nationality  X(02) - Optional field 
+- Nationality of customer who joins member 
+- Check against nationality table 
+ 
+Sex  Member gender 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 41 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 41 of 42 
+ Page 3  
+ 
+ 
+ 
+ 
+The below is a Free TEXT input format for user’s own reference 
+ 
+  
+
+
+=== PAGE 42 ===
+ChainStorePlus v7 Book-2  
+Edition 1.2_202303  
+Page 42 of 42 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- END OF BOOK (2) :  MASTER TABLES – 
+ 

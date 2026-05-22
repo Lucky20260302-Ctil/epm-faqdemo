@@ -1,0 +1,162 @@
+/* ==============================================
+   FAQ Article Section Visual Distinction
+   Symptom (blue) / Root Cause (amber) / Solution (green)
+   ============================================== */
+
+/* ---- Section header icons via CSS pseudo-elements ---- */
+
+/* Symptom section - Blue theme */
+h2:has(+ :where(p, ul, ol, blockquote, table, .table-container)),
+article h2 {
+  position: relative;
+}
+
+/* Target h2 by common FAQ headings */
+.faq-section-symptom,
+h2[id*="症狀"],
+h2[id*="症状"],
+h2[id*="symptom"],
+h2[id*="問題"],
+h2[id*="问题"],
+h2[id*="problem"] {
+  border-left: 4px solid #3b82f6 !important;
+  padding-left: 0.9rem !important;
+  color: #1e40af !important;
+}
+
+.faq-section-rootcause,
+h2[id*="根因"],
+h2[id*="root-cause"],
+h2[id*="root_cause"],
+h2[id*="原因"] {
+  border-left: 4px solid #d97706 !important;
+  padding-left: 0.9rem !important;
+  color: #92400e !important;
+}
+
+.faq-section-solution,
+h2[id*="解法"],
+h2[id*="解決"],
+h2[id*="解决"],
+h2[id*="solution"],
+h2[id*="fix"] {
+  border-left: 4px solid #16a34a !important;
+  padding-left: 0.9rem !important;
+  color: #166534 !important;
+}
+
+/* Dark mode colors */
+:root[saved-theme="dark"] {
+  h2[id*="症狀"],
+  h2[id*="症状"],
+  h2[id*="symptom"],
+  h2[id*="問題"],
+  h2[id*="问题"],
+  h2[id*="problem"] {
+    color: #93c5fd !important;
+  }
+
+  h2[id*="根因"],
+  h2[id*="root-cause"],
+  h2[id*="root_cause"],
+  h2[id*="原因"] {
+    color: #fcd34d !important;
+  }
+
+  h2[id*="解法"],
+  h2[id*="解決"],
+  h2[id*="解决"],
+  h2[id*="solution"],
+  h2[id*="fix"] {
+    color: #86efac !important;
+  }
+}
+
+/* ---- Table-format FAQ rows (| 問題 | 根因 | 解法) ---- */
+
+/* Style the first column as labels */
+table tbody tr td:first-child:empty + td,
+table td:first-child {
+  /* This is limited - we style the whole table instead */
+}
+
+/* Table that contains FAQ structure */
+.table-container > table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+/* FAQ table rows — first column is label */
+article table td:first-child {
+  font-weight: 650;
+  width: 1%;
+  white-space: nowrap;
+  text-align: center;
+  min-width: 4rem;
+}
+
+/* ---- Section background cards ---- */
+
+/* For FAQ pages, add subtle background to content sections */
+article h2 + p,
+article h2 + ul,
+article h2 + ol {
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  margin-top: 0.3rem;
+}
+
+/* Symptom content bg */
+h2[id*="症狀"] + :where(p, ul, ol),
+h2[id*="症状"] + :where(p, ul, ol),
+h2[id*="symptom"] + :where(p, ul, ol),
+h2[id*="問題"] + :where(p, ul, ol),
+h2[id*="问题"] + :where(p, ul, ol),
+h2[id*="problem"] + :where(p, ul, ol) {
+  background: rgba(59, 130, 246, 0.04);
+  border-left: 3px solid rgba(59, 130, 246, 0.25);
+}
+
+/* Root cause content bg */
+h2[id*="根因"] + :where(p, ul, ol),
+h2[id*="root-cause"] + :where(p, ul, ol),
+h2[id*="root_cause"] + :where(p, ul, ol),
+h2[id*="原因"] + :where(p, ul, ol) {
+  background: rgba(217, 119, 6, 0.04);
+  border-left: 3px solid rgba(217, 119, 6, 0.25);
+}
+
+/* Solution content bg */
+h2[id*="解法"] + :where(p, ul, ol),
+h2[id*="解決"] + :where(p, ul, ol),
+h2[id*="解决"] + :where(p, ul, ol),
+h2[id*="solution"] + :where(p, ul, ol),
+h2[id*="fix"] + :where(p, ul, ol) {
+  background: rgba(22, 163, 74, 0.04);
+  border-left: 3px solid rgba(22, 163, 74, 0.25);
+}
+
+/* ---- FAQ quality completeness indicator ---- */
+
+.stub-notice {
+  background: #ffebe9;
+  border: 1px solid #f5c2c7;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  color: #922;
+}
+
+.stub-notice strong {
+  color: #cf222e;
+}
+
+:root[saved-theme="dark"] .stub-notice {
+  background: rgba(207, 34, 46, 0.1);
+  border-color: rgba(207, 34, 46, 0.25);
+  color: #f76d76;
+}

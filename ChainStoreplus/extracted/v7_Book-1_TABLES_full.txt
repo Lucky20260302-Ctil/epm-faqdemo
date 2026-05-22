@@ -1,0 +1,2014 @@
+=== PAGE 1 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 1 of 70 
+  
+ 
+ChainStore Plus Application Package  
+ 
+ 
+User Operation Manual  (v7.0) 
+ Edition v1.2 (d202303)  
+<The Introduction & Master Tables> 
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Level 10, Cyberport 2, 
+100 Cyberport Road, Hong Kong 
+ 
+
+=== PAGE 2 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 2 of 70 
+  
+ 
+CONFIDENTIALITY 
+ 
+ 
+ 
+This document contains confidential information about software package 
+“ChainStore Plus” developed and owned by Sanyo Extended System Services 
+Ltd. 
+ 
+This document is made exclusively for “ ChainStore Plus” Licensee who is the 
+legal License holder under Terms and Conditions of Software License Agreement with 
+Sanyo Extended System Services Ltd.  
+ 
+No part of this document may be released, reproduced, or transmitted in any form or 
+by any means, electronic or mechanical, including but without limitation, 
+photocopying and recording, for any purpose other than Licensee’s personal use 
+without written permission of Sanyo Extended System Services Ltd. 
+ 
+The information in this document is subject to change without notice.  
+ 
+ Copyright  Sanyo Extended System Services Ltd ., 1999 -2023 
+All Rights Reserved 
+ 
+  
+
+=== PAGE 3 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 3 of 70 
+ Table of Content 
+          Page 
+ 
+SECTION  1   INTRODUCTION TO CHAINSTOREPLUS V7 SYSTEM ................................................. 4  
+1.1 SYSTEM OVERVIEW ............................................................................................................................4  
+1.2 GETTING START .................................................................................................................................5  
+1.2.1 Quick Reference of Commonly Used Function Keys (Icons) .................................................5  
+1.2.2 Main Menu Screens Layout .................................................................................................8  
+1.2.3 Display Print Queue ...........................................................................................................12  
+SECTION  2    LOGON PROCEDURE ...................................................................................................... 15  
+SECTION 3 SYSTEM UTILITY ................................................................................................................ 17  
+3.1 COMPANY FILE MAINTENANCE  ...........................................................................................................18  
+3.2 USER TABLE MAINTENANCE  ...............................................................................................................20  
+3.3 USER PROGRAM ACCESS LISTING ........................................................................................................21  
+3.4 USER TABLE MAINTENANCE  ...............................................................................................................23  
+3.5 USER PASSWORD CHANGE .................................................................................................................25  
+3.6 USER PASSWORD RESTRICTED KEYWORD ..............................................................................................26  
+3.7 USER PASSWORD POLICY ...................................................................................................................28  
+3.8 SELECT LANGUAGE ...........................................................................................................................30  
+SECTION 4 MASTER TABLE MAINTENANCE ........................................................................................ 31  
+4.1 DIVISION CODE MAINTENANCE  ...........................................................................................................34  
+4.2 LOCATION CODE MAINTENANCE  .........................................................................................................37  
+4.3 LOCATION CLASS MAINTENANCE  .........................................................................................................42  
+4.4 CATEGORY CODE MAINTENANCE  ........................................................................................................43  
+4.5 SIZE CATEGORY MAINTENANCE ...........................................................................................................45  
+4.6 COLOR CODE MAINTENANCE  .............................................................................................................46  
+4.7 BRAND CODE MAINTENANCE  .............................................................................................................47  
+4.8 SALES STAFF CODE MAINTENANCE  ......................................................................................................49  
+4.9 POS TENDER ..................................................................................................................................51  
+4.10 POS PAYMENT KEY BUTTON CONTROL ...........................................................................................56  
+4.11 EXCHANGE RATE MAINTENANCE  ....................................................................................................57  
+4.12 REASON TABLE MAINTENANCE  ......................................................................................................59  
+4.13 LOCATION MESSAGE MAINTENANCE  ...............................................................................................61  
+4.14 POS SECURITY ACCESS MAINTENANCE  ............................................................................................63  
+4.15 WAREHOUSE LOT REMARKS ..........................................................................................................65  
+4.16 SEX / GENDER CODE MAINTENANCE  ...............................................................................................66  
+4.17 COLLECTION CODE MAINTENANCE  .................................................................................................67  
+4.18 LABEL CODE MAINTENANCE  ..........................................................................................................68  
+4.19 UNIT OF MEASURE ......................................................................................................................69  
+ 
+  
+
+=== PAGE 4 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 4 of 70 
+ SECTION  1   INTRODUCTION TO ChainStore Plusv7 SYSTEM  
+ 
+This book is written and designed to serve the needs of operating the ChainStore Plus 
+application package developed by Sanyo Extended System Services Ltd.  This manual is 
+written in simple sentence approach to illustrate all major operating procedures with 
+appropriate explanations. This helps user easier to understand the application package 
+related to its own business operation.  
+ 
+1.1 System Overview 
+ 
+ChainStore Plus application system package is a comprehensive retail software 
+designed in multi-country, multi-company, multi-store, multi-currency, and multi-
+language environment. The package also comes with many optional modules to suit 
+different users’ business requirements.   
+ 
+ChainStore Plus comes in two major systems – the front office (POS) and Back Office 
+Operations. This menu is for Back Office Operations  only.  
+ 
+The following is the list of major modules including “Optional Modules*” in 
+ChainStore Plus:  
+ 
+1. Table Maintenance 
+2. Master Maintenance 
+3. Purchase Order Maintenance 
+4. Stock Receipt 
+5. Stock Transfer 
+6. Physical Adjustment Process 
+7. Physical Count Process 
+8. Price Mark-up/Down 
+9. On-Line Inquiry 
+10. Web Based Management Reports by SQL Server Reporting Services 
+11. Data Interface / Exchange  
+12. Administration Process. 
+ 
+*Note: For the most updated “ ChainStore Plus Optional Modules List” please consult sales 
+department of Sanyo Extended System Services Lt d.  
+ 
+All these modules are playing important roles in the system differently. All of these will 
+be discussed in this manual down into operational details such as objectives, operational 
+options, workflow, screens and function-keys descriptions, etc. in different chapters.  
+  
+
+=== PAGE 5 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 5 of 70 
+ 1.2 Getting Start 
+ 
+Before we start to discuss the processes in the system, we need to explain the most 
+frequently used words in the manual such as the commonly used function keys, the 
+symbols described in screen contents etc. This definition could help users easier to 
+understand the operational procedures when they are going through the discussions 
+in this manual.  
+ 
+1.2.1 Quick Reference of Commonly Used Function Keys (Icons) 
+ 
+You will find there is a line of icons (or function keys) at the top of every working 
+screen. A graphical image or word in every icon is illustrating its corresponding 
+function, so in the following we are going to discuss those commonly used icons 
+and its functional explanations:  
+   
+               
+Fig 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Create New Record 
+ 
+Modify Record  Delete Record 
+ View Record 
+ 
+Copy record as new 
+ 
+
+=== PAGE 6 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 6 of 70 
+ Fig 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+First Record 
+ Previous Page  
+ 
+Next Page 
+Last Record  
+Search record Sort by header  
+Adjust column 
+indication 
+Back Refresh entire page  
+
+=== PAGE 7 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 7 of 70 
+ Symbols Used 
+ 
+Besides the Icons (function keys) explanations, there are screen display fields 
+explanations as well. We will use abbreviations or symbols to describe the field’s 
+meaning for our convenience. Users should learn the following symbols to make their 
+perception of the later sections easier. 
+ 
+                           1). X(n) - X represents alphanumeric character. The n in bracket 
+                                            indicates that there are ‘n’ number of alphanumeric.  
+                                            characters. 
+  
+e.g., X (5) represents 5 alphanumeric characters, “12Abc”, 
+“ab1d3”, “123” are all accepted here. 
+ 
+2). 9(n).9(m)  - 9 represents numeric character. The n in bracket indicates 
+that there are n number of numeric characters. The m in 
+bracket after the decimal point indicates that there are m 
+number of numeric characters after the decimal point. 
+ 
+e.g., 9(3).99 represents 3 numeric integers with 2 numeric 
+decimals point. “12.10”, “123.09” are accepted here. But 
+“as8.99”, “1234.56”, “12.987” are not accepted here. 
+ 
+3). S - S represents the numeric field that is signed. In other words, 
+positive (+) and negative (-) values of the field are both accepted 
+during input. 
+  
+
+=== PAGE 8 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 8 of 70 
+ 1.2.2 Main Menu Screens Layout 
+ 
+ChainStore Plus is designed in a user-friendly and easy operational approach.  The 
+screen layout of the package is consistent throughout the entire application.  Users could 
+easily master the general screen functions just with simple training and practice. 
+ 
+Let’s take a look of the Main Menu screen layout: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Main 
+Menu Area The Company Name 
+in Operation 
+The Sub Menu Area 
+shows on the left of Main 
+Menu 
+
+=== PAGE 9 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 9 of 70 
+  
+1.) Access the “three vertical dots” for System Setting  
+ 
+User can access the “three vertical dots” at the top right and next to the logging 
+name for system settings. By clicking the “three vertical dots”, ‘Settings’, ‘Print’, 
+‘Language’ and ‘Logout’ four options immediately comes with here. 
+ 
+ 
+Sample Display: 
+ 
+ 
+ 
+                 Surf the mouse and select the desired language by clicking the mouse.  
+ 
+  
+
+
+=== PAGE 10 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 10 of 70 
+  
+2.) Access the “three vertical dots” for logout  
+ 
+User can access the “three vertical dots” and click ‘Logout’, the Confirmation 
+dialog box will be prompted and then sign you out of your account by pressing 
+‘OK’. 
+  
+            Fig 1 
+ 
+ 
+Fig 2 
+ 
+ 
+The Confirmation dialog box will be prompted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Logout 
+
+=== PAGE 11 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 11 of 70 
+ 3.) General Menu / Index Screen   
+ 
+In most of the processing modules, an INDEX TABLE is organized in a front page 
+for user’s easy reference/selection purpose.  This screen provides an index that 
+shows the data under different sorting sequences.  
+      
+Table Index Sample Display: 
+ 
+ 
+ 
+a. Select the desired record or index by input the reference index key (Search 
+function) and double click. 
+ 
+4.) General Detail Screen   
+ 
+A sample of detailed information is displayed on this screen after the index record 
+is selected in screen 3.  
+ 
+Screen Display :         
+ 
+ 
+
+
+=== PAGE 12 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 12 of 70 
+ 1.2.3 Display Print Queue 
+ 
+Those processing reports (NOT analysis reports by MS- Reporting Services)  generated by 
+ChainStore Plus application package are saved in the Print Queue system instead of 
+print direct to printer. User can access the “three vertical dots” and click ‘Print’. You will 
+be able to view the ‘Document Queue Management’. The general functions of the 
+‘Document Queue Management’: 
+         
+                                                          
+ 
+ 
+ 
+ 
+ 
+ 
+          
+  
+This Print Button allows to 
+enter user’s own print queue. 
+
+=== PAGE 13 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 13 of 70 
+ Screen Display:  
+         Document Queue Management Screen  
+ 
+ 
+ 
+          
+General Print Queue Management Information: 
+ Generation Date and Time of print file, 
+ Report ID and Description of print file 
+ Number of pages 
+ Protect flag 
+ Column (Right Margin) 
+ Number of pages in print file 
+ Company Code 
+ 
+  
+
+
+=== PAGE 14 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 14 of 70 
+ Document Queue Management “Preview” Function Descriptions: 
+ 
+‘Document Queue Management’ displays and lists user own documents. The right side 
+‘Save As’ allows users to save documents as ‘.TXT’ format files .  
+ 
+ 
+ 
+File as below example will download when the button is pressed: 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 15 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 15 of 70 
+ SECTION  2    LOGON PROCEDURE  
+ 
+Objective:     
+ 
+Logon Procedure occurs when user type correct URL. The Log On screen is to avoid 
+unauthorized access, it is a locked door of the system.  Authorization key and password are 
+needed for each ChainStore Plus user. Users must obtain the account and password 
+from System Administrator before the first Logon. 
+ 
+  Screen Display: 
+ 
+ 
+ 
+  Logon On Screen  
+ 
+         Prompt                     Descriptions 
+ 
+         User Name              X (40) - Must field 
+                                          -  User Identification Number 
+ 
+         Password                 X (40) - Must field and not displayed. 
+- User Personal Password 
+ 
+         Functions                Descriptions 
+ 
+         <Full Screen Mode>      - Allow the web browser into Full Screen Mode 
+ 
+         <Login>               - Verify and logon system. 
+ 
+  
+Sample Logon Procedure 
+  
+
+
+=== PAGE 16 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 16 of 70 
+     1.  Enter the correct User Name. 
+ 
+    2.  Enter the Password corresponding to the input User I.D. 
+ 
+3. Enable or disable “Full Screen Mode” by pick up the box (or not) 
+ 
+4. Press <Enter> to login. 
+  
+
+=== PAGE 17 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 17 of 70 
+ SECTION 3 SYSTEM ADMINISTRATION 
+ 
+Administration 
+ 
+Objective:   
+ 
+Before ChainStore Plus live operations, there are several utilities that user must first 
+define for the system to run. These utilities recommend being executed by System 
+Administrator, or the delicate personnel in your organization only. These functions in the 
+‘Administration’ as following examples: - 
+ 
+1. Company File 
+2. User Table Maintenance 
+3. User Password Change  
+4. User Password Restricted Keyword 
+5. User Password Policy 
+ 
+We are going to discuss these system control utilities in the next beginning section since 
+most of these modules need to be defined before system execution.  
+ 
+ 
+
+
+=== PAGE 18 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 18 of 70 
+ 3.1 Company File Maintenance 
+ 
+Since it is a multi-company control system, different company information will be 
+distinguished and stored in separate company data directory.  It provides the maintenance 
+of company information for user to update and input the Company File. 
+ 
+Objective: Maintain the general company information in Company File. 
+ 
+Functions: 1. Create Record - Add new record into Company File. 
+                  2. Modify Record - Change information of existing Company File record. 
+                  3. Delete Record - Remove an existing Company. 
+                  4. View Record - Display detailed information of existing Company File record. 
+                  5. Copy Record - Change information of existing Company to new one. 
+ 
+  
+         Company File Maintenance Screen Display  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 19 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 19 of 70 
+  
+Fig 2: 
+ 
+ 
+ 
+Fig 3: 
+ 
+ 
+ 
+           Prompt                      Descriptions 
+ 
+           Company Code         X(02) -  Must field 
+                                             -  a unique code represents a particular company 
+ 
+           Company Name        X(50) -  Must field 
+                                             -  Company name 
+            Base Currency         X(03) - Must field 
+                                            -  Base currency of that company normally used 
+  
+
+
+=== PAGE 20 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 20 of 70 
+ 3.2 User Table Maintenance  
+ 
+This Security module provides security control on program, files and functions over user 
+who accesses to the system.  Unauthorized data access is not allowed if the user is set for 
+‘NO’ access right of the function. The system administrator therefore builds the access 
+authorization in this maintenance module according to user rights is important.   
+ 
+Screen Display: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 21 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 21 of 70 
+ 3.3 User Program Access Listing  
+ 
+Objective: 
+ 
+Search and list user accessible program or module in back-end system   
+ 
+ 
+ 
+ 
+The Confirmation dialog box Screen Display: 
+  
+ 
+The Confirmation dialog box will be prompted and press OK if typed information 
+is correct. Then you will view update on Document Queue Management Screen 
+(please refer to above Display Print Queue section)  
+ 
+ 
+ 
+ 
+ P- Program ID 
+The result-set sort in Program ID 
+ M - Main Sequence 
+The result -set sort in Program Description   
+
+=== PAGE 22 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 22 of 70 
+ User Program Access Listing Print Result example screen 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 23 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 23 of 70 
+ 3.4 User Table Maintenance  
+ 
+Objective: 
+ 
+Maintain the user logon information and access authorization of each operational module, 
+program, or function in the system. 
+ 
+Functions:  1.  Create Record  Add new records into the System.  
+ 2.  Modify Record  Change information of an existing record. 
+ 3.  Delete Record  Remove an existing record. 
+ 4. Inquiry Record  Display detail of the selected record  
+ 5   Copy Record  Copy existing record to new one  
+   
+User Security Maintenance Screen Display: 
+ 
+ 
+ 
+Prompt                        Descriptions 
+ 
+            User Name                   X (40) - Must field 
+                                                 -  User Login ID 
+ 
+            Full Name                   X (40) - Must field 
+ 
+            User ID                        X (03) - Must field 
+                                                 -  System User I.D. 
+ 
+            Class                            X (01) - Must field 
+                                                 -  User level in the company 
+                                                 -  0: Administrator  
+                                                    1: Staff – who can see cost of product 
+                                                    2: Junior Staff – who cannot see cost of product 
+ 
+            User Group                  X (40) - Optional field 
+
+
+=== PAGE 24 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 24 of 70 
+ - ChainStorePlus User Group 
+ 
+             Dept                            X (01) - Optional field 
+                                                 -  Department code 
+ 
+ Expiry Period  No. of Months 
+    This is the Expiry Period of User's Password 
+ 
+ Expiry Date  dd/mm/yyyy 
+    This is the Expiry Date of User's Password 
+  
+ Change button  This is the User Password set up Button. 
+    Please refer to the usage in next paragraph 
+ 
+  
+
+=== PAGE 25 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 25 of 70 
+ 3.5 User Password Change  
+ 
+User can access the “three vertical dots” at the top right and select ‘Settings’ for 
+system setting. After clicking ‘Account’ user can change logging password and it 
+is necessary to type the ‘Old Password’. 
+ 
+Fig 1 
+ 
+ 
+Fig 2 
+ 
+  
+
+
+=== PAGE 26 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 26 of 70 
+ 3.6 User Password Restricted Keyword 
+User Password Restricted Keyword allows type prohibited characters during creating 
+account or password change. This table is to view and input words or text strings 
+which cannot be included as all or part of passwords. 
+ 
+Fig 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 27 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 27 of 70 
+ Fig 2 
+ 
+ 
+ 
+Prompt Description 
+ 
+Restricted Keyword X(40) - Must field 
+-  the words or text strings cannot be included as all or 
+part of users’ passwords 
+ 
+ 
+  
+
+
+=== PAGE 28 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 28 of 70 
+ 3.7 User Password Policy 
+User Password Policy defines the composed password strength rules that are used to 
+determine whether a new password is valid.  This sets the rules that passwords for a 
+service must meet. 
+ 
+ Fig 1 
+ 
+ 
+  
+
+
+=== PAGE 29 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 29 of 70 
+ Fig 2 
+ 
+ 
+ 
+Prompt Description 
+ 
+Effective Date X(dd/mm/yyyy) - Must field 
+- the effective date of this set of password policy 
+ 
+Restrict the reuse recently    X(5) - Must field 
+used passwords times - - determines the number of unique new passwords that 
+must be associated with a user account before an old 
+password can be reused. 
+ 
+min char                               X(02) - Optional field 
+- the number of minimum characters of that field 
+ 
+ 
+ 
+  
+
+
+=== PAGE 30 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 30 of 70 
+ 3.8 Select Language 
+ 
+ 
+ 
+ChainStore Plus supports different languages; user can select their language as screen 
+displayed. User can access the “three vertical dots” at the top right and select ‘Settings’ for 
+system setting. After clicking ‘Language’, user can change System language. 
+ 
+ The default languages of ChainStore Plus are: 
+ English 
+ Traditional Chinese, and 
+ Simplified Chinese 
+ 
+Screen layout: 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 31 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 31 of 70 
+  
+SECTION 4 MASTER TABLE MAINTENANCE 
+ 
+Objective: 
+ 
+In ChainStore Plus, all the processes are working closely related to each 
+other’s based on many common tables.  These tables are so important that the 
+system cannot run without them.  We called these tables are the fundamental 
+building block of the system.  All these tables are user definable and must relate to 
+the user’s own business operations and culture.  Therefore, the value of these tables 
+must be unique from customer to customer, the definition is company dependent, 
+and policy dependent as well.   This is a prerequisite must properly define all these 
+tables in advance, before system operation.     
+ 
+The following is the major Master Table Maintenance list for user’s action: 
+ 
+The Primary Tables 
+ Division Code Maintenance 
+ Location Code Maintenance 
+ Category Code Maintenance 
+ Size Category Maintenance 
+ Color Code Maintenance 
+ Brand Code Maintenance 
+ Sales Staff Code Maintenance 
+ Payment Code Maintenance 
+ Payment Key Button Maintenance 
+ Exchange Rate Maintenance 
+ Transaction Type Maintenance 
+ Service Type 
+ Reason Code 
+  …… and more tables (see details in this section)  
+ 
+The Secondary Tables 
+ Optional Tables 
+ Material Code 
+ Project code 
+ Department Code 
+ Warehouse Bin Location Remarks 
+ … etc. 
+ 
+The Special Tables 
+ Non-Standard Tables  
+ 
+ 
+ 
+ 
+
+=== PAGE 32 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 32 of 70 
+   
+
+=== PAGE 33 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 33 of 70 
+ In most of Maintenance processes, there are four available options from the maintenance 
+screen, they are: 
+ 
+1. Create Record -User can input a new record into master file 
+2. Modify Record - User can update an existing record into master file 
+3. Delete Record - User can remove an existing record from master file 
+4. View Record - User can display detail information of existing record                                                  
+5. Copy Record - User can change information of existing record to new one 
+ 
+In the following pages, we will discuss the different Maintenance Processes, and show you 
+how they are related to each other, if any, and what contents are involved in the file.  
+ 
+            Screen Sample of Table Maintenance:  
+ 
+ 
+  
+
+
+=== PAGE 34 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 34 of 70 
+ The Primary Tables: 
+4.1 Division Code Maintenance 
+ 
+This is used for organizing the operations in different “operating lines”. This is useful for 
+an organization operating the POS retail business in more than one “store name” or 
+“business nature”.  
+ 
+Example: 
+ 
+Division “A”   =   Diana Fashion Chain 
+Division “B”   =   Top Fun Gift Shop Chain 
+Division “C”   =   Live Fit Jeans Wear Chain  
+Division “D”   =   Stationery Chain 
+Division “E”   =   Electronic Product Chain .... etc. 
+ 
+Objective: Maintain a file of division code such that each code represents a 
+division or department of an company. 
+ 
+Functions: 1. Create Record 
+2. Modify Record 
+3. Delete Record 
+4.   View Record 
+5.   Copy Record as new 
+6.   Find Record 
+7.   Sort by header 
+8.   Adjust column indication  
+ 
+Fig 1 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Division Code X (01) - Must field 
+- a unique code which defines a division of company 
+ 
+Description X (40) - Optional field 
+- a description or name of the defined division  
+ 
+
+
+=== PAGE 35 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 35 of 70 
+   
+
+=== PAGE 36 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 36 of 70 
+ Fig 2 
+ 
+ 
+    
+  
+
+
+=== PAGE 37 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 37 of 70 
+ 4.2 Location Code Maintenance 
+ 
+Location code is designed to identify the purpose/use of a specific location.  This location 
+information is used by the system in many critical processes.    
+ 
+Objective: Maintain general information of a location 
+ 
+Functions: 1.  Create Record 
+2.  Modify Record 
+3.  Delete Record 
+4.  View Record 
+5.  Copy Record as new 
+6.  Find Record 
+7.  Sort by header 
+8.  Adjust column indication                                 
+ 
+(I)  The Summary Display  
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 38 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 38 of 70 
+ (II)  Screen Display of “General info. ” 
+ 
+ 
+ 
+Major Data Fields Description: 
+ 
+Prompt Description 
+ 
+Location Code X (08) - Must field 
+- First character should refer to division code 
+- a unique code which defines a location   
+ 
+Location Type X (01) - Must field 
+- user must select the location type from select box 
+ 
+Franchisee Operation Optional check box 
+- check this box if this is a Franchisee Store. Specific 
+processing routine may be applied differently from 
+regular own shops operation.  
+ 
+Location Name X (40) - Must field 
+- a description or name of the location 
+ 
+ 
+  
+
+
+=== PAGE 39 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 39 of 70 
+ (III)  Screen Display of "Other Properties": 
+ 
+ 
+ 
+Major Data Fields Description: 
+ 
+Prompt Description 
+ 
+ Open/Close Enter date of shop open or close – dd/mm/yyyy  
+ 
+ Interface Loc Optional. Use only interfacing with third party system 
+  that have different Location Codes than ChainStorePlus 
+ 
+ Repl. W/H Optional. Replenishment Warehouse. Use only when  
+  the location has special replenishment warehouse other  
+  
+Project Location X (01) – Optional field 
+- “ ” the box will enable this location is a Project 
+Location. 
+- Project No. is required for installing POS into a 
+Project Location site.  
+ 
+        Department Store       X (01) – Optional field 
+
+
+=== PAGE 40 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 40 of 70 
+ - “ ” the box will enable this location is a Department 
+Store 
+ 
+        Not Download to POS          X (01) – Optional field 
+- “ ” the box will enable this location does not 
+download to front end POS  
+ 
+        Tax Exemption Allowed        X (01) – Optional field 
+- “ ” the box will enable this location is allowed tax 
+exemption 
+ 
+       Not allowed in Stock Transfer    X (01) – Optional field 
+- “ ” the box will refer to not included in Stock 
+Transfer selection (From Location/To Location) in 
+POS  
+ 
+       Exclude O/H                            X (01) – Optional field 
+- “ ” the box will enable that this location is excluded 
+in Stock On Hand 
+ 
+  
+        Country                               X (02) - Must field 
+- country code where the location is located at 
+ 
+        Channel                               - Must field 
+- Channel attribute maintained manually, such as 1-
+Retail, 2-Outlet, 3-Others 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 41 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 41 of 70 
+ (IV)  Screen Display of "Other Properties": 
+ 
+ 
+ 
+The Group Assignment  FOLDER  
+ 
+This is the screen for defining "Internal District Structure" of the Location's (i.e. 
+where is this shop belonging to?)  
+ 
+ 
+ 
+  
+ This is the box to define this 
+location's internal structure. 
+ In this sample case, this location 
+is defined as "City Level" at 
+Guangzhou; 
+ The "Tree" structure of this 
+Guangzhou City is therefore 
+display as in list box for user's 
+reference. 
+ (Note:  The Tree relationship  of 
+each level shall be defined prior 
+under "Location Tree" Table)  This is controlling the Location's 
+transfer privilege from "Shop to 
+Warehouse"  in case of the location 
+is defined as a "Shop" definition 
+ In this sample, this shop is set to 
+allow stock transfer to Warehouse  up 
+to "省" level; 
+ This is controlling the Location's 
+transfer privilege for  "Shop to Shop"  
+in case of the location is defined as a 
+"Shop" definition 
+ In this sample, this shop is set to allow 
+stock transfer only within " 城市" city; 
+
+=== PAGE 42 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 42 of 70 
+ 4.3 Location Class Maintenance 
+ 
+Location class is designed to identify each location class attribute.  This location 
+information is used by the system in many critical processes.    
+ 
+Objective :- Maintain general information of a location class 
+ 
+Functions : 1.  Create Record 
+2.  Modify Record 
+3.  Delete Record 
+4.  View Record 
+5.  Copy Record as new 
+6.  Find Record 
+7.  Sort by header 
+8.  Adjust column indication                                 
+ 
+Fig 1 
+ 
+ 
+ 
+Fig 2 
+ 
+ 
+ 
+  
+
+
+=== PAGE 43 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 43 of 70 
+ 4.4 Category Code Maintenance 
+ 
+Objective : Maintain general category information for items which is used 
+in Item Master Maintenance. 
+ 
+Functions : 1. Create Record 
+2. Modify Record 
+3. Delete Record 
+4.   View Record 
+5.   Copy Record as new 
+6.   Find Record 
+7.   Sort by header 
+8.   Adjust column indication 
+ 
+Screen Display : 
+ 
+ 
+ 
+Prompt Description 
+ 
+Category Code X(03) - Must field 
+- a unique code which defines the category for the Item 
+Master Maintenance 
+ 
+Description X(40) - Must field 
+- a description of such category 
+ 
+Sub. Category X(02) - Optional field 
+- a unique code which defines the sub-category of such 
+category 
+- item using this category must belong to one of these 
+sub-categories 
+- maximum 30 input of this field 
+ 
+
+
+=== PAGE 44 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 44 of 70 
+ Sub. Category Description  X(10) - Must field if sub-category code has been defined 
+- a description of such sub-category 
+ 
+Serial Flag Optional 
+- Setting this to “YES” indicates the items of this 
+category will have serial number 
+ 
+Discount Control X(01) - Must Field 
+- default to ‘No’ by the system 
+- Setting this to “YES” indicates the items of this 
+category have discount control which POS sales 
+discount is not allowed 
+ 
+Max. Discount 99.99 - Optional field 
+- available if only ‘NO’ discount control is set 
+- Expressed in a percentage of the retail price 
+ 
+ 
+  
+
+=== PAGE 45 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 45 of 70 
+ 4.5 Size Category Maintenance 
+ 
+Objective: - Maintain a category of a set of size range for items, which is 
+used in Item Master Maintenance. 
+ 
+Functions: - 1. Create Record 
+2. Modify Record 
+3. Delete Record 
+4.   View Record 
+5.   Copy Record as new 
+6.   Find Record 
+7.   Sort by header 
+8.   Adjust column indication 
+ 
+Fig 1 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Size Category X (04) - Must field 
+- a unique code which defines a particular size category 
+and is used in item master maintenance 
+ 
+Size assortment X (04) - Optional field 
+- Maximum 16 size assortment in every size category 
+ 
+ Fig 2 
+ 
+
+
+=== PAGE 46 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 46 of 70 
+  
+4.6 Color Code Maintenance 
+ 
+Objective : Maintain general color information for items which is used in Item 
+Master Maintenance. 
+ 
+Functions : 1. Create Record 
+2. Modify Record 
+3. Delete Record 
+4.   View Record 
+5.   Copy Record as new 
+6.   Find Record 
+7.   Sort by header 
+8.   Adjust column indication 
+ 
+Screen Display : 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Color Code X(05) - Must field 
+- a unique code which defines a particular color and is 
+used in Item Master maintenance 
+
+
+=== PAGE 47 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 47 of 70 
+  
+Description X(40) - Optional field 
+- a short description referring to this color code 
+ 
+ 
+Sub Color - Optional  
+- Can define in “Sub Color” table under Secondary 
+(Optional) maintenance 
+ 
+ 
+ 
+ 
+4.7 Brand Code Maintenance 
+ 
+Objective :- Maintain general brand information for items which is used in 
+Item Master Maintenance. 
+ 
+Functions :- 1. Create Record 
+2. Modify Record 
+3. Delete Record 
+4.   View Record 
+5.   Copy Record as new 
+6.   Find Record 
+7.   Sort by header 
+8.   Adjust column indication 
+ 
+ 
+Screen Display :- 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Brand Code X(06) - Must field 
+- a unique code which defines a particular brand and is 
+used in Item Master Maintenance 
+
+
+=== PAGE 48 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 48 of 70 
+  
+Brand Name X(40) - Optional field 
+- field that indicates the name of such brand code 
+ 
+Supplier Code X(08) - Must field 
+- Supplier of the Brand  
+- The supplier code will be validated against Supplier 
+Table 
+ 
+         Max. Discount        99.99 – Optional field 
+ - the max. discount allowed of the brand  
+ 
+ 
+  
+
+=== PAGE 49 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 49 of 70 
+ 4.8 Sales Staff Code Maintenance 
+This is the table to register salespersons details in the system.  By assigning an unique 
+code for every sales staff, the system will keep track the sales staff access authorization, 
+sales performance, even the log-in and log-out attendance in the POS automatically. 
+ 
+Fig-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Input of POS security Code - the 
+table need to be defined prior; 
+ This code already has functional 
+access rights pre-set;  
+  This code will be verified by the 
+system against the relevant table 
+This is the setting for restricting this POS 
+user must require password for POS login 
+AND the password need to be changed for 
+every N months 
+
+=== PAGE 50 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 50 of 70 
+ Fig-2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ This is Location access right setting 
+ In this sample, this POS user is set to allow access 
+on certain "Location" / shop only; 
+ The authorized locations are further defined in the 
+Location line in the sample – such as Location 
+A005 only in this case; 
+ User could set to allow more access locations for 
+one user with different functional access rights per 
+each individual location   
+
+=== PAGE 51 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 51 of 70 
+ 4.9 POS Tender  
+ 
+ This is the table use to define the type of payments to be accepted by POS front office in 
+sale.  The common sample like cash, credit cards(AE, visa …) foreign currency( US$, Yen, 
+Sterling Pounds…..etc.) or even cash coupon issued by your own company could be 
+defined in this table. 
+ 
+ 
+Screen Display:  
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Currency Code X (03) - Must field 
+- the currency for this payment type 
+ 
+Payment Code X (03) - Must field 
+- a unique code that indicates this particular payment 
+type 
+- The “FMM – Membership refund”, “MEM- 
+Membership”, “EPM – Electronic Payment” are 
+reserved words for system usage. User is not allowed 
+to use these words to define the payment code. 
+ 
+Location Code X (04) - Optional field 
+- The location where this payment type will be applied 
+ 
+Payment Name X (40) - Must field 
+- The description of this payment type 
+ 
+Rate 9(05).9(05) - Must field 
+
+
+=== PAGE 52 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 52 of 70 
+ - The exchange rate used in POS of this payment type 
+ 
+Payment Type - Must field 
+  By Combo Box selection  
+ 
+  For Return Voucher function in POS front end, 
+‘Return Voucher’ and Return Voucher redeem’ type 
+must be defined 
+ 
+ For ‘Deposit Return’ function in POS front-end, at 
+least ‘Credit Voucher’ type must be defined  
+ 
+S9000 Payment Type X (10) – Must field 
+- if “Payment Type”=”A-Electronic Payment” , 
+otherwise it is blank 
+- Payment type returns from S9000 machine 
+ 
+Report Type - Must field 
+- Chose “Card” belongs to the group Card 
+Chose Others belongs to the group Others 
+Chose Traveller Cheque belongs to the group Traveller 
+Cheque 
+Chose Cash belongs to the group Cash 
+ 
+Commission - the commission rate for the payment type 
+ 
+Last Modified 99/99/9999 (dd/mm/yyyy) - Display only 
+Date - the date when such payment type record was modified 
+last time 
+ 
+Skip Daily - Must field 
+Ex. Rate - a flag that indicates whether the payment type will be 
+shown in Daily Exchange Rate Input screen 
+(Chose “Yes” or “No”) 
+  
+
+=== PAGE 53 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 53 of 70 
+ The Payment Type Function Setting: - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Payment Type ID and Functions 
+
+
+=== PAGE 54 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 54 of 70 
+  
+ID 
+ Payment Type 
+Description How to Use 
+ 
+A  
+Electronic Payment 
+  
+ This setting is required only if “Credit Card Interface” option 
+is employed; 
+ Under this option, when customer is paying by S9000 card 
+terminal which is already certified for ChainStorePlus POS 
+connection, the S9000 card terminal will auto return a code 
+to POS to identify exactly which “credit card” is now 
+charging – such as “Visa”, “Master Card” or others; 
+ Therefore this setting needs to be worked together with 
+another data field “S9000 Payment Type” in the Table,  – i.e. 
+electronic Visa, or Master Card;  
+  
+B EPS 
+ allows EPS payment for S9000 connection;  
+C Credit Card  This is use when accepting customer’s Credit Card payment 
+WITHOUT   S9000 Card terminal connection; 
+ The common type of Credit Cards, i.e. Visa, AE, Master etc. 
+is defined in Payment Code field in the table 
+ 
+D Credit Voucher 
+ This is a Non-Redeemable Refund Voucher for POS goods return 
+E Credit Card Refund 
+ This is used for Credit Card Refund control for sales return or 
+goods return operation 
+ 
+F Return Voucher Redeem this specific payment tender is classified as Customer Redeem of 
+Return Voucher(s) 
+  
+G Cash Voucher This is used for Non-Serial Number based Cash Voucher. 
+ 
+H Uniform Coupon this specific payment code is used for “Staff Uniform” redeem 
+purpose 
+  
+I NOT use Not Use 
+ 
+J Cash Coupon This is used for Serial Number based Cash Voucher.  The Cash 
+Coupon’s Serial Number will be verified when use.  
+ 
+K Credit Sales 
+ This payment code is classified as Credit Sales 
+L Cheque 
+ This is a Personal Bank Cheque payment  
+P Gift Certificate This is Gift Certificate payment. Gift Certificate serial number is 
+a MUST and verify.  
+ 
+R Return Voucher This is a Redeemable Cash Voucher for POS goods return. 
+Return Voucher Serial Number is a MUST and verify.  
+ 
+O Online Coupon Redeem This payment tender is paid by Bonus Points Redeem converted 
+from customer’s available Bonus Points Online   
+ 
+
+=== PAGE 55 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 55 of 70 
+ ID 
+ Payment Type 
+Description How to Use 
+0 S9000(EPM) 
+  This setting is required only if “Credit Card Interface” option 
+is employed; 
+ This is used when customer is paying by Credit Card (Except 
+CUP card) from S9000 card terminal; 
+ S9000 will come back a Credit Card ID (Visa or Master..etc) 
+for POS next processing as specified in Type “A – Electronic 
+Payment”.  
+ 
+1 S9000(CUP) 
+  This setting is required only if “Credit Card Interface” option 
+is employed; 
+ This is used when customer is paying CUP card from S9000 
+card terminal; 
+ S9000 will come back a CUP Credit Card ID for POS next 
+processing as specified in Type “A – Electronic Payment”.  
+ 
+2 Octopus  This setting is required only if “Octopus” Interface option is 
+employed; 
+ This is the payment tender paid by Octopus Smart Card 
+ Additional Octopus reading device and program are required 
+ 
+3 EPAY(Installment) 
+ No Longer User  
+4 S9000 (EIN) 
+  This setting is required only if “Credit Card Interface” option 
+is employed; 
+ This is a S9000 function for Installment Payment 
+ 
+ 
+  
+
+=== PAGE 56 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 56 of 70 
+ 4.10 POS Payment Key Button Control 
+ 
+This is the process allow user to set up Payment Key sequence in the POS front end 
+according to user's own preference.  
+ 
+Fig 1 
+ 
+ 
+ 
+ 
+Fig 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ User is free to edit / assign payment process to 
+each of these buttons EXCEPT the last <F10> is 
+reserved for "EXIT" button 
+ User could "group" more than one tender types in 
+one button if necessary; 
+  Sample: the "Foreign Exchange" Button may 
+group a several acceptable foreign currencies 
+under one button – US$, NT, Euro, Japanese Yen 
+etc.… (see Fig-2 in next page) This is the payment code defined in the Payment Table prior. 
+This POS Payment Key layout could be 
+assigned down to Shop Level, or 
+“Blank” means to ALL shops 
+This POS Payment Key layout is defined 
+based on each Based Currency: 
+ at least one layout for HK shops 
+receiving HK$ as based currency;  
+ separate set of POS Payment Key 
+layout for shops in China which 
+receiving RMB as based currency    
+
+=== PAGE 57 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 57 of 70 
+ 4.11 Exchange Rate Maintenance 
+ 
+This is the exchange rate table used in the Back Office operation for base currency 
+calculation to own stock value in goods receiving process, which if the purchase is charged 
+in foreign currency.   
+ 
+ Important:  This is NOT the exchange rate used for POS front end sale memo ; 
+ 
+Objective :- Maintain the exchange relationship between two currencies 
+ 
+Functions :- 1. Create Record  
+ 2. Modify Record 
+ 3. Delete Record 
+                        4.   View Record 
+                        5.   Copy Record as new 
+                        6.   Find Record 
+                        7.   Sort by header 
+                        8.   Adjust column indication 
+Fig 1 
+ 
+ 
+ 
+         Prompt        Description 
+ 
+Base Currency X(03) - Must field 
+- Base currency in used 
+ 
+Exchange Currency X(03) - Must field 
+- Foreign currency to be exchanged 
+ 
+Effective Date 99/99/9999 - Must field 
+- the effective date of this exchange 
+ 
+Exchange Rate 9(05).9(05) - Must field 
+- Foreign currency exchange rate 
+ 
+Reverse Exchange Rate 9(05).9(05) - Must field or auto-calculated 
+
+
+=== PAGE 58 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 58 of 70 
+ - the reverse exchange rate where value should be equal 
+to 1 / Exchange Rate 
+ 
+Remarks X(30) - Optional field 
+- remarks of this exchange 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+=== PAGE 59 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 59 of 70 
+ 4.12 Reason Table Maintenance 
+ 
+This is the Reason Code Table need to be defined for some POS operation which 
+required Reason Code when processing – such as Stock Transfer, Sales Return, 
+Service Memo … etc. 
+ 
+Fig 1 
+ 
+ 
+ 
+Fig 2 
+ 
+ 
+ 
+ 
+Prompt       Description 
+ 
+Reason Code X(02) - Must field 
+- a unique code to identify a particular reason 
+ 
+Description X(40) - Must field 
+- a text description for the reason 
+ 
+ 
+ 
+  
+
+
+=== PAGE 60 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 60 of 70 
+ Fig 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ This is the type of POS functions that allowed for Reason Code; 
+ Once defined, the related Reason code will be displayed in POS for user's selection 
+when in operation 
+ All these reason code will saved on Journal records and can be retrieved by user for 
+further analysis purpose. If needed 
+
+=== PAGE 61 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 61 of 70 
+ 4.13 Location Message Maintenance 
+ 
+Special messages, such as on sales promotion, holidays greeting like Christmas and New 
+Year, could be set to print on sales memo within time period specific in this table.  
+ 
+Screen Display: - 
+ 
+ 
+ 
+ 
+ "Blank for ALL location, or 
+ Effective for the particular 
+Location only if Location 
+Code is Present;  The effective printing date in 
+POS; 
+
+=== PAGE 62 ===
+
+
+=== PAGE 63 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 63 of 70 
+ 4.14 POS Security Access Maintenance 
+ 
+Fig -1  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ This is the summary page of the process that list all the 
+"Security Code" that have been defined in the system; 
+ These codes will give different functional access rights 
+according to the "role description" of the definition; 
+ Example: the role of a "Shop Manage" should has different 
+access right then a "Shop Supervisor" or a "Shop Trainee"; 
+ Therefore, user is required to create the Access Right of a 
+"Shop Manger", or "Sales Supervisor" under different POS 
+Security Code; 
+ The next step shall assign this Security Code, such as Shop 
+Manager, to a right Sales Staff who are performing Sales 
+Manager role in a shop, or a collection of shops  
+  
+
+=== PAGE 64 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 64 of 70 
+ Fig 2  
+ 
+ 
+ 
+This is the screen showing how to assign functional access rights to a "Security Code", 
+that is a "Administrator"  in this example:   
+ 
+ 
+ 
+ 
+ 
+  
+ The symbol with a "Tick" signify it is authorized 
+accessing functions o that process; 
+ Or shown with a "Lock" is  prohibit for access in 
+that process function, 
+
+=== PAGE 65 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 65 of 70 
+ The Secondary Tables: 
+ 
+4.15 Warehouse Lot Remarks  
+ 
+Objective:- Maintain warehouse lot remarks table in relation to item master for future 
+reporting purpose. 
+ 
+Fig 1 
+ 
+ 
+ 
+Fig 2 
+ 
+ 
+ 
+ 
+  Prompt   Description  
+  Item Code  X(14) –Display field 
+- Item code 
+ 
+Description  X(30) – Display field 
+- Description of item 
+ 
+W/H Lot Remarks X(8) –Optional field 
+
+
+=== PAGE 66 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 66 of 70 
+    - Warehouse lot remarks that item is defined to. 
+Special Tables (Optional Tables) 
+ 
+The Tables grouped under this Folder are optional tables that may be required by specific 
+customers for specific use only. There is NOT required by most of general processing 
+unless for specific purpose.  Please always consult our Business Consultant before use.  
+ 
+The Product Style 
+The following Optional Tables are mainly for describing the "Style of a Product" which 
+may be optionally required by Item Master Table Maintenance.  
+ 
+4.16 Sex / Gender Code Maintenance 
+ 
+Sex / Gender Code Table is used for defining the Gender Type of a product.  This table 
+is optionally required by Item Master Table if needed. 
+ 
+Fig 1 
+ 
+ 
+ 
+Fig 2 
+ 
+  
+
+
+=== PAGE 67 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 67 of 70 
+ 4.17 Collection Code Maintenance 
+ 
+Collection Code Table is used for defining a specific "Collection" of a product.  This 
+table is optionally required by Item Master Table if needed. 
+ 
+Screen Display:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 68 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 68 of 70 
+ 4.18 Label Code Maintenance  
+ 
+Label Code Table is used for some special Item Labelling description for specific use 
+only.  No practice processing in the system today 
+ 
+Screen Display: 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 69 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 69 of 70 
+ 4.19 Unit of Measure 
+Screen Display:  
+ 
+ 
+ 
+  
+
+
+=== PAGE 70 ===
+ChainStorePlus v7 Book-1 
+Edition 1.2_202303  
+Page 70 of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- END OF BOOK (1) :  MASTER TABLES – 
+ 

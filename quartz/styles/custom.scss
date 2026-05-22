@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./faq-sections.scss";
 
 /* ==============================================
    FAQ Knowledge Base — Polished UI Theme
@@ -420,5 +421,154 @@ img {
   }
   .center > article {
     max-width: 100%;
+  }
+}
+
+/* ---- Homepage Category Grid ---- */
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.8rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.category-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  padding: 1rem 1.1rem;
+  background: var(--light);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.15s ease;
+  position: relative;
+}
+
+.category-card:hover {
+  border-color: var(--secondary);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
+}
+
+.category-card h3 {
+  font-size: 1.05rem;
+  margin: 0 0 0.35rem 0;
+  font-weight: 650;
+}
+
+.category-card h3 a {
+  color: var(--dark);
+  text-decoration: none;
+}
+
+.category-card h3 a:hover {
+  color: var(--secondary);
+}
+
+.category-card p {
+  font-size: 0.82rem;
+  color: var(--gray);
+  margin: 0 0 0.5rem 0;
+  line-height: 1.4;
+}
+
+.category-card .count {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--secondary);
+  background: var(--highlight);
+  padding: 0.15rem 0.55rem;
+  border-radius: 12px;
+  position: absolute;
+  top: 0.8rem;
+  right: 1rem;
+}
+
+:root[saved-theme="dark"] .category-card:hover {
+  box-shadow: 0 2px 12px rgba(255, 255, 255, 0.04);
+}
+
+/* ---- Search Filter Chips ---- */
+
+.search-filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.4rem;
+  margin-bottom: 0.3rem;
+}
+
+.search-filter-chip {
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.18rem 0.55rem;
+  border-radius: 14px;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--gray);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  letter-spacing: 0.02em;
+  user-select: none;
+}
+
+.search-filter-chip:hover {
+  border-color: var(--secondary);
+  color: var(--secondary);
+  background: var(--highlight);
+}
+
+.search-filter-chip.active {
+  background: var(--secondary);
+  color: #fff;
+  border-color: var(--secondary);
+}
+
+.search-filter-chip[data-project="be"]:hover,
+.search-filter-chip[data-project="be"].active { background: #3b82f6; border-color: #3b82f6; color: #fff; }
+.search-filter-chip[data-project="fe"]:hover,
+.search-filter-chip[data-project="fe"].active { background: #f59e0b; border-color: #f59e0b; color: #fff; }
+.search-filter-chip[data-project="mp"]:hover,
+.search-filter-chip[data-project="mp"].active { background: #8b5cf6; border-color: #8b5cf6; color: #fff; }
+.search-filter-chip[data-project="web"]:hover,
+.search-filter-chip[data-project="web"].active { background: #10b981; border-color: #10b981; color: #fff; }
+
+/* ---- Stub notice for incomplete FAQ pages ---- */
+
+.stub-notice {
+  background: #ffebe9;
+  border: 1px solid #f5c2c7;
+  border-left: 4px solid #cf222e;
+  border-radius: 8px;
+  padding: 0.8rem 1.1rem;
+  margin: 0.8rem 0 1.6rem;
+  font-size: 0.88rem;
+  color: #6b1d1d;
+  line-height: 1.5;
+}
+
+.stub-notice strong {
+  color: #cf222e;
+}
+
+:root[saved-theme="dark"] .stub-notice {
+  background: rgba(207, 34, 46, 0.08);
+  border-color: rgba(207, 34, 46, 0.2);
+  color: #f0a0a6;
+}
+
+:root[saved-theme="dark"] .stub-notice strong {
+  color: #f76d76;
+}
+
+/* ---- Responsive ---- */
+
+@media all and (max-width: 800px) {
+  .category-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@container (max-width: 800px) {
+  .category-grid {
+    grid-template-columns: 1fr;
   }
 }

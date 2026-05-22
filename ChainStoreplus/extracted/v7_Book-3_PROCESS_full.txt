@@ -1,0 +1,1917 @@
+=== PAGE 1 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 1 of 67  
+ 
+ 
+ChainStore Plus Application Package  
+ 
+ 
+User Operation Manual  (v7.0) 
+ Edition v1.2 (d202303)  
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 2 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 2 of 67  
+ 
+CONFIDENTIALITY 
+ 
+ 
+ 
+This document contains confidential information about software package 
+“ChainStore Plus” developed and owned by Sanyo Extended System Services 
+Ltd. 
+ 
+This document is made exclusively for “ ChainStore Plus” Licensee who is the 
+legal License holder under Terms and Conditions of Software License Agreement with 
+Sanyo Extended System Services Ltd.  
+ 
+No part of this document may be released, reproduced or transmitted in any form or by 
+any means, electronic or mechanical, including but without limitation, photocopying 
+and recording, for any purpose other than Licensee’s personal use without written 
+permission of Sanyo Extended System Services Ltd. 
+ 
+The information in this document is subject to change without notice.  
+ 
+ Copyright  Sanyo Extended System Services Ltd ., 1999 -2023 
+All Rights Reserved 
+ 
+ 
+  
+
+=== PAGE 3 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 3 of 67  
+Table of Content 
+                Page 
+ 
+SECTION 6  SYSTEM PROCESS  ........................................................................................................... 4  
+6.1 PURCHASE ORDER PROCESS .................................................................................................................... 4  
+6.2 STOCK RECEIVE ................................................................................................................................... 12  
+6.3 STOCK RECEIVE CONFIRMATION PROCESS AFTER INPUT OF STOCK RECEIVE DATA ............................................ 22  
+6.4 STOCK TRANSFER ................................................................................................................................ 24  
+6.5 STOCK TRANSFER RECEIVE CONFIRMATION  .............................................................................................. 29  
+6.6 STOCK TRANSFER RECEIVE RECOVERY & ADJUSTMENT  ............................................................................... 31  
+6.7 PHYSICAL ADJUSTMENT PROCESS ........................................................................................................... 33  
+6.8 PHYSICAL COUNT PROCESS.................................................................................................................... 37  
+6.9 RETURN TO SUPPLIERS ......................................................................................................................... 48  
+6.10 DELIVERY ORDER PROCESS – STOCK OUT ............................................................................................ 56  
+6.11 DELIVERY ORDER PROCESS – STOCK IN ............................................................................................... 66  
+ 
+ 
+
+=== PAGE 4 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 4 of 67 SECTION 6  System Process 
+Objective:  After we have discussed the maintenance modules in the previous 
+sections, The System Processing modules are the main operations in the package to 
+perform necessary data files/database updating according to functions.  The processing 
+functions of the package will be discussed in detail in this section. 
+ 
+6.1 Purchase Order Process 
+ 
+The Purchase Order Process in the application allowed users to create Purchase Orders for 
+suppliers the way from order placing, stock receiving, outstanding orders tracking, 
+inventory cost updating (via stock receiving process), and reports.  
+ 
+Purchase Order Maintenance 
+ 
+Users could “click” to perform Purchase Order Creation, Modification, or Deletion from 
+the menu as shown below: 
+ 
+Screen Display; 
+ 
+ 
+ 
+ 
+ 
+ 
+Create a New Purchase Order by 
+Pressing the CREATE button  
+
+=== PAGE 5 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 5 of 67 Purchase Order Detail Maintenance Screen 
+ 
+Header Input 
+ 
+The data fields in the menu shown mostly are self-explanatory except may be a few of them 
+need to be elaborate further: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The values in these data 
+fields are calculated by the 
+system automatically and 
+cannot be input     Normal PO: the Purchase Order is created in normal mode. Partial delivery 
+allowed 
+ Blanket PO: the Purchase Order is created as a bulk order mode that 
+supplier may deliver the items spread across a period of time- i.e. a year or 
+a season period. The delivery of a Blank Order therefore requires 
+additional “Delivery Request” in next stage to complete.  
+This check box will enable 
+item discount input data 
+field available in item level  This is header level 
+discount  
+
+=== PAGE 6 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 6 of 67 Purchase Order Detail Maintenance Screen 
+ 
+PO Terms Input 
+ 
+Click to the 2nd folder will get into PO terms input and the data fields in this menu shown 
+mostly are explained by themselves except may be a few of them need to be elaborate 
+further: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Expected Shipment Date: 
+Some PO Reports are requiring this 
+data as for sorting field 
+This will be used for a 
+default location for PO 
+stock receive process This may be used as a default location to 
+“Distribute” the arrival stock.  This 
+works only under some “special” designed 
+programs.  
+
+=== PAGE 7 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 7 of 67 Purchase Order Detail Maintenance Screen  
+ 
+Detail Items Input 
+ 
+The data fields in the menu shown mostly are explained by themselves except may be a 
+few of them need to be elaborate further: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User may input PO qty direct in this field, or input from 
+"Color & Size" button if the item has color and size 
+break down. 
+
+=== PAGE 8 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 8 of 67 The Column Legend for Purchase Order  
+ 
+ 
+ Column Function Description 
+ 
+1 List Price The List Price of this purchase item 
+ 
+2 Def Disc%  The default discount % of this Purchase item; 
+ In order the system able to retrieve this default discount 
+value automatically, it is required pre-set by user in 
+master table in advance; 
+ This disc% value can be set either in Supplier Master or 
+Supplier PO Discount Table under Purchase Order 
+Module 
+. 
+3 Ovr Disc% 
+  This is the manual over ride discount input by user incase 
+of the default discount is not applicable; 
+ The system will take this discount for purchase unit cost 
+calculation if available; or user the default discount if 
+otherwise 
+ 
+4 Unit Cost  This is unit purchase cost either calculated by the system; 
+OR 
+ User self input a figure over riding all system calculation; 
+ The figure will turn RED if this value is different than 
+default PO cost for user alert; 
+  
+5 Qty  Purchase Qty. Input by user 
+  
+6 Order 
+Amount A system calculation field based on unit purchase by purchase 
+Qty 
+ 
+7 Unit Unit of measure of the purchase item 
+ 
+ 
+Load File Function 
+ 
+In addition to input the item detail in the Manage Item page, there is Load function for user 
+to upload the item details into the PO.  
+ 
+User is required to have a loading file which is matching with ChainStorePlus PO Load 
+File data format. The file should be in Text file (Tab delimited) format and no limitation 
+on the file name. 
+ 
+ 
+ 
+
+=== PAGE 9 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 9 of 67 Purchase Order 
+File Format: Text file (Tab delimited) 
+ 
+No. 
+ Description Length Mandatory Remarks 
+1 Item Code X(14) Yes Must define in 
+ChainStorePlus  
+2 Color X(5)  Must define in 
+ChainStorePlus  
+3 Size X(4)  
+Must define in 
+ChainStorePlus  
+4 Inseam X(4)  Must define in ChainStorePlus  
+5 Quantity X(7) Yes 9999999 
+6 Unit Cost X(12) Yes 999999999.99 
+7 Item Discount Rate X(6)  999.99 
+ Above file format displays after clicking ‘Load Layout’ button. 
+ 
+When the PO Load File is ready, click the Load button in the Purchase Order Maintenance 
+(PO3000) Manage Item page. 
+ 
+ 
+ 
+It will prompt a Load Detail dialogue to ask for the PO Load file location. Select the PO 
+Load File. Click Open to upload the file into PO Maintenance.  
+
+
+=== PAGE 10 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 10 of 67  
+ 
+When uploading, the program will validate the data of the upload file. It will stop loading 
+and return error when error found.  
+ 
+ 
+User are required to click Print Queue and save the ‘Purchase Order Upload Error Report’ 
+to realize the invalid upload reason. You have to modify Text file by Error Report and 
+upload again. Please note the PO Load File should not include the header . If you find 
+this error, please remove the header line and try again. 
+ 
+
+
+=== PAGE 11 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 11 of 67  
+ 
+ 
+ 
+ 
+If upload successful, the data will place into the Item Detail list. User can edit the content 
+to save the PO. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+=== PAGE 12 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 12 of 67 6.2 Stock Receive 
+ 
+The Stock Receive Process is involving 2 major separate operations: 
+a) the stock balance update based on actual receive qty from warehouse or 
+receiving locations; 
+b) the stock weighted average cost update based on settlement cost (against 
+supplier’s invoices) confirmed by Account Department, or relevant operator; 
+ 
+ 
+ 
+a) The Operation Flow of Receive Qty Stock Update 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Stock  
+Receive Vendor Delivery 
+Note 
+ (DN) Maintenance 
+（Option only ） 
+ 
+Stock Receive 
+Input against PO 
+ 
+Batch Validation 
+ 
+Receive 
+Maintenance 
+ 
+Receive Qty 
+ Stock Posting   
+Receive Reports  
+Stock Receive 
+Input 
+WITHOUT PO 
+
+=== PAGE 13 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 13 of 67  
+
+
+=== PAGE 14 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 14 of 67  
+The Stock Receive Process :   a). The Stock Balance Updating 
+ 
+ 
+This is the process to allow user input the stock receipt qty into the system for inventory 
+balance update.  This stock receipt process could involve with or without a Purchase 
+Order (an optional module): 
+ 
+The Stock Receive Input Against PO/DRV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Input the PO Number if the Stock 
+Receive is against PO;  
+ Or Leave blank by press OK to go for 
+full PO selection in next page. 
+
+=== PAGE 15 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 15 of 67 In case of blank input, the following screen will be display:  
+ 
+ All outstanding POs will be display for user’s selection;  
+ user has choice to view the POs in different sort paths – by Purchase Order# 
+(PO#), by Delivery Request #(DRV#), by Supplier, by Expected Delivery 
+Date, or by Receiving Location; 
+ User highlighted and mouse click the desired row and a “√” will be marked 
+on the left indicating selection. Multiple selection is allowed; 
+ Press “Create” button on tool bar on top will make the system to create a 
+receiving batch with default receive qty based on the outstanding qty of 
+selected POs automatically; 
+ 
+ 
+ 
+ 
+ 
+  
+ Select the desired PO by pointing and mouse click; 
+ The selected PO is marked by “x” on the left; 
+ Multiple POs selection allowed;  
+ 
+
+=== PAGE 16 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 16 of 67 THE NEXT SCREEN ….. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User needs to input the receiving location as 
+the pre-fix of a Receive Number 
+This part of Receive Number could be user input 
+or system generation. The field will be protected 
+is system generation parameter is chosen  
+User needs to input Supplier’s 
+Delivery Note Number here. It is 
+important for Supplier Invoice 
+verification purpose in later stage 
+System auto generated field cannot 
+be input Click to Item Information 
+Folder for next step when 
+all input fields are done 
+ 
+
+=== PAGE 17 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 17 of 67 Item Information Folder  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Color and Size input of a 
+particular Item / Style Three (3) Receiving Status allowed under one Receiving Batch: 
+ Stock Receive under PO 
+ Stock Receive without PO 
+ Stock Receive under Delivery Request from a Blanket Order 
+ 
+The Red Circle  indicating which receiving status is now activated. 
+TEXT data import from external 
+source is allowed – Optional 
+feature.  
+Press this “SAVE” button when all 
+input complete. This will lead user to 
+next Receive Confirmation Step. 
+
+=== PAGE 18 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 18 of 67 The Button Legend for “Stock Receive Information Folder”  
+ 
+ Button Function Description 
+ 
+1 Insert Insert an Item 
+ 
+2 Delete Delete an Item 
+ 
+3 Select PO This button allow user to inquire all outstanding Purchase 
+Orders of this particular supplier and make selection from 
+these POs. After selection, the system will bring in these 
+orders and make those outstanding PO qty as the default 
+receiving qty;  
+  
+4 Verify The system will verify the input data once every time this 
+button is press. Warning or error message will be display 
+in status line after verification 
+ 
+5 PO Enquiry To inquire Purchase Order details if press 
+  
+6 Color & Size Input color and size details of the selected item 
+ 
+7 Description Display the detail description of the selected item 
+ 
+8 Load Import external TEXT data from a system directory. This 
+function requires exact data format specified by the 
+application.  Please consult our software consultant 
+before use; 
+  
+ Special Buttons  
+9 Model & 
+Guarantee No.  This is special function do not open for general user 
+but available only under special option.; 
+ This function allows user to input the item’s unique 
+guarantee number and model number in stock 
+receiving stage; 
+ One item number associate only one guarantee 
+number – therefore one(1) only qty per each item 
+(color & size not allowed) is allowed if this option is 
+used. 
+ 
+
+=== PAGE 19 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 19 of 67  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Input the Receiving Item in Color & Size Detail for process WITHOUT PO (Option 1) 
+  
+ 
+ 
+ 
+ 
+ 
+  
+Receipt No. 
+Input the Receiving Location Code and the 
+Receiving Number can be auto generate 
+depending on parameter setting;  
+Select the Indicator "Without 
+PO"  
+Input Item Color & size 
+Detail after pressing this 
+button 
+Input the receiving Item Code  
+
+=== PAGE 20 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 20 of 67 Input the Receiving Item in Color & Size Detail for process PO (Option 2)  
+ 
+ 
+ 
+ 
+ 
+ 
+The system will display ALL related POs for user's selection: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+User must input correct ‘Supplier’ & 
+‘Receipt No’ in Header Information and 
+‘Select PO’ lets user to view right 
+selection,  
+
+=== PAGE 21 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 21 of 67 The selected POs contain will be retrieved and placed as Receiving Items as follows for 
+user's receive confirmation:  
+ 
+
+
+=== PAGE 22 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 22 of 67 6.3 Stock Receive Confirmation Process after Input of Stock Receive Data 
+ 
+ 
+ 
+  Function 
+1 Modify Receive  This is Stock Receive Maintenance that 
+allow user to add, modify and delete 
+receiving items within a batch. User is 
+recommended to make all necessary 
+correction before go into next operation 
+step. 
+ However, user is allowed roll back to this 
+maintenance for further data correction 
+from work steps below any time BEFORE 
+Posting in step 6;  
+ 
+2 Print Receive Report Print the receiving qty into Print Queue 
+ 
+3 Generate Bar Code Print Bar Code label for the receiving stock.  
+ 
+4 Generate Interface File Generate TEXT interface file based on the 
+receiving batch data. This is optional feature of 
+the system 
+.  
+5 Batch Validation  Batch Validation.  The system requires 
+the batch must be validated before Posting. 
+Validation Report will be printed to Print 
+Queue automatically by the system 
+ User is required to check on the validation 
+report before go on to next POSTING step; 
+ User always could go back to the previous 
+step in case of error is found. 
+ 
+6 Batch Posting This is the final step in stock balance qty 
+update. User is required to ensure all data input 
+in the batch is accurate.  NO data change is 
+
+=== PAGE 23 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 23 of 67  
+ 
+ 
+ 
+ 
+    Function 
+allowed after posting. Data cannot be reverted 
+after this point.  
+
+=== PAGE 24 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 24 of 67 6.4 Stock Transfer 
+ 
+This is a Stock Transfer Process for transferring MANY items to one or many 
+locations at once.  The system called this process as Location Oriented Transfer .  
+This is particular useful for situation of removing stock items from one location to 
+another.  
+ 
+Objectives :- Issue transfer processes for a particular item in every record 
+ 
+Functions :- 1. Batch Maintenance 
+1.1 Create Record 
+1.2 Modify Record 
+1.3 Delete Record 
+2. Batch Validation 
+3. Generate Pick List - Transfer Pick List generation process, the 
+warehouse personnel transfer items by 
+referring the information in this list. 
+4. Batch Amendment - Modification of batch information can 
+only be done by this process when Pick 
+List generation (3. above) has completed 
+for this batch. 
+5. Print Amendment List - Transfer Amendment List generation 
+process. This is the most updated list 
+that warehouse personnel should refer 
+to during perform items transfer. 
+6. Generate Labels & D/O - Labels and Delivery Note generation.  
+7. Batch Posting 
+8. Modify Description 
+9.   Modify Remark 
+10. Scratch Batch 
+11. Clear In Use Status 
+12. Change Status 
+13. Search Up 
+14. Search Down 
+ 
+Status :-    1. Input - Batch is in data input mode 
+2. Validated - Batch has been validated 
+3. Pick Gen. - Pick List generation process has completed 
+4. Amd Create - Batch Amendment has been created 
+5. Amd Print - Amendment List generation process has  
+   completed 
+6. Label Prt - Labels & D/O generation process has   
+  completed 
+7. Partly Pst - Error occurred during posting, batch is needed 
+to be posted again 
+  
+
+=== PAGE 25 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 25 of 67 Workflow of Location Transfer Process (Manual Data Input): 
+ 
+             The functions that we have discussed above have their process sequence, 
+             this is to say, they are sequence dependent. The workflow of this process 
+             is shown as follows:   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Batch Maintenance  
+Batch Validation  
+Generate Pick List  
+Batch Amendment  
+Print Amendment List  
+Generate Labels & D/O  
+Batch Posting  
+
+=== PAGE 26 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 26 of 67 Workflow of Location Transfer Process (by Hand Held Scanner Input): 
+ 
+ 
+ 
+
+
+=== PAGE 27 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 27 of 67 Stock Transfer Batch Information (TF6000) 
+Path: Process > Stock Transfer > Stock Transfer (Carton)  
+Menu Screen: 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Press “Create” button on tool bar on top will make the system to create a 
+receiving batch with Stock Transfer 
+
+=== PAGE 28 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 28 of 67  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Users have to input relevant location and stock information. And then click ‘Batch 
+Validation’ and next steps . (please refer to above Workflow of Location Transfer Process) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Click ‘Batch Maintenance’ and input initial information 
+ 
+
+=== PAGE 29 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 29 of 67 6.5 Stock Transfer Receive Confirmation 
+ 
+ChainStorePlus requires Stock Transfer Receive Confirmation Process for ALL stock 
+transfer operations.  This is a control process to make sure the transfer out quantity is 
+correctly received by the receiving party with confirmation.  
+ 
+In case of discrepancy, a Stock Transfer Receive Recovery & Adjustment process is 
+required and will be discussed in next section. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Click, or press enter at the Stock Transfer record  
+
+=== PAGE 30 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 30 of 67 Confirm the Receiving Quantity: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The System will generate Discrepancy Record(s) automatically if Delivery and Receiving 
+Qty are disagreed. These Discrepancy Records, therefore, require future attention for 
+manual Recovery and Adjustment and will be discussed in the next section. 
+ 
+The "Rec Qty" column will be filled with default value equal to D/N Qty 
+User could just confirm the "Rec Qty" without change or input if the receiving qty 
+is equal to D/N qty; 
+Amend receive qty on "Rec Qty" column in case of discrepancy. The sample above 
+showing D/N = 8 pcs and Rec Qty = 7 pcs.; 
+The Variance Qty will auto display under "Var." column once input 
+Confirm if your input is correct. 
+
+=== PAGE 31 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 31 of 67 6.6 Stock Transfer Receive Recovery & Adjustment  
+ 
+This is the process for recovering the discrepancy of stock transfer qty between locations.  
+Sometimes this is a necessary procedure when we have a disagreement of transfer qty.  As 
+the stock transfer receiving location confirms the stock receiving disagreement, we may 
+need to determine which side of the party may be responsible for this disagreement, or 
+none of them.    
+ 
+Only disagreed transfer records are shown. All records are displayed in a sorted sequence 
+of Transfer Reference Order Numbers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The (*) signal those records are waiting to be recovered.   
+
+=== PAGE 32 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 32 of 67 Stock Transfer Recovery Detail Input 
+ 
+This screen will show the discrepancy details of that particular Transfer Note. The user has 
+to determine who is the right party to be responsible for the disagreed qty. 
+ 
+The system will generate proper adjustment records to recover this disagreement according 
+to the user’s input. In case there is none of the parties do responsible for the discrepancy, 
+the user may need to ‘write off’ by performing Physical Adjustments independently from 
+the application.  
+ 
+
+
+=== PAGE 33 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 33 of 67 6.7 Physical Adjustment Process 
+ 
+Objectives :- The Physical Adjustment Process allows user to make corrections on 
+stock qty with history journal.  
+ 
+Functions :- 1. Batch Maintenance 
+1.1  Create Record 
+1.2  Modify Record 
+1.3  Delete Record 
+2. Batch Validation 
+3. Batch Posting 
+4. Modify Description 
+5. Scratch Batch 
+6. Clear In Use Status 
+7. Change Status 
+8. Search Up 
+9. Search Down 
+ 
+Status :- 1. Input - Batch is being input by operator 
+2. Validated - Batch has been validated 
+3. Partly Pst - Error is occurred during posting, batch needs to be 
+re-posted 
+
+=== PAGE 34 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 34 of 67 Screen Display :- 
+Menu Screen  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 35 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 35 of 67 Batch Maintenance Screen  
+ 
+ 
+ 
+Prompt Description 
+ 
+Ref. No. 9(08) - Display only 
+- Reference number for Physical I/O record  
+- auto-generated by system during record confirmation 
+ 
+Date 99 99 9999 - Must field (dd/mm/yyyy) 
+ 
+Reason Code X(02) - Must field 
+- a unique code to identify a particular reason under Reason 
+Table Maintenance 
+ 
+Location Code X(04) - Must field 
+- Location where the physical I/O process is going to 
+performed 
+- Location description will be displayed beside 
+ 
+Remarks X(40) - Must field 
+- Remarks of particular Physical I/O record 
+ 
+Seq 9(03) - Display only 
+- Sequence number of item information 
+- maximum 200 sequence numbers in every reference no. 
+ 
+Item No. X(14) - at least one in every reference no. 
+
+
+=== PAGE 36 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 36 of 67 - maximum 200 items in every reference no. 
+ 
+Col X(04) - Must field if item has color control 
+- Color of the item which need to be adjusted 
+ 
+Size X(04) - Must field if item has size control 
+- Size of the item which need to be adjusted 
+ 
+Adjust S9(07) - Must field 
+- Adjusted quantity for the corresponding item 
+ 
+ 
+description X(40) - Optional 
+- for reference only 
+ 
+Total S9(07) - Display only 
+- Total adjust quantity 
+ 
+  
+
+=== PAGE 37 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 37 of 67 6.8 Physical Count Process 
+Objectives :- Performs stock updating process after stock has been counted 
+physically. 
+ 
+Prerequisites :- User must process Freeze On Hand Quantity before going to create a 
+physical count batch information.  Since the final stock posting job 
+usually is done much later than count input, therefore the Freeze 
+process is became an important step for the final calculation of correct 
+stock on hand after all batches were finally posted. 
+ 
+Procedures :- 1. Create a new batch with respect to a particular location ; 
+To Proceed  
+2. Activate Freeze On Hand Quantity process for items involved in 
+the location of the batch; 
+ 
+3. Perform physical count of stock with respect to the time when 
+Procedure 2 is done. Maintain the physical count values by Batch 
+Maintenance where same item can be input as many times since 
+consolidation will be done later; 
+ 
+4. Validation Process – Variance Report generation 
+ 
+5. Perform physical count batch posting after batch has been 
+validated, the on-hand quantity of item after posting will be equal 
+to :-  
+ 
+Current_On_Hand + (Physical_On_Hand - Freeze_On_Hand) 
+ 
+where Current_On_Hand  : Current on hand quantity of item in 
+stock 
+Physical_On_Hand  : On hand quantity of item found 
+physically in stock(Procedure 3) 
+Freeze_On_Hand  : On hand quantity of item when 
+freeze (Procedure 1) 
+ 
+Physical adjustment journal will be generated if difference is found 
+in Physical Count records. 
+
+=== PAGE 38 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 38 of 67  
+If item does not input in Physical Count record while it is existing 
+in the location, zero on hand quantity will be set to the item after 
+the physical count has been posted. 
+  
+
+=== PAGE 39 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 39 of 67 Functions :- 1. Freeze On Hand Quantity - Necessary to perform on-hand quantity 
+and average cost freezing process 
+before physical count batch is created. 
+2. Batch Maintenance 
+2.1 Create Record 
+2.2 Modify Record 
+2.3 Delete Record 
+3. Batch Validation 
+4. Batch Posting  
+5. Modify Description 
+6. Scratch Batch 
+7. Clear In Use Status 
+8. Change Status (Input, Validated) 
+ 
+ Status :- 
+ 
+          1 Input - Batch is being input by operator 
+2. Validated - Batch has been validated 
+3. Partly Pst - Error is occurred during posting,     
+    batch needs to be re-posted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 40 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 40 of 67  
+Workflow of Physical Count Batch Control Process is as follows: - 
+ 
+The functions that we have discussed above have their process sequence, 
+this is to say, they are sequence dependent. The workflow of this process 
+is shown as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Post all Outstanding 
+Batch before stock take 
+ 
+Freeze On-Hand qty 
+and average cost 
+Physical Stock Take at 
+location Fill in Count sheet 
+Batch Maintenance 
+Batch Validation & 
+Variance Report 
+Batch Posting Manual Process 
+(Hand Held Scanning 
+Work flow to be 
+discussed In next 
+page) 
+
+=== PAGE 41 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 41 of 67  
+  
+ 
+  
+
+
+=== PAGE 42 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 42 of 67 Step 1 : Stock Freeze Operation 
+ 
+Clean up ALL outstanding data batches of the stock take location and perform Stock Freeze. 
+ 
+ 
+Stock Freeze Operation – Input the Stock Freeze Range of the Location 
+ 
+ Leave Blank for 'Select ALL' of the Range 
+ After Selection and "Confirm", the system will "Freeze" the stock's current qty status at 
+today's system date; 
+ Stock Variance calculation therefore will based on this Freeze Qty compare to the Input 
+Physical Stock Qty (or upload by Hand Held) in next stage 
+ 
+Important:   There is NO Stock Movement Update or Activities allowed in the system to 
+the Stock Take Location for the period between Stock Freeze and Physical Stock Counting 
+Complete.  
+ 
+ 
+
+
+=== PAGE 43 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 43 of 67  
+Freeze Stock Selection Screen Display: 
+ 
+ 
+After clicking ‘Confirm’, it displays progress and completed message. 
+ 
+ 
+Step 2:  Physical Count Stock Input Batch  
+ 
+After stock freeze operation, user could start to input physical stock count input the system 
+from the screen shown below. 
+ 
+Stock Activities Resume Normal 
+Since the physical stock counting process should be already completed in this input stage, 
+User may FREE to resume stock activities for the stock count location as normal – provided 
+you MUST sure the physical counting is completely finished.   
+ 
+  
+
+
+=== PAGE 44 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 44 of 67 Screen Display :- 
+Physical Count Stock Input Batch Screen after Stock Freeze 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Ref. No. 9(08) - Display only 
+- Reference number for Physical Count record 
+
+
+=== PAGE 45 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 45 of 67 - auto-generated by system during record confirmation 
+ 
+Date 99 99 9999 - Must field (dd/mm/yyyy) 
+- Date of physical count record made 
+ 
+Count Sheet No. X(15) - Must field  
+- Count sheet number for reference used 
+ 
+Remarks X(20) - Optional field 
+- Remarks of the physical count record 
+ 
+Item No. X(14) - at least one in every record 
+ 
+Col. - Must field if item has color control 
+- Color of the item 
+ 
+Size - Must field if item has size control 
+- Size of the item 
+ 
+Quantity 9(08) - Must field 
+- Physical Count quantity 
+ 
+Description Optional  
+- for reference only 
+ 
+Total Qty 9(08) - Display only 
+- Total physical count quantities of the record 
+ 
+Step 3:  -  Stock Count Validation and Variance Report Printing 
+ 
+After the Physical Count Data Input and verified, you may want to validated the Input Data 
+and print the Stock Variance Report by the system.  
+ 
+Screen Display :  Data Validation & Variance Report Printing 
+
+=== PAGE 46 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 46 of 67  
+ 
+ 
+After clicking ‘OK’, it displays progress and completed message. 
+ 
+Step 4:  -  Stock Take Posting 
+ 
+ This is the final job for the Stock Take Process.  The system will use the final validated 
+input Stock Count Data to compare the Stock Freeze qty produce a Variance and update 
+to Inventory as final.  
+ Corresponding Update journal / history records will be generated. 
+
+
+=== PAGE 47 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 47 of 67  
+ 
+After clicking ‘Batch posting’, it displays progress and completed message. 
+ 
+ 
+  
+
+
+=== PAGE 48 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 48 of 67 6.9 Return to Suppliers 
+This function allows user to return goods to supplier. In some cases, such as wrong delivery or 
+damaged product, the company need to return those products to the supplier.  
+  
+Objectives :- Issue return order to a particular supplier and fulfill the stock related 
+transaction control in the system. 
+ 
+Functions :- 1. Batch Maintenance 
+1.1 Create Record 
+1.2 Modify Record 
+1.3 Delete Record 
+2. Batch Validation 
+3. Generate RTS List  
+4. Generate RTS Note 
+5. Batch Posting 
+ 
+Status :- 
+ 
+ Input -  Batch is in data input mode 
+ Validated -  Batch has been validated 
+ RTS List -  RTS List has been generated 
+ RTS Note -  RTS Note has been generated 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 49 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 49 of 67  
+Workflow of Delivery Order Batch Control:- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Batch Maintenance  
+Stock Receive Input 
+without PO (or Receive 
+Confirmation ) 
+Batch Validation 
+Generate RTS Note 
+Batch Posting 
+Click, or press to proceed above workflow.  
+
+=== PAGE 50 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 50 of 67 Batch Maintenance Screen ==> Header Information Folder 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Return No. X(08) – Must field 
+- Reference number for a particular return no. 
+ 
+Date 99/99/9999 - Must field (dd/mm/yyyy) 
+- the date of item return  
+ 
+Return Type X(01) - Must Field 
+- the return type: Normal or Consignment 
+ 
+Supplier  X(08) - Must field 
+- name of the supplier 
+ 
+Supplier Ref. X(08) – Optional field  
+- the reference number of supplier 
+ 
+Transfer Ref. X(08) - Optional field 
+- the reference number of transfer 
+
+
+=== PAGE 51 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 51 of 67  
+Currency X(03) - Must field 
+- Currency code (ie. HKD, USD...etc.) 
+ 
+Ex. Rate 9(05).(05) -Display field 
+- Exchange Rate between Base and Foreign Currency 
+ 
+Total Ret. Qty. X(08) – Display Only 
+- the total quantity of return item 
+ 
+Ret. Amt. X(08) – Display Only 
+- the amount of return item 
+ 
+Discount Amt.. X(08) – Display Only 
+- the discount amount of return item 
+ 
+Net Return. Amt. 9(09).(02) - Display field 
+- Net amount of such return order 
+- Total Amt.  (1 - Discount/100)  Other Disc. + Other 
+Charge 
+ 
+Remarks X(79) * (2 Rows) 
+- Text Description for remarks input.  
+
+=== PAGE 52 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 52 of 67 Batch Maintenance Screen ==> Manage Item Folder 
+ 
+ 
+ 
+Prompt Description 
+ 
+Item X(09) - Optional field 
+- If the Unit Price or Loc. is entered, this field has to be filled 
+in 
+ 
+Unit Price (+/-) 9(08).9(02) - Optional field 
+- Unit price of the item 
+- Leaving blank/space will assign zero price to the field 
+ 
+Loc. X(04) - Must field 
+- Location code for the location where the delivery order 
+transaction is carried out 
+ 
+Qty (+/-)9(07) - Optional field 
+- Item quantity in such delivery transaction 
+- if the item has no color and size, Qty field will become 
+Must field 
+ 
+Unit X(04) - Display field 
+- Unit of measurement of the item 
+- Automatically retrieved from the item master file record 
+which is pre-defined by user 
+ 
+
+
+=== PAGE 53 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 53 of 67 Rec. Amt. (+/-)9(08).9(02) - Display field 
+- Total amount = Unit Price * Qty 
+- Automatically calculated and displayed by the system 
+ 
+Total Qty/Amt. (+/-)9(08) / (+/-)9(08).(02) - Display field 
+- Total quantity of items delivered in such delivery order 
+- Total amount of items delivered in such delivery order 
+ 
+ 
+  
+
+=== PAGE 54 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 54 of 67  
+This process allows user to STOCK OUT the Inventory by using unique stock transaction 
+codes created your own to relate the work of own business transactions.  In most of retail 
+operations, common transaction types like transfer, sales, stock count .. etc. are not sufficient 
+to handle their business requirements.  They need user definable transaction codes more 
+related to individual unique business requirements, with appropriate reports and journals for 
+future analysis. 
+ 
+Some examples of user specific STOCK OUT transaction codes as follows: 
+ 
+ Internal Use 
+ Internal Sales 
+ Give Away Samples 
+ Sponsorship 
+ Special Project Usage 
+ Write Off 
+ And many more …. 
+  
+In this process, Delivery Order Processing is made to handle and fulfill this requirement.  It 
+provides flexible self-defined transaction codes for different stock situation related to own 
+business operations.  
+ 
+ 
+  
+
+=== PAGE 55 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 55 of 67 Workflow of Delivery Order Batch Control:- 
+ 
+The functions that we have discussed above have their process sequence, 
+this is to say, they are sequence dependent. The workflow of this process 
+is shown as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  D/O Data Maintenance 
+D/O Batch Validation 
+Print Pick List  
+Batch Amendment  
+Print Amendment List  
+Print delivery Order  
+Batch Posting  D/O Stock Out Header Maint. 
+
+=== PAGE 56 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 56 of 67 6.10 Delivery Order Process – Stock Out  
+Screen display  - Delivery Order – The Stock Out Process Header  
+ 
+Create New Batch first 
+ 
+Click Batch Maintenance  
+ 
+ 
+  
+
+
+=== PAGE 57 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 57 of 67  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Batch Maintenance Screen ==> Header Information Folder 
+ 
+Prompt Description 
+ 
+Pick Ref. No. X(08) - Display only 
+- Reference number for a particular delivery Order 
+ 
+Date 99/99/9999 - Must field (dd/mm/yyyy) 
+- item to be taken from that date 
+ 
+Dept. No. X(01) - Must Field 
+- Pre-set Department Code that handle such delivery order 
+transaction 
+ 
+Customer Data Input 
+Optional only 
+
+=== PAGE 58 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 58 of 67 Customer Name X(08) - Must field 
+- name of the customer. 
+ 
+Address 99/99/9999 - Must field (dd/mm/yyyy) 
+- Order to be delivery at that date 
+ 
+Remarks X(80) - Optional field 
+- Any remarks for this Pick List  
+ 
+Del. Date 99/99/9999 - Must field (dd/mm/yyyy) 
+- item to be taken to that date 
+ 
+Project no. X(07) - Optional field 
+- Pre-define project ID 
+- if the transaction is project based then project need to be 
+entered 
+ 
+ 
+ 
+Prompt Description 
+Currency X(03) - Must field 
+- Currency code (ie. HKD, USD...etc.) 
+ 
+Ex. Rate 9(05).(05) -Display field 
+- Exchange Rate between Base and Foreign Currency 
+ 
+
+
+=== PAGE 59 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 59 of 67 Discount 9(03).(02) - Optional field 
+- Discount percentage for the delivery order 
+ 
+Total Amt. 9(09).(02) - Display field 
+- Total amount for such delivery order 
+ 
+Other Disc/Adj 9(09).(02) - Optional field 
+- Other fixed discount amount for such delivery order 
+ 
+Other Charg/Adj 9(09).(02) - Optional field 
+- Other fixed charge amount for such delivery order 
+ 
+Net Total. Amt. 9(09).(02) - Display field 
+- Net amount of such delivery order 
+- Total Amt.  (1 - Discount/100)  Other Disc. + Other 
+Charge 
+Batch Maintenance Screen ==> Remarks Folder 
+ 
+ 
+ 
+Prompt Description 
+ 
+Remarks X(79) * (20 Rows) 
+                       Text Description for remarks input. 
+ 
+ 
+ 
+
+
+=== PAGE 60 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 60 of 67  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prompt Description 
+ 
+Item X(09) - Optional field 
+- If the Unit Price or Loc. is entered, this field has to be filled 
+in 
+ 
+Trx X(03) - Must field 
+- Transaction Code pre-defined by user and assigned to such 
+Delivery Note 
+ 
+Unit Price (+/-) 9(08).9(02) - Optional field 
+- Unit price of the item 
+- Leaving blank/space will assign zero price to the field 
+ 
+Loc. X(04) - Must field 
+- Location code for the location where the delivery order 
+transaction is carried out 
+ 
+Qty (+/-)9(07) - Optional field 
+- Item quantity in such delivery transaction 
+ This is the user definable 
+Transaction Codes input by 
+
+=== PAGE 61 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 61 of 67 - if the item has no color and size, Qty field will become 
+Must field 
+ 
+Unit X(04) - Display field 
+- Unit of measurement of the item 
+- Automatically retrieved from the item master file record 
+which is pre-defined by user 
+ 
+Rec. Amt. (+/-)9(08).9(02) - Display field 
+- Total amount = Unit Price * Qty 
+- Automatically calculated and displayed by the system 
+ 
+Total Qty/Amt. (+/-)9(08) / (+/-)9(08).(02) - Display field 
+- Total quantity of items delivered in such delivery order 
+- Total amount of items delivered in such delivery order 
+ 
+ 
+Click Batch Validation 
+ 
+Message box pops up 
+
+
+=== PAGE 62 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 62 of 67  
+ 
+ 
+After clicking ‘OK’, it displays completed message 
+ 
+ 
+Message box pops up after clicking ‘Generate Pick Up’ 
+
+
+=== PAGE 63 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 63 of 67  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After clicking ‘OK’, it displays completed message 
+ 
+
+
+=== PAGE 64 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 64 of 67  
+Message box pops up after clicking ‘Print Delivery Order’ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+After clicking ‘OK’, it displays completed message 
+ 
+ 
+
+
+=== PAGE 65 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 65 of 67 User can print that from top right “three vertical dots” and select save as Delivery Order.
+ 
+ 
+  
+
+
+=== PAGE 66 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 66 of 67 6.11  Delivery Order Process – Stock In 
+ 
+This is the Delivery Process Screen for Stock –In function.  The system will take this stock 
+in data as one of Physical Adjustment distinguished with user defined Transaction Codes, the 
+same update mechanism of Delivery Order – Stock Out process but in the reverse calculation.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 67 ===
+ChainStorePlus v7 Book-3 
+Edition 1.2_202303  
+ 
+Page 67 of 67  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- END OF BOOK (3) :  PROCESS – 
+ 

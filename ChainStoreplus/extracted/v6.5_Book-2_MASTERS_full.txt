@@ -1,0 +1,3779 @@
+=== PAGE 1 ===
+Page 1 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 
+ 
+ChainStore 2000  Application Package  
+ 
+ 
+User Operation Manual  (v6.5.0) 
+ Edition v1. 1 (d200912)  
+<The Master Tables > 
+________________________________________________________________________  
+ 
+ 
+ 
+ 1605 Shuk Tak Centre , West Tower  
+200 Connaught Road, Central  
+Shueng Wan , Hong Kong  
+Tel. 852 -2880 -9119    Fax. 852 -2811 -9424  
+info@sanyoextended.com  
+www.sanyoextended.com  
+
+
+=== PAGE 2 ===
+Page 2 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+ 
+ 
+  CONFIDENTIALITY  
+ 
+ 
+ 
+This document contains confidential information about software package 
+“ChainStore 2000 ” developed and owned by Sanyo Extend ed System Services 
+Ltd. 
+ 
+This document is made exclusively for “ChainStore 2000 ” Licensee who is the 
+legal License holder under Terms and Conditions of Software License Agreement 
+with Sanyo Extended System Services Ltd.  
+ 
+No part of this document may be rele ased, reproduced or transmitted in any form or 
+by any means, electronic or mechanical, including but without limitation, 
+photocopying and recording, for any purpose other than Licensee‟s personal use 
+without written permission of Sanyo Extended System Serv ices Ltd.  
+ 
+The information in this document is subject to change without notice.   
+ 
+ Copyright  Sanyo Extended System Services Ltd ., 2009 
+All Rights Reserved  
+ 
+
+=== PAGE 3 ===
+Page 3 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Table of Content  
+           Page 
+SECTION 5    MASTER FILES MAINTENANCE  ................................ ................................ ..............................  4 
+5.1 SUPPLIER MASTER  ................................ ................................ ................................ ................................ . 4 
+5.1.1  Supplier Master Maintenance  ................................ ................................ ................................  4 
+5.1.2  Supplier Del ivery Address ................................ ................................ ................................ ........  9 
+5.2 ITEM MASTER MAINTENANCE  ................................ ................................ ................................ ...............  11 
+5.3 OTHER MASTERS  ................................ ................................ ................................ ................................  30 
+5.3.1  Special Search Keys Creation  ................................ ................................ ................................  30 
+5.3.2  Gift Certificate (Optional Module)  ................................ ................................ ........................  34 
+5.3.3  Cash Coupon  ................................ ................................ ................................ .........................  35 
+5.3.4  Return Voucher  ................................ ................................ ................................ .....................  37 
+5.3.5  Replenishment Schedule  ................................ ................................ ................................ .......  39 
+5.3.6  Model Number  ................................ ................................ ................................ ......................  41 
+5.3.7  Guarantee Number  ................................ ................................ ................................ ...............  42 
+5.4 MEMBER MASTER  ................................ ................................ ................................ ...............................  43 
+5.4.1  Member Type Maintenance  ................................ ................................ ................................ .. 43 
+5.4.2  Online Credit Ch eck on Staff / Member’s Total Purchase  ................................ .....................  46 
+5.4.3  Member Master Maintenance  ................................ ................................ ..............................  48 
+5.4.4  JV Member Table Maintenance  ................................ ................................ ............................  52 
+5.4.5  New Member Recruitment Maintenance  ................................ ................................ .............  53 
+5.5 PRICE PROMOTION  ................................ ................................ ................................ ..............................  54 
+5.5.1  Special Discount Code Maintenance  ................................ ................................ .....................  54 
+5.5.2  On Sale Price Maintenance  ................................ ................................ ................................ ... 55 
+THE  ON-LINE   MODE Maintenance  ................................ ................................ ................................ .... 55 
+THE BATCH Maintenance  ................................ ................................ ................................ ....................  63 
+5.5.3  Promotion Mix & Match (Optional Module)  ................................ ................................ .........  71 
+Promotion Discount Table  ................................ ................................ ................................ ...................  73 
+Promotion Product Table  ................................ ................................ ................................ ....................  77 
+Promotion Member Table  ................................ ................................ ................................ ...................  81 
+Mix & Match Discount Controlled Product Table ( 有配搭无折扣货号表格 ) ................................ ..... 83 
+Mix & Match Card Promotion Table (Promotion Set Table for Specific Use)  ................................ ...... 83 
+5.6 MIX & MATCH PROMOTION FORMULAE FORMATION  ................................ ................................ ................  84 
+5.6.1  Promotion Formula Maintenance  ................................ ................................ .........................  84 
+5.6.2  Best Price Automation  ................................ ................................ ................................ ..........  86 
+5.6.3  Promotion Formulae Maintenance – The Discount Purchase  ................................ ...............  87 
+5.6.4  The Purchase Promotion Set Up   with Skip Discount Option (有配搭无折扣 ) .....................  91 
+5.6.5  Promotion Formulae Maintenance – The Give Away Purchase  ................................ ............  92 
+5.6.6  The Give Away Promotion Set Up  with Skip Discount Option (有配搭无折扣 ) ....................  97 
+5.6.7  Promotion Formulae Maintenance – The Coupon Processing  ................................ ..............  99 
+5.7 CUSTOMER LOYALTY MODULE (OPTIONAL MODULE ) ................................ ................................ ...............  113 
+5.7.1  Bonus Point Calculation  ................................ ................................ ................................ ...... 114 
+5.7.2  Bonus Point Rede mption (Online)  ................................ ................................ .......................  121 
+5.8 WHOLESALES CUSTOMER MASTER (OPTIONAL MODULE ) ................................ ................................ .........  126 
+5.8.1  Customer Master  ................................ ................................ ................................ ................  126 
+5.8.2  Customer Delivery Address  ................................ ................................ ................................ . 129 
+5.8.3  Wholesales Cus tomer Promotion Event Table  ................................ ................................ .... 131 
+5.8.4  Wholesales Promotion Customer Table  ................................ ................................ ..............  132 NEW  v6.5.0 
+
+=== PAGE 4 ===
+Page 4 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+SECTION 5     MASTER FILES MAINTENANCE  
+5.1 Supplier Master  
+5.1.1 Supplier Master Maintenance  
+ 
+ 
+Supplier Master Maintenance allows user input detail information about a supplier for 
+processing purpose.  
+ 
+Fig 1. – Summary Page  
+ Can be either sort by Suppli er Code or by Supplier Name : 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 5 ===
+Page 5 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+ 
+Fig 2. – Folder Page 1 of Detail Input Page  
+ 
+Double click th e highlighted row  will lead to Detail Modification Page as follows:  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 6 ===
+Page 6 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Fig 3. – Folder Page 2 of Detail Input Page  
+ 
+ 
+ 
+This is the  "User"  who responsible for this 
+Supplier in the Company  This is t he default currency for this Supplier 
+in use of Purchase Order an d can be override 
+by user in Purchase Order Maintenance 
+Process on demand.  This is the default general Discount offered 
+by the Supplier.  The Discount has up to 5 
+discount rates and to be calculated in input 
+sequence as "discount on top of other 
+discount" mecha nism in Purchase Order 
+Processing as default.  The Discount is 
+calculated based on Retail List Price of the 
+product.  This is indicated how the "Discount Rate" to 
+be handled :  
+ H - Default  the discount rate in 
+Purchase Order's Header Level;  
+ I - Default  t he discount rate in 
+Purchase Order's Item Level;  
+or 
+ the discount rate is for Reference 
+only – No calculation;  
+ 
+ 
+
+=== PAGE 7 ===
+Page 7 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Fig 4. – Folder Page 3 o f Detail Input Page  
+ 
+ 
+ 
+ 
+The Credit Available.  This is optional 
+field working only for optional calculation 
+process if Account Payable Interface 
+option and the specific calculation 
+program are  employed  
+ The Credit Term in # of Days  
+The Credit Limit.  This is input 
+amount to indicate the Max. 
+Total Credit is allowed by the 
+Supplier  Optional field for Payment 
+Method input  
+This is the Date updated from 
+Account Interface for the 
+Credit Available Amount on 
+the Left.  
+This is the Last Revised Date 
+updated from Account 
+Interface for the Credit Limit 
+Amount on the Left.  
+ 
+
+=== PAGE 8 ===
+Page 8 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Fig 5. – Folder Page 4 of Detail Input Page  
+ 
+ 
+ 
+ 
+These Dates are updated by the System automatically. User is free 
+to use the for own analysis purposes by own developed reports or 
+tools.  
+
+=== PAGE 9 ===
+Page 9 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+5.1.2 Supplier Delivery Address  
+ 
+ 
+Supplier Delivery Address Maintenance allows user input detail information about 
+delivery address of the supplier for processing purpose.  
+ 
+Objective : - Maintain general information of particular supplier delivery address  
+ 
+Function : - 1.  Create Record  
+2.  Modify Record  
+3.  Delete Record  
+ 
+Screen Display : - 
+ 
+Prompt  Description  
+ 
+Supplier Code  X(8) - Must field  
+- a particular supplier  
+ 
+Delivery A ddr. Code  X(3) - Must field  
+- a unique code that indicates a particular delivery 
+address for the particular supplier  
+ 
+Attn.  X (20) – Optional field  
+- Person to be attended to in this supplier  
+ 
+Delivery Address  X (30) x 2 - Optional field  
+- Supplier‟s deliv ery address  
+ 
+City X (20) - Optional field  
+- City for the delivery address  
+ 
+ 
+
+=== PAGE 10 ===
+Page 10 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 Country  X (12) - Optional field  
+- Country for the delivery address  
+ 
+Postal  X (08) - Optional field  
+- Postal for the delivery address  
+ 
+District Code  X (03) - Must field  
+- District code  for the delivery address that is pre -
+defined in „District table Maintenance‟  
+ 
+
+=== PAGE 11 ===
+Page 11 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+5.2    Item Master Maintenance   
+ 
+This is the most important and as well the Core Master Table in the system.   This Master 
+Items File will link up many important basic tables that d iscussed previously in this 
+manual.   This is a primary data set will be shared by many processes or subsystems in 
+ChainStore 2000. 
+ 
+It is important for user to set up data correctly in this Item Master File.  
+ 
+The Item Master maintenance comes into differen t folders, basically, the first folder 
+“Primary Input” is holding primary information must required by Item Master Table.   
+All information in this primary folder is mandatory fields.  Rest of other folders, may be 
+secondary input, but still containing imp ortant data information to many users depending 
+on business and operations.  
+ 
+Objective : - Maintain detail information of an item.  
+ 
+Primary Input Folder  
+ 
+ 
+Enhanced  
+
+=== PAGE 12 ===
+Page 12 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+ 
+Prompt  Description  
+ 
+Item Code  X(14) - Must field  
+- a unique code which defines a particular item  
+ 
+Season  X(02) - Display only  
+- this season code, which is retrieved from the item code 
+that has been entered above, may be retrieved from 
+anywhere of the item code‟s 14 characters.  Pre -definition 
+of this season code is required.  
+ 
+This 2 -alphanumeric season  code is used for identifying the 
+purchase season of the stock item.   The system will use 
+this season code to record all the items purchased in that 
+particular season,  so that seasonal search for inventory 
+such as inventory aging, could be available.   T his search 
+alternative is particular important to retailer selling 
+seasonal items which have high value of depreciation 
+nature if the products cannot sell within season or year.  
+ 
+Please always put the “YEAR” code to first and season in 
+next field to obtai n maximum searching benefit in the 
+system.  
+ 
+Example:  “91” - year of 99 season summer  
+  “92” - year of 99 season Winter  ....... etc.  
+ 
+ 
+  Sample item structure including Season Code : xxxxxxxxxxx - 91 
+             
+               (season code)   
+        i.e. year 99 summer  
+ 
+  
+However, please notice “Blank” Season Code is still 
+acceptable by the system in case of user choosing “blank” 
+as non -season items.   For users who may find this season 
+code is never used in their business practice may chose to 
+skip Season  field and remains as blank for easy input 
+purpose.  
+ 
+Category Code  X(05) - Must field  
+- a code which is pre -defined in Category master file  
+ 
+Sub. Category  X(05) - Must field  
+
+=== PAGE 13 ===
+Page 13 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 - a code which is pre -defined in Category master file and 
+belongs to the category code above  
+ 
+Supplier Item Code  X(10) – Must field  
+- an item code for the same item which is defined by the 
+supplier  
+ 
+Description (Long)  X(40) - Must field  
+- detailed item description  
+ 
+Description (Short)  X(20) - Optional field  
+- short item description  
+ 
+Eng/Chi Button  This is a button use in case of user input Chinese  
+ description as a supplement data.  Some selective  
+ documents such as sales memo could print in Chinese  
+ upon user request.  
+ 
+Dimension Control  Combo selection - Must field  
+Confirm at least one of the following selection:  
+ A - No Col & Size,  
+ B - Col & Size,  
+ C - Color Only  
+ D – Inseam (optional for specific use only)  
+ 
+Size Category  X(04) - Must field if Dimension Control is B, no need to 
+enter this field otherwise  
+- Pre-defined Size table is required  
+- The “More Size” Button”  :  more than one „size -
+category‟ for one item is allowed  
+ 
+Stock Indicator  Combo selection - Must field  
+Confirm at least one of the following selection s : 
+ 
+Stock Indicator  
+ How to Use  
+B - Buy Off stock  User‟s own Inventory Stock. This is the most common use indicator 
+for most of customer  
+ 
+C - Consignment Stock    The flag to indicate this is an Inventory Item do not own by User. 
+Future calculation processing may be applied subject to optional 
+module purchased  
+ 
+G – Package Set.   This flag indicated the Item is a Packaged Item which link to a  pre-
+defined Item Table Set under specific process. CS2000 back office 
+system will break the Packaged Items sold in POS front end into 
+detail product items based on the Item Table Set then write  to Sales 
+Journal as history in break down details.  
+Please consult Sanyo Extended Business Consultant before use.   
+
+=== PAGE 14 ===
+Page 14 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 Stock Indicator  
+ How to Use  
+ 
+N – Special Handle Item  This is a special control flag for some custom made special process. 
+Not for general u sage. Please consult Sanyo E xtended Business 
+Consultant before use.  
+ 
+S – Coupon M & M Item  This is an Item specially created for Promotion Mix & Match 
+calculation in POS processing. Must work with Mix & Match 
+Coupon Process  Rule under Mix & Match Promotion Module;  
+ 
+V – Service Item   This is to i ndicate th at this Item is available for “Sell” in POS BUT 
+NOT  a countable stock therefore NO inventory movement under 
+normal Stock Control process.  The typical item examples are 
+"Repair", Alteration  Service ", ….etc.;  
+ 
+ 
+ 
+Define Color Code  X(04) - Must field if Dimension Control is set to other than 
+"A".  
+- Pre-defined color table is required . 
+- The system will check on this color control in most 
+of process and refuse color input if the color is not 
+previously defined in this control table.  
+ 
+Retai l Price  9(07).99 - Optional field  
+- the retail list price of such item  
+- this retail list price will be used for bar code label or 
+price tag printing;  
+- this input field is open to input only at creation 
+mode.  No retail list price modification is allowed 
+once i tem is created.  Price modification could only 
+be accepted in “Mark up Mark down” process in the 
+system;  
+ 
+Wholesale Price  9(07).99 - Optional field  
+- the wholesale price of the item 
+- this price may be used for customer invoicing 
+process in Wholesales & Distri bution Modules (an 
+options of ChainStore 2000);  
+ 
+
+=== PAGE 15 ===
+Page 15 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Price & Cost Folder  
+ 
+The Folder holds important prices and costs information of that item.  
+ 
+ 
+ 
+Prompt  Description  
+ 
+Retail Price  9(07).99 - Optional field  
+- the retail list price of such item  
+- this retail list  price will be used for bar code label or 
+price tag printing;  
+- this input field is open to input only at creation 
+mode.  No retail list price modification is allowed 
+once item is created.  Price modification could only 
+be accepted in “Mark up Mark down” pro cess in the 
+system;  
+ 
+The „Retail‟ Button  this button will bring user into another input box for multi 
+location prices input, such as different retail prices for 
+different country, group, location, or even color & size.   
+ 
+Wholesales Price  9(07).99 - Option al field  
+
+=== PAGE 16 ===
+Page 16 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 - the wholesales price of such item  
+- this price will be used for customer invoicing 
+process in Distribution Modules (an options of 
+ChainStore 2000);  
+ 
+The „Wholesales‟ Button  this button will bring user into another input box for 
+additional Wholesales  prices input.  up to ten(10) , different 
+wholesales prices per item is allowed  
+ 
+ 
+ 
+ 
+ 
+TThhee  IItteemm  CCoossttss  VVaalluueess  RReeffeerreennccee::  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 17 ===
+Page 17 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+ 
+Standard Cost  9(07).99 – Optional Input field 
+- The standard cost of the item. Input by user.  
+- This standard cost value wi ll not be changed unless 
+override by user ; 
+- The currency used is Based Currency  
+ 
+FOB Cost  9(07).99 – Optional Input field   
+- The FOB cost of the item . User input field.  
+- This FOB cost value will not be changed unless override 
+by user.  
+- The input space o n the Right is the currency code of the 
+FOB Cost  
+ 
+Average Cost  9(07).99 - Display only  
+- This is a  weighted average cost  reference  only. This 
+figure is updated by the system at Month End process 
+against history cost journal movement.  
+ - For more adequate Item Cost information please refer to 
+the calculated average item cost data fields in Month End 
+Table.  
+ 
+ The average cost calculation expression : - 
+ 
+(On-hand -Qty * Avg -Cost) + (Receive -Qty * Rec -Cost)  
+(On-hand -Qty + Receive -Qty) 
+ 
+ 
+ 
+
+=== PAGE 18 ===
+Page 18 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+The “Consign” Button  The Consignment Stock Cost Calculation Table for 
+Consignment Stock Settlement Process (Optional Module)  
+ 
+This Table is used ONLY for consignment stock cost settlement calculation for supplier. 
+For user who does not use Stock Consignment Optional Module plea se ignore  the table.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Effect Date of 
+this Consignment 
+Cost The consignment 
+settlement cost in 
+fixed amoun t The consignment settlement costs in 
+percentage % respect to either Retail 
+List Price or Retail Sold price 
+respectively;  
+Input on only ONE of these two(2) 
+fields  allowed   
+ The effective Shop 
+Location of this 
+Consignment Cost. 
+Blank  = ALL locations  
+
+=== PAGE 19 ===
+Page 19 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+The “MORE” Button  The MORE costs reference Table  
+ 
+ 
+ The MORE Button consist s of different Item Costs recorded by the system 
+automatically in different operating stages.  User could get use o f these different cos ts 
+to make the own reports for Costing Calculation, Analysis and Controls. The Costs 
+are described as follows:  
+ 
+ 
+ 
+ 
+Month End Actual Cost  
+ This is the CONFIRMED Item's Weighted Average Cost after 
+the Month End Pr ocess.  This Cost had been re -calculated by the 
+system in the Month End Process to include ALL costs incurred 
+into the Item since last Month End.  
+Last Receive Average Cost  
+ The average cost  (NOT weighted Average Cost) calculated at the moment of Stock Receive ; 
+ This cost will included ALL  other costs incurred, such as F&I, as long as they are known to  
+the system in the moment of calc ulation  
+ 
+Last Receive Unit Cost  
+ This is The Unit Cost marked from the Last Receive moment;  
+ No expenses or additional cost included.  
+ FOB Average Cost  
+ This is the weighed 
+average FOB cost 
+calculated against   
+Stock Receive.  
+ This cost will included 
+ONLY  the item's FOB 
+cost without any other 
+costs incurred even 
+they are known to  the 
+system in moment of 
+calculation  
+ Average Cost  
+ This is the weighed 
+average cost calculated 
+against Stock Receive ; 
+ This cost will included 
+ALL  other costs 
+incurred, such  as F&I, 
+as long as they are 
+known to  the system 
+in moment of 
+calculation  
+Last PO Unit Cost  
+ This is The Unit Cost 
+marked from the Last PO;  
+ No expenses or additional 
+cost included.  
+ 
+
+=== PAGE 20 ===
+Page 20 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Continue to the Item Master "Price & Cost" Folder:  
+ 
+ 
+ 
+ 
+Price Group  X(03) - Optional field  
+- a code that indicates the price group o f such item  
+ 
+Discount Ctrl.  X(01) - Must Field  
+- default to „NO‟ discount Control to the item;  
+- „NO‟ means sales discount is allowed in POS sales  
+- Max Discount input is enable if  „No‟ is selected  
+- „YES‟ means NO discount is allowed in this  item  
+Max Disc.  99.99 - Optional field  
+- Maximum discount allowed on such item  
+- Expressed in a percentage of the retail price  
+ 
+ 
+
+=== PAGE 21 ===
+Page 21 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Inventory Folder  
+ 
+Legends : 
+ 
+Main W/H  X(08) - Optional field  
+- the default warehouse code for this item  
+ 
+W/H Lot Remarks  X(10) - Optional fiel d 
+- this is a reference field to indicate which lot, or section of 
+the warehouse that the item to be stored.  
+ 
+Reorder Level  9(07).99 - Optional field  – No practice process today.  
+- consists of 2 fields (min/std)  
+(min) :  minimum quantity of on -hand stock k eeping  
+(std) :  standard quantity of on -hand stock keeping  
+ 
+The “Reorder” Button  for color & size reorder level input  - No practice process 
+today.  
+ 
+Inventory Group  Optional Field – user‟s reference field only  
+ - Use for classifying the Inventory Group of th e item.  
+
+
+=== PAGE 22 ===
+Page 22 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Unit Of Measure  X(04) - Must field  
+- a code that indicates the item‟s unit of measure e.g. SET, 
+piece as PCE, etc.  
+ 
+Supplier  X(08) –Must field  
+- the code will validate against Supplier Master File  
+ 
+„More Supplier‟ button  multiple suppliers per i tem is allowed  
+ 
+Supplier Item Code  X(15) - Optional field  
+- The article/product number the supplier used  
+- For reference only  
+ 
+Producer Code  X(03) - Optional field  
+- a producer code for reference only  
+ 
+Product Line  X(02) – Optional field  
+ - a product code for re ference only  
+ 
+
+=== PAGE 23 ===
+Page 23 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+ 
+Item Attribute  (I) Folder  
+ 
+Some optional Legends:  
+ 
+ 
+ 
+Special  Promotion Flag (optional):  
+ This is the control to indi cate this item is 
+under special promotion mark;  
+ No practice process for this con trol flag 
+today; just for information referen ce only  
+ 
+Tax Code  : 
+This is the VAT% / VAT$ tax code for the item, if 
+available. Tax table is associated in this field.  Model Replenishment  (optional) : 
+ This control to indicate this item is 
+replenished by Model No., NOT 
+by Item No. as standard  
+
+=== PAGE 24 ===
+Page 24 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Other Legends of Item Attribute (I) Folder:  
+ 
+Owner ID  X(05) - Must field  
+- will valid the input against Owner ID table  
+- this is the pre -defined code for Merchandiser that 
+manages and handles this item  
+ 
+Brand  X(06) - Must field  
+- will valid the input against Brand table  
+ 
+Country  X(02) - Optional field  
+- will valid the input against Country table  
+- country code which indicates where the item comes 
+from and should exist in Country Code master f ile if 
+input  
+ 
+Material Code  X(03) - Optional field  
+- will valid the input against Material Code table  
+Replenishment  Optional  
+- „‟ means such item is allowed to replenish from 
+warehouse to shop  
+ 
+ 
+Discontinue Item - Optional  
+ „‟ means this is an discontinued  item   
+This indicate the items will not purchase again but continue 
+to sell.  This Mark allows the system to process this item 
+for sale, but stop purchase against the items without 
+deletion of this item record.  
+ 
+Lock/Release Item - Optional   
+ „‟ means this is a Locked item   
+This item will be stopped for all transactions. User can 
+release this Lock ed Item function if “blank” is selected  
+ 
+EAN/UPC Code  Input the UPC/EAN bar code value from here if the  
+ item has bar code (s) value associated with it.  
+ 
+Bar C ode Sequence  X(07) - Display only  
+- a computer -generated bar code sequence  
+- the system will use this bar code sequence to represent 
+the item in the POS front end system in case NO 
+EAN/UPC code input in the item              
+ 
+Reference  X(06) - Optional field  
+- Code for user own reference only  
+
+=== PAGE 25 ===
+Page 25 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Gift Optional   
+ „‟ means this is a Gift item  
+The item can be given away as a gift, of zero retail price 
+and cost allowed  
+ 
+Analysis Code desc.   X(03) x 10 – Display fields  
+- Short code describes the position stand in the  item 
+- Display according to its position defines at Analysis Code 
+Table Maintenance  
+ 
+Analysis Code   X(03) x 10 – Optional fields  
+- the code will validate against analysis code table  
+- user could activate each field with its own code for future 
+analysis  reports generation purpose  
+ 
+External Season   X(4) – Optional  
+For user requires season code „outside‟ of item code 
+structure. For user reference only.  
+
+=== PAGE 26 ===
+Page 26 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Item A ttribute (II) Folder  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brand  X(30) Optional  
+Use for the item has brand name  
+  
+Year  X(04) Optional  
+Year of product  
+ 
+Category  X(12) - Optional field  
+- item category code  
+ 
+Model Number  X(20) Optional field  Image  
+ This is the button will lead to display the Image(s) / Pictu re(s) of the Item;  
+ The images / pictures(s) need to be stored in a dedicated Image Folder previously defined and  the 
+Image File name  name  MUST be in the following format:  
+ <Filename>  =  Item # _999, where the '999' is the sequence #  of the image  
+       i.e.     A9008765433_001,  A9008765433_002,  A9008765433_003 .. etc.  
+ the system will collect all pictures belong to this item and display at once under standard Windows 
+Picture Explorer.  
+
+=== PAGE 27 ===
+Page 27 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 - the model number of the item  
+ 
+Article  X(30) Optional  
+  
+Variante  X() Optional   
+ 
+Sex X(04) - Optional field  
+- sex information  
+ 
+Season  X(20) Optional field  
+- season information  
+ 
+Collection  X(30) Optional  
+-  collection of the item  
+ 
+Sub Category  X(12) - Optional field  
+- item sub -category code  
+ 
+Label  X(20) Optional field  
+- the label of the item  
+ 
+Product  X(20) Optional field  
+ 
+ 
+Publication  Button   for item has Book or Publication related with e lements as 
+follows for user ‟s reference.  
+ 
+ 
+
+
+=== PAGE 28 ===
+Page 28 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Special & Date Folder  
+ 
+ 
+ 
+ 
+Model Number  X(30) Optional  
+Use for the item has model number associate with it.  
+Special search key is available for this Model No. in  Item 
+Inquiry function.  Perfect for Watches & Jewelry Retailers 
+or who have similar product nature.  
+  
+Warranty Number  X(30) Optional  
+Use for the item has unique serial number associate with it.  
+Special search key is available for this serial no. search i n 
+Item Inquiry function.  Perfect for Watches & Jewelry 
+Retailers or who have similar product nature.  
+ 
+Style Number  X(12) - Optional field  
+- a code for user own reference only  
+ 
+Volume / Content/Container  Optional field  
+- a code for user own reference only  
+ 
+Expiration Date  dd/mm/yyyy  - Optional field  
+
+=== PAGE 29 ===
+Page 29 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 - to indicate the expiration date of the item, if available  
+- for user reference only  
+ 
+ 
+Some Important Dates for Display only:  
+ 
+Creation Date  99/99/9999 (dd/mm/ yyyy ) - Display only  
+- the date when such item master re cord is created  
+ 
+First Receipt Date  99/99/9999 (dd/mm/ yyyy ) - Display only  
+- the date when such item master record is first received  
+ 
+Last Receipt Date  99/99/9999 (dd/mm/ yyyy ) - Display only  
+- the date when such item master record is last received  
+ 
+First T ransfer Date  99/99/9999 (dd/mm/ yyyy ) - Display only  
+- the date when such item master record is first transfer 
+(usually the first transfer is from warehouse to shops)  
+ 
+Last Sales Date  99/99/9999 (dd/mm/ yyyy ) - Display only  
+- the date when such item master rec ord is last sold  
+ 
+New Season 1st Delivery Date  99/99/9999 (dd/mm/yyyy) - Display only  
+- the date that this item is marked as the first delivery 
+date of the season – valid only for special seasonal 
+product  
+ 
+Last Modified Date  99/99/9999 (dd/mm/yyyy) - Display  only 
+- the date when such item master record is last modified 
+and logged with user ID  
+ 
+ 
+
+=== PAGE 30 ===
+Page 30 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+5.3 Other Masters  
+ 
+5.3.1 Special Search Keys Creation  
+ 
+Model Number  
+ 
+Functions : - 
+By Item Search Key  Enquiry by Model No or Guarantee No  
+ 
+Objective : - An enquiry or modificatio n of item information that user can check 
+the availability of particular stock  
+ 
+Sample screen Model Number Maintenance  
+ 
+ 
+Prompt   Description  
+ 
+Item Code  X(14) - Must field  
+- a unique code which defines a particular item  
+ 
+Description  X(40) - Must field  
+- detail item description  
+ 
+Model Number    X(30) – Must field  
+ - detail item model number  
+
+
+=== PAGE 31 ===
+Page 31 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Function  Description  
+ 
+Copy Button  - Copy  previous modal number  
+ 
+<Enter>  - Search for the desire record that user decide to 
+process  
+- Verify the input while input is don e 
+ 
+F1 - Perform confirmation of the record while user in any 
+operation screen  
+ 
+F5 - Search for previous record while user in modification, 
+deletion, Inquiry operation screens.  
+ 
+F6 - Search for next record while user in modification, 
+deletion, Inquiry opera tion screens.  
+ 
+Shift + F5  - Search for first record while user in modification 
+operation screen  
+ 
+Shift + F6  - Search for last record while user in modification 
+operation screen  
+ 
+ESC - Abort and return to previous screen.  
+
+=== PAGE 32 ===
+Page 32 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Guarantee Number  
+ 
+Sample screen G uarantee Number Maintenance  
+ 
+ 
+Prompt   Description  
+ 
+Item Code  X(14) - Must field  
+- a unique code which defines a particular item  
+ 
+Description  X(40) - Must field  
+- detail item description  
+ 
+Guarantee  Number    X(30) – Must field  
+ - detail item guarantee  numbe r 
+ 
+Function  Description  
+ 
+Copy Button  - Copy  previous guarantee number  
+ 
+<Enter>  - Search for the desire record that user decide to 
+process  
+- Verify the input while input is done  
+ 
+F1 - Perform confirmation of the record while user in any 
+operation screen  
+ 
+F5 - Search for previous record while user in modification, 
+deletion, Inquiry operation screens.  
+ 
+
+
+=== PAGE 33 ===
+Page 33 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 F6 - Search for next record while user in modification, 
+deletion, Inquiry operation screens.  
+ 
+Shift + F5  - Search for first record while user in modification 
+operation screen  
+ 
+Shift + F6  - Search for last record while user in modification 
+operation screen  
+ 
+ESC - Abort and return to previous screen.  
+ 
+
+=== PAGE 34 ===
+Page 34 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+5.3.2 Gift Certificate  (Optional Module)  
+ 
+This is the Maintenance program for Gift Certificate Issuance Process.  
+ 
+ The Gift Certificate record will be created automatically once the sales of a Gift 
+Certificate is complete in POS front end and acknowledged by Back End Host Server.  
+ 
+ 
+Back Office user is allowed to perform maintenance work on these Gift Certificate 
+records with caution.  
+ 
+Please notice any modification done on these records will be sent to all POS stations from 
+back office server for POS updating.      
+ 
+ 
+
+=== PAGE 35 ===
+Page 35 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 5.3.3 Cash Coupon  
+ 
+ 
+General Cash Coupon Maintenance  (Non -Print)  
+ 
+This is the Maintenance program for Cash Coupon  Issuance Process.  
+ 
+User could create, modify, or delete Cash Coupon in this maintenance program and the 
+system will update to POS frond end stations automatically.   
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 36 ===
+Page 36 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+Serial Number Cash Coupon Generation  option  
+ 
+ 
+ 
+ 
+One Time Usage – the coupon is for one time use only within the effective period  
+ 
+Multi -Time Usage  – the coupon allows for multi -time use within the effective period  
+Coupon Amount -  The face value$ of the Coupon. i.e. $100, or $50..etc.,  
+ 
+Coupon Percentage  – The Discount % allowed of the Coupon.  i.e. 10%, 15%...etc..   
+This is the Coupon Serial number generation range to be input by user for  Coupon 
+Generation.  Caution: Duplicated Number NOT allowed.  
+
+=== PAGE 37 ===
+Page 37 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912  
+5.3.4 Return Voucher  
+ 
+These r eturn voucher records are mostly generated from POS sales when customers are 
+requesting a sale return activity.  All return vouchers issued at shops will be kept in the 
+back office system and maintain in this master maintenance module.  
+   
+Objective: -  Maintain general information about return voucher  
+ 
+Function: - 1. Create Record  
+2. Modify Record  
+3. Delete Record  
+ 
+Sample Creation Screen Display  
+ 
+Prompt   Description  
+ 
+Return Voucher No.  X(04) X(08) - Must field  
+- a unique number to identify a particular re turn 
+voucher  
+- the first part X(04) is the code of issue shop and the 
+second part X(08) is the voucher no.  
+ 
+Issue Date  99 99 9999 - Must field (dd/mm/yyyy)  
+- the issue date of the return voucher  
+ 
+Amount  9(07).99 - Must field  
+- the amount on the return vouc her 
+ 
+Purchase  X(08) - Optional field  
+Memo No.  - the purchase memo no.  
+ 
+ 
+
+=== PAGE 38 ===
+Page 38 of 132 
+CS2000v6. 5 Book -2 
+Edition1 .1_200 912 Status  - Select radio box redeem by sales and redeem by 
+deposit must input the field Redemption Date  
+                                             entered  
+- Consists of 3 status which a re Outstanding, Redeem 
+by Sales and Redeem by Deposit  
+ 
+- indicates the return voucher status which are 
+Outstanding, Redeem by Sales and Redeem by 
+Deposit  
+ 
+Redemption Date  99 99 9999 - Optional field (dd/mm/yyyy)  
+- the date when the return voucher is redeem ed 
+ 
+Memo No.  X(04) X(08) - Must field if Redemption Date has  
+ entered  
+- the first part X(04) is the code of redemption shop 
+and the second part X(08) is the redemption memo 
+no. 
+ 
+ 
+Last Modified Date  Display Only  
+- the date when the record was last modified  
+ 
+Last Modified User  Display Only  
+- the id of the user who last modified the record  
+ 
+
+=== PAGE 39 ===
+Page 39 of 132 
+CS2000v6 .5 Book -2  
+Edition1 .0_200 903  
+5.3.5 Replenishment Schedule  
+ 
+This is a schedule allows user to define the days in a week that warehouse should make 
+stock replenishment to shops.  Once this per shop schedule is done, the system will 
+generate stock replenishment pick lists shop by shop automatically in warehouse 
+accordingly.  
+  
+Objective: -  Maintain general information of replenishment schedule  
+ 
+Sample Location Index Screen display  
+ 
+ 
+
+
+=== PAGE 40 ===
+Page 40 of 132 
+CS2000v6 .5 Book -2  
+Edition1 .0_200 903  
+ 
+Sample Location Reple nishment Detail Screen display  
+ 
+ 
+Prompt  Description  
+ 
+Location Code  - indicates which location is selected  
+ 
+Location Name  - X(40) – a description or name of the location  
+ 
+Replenishment Check box  - „‟ means this select the day to do replenishment  
+ 
+Funct ion Description  
+ 
+F1 - Confirm input replenishment schedule  
+ 
+ESC - Abort and return to previous screen  
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 41 ===
+Page 41 of 132 
+CS2000v6 .5 Book -2  
+Edition1 .0_200 903  
+5.3.6 Model Number  
+ 
+Optional Input - Input of Model Number next to the Item Code.  This may be a useful 
+option if user is selling products that have model  number come with.  
+ 
+ 
+ 
+
+
+=== PAGE 42 ===
+Page 42 of 132 
+CS2000v6 .5 Book -2  
+Edition1 .0_200 903  
+ 
+5.3.7 Guarantee Number   
+ 
+Optional Input - Input of Guarantee Number next to the Item Code.  This may be a useful 
+option if user is selling products that have unique Guarantee / Warrantee number for a 
+given item  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 43 ===
+Page 43 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 5.4 Member Master  
+ 
+5.4.1 Member Type Maintenance    
+ 
+Prerequisites : - This is the table to create Member Type for grouping members 
+into meaningful member groups. This will provide easier path 
+to organize relative data for meaningful reports upon request.  
+ 
+Objective : - Maintain me mber type information which classify member into 
+different categories.  
+ 
+Function : - 1.  Create Record  
+2. Modify Record  
+3. Delete Record  
+ 
+Screen Display  : 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bonu s Point Reward:   This is  work for NEW MEMBER one -time Bonus Point give away ONLY.  
+ 
+Redemption Group  – the default Redemption Group for the Bonus Point to be stored  
+ 
+Bonus Point -  The number of Bonus Points will be given when the new member join -in  
+ Enhanced  
+This is set for the Member Type is classified as 
+Crossed Region customers. It means the 
+member discount specified under this type will 
+apply to POS sales for those members are 
+visiting from o verseas within organization.  
+
+=== PAGE 44 ===
+Page 44 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Prompt  Description  
+ 
+Member Type  X(01) - Must Field  
+- Type code of member  
+ 
+Description  X(40 ) - Optional Field  
+- Text description of such member type  
+ 
+Discount %  9(02).9(02) - Optional Field  
+- The entitled sales discount Percentage for this 
+member type  
+ 
+Extra %  9(02).9(02) - Optional Field  
+- The entitled EXTRA  sales discount Percentage in case 
+of special promotional event  
+ 
+Max Disc. Bar %  9(02).9(02) - Optional Field  
+- The maximum discount % is allowed under all 
+promotional events   
+ 
+Turn -over Control  X(01) - Must Field  
+- Control with Turn -over Limit plus either Amount 
+base or Qty base is allowed  
+ 
+Turn -over Limit  9(06).(02) - Optional Field  
+- Maximum accumulated sales amount permitted for such 
+member type if Limit Control is active.  This usually 
+apply to staff purchase environment  
+ 
+Control Peri od X(01) - Optional Field  
+- Control the limit is controlle d whether one time 
+purchase , monthly or Quarterly bases.  
+ 
+Sales Control  X(01) - Must Field  
+- indicate the turn over limit should based on Gross 
+Sales or Net Sales amount  
+ 
+Staff Control  X(01) - Must Field  
+- to indicate this is a non -staff or staff member t ype  
+ 
+ 
+
+=== PAGE 45 ===
+Page 45 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 
+ 
+ 
+This Other  Button in input screen allows user to define additional discount controls 
+to where and how it should be applied for this Customer Type.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To specify which Location, 
+which Division, which Brand 
+or which Product Category 
+should apply to this 
+particular Customer Type   
+Indicate which particular locations, 
+divisions, brands and category should 
+be applied. Blank for ALL . Any specific discount % or Extra 
+Discount % apply to this Customer 
+Type.  
+
+=== PAGE 46 ===
+Page 46 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+ 
+ 
+5.4.2 Online Credit Check on Staff / Member’s Total Purchase   
+ 
+ 
+ 
+ 
+ 
+In case the p urchase limit is applied for this particular customer type, i.e. Staff Purchase, 
+the POS system will perform ONLINE credit check in Back Office via internet 
+connection to avoid over limit purchase.  POS front end system will reject the sales if 
+found the m ember, most likely is staff purchase, is over purchase within control period.    NEW  v6.5.0 
+
+=== PAGE 47 ===
+Page 47 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The Upgrade Rules for Member Customer  
+ 
+This is the general upgrade rule  will be  applied to ALL member customers when the 
+following defined conditions are satisfied .  This me mber upgrade process will be 
+performed by a background batch job in back office as per user schedule.  
+ 
+ 
+ 
+POS Prompt Alert Controls setting:  
+ Once the Alert Prompt  is checked plus  
+Effected Period  (in Days) is filled, the 
+POS front end system will then auto 
+display the TEXT message on the right 
+as POS user reminder within the 
+effective period;  
+For meaning in Example above:  
+  Whenever member customers under 
+this customer type “F” is making 
+purchase in shop within 180 days  
+counted from the customer ‟s first 
+purchase date, will lead the POS system 
+to prompt the Text message on the 
+right  automatically as reminder to POS 
+user during sales action.   Member Type Upgrade Controls setting  
+ALL members within the customer type will 
+upgrade to a new member type as specified if 
+the total Bonus Points earned over the input 
+value since the first purch ase date;  
+ 
+For meaning in example above:  
+ALL members within the customer type “F” 
+will upgrade to member type “E” if the total 
+Bonus Points earned is over “5,000 ” points 
+since the first purchase date.  
+ 
+There is NO Member downgrade mechanism 
+yet as of ver sion 6.4.3.  
+
+=== PAGE 48 ===
+Page 48 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.4.3 Member Master Maintenance   
+ 
+This is the Master file to store Member details. This master file provides opportunity to 
+allow users perform cus tomer analysis based on member‟s sales history, behavior and 
+hobby.   
+ 
+Objective : - Maintain the personal information of customers who are 
+frequent shoppers or potential members  
+ 
+Functions : - 1. Create Record  
+2. Modify Record  
+3. Delete Record  
+ 
+Screen Displ ay :- 
+Page 1  
+ 
+ 
+ Enhanced  
+This table allows user input the specific country of the member originally 
+registered. This information can tell which country this member is belonging 
+to,  that allows specific marketing strategy for overseas members when  
+making purchase cross region / country.   
+
+=== PAGE 49 ===
+Page 49 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Prompt  Description  
+ 
+Member  No X(15) - Must field  
+- An unique number which indicates the member no.  
+ 
+Type  X(01) - Must field  
+- Type code of the member that is pre -defined in „Member 
+Type Maintenance‟  
+ 
+ 
+Last name X(30) - Must field  
+- Membe r‟s lastn ame 
+-  
+First name  X(30) - Must field  
+- Member‟s firstname  
+ 
+Address  X(90) - Must field  
+- Address of customer who join member.  
+ 
+Area Code  X(02) - Optional field  
+- User -defined area code for reference only  
+-  
+Home No.  X(15) - Optional field  
+- Phone number of customer  
+ 
+Mobile No.  X(15) - Optional field  
+- Phone number of customer  
+ 
+Issue Date  99 99 9999 - Must field  
+- The member membership issue date  
+ 
+Issue Shop  X(04) - Must field  
+- Shop which issues this member membership  
+  
+Pickup Shop  X(04) - Must field  
+- Memb er take their membership from which shop  
+ 
+Expiry Date  99 99 9999 - Must field  
+- The member membership expiry date  
+ 
+
+=== PAGE 50 ===
+Page 50 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Page 2  
+ 
+ 
+ 
+Prompt  Description  
+ 
+ 
+Date of Birth  dd mm yyyy  - Optional field  
+- Birth date of customer who joins member  
+ 
+Age 9(02) - Display on ly 
+- Automatically calculated if birth date  / year  is given  
+ 
+Age Group  system selection of correct age group or user self input  
+ 
+Card I.D.  X(15) - Optional field  
+- Identification Card No. of customer  
+ 
+Nationality  X(02) - Optional field  
+- Nationality of cust omer who joins member  
+- Check against nationality table  
+ 
+Sex Member gender  
+ 
+ 
+ 
+
+=== PAGE 51 ===
+Page 51 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Page 3  
+ 
+This is a Free TEXT input format for user ’s own reference  
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 52 ===
+Page 52 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.4.4 JV Member Table Maintenance  
+ 
+JV Member Table is used for defining Joint Venture Partnership for Member.  
+For the user who may want to join or share Membership  privilege with other 
+organization, such as Asia Mile Program, may get use of this table for later 
+calculation in Bonus Points, or other benefits.  
+ 
+The Detail Input Page as follows:  
+ 
+ 
+ 
+ 
+ 
+ 
+No Control  – Bonus Points will be given to the Member once the purchase has been made  
+  Or 
+Bonus Points  will be given ONLY if the Purchase Discount NO more than the input value  
+ 
+The Effec tive Date Range of the Joint Venture Partner Event  
+
+=== PAGE 53 ===
+Page 53 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.4.5 New Me mber Recruitment Maintenance   
+ 
+Under this New Member Recruitment Process, user is able to determine the New Member 
+recruitment re-requisite for POS operation in shop.  The POS system in shop will auto 
+prompt up for New Member creation  only if the customer ‟s purchase conditions are 
+satisfied .    
+ 
+ 
+ 
+The above example  is illustrating how a non -member customer is eligible to become a new member  in 
+different class es when making purchase in shop if: 
+ 
+a) One time  memo  purchase fall between $1,000 - $2000 -  a Pre -Member class “F” is grant ed; 
+b) One time  memo  purchase fall between $2,001 - $5000 -  Official member class “E” is grant ed;  
+c) One time  memo  purchase fall between $ 5,001 - $10,000 -  Silver member class “H” is grant ed;  
+d) One time  memo  purchase over $10,00 0  -  Gold Member class “G” is grant ed; 
+ 
+The POS system will make appropriate  user message and creation UI according to the conditions as set.   
+This Member Message Prompt is organized into  the system ‟s “Member M essage Centre ” as one of member 
+messages (cou ld be many) and prompt at once when member is checking -in from POS in shop.  
+ NEW  v6.5.0 
+
+=== PAGE 54 ===
+Page 54 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5   Price Promotion  
+ 
+5.5.1  Special Discount Code Maintenance  
+ 
+Objective: - Maintain special discount code  
+- Provide create, modify, delete, inquire special discount code.  
+ 
+Screen Disp lay: - 
+ 
+ 
+ 
+Prompt      Description  
+ 
+  Code     X (03) - Must Field  
+- Transaction Code defined by user  
+   
+  Description    X (40) - Must Field  
+     - Description for such Transaction Code  
+ 
+From Date  99/99/9999 (dd/mm/yyyy)  
+- Optional field  
+- The starting effect ive date  
+ 
+To Date  99/99/9999 (dd/mm/yyyy)  
+- Optional field  
+- The ending effective dateEnhanced  
+
+=== PAGE 55 ===
+Page 55 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5.2 On Sale Price Maintenance  
+ 
+THE   ON-LINE   MODE Maintenance  
+5.5.2.1  Page Mode  
+In On Sale Price Maintenance, user is allowed to enter on -sale prices for any 
+particular item for a  specific sale period.  In fact,  the system allows multiple on -sale 
+prices in each item down to different country, group, locations, or color.  
+ 
+There is three input mode for on -sale price :  
+ page mode  
+ online mode  
+ group mode  
+ 
+The Page Mode Input :  
+ 
+This p rocess allows user to input the on sales price in form of PAGE input as follows:  
+ 
+ 
+On Sales Price 1  9(07).99 - Optional field  
+- value of on sale price for particular item  
+- mutually exclusive with the Discount Rate field  
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 56 ===
+Page 56 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+ 
+ 
+ 
+On-Sales Price ( 1) 
+< Amou nt$ >   On-Sales Amount$ input for the on -sales item  
+ 
+Disc ( 1) 
+ On-Sales discount%   99.99% - % input for the on -sales discount  
+ mutually exclusive with the On Sale Price $ input  field 
+ 
+From Date (1)  ddmmyyyy  -Must field if on sale price has been entered  
+ the beginning date of on sale for this item  
+ 
+To Date (1)  ddmmyyyy  -Must field if on sale price has been entered  
+ the ending date of on sale for this item  
+ 
+ The Second On -Sales Period (2) Input  
+On-Sales Price (2)  
+< Amount$ >   On-Sales Amount$ input for the on -sales item  
+ 
+Disc (2)  
+ On-Sales discount%   99.99% - % input for the on -sales discount  
+ mutually exclusive with the On Sale Price $ input  field 
+ 
+From Date (2)  ddmmyyyy  -Must field if on sale price has been entered  
+ the beginning date of on sale for this item  
+ 
+To Date (2)  ddmmyyyy  -Must field if on sale price has been entered  
+ the ending date of on sale for this item  
+ 
+ 
+ 
+ 
+
+=== PAGE 57 ===
+Page 57 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Additional Price Input Screen  
+ 
+ 
+Prompt  Description  
+ 
+Country  X(02) - Optional field  
+- country code of the retail store, and it should be existed in 
+Country Code Master file  
+ 
+Group  X(03) - Optional field    
+- group of the retail store, and it should be existed in Group 
+Code Master file  
+ 
+Location  X(04) - Optional field  
+- location code of the retail store, and it should be existed 
+in Location Code Master file  
+ 
+Color  X(03) - Optional field  
+- particular color of the item, and it should be existed in 
+Color Code Master file  
+ 
+ 
+ 
+
+=== PAGE 58 ===
+Page 58 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5.2.2  Line Mode  
+ 
+Objective: - In this program, user is allowed to input the on -sales data into the system 
+one by one in a line m ode with audit trial history log.  
+ 
+On Sale Price retrieval order:  
+1. Color   - Color Level  
+2. Loc.  - Location Level  
+3. Grp  - Group Level  
+4. Country  - Country Level  
+5. Item  - Item Level  
+ 
+Screen  Layout : - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Discount Item could be input search 
+either by Item, Vendor's Item Code, Vendor 
+No or SKU (Bar Code)  
+ Where do you want the discount item apply to?  
+ Choice of apply To ALL locations, to a 
+Particular Country only , to a Price Control 
+Group, or to a particular Location.  
+ 
+
+=== PAGE 59 ===
+Page 59 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+ 
+On-Sales Price Line Mode Maintenance Screen Displ ay: 
+ 
+ 
+ 
+Sample Instruction in operating On –line On Sale Price Input  
+ 
+In general, user should make sure all the fields of this maintenance are completely 
+input. After all the information have been input correctly, confirm this updating 
+by pressing F1 or exi t to previous by pressing ESC.  
+ 
+
+
+=== PAGE 60 ===
+Page 60 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5.2.3  Group Mode  
+ 
+Objective : - To maintain the information of the price and discount item.  
+ 
+Sample Menu Screen display  
+ 
+ 
+Prompt  Description  
+ 
+All Location  - Select radio box is means select all location, all group 
+and all cou ntry. The location, group and country input 
+will disable.  
+ 
+From Location  X(04) - Optional field  
+- Location code that start to be consolidated  
+To Location  X(04) - Optional field  
+- Consolidation to be ended after this location  
+ 
+From Group  X(03) - Optional fi eld 
+
+
+=== PAGE 61 ===
+Page 61 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 - Group code that start to be consolidated  
+To Group  X(03) - Optional field  
+- Consolidation to be ended after this group  
+ 
+From Country  X(02) - Optional field  
+- Country code that start to be consolidated  
+To Country  X(02) - Optional field  
+- Consolidation to be ended after this country  
+ 
+Season  X(02) - Optional field  
+- Enter a season code to be consolidated  
+ 
+Brand  X(02) - Optional field  
+- Enter a Brand code to be consolidated  
+ 
+All Category  - Optional field „ ‟ means select all category  
+ 
+From Category  X(03) - Optional field  
+- Category code that start to be consolidated  
+To Category  X(03) - Optional field  
+- Consolidation to be ended after this category code  
+ 
+All Sub Cat  - Optional field „ ‟ means select all sub category  
+ 
+From Sub Cat  X(03) - Optional field  
+- Sub C ategory code that start to be consolidated  
+To Sub Cat  X(03) - Optional field  
+- Consolidation to be ended after this Sub Category  
+ 
+All Item  - Optional field „ ‟ means select all item  
+ 
+From Item no  X(14) - Optional field  
+- Item number that start to be consol idated  
+To Item no  X(14) - Optional field  
+- Consolidation to be ended after this item number  
+ 
+All Color  - Optional field„ ‟ means select all color  
+ 
+From Color  X(03) - Optional field  
+- Color code that start to be consolidated  
+To Color  X(03) - Optional field  
+- Consolidation to be ended after this color code  
+ 
+Onsale 1 Reset  X(01) - Optional field  
+Y- Clear all the On sale price .  
+N- Need to input a Price1 , Discount1 and Date  
+ 
+Price 1  S9(07)V9(02) - Optional field  
+ 
+Disc 1  S9(03)V9(02) - Optional field  
+
+=== PAGE 62 ===
+Page 62 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Onsale 2 Reset  X(01) - Optional field  
+Y- Clear all the Onsale price  
+N- Need to input a price2 , Discount2 and Date  
+ 
+Price 2  S9(07)V9(02) - Optional field  
+ 
+Disc 2  S9(03)V9(02) - Optional field  
+ 
+From  99/99/9999 - Optional field  
+- Particular period for On -sale 
+ 
+Functi on Description  
+ 
+<Enter>  - Verify the input while input is done  
+ 
+F1 - Confirmation of create record  
+ 
+ESC - Abort and return to previous screen  
+ 
+Sample Enquiry Screen   After select Enquiry  
+ 
+ 
+ 
+
+=== PAGE 63 ===
+Page 63 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+THE BATCH Maintenance  
+ 
+ 
+5.6.2  On Sale Price Batch Maintenance  
+ 
+This is the Batch Maintenance Process for Items' On -Sales Price Promotion Program.  
+The major difference of this Maintenance process from the last section "On -Line" 
+maintenance is this is a BATCH  process that will save the input transactions in a Data 
+Batch, system validation, allow draft printing,  data amendment if necessary  and finally 
+confirm with data posting.  
+The entire BATCH processing routine will follow the same standard procedures of Batch 
+processing in other processes throughout ChainStore2000 p ackage.  
+ 
+This BATCH mode again will come with Line Mode and Group Mode same as On -Line 
+processing in last section  
+ 
+5.5.2.4   Line Mode  
+ 
+Fig-1  - Line Mode On -Sales Maintenance Batch  
+ 
+
+
+=== PAGE 64 ===
+Page 64 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+ 
+This is the summary page will displ ay all the 
+outstanding data batches available in the 
+process  
+
+=== PAGE 65 ===
+Page 65 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Fig-2 – On-Sales Price Maintenance Line Mode Data Batch  
+ 
+ 
+ 
+  This is the input details for an on -sales item 
+promotion. They are the same content as in the 
+On-Line Mode Process.  
+ Please be aware the "confirm" of this input 
+item will not put the promotion in to effective 
+UNTIL further step of "Batch Posting" – final 
+confirm of a collection of data transactions     
+
+=== PAGE 66 ===
+Page 66 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5.2.5   Group Mod e 
+ 
+The Group Mode of a Batch On -Sales Price Maintenance allows user to "Extract"  a 
+collection of items from Price Master under certain selection criteria offered by the 
+package.  This process requires NO item input one by one as in Line Mode process.  
+ 
+The Process as follow:  
+ 
+Operation Steps  
+ 
+1. Group Selection – select the desire promotion items from Item Master by The "Group Mode" 
+selection criteria;  
+2. Extract Style / SKU – this is the item extraction process that will instruct the system to 
+perform items sele ction as per user instruction in Step 1 – Group Selection;  
+3. Select Style/SKU – at this point , user allows to "amend", delete or new add promotion items 
+from the extract result of step 2.  This process allow user able to "refine" the selection result 
+in case  of necessary;  
+4.  Batch Validation – the system will validate the transaction data in the batch and Validation 
+Report will b printed for record / auditing purpose;  
+5.   Batch Posting – this is the final step to "confirm" the transactions in the system. After th e 
+posting the transaction data will become effective and write to transaction journal 
+permanently without change. Change can only be done by adding a new transaction / record 
+to over -ride the previous result, not previous transaction deletion.  
+ 
+Fig- 1 
+ 
+
+
+=== PAGE 67 ===
+Page 67 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Fig- 2 
+ 
+ 
+ 
+Fig- 3 
+ 
+ 
+Step2:   
+ 
+Extract S tyle / SKU – this 
+is the item extraction 
+process that will instruct 
+the system to perform 
+items extraction as per 
+user's selection in Step 1 – 
+Group Selection;  
+ Step 1:   Group 
+Selection  – select the 
+desire promotion items 
+from Item Master by 
+The "Group Mode" 
+selection criteria  
+Interface  
+
+=== PAGE 68 ===
+Page 68 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Fig- 4 – Item Selection  
+ 
+ 
+ 
+ 
+Fig- 5 – Batch Validatin  
+ 
+ 
+Step3: Select Style/SKU  
+ 
+At this point, user allows to "amend", 
+delete or new add promotion it ems 
+from the extract result of step 2.  This 
+process allow user able to "refine" the 
+selection result in case of necessary;  
+ 
+These buttons allow user to add, 
+delete or amend selected items as user 
+desire  
+The Item marked 
+with "*" is selected  
+Step 4: Batch  Validation  
+ 
+Batch Validation – the 
+system will validate the 
+transaction data in the batch 
+and Validation Report will b 
+printed for record / auditing 
+purpose  
+
+=== PAGE 69 ===
+Page 69 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Fig- 5 – Batch Posting  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step  5: Batch Posting  
+ 
+This is the final step to "confirm" the 
+transactions in the system. After 
+posting , the transaction data will 
+become effective and write to 
+transaction journal permanently 
+without change. Change can only be 
+done by adding a new transaction / 
+record to over -ride the previous result, 
+not previous transaction deletion.  
+ 
+
+=== PAGE 70 ===
+Page 70 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5.2.6   Line Mode – Copy Batch  (optional Module)  
+  
+This is option module to allow user able to "copy" from On -Sales H istory records and pu t 
+into On -Sales again after editing.  
+ 
+ 
+ 
+ 
+User could  retrieve 
+on-sales history data 
+from these 
+parameters and copy 
+to a new batch for 
+user editing before 
+confirmation  
+
+=== PAGE 71 ===
+Page 71 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.5.3 Promotion Mix & Match  (Optional Module)  
+ 
+This is a process allows use r to set up special promotion events other than conditions 
+specified in “On -Sales Maintenance” process in last section. This module can setup 
+promotion events in a self defined “mix & match” free style - rather than in a straight 
+promotion format as in “On -Sales Maintenance”.   
+ 
+ The Promotion Mix & Match Optional Module is now in her Third Generation release 
+under ChainStore 2000  v6.5 since t he module first launch ed in year 2000.    
+ 
+In this updated release , the Mix & Match module do allows “Except ” rules, “Must Hit ” 
+rules, items conflict, plus auto best price calculation  in POS sales when more than one 
+promotion conditions are found .  
+       
+5.5.3.1  The Promotion Tables  
+ 
+In order for the “Promotion Mix & Match” process to work properly, a few of ground 
+work need to be done before hand.  Users may need to define “Promotion Discount 
+Tables” that describes particular discount promotion requirements, such as which 
+discount conditions may apply only under some controlled circumstances -  for example 
+3 x pcs. for $100, or more discount controls for customer if purchase over a target amount 
+or qty … etc.  Some data example s of the setting will be illustrated in this section for easy 
+reference.  
+ Enhance d 
+ v6.5.0  
+
+=== PAGE 72 ===
+Page 72 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+ 
+Mix & Match Formulae Setup Block Diagram  
+ 
+ 
+ 
+
+
+=== PAGE 73 ===
+Page 73 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Promotion Discount Table   
+ 
+5.5.3.1.1  Promotion Discount Table  
+ 
+ 
+ 
+
+=== PAGE 74 ===
+Page 74 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Example (I) for Setting up Promotion Discount Table  
+ 
+ 
+ 
+ 
+ 
+This screen example illustrates the setting of:  
+ 
+ The cu stomer will obtain strict 10% discount if purchase qty one(1) ;  
+ The customer will obtain strict 20% discount to both items if purchase qty two(2) ;  
+ The customer will obtain strict 30 % discount to all three items if purchase qty is 
+three(3)  ; 
+ 
+But this Tabl e does not tell what products will get this discount. Therefore user needs a 
+Product Table  (to be described in next section) and Formulae setting to put the two thing s 
+work together.  
+ 
+
+=== PAGE 75 ===
+Page 75 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Example (II) for Setting up Promotion Discount Table with "Every Optio n" 
+ 
+ 
+ 
+ 
+ 
+For the same discount setting as in Example (I) but Check to   the "For every exact 
+N_th Qty"  box on the Upper Right corner, the promotion result will become as follows:  
+ 
+ The customer will obtain 10% discount on the first item purchased;  
+ The cust omer will obtain 20% discount ONLY on the second item purchased;  
+ The customer will obtain 30% discount ONLY on the third item purchase d; 
+ 
+ 
+In the next check box     "Onward Discount ”  
+ This check box is telling the POS system how to apply discount for the 4th 
+purchase Qty, which is not specified in this particular example;  
+ For empty check box “ ”,  means the 4th and onward purchased qty will be NO 
+discount applied in this formulae ;    
+ For the box is checked as “”,  means the 4th and onward purchased qty w ill be 
+re-started again to continue enjoying the discount as specified in this formulae . 
+ In this particular example, means:  
+
+=== PAGE 76 ===
+Page 76 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  The customer will obtain 10% discount ONLY on the 4th item purchased;  
+ The customer will obtain 20% discount ONLY on the 5th item pur chased;  
+ The customer will obtain 30% discount ONLY on the 6th item purchased;  
+ and round ……  
+ 
+ 
+ 
+Please note this table tells only part of the promotion story – it describes the discount 
+conditions only.  
+ 
+User may need further definition from additional table s, which provide conditions to 
+apply such as which specific products could enjoy the discount, who are  the customer(s) 
+eligible for the discount,  any possible control on selected items , and more ...…etc. to 
+form a unique promotion event.  
+ 
+This Promotion D iscount Table may therefore need to work together with other formulae 
+that further described in next section.  
+
+=== PAGE 77 ===
+Page 77 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903 Promotion Product Table  
+5.5.3.1.2  Promotional Product Maintenance  
+ 
+This is the table for user to define what particular “Products” may want to put on 
+promo tion.  This “Promotion Product Table” again will log down only those Products 
+that going to be promoted, but have no description on how the discount will be offered 
+and as well in what conditions.  This table need to work together with “Promotion 
+Discount Table” described in last section to form a meaningful promotion event.  
+ 
+ 
+ 
+ 
+User could either create new product promotion rules by clicking on "NEW" button on 
+top bar,  or double mouse click in the highlight row for product selection rules 
+modification.  
+ 
+  
+
+=== PAGE 78 ===
+Page 78 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+Promotion Product Maintenance Process:  
+ 
+This is the Maintenance screen to define what kind of Products you like to put on 
+promotion.   
+ 
+ 
+Fig-1 of  section 5.5.3.1.2  Promotion Product Maintenance   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ User cou ld define one(1) or more than 
+one sets of category, sub -category, 
+brand and season groups in range here 
+for product promotion  Alternatively, user could define 
+a group of specific products 
+down to color and size (SKU 
+level) for promotion.  
+These parameters allow user to set 
+the MUST hit and Qty conditions 
+of the promotion.  This is the "EXCEPTION" Rule section that allow user 
+to exclude products among the groups in above. 
+Example: "ALL T -Shirts" are s elected for promotion 
+EXCEPT "New Season" products.  
+
+=== PAGE 79 ===
+Page 79 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903 The screen example illustrates the  setting of  Fig-1 above : 
+ 
+ These six(6) particular products are grouped for a promotion  (by Item Codes)  
+event ; 
+ 
+User may want to set the promotion products by “Groups”  instead of individual items. 
+Therefore columns on the left allows user to set promotion i tems by Category, sub -
+category, brand and season.  
+  
+ 
+ 
+ 
+ 
+Fig-2 of  section 5.5.3.1.2  Promotion Product Maintenance   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This LOAD button allows TEXT f ile import into the table under a fixed format. The 
+exact file format please consults Sanyo E xtended Support Consultant for details.    The items defined in this “section ” are set as MUST HIT 
+items in a promotion event.  
+
+=== PAGE 80 ===
+Page 80 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+The above Fig – 2 :  Promotion Production Table Screen Sample ( II) illustrates a 
+different setting with meaning of: 
+ 
+ Six(6) particular products are grouped for a P romotion  Event ; 
+ However, in this particular event, the item " 1102 032951" is defined as a MUST 
+hit item ; 
+ Therefore this promotion event is successful ONLY if this MUST ITEM is hit 
+(purchased) ; 
+ For example ,  if this pro motion product rule is working together with a “Discount 
+Rule ” of "$100 for 3 pc.", it means any 3 items purchased within the  6 dedicated 
+products but least one  item of "1102032951"  MUST be included  
+ 
+ 
+Fig-3 of  section 5.5.3.1.2  Promotion Product Maintena nce   
+ 
+ 
+ 
+The above Fig – 3 :  Promotion Production Table Screen Sample ( III) illustrates  The 
+EXCEPT Rules  setting:  
+ 
+ ALL Products under Category Codes of “101”, “GMT ”, “TOP ” & “TOY ” are 
+grouped for a P romotion  Event EXCEPT products of “Season Code ” = 2S; The EXCEPT 
+rule setting  
+
+=== PAGE 81 ===
+Page 81 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+Promotion Member Table  
+ 
+5.5.3.1.3  Promotion Member Table  
+ 
+ 
+This is the table to define wh ich particular “Member Types” may enjoy the particular 
+promotion events.  This “Promotion Member Table” again will log down only who are 
+the customer(s) or group of customers  eligible to enjoy the specific mix and match 
+promotion  events .   
+ 
+But once again, this “Promotion Member T able” need to work together with Other 
+Promotion Tables such as Promotion Product Table  (what products to be promoted) , 
+Promotion Discount Table  (how  the discount is applied) …etc. to form a meaningful 
+promotion event.   
+ 
+The Header Screen Sample:  
+ 
+ 
+ 
+ 
+
+=== PAGE 82 ===
+Page 82 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+The Input Screen Sample  
+ 
+ 
+ 
+ This is the Table is to define who the 
+customers eligible to enjoy the Promotion 
+Event  
+
+=== PAGE 83 ===
+Page 83 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903 Mix & Match Discount Controlled Product Table  (有配搭无折扣货号表格 ) 
+5.5.3.1.4  Mix & Match Discount Control Product Table (有配搭无折扣货号表格 ) 
+ 
+This is a special product table defined ONLY for Mix and Match promotion event . ALL 
+products defined under this table will cause the Mix and Match calculation to accept  as 
+VALID Mix & Match I tems but “SKIP” the products‟ own Mix & Match  discount rules. 
+(有配搭无折扣货号表格 ) 
+ 
+ 
+Mix & Match Card Promotion Table  (Promotion Set Table  for Specific Use ) 
+ 
+ This Table is setup and use as a 
+“special promotion set code” 
+attached to Mix & Match promotion 
+events, for example building a 
+Special Promotion for a specific 
+group of customer (i.e. for Gov ‟t 
+Staff only ). 
+ In order to activate this specific   
+Promotion Event, POS user need to 
+manual activate this “Promotion Set 
+Code” in POS when Gov‟t staff is 
+making purchase at shop.    Enhan ced 
+ v6.5.0  
+
+=== PAGE 84 ===
+Page 84 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903 5.6  Mix & Match Promotion Formulae Formation   
+ 
+ 
+ 
+HHooww  ttoo  LLiinnkk  uupp  ddiiffffeerreenntt  PPrroommoottiioonn  TTaabblleess    
+TToo  ffoorrmm  ddiiffffeerreenntt  PPrroommoottiioonn  EEvveennttss  ??  
+ 
+ 
+5.6.1 Promotion Formula  Maintenance  
+ 
+After all the necessary promotion tables are ready as illustrated previously, we could start 
+to “link” them up together and give a meaningful calculation formulae to form different 
+Promotion Events as planned.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The latest Mix & 
+Match Formulae  that 
+include “Skip 
+Discount ” calculation 
+Logic  (有搭无折 )  The O rdinary  Mix 
+& Match formula 
+setup logic  
+
+=== PAGE 85 ===
+Page 85 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+The Mix & Match P romotion Formula is divided into 2 main groups : 
+ The Ordinary Mix & Match  process , and  
+ The New Mix &Match process with “SKIP discount product controls ” (有搭无折 ) 
+ 
+The New Mix &Match “SKIP discount product controls ” process (有搭无折 ) has 
+included ALL promotion calculation functions of OLD Mix & Match plus new feature of 
+“Skip Discount ” (有搭无折 ) logic.    
+ 
+ 
+Both set of Mix and Match processes involved 3 major catego ries of calculation:  
+ 
+1. Discount Purchase  
+2. Give Away Purchase, and  
+3. Coupon Purchase  
+ 
+ 
+Example:  
+ 
+Discount Purchase  – it is a kind of promotion that when customer buys more than certain 
+items/amount, the customer will enjoy a certain discount rate.  
+ 
+ Example:    buy 3 for $100,  
+buy over $500 get 10% discount ; 
+buy 1 x qty gets 10% discount,  2 x qty get 20%,  3 x qty get 30%  ..etc.  
+ 
+Give Away Purchase – it is a kind of promotion that if customer buys specific product(s) 
+will enjoy promotion of Extra Product(s) with or without addition cost.  
+  
+Example:  buy one get one free;  or  
+buy one get other one at $1  or 50% off  
+buy more than $500 gets free gift  … and etc.  
+ 
+Coupon Processing  -  set up a Discount Coupon that is for specific product(s) purchase 
+only.  
+ 
+Examp le: 
+ 15% discount coupon valid for purchase of the Coffee Mug only; or 
+ $100 discount off from selling price  (could be set for List Price or current price ) if 
+purchase of one Tee Shirt and a Short …. Etc. 
+   
+
+=== PAGE 86 ===
+Page 86 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903 5.6.2 Best P rice Automation  
+ 
+The Mix & Match Promotion C onflict Handling  in version 6.4.3 or later : 
+ 
+When creating Mix & Match formula, beware if there is conflict between promotion 
+events.  
+ 
+ Under th e conflict conditions , for System  version v6.4.2 or earlier , the system cannot 
+determine which event should be a pplied if conflict , therefore all the conflict promotions 
+may pop -up and display on POS screen and ask for POS user's decision.  
+ 
+For System version v6.4.3 or later , the system has option set for Best Price Automation, 
+in which the POS system will auto calc ulate and return with a “Best Price” result as 
+default, plus option with manual override allowed.   
+ 
+ 
+ 
+Promotion Conflict Reminder  
+ 
+Promotion Conflict and Best Price calculation may slow down POS operation  depending 
+on conflict complication and hardware re source respectively. By manual selection, most 
+important, may increase the chance of operational errors in manual decision process . 
+ 
+ 
+
+=== PAGE 87 ===
+Page 87 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+5.6.3 Promotion Formulae Maintenance – The Discount Purchase  
+ 
+The Discount Purchase Promotion is a promotion event that “link up” different promotion 
+tables to form a “Discount Base ” Promotion for customer purchase is matched to the pre-
+set qty and/or amount conditions.   
+ 
+ 
+Create the formula by Pressing the “New ” button on the top bar menu:   
+ 
+ 
+
+
+=== PAGE 88 ===
+Page 88 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+Promotion Event Head er Set Up  (The Event Folder)  
+ 
+The Promotion Header Setup -  To tell where and when the promotion to be  happened.  
+ 
+ 
+ 
+Discount Purchase Formulae SET UP Sample  
+ 
+ 
+ 
+ 
+The Event Set Up  
+ 
+Type the name of “ Promotion Type ” and “ Promotion Event ”, enter description of 
+the promotion. In the Promotion Group, you can select which country or group or 
+location are apply this formula, by default the formula is apply to all shops. For 
+effective period, enter the starting day and end day of the promotion. You can also 
+enter the sta rt time and end time, if you click the box of “ Daily Time ” the formula 
+will apply during the time you enter in that period.  
+ 
+User has to give a name for the 
+promotion type and Event code as 
+illustrated  
+User need to define where and when this 
+promotion event will be effective.  
+
+=== PAGE 89 ===
+Page 89 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903 Promotion Event Formulae Set Up  (The Properties Folder)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Discount Amount$  - This is to 
+define the specific discount $ 
+amount of this promotion event, if 
+applicable  
+Discount Table – The discount 
+qty and % conditions are set in 
+a Pre -defined Discount Table as 
+attached.  
+The Detail of Di scount Table 
+setup please refers to previous 
+section "Promotion Discount 
+Table" . 
+ At Purchase Amount$  - Or user 
+could set to the promotion product sell 
+at a fixed price, such as $299.00, if 
+promotion conditions is satisfied.   Prorate Basis - The 
+system will auto 
+calculate the selling 
+price on Prorate Basis 
+if checked  
+ This is to the discount %  of the 
+formulae “ Apply Discount by”  
+ 
+
+=== PAGE 90 ===
+Page 90 of 132 
+CS2000v6. 5 Book -2 
+Edition1.0_200 903  
+Promotion Event Formulae Set Up  (The Conditions Folder)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Discount Controlled Items defined in 
+Item Master will be excluded from this 
+promotion if this Box i s checked  Attach a pre -defined valid Product 
+table for this promotion as discussed 
+in prior section  
+ This is the button allows “All” products in 
+your company will offer promotion discount 
+as specified  Allows user to define wh ich customer  type(s) 
+could enjoy this Mix & Match promotion as 
+specified.   
+ 
+ The check box indicates this M&M 
+promotion is specially made for the 
+selected Promotion Card (set) only (user 
+activated in POS);  
+ Blank for regular case apply in general  
+
+=== PAGE 91 ===
+Page 91 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.6.4 The Purchase Promotion Set Up   with Skip Discount Option (有配搭无折扣) 
+(The Conditions Folder)  
+ 
+ 
+ 
+This is the product table that allows some products to be included as valid 
+Mix & Match items BUT SKIP  discount calculation. (有配搭无折扣 ) 
+ 
+Important:  
+The “Skip Discount ” rules in M&M promotion are working only under 
+some specific conditions, ie. % based discount etc. - Not ALL promotion 
+discount rules can be applied.   
+   NEW  
+
+=== PAGE 92 ===
+Page 92 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.6.5 Promotion Formulae Maintenance – The Give Away Purchase  
+ 
+Promotion Event Head er Set Up  
+ 
+The Give Away Purchase Promotion is a promo tion event that “link up ” different 
+promotion tables to form a “Give Away I tem Base ” Promotion for customer purchase is 
+matched to the pre-set qty and/or amount conditions.   
+ 
+ 
+ 
+ 
+
+=== PAGE 93 ===
+Page 93 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Create Give Away Purchase formula is a kind of promotion say “ Buy A get B  at extra 
+value or free ”. The screen will display as above, there is four tabs in the interface.  
+ 
+ 
+The Promotion Event Header Setup -  To tell where and when the promotion to be  
+happened.  
+ 
+ 
+ 
+ 
+
+
+=== PAGE 94 ===
+Page 94 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+1. Purchase  Folder Setup  
+ 
+This is the Folder to allow user to  define what kind of Products to be purchased with 
+set condition s in order Customer could get "EXTRA" product(s) which to be defined 
+in the next "Extra" Folder  page .  
+ 
+For the sample case of  “Buy 1 get 1 Extra at $1 ”, the purchase type is used to control 
+the amount of money or quantity, say if you want to create a formula that “Buy 1 get 
+1 Extra at $1 ”, then you need to type ” 3” into the “ Qty”.  
+ 
+The Product Table is defining in the same manner before  and attach as controlled 
+Promotion Items in the event.  
+ 
+ 
+ 
+ 
+ 
+Purchase Type:   This selection must work together with the inp ut parameter of "Amount$ or Qty";  
+ 
+A – All Value =  condition of All value of Amt$ or Qty will satisfy;  
+E - Every Value = such as Every one(1) qty or every $500 will satisfy the conditions.  Therefore this 
+setting may allow the conditions occur more than o nce; such as customer purchases $1,200 will make 
+this conditions occur two times;  
+U – Up to Value =  such as Up to one(1) qty or Up to $500 will satisfy the conditions.  Therefore this 
+setting allows the condition occur ONLY once; such as customer purchases  $1,200 will make the 
+conditions occur only ONE time;  
+
+=== PAGE 95 ===
+Page 95 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 2. The E xtra Folder  
+ 
+You can set what  "Extra P roduct " the customer can get  if the previous "Purchase" 
+conditions satisfied.  I n the “Products” field, you can choose either the “Same Product”, 
+"same product set" , “Item Code”, or  attach a “Product Table ” as previously defined .  
+ 
+In  the “ Extra Qty. ” field, it set the Extra Q uantity the customer can get ;  
+ 
+and for “ Charge At ”, you can set the customer need to pay for this  Extra  Item, or at certain 
+amount or at a discount rate.  
+ 
+ 
+ 
+
+
+=== PAGE 96 ===
+Page 96 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+4. Plus Disc./Cond ition Folder  
+ 
+The function of “Plus Disc./Cond ition.” Folder is similar as the “Discount Purchase”. 
+User could add extra MORE discounts  in the “ Discount By ” field  for this promotion  
+ 
+To Member Parameter : user could set who are the customers able to enjoy this 
+Promotion – All Customer, Walk -in Customer Only (Non -Member), a Specific 
+Customer Type, or by Member Table which is previously defined.  
+ 
+ 
+ 
+
+
+=== PAGE 97 ===
+Page 97 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.6.6 The Give Away Promotion Set Up  with Skip Discount Option (有配搭无折扣) 
+ 
+ 
+ 
+ 
+
+=== PAGE 98 ===
+Page 98 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Creating The Give Away Promotion Event Set Up   with Skip Discount Option (有配
+搭无折扣) 
+ 
+(The Conditions Folder)  
+ 
+ 
+  
+ 
+This is the product table that allows some products to be included as valid Mix & 
+Match items BUT SKIP  discount calculation. (有配搭无折扣 ) 
+ 
+Important:  
+ 
+The “Skip Discount ” rules in M&M promotion are working  only on some 
+restricted conditions, ie. % based discount etc. - Not ALL promotion discount 
+rules can be applied.   
+   
+
+=== PAGE 99 ===
+Page 99 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.6.7 Promotion Formulae Maintenance – The Coupon Processing  
+ 
+Mix & Match Coupon Processing  -  set up a Discount Coupon that is for  specific 
+product(s) purchase only.  
+ 
+ 
+
+
+=== PAGE 100 ===
+Page 100 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Mix & Match Coupon Processing  -  set up a Discount Coupon that is for specific 
+product(s) purchase only  – cont/ …. 
+ 
+Example:  
+ 15% discount coupon valid for purchase of the Coffee Mug only;  
+ or $10 discount off from s elling price if purchase of one Tee Shirt and a Short..   
+ 
+ 
+The Event Folder Setting  
+ 
+ 
+ Same setting philosophy as of the other two Promotion Events.  
+ 
+
+
+=== PAGE 101 ===
+Page 101 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The Purchase Folder Setting  
+ 
+This Folder is functioning and appearing exactly the same as the Purchase Folder of 
+Mix & Match "Give Away Purchase" Promotion.  
+ 
+It allows user to define the conditions for what kind of Products need to be purchased 
+when Customer is make the purchase together with the "Coupon" which will be set 
+for conditions in next "Coupon" F older page.  
+ 
+Example  as in the Screen display  :  $10 discount off from NET selling price if 
+purchase of any product from the "Lunar Year Item Promotion" Product Table as 
+defined.  
+ 
+ 
+ 
+ 
+
+
+=== PAGE 102 ===
+Page 102 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The "Coupon" Folder Setting  
+ 
+Example  as in the Screen display  :  $10 discount off from NET selling price if 
+purchase of any product from the "Lunar Year Item Promotion" Product Table as 
+defined.  
+ 
+ 
+ 
+Coupon Type:   This is to define the Type of Coupon with following conditions:  
+ 
+1. BASE =  the discount is applied to List Price or non -disco unt items ONLY; the on -sales or 
+promotion items do not consider;  
+ 
+2. NET =  the discount is applied to both non -discount items & on -sales Items EXCEPT Mix & 
+Match promotions, where Member Discount is considered;  
+ 
+3. NET/NET = the discount is applied to Net Amoun t including Mix & Match Promotion  
+ 
+The Coupon Item  
+ In order to activate this M&M Coupon Discount Process, 
+user needs to define a product item in Item Master Table  
+using Stock Indicator as " S – Coupon M & M Item " which 
+is used in here as M&M Coupon Item code to represent the 
+Mix & Match discount as set when POS sales apply.  Serial Number  
+ This tell the Coupon is 
+requiring serial number input 
+in POS when Redemption.  
+
+=== PAGE 103 ===
+Page 103 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The "Condition" Folder Setting  
+ 
+This Folder is functioning and appearing very much the same as the rest of other Mix 
+& Ma tch Promotion event.  
+ 
+It allows user to define the conditions for whom the Customers can enjoy this 
+Coupon Discount as set in this event.  
+ 
+Example  as in the Screen display  :  All Customer could enjoy the Coupon Discount 
+in this event.  
+ 
+ 
+ 
+ 
+
+
+=== PAGE 104 ===
+Page 104 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+ 
+The M & M Co upon Processing Promotion Event Set Up   with Skip Discount Option 
+(有配搭无折扣) 
+ 
+ 
+ 
+
+=== PAGE 105 ===
+Page 105 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The M & M Coupon Processing Promotion Event Set Up   with Skip Discount Option 
+(有配搭无折扣) …./cont  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ This is the product table that allows some products to be included as valid Mix & 
+Match item s BUT SKIP  discount calculation. (有配搭无折扣 ) 
+ 
+Important:  
+The “Skip Discount ” rules in M&M promotion are working only on some 
+restricted conditions, ie. % based discount etc. - Not ALL promotion discount 
+rules can be applied.   
+   
+
+=== PAGE 106 ===
+Page 106 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Some Data / Calculation Samples when BOTH  Discount  
+controlled  items (有配搭无折扣 ) and Auto Best Price Logic are applied:  
+ 
+ 
+Case 1 : (Discount purchase)  
+(i) Purchase any 2 items or more, all items can get extra 15% off  
+ 
+Discount controlled item :P001 promotion price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 2nd 15% $510   
+P001  $399  (i) 1st  $399  $909  
+ 
+ 
+Case 2 : (Discount purchase)  
+(i) Purchase any items,  2 or more can get extra 15% off  
+ 
+Discount controlled item :P001 prom otion price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 3rd 15% $510   
+A002  $700  (i) 2nd (highest prx) 15% $595   
+P001  $399  (i) 1st  (promotion)   $399  $1504  
+ 
+ 
+Case 3: (Discount purchase – Using repeat option)  
+(i) Purchase any items,  1st item can get extra 10% off, 2nd item can get extra 20% off (This must use repeat option in 
+M&M event)  
+ 
+Discount controlled item :P001 promotion price$399 (No count as M& M, only a condition checking)  
+ 
+Sorting order for Promotion item always as 1st item. Must use repeat option in M&M event  
+ 
+Sorting order for normal item highest price first  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 1st (2nd round)  10% $540   
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i) 1st  (promotion)   $399  $1499  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i) 1st  (promotion)   $399  $959  
+ 
+Sample 3:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 2nd (2nd round)  20% $480   
+P001  $399  (i) 1st  (promotion)   $399   
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i) 1st  (2nd round)   $399  $1838  
+
+=== PAGE 107 ===
+Page 107 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Case 3A (Discount purchase – Using onward option)  
+(i) Purchase any items,  1st item can get extra 10% off, 2nd item can get extra 20% off, 3rd  item or above can get extra 
+30% off … etc (This must use onward option i n M&M event)  
+ 
+Discount controlled item :P001 promotion price$399 (No count as M&M, only a condition checking)  
+ 
+Sorting order for Promotion item always as 1st item (only count as one item in sorting list). Must use onward option in 
+M&M event  
+ 
+Sorting order for normal item highest price first  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 3rd  30% $420   
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i) 1st  (promotion)   $399  $1379  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i) 1st  (promotion)   $399  $959  
+ 
+Sample 3:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 3rd  30% $420   
+P001  $399  (i) 1st  (promotion)   $399   
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i)   $399  $1778  
+ 
+Case 4: (Discount purchase)  
+(i) Purchase any items,  1st item can get extra 10% off, 2nd item and more can get extra 20% off  
+ 
+Discoun t controlled item :P001 promotion price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i) 3rd  20% $480   
+A002  $700  (i) 2nd (highest prx) 20% $560   
+P001  $399  (i) 1st  (promotion)   $399  $1439  
+ 
+ 
+Case 5 : (Discount purchase)  
+Mix & Match event :  
+(i) Any purchase can get 20% off on item A001  
+(ii) Any purchase can redeem item A at $399  
+ 
+Discount controlled item :P001 promotion price$399 (No count as M&M, only a c ondition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+P001  $399     $399  $879  
+ 
+ 
+
+=== PAGE 108 ===
+Page 108 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii)   $399   
+P001 $399     $399  $798**  
+** If „Best price logic available  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)   $600   
+A001  $600  (i)  20% $480  $1080  
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amo unt Memo Total  
+A001  $600  (ii)   $600   
+A001  $600  (ii)   $399  $999**  
+** If „Best price logic available  
+ 
+Case 6 : (Discount purchase)  
+Mix & Match event :  
+(i) Purchase item A001 or P001 can get extra 20% off on item B001  
+ 
+Discount controlled item :P001 pro motion price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+B001  $700  (i)  20% $560   
+P001  $399  (i)   $399  $959  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+B001  $700  (i)  20% $560   
+A001  $600  (i)   $600  $1160  
+ 
+ 
+Case 7 : (Discount purchase)  
+Mix & Match event :  
+(i) Purchase any items can get extra 20% on item A001  
+(ii) Purchase any 2 items or more, all items can get 15% off  
+ 
+Disco unt controlled item :P001 promotion price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+P001  $399     $399  $879**  
+ 
+Item Current price  M&M even t M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii)  15% $510   
+P001  $399     $399  $909  
+** If „Best price logic available  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+P001  $399   1st (Promotion)   $399  $1474**  
+
+=== PAGE 109 ===
+Page 109 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii)  20% $510   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+P001  $399   1st (Promotion)   $399  $150 4 
+** If „Best price logic available  
+ 
+Sample 3:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+B002  $600  (ii)  15% $510   
+P001  $399   1st (Promotion)   $399  $198 4** 
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  15% $510   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+B002  $600  (ii)  15% $510   
+P001  $399   1st (Promotion)   $399  $2014  
+** If „Best price logic available  
+ 
+Case  8 : (Discount purchase)  
+Mix & Match event :  
+(i) Purchase any items can get extra 20% off on item A001  
+(ii) Purchase any items 2nd item or more can get extra 15% off  
+ 
+Discount controlled item :P001 promotion price$399 (No count as M&M, only a condition ch ecking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+P001  $399     $399  $879**  
+ 
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii)  15% $510   
+P001  $399    $399  $909  
+** If „Best price logic available  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (i)   $700  $1180**  
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii) 2nd  15% $510   
+B001  $700  (ii) 1st (highest prx)   $700  $1210  
+** If „Best price logic available  
+ 
+Sample 3:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (ii) 2nd (high est prx)  15% $595   
+P001  $399   1st (Promotion)   $399  $1474**  
+
+=== PAGE 110 ===
+Page 110 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii)  15% $510   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+P001  $399   1st (Promotion)   $399  $1504  
+** If „B est price logic available  
+ 
+Sample 4:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+B002  $500  (ii) 3rd 15% $425   
+P001  $399   1st (Promotion)   $399  $1899**  
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii) 3rd 15% $510   
+B001  $700  (ii) 2nd (highest prx)  15% $595   
+B002  $500  (ii) 4th 15% $425   
+P001  $399   1st (Promotion)   $399  $1929  
+** If „Best price logic available  
+ 
+Case 9 : (Discount purchase)  
+Mix & Match event :  
+(i) Purchase any items can get 25% off on item A001  
+(ii) Purchase any items, 1st items can get extra 10% off, 2nd item can get  extra 20% off (Repeat option in M&M event)  
+ 
+Discount controlled item :P001 promotio n price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  25% $450   
+P001  $399     $399  $849**  
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii) 2nd (highest prx)  20% $480   
+P001  $399   1st (promotion)   $399  $879  
+** If „Best price logic available  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  25% $480   
+B001  $700  (i)   $700  $1150  
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii) 2nd  20% $480   
+B001  $700  (ii) 1st (highest prx)  10% $630  $1110**  
+** If „Best price logic available  
+ 
+Sample 3:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  25% $450   
+B001  $700  (ii) 2nd (highest prx)  20% $560   
+P001  $399   1st (Promotion)   $399  $1409**  
+ 
+
+=== PAGE 111 ===
+Page 111 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii) 1st (2nd round)  10% $540   
+B001  $700  (ii) 2nd (highest prx)  20% $560   
+P001  $399   1st (Promotion)   $399  $1499  
+** If „Best price logic available  
+ 
+Sample 4:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  25% $450   
+B001  $700  (ii) 2nd (highest prx)  20% $560   
+B002  $500  (ii) 1st (2nd round)  10% $450   
+P001  $399   1st (Promotion)   $399  $1859**  
+ 
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (ii) 1st (2nd round)  10% $540   
+B001  $700  (ii) 2nd (highest pr x) 20% $560   
+B002  $500  (ii) 2nd (2nd round)  20% $400   
+P001  $399   1st (Promotion)   $399  $1899  
+** If „Best price logic available  
+ 
+ 
+Case 10:   (Give Away Purchase)  
+Mix & Match event:  
+(i) Purchase any items can get extra 20% on item A001  
+(ii) Purchase any it ems can get extra 10% off on item B001  
+ 
+Discount controlled item :P001 promotion price$399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (ii)  10% $630   
+P001  $399     $399  $1509  
+ 
+Sample 2:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  20% $480   
+B001  $700  (i)   $700  $1180**  
+ 
+ 
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Tot al 
+A001  $600  (ii)   $600   
+B001  $700  (ii)  10% $630  $1230  
+** If „Best price logic available  
+ 
+ 
+Case 11: (Coupon process)  
+Mix & Match event:  
+(i) Memo net amount over $2000 and get extra 5% off  
+ 
+Discount controlled item :P001 promotion price$399 (No count a s M&M, only a condition checking)  
+ 
+ 
+
+=== PAGE 112 ===
+Page 112 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600  (i)  5% $570   
+B001  $700  (i)  5% $665  
+P001  $399     $399   
+B002  $500  (i)  5% $475 $2109  
+ 
+Case 11: (Coupon process)  
+Mix & Mat ch event:  
+(i) Memo net amount over $2000 and less $200  
+ 
+Discount controlled item : P001 promotion price $399 (No count as M&M, only a condition checking)  
+ 
+Sample 1:  
+Item Current price  M&M event  M&M Sorting  M&M Disc.  Net Amount  Memo Total  
+A001  $600     $600  
+B001  $700     $700   
+P001  $399     $399   
+B002  $500     $500  $2199  
+  (i)   -200 $1999  
+ 
+Remarks : No member extra discount will be applied on Discount controlled item  
+ 
+ 
+ - End of Data Samples -
+
+=== PAGE 113 ===
+Page 113 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.7 Customer Loyalty Module  (Optional Module)  
+ 
+In order for Re tailer able to offer flexible Bonus Point calculation to member customers, 
+the system is providing a „Sales to Bonus Point Calculation Table‟ that allows users has 
+better flexibility to formulate the Bonus Point and Redemption calculation content on 
+demand .    
+ 
+Bonus Points Calculation:  
+ 
+The Bonus Point general calculation mechanism allows user to "give" bonus points to VIP 
+Member by the following rules:  
+ By Member's purchase amount$; or  
+ By specific purchase item(s); or  
+ For visiting specific Store(s);  
+ 
+Extra Bonus Points may be granted for Member at specific conditions such as:  
+ Purchase product at specific date and time frame  
+ Member's Birthday month;  
+ New member Extra  
+ 
+Furthermore, user has option to "assign" this customer earned Bonus Points onto different 
+"Redemption Groups", which could make user has more option to provide different 
+redemption offerings ….  
+ 
+Bonus Points Redemption :  
+ 
+Due to the control and Points Management concerns, the Bonus Points Redemption is 
+required to process On-Line by the system as standard.  
+ 
+Important Restriction to be observed : 
+No Bonus Points Redemption allowed if the POS front end system cannot connect to Back 
+Office on -line at redemption. This design is aimed to minimize the chance of double 
+redemption in POS.  
+ 
+The eligible p oints will be read on -line from POS to Back End Server at redemption 
+process for calculation.  
+ 
+The Redemption Reward is based on the "pre -define" rules set for different "Redemption 
+Groups": such as:  
+ specific Gift is given for Redemption Group (I) custome r; or 
+ Cash Coupon is offered for Redemption Group (II) customer and more ….  
+ 
+
+=== PAGE 114 ===
+Page 114 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.7.1 Bonus Point Calculation  
+ 
+Product Group Maintenance  
+ 
+This is the "Product Group" may be useful for Bonus Points Redemption Process. User 
+could define different product(s), or set  of Product Group(s), which will generate different 
+Bonus Points based on different product groups.  
+ 
+The Product Group can be defined By Category, Sub -Category, Brand, Season or specific 
+Items.  
+ 
+ 
+ 
+ 
+
+
+=== PAGE 115 ===
+Page 115 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Gift Master Maintenance  
+ 
+This is the " Gift Master " for use in Bonus Points Redemption Process. User can define the 
+Gift(s) or Gift Set in this table for Customer BP Redemption in Redemption Process.  
+ 
+ 
+ 
+
+
+=== PAGE 116 ===
+Page 116 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+General Bonus Point Calculation  
+ 
+In order to calculate the correct Bonus Points (BP) to be earned by Memb er when 
+purchasing, user needs to define a correct BP calculation formula in the system.  
+ 
+ 
+Bonus Point Calculation Header Screen Page  
+ 
+  
+ 
+ Click the highlighted row to proceed on details input  
+ Please see sample screen next page  
+Enhance d 
+ v6.5.0  
+
+=== PAGE 117 ===
+Page 117 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912   
+Bonus Point Calculation Detail Formula Screen Page  
+ 
+Screen Sample (I)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  This is the "Redemption Group" where 
+the customer's earned bonus points will 
+be stored;  
+ Different "Redemption Group" may 
+result in different redemption offerings 
+at Redemption   This example il lustrate the Member will 
+earn Ten (10) Points per Ten(10) dollar$ 
+purchase under $1,000;  
+ Earn 12 Points per Ten(10) dollar$ if 
+purchase between $1,001 – $2,000;  
+ Earn 14 Points per Ten(10) dollar$ if 
+purchase between $2,001 and over;  
+ This Example illustrate  the customer could 
+get more Bonus Points for higher purchase 
+amount;  For Special Bonus P oint calculation formulae in 
+specific date & time setting  please refer to 
+screen sample next page  
+ 
+ This sample illustrate that 1,000 points will 
+be given to customer if Purchase the specific 
+Item of "1109111952"  Enhance d 
+ v6.5.0 
+For Dis counted Items:  
+ This is the percentage (i.e.70%) you 
+want to be discounted for Bonus Point 
+given to customer if the purchase items 
+are sold under On -Sales discount price  
+
+=== PAGE 118 ===
+Page 118 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Bonus Point Calculation  - The special Date & Time Points Calculation  
+ 
+Screen Sample ( II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This sample illustrate the bonus point calculation is 
+become 2 points for each dollar spent by Member under 
+this special date or time as specified.  
+
+=== PAGE 119 ===
+Page 119 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Extra Bonus Point Calculation  
+ 
+There are three(3) preset rules allow user to define "Extra" Bonus Points calculation:  
+ 
+ Member's Birthday Moth Purchase  
+ New Join Member Extra Bonus Points  
+ Location Group Purchase  
+ 
+ 
+Extra Bonus Point Calculation  New Creation Screen Page  
+ 
+ 
+ 
+ 
+
+
+=== PAGE 120 ===
+Page 120 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The Input Detail:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  All the Bonus Points earned from this Table are the Extra Bonus Point adds on top 
+of regular calculation.  
+ 
+ 
+How Often  
+This is the indicator to set HOW OFTEN this Extra BP 
+calculation to be occurred within the effective period:  
+ Once only, Daily, Monthly, Yearly   
+ 
+ Could be Maximum x10 times within a month.(a free setting 
+by user)  This is the conditions of Extra  Bonus Points 
+to be earned in either:  
+ Exact Bonus Points;  
+ or in Extra % calculate on top of 
+regular BP earning.  
+
+=== PAGE 121 ===
+Page 121 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.7.2 Bonus Point Redemption  (Online)  
+ 
+As customer has earned her/his bonus points by purchase, user need also to define how 
+these earned bonus points to be consumed by customer. T his process is used for defining 
+Bonus Point Redemption Calculation .  
+ 
+ 
+Header Page Screen  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+=== PAGE 122 ===
+Page 122 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+The Bonus Point Redemption Detail Page   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Redemption Group – indicating this set 
+of redemption formula is valid only un der 
+this redemption group.  
+This sample illustrat es the redemption calculation as follows:  
+ 
+At Redemption Process, if Customer:   
+ accumulate more than 5,000 points will entitle $100 cash coupon per each 3,000 poin ts 
+ accumulate more than 10,000 points will entitle $110 cash coupon per each 3,000 poin ts 
+ accumulate more than 15,000 points will entitle $120 cash coupon per each 3,000 poin ts 
+ accumulate more than 20,000 points will entitle $130 cash coupon per each 3,000 poin ts 
+ 
+This sample is illustrat ing how us er could set the calculation rules to encourage member to accumulate more 
+Bonus Points for higher redemption reward .  
+
+=== PAGE 123 ===
+Page 123 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Member Redemption Group Maintenance  
+ 
+This is the Table to determine the how customer's earne d Bonus Points to be stored in 
+which Redemption Group.  
+ 
+User firstly needs to define various Redemption Group when needed.  In general, 
+usual ONE redemption would be sufficient for most of operation.  
+ 
+Please consult Sanyo Extended Business Consultant befo re use.  
+ 
+ 
+
+
+=== PAGE 124 ===
+Page 124 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Redemption Group Table Input Page:  
+ 
+ 
+ 
+ 
+ 
+ 
+This mans the Bonus Points has 
+Expiry Date Control if checked  This example illustrates the following meaning:  
+ All the Bonus Points inside the Redemption 
+Group "CASH" earned between 01/01/2006 – 
+31/05 /2006 will be expired by 31/12/2006;  
+ the Bonus Points earned between 01/06/2006 – 
+31/12/2006 will be expired by 31/05/2007;  
+ 
+
+=== PAGE 125 ===
+Page 125 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Points Redemption Gift Maintenance  
+ 
+This Table is use to define the Redemption Points for Gift(s).  
+ 
+ 
+ 
+In the above sample shown :  
+ customer redeem the gift "TB0001" requires 3,000 points  
+ customer  redeem the gift "GTX002" requires 8,000 points  
+ customer redeem the gift "G001" requireds8,000 points  
+ 
+Note:  All the Redemption MUST be done in POS front end in On -Line Mode  
+ 
+ 
+
+
+=== PAGE 126 ===
+Page 126 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.8 Wholesales Customer Master (Optional Module)  
+5.8.1 Customer Master  
+ 
+This is the Mas ter File Maintenance for Wholesales and Distribution Customer only.  
+ 
+Objective: -  Maintain general information about wholesales customer  
+ 
+Function: - 1. Create Record  
+2. Modify Record  
+3. Delete Record  
+ 
+Sample Creation Screen Display  
+ 
+Page 1  
+ 
+ 
+
+
+=== PAGE 127 ===
+Page 127 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Page 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The default currency to be 
+used in customer invoice 
+process  
+The default discount offered to the 
+customer. Max 5 x discount levels 
+can be defined.  This parameter is set for how to use the customer discounts 
+on the left: 
+ H – Default Header Level = the discount is calculated 
+based on total invoice amount, the Header level;  
+ I – Default Item Level = the discount is calculated 
+down in item level;  (by Line)  
+ 'blank' – Reference only = No discount will be 
+calculated. Refere nce only  
+
+=== PAGE 128 ===
+Page 128 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+Page 3  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Credit Limit : This is the 
+amount input by user.   Must 
+work together with "Credit 
+Available" to be meaningful  
+Credit Available:  This figure works ONLY when 
+interfacing with 3rd party's Accounts Receivable System.  
+The system will calculate this figure in following 
+formula:  
+ Credit Available = Credit Limit -  Accounts 
+Receivable on -hand, where the Account Receivable 
+On Hand should be downloaded from Accounting 
+System regularly, or on daily basis.  This is the last download 
+date of Account Receivable 
+from 3rd party system  
+
+=== PAGE 129 ===
+Page 129 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.8.2 Customer Delivery Address  
+ 
+This function allow user to create and save the delivery address of the customer.  
+ 
+Objective: -  Maintain general information about customer  
+ 
+Function: - 1. Create Record  
+2. Modify Re cord 
+3. Delete Record  
+ 
+Sample Creation Screen Display  
+ 
+Page 1  
+ 
+ 
+ 
+Prompt   Description  
+ 
+Customer Code  X(08) - Must field  
+- a unique number to identify a particular customer  
+ 
+Del Address Code  X(03) - Must field  
+- the delivery address code  
+ 
+Attn X(05) - Optional field  
+- the receiver‟s name  
+ 
+
+=== PAGE 130 ===
+Page 130 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912 Delivery Address  X(50 ) - Must  field 
+- the address of the customer  
+City X(10) - Optional field  
+  -     the city of the address  
+ 
+Country  X(10) - Optional field  
+- the country of the city  
+ 
+Postal  X(10) - Optional field  
+ -       the postal code  
+ 
+Distinct code  X(10) – Must field  
+ -        the distinct code  
+ 
+ 
+ 
+
+=== PAGE 131 ===
+Page 131 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.8.3 Wholesales Customer Promotion Event  Table  
+ 
+This process allows user to set special discount to Wholesales Customer  or Franchisee 
+Store Customer  when performing sales invoic es from respective processes.  The effective 
+discount rate will be applied whenever the invoicing process is running.   This discount 
+table could be assigned down into per customer basis.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This Wholesales Promotion is set as following:  
+ 
+ For All Nike Shoes (SHO) will sa le at discount of 48% than 3% and 
+than 2%;  
+ For rest of ALL other Nike brand product (Except Shoes) will sale at 
+discount of 50% than 5%  
+ 
+This special discount is offered exclusively for Customer Group 
+"05SUMMER -1" valid between the dates as specified.  
+
+=== PAGE 132 ===
+Page 132 of 132 
+CS2000v6. 5 Book -2 
+Edition1. 1_200 912  
+5.8.4 Wholesales Promotion Customer Table  
+ 
+This is the Ta ble use for defining group(s) of Wholesales Customers that may enjoy a 
+bundle of Wholesales Promotion(s) when preparing Wholesales Invoice in the system.  
+ 
+ 
+ 
+The above Example illustrate this three(3) customers are put into one group named "2005 
+Summer Pro motion Group (II)".  User may want to use this Wholesales Promotion 
+Customer Group for special promotion events.   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+- END OF BOOK ( 2) :  MASTER FILES  – 
+ 
