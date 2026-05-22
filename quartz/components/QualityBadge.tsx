@@ -26,8 +26,40 @@ const QUALITY_CONFIG = {
 }
 
 const QualityBadge: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const quality = (fileData.frontmatter?.quality as string) || ""
+  let quality = (fileData.frontmatter?.quality as string) || ""
+
+  // Infer quality from frontmatter fields or content if not explicitly set
   if (!quality || !QUALITY_CONFIG[quality as keyof typeof QUALITY_CONFIG]) {
+    const rootCause = fileData.frontmatter?.root_cause || fileData.frontmatter?.["root-cause"] || ""
+    const solution = fileData.frontmatter?.solution || fileData.frontmatter?.fix || ""
+    const symptom = fileData.frontmatter?.symptom || fileData.frontmatter?.symptom_description || ""
+
+    if (rootCause && solution) {
+      quality = "complete"
+    } else if (symptom) {
+      quality = "partial"
+    } else {
+      // Infer from raw text — use broader matching
+      const text = fileData.text || ""
+      // Count any occurrence of these terms (not just heading-anchored)
+      const hasRootCause = /根因|root[\s_-]?cause/i.test(text)
+      const hasSolution = /解法|solution|fix[\s_-]?(version|release)?/i.test(text)
+      const hasProblem = /問題|問題描述|症状|症狀|symptom|problem/i.test(text)
+      const isEmpty = !text || text.length < 100 || /^\s*(None|N\/A|無|无|)\s*$/im.test(text.trim().split("\n").slice(0, 3).join("\n"))
+
+      if (isEmpty) {
+        quality = "stub"
+      } else if (hasProblem && hasRootCause && hasSolution) {
+        quality = "complete"
+      } else if (hasProblem) {
+        quality = "partial"
+      } else {
+        quality = "stub"
+      }
+    }
+  }
+
+  if (!QUALITY_CONFIG[quality as keyof typeof QUALITY_CONFIG]) {
     return null
   }
 
