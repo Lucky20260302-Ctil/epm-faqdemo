@@ -12,9 +12,9 @@ const Header: QuartzComponent = ({ cfg, children }: QuartzComponentProps) => {
         </a>
         <nav class="header-nav desktop-only">
           <a href="/" class="header-nav-link">首頁</a>
-          <a href="/FAQ_test/" class="header-nav-link">FAQ 分類</a>
+          <a href="/FAQ_test/" class="header-nav-link">ERM FAQ</a>
+          <a href="/EPRO_System/" class="header-nav-link">EPRO</a>
           <a href="/ChainStoreplus/" class="header-nav-link">ChainStorePlus</a>
-          <a href="/Welcome" class="header-nav-link">使用指南</a>
           <a href="/tags/" class="header-nav-link">標籤</a>
         </nav>
         {children}

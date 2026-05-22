@@ -7,9 +7,7 @@ updated: 2026-05-22
 
 # EPM / FEPOS 故障排除知識庫
 
-本知識庫收集 ERM 系統（EPM / FEPOS / ChainStorePlus）的已知問題及其解決方案。每筆記錄來自已解決的 Jira 工單，包含 **症狀描述 → 根本原因 → 解決方案**。
-
-> 共收錄 **1,830+** 篇 FAQ，涵蓋 Backend · Frontend · MPOS · Web Services · ProSmart 五個專案
+本知識庫收集 ERM 系統（EPM / FEPOS / ChainStorePlus / ProSmart）的已知問題及其解決方案。每筆記錄來自已解決的 Jira 工單，包含 **症狀描述 → 根本原因 → 解決方案**。
 
 ---
 
@@ -17,39 +15,66 @@ updated: 2026-05-22
 
 | 我想… | 操作 |
 |-------|------|
-| 🔍 **搜尋特定問題** | 使用左側搜尋框，支援中英文、工單號（如 `BE-1020`） |
-| 📂 **按分類瀏覽** | 點擊下方分類卡片，或在左側目錄樹展開 |
-| 🏷️ **依專案篩選** | 搜尋時輸入 `tag:#be` / `tag:#fe` / `tag:#mp` / `tag:#web` |
+| 🔍 **搜尋特定問題** | 左側搜尋框輸入關鍵字（中英文、工單號如 `BE-1020`） |
+| 📂 **按分類瀏覽** | 點下方分類表或左側目錄樹展開 |
+| 🏷️ **依專案篩選** | 搜尋時輸入 `tag:#be` / `tag:#fe` / `tag:#mp` |
 
 ---
 
-## 分類導航
+## ERM 故障排除 FAQ
+
+> 160 篇 FAQ · 全部品質完整 ✅ · 11 個業務分類
 
 | 分類 | 說明 | 數量 |
 |------|------|:---:|
-| [[FAQ_test/01_Install_Deploy/index\|📦 安裝與部署]] | 系統安裝、升級、環境配置、DB 遷移 | 122 |
-| [[FAQ_test/02_Config_Settings/index\|⚙️ 配置與設定]] | 系統參數、功能開關、權限設定 | 69 |
-| [[FAQ_test/03_Performance_Timeout/index\|⏱️ 效能與超時]] | 回應緩慢、Timeout、記憶體問題 | 252 |
-| [[FAQ_test/04_Data_Sync/index\|🔄 資料同步]] | 資料上傳下載、介面傳輸、Polling | 462 |
-| [[FAQ_test/05_Error_Exception/index\|🚨 報錯與異常]] | 錯誤彈窗、系統崩潰、Log 分析 | 596 |
-| [[FAQ_test/06_Printing_Hardware/index\|🖨️ 列印與硬體]] | 收據列印、條碼、OPOS、Cash Drawer | 38 |
+| [[FAQ_test/01_Install_Deploy/index\|📦 安裝與部署]] | 系統安裝、升級、環境配置 | 8 |
+| [[FAQ_test/02_Config_Settings/index\|⚙️ 配置與設定]] | 系統參數、功能開關、權限 | 21 |
+| [[FAQ_test/03_Performance_Timeout/index\|⏱️ 效能與超時]] | 回應緩慢、Timeout、記憶體 | 5 |
+| [[FAQ_test/04_Data_Sync/index\|🔄 資料同步]] | 資料上傳下載、介面傳輸 | 18 |
+| [[FAQ_test/05_Error_Exception/index\|🚨 報錯與異常]] | 錯誤彈窗、系統崩潰、Log | 52 |
+| [[FAQ_test/06_Printing_Hardware/index\|🖨️ 列印與硬體]] | 收據列印、OPOS、Cash Drawer | 9 |
 | [[FAQ_test/06_Procurement_Workflow/index\|🏢 採購流程]] | ProSmart 招標、評標、LOA | 22 |
-| [[FAQ_test/07_Workflow_Business/index\|📋 業務流程]] | 審批、交易操作、業務邏輯異常 | 248 |
+| [[FAQ_test/07_Workflow_Business/index\|📋 業務流程]] | 審批、交易操作、業務邏輯 | 17 |
 | [[FAQ_test/03_Data_Import/index\|📥 資料匯入]] | 資料匯入處理 | 1 |
 | [[FAQ_test/07_Reporting/index\|📊 報表]] | 報表相關問題 | 1 |
 | [[FAQ_test/07_Other/index\|📝 其他]] | 未分類問題 | 6 |
 
 ---
 
-## 專案覆蓋
+## EPRO e-Procurement System
 
-| 專案 | Jira | FAQ 數量 |
-|------|------|:--------:|
-| **Backend** (ChainStorePlus v7) | [BE](https://ctil.atlassian.net/projects/BE) | 449 |
-| **Frontend** (POS/MPOS) | [FE](https://ctil.atlassian.net/projects/FE) | 795 |
-| **MPOS** (Mobile POS) | [MP](https://ctil.atlassian.net/projects/MP) | 339 |
-| **Web Services** | [WEB](https://ctil.atlassian.net/projects/WEB) | 149 |
-| **ProSmart** (採購系統) | [EPMTDCPROT](https://hktdc.atlassian.net/projects/EPMTDCPROT) | 50+ |
+> 124 條功能需求規格 · 7 個分類
+
+| 分類 | 數量 |
+|------|:---:|
+| [[EPRO_System/01_General_Requirements/index\|General Requirements]] | 28 |
+| [[EPRO_System/02_PreTender/index\|Pre-Tender]] | 31 |
+| [[EPRO_System/03_TenderStage/index\|Tender Stage]] | 11 |
+| [[EPRO_System/04_PostTender/index\|Post-Tender]] | 16 |
+| [[EPRO_System/05_Supplier/index\|Supplier]] | 10 |
+| [[EPRO_System/06_Reports/index\|Reports]] | 23 |
+| [[EPRO_System/07_Others/index\|Others]] | 5 |
+
+---
+
+## ChainStorePlus 使用者手冊
+
+> 98 條操作 FAQ · 12 個分類
+
+| 分類 | 數量 |
+|------|:---:|
+| [[ChainStoreplus/01_Getting_Started/index\|系統入門]] | 8 |
+| [[ChainStoreplus/02_System_Tools/index\|系統工具]] | 8 |
+| [[ChainStoreplus/03_Table_Maintenance/index\|基礎表維護]] | 20 |
+| [[ChainStoreplus/04_Master_Data/index\|主數據管理]] | 11 |
+| [[ChainStoreplus/10_Inquiry/index\|線上查詢]] | 18 |
+| [[ChainStoreplus/11_Data_Interface/index\|數據接口]] | 10 |
+| [[ChainStoreplus/08_Inventory/index\|庫存管理]] | 7 |
+| [[ChainStoreplus/05_Purchasing/index\|採購流程]] | 3 |
+| [[ChainStoreplus/06_Receiving/index\|收貨流程]] | 3 |
+| [[ChainStoreplus/07_Stock_Transfer/index\|庫存轉移]] | 4 |
+| [[ChainStoreplus/09_Distribution/index\|配送流程]] | 3 |
+| [[ChainStoreplus/12_System_Admin/index\|系統管理]] | 3 |
 
 ---
 
@@ -59,13 +84,7 @@ updated: 2026-05-22
 🩺 症狀 → 🔍 根因 → 🔧 解法
 ```
 
-每篇也包含修復版本、Jira 工單連結及相關問題。
-
-| 品質標記 | 含義 |
-|----------|------|
-| ✅ 資訊完整 | 症狀、根因、解法皆已確認 |
-| ⚠️ 部分資訊 | 有症狀描述，根因或解法待補充 |
-| ❌ 資訊不足 | 僅有標題，需查閱 Jira 工單 |
+每篇也包含修復版本及 Jira 工單連結。
 
 ---
 
@@ -76,12 +95,4 @@ updated: 2026-05-22
 - ✅ **中英文皆可** — 打 `printer` 或 `列印` 都得
 - 💡 **精準篩選** — `tag:#fe path:06_Printing_Hardware printer`
 
----
-
-## 相關資源
-
-- [[ChainStoreplus/index\|ChainStorePlus 使用者手冊 FAQ]] — 173 條功能操作 FAQ
-- [[Knowledge Base ERM FEPOS/03-Resources/troubleshooting/index\|原始疑難排解記錄]] — 歷史疑難排解
-- [Jira ERM Board](https://ctil.atlassian.net/) — 原始工單系統
-
-> 最後更新: 2026-05-22 · 索引由 `scripts/generate_indexes.py` 自動生成
+> 最後更新: 2026-05-22 · 自動同步

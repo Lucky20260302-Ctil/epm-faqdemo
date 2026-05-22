@@ -124,11 +124,21 @@ def extract_solution_from_frontmatter(fm: dict) -> str:
 
 def analyze_content_quality(body: str, fm: dict) -> str:
     """Determine quality: complete | partial | stub."""
-    has_problem_section = bool(SECTION_PATTERNS["problem"].search(body)) or bool(
+    # Check both heading and table format
+    has_problem = bool(SECTION_PATTERNS["problem"].search(body)) or bool(
         TABLE_SECTION.search(body)
     )
-    has_root_cause_section = bool(SECTION_PATTERNS["root_cause"].search(body))
-    has_solution_section = bool(SECTION_PATTERNS["solution"].search(body))
+    # For root cause and solution, also check for simple text patterns in body
+    has_root_cause = (
+        bool(SECTION_PATTERNS["root_cause"].search(body))
+        or bool(re.search(r"^\|\s*根因", body, re.MULTILINE))
+        or bool(re.search(r"根因", body))
+    )
+    has_solution = (
+        bool(SECTION_PATTERNS["solution"].search(body))
+        or bool(re.search(r"^\|\s*解法", body, re.MULTILINE))
+        or bool(re.search(r"解法", body))
+    )
 
     problem_text = body_section_text(body, SECTION_PATTERNS["problem"], TABLE_SECTION)
     root_cause_text = body_section_text(body, SECTION_PATTERNS["root_cause"], None)
@@ -141,9 +151,9 @@ def analyze_content_quality(body: str, fm: dict) -> str:
 
     if problem_empty:
         return "stub"
-    if has_root_cause_section and has_solution_section and not root_empty and not solution_empty:
+    if has_root_cause and has_solution and has_problem:
         return "complete"
-    if has_problem_section and not problem_empty:
+    if has_problem and not problem_empty:
         return "partial"
     return "stub"
 
@@ -293,6 +303,9 @@ def normalize_file(file_path: Path) -> dict:
         if fm.get("title"):
             new_fm["title"] = fm["title"]
 
+        # Strip duplicate H1 from body if it matches the title
+        body = strip_duplicate_h1(body, new_fm.get("title", ""))
+
         # Rebuild file
         new_frontmatter = yaml.dump(
             new_fm,
@@ -305,6 +318,22 @@ def normalize_file(file_path: Path) -> dict:
         file_path.write_text(new_content, encoding="utf-8")
 
     return result
+
+
+def strip_duplicate_h1(body: str, title: str) -> str:
+    """Remove leading H1 from body if it duplicates the frontmatter title."""
+    if not title or not body:
+        return body
+    # Match both `# Title` and `# Title` with anchor ID from Quartz
+    h1_match = re.match(r"^# (.+?)(?:\s*\{[^}]*\})?\s*\n", body)
+    if h1_match:
+        h1_text = h1_match.group(1).strip()
+        # Normalize both for comparison (strip issue keys, whitespace)
+        title_norm = title.strip()
+        h1_norm = h1_text.strip()
+        if title_norm == h1_norm or h1_norm.startswith(title_norm) or title_norm.startswith(h1_norm):
+            return body[h1_match.end():]
+    return body
 
 
 def normalize_tags(fm: dict, project: str, category: str) -> list:

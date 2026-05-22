@@ -1,0 +1,54 @@
+---
+project: EPRO
+issue_key: ''
+issue_type: Functional Requirement
+status: Specified
+tags:
+- epro
+- functional-requirement
+- spec
+title: 'FR-RTR-014: Need for Signing Non-Disclosure Undertaking Configuration'
+quality: complete
+category_label: Pre-Tender
+created: '2026-05-22'
+---
+
+## 需求描述
+
+3.4.	Preparation of RFQ / Tender Invitations
+(c) Development of Pricing Schedule
+(i) The Platform shall allow Subject Officers to upload / import a pricing schedule with customised contents and layout that are suitable for individual RFQ / tender requirements.
+(ii) If standard template(s) of pricing schedule are available for the proposed packaged solution, they shall be maintained on the Platform for Subject Officers to choose and modify as needed for individual RFQ / tender submissions with the following requirements:
+Information stated in Section 3.3.2 shall be appropriately mapped to the corresponding field for further modification.
+The finalised pricing schedule shall be issued in Excel format (or any other format suggested by the Contractor, which allows flexibility and further validation of submissions) for invited suppliers to fill in. Invited Suppliers shall be prevented from making changes from fields and contents other than the pricing field.
+(iii) Whether using a customised or standard template of the Pricing Schedule, the Platform shall be designed to facilitate price assessment. It should provide two separate sections for the entry of mandatory items and optional items, streamlining the evaluation process.
+
+## 驗收標準
+
+Before initiating the sourcing process, the requestor from either the User Division/Department or the Purchasing Division/Department must complete the Procurement Strategy (PS) e-form and obtain approval at the project's initial stage.
+Upon approved, the Platform will automatically activate the sourcing process in accordance with the established workflows and approval requirements specified for various RFQ and Tender exercises.
+The option for the RFQ / Tender exercise may require e-Form for management and control, which can be used before sending out the RFQ / Tender invitations:
+The Platform can generate standard notification emails for internal users based on specific triggers:
+Here are the available options and features for the e-Form:
+The requestor drafts the e-Form. Drafts can be saved automatically to prevent data loss in case of a session timeout.
+The e-Form can be saved in PDF and Excel formats.
+PDF version: for attaching to emails for review and audit trails.
+Excel version: Helps the preparer in creating documents for off-system / external processes.
+The e-Form can be submitted for approval by the requestor. Following submission, email notifications are sent to Procurement Officers (i.e. Subject officers / Buyers).
+Approvers (Procurement Officers, i.e. Subject officers / Buyers) can take actions such as approve or return with feedback(s), provided that specific conditions are met. Actions for reject or withdraw are not supported for this e-Form.
+The requestor is not allowed to revoke approval at any time, enabling them to cancel the approval request before the final approver grants approval.
+Change history: The Platform automatically logs each field, capturing the date and time, the changer's details, the field modified, and old/new values.
+Amendment history: The preparer manually fills in the summary of changes with each save.
+Action History captures every e-Form status change, specifying the date, time, initiator, and new status.
+Approval history tracks overall approval status changes, including the date, time, and last approver. It also logs individual actions with the date, time, person's name, action taken (e.g. approved, returned), reasons or remarks, and attachments if necessary.
+A weekly reminder email is sent to the requestor and approvers who are pending approval based on the approval route.
+The Platform should provide Approval Workflow feature, as outlined in FR-GR-012.
+
+## 依賴項
+
+Notifications and alerts feature
+Reminder features
+Approval Workflow feature
+Report requirements
+
+
