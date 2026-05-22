@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-756: 2 data interface icons in top menu"
 issue_key: BE-756
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-756"
-created: 2023-06-12
-resolved: 2023-08-31
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-756
+created: '2023-06-12'
+resolved: '2023-08-31'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-756: 2 data interface icons in top menu'
 ---
-
 # BE-756: 2 data interface icons in top menu
 
 ## 問題描述

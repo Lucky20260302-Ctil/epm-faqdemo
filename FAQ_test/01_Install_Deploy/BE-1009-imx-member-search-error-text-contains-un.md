@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1009: IMX Member search error 'Text Contains Unicode(s) is NotAllowed'"
 issue_key: BE-1009
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1009"
-created: 2025-02-24
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1009
+created: '2025-02-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-1009: IMX Member search error ''Text Contains Unicode(s) is NotAllowed'''
 ---
-
 # BE-1009: IMX Member search error "Text Contains Unicode(s) is NotAllowed"
 
 ## 問題描述

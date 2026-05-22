@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-202: Can make change for transaction no."
 issue_key: MP-202
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-202"
-created: 2020-05-28
-resolved: 2024-07-22
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-202
+created: '2020-05-28'
+resolved: '2024-07-22'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-202: Can make change for transaction no.'
 ---
-
 # MP-202: Can make change for transaction no.
 
 ## 問題描述

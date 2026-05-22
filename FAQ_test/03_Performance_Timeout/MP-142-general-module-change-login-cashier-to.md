@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-142: General Module - Change login cashier to sales staff"
 issue_key: MP-142
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-142"
-created: 2020-04-21
-resolved: 2020-05-07
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-142
+created: '2020-04-21'
+resolved: '2020-05-07'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-142: General Module - Change login cashier to sales staff'
 ---
-
 # MP-142: General Module - Change login cashier to sales staff
 
 ## 問題描述

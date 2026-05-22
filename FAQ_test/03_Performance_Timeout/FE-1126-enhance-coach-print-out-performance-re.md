@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1126: Enhance Coach Print Out Performance - Re-Get Member Name"
 issue_key: FE-1126
 issue_type: Improvement
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1126"
-created: 2022-06-27
-resolved: 2024-05-06
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1126
+created: '2022-06-27'
+resolved: '2024-05-06'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1126: Enhance Coach Print Out Performance - Re-Get Member Name'
 ---
-
 # FE-1126: Enhance Coach Print Out Performance - Re-Get Member Name
 
 ## 問題描述

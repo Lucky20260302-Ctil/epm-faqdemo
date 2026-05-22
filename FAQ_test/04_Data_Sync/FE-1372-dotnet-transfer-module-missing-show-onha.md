@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1372: Dotnet Transfer module missing show onhand qty function"
 issue_key: FE-1372
 issue_type: Bug QA
 status: HOLD
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1372"
-created: 2023-06-01
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1372
+created: '2023-06-01'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1372: Dotnet Transfer module missing show onhand qty function'
 ---
-
 # FE-1372: Dotnet Transfer module missing show onhand qty function
 
 ## 問題描述

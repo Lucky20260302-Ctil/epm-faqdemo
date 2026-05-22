@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-973: [ACU-91] Repeatedly sending order and SKU data to CRM"
 issue_key: BE-973
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-973"
-created: 2024-12-20
-resolved: 2024-12-20
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-973
+created: '2024-12-20'
+resolved: '2024-12-20'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-973: [ACU-91] Repeatedly sending order and SKU data to CRM'
 ---
-
 # BE-973: [ACU-91] Repeatedly sending order and SKU data to CRM
 
 ## 問題描述

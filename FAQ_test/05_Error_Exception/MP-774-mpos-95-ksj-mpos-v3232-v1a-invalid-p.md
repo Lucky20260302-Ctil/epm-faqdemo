@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-774: [MPOS-95] KSJ MPOS - v3.23.2-v1a - Invalid pop-up window on Sales page"
 issue_key: MP-774
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-774"
-created: 2025-05-23
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-774
+created: '2025-05-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-774: [MPOS-95] KSJ MPOS - v3.23.2-v1a - Invalid pop-up window on Sales page'
 ---
-
 # MP-774: [MPOS-95] KSJ MPOS - v3.23.2-v1a - Invalid pop-up window on Sales page
 
 ## 問題描述

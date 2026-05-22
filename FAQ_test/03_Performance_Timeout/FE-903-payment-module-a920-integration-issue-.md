@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-903: Payment Module - A920 Integration issue - EPM payment time remain keep loading"
 issue_key: FE-903
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-903"
-created: 2021-01-19
-resolved: 2021-02-22
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-903
+created: '2021-01-19'
+resolved: '2021-02-22'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-903: Payment Module - A920 Integration issue - EPM payment time remain keep loading'
 ---
-
 # FE-903: Payment Module - A920 Integration issue - EPM payment time remain keep loading
 
 ## 問題描述

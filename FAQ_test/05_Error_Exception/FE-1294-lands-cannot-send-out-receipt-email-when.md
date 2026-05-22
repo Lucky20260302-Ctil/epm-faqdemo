@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1294: [Lands] Cannot send out receipt email when transactions paid by demand note"
 issue_key: FE-1294
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1294"
-created: 2023-09-18
-resolved: 2023-10-06
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1294
+created: '2023-09-18'
+resolved: '2023-10-06'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1294: [Lands] Cannot send out receipt email when transactions paid by demand note'
 ---
-
 # FE-1294: [Lands] Cannot send out receipt email when transactions paid by demand note
 
 ## 問題描述

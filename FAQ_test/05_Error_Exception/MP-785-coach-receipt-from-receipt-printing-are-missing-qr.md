@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-785"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-785"
-created: "2025-07-10"
-resolved: "2025-07-16"
-fix_version: ""
-components: [Frontend]
-category: "05_Error_Exception"
+project: MP
+issue_key: MP-785
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-785
+created: '2025-07-10'
+resolved: '2025-07-16'
+fix_version: ''
+components:
+- Frontend
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 MP-785: Receipt from receipt printing are missing QR code & order number
 
 | 問題

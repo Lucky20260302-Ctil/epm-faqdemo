@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1005: [CS-1361][CA-81]Issue-MY-3 store info missing in store profile file"
 issue_key: BE-1005
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1005"
-created: 2025-02-18
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1005
+created: '2025-02-18'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1005: [CS-1361][CA-81]Issue-MY-3 store info missing in store profile file'
 ---
-
 # BE-1005: [CS-1361][CA-81]Issue-MY-3 store info missing in store profile file
 
 ## 問題描述

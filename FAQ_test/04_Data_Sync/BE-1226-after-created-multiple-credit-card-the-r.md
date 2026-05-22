@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1226: After created multiple Credit Card, the range between 'From Gift Cert' and 'To Gift Cert' do not proceed properly"
 issue_key: BE-1226
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1226"
-created: 2026-01-29
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1226
+created: '2026-01-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1226: After created multiple Credit Card, the range between ''From Gift Cert'' and ''To Gift Cert'' do not proceed properly'
 ---
-
 # BE-1226: After created multiple Credit Card, the range between "From Gift Cert" and "To Gift Cert" do not proceed properly
 
 ## 問題描述

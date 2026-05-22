@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1264: [CS-2705] ANZ - Make 'Gender' as optional when create new member"
 issue_key: BE-1264
 issue_type: Bug PRD
 status: Open
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1264"
-created: 2026-05-11
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1264
+created: '2026-05-11'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1264: [CS-2705] ANZ - Make ''Gender'' as optional when create new member'
 ---
-
 # BE-1264: [CS-2705] ANZ - Make "Gender" as optional when create new member
 
 ## 問題描述

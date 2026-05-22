@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1782: Enhance Dtutil2 support run on Win11"
 issue_key: FE-1782
 issue_type: Bug QA
 status: Code Review or Correction
-faq_score: 4.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, dtutil-mobile]
-jira_url: "https://ctil.atlassian.net/browse/FE-1782"
-created: 2025-11-03
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- dtutil-mobile
+- error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1782
+created: '2025-11-03'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'FE-1782: Enhance Dtutil2 support run on Win11'
 ---
-
 # FE-1782: Enhance Dtutil2 support run on Win11
 
 ## 問題描述

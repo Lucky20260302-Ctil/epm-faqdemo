@@ -1,20 +1,29 @@
 ---
 project: BE
-title: "BE-727: Implement multiple File Handler for Lands Data import service"
 issue_key: BE-727
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0), data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-727"
-created: 2023-03-06
-resolved: 2024-04-27
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-727
+created: '2023-03-06'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-727: Implement multiple File Handler for Lands Data import service'
 ---
-
 # BE-727: Implement multiple File Handler for Lands Data import service
 
 ## 問題描述

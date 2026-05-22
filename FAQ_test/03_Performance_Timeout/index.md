@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "效能與超時 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 03_performance_timeout
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: stub
+title: 效能與超時 — FAQ 索引
 ---
-
 # 效能與超時
 
 > 自動生成索引 · 252 篇 FAQ

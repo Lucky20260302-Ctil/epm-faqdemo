@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1188: BASH - Create DotNet Print CR Library"
 issue_key: FE-1188
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1188"
-created: 2022-12-06
-resolved: 2022-12-16
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1188
+created: '2022-12-06'
+resolved: '2022-12-16'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-1188: BASH - Create DotNet Print CR Library'
 ---
-
 # FE-1188: BASH - Create DotNet Print CR Library
 
 ## 問題描述

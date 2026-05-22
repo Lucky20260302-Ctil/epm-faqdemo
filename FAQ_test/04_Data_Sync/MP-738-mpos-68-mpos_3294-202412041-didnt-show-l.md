@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-738: [MPOS-68] MPOS_3.29.4-20241204.1 Didn't show Line bind indicator(For JP Region)"
 issue_key: MP-738
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-738"
-created: 2024-12-13
-resolved: 2025-06-05
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-738
+created: '2024-12-13'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-738: [MPOS-68] MPOS_3.29.4-20241204.1 Didn''t show Line bind indicator(For JP Region)'
 ---
-
 # MP-738: [MPOS-68] MPOS_3.29.4-20241204.1 Didn't show Line bind indicator(For JP Region)
 
 ## 問題描述

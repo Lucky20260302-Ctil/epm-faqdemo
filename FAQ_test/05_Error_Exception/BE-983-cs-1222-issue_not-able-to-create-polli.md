@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-983: [CS-1222] - Issue_Not able to Create Polling Point on AWS from Citrix INC2729069/RIN01412759"
 issue_key: BE-983
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, polling]
-jira_url: "https://ctil.atlassian.net/browse/BE-983"
-created: 2025-01-14
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- polling
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-983
+created: '2025-01-14'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-983: [CS-1222] - Issue_Not able to Create Polling Point on AWS from Citrix INC2729069/RIN01412759'
 ---
-
 # BE-983: [CS-1222] - Issue_Not able to Create Polling Point on AWS from Citrix INC2729069/RIN01412759
 
 ## 問題描述

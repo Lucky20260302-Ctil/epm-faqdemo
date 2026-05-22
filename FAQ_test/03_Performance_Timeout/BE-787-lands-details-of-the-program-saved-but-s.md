@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-787: [Lands] Details of the program saved but still pop up Discard Changes after click Back button"
 issue_key: BE-787
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-787"
-created: 2023-08-14
-resolved: 2023-08-31
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-787
+created: '2023-08-14'
+resolved: '2023-08-31'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-787: [Lands] Details of the program saved but still pop up Discard Changes after click Back button'
 ---
-
 # BE-787: [Lands] Details of the program saved but still pop up Discard Changes after click Back button
 
 ## 問題描述

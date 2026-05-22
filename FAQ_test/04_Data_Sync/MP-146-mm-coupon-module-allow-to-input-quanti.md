@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-146: MM Coupon Module - Allow to input quantity of the MM coupon"
 issue_key: MP-146
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-146"
-created: 2020-04-23
-resolved: 2020-05-07
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-146
+created: '2020-04-23'
+resolved: '2020-05-07'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-146: MM Coupon Module - Allow to input quantity of the MM coupon'
 ---
-
 # MP-146: MM Coupon Module - Allow to input quantity of the MM coupon
 
 ## 問題描述

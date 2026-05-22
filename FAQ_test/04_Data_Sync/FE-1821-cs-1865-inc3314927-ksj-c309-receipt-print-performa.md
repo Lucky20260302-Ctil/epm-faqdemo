@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1821"
-issue_type: "Bug PRD"
-status: "DEV Done"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1821"
-created: "2025-11-28"
-resolved: ""
-fix_version: ""
-components: [Day End]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1821
+issue_type: Bug PRD
+status: DEV Done
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1821
+created: '2025-11-28'
+resolved: ''
+fix_version: ''
+components:
+- Day End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1821: INC3314927 KSJ C309 Receipt Print performance issue
 
 | 問題

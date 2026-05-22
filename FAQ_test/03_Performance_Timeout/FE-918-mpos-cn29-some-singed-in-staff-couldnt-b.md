@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-918: MPOS-CN#29: Some singed in staff couldn't be found on MPOS"
 issue_key: FE-918
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-918"
-created: 2021-02-09
-resolved: 2021-03-01
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-918
+created: '2021-02-09'
+resolved: '2021-03-01'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-918: MPOS-CN#29: Some singed in staff couldn''t be found on MPOS'
 ---
-
 # FE-918: MPOS-CN#29: Some singed in staff couldn't be found on MPOS
 
 ## 問題描述

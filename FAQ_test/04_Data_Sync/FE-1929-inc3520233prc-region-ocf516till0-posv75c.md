@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1929: [INC3520233]PRC region OCF516till0 POSv75,cs2kconnect can't generate acp file in time."
 issue_key: FE-1929
 issue_type: Bug DEV
 status: Open
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, cs2kconnect]
-jira_url: "https://ctil.atlassian.net/browse/FE-1929"
-created: 2026-04-16
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- cs2kconnect
+- data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1929
+created: '2026-04-16'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1929: [INC3520233]PRC region OCF516till0 POSv75,cs2kconnect can''t generate acp file in time.'
 ---
-
 # FE-1929: [INC3520233]PRC region OCF516till0 POSv75,cs2kconnect can't generate acp file in time.
 
 ## 問題描述

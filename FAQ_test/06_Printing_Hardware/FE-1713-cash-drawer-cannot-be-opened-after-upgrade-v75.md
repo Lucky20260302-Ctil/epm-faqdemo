@@ -1,17 +1,28 @@
 ---
 project: ERM FEPOS
-title: "FE-1713: [CS-1454] Cash drawer can not be opened after upgrade to V75 - MC region"
 issue_key: FE-1713
 issue_type: Bug PRD
 status: Closed
-tags: [faq, erm_fepos]
-jira_url: "https://ctil.atlassian.net/browse/FE-1713"
-created: 2025-06-11
-resolved: 2025-07-11
-fix_version: "FE-75.004.1303.0002"
-components: [Front End]
+tags:
+- 06_printing_hardware
+- erm fepos
+- erm_fepos
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1713
+created: '2025-06-11'
+resolved: '2025-07-11'
+fix_version: FE-75.004.1303.0002
+components:
+- Front End
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: complete
+title: 'FE-1713: [CS-1454] Cash drawer can not be opened after upgrade to V75 - MC region'
 ---
-
 # FE-1713: [CS-1454] Cash drawer can not be opened after upgrade to V75 - MC region
 
 ## 問題

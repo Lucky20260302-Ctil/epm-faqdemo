@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-383: [ACU-81] Birthday is not set as null for 1900/2999-1-1 member"
 issue_key: WEB-383
 issue_type: Change Request
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, beapicrm]
-jira_url: "https://ctil.atlassian.net/browse/WEB-383"
-created: 2025-01-15
-resolved: 2025-07-23
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- beapicrm
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-383
+created: '2025-01-15'
+resolved: '2025-07-23'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-383: [ACU-81] Birthday is not set as null for 1900/2999-1-1 member'
 ---
-
 # WEB-383: [ACU-81] Birthday is not set as null for 1900/2999-1-1 member
 
 ## 問題描述

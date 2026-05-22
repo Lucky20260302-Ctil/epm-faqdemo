@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1261: Price Checker API - New Configuration to handle on-sales validation in Full Date mode"
 issue_key: BE-1261
 issue_type: Bug PRD
 status: Test in Progress
-faq_score: 8.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1261"
-created: 2026-05-04
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- api
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1261
+created: '2026-05-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1261: Price Checker API - New Configuration to handle on-sales validation in Full Date mode'
 ---
-
 # BE-1261: Price Checker API - New Configuration to handle on-sales validation in Full Date mode
 
 ## 問題描述

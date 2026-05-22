@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-279: RC1000 cannot refresh PO list"
 issue_key: WEB-279
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-279"
-created: 2023-03-24
-resolved: 2023-04-06
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-279
+created: '2023-03-24'
+resolved: '2023-04-06'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-279: RC1000 cannot refresh PO list'
 ---
-
 # WEB-279: RC1000 cannot refresh PO list 
 
 ## 問題描述

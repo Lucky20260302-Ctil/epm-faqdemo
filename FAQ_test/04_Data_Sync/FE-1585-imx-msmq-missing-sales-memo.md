@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1585: IMX MSMQ missing sales memo"
 issue_key: FE-1585
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, msmq]
-jira_url: "https://ctil.atlassian.net/browse/FE-1585"
-created: 2024-12-16
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- msmq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1585
+created: '2024-12-16'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1585: IMX MSMQ missing sales memo'
 ---
-
 # FE-1585: IMX MSMQ missing sales memo
 
 ## 問題描述

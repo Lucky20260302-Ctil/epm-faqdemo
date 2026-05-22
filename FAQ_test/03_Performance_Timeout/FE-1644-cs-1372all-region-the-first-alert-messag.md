@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1644: [CS-1372]All region The ‘First Alert Message’ will be changed after resaved"
 issue_key: FE-1644
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1644"
-created: 2025-03-07
-resolved: 2025-07-04
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1644
+created: '2025-03-07'
+resolved: '2025-07-04'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1644: [CS-1372]All region The ‘First Alert Message’ will be changed after resaved'
 ---
-
 # FE-1644: [CS-1372]All region The ‘First Alert Message’ will be changed after resaved
 
 ## 問題描述

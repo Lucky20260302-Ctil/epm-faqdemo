@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-107: FR-RTR-107: Addendum"
-tags: [epro, EPRO_TenderStage]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_tenderstage
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-107: FR-RTR-107: Addendum'
 ---
-
 # FR-RTR-107: FR-RTR-107: Addendum
 
 ## 需求描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-332: Enhanced UI for iPhoneSE/iPod Size"
 issue_key: MP-332
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-332"
-created: 2020-11-24
-resolved: 2020-12-17
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-332
+created: '2020-11-24'
+resolved: '2020-12-17'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'MP-332: Enhanced UI for iPhoneSE/iPod Size'
 ---
-
 # MP-332: Enhanced UI for iPhoneSE/iPod Size
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1930: [CS-2632]How to enable Signout button in CS2000 POS FE"
 issue_key: FE-1930
 issue_type: Bug PRD
 status: DEV Done
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1930"
-created: 2026-04-16
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1930
+created: '2026-04-16'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1930: [CS-2632]How to enable Signout button in CS2000 POS FE'
 ---
-
 # FE-1930: [CS-2632]How to enable Signout button in CS2000 POS FE
 
 ## 問題描述

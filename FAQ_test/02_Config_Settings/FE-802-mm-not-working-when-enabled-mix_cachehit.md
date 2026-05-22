@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-802: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition"
 issue_key: FE-802
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-802"
-created: 2020-09-23
-resolved: 2020-11-23
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-802
+created: '2020-09-23'
+resolved: '2020-11-23'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-802: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition'
 ---
-
 # FE-802: MM not working when enabled MIX_CACHEHITITEM=Y with the same product condition 
 
 ## 問題描述

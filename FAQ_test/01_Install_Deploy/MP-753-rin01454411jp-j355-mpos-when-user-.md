@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-753: [RIN01454411]JP - J355  - Mpos : when user enter sales staff/cashier information, the mpos always keep loading"
 issue_key: MP-753
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-753"
-created: 2025-03-04
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-753
+created: '2025-03-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-753: [RIN01454411]JP - J355  - Mpos : when user enter sales staff/cashier information, the mpos always keep loading'
 ---
-
 # MP-753: [RIN01454411]JP - J355  - Mpos : when user enter sales staff/cashier information, the mpos always keep loading
 
 ## 問題描述

@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1713"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1713"
-created: "2025-06-11"
-resolved: "2025-07-11"
-fix_version: "FE-75.004.1303.0002"
-components: [Front End]
-category: "01_Install_Deploy"
+project: FE
+issue_key: FE-1713
+issue_type: Bug PRD
+status: Closed
+tags:
+- 01_install_deploy
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1713
+created: '2025-06-11'
+resolved: '2025-07-11'
+fix_version: FE-75.004.1303.0002
+components:
+- Front End
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-307: Log Enhancement"
 issue_key: MP-307
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-307"
-created: 2020-11-10
-resolved: 2021-07-20
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos-api
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-307
+created: '2020-11-10'
+resolved: '2021-07-20'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-307: Log Enhancement'
 ---
-
 # MP-307: Log Enhancement
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1047: 20250408 After setting the schedule task, the program cannot start itself and can only start manually"
 issue_key: BE-1047
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1047"
-created: 2025-04-08
-resolved: 2025-09-08
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- be
+- data-interface
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1047
+created: '2025-04-08'
+resolved: '2025-09-08'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'BE-1047: 20250408 After setting the schedule task, the program cannot start itself and can only start manually'
 ---
-
 # BE-1047: 20250408 After setting the schedule task, the program cannot start itself and can only start manually
 
 ## 問題描述

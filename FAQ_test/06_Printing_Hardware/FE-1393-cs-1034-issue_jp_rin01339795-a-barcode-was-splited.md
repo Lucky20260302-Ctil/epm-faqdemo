@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1393"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1393"
-created: "2024-05-17"
-resolved: "2024-05-24"
-fix_version: "v750.04R04A"
-components: [Front End]
-category: "06_Printing_Hardware"
+project: FE
+issue_key: FE-1393
+issue_type: Bug PRD
+status: Closed
+tags:
+- 06_printing_hardware
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1393
+created: '2024-05-17'
+resolved: '2024-05-24'
+fix_version: v750.04R04A
+components:
+- Front End
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
 ---
-
 FE-1393: Issue_JP_RIN01339795 A barcode was splited up when printed out.
 
 | 問題

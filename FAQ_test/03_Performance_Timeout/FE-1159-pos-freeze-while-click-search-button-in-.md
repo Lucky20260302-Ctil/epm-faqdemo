@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1159: POS freeze while click Search button in Enquiry - Return Voucher in 800x600 resolution"
 issue_key: FE-1159
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1159"
-created: 2022-10-11
-resolved: 2023-11-16
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1159
+created: '2022-10-11'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1159: POS freeze while click Search button in Enquiry - Return Voucher in 800x600 resolution'
 ---
-
 # FE-1159: POS freeze while click Search button in Enquiry - Return Voucher in 800x600 resolution
 
 ## 問題描述

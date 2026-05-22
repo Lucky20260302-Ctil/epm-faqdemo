@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-344: eName Capture Screen Color Change"
 issue_key: WEB-344
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-344"
-created: 2024-05-20
-resolved: 2024-08-27
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- ename
+- faq
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-344
+created: '2024-05-20'
+resolved: '2024-08-27'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'WEB-344: eName Capture Screen Color Change'
 ---
-
 # WEB-344: eName Capture Screen Color Change
 
 ## 問題描述

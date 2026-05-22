@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1252: Reeceipt paid by Cheque dislpayed Auth. Code instead of Bank Code"
 issue_key: FE-1252
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v760.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1252"
-created: 2023-06-02
-resolved: 2023-06-05
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v760.02
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1252
+created: '2023-06-02'
+resolved: '2023-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1252: Reeceipt paid by Cheque dislpayed Auth. Code instead of Bank Code'
 ---
-
 # FE-1252: Reeceipt paid by Cheque dislpayed Auth. Code instead of Bank Code
 
 ## 問題描述

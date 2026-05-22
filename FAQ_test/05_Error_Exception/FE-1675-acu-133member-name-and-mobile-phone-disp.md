@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1675: [ACU-133]Member name and mobile phone display without mask while searching CN member by QR code scanning on HK POS"
 issue_key: FE-1675
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1675"
-created: 2025-04-22
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1675
+created: '2025-04-22'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1675: [ACU-133]Member name and mobile phone display without mask while searching CN member by QR code scanning on HK POS'
 ---
-
 # FE-1675: [ACU-133]Member name and mobile phone display without mask while searching CN member by QR code scanning on HK POS
 
 ## 問題描述

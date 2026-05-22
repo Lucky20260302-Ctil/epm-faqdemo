@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-938"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-938"
-created: "2021-03-19"
-resolved: "2022-08-18"
-fix_version: "v720.01R03A"
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-938
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-938
+created: '2021-03-19'
+resolved: '2022-08-18'
+fix_version: v720.01R03A
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-938: Price Modification cannot is applied into item with negative quantity (sales return)
 
 | 問題

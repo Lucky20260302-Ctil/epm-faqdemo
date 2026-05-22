@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-233: Discount creation cannot be updated in CS2K BE"
 issue_key: WEB-233
 issue_type: Bug PRD
 status: Closed
-faq_score: 8.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, epromo]
-jira_url: "https://ctil.atlassian.net/browse/WEB-233"
-created: 2022-06-15
-resolved: 2022-06-28
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- epromo
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-233
+created: '2022-06-15'
+resolved: '2022-06-28'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-233: Discount creation cannot be updated in CS2K BE'
 ---
-
 # WEB-233: Discount creation cannot be updated in CS2K BE
 
 ## 問題描述

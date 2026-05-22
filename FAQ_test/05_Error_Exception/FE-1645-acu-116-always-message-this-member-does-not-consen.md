@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1645"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1645"
-created: "2025-03-10"
-resolved: "2025-03-21"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1645
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1645
+created: '2025-03-10'
+resolved: '2025-03-21'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1645: Always message 'This member does not consent to enquire out of border' while searching CN member which is existing in HK
 
 | 問題

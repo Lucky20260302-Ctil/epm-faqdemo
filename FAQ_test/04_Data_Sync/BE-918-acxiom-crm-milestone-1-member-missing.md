@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-918: [ACXIOM CRM] Milestone 1 - Member Missing"
 issue_key: BE-918
 issue_type: Change Request
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-918"
-created: 2024-10-16
-resolved: 2024-10-16
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-918
+created: '2024-10-16'
+resolved: '2024-10-16'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-918: [ACXIOM CRM] Milestone 1 - Member Missing'
 ---
-
 # BE-918: [ACXIOM CRM] Milestone 1 - Member Missing
 
 ## 問題描述

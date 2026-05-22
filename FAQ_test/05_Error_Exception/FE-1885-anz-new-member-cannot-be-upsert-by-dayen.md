@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1885: [ANZ] New Member cannot be upsert by Dayend or transaction"
 issue_key: FE-1885
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, day-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1885"
-created: 2026-02-11
-resolved: 2026-05-05
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- day-end
+- error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1885
+created: '2026-02-11'
+resolved: '2026-05-05'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1885: [ANZ] New Member cannot be upsert by Dayend or transaction'
 ---
-
 # FE-1885: [ANZ] New Member cannot be upsert by Dayend or transaction
 
 ## 問題描述

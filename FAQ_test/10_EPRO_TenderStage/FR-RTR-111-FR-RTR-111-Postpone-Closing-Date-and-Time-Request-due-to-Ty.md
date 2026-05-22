@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-111: FR-RTR-111: Postpone Closing Date and Time Request due to Typhoon Signal No. 8 or above or Black Rai"
-tags: [epro, EPRO_TenderStage]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_tenderstage
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-111: FR-RTR-111: Postpone Closing Date and Time Request due to Typhoon Signal No. 8 or above or Black Rai'
 ---
-
 # FR-RTR-111: FR-RTR-111: Postpone Closing Date and Time Request due to Typhoon Signal No. 8 or above or Black Rainstorm Warning
 
 ## 需求描述

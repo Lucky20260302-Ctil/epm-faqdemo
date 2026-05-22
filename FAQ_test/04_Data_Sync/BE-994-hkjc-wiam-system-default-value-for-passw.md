@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-994: HKJC WIAM System Default value for Password Min. Length and Expiry Period"
 issue_key: BE-994
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-994"
-created: 2025-01-24
-resolved: 2025-02-07
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-994
+created: '2025-01-24'
+resolved: '2025-02-07'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-994: HKJC WIAM System Default value for Password Min. Length and Expiry Period'
 ---
-
 # BE-994: HKJC WIAM System Default value for Password Min. Length and Expiry Period
 
 ## 問題描述

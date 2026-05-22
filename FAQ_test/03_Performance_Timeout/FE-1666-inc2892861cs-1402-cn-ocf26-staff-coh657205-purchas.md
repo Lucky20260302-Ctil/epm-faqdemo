@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1666"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1666"
-created: "2025-04-03"
-resolved: ""
-fix_version: ""
-components: [Front End]
-category: "03_Performance_Timeout"
+project: FE
+issue_key: FE-1666
+issue_type: Bug PRD
+status: Closed
+tags:
+- 03_performance_timeout
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1666
+created: '2025-04-03'
+resolved: ''
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
 ---
-
 FE-1666: CN OCF26 staff COH657205  purchase balance issue
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-832: Gift Receipt Errors"
 issue_key: FE-832
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, gift-receipt]
-jira_url: "https://ctil.atlassian.net/browse/FE-832"
-created: 2020-11-12
-resolved: 2022-06-15
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- gift-receipt
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-832
+created: '2020-11-12'
+resolved: '2022-06-15'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-832: Gift Receipt Errors'
 ---
-
 # FE-832: Gift Receipt Errors
 
 ## 問題描述

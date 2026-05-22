@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1117"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1117"
-created: "2022-05-18"
-resolved: "2022-05-31"
-fix_version: "V720.02R16E"
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1117
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1117
+created: '2022-05-18'
+resolved: '2022-05-31'
+fix_version: V720.02R16E
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1117: INC1765584 Tax amount in C364 is wrong on 4/6, 4/9, 4/10, 4/11.4/12
 
 | 問題

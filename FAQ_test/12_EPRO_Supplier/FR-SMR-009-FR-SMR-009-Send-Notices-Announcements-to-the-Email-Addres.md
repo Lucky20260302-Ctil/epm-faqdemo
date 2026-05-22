@@ -1,8 +1,26 @@
 ---
-title: "FR-SMR-009: FR-SMR-009: Send Notices / Announcements to the Email Addresses of all / selected Registered Supplie"
-tags: [epro, EPRO_Supplier]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_supplier
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-SMR-009: FR-SMR-009: Send Notices / Announcements to the Email Addresses of all / selected Registered Supplie'
 ---
-
 # FR-SMR-009: FR-SMR-009: Send Notices / Announcements to the Email Addresses of all / selected Registered Suppliers when necessary
 
 ## 需求描述

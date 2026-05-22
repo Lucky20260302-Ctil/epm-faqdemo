@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-345: [CS-1005] issue_ Information is not correct in memberson interface"
 issue_key: WEB-345
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, beapi]
-jira_url: "https://ctil.atlassian.net/browse/WEB-345"
-created: 2024-05-22
-resolved: 2024-06-14
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- beapi
+- data_sync
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-345
+created: '2024-05-22'
+resolved: '2024-06-14'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'WEB-345: [CS-1005] issue_ Information is not correct in memberson interface'
 ---
-
 # WEB-345: [CS-1005] issue_ Information is not correct in memberson interface
 
 ## 問題描述

@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-3300
-tags: [faq, epm, epmtdcprot, 05-error-exception]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-3300"
+issue_type: ''
+status: ''
+tags:
+- 05-error-exception
+- 05_error_exception
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-3300
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 05_Error_Exception
-category_name: "錯誤與異常"
+category_label: 報錯與異常
+quality: partial
 ---
-
 EPMTDCPROT-3300: EPRO-890 - [Production] Wrong message prompted on Activation page when press 'Enter' instead of mouse click 'Next'
 
 | 問題

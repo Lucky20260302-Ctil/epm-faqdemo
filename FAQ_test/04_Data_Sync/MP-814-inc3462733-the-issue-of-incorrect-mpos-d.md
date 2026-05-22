@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-814: [INC3462733] The issue of incorrect MPOS date on MPOS memo"
 issue_key: MP-814
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-814"
-created: 2026-02-27
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-814
+created: '2026-02-27'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-814: [INC3462733] The issue of incorrect MPOS date on MPOS memo'
 ---
-
 # MP-814: [INC3462733] The issue of incorrect MPOS date on MPOS memo
 
 ## 問題描述

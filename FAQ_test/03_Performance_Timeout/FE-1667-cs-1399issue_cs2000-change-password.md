@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1667: [CS-1399]Issue_CS2000 change password"
 issue_key: FE-1667
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1667"
-created: 2025-04-09
-resolved: 2025-09-30
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end-v750.01r01a
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1667
+created: '2025-04-09'
+resolved: '2025-09-30'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1667: [CS-1399]Issue_CS2000 change password'
 ---
-
 # FE-1667: [CS-1399]Issue_CS2000 change password
 
 ## 問題描述

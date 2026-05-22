@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-213: FR-RTR-213: Export of the prescribed Letter of Acceptance (LOA) for the Awarded Suppliers before the"
-tags: [epro, EPRO_PostTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_posttender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-213: FR-RTR-213: Export of the prescribed Letter of Acceptance (LOA) for the Awarded Suppliers before the'
 ---
-
 # FR-RTR-213: FR-RTR-213: Export of the prescribed Letter of Acceptance (LOA) for the Awarded Suppliers before the PO
 
 ## 需求描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-720: Fail to print invoice and delivery note in records with invoice generate status in Online Order Delivery Information (OR0005)"
 issue_key: BE-720
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-720"
-created: 2023-02-23
-resolved: 2023-11-16
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- backend-(web)
+- be
+- faq
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-720
+created: '2023-02-23'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-720: Fail to print invoice and delivery note in records with invoice generate status in Online Order Delivery Information (OR0005)'
 ---
-
 # BE-720: Fail to print invoice and delivery note in records with invoice generate status in Online Order Delivery Information (OR0005)
 
 ## 問題描述

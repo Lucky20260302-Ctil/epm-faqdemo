@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-754"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-754"
-created: "2025-03-05"
-resolved: "2025-10-09"
-fix_version: ""
-components: [MPOS]
-category: "02_Config_Settings"
+project: MP
+issue_key: MP-754
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-754
+created: '2025-03-05'
+resolved: '2025-10-09'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 MP-754: MPOS 3.29.5 - JP Local IIS, invalid pop-up window for Void function
 
 | 問題

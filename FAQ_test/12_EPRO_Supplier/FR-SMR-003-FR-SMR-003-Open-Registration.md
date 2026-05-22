@@ -1,8 +1,26 @@
 ---
-title: "FR-SMR-003: FR-SMR-003: Open Registration"
-tags: [epro, EPRO_Supplier]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_supplier
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-SMR-003: FR-SMR-003: Open Registration'
 ---
-
 # FR-SMR-003: FR-SMR-003: Open Registration
 
 ## 需求描述

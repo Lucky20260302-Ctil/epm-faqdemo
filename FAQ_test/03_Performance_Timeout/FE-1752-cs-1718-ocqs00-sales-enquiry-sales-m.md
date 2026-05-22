@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1752: [CS-1718] OCQS00 - Sales Enquiry - Sales Memo - Consolidation Issue"
 issue_key: FE-1752
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, enquiry]
-jira_url: "https://ctil.atlassian.net/browse/FE-1752"
-created: 2025-09-18
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- enquiry
+- faq
+- fe
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1752
+created: '2025-09-18'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1752: [CS-1718] OCQS00 - Sales Enquiry - Sales Memo - Consolidation Issue'
 ---
-
 # FE-1752: [CS-1718] OCQS00 - Sales Enquiry - Sales Memo - Consolidation Issue
 
 ## 問題描述

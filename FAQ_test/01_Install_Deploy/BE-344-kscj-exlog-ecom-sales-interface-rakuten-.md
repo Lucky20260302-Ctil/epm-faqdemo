@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-344: KS/CJ EXLOG eCom Sales Interface (Rakuten) - V66 package"
 issue_key: BE-344
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-344"
-created: 2020-11-26
-resolved: 2020-11-26
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- backend-(v66)
+- be
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-344
+created: '2020-11-26'
+resolved: '2020-11-26'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-344: KS/CJ EXLOG eCom Sales Interface (Rakuten) - V66 package'
 ---
-
 # BE-344: KS/CJ EXLOG eCom Sales Interface (Rakuten) - V66 package
 
 ## 問題描述

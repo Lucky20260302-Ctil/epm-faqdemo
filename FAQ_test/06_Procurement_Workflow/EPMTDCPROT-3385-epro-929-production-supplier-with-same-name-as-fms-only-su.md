@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-3385
-tags: [faq, epm, epmtdcprot, 06-procurement-workflow]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-3385"
+issue_type: ''
+status: ''
+tags:
+- 06-procurement-workflow
+- 06_procurement_workflow
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-3385
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 06_Procurement_Workflow
-category_name: "採購流程"
+category_label: 採購流程
+quality: partial
 ---
-
 EPMTDCPROT-3385: EPRO-929 [Production] Supplier with same name as FMS Only Supplier can be selected in Full Registration Invitation
 
 | 問題

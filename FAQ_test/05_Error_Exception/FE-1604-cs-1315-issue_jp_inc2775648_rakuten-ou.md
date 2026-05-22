@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1604: [CS-1315] - Issue_JP_INC2775648_Rakuten outlet J148 - CS2000 failed import transaction on 12/19"
 issue_key: FE-1604
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, interface]
-jira_url: "https://ctil.atlassian.net/browse/FE-1604"
-created: 2025-01-10
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- interface
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1604
+created: '2025-01-10'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1604: [CS-1315] - Issue_JP_INC2775648_Rakuten outlet J148 - CS2000 failed import transaction on 12/19'
 ---
-
 # FE-1604: [CS-1315] - Issue_JP_INC2775648_Rakuten outlet J148 - CS2000 failed import transaction on 12/19
 
 ## 問題描述

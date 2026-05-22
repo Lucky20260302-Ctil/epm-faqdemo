@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-499: mPOS doesn't restart (POS day end with mPOS idle)"
 issue_key: MP-499
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-499"
-created: 2021-09-02
-resolved: 2021-09-21
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-499
+created: '2021-09-02'
+resolved: '2021-09-21'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-499: mPOS doesn''t restart (POS day end with mPOS idle)'
 ---
-
 # MP-499: mPOS doesn't restart (POS day end with mPOS idle)
 
 ## 問題描述

@@ -1,17 +1,27 @@
 ---
-project: eName
-title: "WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need"
+project: ENAME
 issue_key: WEB-404
 issue_type: Bug QA
 status: Closed
-tags: [faq, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-404"
-created: 2025-08-07
-resolved: 2025-08-07
-fix_version: "BE-V70R3.114"
-components: [BEAPICRM]
+tags:
+- 07_workflow_business
+- ename
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/WEB-404
+created: '2025-08-07'
+resolved: '2025-08-07'
+fix_version: BE-V70R3.114
+components:
+- BEAPICRM
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: complete
+title: 'WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need'
 ---
-
 # WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need
 
 ## 問題

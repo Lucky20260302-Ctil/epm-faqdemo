@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1933: [CS-2413] Issue_PRC_INC3527055_Posting  OSS_A/ OSS_B/ OSS_C file time delay"
 issue_key: FE-1933
 issue_type: Task
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1933"
-created: 2026-04-17
-resolved: 2026-04-17
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1933
+created: '2026-04-17'
+resolved: '2026-04-17'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1933: [CS-2413] Issue_PRC_INC3527055_Posting  OSS_A/ OSS_B/ OSS_C file time delay'
 ---
-
 # FE-1933: [CS-2413] Issue_PRC_INC3527055_Posting  OSS_A/ OSS_B/ OSS_C file time delay
 
 ## 問題描述

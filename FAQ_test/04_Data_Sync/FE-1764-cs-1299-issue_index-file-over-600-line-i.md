@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1764: [CS-1299] Issue_Index file over 600 line in DT900 folder will not able to transfer to DT970 scanner RIN01422836"
 issue_key: FE-1764
 issue_type: Bug PRD
 status: Open
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, dt900]
-jira_url: "https://ctil.atlassian.net/browse/FE-1764"
-created: 2025-10-02
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- dt900
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1764
+created: '2025-10-02'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1764: [CS-1299] Issue_Index file over 600 line in DT900 folder will not able to transfer to DT970 scanner RIN01422836'
 ---
-
 # FE-1764: [CS-1299] Issue_Index file over 600 line in DT900 folder will not able to transfer to DT970 scanner RIN01422836
 
 ## 問題描述

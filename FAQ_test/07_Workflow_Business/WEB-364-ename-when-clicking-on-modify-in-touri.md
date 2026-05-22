@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-364: ename - when clicking on Modify in tourist registration, the page should return to tourist page"
 issue_key: WEB-364
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, web, workflow_business, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-364"
-created: 2024-09-30
-resolved: 2024-09-30
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- ename
+- faq
+- web
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-364
+created: '2024-09-30'
+resolved: '2024-09-30'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'WEB-364: ename - when clicking on Modify in tourist registration, the page should return to tourist page'
 ---
-
 # WEB-364: ename - when clicking on Modify in tourist registration, the page should return to tourist page
 
 ## 問題描述

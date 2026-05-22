@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-980"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-980"
-created: "2021-06-15"
-resolved: "2022-08-18"
-fix_version: ""
-components: [Frontend]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-980
+issue_type: Bug QA
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-980
+created: '2021-06-15'
+resolved: '2022-08-18'
+fix_version: ''
+components:
+- Frontend
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-980: CJ Loyalty - no Reminder eCoupon display
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1895: DTUTIL - Add a configuration to get the POS_API URL from DTUTIL.INI"
 issue_key: FE-1895
 issue_type: Improvement
 status: Selected for Development (migrated)
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, dtutil]
-jira_url: "https://ctil.atlassian.net/browse/FE-1895"
-created: 2026-03-04
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- dtutil
+- faq
+- fe
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1895
+created: '2026-03-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1895: DTUTIL - Add a configuration to get the POS_API URL from DTUTIL.INI'
 ---
-
 # FE-1895: DTUTIL - Add a configuration to get the POS_API URL from DTUTIL.INI
 
 ## 問題描述

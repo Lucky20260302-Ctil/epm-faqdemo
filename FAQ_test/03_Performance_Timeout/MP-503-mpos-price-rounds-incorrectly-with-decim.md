@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-503: MPOS price rounds incorrectly with decimal places"
 issue_key: MP-503
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, frontend]
-jira_url: "https://ctil.atlassian.net/browse/MP-503"
-created: 2021-09-23
-resolved: 2021-12-08
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- frontend
+- mp
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-503
+created: '2021-09-23'
+resolved: '2021-12-08'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-503: MPOS price rounds incorrectly with decimal places'
 ---
-
 # MP-503: MPOS price rounds incorrectly with decimal places
 
 ## 問題描述

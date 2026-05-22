@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-776: [MPOS-97] KSJ MPOS - v3.23.2-v1a - Unable to get just-registered vip info"
 issue_key: MP-776
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-776"
-created: 2025-05-23
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-776
+created: '2025-05-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-776: [MPOS-97] KSJ MPOS - v3.23.2-v1a - Unable to get just-registered vip info'
 ---
-
 # MP-776: [MPOS-97] KSJ MPOS - v3.23.2-v1a - Unable to get just-registered vip info
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-510: AQ-189 QA_MPOS:MPOS member enquiry return 'Record Not Found'"
 issue_key: MP-510
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-510"
-created: 2021-12-08
-resolved: 2021-12-08
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-510
+created: '2021-12-08'
+resolved: '2021-12-08'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-510: AQ-189 QA_MPOS:MPOS member enquiry return ''Record Not Found'''
 ---
-
 # MP-510: AQ-189 QA_MPOS:MPOS member enquiry return 'Record Not Found'
 
 ## 問題描述

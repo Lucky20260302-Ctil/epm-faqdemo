@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1687"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1687"
-created: "2025-05-08"
-resolved: ""
-fix_version: ""
-components: [API]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1687
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1687
+created: '2025-05-08'
+resolved: ''
+fix_version: ''
+components:
+- API
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1687: Coach Team request to removed the Email alert for the CRM return "ERROR|CDP-CUST-404|Customer not found"
 
 | 問題

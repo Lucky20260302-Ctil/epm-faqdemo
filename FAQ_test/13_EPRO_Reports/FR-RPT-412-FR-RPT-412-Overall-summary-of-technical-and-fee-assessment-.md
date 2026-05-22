@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-412: FR-RPT-412: Overall summary of technical and fee assessment with quotation summary and calculated co"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-412: FR-RPT-412: Overall summary of technical and fee assessment with quotation summary and calculated co'
 ---
-
 # FR-RPT-412: FR-RPT-412: Overall summary of technical and fee assessment with quotation summary and calculated combine score (for Two Envelope Approach)
 
 ## 需求描述

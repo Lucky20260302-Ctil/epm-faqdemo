@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-367: Sales Associate fail to remove + can save invalid/resigned staff"
 issue_key: MP-367
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-367"
-created: 2021-02-19
-resolved: 2021-02-22
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-367
+created: '2021-02-19'
+resolved: '2021-02-22'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-367: Sales Associate fail to remove + can save invalid/resigned staff'
 ---
-
 # MP-367: Sales Associate fail to remove + can save invalid/resigned staff
 
 ## 問題描述

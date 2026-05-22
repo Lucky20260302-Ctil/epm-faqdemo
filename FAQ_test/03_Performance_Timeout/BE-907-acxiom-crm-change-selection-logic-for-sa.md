@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-907: [ACXIOM CRM] Change selection logic for sales and sales reconsolidation"
 issue_key: BE-907
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-907"
-created: 2024-09-23
-resolved: 2024-09-23
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-907
+created: '2024-09-23'
+resolved: '2024-09-23'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-907: [ACXIOM CRM] Change selection logic for sales and sales reconsolidation'
 ---
-
 # BE-907: [ACXIOM CRM] Change selection logic for sales and sales reconsolidation
 
 ## 問題描述

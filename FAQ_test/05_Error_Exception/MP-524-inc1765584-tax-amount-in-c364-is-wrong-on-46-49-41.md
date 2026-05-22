@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-524"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-524"
-created: "2022-05-18"
-resolved: "2024-03-01"
-fix_version: "3.19"
-components: [MPOS API]
-category: "05_Error_Exception"
+project: MP
+issue_key: MP-524
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-524
+created: '2022-05-18'
+resolved: '2024-03-01'
+fix_version: '3.19'
+components:
+- MPOS API
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 MP-524: INC1765584 Tax amount in C364 is wrong on 4/6, 4/9, 4/10, 4/11.4/12
 
 | 問題

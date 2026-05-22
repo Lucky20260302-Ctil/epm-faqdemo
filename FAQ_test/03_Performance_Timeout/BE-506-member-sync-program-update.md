@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-506: member sync program update"
 issue_key: BE-506
 issue_type: Bug PRD
 status: Closed
-faq_score: 9.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-506"
-created: 2021-07-27
-resolved: 2021-07-27
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-506
+created: '2021-07-27'
+resolved: '2021-07-27'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-506: member sync program update'
 ---
-
 # BE-506: member sync program update
 
 ## 問題描述

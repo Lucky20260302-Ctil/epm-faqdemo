@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1529"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1529"
-created: "2024-10-18"
-resolved: "2024-10-19"
-fix_version: "V750.04R07A"
-components: [Front End]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1529
+issue_type: Bug QA
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1529
+created: '2024-10-18'
+resolved: '2024-10-19'
+fix_version: V750.04R07A
+components:
+- Front End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1529: Coach MY BDO FE - gift cert total amount calculation error
 
 | 問題

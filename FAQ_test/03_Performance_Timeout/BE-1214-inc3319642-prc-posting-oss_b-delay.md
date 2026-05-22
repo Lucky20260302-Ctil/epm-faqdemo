@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1214: [INC3319642] PRC Posting OSS_B delay"
 issue_key: BE-1214
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 9.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1214"
-created: 2025-11-27
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1214
+created: '2025-11-27'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1214: [INC3319642] PRC Posting OSS_B delay'
 ---
-
 # BE-1214: [INC3319642] PRC Posting OSS_B delay
 
 ## 問題描述

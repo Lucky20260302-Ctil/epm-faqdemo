@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1753: Upgrade JC BJ v720.01R05 to v75 - Window 11"
 issue_key: FE-1753
 issue_type: Bug PRD
 status: DEV Done
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1753"
-created: 2025-09-23
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1753
+created: '2025-09-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1753: Upgrade JC BJ v720.01R05 to v75 - Window 11'
 ---
-
 # FE-1753: Upgrade JC BJ v720.01R05 to v75 - Window 11
 
 ## 問題描述

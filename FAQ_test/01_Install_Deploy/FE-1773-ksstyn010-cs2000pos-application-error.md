@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1773: KSSTYN010 CS2000POS application error"
 issue_key: FE-1773
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1773"
-created: 2025-10-22
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1773
+created: '2025-10-22'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1773: KSSTYN010 CS2000POS application error'
 ---
-
 # FE-1773: KSSTYN010 CS2000POS application error
 
 ## 問題描述

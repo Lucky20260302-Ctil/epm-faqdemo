@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-762: KS SEA CRM Memberson CDP backend Sale journal schedule short period task"
 issue_key: BE-762
 issue_type: SOW
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-762"
-created: 2023-06-15
-resolved: 2023-07-27
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-762
+created: '2023-06-15'
+resolved: '2023-07-27'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-762: KS SEA CRM Memberson CDP backend Sale journal schedule short period task'
 ---
-
 # BE-762: KS SEA CRM Memberson CDP backend Sale journal schedule short period task
 
 ## 問題描述

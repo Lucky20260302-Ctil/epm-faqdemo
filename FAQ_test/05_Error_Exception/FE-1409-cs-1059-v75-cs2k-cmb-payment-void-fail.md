@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1409: [CS-1059] V75 - CS2K CMB Payment void failed"
 issue_key: FE-1409
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, payment]
-jira_url: "https://ctil.atlassian.net/browse/FE-1409"
-created: 2024-06-12
-resolved: 2024-08-02
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- payment
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1409
+created: '2024-06-12'
+resolved: '2024-08-02'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1409: [CS-1059] V75 - CS2K CMB Payment void failed'
 ---
-
 # FE-1409: [CS-1059] V75 - CS2K CMB Payment void failed
 
 ## 問題描述

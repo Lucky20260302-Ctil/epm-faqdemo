@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1287: [Lands] Add Trace No. into A4 size receipt print out"
 issue_key: FE-1287
 issue_type: Improvement
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1287"
-created: 2023-09-04
-resolved: 2023-11-16
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1287
+created: '2023-09-04'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1287: [Lands] Add Trace No. into A4 size receipt print out'
 ---
-
 # FE-1287: [Lands] Add Trace No. into A4 size receipt print out
 
 ## 問題描述

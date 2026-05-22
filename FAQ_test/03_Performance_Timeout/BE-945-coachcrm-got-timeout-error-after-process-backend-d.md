@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-945"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-945"
-created: "2024-11-15"
-resolved: "2024-11-18"
-fix_version: ""
-components: [Data Interface]
-category: "03_Performance_Timeout"
+project: BE
+issue_key: BE-945
+issue_type: Bug QA
+status: Closed
+tags:
+- 03_performance_timeout
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-945
+created: '2024-11-15'
+resolved: '2024-11-18'
+fix_version: ''
+components:
+- Data Interface
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
 ---
-
 BE-945:  Got timeout error after process Backend data sync
 
 | 問題

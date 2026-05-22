@@ -3,17 +3,25 @@ project: BE
 issue_key: BE-878
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-878"
-created: 2024-07-19
-resolved: 2024-08-22
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-878
+created: '2024-07-19'
+resolved: '2024-08-22'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 # BE-878: Location Grouping Control ：存在重复数据时，点击Validate按钮，两个提示语直接死循环
 
 > **類型:** Bug QA | **狀態:** Closed

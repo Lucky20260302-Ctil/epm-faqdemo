@@ -1,8 +1,26 @@
 ---
-title: "FR-GR-027: FR-GR-027: Offline and Online Submissions Feature"
-tags: [epro, EPRO_System]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_system
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-GR-027: FR-GR-027: Offline and Online Submissions Feature'
 ---
-
 # FR-GR-027: FR-GR-027: Offline and Online Submissions Feature
 
 ## 需求描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1953: IMX[LCX] gift redeem posting error Invoice page count out of sequence"
 issue_key: FE-1953
 issue_type: Task
 status: Open
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1953"
-created: 2026-05-18
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1953
+created: '2026-05-18'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1953: IMX[LCX] gift redeem posting error Invoice page count out of sequence'
 ---
-
 # FE-1953: IMX[LCX] gift redeem posting error Invoice page count out of sequence                                              
 
 ## 問題描述

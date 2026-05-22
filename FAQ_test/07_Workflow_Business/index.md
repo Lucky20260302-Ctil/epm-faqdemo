@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "業務流程 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 07_workflow_business
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 業務流程 — FAQ 索引
 ---
-
 # 業務流程
 
 > 自動生成索引 · 248 篇 FAQ

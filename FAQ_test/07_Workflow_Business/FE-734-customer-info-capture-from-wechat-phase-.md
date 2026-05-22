@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-734: Customer Info Capture from WeChat (Phase 1)"
 issue_key: FE-734
 issue_type: SOW
 status: Closed
-faq_score: 5.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, frontend, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-734"
-created: 2020-09-01
-resolved: 2020-10-15
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- frontend
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-734
+created: '2020-09-01'
+resolved: '2020-10-15'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-734: Customer Info Capture from WeChat (Phase 1)'
 ---
-
 # FE-734: Customer Info Capture from WeChat (Phase 1)
 
 ## 問題描述

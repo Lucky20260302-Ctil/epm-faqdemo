@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-722: PO Maintenance_Outstanding Quantity Mismatch"
 issue_key: BE-722
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-722"
-created: 2023-02-27
-resolved: 2023-03-02
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-722
+created: '2023-02-27'
+resolved: '2023-03-02'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-722: PO Maintenance_Outstanding Quantity Mismatch'
 ---
-
 # BE-722: PO Maintenance_Outstanding Quantity Mismatch
 
 ## 問題描述

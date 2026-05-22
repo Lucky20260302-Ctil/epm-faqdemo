@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-453: Change language cannot apply to menu"
 issue_key: MP-453
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-453"
-created: 2021-06-15
-resolved: 2022-08-16
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-453
+created: '2021-06-15'
+resolved: '2022-08-16'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-453: Change language cannot apply to menu'
 ---
-
 # MP-453: Change language cannot apply to menu 
 
 ## 問題描述

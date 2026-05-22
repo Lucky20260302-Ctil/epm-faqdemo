@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-985: Total amount duplicate when syncing memo OC65 - 20002034 to CN CRM side"
 issue_key: BE-985
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-985"
-created: 2025-01-15
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-985
+created: '2025-01-15'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-985: Total amount duplicate when syncing memo OC65 - 20002034 to CN CRM side'
 ---
-
 # BE-985: Total amount duplicate when syncing memo OC65 - 20002034 to CN CRM side
 
 ## 問題描述

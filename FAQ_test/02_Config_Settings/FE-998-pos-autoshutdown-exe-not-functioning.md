@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-998: POS AutoShutdown exe not functioning"
 issue_key: FE-998
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-998"
-created: 2021-07-21
-resolved: 2022-08-01
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-998
+created: '2021-07-21'
+resolved: '2022-08-01'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-998: POS AutoShutdown exe not functioning'
 ---
-
 # FE-998: POS AutoShutdown exe not functioning
 
 ## 問題描述

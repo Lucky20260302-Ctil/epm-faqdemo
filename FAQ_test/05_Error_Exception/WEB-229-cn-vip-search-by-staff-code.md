@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-229: CN VIP search by staff code"
 issue_key: WEB-229
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, beapi]
-jira_url: "https://ctil.atlassian.net/browse/WEB-229"
-created: 2022-06-13
-resolved: 2022-06-23
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- beapi
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-229
+created: '2022-06-13'
+resolved: '2022-06-23'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-229: CN VIP search by staff code'
 ---
-
 # WEB-229: CN VIP search by staff code
 
 ## 問題描述

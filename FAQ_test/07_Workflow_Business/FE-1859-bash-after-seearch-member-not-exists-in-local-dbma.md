@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1859"
-issue_type: "Bug PRD"
-status: "Open"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1859"
-created: "2026-01-23"
-resolved: ""
-fix_version: ""
-components: [Front End]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-1859
+issue_type: Bug PRD
+status: Open
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1859
+created: '2026-01-23'
+resolved: ''
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-1859: After seearch member (Not exists in local DBMas) by BEDB connection (CS2000) cannot applied
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-324: SOW of KS SEA CRM CDP Integration (Memberson)"
 issue_key: WEB-324
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/WEB-324"
-created: 2023-06-21
-resolved: 2023-07-27
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- data_sync
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-324
+created: '2023-06-21'
+resolved: '2023-07-27'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'WEB-324: SOW of KS SEA CRM CDP Integration (Memberson)'
 ---
-
 # WEB-324: SOW of KS SEA CRM CDP Integration (Memberson)
 
 ## 問題描述

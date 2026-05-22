@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-678
-tags: [faq, epm, epmtdcprot, 07-other]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-678"
+issue_type: ''
+status: ''
+tags:
+- 07-other
+- 07_other
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-678
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 07_Other
-category_name: "其他"
+category_label: 其他
+quality: partial
 ---
-
 EPMTDCPROT-678: 
 
 | 問題

@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1237"
-issue_type: "Bug PRD"
-status: "Open"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1237"
-created: "2026-03-20"
-resolved: ""
-fix_version: ""
-components: [Table]
-category: "07_Workflow_Business"
+project: BE
+issue_key: BE-1237
+issue_type: Bug PRD
+status: Open
+tags:
+- 07_workflow_business
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1237
+created: '2026-03-20'
+resolved: ''
+fix_version: ''
+components:
+- Table
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 BE-1237: CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines
 
 | 問題

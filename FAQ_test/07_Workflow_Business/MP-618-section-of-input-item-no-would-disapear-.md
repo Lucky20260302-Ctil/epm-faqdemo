@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-618: Section of input item no. would disapear after delete the 6th added item"
 issue_key: MP-618
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-618"
-created: 2022-12-19
-resolved: 2023-06-27
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-618
+created: '2022-12-19'
+resolved: '2023-06-27'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-618: Section of input item no. would disapear after delete the 6th added item'
 ---
-
 # MP-618: Section of input item no. would disapear after delete the 6th added item
 
 ## 問題描述

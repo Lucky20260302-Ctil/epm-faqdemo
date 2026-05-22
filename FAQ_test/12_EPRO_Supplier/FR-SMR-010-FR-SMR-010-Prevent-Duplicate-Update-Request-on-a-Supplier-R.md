@@ -1,8 +1,26 @@
 ---
-title: "FR-SMR-010: FR-SMR-010: Prevent Duplicate Update Request on a Supplier Record"
-tags: [epro, EPRO_Supplier]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_supplier
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-SMR-010: FR-SMR-010: Prevent Duplicate Update Request on a Supplier Record'
 ---
-
 # FR-SMR-010: FR-SMR-010: Prevent Duplicate Update Request on a Supplier Record
 
 ## 需求描述

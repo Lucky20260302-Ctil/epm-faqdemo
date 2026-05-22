@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1537"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1537"
-created: "2024-10-22"
-resolved: "2025-02-21"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1537
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1537
+created: '2024-10-22'
+resolved: '2025-02-21'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1537: Coach MY - ereceipt printing LASER - void eReceipt "Void Reason" is cut off
 
 | 問題

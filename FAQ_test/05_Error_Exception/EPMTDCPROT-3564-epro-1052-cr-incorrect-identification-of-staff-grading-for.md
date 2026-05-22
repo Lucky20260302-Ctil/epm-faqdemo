@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-3564
-tags: [faq, epm, epmtdcprot, 05-error-exception]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-3564"
+issue_type: ''
+status: ''
+tags:
+- 05-error-exception
+- 05_error_exception
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-3564
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 05_Error_Exception
-category_name: "錯誤與異常"
+category_label: 報錯與異常
+quality: partial
 ---
-
 EPMTDCPROT-3564: EPRO-1052 [CR] Incorrect identification of staff grading for DOI approval
 
 | 問題

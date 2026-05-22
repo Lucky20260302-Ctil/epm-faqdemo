@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1898: [Coach] Dtutil testing"
 issue_key: FE-1898
 issue_type: Task
 status: Test in Progress
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1898"
-created: 2026-03-10
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1898
+created: '2026-03-10'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1898: [Coach] Dtutil testing'
 ---
-
 # FE-1898: [Coach] Dtutil testing
 
 ## 問題描述

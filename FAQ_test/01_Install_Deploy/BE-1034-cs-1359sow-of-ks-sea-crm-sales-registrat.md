@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1034: [CS-1359]SOW of KS SEA CRM Sales Registration Enhancement"
 issue_key: BE-1034
 issue_type: SOW
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1034"
-created: 2025-03-20
-resolved: 2025-05-12
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- be
+- data-interface
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1034
+created: '2025-03-20'
+resolved: '2025-05-12'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-1034: [CS-1359]SOW of KS SEA CRM Sales Registration Enhancement'
 ---
-
 # BE-1034: [CS-1359]SOW of KS SEA CRM Sales Registration Enhancement
 
 ## 問題描述

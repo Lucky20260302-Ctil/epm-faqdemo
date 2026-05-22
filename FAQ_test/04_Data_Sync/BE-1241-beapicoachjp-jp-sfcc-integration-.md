@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1241: [BEAPI][CoachJP] JP SFCC Integration"
 issue_key: BE-1241
 issue_type: Change Request
 status: Open
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1241"
-created: 2026-04-02
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1241
+created: '2026-04-02'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1241: [BEAPI][CoachJP] JP SFCC Integration'
 ---
-
 # BE-1241: [BEAPI][CoachJP] JP SFCC Integration 
 
 ## 問題描述

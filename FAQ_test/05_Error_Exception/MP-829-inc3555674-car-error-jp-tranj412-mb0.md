@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-829: INC3555674 - CAR Error - JP-tran#J412-MB005013 Sum of item does not equal the payment sum 04/23"
 issue_key: MP-829
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 8.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-829"
-created: 2026-04-24
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-829
+created: '2026-04-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-829: INC3555674 - CAR Error - JP-tran#J412-MB005013 Sum of item does not equal the payment sum 04/23'
 ---
-
 # MP-829: INC3555674 - CAR Error - JP-tran#J412-MB005013 Sum of item does not equal the payment sum 04/23
 
 ## 問題描述

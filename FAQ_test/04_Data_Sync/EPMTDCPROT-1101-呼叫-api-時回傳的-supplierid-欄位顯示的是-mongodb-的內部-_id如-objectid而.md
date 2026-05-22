@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-1101
-tags: [faq, epm, epmtdcprot, 04-data-sync]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-1101"
+issue_type: ''
+status: ''
+tags:
+- 04-data-sync
+- 04_data_sync
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-1101
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 04_Data_Sync
-category_name: "資料與同步"
+category_label: 資料同步
+quality: partial
 ---
-
 EPMTDCPROT-1101: 
 
 | 問題

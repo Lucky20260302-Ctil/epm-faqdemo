@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1634: Data Unavailable in Datamart for 15-21 Jan"
 issue_key: FE-1634
 issue_type: Change Request
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1634"
-created: 2025-02-28
-resolved: 2025-04-08
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end-v720.02
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1634
+created: '2025-02-28'
+resolved: '2025-04-08'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1634: Data Unavailable in Datamart for 15-21 Jan'
 ---
-
 # FE-1634: Data Unavailable in Datamart for 15-21 Jan
 
 ## 問題描述

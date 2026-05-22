@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1157: [CS-1550]TW CRM - Wrong Country Code when sending API Call"
 issue_key: BE-1157
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1157"
-created: 2025-08-11
-resolved: 2025-10-02
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1157
+created: '2025-08-11'
+resolved: '2025-10-02'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1157: [CS-1550]TW CRM - Wrong Country Code when sending API Call'
 ---
-
 # BE-1157: [CS-1550]TW CRM - Wrong Country Code when sending API Call
 
 ## 問題描述

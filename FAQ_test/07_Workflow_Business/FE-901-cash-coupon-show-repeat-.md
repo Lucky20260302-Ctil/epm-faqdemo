@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-901: cash coupon show repeat"
 issue_key: FE-901
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, frontend, sales]
-jira_url: "https://ctil.atlassian.net/browse/FE-901"
-created: 2021-01-18
-resolved: 2022-08-18
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- frontend
+- sales
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-901
+created: '2021-01-18'
+resolved: '2022-08-18'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-901: cash coupon show repeat'
 ---
-
 # FE-901: cash coupon show repeat 
 
 ## 問題描述

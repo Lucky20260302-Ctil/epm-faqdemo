@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1268: [Lands] Cannot update correct price in real time when GOV member change as Public status"
 issue_key: FE-1268
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end-v760.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1268"
-created: 2023-06-16
-resolved: 2023-07-27
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end-v760.02
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1268
+created: '2023-06-16'
+resolved: '2023-07-27'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1268: [Lands] Cannot update correct price in real time when GOV member change as Public status'
 ---
-
 # FE-1268: [Lands] Cannot update correct price in real time when GOV member change as Public status
 
 ## 問題描述

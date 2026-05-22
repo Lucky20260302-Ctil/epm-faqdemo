@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1242: [INC3536971][CS-2550]KS region Category table(MF0005) can’t edit"
 issue_key: BE-1242
 issue_type: Bug PRD
 status: HOLD
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, table]
-jira_url: "https://ctil.atlassian.net/browse/BE-1242"
-created: 2026-04-15
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- table
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1242
+created: '2026-04-15'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1242: [INC3536971][CS-2550]KS region Category table(MF0005) can’t edit'
 ---
-
 # BE-1242: [INC3536971][CS-2550]KS region Category table(MF0005) can’t edit
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-783: [MPOS-104]KSJ MPOS - v3.29.6 IPA employee purchase unavailable"
 issue_key: MP-783
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-783"
-created: 2025-06-26
-resolved: 2025-07-04
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-783
+created: '2025-06-26'
+resolved: '2025-07-04'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-783: [MPOS-104]KSJ MPOS - v3.29.6 IPA employee purchase unavailable'
 ---
-
 # MP-783: [MPOS-104]KSJ MPOS - v3.29.6 IPA employee purchase unavailable
 
 ## 問題描述

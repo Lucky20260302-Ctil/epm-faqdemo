@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1208: [CS-1805] KR_PIP_AuditLog_FE_Backend_Connectivity_issue"
 issue_key: BE-1208
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1208"
-created: 2025-11-04
-resolved: 2025-11-04
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1208
+created: '2025-11-04'
+resolved: '2025-11-04'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'BE-1208: [CS-1805] KR_PIP_AuditLog_FE_Backend_Connectivity_issue'
 ---
-
 # BE-1208: [CS-1805] KR_PIP_AuditLog_FE_Backend_Connectivity_issue
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1884: HKJC REMS TOCB421-0 license key expired"
 issue_key: FE-1884
 issue_type: Bug PRD
 status: Release
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1884"
-created: 2026-02-10
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end-v750.01r01a
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1884
+created: '2026-02-10'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1884: HKJC REMS TOCB421-0 license key expired'
 ---
-
 # FE-1884: HKJC REMS TOCB421-0 license key expired
 
 ## 問題描述

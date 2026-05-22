@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1648: [ACU-119]Always 0 for each field on member profile page while querying CN member with exit_permit=1 on HK POS FE"
 issue_key: FE-1648
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1648"
-created: 2025-03-13
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1648
+created: '2025-03-13'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1648: [ACU-119]Always 0 for each field on member profile page while querying CN member with exit_permit=1 on HK POS FE'
 ---
-
 # FE-1648: [ACU-119]Always 0 for each field on member profile page while querying CN member with exit_permit=1 on HK POS FE
 
 ## 問題描述

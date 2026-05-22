@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1341: RTM V72 keep checking logs"
 issue_key: FE-1341
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1341"
-created: 2024-02-05
-resolved: 2024-05-04
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1341
+created: '2024-02-05'
+resolved: '2024-05-04'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'FE-1341: RTM V72 keep checking logs'
 ---
-
 # FE-1341: RTM V72 keep checking logs
 
 ## 問題描述

@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1745"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1745"
-created: "2025-08-18"
-resolved: "2025-09-30"
-fix_version: "FE-75.004.1310.0000"
-components: [Front End]
-category: "01_Install_Deploy"
+project: FE
+issue_key: FE-1745
+issue_type: Bug PRD
+status: Closed
+tags:
+- 01_install_deploy
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1745
+created: '2025-08-18'
+resolved: '2025-09-30'
+fix_version: FE-75.004.1310.0000
+components:
+- Front End
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file
 
 | 問題

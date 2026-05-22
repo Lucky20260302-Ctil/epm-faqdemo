@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1244: [CJ] Receipt & Customer receipt missing Revenue stamp when order amount over 50,000"
 issue_key: FE-1244
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, printing]
-jira_url: "https://ctil.atlassian.net/browse/FE-1244"
-created: 2023-05-12
-resolved: 2023-05-17
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- printing
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1244
+created: '2023-05-12'
+resolved: '2023-05-17'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1244: [CJ] Receipt & Customer receipt missing Revenue stamp when order amount over 50,000'
 ---
-
 # FE-1244: [CJ] Receipt & Customer receipt missing Revenue stamp when order amount over 50,000
 
 ## 問題描述

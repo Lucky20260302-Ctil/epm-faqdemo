@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1944: [CS-2771][INC3564250] OC09 till 0 pos slow issue"
 issue_key: FE-1944
 issue_type: Bug PRD
 status: Open
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1944"
-created: 2026-05-05
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1944
+created: '2026-05-05'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1944: [CS-2771][INC3564250] OC09 till 0 pos slow issue'
 ---
-
 # FE-1944: [CS-2771][INC3564250] OC09 till 0 pos slow issue 
 
 ## 問題描述

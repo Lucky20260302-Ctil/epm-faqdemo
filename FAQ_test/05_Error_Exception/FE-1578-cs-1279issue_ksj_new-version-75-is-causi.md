@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1578: [CS-1279]Issue_KSJ_New version 7.5 is causing serious posting issue"
 issue_key: FE-1578
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1578"
-created: 2024-12-09
-resolved: 2025-05-30
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1578
+created: '2024-12-09'
+resolved: '2025-05-30'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1578: [CS-1279]Issue_KSJ_New version 7.5 is causing serious posting issue'
 ---
-
 # FE-1578: [CS-1279]Issue_KSJ_New version 7.5 is causing serious posting issue
 
 ## 問題描述

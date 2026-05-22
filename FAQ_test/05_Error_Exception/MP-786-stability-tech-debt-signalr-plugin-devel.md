@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-786: [Stability, Tech Debt] SignalR plugin development"
 issue_key: MP-786
 issue_type: Improvement
 status: Open
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-786"
-created: 2025-07-18
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-786
+created: '2025-07-18'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-786: [Stability, Tech Debt] SignalR plugin development'
 ---
-
 # MP-786: [Stability, Tech Debt] SignalR plugin development
 
 ## 問題描述

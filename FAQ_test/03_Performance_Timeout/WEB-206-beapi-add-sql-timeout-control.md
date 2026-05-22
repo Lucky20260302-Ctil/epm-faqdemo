@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-206: BEAPI - Add SQL Timeout control"
 issue_key: WEB-206
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, api]
-jira_url: "https://ctil.atlassian.net/browse/WEB-206"
-created: 2021-10-26
-resolved: 2021-10-26
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- api
+- faq
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-206
+created: '2021-10-26'
+resolved: '2021-10-26'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: stub
+title: 'WEB-206: BEAPI - Add SQL Timeout control'
 ---
-
 # WEB-206: BEAPI - Add SQL Timeout control
 
 ## 問題描述

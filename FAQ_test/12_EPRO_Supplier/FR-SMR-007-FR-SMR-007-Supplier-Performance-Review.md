@@ -1,8 +1,26 @@
 ---
-title: "FR-SMR-007: FR-SMR-007: Supplier Performance Review"
-tags: [epro, EPRO_Supplier]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_supplier
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-SMR-007: FR-SMR-007: Supplier Performance Review'
 ---
-
 # FR-SMR-007: FR-SMR-007: Supplier Performance Review
 
 ## 需求描述

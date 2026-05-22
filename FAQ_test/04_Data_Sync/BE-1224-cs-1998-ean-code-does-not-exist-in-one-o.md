@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1224: [CS-1998] EAN Code does not exist in one of the files - COH_JP_Apollo/CRM_new data extract"
 issue_key: BE-1224
 issue_type: Bug PRD
 status: Open
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1224"
-created: 2026-01-23
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1224
+created: '2026-01-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1224: [CS-1998] EAN Code does not exist in one of the files - COH_JP_Apollo/CRM_new data extract'
 ---
-
 # BE-1224: [CS-1998] EAN Code does not exist in one of the files - COH_JP_Apollo/CRM_new data extract
 
 ## 問題描述

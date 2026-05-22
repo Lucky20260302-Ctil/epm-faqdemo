@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1749"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1749"
-created: "2025-09-01"
-resolved: "2025-09-16"
-fix_version: "BE-V70R3.119a"
-components: [Front End]
-category: "01_Install_Deploy"
+project: FE
+issue_key: FE-1749
+issue_type: Bug PRD
+status: Closed
+tags:
+- 01_install_deploy
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1749
+created: '2025-09-01'
+resolved: '2025-09-16'
+fix_version: BE-V70R3.119a
+components:
+- Front End
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 FE-1749: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version - FE
 
 | 問題

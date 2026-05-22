@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-853: Enhance the POSsupport Tools add command remove the Pick up list and transfer list records"
 issue_key: FE-853
 issue_type: Improvement
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-853"
-created: 2020-11-24
-resolved: 2024-05-04
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-853
+created: '2020-11-24'
+resolved: '2024-05-04'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-853: Enhance the POSsupport Tools add command remove the Pick up list and transfer list records'
 ---
-
 # FE-853: Enhance the POSsupport Tools add command remove the Pick up list and transfer list records
 
 ## 問題描述

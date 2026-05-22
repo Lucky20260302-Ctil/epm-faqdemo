@@ -1,20 +1,27 @@
 ---
 project: FE
-title: "FE-1779: [CS-1818] KR_PIP_AuditLog_FE_AuditLog Worker service Not executed"
 issue_key: FE-1779
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1779"
-created: 2025-10-30
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1779
+created: '2025-10-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1779: [CS-1818] KR_PIP_AuditLog_FE_AuditLog Worker service Not executed'
 ---
-
 # FE-1779: [CS-1818] KR_PIP_AuditLog_FE_AuditLog Worker service Not executed
 
 ## 問題描述

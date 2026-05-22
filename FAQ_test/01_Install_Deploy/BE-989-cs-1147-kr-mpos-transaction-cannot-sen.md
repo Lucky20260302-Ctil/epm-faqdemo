@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-989: [CS-1147] - KR MPOS transaction cannot send to DB"
 issue_key: BE-989
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/BE-989"
-created: 2025-01-20
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- be
+- faq
+- install_deploy
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-989
+created: '2025-01-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-989: [CS-1147] - KR MPOS transaction cannot send to DB'
 ---
-
 # BE-989: [CS-1147] - KR MPOS transaction cannot send to DB
 
 ## 問題描述

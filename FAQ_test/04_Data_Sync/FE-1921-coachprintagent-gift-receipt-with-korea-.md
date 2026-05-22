@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1921: [Coach][PrintAgent] Gift Receipt with Korea lanaguage display English wordings: Memo No."
 issue_key: FE-1921
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1921"
-created: 2026-04-10
-resolved: 2026-04-21
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1921
+created: '2026-04-10'
+resolved: '2026-04-21'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1921: [Coach][PrintAgent] Gift Receipt with Korea lanaguage display English wordings: Memo No.'
 ---
-
 # FE-1921: [Coach][PrintAgent] Gift Receipt with Korea lanaguage display English wordings: Memo No.
 
 ## 問題描述

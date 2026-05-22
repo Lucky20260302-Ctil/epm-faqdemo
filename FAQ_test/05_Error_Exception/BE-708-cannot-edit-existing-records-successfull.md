@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-708: Cannot edit existing records successfully in VAT Tax Rate"
 issue_key: BE-708
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-708"
-created: 2022-11-29
-resolved: 2023-03-03
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-708
+created: '2022-11-29'
+resolved: '2023-03-03'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-708: Cannot edit existing records successfully in VAT Tax Rate'
 ---
-
 # BE-708: Cannot edit existing records successfully in VAT Tax Rate
 
 ## 問題描述

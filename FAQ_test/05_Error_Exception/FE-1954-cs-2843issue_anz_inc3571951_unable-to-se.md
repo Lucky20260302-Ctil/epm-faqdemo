@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1954: [CS-2843]Issue_ANZ_INC3571951_Unable to send an e-receipt in CS2000"
 issue_key: FE-1954
 issue_type: Bug PRD
 status: Open
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, einvoice]
-jira_url: "https://ctil.atlassian.net/browse/FE-1954"
-created: 2026-05-20
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- einvoice
+- error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1954
+created: '2026-05-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1954: [CS-2843]Issue_ANZ_INC3571951_Unable to send an e-receipt in CS2000'
 ---
-
 # FE-1954: [CS-2843]Issue_ANZ_INC3571951_Unable to send an e-receipt in CS2000
 
 ## 問題描述

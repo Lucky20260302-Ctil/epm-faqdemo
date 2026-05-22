@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1065: [Coach][KR PrintAgent] X32TMUPrint stop working when POS call the X32TMUPrint.exe"
 issue_key: BE-1065
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-1065"
-created: 2025-05-08
-resolved: 2025-05-12
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1065
+created: '2025-05-08'
+resolved: '2025-05-12'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1065: [Coach][KR PrintAgent] X32TMUPrint stop working when POS call the X32TMUPrint.exe'
 ---
-
 # BE-1065: [Coach][KR PrintAgent] X32TMUPrint stop working when POS call the X32TMUPrint.exe
 
 ## 問題描述

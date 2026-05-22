@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-767"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-767"
-created: "2025-04-14"
-resolved: "2025-06-04"
-fix_version: "BE-V70R3.106"
-components: [MPOS]
-category: "04_Data_Sync"
+project: MP
+issue_key: MP-767
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-767
+created: '2025-04-14'
+resolved: '2025-06-04'
+fix_version: BE-V70R3.106
+components:
+- MPOS
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 MP-767: MPOS KSJ 3.29.5e, if member we selected only have 'Home phone no', will cause posting error
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-882: re-do day end consolidation require click tab button for input day to month"
 issue_key: FE-882
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-882"
-created: 2020-12-11
-resolved: 2021-03-26
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-882
+created: '2020-12-11'
+resolved: '2021-03-26'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-882: re-do day end consolidation require click tab button for input day to month'
 ---
-
 # FE-882: re-do day end consolidation require click tab button for input day to month
 
 ## 問題描述

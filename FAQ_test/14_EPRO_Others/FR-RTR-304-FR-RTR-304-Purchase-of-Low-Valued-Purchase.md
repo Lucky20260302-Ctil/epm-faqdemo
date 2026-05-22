@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-304: FR-RTR-304: Purchase of Low-Valued Purchase"
-tags: [epro, EPRO_Others]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_others
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-304: FR-RTR-304: Purchase of Low-Valued Purchase'
 ---
-
 # FR-RTR-304: FR-RTR-304: Purchase of Low-Valued Purchase
 
 ## 需求描述

@@ -1,20 +1,30 @@
 ---
 project: MP
-title: "MP-818: [CS-2505] Cloud IIS MPOS Performance - Printing"
 issue_key: MP-818
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos, mpos-api, mposprint.exe]
-jira_url: "https://ctil.atlassian.net/browse/MP-818"
-created: 2026-03-26
-resolved: 2026-04-17
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- mpos-api
+- mposprint.exe
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-818
+created: '2026-03-26'
+resolved: '2026-04-17'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-818: [CS-2505] Cloud IIS MPOS Performance - Printing'
 ---
-
 # MP-818: [CS-2505] Cloud IIS MPOS Performance - Printing
 
 ## 問題描述

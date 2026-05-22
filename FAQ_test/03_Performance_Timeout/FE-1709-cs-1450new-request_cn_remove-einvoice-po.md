@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1709: [CS-1450]New request_CN_Remove Einvoice pop up window"
 issue_key: FE-1709
 issue_type: Bug PRD
 status: Closed
-faq_score: 9.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1709"
-created: 2025-06-04
-resolved: 2025-06-25
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- frontend
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1709
+created: '2025-06-04'
+resolved: '2025-06-25'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1709: [CS-1450]New request_CN_Remove Einvoice pop up window'
 ---
-
 # FE-1709: [CS-1450]New request_CN_Remove Einvoice pop up window
 
 ## 問題描述

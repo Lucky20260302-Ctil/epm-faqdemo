@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-332: Customer Info Capture from WeChat (Phase 2-MPOS)"
 issue_key: BE-332
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-332"
-created: 2020-11-10
-resolved: 2020-11-10
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-332
+created: '2020-11-10'
+resolved: '2020-11-10'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-332: Customer Info Capture from WeChat (Phase 2-MPOS)'
 ---
-
 # BE-332: Customer Info Capture from WeChat (Phase 2-MPOS)
 
 ## 問題描述

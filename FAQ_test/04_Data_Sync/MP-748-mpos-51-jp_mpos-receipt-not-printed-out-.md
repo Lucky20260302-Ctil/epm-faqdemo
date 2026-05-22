@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-748: [MPOS-51] JP_mPOS Receipt Not Printed Out (Cloud IIS) -PrintHub Enhancement"
 issue_key: MP-748
 issue_type: Improvement
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-748"
-created: 2025-02-26
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-748
+created: '2025-02-26'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-748: [MPOS-51] JP_mPOS Receipt Not Printed Out (Cloud IIS) -PrintHub Enhancement'
 ---
-
 # MP-748: [MPOS-51] JP_mPOS Receipt Not Printed Out (Cloud IIS) -PrintHub Enhancement
 
 ## 問題描述

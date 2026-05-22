@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-161: General Module - Update MPOS Information into BE DB locregister table"
 issue_key: MP-161
 issue_type: Improvement
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-161"
-created: 2020-05-05
-resolved: 2020-05-26
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-161
+created: '2020-05-05'
+resolved: '2020-05-26'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-161: General Module - Update MPOS Information into BE DB locregister table'
 ---
-
 # MP-161: General Module - Update MPOS Information into BE DB locregister table
 
 ## 問題描述

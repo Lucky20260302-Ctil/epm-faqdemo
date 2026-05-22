@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-976: [CS-1336]RIN01434568-COACH JP Posting MQ_A&MQ_01 terminated"
 issue_key: BE-976
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-976"
-created: 2024-12-27
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(chainstoreplus-7.0)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-976
+created: '2024-12-27'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-976: [CS-1336]RIN01434568-COACH JP Posting MQ_A&MQ_01 terminated'
 ---
-
 # BE-976: [CS-1336]RIN01434568-COACH JP Posting MQ_A&MQ_01 terminated
 
 ## 問題描述

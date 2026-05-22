@@ -1,12 +1,27 @@
 ---
 project: EP24MPFA
 issue_key: EP24MPFA-243
-tags: [faq, epm, ep24mpfa, 07-other]
-jira_url: "https://ctil.atlassian.net/browse/EP24MPFA-243"
+issue_type: ''
+status: ''
+tags:
+- 07-other
+- 07_other
+- ep24mpfa
+- epm
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EP24MPFA-243
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 07_Other
-category_name: "其他"
+category_label: 其他
+quality: partial
 ---
-
 EP24MPFA-243: 
 
 | 問題

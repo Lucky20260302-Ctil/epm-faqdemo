@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-833: RTM Cannnot create the member sales in version 72.0105.0102"
 issue_key: BE-833
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-833"
-created: 2023-11-16
-resolved: 2024-03-01
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- be
+- faq
+- frontend
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-833
+created: '2023-11-16'
+resolved: '2024-03-01'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'BE-833: RTM Cannnot create the member sales in version 72.0105.0102'
 ---
-
 # BE-833: RTM Cannnot create the member sales in version 72.0105.0102
 
 ## 問題描述

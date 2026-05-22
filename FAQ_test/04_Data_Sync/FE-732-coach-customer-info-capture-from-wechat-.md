@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-732: Coach Customer Info Capture from WeChat (Phase 2)"
 issue_key: FE-732
 issue_type: SOW
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-732"
-created: 2020-09-01
-resolved: 2023-05-19
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-732
+created: '2020-09-01'
+resolved: '2023-05-19'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-732: Coach Customer Info Capture from WeChat (Phase 2)'
 ---
-
 # FE-732: Coach Customer Info Capture from WeChat (Phase 2)
 
 ## 問題描述

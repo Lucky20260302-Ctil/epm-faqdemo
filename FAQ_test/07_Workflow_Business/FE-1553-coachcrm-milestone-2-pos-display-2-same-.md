@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1553: [Coach][CRM milestone 2] POS display 2 same result after scan dyncmic QR code with member No."
 issue_key: FE-1553
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1553"
-created: 2024-11-07
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1553
+created: '2024-11-07'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1553: [Coach][CRM milestone 2] POS display 2 same result after scan dyncmic QR code with member No.'
 ---
-
 # FE-1553: [Coach][CRM milestone 2] POS display 2 same result after scan dyncmic QR code with member No.
 
 ## 問題描述

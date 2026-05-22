@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1196: New Member Default Member Type"
 issue_key: FE-1196
 issue_type: Improvement
 status: Closed
-faq_score: 5.0
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1196"
-created: 2022-12-14
-resolved: 2024-05-04
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1196
+created: '2022-12-14'
+resolved: '2024-05-04'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-1196: New Member Default Member Type'
 ---
-
 # FE-1196: New Member Default Member Type
 
 ## 問題描述

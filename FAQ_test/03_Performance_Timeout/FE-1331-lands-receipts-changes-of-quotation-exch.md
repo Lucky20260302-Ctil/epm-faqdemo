@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1331: [Lands] Receipts changes of Quotation, Exchange, Transfer & DayEnd report"
 issue_key: FE-1331
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1331"
-created: 2023-12-28
-resolved: 2024-01-10
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1331
+created: '2023-12-28'
+resolved: '2024-01-10'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1331: [Lands] Receipts changes of Quotation, Exchange, Transfer & DayEnd report'
 ---
-
 # FE-1331: [Lands] Receipts changes of Quotation, Exchange, Transfer & DayEnd report
 
 ## 問題描述

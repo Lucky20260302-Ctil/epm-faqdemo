@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1525: Coach MY BDO - QR code doesn't contain any information after identity="
 issue_key: FE-1525
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1525"
-created: 2024-10-16
-resolved: 2025-02-12
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1525
+created: '2024-10-16'
+resolved: '2025-02-12'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1525: Coach MY BDO - QR code doesn''t contain any information after identity='
 ---
-
 # FE-1525: Coach MY BDO - QR code doesn't contain any information after identity=
 
 ## 問題描述

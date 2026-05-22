@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1046: [CS-1396]MY E-Invoice API data issue"
 issue_key: BE-1046
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1046"
-created: 2025-04-08
-resolved: 2026-05-05
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1046
+created: '2025-04-08'
+resolved: '2026-05-05'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1046: [CS-1396]MY E-Invoice API data issue'
 ---
-
 # BE-1046: [CS-1396]MY E-Invoice API data issue
 
 ## 問題描述

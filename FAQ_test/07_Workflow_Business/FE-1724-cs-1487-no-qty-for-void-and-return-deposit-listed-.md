@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1724"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1724"
-created: "2025-07-08"
-resolved: "2025-07-15"
-fix_version: "FE-75.004.1305.0000"
-components: [report]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-1724
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1724
+created: '2025-07-08'
+resolved: '2025-07-15'
+fix_version: FE-75.004.1305.0000
+components:
+- report
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-1724: No Qty for Void and return deposit listed on Till1 dayend report
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1583: [Coach][Tax rate] Print out of Receipt printing display 'Reprint' wording"
 issue_key: FE-1583
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1583"
-created: 2024-12-13
-resolved: 2024-12-16
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1583
+created: '2024-12-13'
+resolved: '2024-12-16'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1583: [Coach][Tax rate] Print out of Receipt printing display ''Reprint'' wording'
 ---
-
 # FE-1583: [Coach][Tax rate] Print out of Receipt printing display "Reprint" wording
 
 ## 問題描述

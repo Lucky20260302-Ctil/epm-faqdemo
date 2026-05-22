@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-757: [MPOS-83] MPOS v3.30.2 - KSJ MPOS Sales Data Posting Error"
 issue_key: MP-757
 issue_type: Bug PRD
 status: Closed
-faq_score: 10.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-757"
-created: 2025-03-17
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-757
+created: '2025-03-17'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-757: [MPOS-83] MPOS v3.30.2 - KSJ MPOS Sales Data Posting Error'
 ---
-
 # MP-757: [MPOS-83] MPOS v3.30.2 - KSJ MPOS Sales Data Posting Error
 
 ## 問題描述

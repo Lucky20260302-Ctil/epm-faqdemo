@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1566: [Coach][CRM milestone 2] No need to display 'Fail to connect CRM' when Member created by POS directly"
 issue_key: FE-1566
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1566"
-created: 2024-11-20
-resolved: 2024-11-21
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1566
+created: '2024-11-20'
+resolved: '2024-11-21'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1566: [Coach][CRM milestone 2] No need to display ''Fail to connect CRM'' when Member created by POS directly'
 ---
-
 # FE-1566: [Coach][CRM milestone 2] No need to display "Fail to connect CRM" when Member created by POS directly
 
 ## 問題描述

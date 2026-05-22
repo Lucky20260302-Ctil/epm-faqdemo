@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1883: HKJC REMS B223 Print Day End Issue"
 issue_key: FE-1883
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1883"
-created: 2026-02-10
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end-v750.01r01a
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1883
+created: '2026-02-10'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1883: HKJC REMS B223 Print Day End Issue'
 ---
-
 # FE-1883: HKJC REMS B223 Print Day End Issue
 
 ## 問題描述

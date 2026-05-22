@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-707: API issue, no birthday e-coupon show for this VIP “JXXX0011004851”"
 issue_key: MP-707
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-707"
-created: 2024-07-15
-resolved: 2024-07-24
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-707
+created: '2024-07-15'
+resolved: '2024-07-24'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-707: API issue, no birthday e-coupon show for this VIP “JXXX0011004851”'
 ---
-
 # MP-707: API issue, no birthday e-coupon show for this VIP “JXXX0011004851”
 
 ## 問題描述

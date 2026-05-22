@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1152: Ticket no. 2025059 v67 pos cannot use mastconv files to update pos data"
 issue_key: BE-1152
 issue_type: Bug PRD
 status: Open
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1152"
-created: 2025-07-29
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1152
+created: '2025-07-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1152: Ticket no. 2025059 v67 pos cannot use mastconv files to update pos data'
 ---
-
 # BE-1152: Ticket no. 2025059 v67 pos cannot use mastconv files to update pos data
 
 ## 問題描述

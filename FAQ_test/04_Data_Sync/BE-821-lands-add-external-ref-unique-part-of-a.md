@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-821: [Lands] Add external ref. & unique part of Attachment on receipt"
 issue_key: BE-821
 issue_type: Improvement
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-821"
-created: 2023-10-13
-resolved: 2023-11-16
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-821
+created: '2023-10-13'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-821: [Lands] Add external ref. & unique part of Attachment on receipt'
 ---
-
 # BE-821: [Lands] Add external ref. & unique part of Attachment on receipt
 
 ## 問題描述

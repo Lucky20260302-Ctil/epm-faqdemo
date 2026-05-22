@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-727: [MPOS-66] MPOS - Bonus point showing incorrect of MPOS member display page"
 issue_key: MP-727
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-727"
-created: 2024-11-21
-resolved: 2025-03-20
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-727
+created: '2024-11-21'
+resolved: '2025-03-20'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-727: [MPOS-66] MPOS - Bonus point showing incorrect of MPOS member display page'
 ---
-
 # MP-727: [MPOS-66] MPOS - Bonus point showing incorrect of MPOS member display page   
 
 ## 問題描述

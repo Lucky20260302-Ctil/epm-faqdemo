@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-905: SPH iyy,idd,imm missing by interface import member"
 issue_key: BE-905
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-905"
-created: 2024-09-17
-resolved: 2024-10-24
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(v66)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-905
+created: '2024-09-17'
+resolved: '2024-10-24'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-905: SPH iyy,idd,imm missing by interface import member'
 ---
-
 # BE-905: SPH iyy,idd,imm missing by interface import member
 
 ## 問題描述

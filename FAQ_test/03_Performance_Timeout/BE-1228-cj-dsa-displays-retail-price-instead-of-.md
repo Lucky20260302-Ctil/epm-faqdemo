@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)"
 issue_key: BE-1228
 issue_type: Bug PRD
 status: Release
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1228"
-created: 2026-01-30
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- api
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1228
+created: '2026-01-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)'
 ---
-
 # BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)
 
 ## 問題描述

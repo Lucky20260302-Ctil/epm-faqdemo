@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1492"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1492"
-created: "2024-08-29"
-resolved: "2024-09-08"
-fix_version: "v750.04R04I"
-components: [Front End]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1492
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1492
+created: '2024-08-29'
+resolved: '2024-09-08'
+fix_version: v750.04R04I
+components:
+- Front End
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1492: V75_MY_RIN01372901_CS2000 EMP VIP staff info does not update in FE 
 
 | 問題

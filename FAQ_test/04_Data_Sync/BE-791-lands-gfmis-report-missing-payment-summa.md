@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-791: [Lands] GFMIS report missing Payment Summary section"
 issue_key: BE-791
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-791"
-created: 2023-08-21
-resolved: 2023-09-01
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-791
+created: '2023-08-21'
+resolved: '2023-09-01'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-791: [Lands] GFMIS report missing Payment Summary section'
 ---
-
 # BE-791: [Lands] GFMIS report missing Payment Summary section
 
 ## 問題描述

@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-1375: Alibaba Cloud OSS"
 issue_key: FE-1375
 issue_type: SOW
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, cs2kconnect, mqpolling]
-jira_url: "https://ctil.atlassian.net/browse/FE-1375"
-created: 2024-04-30
-resolved: 2024-06-07
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- cs2kconnect
+- data_sync
+- faq
+- fe
+- mqpolling
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1375
+created: '2024-04-30'
+resolved: '2024-06-07'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1375: Alibaba Cloud OSS'
 ---
-
 # FE-1375: Alibaba Cloud OSS
 
 ## 問題描述

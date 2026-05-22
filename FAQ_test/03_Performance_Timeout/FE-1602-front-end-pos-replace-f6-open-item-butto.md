@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1602: Front end POS replace F6 Open Item button by Retrieve Order function"
 issue_key: FE-1602
 issue_type: Change Request
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1602"
-created: 2025-01-07
-resolved: 2025-02-12
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end-v720.02
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1602
+created: '2025-01-07'
+resolved: '2025-02-12'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1602: Front end POS replace F6 Open Item button by Retrieve Order function'
 ---
-
 # FE-1602: Front end POS replace F6 Open Item button by Retrieve Order function
 
 ## 問題描述

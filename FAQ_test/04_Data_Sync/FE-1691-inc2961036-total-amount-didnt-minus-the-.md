@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1691: [INC2961036] total amount didn't minus the discount"
 issue_key: FE-1691
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1691"
-created: 2025-05-09
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v720.02
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1691
+created: '2025-05-09'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1691: [INC2961036] total amount didn''t minus the discount'
 ---
-
 # FE-1691: [INC2961036] total amount didn't minus the discount
 
 ## 問題描述

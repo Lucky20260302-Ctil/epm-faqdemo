@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-246: Handle Zero Qty"
 issue_key: MP-246
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-246"
-created: 2020-07-22
-resolved: 2020-12-10
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-246
+created: '2020-07-22'
+resolved: '2020-12-10'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-246: Handle Zero Qty'
 ---
-
 # MP-246: Handle Zero Qty
 
 ## 問題描述

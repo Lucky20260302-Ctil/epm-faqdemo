@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-008: FR-RTR-008: Assignment of View-only Users"
-tags: [epro, EPRO_PreTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_pretender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-008: FR-RTR-008: Assignment of View-only Users'
 ---
-
 # FR-RTR-008: FR-RTR-008: Assignment of View-only Users
 
 ## 需求描述

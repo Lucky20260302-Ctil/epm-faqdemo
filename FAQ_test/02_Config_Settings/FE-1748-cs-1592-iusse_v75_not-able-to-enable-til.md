@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1748: CS-1592 Iusse_V75_not able to Enable TillA and TillB in V75"
 issue_key: FE-1748
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1748"
-created: 2025-08-29
-resolved: 2025-09-05
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1748
+created: '2025-08-29'
+resolved: '2025-09-05'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-1748: CS-1592 Iusse_V75_not able to Enable TillA and TillB in V75'
 ---
-
 # FE-1748: CS-1592 Iusse_V75_not able to Enable TillA and TillB in V75
 
 ## 問題描述

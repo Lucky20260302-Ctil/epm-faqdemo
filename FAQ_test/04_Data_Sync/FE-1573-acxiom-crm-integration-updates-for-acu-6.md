@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1573: [ACXIOM CRM Integration] Updates for ACU-68: UI Update for Member Profile page"
 issue_key: FE-1573
 issue_type: SOW
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1573"
-created: 2024-12-02
-resolved: 2024-12-05
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1573
+created: '2024-12-02'
+resolved: '2024-12-05'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'FE-1573: [ACXIOM CRM Integration] Updates for ACU-68: UI Update for Member Profile page'
 ---
-
 # FE-1573: [ACXIOM CRM Integration] Updates for ACU-68: UI Update for Member Profile page
 
 ## 問題描述

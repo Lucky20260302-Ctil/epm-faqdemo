@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1333: IMX QFPay Ali/Wechat side have no record and we have void record."
 issue_key: FE-1333
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1333"
-created: 2024-01-11
-resolved: 2024-05-04
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1333
+created: '2024-01-11'
+resolved: '2024-05-04'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1333: IMX QFPay Ali/Wechat side have no record and we have void record.'
 ---
-
 # FE-1333: IMX QFPay Ali/Wechat side have no record and we have void record.
 
 ## 問題描述

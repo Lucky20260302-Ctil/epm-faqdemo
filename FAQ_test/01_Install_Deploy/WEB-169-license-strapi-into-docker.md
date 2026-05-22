@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-169: License - Strapi into docker"
 issue_key: WEB-169
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, web, install_deploy, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-169"
-created: 2020-11-11
-resolved: 2020-11-11
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-169
+created: '2020-11-11'
+resolved: '2020-11-11'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: stub
+title: 'WEB-169: License - Strapi into docker'
 ---
-
 # WEB-169: License - Strapi into docker
 
 ## 問題描述

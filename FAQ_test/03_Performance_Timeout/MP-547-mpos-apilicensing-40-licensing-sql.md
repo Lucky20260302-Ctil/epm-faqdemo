@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-547: [MPOS-API]Licensing 4.0 / Licensing SQL"
 issue_key: MP-547
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-547"
-created: 2022-09-08
-resolved: 2022-11-21
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- mpos-api
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-547
+created: '2022-09-08'
+resolved: '2022-11-21'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-547: [MPOS-API]Licensing 4.0 / Licensing SQL'
 ---
-
 # MP-547: [MPOS-API]Licensing 4.0 / Licensing SQL
 
 ## 問題描述

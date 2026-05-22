@@ -1,12 +1,27 @@
 ---
 project: EP24MPFA
 issue_key: EP24MPFA-304
-tags: [faq, epm, ep24mpfa, 05-error-exception]
-jira_url: "https://ctil.atlassian.net/browse/EP24MPFA-304"
+issue_type: ''
+status: ''
+tags:
+- 05-error-exception
+- 05_error_exception
+- ep24mpfa
+- epm
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EP24MPFA-304
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 05_Error_Exception
-category_name: "錯誤與異常"
+category_label: 報錯與異常
+quality: partial
 ---
-
 EP24MPFA-304: [Production Issue] 電子郵件中缺少審批者的原因
 
 | 問題

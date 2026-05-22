@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-921: Spectra ECR 64Bit driver issue"
 issue_key: FE-921
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-921"
-created: 2021-02-22
-resolved: 2022-06-28
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- frontend
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-921
+created: '2021-02-22'
+resolved: '2022-06-28'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-921: Spectra ECR 64Bit driver issue'
 ---
-
 # FE-921: Spectra ECR 64Bit driver issue
 
 ## 問題描述

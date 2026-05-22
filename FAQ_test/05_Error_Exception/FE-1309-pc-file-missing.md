@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1309: PC file missing"
 issue_key: FE-1309
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1309"
-created: 2023-11-02
-resolved: 2024-05-07
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1309
+created: '2023-11-02'
+resolved: '2024-05-07'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1309: PC file missing'
 ---
-
 # FE-1309: PC file missing
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1151: Change request for adding staff name under staff code"
 issue_key: FE-1151
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1151"
-created: 2022-09-15
-resolved: 2024-03-06
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1151
+created: '2022-09-15'
+resolved: '2024-03-06'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1151: Change request for adding staff name under staff code'
 ---
-
 # FE-1151: Change request for adding staff name under staff code 
 
 ## 問題描述

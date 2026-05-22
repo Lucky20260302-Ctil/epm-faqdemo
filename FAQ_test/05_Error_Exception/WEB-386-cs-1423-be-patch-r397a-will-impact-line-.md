@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-386: CS-1423: BE Patch R3.97a Will impact Line API Got Token Failed"
 issue_key: WEB-386
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, begw]
-jira_url: "https://ctil.atlassian.net/browse/WEB-386"
-created: 2025-04-29
-resolved: 2025-07-11
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- begw
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-386
+created: '2025-04-29'
+resolved: '2025-07-11'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'WEB-386: CS-1423: BE Patch R3.97a Will impact Line API Got Token Failed'
 ---
-
 # WEB-386: CS-1423: BE Patch R3.97a Will impact Line API Got Token Failed
 
 ## 問題描述

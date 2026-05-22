@@ -3,17 +3,25 @@ project: BE
 issue_key: BE-931
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-931"
-created: 2024-11-04
-resolved: 2024-11-06
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-931
+created: '2024-11-04'
+resolved: '2024-11-06'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 # BE-931: Deposit Journal (SE7007):双击数据查看详情，报错
 
 > **類型:** Bug QA | **狀態:** Closed

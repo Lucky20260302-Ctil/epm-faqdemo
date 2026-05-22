@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-790: 【MPOS-114】CJ MPOS Prod_ J801 Sales page show null ''button''"
 issue_key: MP-790
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-790"
-created: 2025-08-11
-resolved: 2025-08-20
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-790
+created: '2025-08-11'
+resolved: '2025-08-20'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-790: 【MPOS-114】CJ MPOS Prod_ J801 Sales page show null ''''button'''''
 ---
-
 # MP-790: 【MPOS-114】CJ MPOS Prod_ J801 Sales page show null ''button''
 
 ## 問題描述

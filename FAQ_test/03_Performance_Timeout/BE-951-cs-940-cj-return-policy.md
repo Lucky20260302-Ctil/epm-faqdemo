@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-951: CS-940 CJ return policy"
 issue_key: BE-951
 issue_type: Change Request
 status: Closed
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-951"
-created: 2024-11-21
-resolved: 2024-11-22
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(v66)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-951
+created: '2024-11-21'
+resolved: '2024-11-22'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-951: CS-940 CJ return policy'
 ---
-
 # BE-951: CS-940 CJ return policy
 
 ## 問題描述

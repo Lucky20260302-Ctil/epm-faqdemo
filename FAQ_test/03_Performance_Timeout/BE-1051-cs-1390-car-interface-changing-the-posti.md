@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1051: [CS-1390] CAR Interface Changing the posting date time to transaction hour-min"
 issue_key: BE-1051
 issue_type: SOW
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1051"
-created: 2025-04-11
-resolved: 2025-05-12
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1051
+created: '2025-04-11'
+resolved: '2025-05-12'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1051: [CS-1390] CAR Interface Changing the posting date time to transaction hour-min'
 ---
-
 # BE-1051: [CS-1390] CAR Interface Changing the posting date time to transaction hour-min
 
 ## 問題描述

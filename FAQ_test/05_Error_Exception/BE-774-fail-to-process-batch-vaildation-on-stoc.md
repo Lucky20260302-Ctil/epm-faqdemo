@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-774: Fail to process batch vaildation on Stock Receive (TF6000)"
 issue_key: BE-774
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-774"
-created: 2023-06-21
-resolved: 2023-06-23
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-774
+created: '2023-06-21'
+resolved: '2023-06-23'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-774: Fail to process batch vaildation on Stock Receive (TF6000)'
 ---
-
 # BE-774: Fail to process batch vaildation on Stock Receive (TF6000)
 
 ## 問題描述

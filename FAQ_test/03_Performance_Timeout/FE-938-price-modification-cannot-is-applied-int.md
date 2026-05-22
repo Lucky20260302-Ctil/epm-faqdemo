@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-938: Price Modification cannot is applied into item with negative quantity (sales return)"
 issue_key: FE-938
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-938"
-created: 2021-03-19
-resolved: 2022-08-18
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-938
+created: '2021-03-19'
+resolved: '2022-08-18'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-938: Price Modification cannot is applied into item with negative quantity (sales return)'
 ---
-
 # FE-938: Price Modification cannot is applied into item with negative quantity (sales return)
 
 ## 問題描述

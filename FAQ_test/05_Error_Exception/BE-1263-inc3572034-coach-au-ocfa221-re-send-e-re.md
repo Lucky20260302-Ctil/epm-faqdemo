@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1263: [INC3572034] COACH AU OCFA221 re-send e-receipt error message pop"
 issue_key: BE-1263
 issue_type: Bug PRD
 status: Test in Progress
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1263"
-created: 2026-05-05
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1263
+created: '2026-05-05'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1263: [INC3572034] COACH AU OCFA221 re-send e-receipt error message pop'
 ---
-
 # BE-1263: [INC3572034] COACH AU OCFA221 re-send e-receipt error message pop
 
 ## 問題描述

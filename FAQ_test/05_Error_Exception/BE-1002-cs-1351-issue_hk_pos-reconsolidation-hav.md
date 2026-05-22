@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1002: CS-1351 Issue_HK_POS reconsolidation have discrepancy"
 issue_key: BE-1002
 issue_type: Bug PRD
 status: Closed
-faq_score: 9.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1002"
-created: 2025-02-13
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- be
+- data-interface
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1002
+created: '2025-02-13'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1002: CS-1351 Issue_HK_POS reconsolidation have discrepancy'
 ---
-
 # BE-1002: CS-1351 Issue_HK_POS reconsolidation have discrepancy
 
 ## 問題描述

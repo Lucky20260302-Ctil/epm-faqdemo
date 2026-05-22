@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1166: [CS-1244] [INC2939533]Issue_CN_not able to change price on Discount Control items"
 issue_key: BE-1166
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-1166"
-created: 2025-08-26
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- be
+- faq
+- frontend
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1166
+created: '2025-08-26'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1166: [CS-1244] [INC2939533]Issue_CN_not able to change price on Discount Control items'
 ---
-
 # BE-1166: [CS-1244] [INC2939533]Issue_CN_not able to change price on Discount Control items
 
 ## 問題描述

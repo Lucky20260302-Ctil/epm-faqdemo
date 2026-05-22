@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1440"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1440"
-created: "2024-06-28"
-resolved: "2024-07-09"
-fix_version: "v750.01R02J"
-components: [Front End]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1440
+issue_type: Bug QA
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1440
+created: '2024-06-28'
+resolved: '2024-07-09'
+fix_version: v750.01R02J
+components:
+- Front End
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1440: REMS - Member search in offline mode will result in execption
 
 | 問題

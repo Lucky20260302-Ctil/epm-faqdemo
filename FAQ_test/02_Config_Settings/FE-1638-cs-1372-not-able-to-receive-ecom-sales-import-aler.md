@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1638"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1638"
-created: "2025-03-05"
-resolved: "2025-07-04"
-fix_version: "BE-V70R3.103"
-components: [Service]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1638
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1638
+created: '2025-03-05'
+resolved: '2025-07-04'
+fix_version: BE-V70R3.103
+components:
+- Service
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1638: Not able to receive Ecom sales import alert email
 
 | 問題

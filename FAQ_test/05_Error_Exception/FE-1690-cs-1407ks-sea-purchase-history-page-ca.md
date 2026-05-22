@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1690: [CS-1407]KS SEA - Purchase history page cannot show up after upgrading to v75.004.1100.0008"
 issue_key: FE-1690
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1690"
-created: 2025-05-09
-resolved: 2025-08-29
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1690
+created: '2025-05-09'
+resolved: '2025-08-29'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1690: [CS-1407]KS SEA - Purchase history page cannot show up after upgrading to v75.004.1100.0008'
 ---
-
 # FE-1690: [CS-1407]KS SEA - Purchase history page cannot show up after upgrading to v75.004.1100.0008
 
 ## 問題描述

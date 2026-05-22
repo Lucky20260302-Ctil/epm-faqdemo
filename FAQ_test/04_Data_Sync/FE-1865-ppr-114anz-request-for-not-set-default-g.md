@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1865: [PPR-114][ANZ] Request for not set default gender in new member creation"
 issue_key: FE-1865
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1865"
-created: 2026-01-26
-resolved: 2026-03-04
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1865
+created: '2026-01-26'
+resolved: '2026-03-04'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1865: [PPR-114][ANZ] Request for not set default gender in new member creation'
 ---
-
 # FE-1865: [PPR-114][ANZ] Request for not set default gender in new member creation
 
 ## 問題描述

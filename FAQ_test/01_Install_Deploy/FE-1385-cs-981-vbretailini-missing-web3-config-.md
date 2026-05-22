@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1385"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1385"
-created: "2024-05-09"
-resolved: "2024-05-24"
-fix_version: "v750.04R04A"
-components: [Front End]
-category: "01_Install_Deploy"
+project: FE
+issue_key: FE-1385
+issue_type: Bug QA
+status: Closed
+tags:
+- 01_install_deploy
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1385
+created: '2024-05-09'
+resolved: '2024-05-24'
+fix_version: v750.04R04A
+components:
+- Front End
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 FE-1385: vbretail.ini missing Web3 config
 
 | 問題

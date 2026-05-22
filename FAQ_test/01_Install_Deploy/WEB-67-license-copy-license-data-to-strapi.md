@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-67: License - Copy License data to strapi"
 issue_key: WEB-67
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, web, install_deploy, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-67"
-created: 2020-08-12
-resolved: 2020-09-04
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-67
+created: '2020-08-12'
+resolved: '2020-09-04'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: stub
+title: 'WEB-67: License - Copy License data to strapi'
 ---
-
 # WEB-67: License - Copy License data to strapi
 
 ## 問題描述

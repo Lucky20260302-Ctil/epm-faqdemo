@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-1848: ANZ FE follow up issue"
 issue_key: FE-1848
 issue_type: Bug PRD
 status: Open
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, day-end, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1848"
-created: 2026-01-09
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- day-end
+- faq
+- fe
+- frontend
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1848
+created: '2026-01-09'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1848: ANZ FE follow up issue'
 ---
-
 # FE-1848: ANZ FE follow up issue
 
 ## 問題描述

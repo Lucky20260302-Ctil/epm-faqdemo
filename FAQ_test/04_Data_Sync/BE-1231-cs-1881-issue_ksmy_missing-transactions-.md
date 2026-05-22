@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1231: [CS-1881] Issue_KSMY_Missing Transactions from POS to Memberson (Selected MY stores)"
 issue_key: BE-1231
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1231"
-created: 2026-02-24
-resolved: 2026-04-22
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1231
+created: '2026-02-24'
+resolved: '2026-04-22'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1231: [CS-1881] Issue_KSMY_Missing Transactions from POS to Memberson (Selected MY stores)'
 ---
-
 # BE-1231: [CS-1881] Issue_KSMY_Missing Transactions from POS to Memberson (Selected MY stores)
 
 ## 問題描述

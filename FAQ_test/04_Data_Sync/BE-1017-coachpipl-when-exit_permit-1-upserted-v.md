@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1017: [Coach][PIPL] When EXIT_PERMIT = 1, upserted value of vip_comp_code need to be 11 in vip table"
 issue_key: BE-1017
 issue_type: Improvement
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1017"
-created: 2025-03-03
-resolved: 2026-05-05
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1017
+created: '2025-03-03'
+resolved: '2026-05-05'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1017: [Coach][PIPL] When EXIT_PERMIT = 1, upserted value of vip_comp_code need to be 11 in vip table'
 ---
-
 # BE-1017: [Coach][PIPL] When EXIT_PERMIT = 1, upserted value of vip_comp_code need to be 11 in vip table
 
 ## 問題描述

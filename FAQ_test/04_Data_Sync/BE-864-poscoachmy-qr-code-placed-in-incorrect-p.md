@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-864: [POS][Coach][MY] QR code placed in incorrect place"
 issue_key: BE-864
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-864"
-created: 2024-06-26
-resolved: 2024-06-26
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-864
+created: '2024-06-26'
+resolved: '2024-06-26'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-864: [POS][Coach][MY] QR code placed in incorrect place'
 ---
-
 # BE-864: [POS][Coach][MY] QR code placed in incorrect place
 
 ## 問題描述

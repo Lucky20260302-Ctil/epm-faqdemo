@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1012"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1012"
-created: "2025-02-27"
-resolved: "2025-03-21"
-fix_version: ""
-components: [Backend (ChainStorePlus 7.0)]
-category: "04_Data_Sync"
+project: BE
+issue_key: BE-1012
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1012
+created: '2025-02-27'
+resolved: '2025-03-21'
+fix_version: ''
+components:
+- Backend (ChainStorePlus 7.0)
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 BE-1012: Invalid UPC Code to FASC in Item 1APKTS25KDM001 Mem Bdg K-Tee plain
 
 | 問題

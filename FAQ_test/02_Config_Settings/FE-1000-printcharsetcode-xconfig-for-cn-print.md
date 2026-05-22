@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1000: PRINTCHARSETCODE xconfig for CN print"
 issue_key: FE-1000
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-1000"
-created: 2021-08-11
-resolved: 2021-08-11
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1000
+created: '2021-08-11'
+resolved: '2021-08-11'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-1000: PRINTCHARSETCODE xconfig for CN print'
 ---
-
 # FE-1000: PRINTCHARSETCODE xconfig for CN print
 
 ## 問題描述

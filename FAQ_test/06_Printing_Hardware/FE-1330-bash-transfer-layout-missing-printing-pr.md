@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1330: Bash Transfer layout missing printing price information"
 issue_key: FE-1330
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 06_Printing_Hardware
-faq_category_label: 列印與硬體
-tags: [faq, fe, printing_hardware, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1330"
-created: 2023-12-28
-resolved: 2024-01-22
-resolution: Done
-has_images: False
+tags:
+- 06_printing_hardware
+- faq
+- fe
+- front-end
+- printing_hardware
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1330
+created: '2023-12-28'
+resolved: '2024-01-22'
+fix_version: ''
+components: []
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
+title: 'FE-1330: Bash Transfer layout missing printing price information'
 ---
-
 # FE-1330: Bash Transfer layout missing printing price information
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-832: INC3550023 - Exchange memo NOT linked to Original sales memo"
 issue_key: MP-832
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-832"
-created: 2026-04-29
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-832
+created: '2026-04-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-832: INC3550023 - Exchange memo NOT linked to Original sales memo'
 ---
-
 # MP-832: INC3550023 - Exchange memo NOT linked to Original sales memo
 
 ## 問題描述

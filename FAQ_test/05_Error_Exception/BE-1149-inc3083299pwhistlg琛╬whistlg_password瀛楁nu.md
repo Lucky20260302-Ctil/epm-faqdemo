@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1149: [INC3083299]pwhistlg表pwhistlg_password字段NULL值"
 issue_key: BE-1149
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, table]
-jira_url: "https://ctil.atlassian.net/browse/BE-1149"
-created: 2025-07-15
-resolved: 2025-10-09
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- table
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1149
+created: '2025-07-15'
+resolved: '2025-10-09'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1149: [INC3083299]pwhistlg表pwhistlg_password字段NULL值'
 ---
-
 # BE-1149: [INC3083299]pwhistlg表pwhistlg_password字段NULL值
 
 ## 問題描述

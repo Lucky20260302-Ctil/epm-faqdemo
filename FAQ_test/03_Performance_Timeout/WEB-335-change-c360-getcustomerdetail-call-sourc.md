@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-335: change C360 getCustomerDetail call source code"
 issue_key: WEB-335
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, beapi]
-jira_url: "https://ctil.atlassian.net/browse/WEB-335"
-created: 2023-08-22
-resolved: 2024-05-16
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- beapi
+- faq
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-335
+created: '2023-08-22'
+resolved: '2024-05-16'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'WEB-335: change C360 getCustomerDetail call source code'
 ---
-
 # WEB-335: change C360 getCustomerDetail call source code
 
 ## 問題描述

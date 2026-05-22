@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-830"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-830"
-created: "2026-04-27"
-resolved: ""
-fix_version: ""
-components: [MPOS]
-category: "02_Config_Settings"
+project: MP
+issue_key: MP-830
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-830
+created: '2026-04-27'
+resolved: ''
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 MP-830: J242 MPOS popout error "Passes don't contain empty strings or space characters" after scaned the QR code
 
 | 問題

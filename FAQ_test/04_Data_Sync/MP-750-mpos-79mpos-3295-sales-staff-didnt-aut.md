@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-750: [MPOS-79]MPOS 3.29.5 - Sales staff didn't auto logout after 900 seconds"
 issue_key: MP-750
 issue_type: Bug PRD
 status: HOLD
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-750"
-created: 2025-02-28
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-750
+created: '2025-02-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-750: [MPOS-79]MPOS 3.29.5 - Sales staff didn''t auto logout after 900 seconds'
 ---
-
 # MP-750: [MPOS-79]MPOS 3.29.5 - Sales staff didn't auto logout after 900 seconds
 
 ## 問題描述

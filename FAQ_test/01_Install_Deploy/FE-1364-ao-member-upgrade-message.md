@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1364: AO Member Upgrade Message"
 issue_key: FE-1364
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1364"
-created: 2024-04-08
-resolved: 2024-09-03
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1364
+created: '2024-04-08'
+resolved: '2024-09-03'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1364: AO Member Upgrade Message'
 ---
-
 # FE-1364: AO Member Upgrade Message
 
 ## 問題描述

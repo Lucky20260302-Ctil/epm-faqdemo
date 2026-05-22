@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1628: CN Epromo 邮件approve失败"
 issue_key: FE-1628
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, backend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1628"
-created: 2025-02-19
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- backend
+- faq
+- fe
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1628
+created: '2025-02-19'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1628: CN Epromo 邮件approve失败'
 ---
-
 # FE-1628: CN Epromo 邮件approve失败
 
 ## 問題描述

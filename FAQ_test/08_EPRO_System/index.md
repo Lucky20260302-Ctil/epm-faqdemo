@@ -1,9 +1,24 @@
 ---
-tags: [moc, faq, index]
-title: "08_EPRO_System — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 08_EPRO_System — FAQ 索引
 ---
-
 # 08_EPRO_System
 
 > 自動生成索引 · 28 篇 FAQ

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-278: iPad Sales - 02"
 issue_key: MP-278
 issue_type: Improvement
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-278"
-created: 2020-10-05
-resolved: 2020-12-10
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-278
+created: '2020-10-05'
+resolved: '2020-12-10'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-278: iPad Sales - 02'
 ---
-
 # MP-278: iPad Sales - 02
 
 ## 問題描述

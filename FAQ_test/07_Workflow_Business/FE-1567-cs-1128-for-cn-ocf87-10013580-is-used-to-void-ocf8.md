@@ -1,17 +1,28 @@
 ---
-project: "FE"
-issue_key: "FE-1567"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1567"
-created: "2024-11-21"
-resolved: "2025-03-20"
-fix_version: ""
-components: [Deposit, Payment, Sales]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-1567
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1567
+created: '2024-11-21'
+resolved: '2025-03-20'
+fix_version: ''
+components:
+- Deposit
+- Payment
+- Sales
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-1567: For CN OCF87-10013580 is used to void OCF87-10013577 on 2024-08-09, why payment amount is -2568 for 10013580 ?
 
 | 問題

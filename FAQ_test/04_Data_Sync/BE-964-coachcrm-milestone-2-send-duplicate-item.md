@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-964: [Coach][CRM milestone 2] Send duplicate items to CRM when order issued & voided at the same day"
 issue_key: BE-964
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-964"
-created: 2024-12-11
-resolved: 2024-12-24
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-964
+created: '2024-12-11'
+resolved: '2024-12-24'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-964: [Coach][CRM milestone 2] Send duplicate items to CRM when order issued & voided at the same day'
 ---
-
 # BE-964: [Coach][CRM milestone 2] Send duplicate items to CRM when order issued & voided at the same day
 
 ## 問題描述

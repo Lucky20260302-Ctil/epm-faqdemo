@@ -1,17 +1,30 @@
 ---
-project: "MP"
-issue_key: "MP-782"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp, mpos, qr-code, member, line-app]
-jira_url: "https://ctil.atlassian.net/browse/MP-782"
-created: "2025-06-20"
-resolved: "2025-07-09"
-fix_version: "MPOS API 3.29.6"
-components: [MPOS]
-category: "05_Error_Exception"
+project: MP
+issue_key: MP-782
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- line-app
+- member
+- mp
+- mpos
+- qr-code
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-782
+created: '2025-06-20'
+resolved: '2025-07-09'
+fix_version: MPOS API 3.29.6
+components:
+- MPOS
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 MP-782:   TW MPOS - Cannot add member through scanning QR code from LINE app
 
 | 問題

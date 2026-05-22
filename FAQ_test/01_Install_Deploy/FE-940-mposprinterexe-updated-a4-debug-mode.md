@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-940: MPOSPRinter.exe Updated A4 + debug mode"
 issue_key: FE-940
 issue_type: Bug QA
 status: Closed
-faq_score: 9.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-940"
-created: 2021-03-31
-resolved: 2021-03-31
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-940
+created: '2021-03-31'
+resolved: '2021-03-31'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-940: MPOSPRinter.exe Updated A4 + debug mode'
 ---
-
 # FE-940: MPOSPRinter.exe Updated A4 + debug mode
 
 ## 問題描述

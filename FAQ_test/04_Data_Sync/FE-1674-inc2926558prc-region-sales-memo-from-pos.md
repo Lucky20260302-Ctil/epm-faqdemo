@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1674: [INC2926558]PRC region sales memo from POSV75has different format with that from POSv72"
 issue_key: FE-1674
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1674"
-created: 2025-04-22
-resolved: 2025-06-05
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1674
+created: '2025-04-22'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1674: [INC2926558]PRC region sales memo from POSV75has different format with that from POSv72'
 ---
-
 # FE-1674: [INC2926558]PRC region sales memo from POSV75has different format with that from POSv72
 
 ## 問題描述

@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1942"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1942"
-created: "2026-04-30"
-resolved: "2026-05-05"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1942
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1942
+created: '2026-04-30'
+resolved: '2026-05-05'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1942: Pop up 'Object reference' error after click on New log update & complete payment
 
 | 問題

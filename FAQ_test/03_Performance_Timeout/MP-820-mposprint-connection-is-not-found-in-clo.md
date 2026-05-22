@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-820: MPOSPrint connection is not found in CloudHub"
 issue_key: MP-820
 issue_type: Bug PRD
 status: Release
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mposprint.exe]
-jira_url: "https://ctil.atlassian.net/browse/MP-820"
-created: 2026-03-26
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mposprint.exe
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-820
+created: '2026-03-26'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-820: MPOSPrint connection is not found in CloudHub'
 ---
-
 # MP-820: MPOSPrint connection is not found in CloudHub
 
 ## 問題描述

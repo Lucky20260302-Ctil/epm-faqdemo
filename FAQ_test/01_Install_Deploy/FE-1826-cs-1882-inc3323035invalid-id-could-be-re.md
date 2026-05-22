@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1826: [CS-1882] [INC3323035]invalid ID could be registered as salesperson ID on CS2000 when making transaction"
 issue_key: FE-1826
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1826"
-created: 2025-12-03
-resolved: 2026-03-25
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end-v750.01r01a
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1826
+created: '2025-12-03'
+resolved: '2026-03-25'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1826: [CS-1882] [INC3323035]invalid ID could be registered as salesperson ID on CS2000 when making transaction'
 ---
-
 # FE-1826: [CS-1882] [INC3323035]invalid ID could be registered as salesperson ID on CS2000 when making transaction
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1510: IMX void deposit stage didnt change after getting void"
 issue_key: FE-1510
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1510"
-created: 2024-09-24
-resolved: 2024-10-24
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1510
+created: '2024-09-24'
+resolved: '2024-10-24'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1510: IMX void deposit stage didnt change after getting void'
 ---
-
 # FE-1510: IMX void deposit stage didnt change after getting void
 
 ## 問題描述

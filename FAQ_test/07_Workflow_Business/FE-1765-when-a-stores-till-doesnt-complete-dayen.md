@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1765: When a store's Till doesn't complete Dayend, there is no prompt on Till 0 (INC3227274)"
 issue_key: FE-1765
 issue_type: Bug PRD
 status: DEV Done
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1765"
-created: 2025-10-03
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1765
+created: '2025-10-03'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1765: When a store''s Till doesn''t complete Dayend, there is no prompt on Till 0 (INC3227274)'
 ---
-
 # FE-1765: When a store's Till doesn't complete Dayend, there is no prompt on Till 0 (INC3227274)
 
 ## 問題描述

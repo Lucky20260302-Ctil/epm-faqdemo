@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-990: [CS-1330] - MY E-invoice Reconciliation Issue"
 issue_key: BE-990
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-990"
-created: 2025-01-22
-resolved: 2025-05-06
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-990
+created: '2025-01-22'
+resolved: '2025-05-06'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-990: [CS-1330] - MY E-invoice Reconciliation Issue'
 ---
-
 # BE-990: [CS-1330] - MY E-invoice Reconciliation Issue
 
 ## 問題描述

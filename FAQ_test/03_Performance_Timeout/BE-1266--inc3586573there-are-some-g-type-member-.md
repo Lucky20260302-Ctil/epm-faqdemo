@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1266:  [INC3586573]There are some G type member data in KS NZ & KS AU DB"
 issue_key: BE-1266
 issue_type: Bug PRD
 status: Open
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1266"
-created: 2026-05-20
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- api
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1266
+created: '2026-05-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1266:  [INC3586573]There are some G type member data in KS NZ & KS AU DB'
 ---
-
 # BE-1266:  [INC3586573]There are some G type member data in KS NZ & KS AU DB
 
 ## 問題描述

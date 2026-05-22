@@ -3,17 +3,25 @@ project: BE
 issue_key: BE-869
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-869"
-created: 2024-07-03
-resolved: 2024-07-18
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-869
+created: '2024-07-03'
+resolved: '2024-07-18'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 # BE-869: Primary_Sales Staff： 在Contact Number输入’12345678‘，点击save报错
 
 > **類型:** Bug QA | **狀態:** Closed

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1213: [CS-1545] SOW of Item Master Data Import Customization"
 issue_key: BE-1213
 issue_type: SOW
 status: Closed
-faq_score: 8.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1213"
-created: 2025-11-14
-resolved: 2026-01-08
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1213
+created: '2025-11-14'
+resolved: '2026-01-08'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1213: [CS-1545] SOW of Item Master Data Import Customization'
 ---
-
 # BE-1213: [CS-1545] SOW of Item Master Data Import Customization
 
 ## 問題描述

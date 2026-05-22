@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-793: [MPOS-115][INC3149444]CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub"
 issue_key: MP-793
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-793"
-created: 2025-08-19
-resolved: 2025-09-02
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-793
+created: '2025-08-19'
+resolved: '2025-09-02'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-793: [MPOS-115][INC3149444]CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub'
 ---
-
 # MP-793: [MPOS-115][INC3149444]CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1369: Issue_PRC_not able to use member A's deposit and member B's CDP coupon in same ticket"
 issue_key: FE-1369
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1369"
-created: 2024-04-24
-resolved: 2024-04-25
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1369
+created: '2024-04-24'
+resolved: '2024-04-25'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1369: Issue_PRC_not able to use member A''s deposit and member B''s CDP coupon in same ticket'
 ---
-
 # FE-1369: Issue_PRC_not able to use member A's deposit and member B's CDP coupon in same ticket
 
 ## 問題描述

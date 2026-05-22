@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1018: [Coach][PIPL][Webview] Fail to view Purchase history in HK CRM"
 issue_key: BE-1018
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/BE-1018"
-created: 2025-03-03
-resolved: 2025-03-04
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1018
+created: '2025-03-03'
+resolved: '2025-03-04'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1018: [Coach][PIPL][Webview] Fail to view Purchase history in HK CRM'
 ---
-
 # BE-1018: [Coach][PIPL][Webview] Fail to view Purchase history in HK CRM
 
 ## 問題描述

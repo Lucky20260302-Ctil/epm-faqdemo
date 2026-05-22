@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1438"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1438"
-created: "2024-06-27"
-resolved: "2024-07-09"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1438
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1438
+created: '2024-06-27'
+resolved: '2024-07-09'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1438: REMS void memo will always return error message even though API returned sucess
 
 | 問題

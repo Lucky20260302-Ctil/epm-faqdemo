@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-979: CJ Loyalty - eCoupon Member Information Screen issue"
 issue_key: FE-979
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-979"
-created: 2021-06-10
-resolved: 2022-08-18
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-979
+created: '2021-06-10'
+resolved: '2022-08-18'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-979: CJ Loyalty - eCoupon Member Information Screen issue'
 ---
-
 # FE-979: CJ Loyalty - eCoupon Member Information Screen issue
 
 ## 問題描述

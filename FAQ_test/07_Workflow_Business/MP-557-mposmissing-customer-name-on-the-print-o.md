@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-557: [MPOS]Missing customer name on the print out"
 issue_key: MP-557
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-557"
-created: 2022-09-26
-resolved: 2023-11-16
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-557
+created: '2022-09-26'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-557: [MPOS]Missing customer name on the print out'
 ---
-
 # MP-557: [MPOS]Missing customer name on the print out
 
 ## 問題描述

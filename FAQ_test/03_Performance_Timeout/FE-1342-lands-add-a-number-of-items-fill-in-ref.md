@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1342: [Lands] Add a number of items & fill in ref no/ additional no., then pos pop up restart message"
 issue_key: FE-1342
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1342"
-created: 2024-02-15
-resolved: 2024-02-19
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1342
+created: '2024-02-15'
+resolved: '2024-02-19'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1342: [Lands] Add a number of items & fill in ref no/ additional no., then pos pop up restart message'
 ---
-
 # FE-1342: [Lands] Add a number of items & fill in ref no/ additional no., then pos pop up restart message
 
 ## 問題描述

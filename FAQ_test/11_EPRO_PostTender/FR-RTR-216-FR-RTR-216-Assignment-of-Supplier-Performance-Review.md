@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-216: FR-RTR-216: Assignment of Supplier Performance Review"
-tags: [epro, EPRO_PostTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_posttender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-216: FR-RTR-216: Assignment of Supplier Performance Review'
 ---
-
 # FR-RTR-216: FR-RTR-216: Assignment of Supplier Performance Review
 
 ## 需求描述

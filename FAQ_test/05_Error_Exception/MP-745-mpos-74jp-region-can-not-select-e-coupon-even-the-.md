@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-745"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-745"
-created: "2025-02-11"
-resolved: "2025-05-02"
-fix_version: ""
-components: [MPOS]
-category: "05_Error_Exception"
+project: MP
+issue_key: MP-745
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-745
+created: '2025-02-11'
+resolved: '2025-05-02'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 MP-745: JP Region, can not select E-Coupon even the member we selected have available ecoupon
 
 | 問題

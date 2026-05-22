@@ -1,20 +1,30 @@
 ---
 project: MP
-title: "MP-755: MPOS eReceipt Enhancement (UI + eReceipt Flow)"
 issue_key: MP-755
 issue_type: Improvement
 status: Release
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos, mpos-api, mposprint.exe]
-jira_url: "https://ctil.atlassian.net/browse/MP-755"
-created: 2025-03-06
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- mpos-api
+- mposprint.exe
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-755
+created: '2025-03-06'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-755: MPOS eReceipt Enhancement (UI + eReceipt Flow)'
 ---
-
 # MP-755: MPOS eReceipt Enhancement (UI + eReceipt Flow)
 
 ## 問題描述

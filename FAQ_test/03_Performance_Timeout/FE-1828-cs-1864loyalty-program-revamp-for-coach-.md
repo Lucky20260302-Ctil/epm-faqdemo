@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1828: [CS-1864]Loyalty Program Revamp for Coach Japan"
 issue_key: FE-1828
 issue_type: Change Request
 status: Selected for Development (migrated)
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1828"
-created: 2025-12-08
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1828
+created: '2025-12-08'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1828: [CS-1864]Loyalty Program Revamp for Coach Japan'
 ---
-
 # FE-1828: [CS-1864]Loyalty Program Revamp for Coach Japan
 
 ## 問題描述

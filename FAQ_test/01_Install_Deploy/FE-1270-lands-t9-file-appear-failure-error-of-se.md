@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1270: [Lands] T9 file appear Failure Error of sending e-receipt"
 issue_key: FE-1270
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end-v760.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1270"
-created: 2023-06-23
-resolved: 2023-11-16
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end-v760.02
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1270
+created: '2023-06-23'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1270: [Lands] T9 file appear Failure Error of sending e-receipt'
 ---
-
 # FE-1270: [Lands] T9 file appear Failure Error of sending e-receipt
 
 ## 問題描述

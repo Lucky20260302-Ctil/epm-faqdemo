@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-827: bug fix EnterpriseSystemAPI StockAdjustment overwrite the origin value by accident"
 issue_key: BE-827
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-827"
-created: 2023-11-01
-resolved: 2023-11-10
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-827
+created: '2023-11-01'
+resolved: '2023-11-10'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-827: bug fix EnterpriseSystemAPI StockAdjustment overwrite the origin value by accident'
 ---
-
 # BE-827: bug fix EnterpriseSystemAPI StockAdjustment overwrite the origin value by accident
 
 ## 問題描述

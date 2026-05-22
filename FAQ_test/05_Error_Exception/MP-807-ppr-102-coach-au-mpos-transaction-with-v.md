@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-807: [PPR-102] Coach AU MPOS Transaction with VIP post to DB failed"
 issue_key: MP-807
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-807"
-created: 2026-01-08
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-807
+created: '2026-01-08'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-807: [PPR-102] Coach AU MPOS Transaction with VIP post to DB failed'
 ---
-
 # MP-807: [PPR-102] Coach AU MPOS Transaction with VIP post to DB failed
 
 ## 問題描述

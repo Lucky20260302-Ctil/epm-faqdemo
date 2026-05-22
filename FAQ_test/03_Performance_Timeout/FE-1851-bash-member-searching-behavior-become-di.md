@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1851: [BASH] Member searching behavior become different after applied BASH release for fixing member issue"
 issue_key: FE-1851
 issue_type: Bug QA
 status: DEV Done
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1851"
-created: 2026-01-09
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1851
+created: '2026-01-09'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1851: [BASH] Member searching behavior become different after applied BASH release for fixing member issue'
 ---
-
 # FE-1851: [BASH] Member searching behavior become different after applied BASH release for fixing member issue
 
 ## 問題描述

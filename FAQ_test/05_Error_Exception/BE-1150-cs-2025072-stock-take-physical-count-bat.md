@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1150: cs [2025072] stock take, physical count batch control, fatal error"
 issue_key: BE-1150
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1150"
-created: 2025-07-24
-resolved: 2025-07-24
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(v66)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1150
+created: '2025-07-24'
+resolved: '2025-07-24'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'BE-1150: cs [2025072] stock take, physical count batch control, fatal error'
 ---
-
 # BE-1150: cs [2025072] stock take, physical count batch control, fatal error
 
 ## 問題描述

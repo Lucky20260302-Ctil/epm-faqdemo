@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1217: Discountvariance issue related to jouinv_exrate,jouinv_item_qty,jouinv_item_amt"
 issue_key: BE-1217
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1217"
-created: 2025-11-28
-resolved: 2026-05-14
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1217
+created: '2025-11-28'
+resolved: '2026-05-14'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1217: Discountvariance issue related to jouinv_exrate,jouinv_item_qty,jouinv_item_amt'
 ---
-
 # BE-1217: Discountvariance issue related to jouinv_exrate,jouinv_item_qty,jouinv_item_amt
 
 ## 問題描述

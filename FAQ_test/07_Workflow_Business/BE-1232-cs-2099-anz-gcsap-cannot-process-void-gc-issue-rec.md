@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1232"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1232"
-created: "2026-03-02"
-resolved: "2026-03-05"
-fix_version: "BE-V70R3.147"
-components: [Data Interface]
-category: "07_Workflow_Business"
+project: BE
+issue_key: BE-1232
+issue_type: Bug QA
+status: Closed
+tags:
+- 07_workflow_business
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1232
+created: '2026-03-02'
+resolved: '2026-03-05'
+fix_version: BE-V70R3.147
+components:
+- Data Interface
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 BE-1232: SAP cannot process void GC issue records
 
 | 問題

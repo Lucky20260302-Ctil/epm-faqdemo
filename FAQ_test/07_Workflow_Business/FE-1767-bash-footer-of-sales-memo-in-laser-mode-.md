@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1767: [BASH] Footer of sales memo in Laser mode used with FOOTSALES.TXT"
 issue_key: FE-1767
 issue_type: Bug QA
 status: DEV Done
-faq_score: 6.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1767"
-created: 2025-10-06
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1767
+created: '2025-10-06'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1767: [BASH] Footer of sales memo in Laser mode used with FOOTSALES.TXT'
 ---
-
 # FE-1767: [BASH] Footer of sales memo in Laser mode used with FOOTSALES.TXT
 
 ## 問題描述

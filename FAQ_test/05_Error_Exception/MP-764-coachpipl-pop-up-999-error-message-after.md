@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-764: [Coach][PIPL] Pop up 999 error message after searching member with EXIT_PERMIT=1 by mobile number"
 issue_key: MP-764
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-764"
-created: 2025-04-02
-resolved: 2025-04-03
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-764
+created: '2025-04-02'
+resolved: '2025-04-03'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-764: [Coach][PIPL] Pop up 999 error message after searching member with EXIT_PERMIT=1 by mobile number'
 ---
-
 # MP-764: [Coach][PIPL] Pop up 999 error message after searching member with EXIT_PERMIT=1 by mobile number
 
 ## 問題描述

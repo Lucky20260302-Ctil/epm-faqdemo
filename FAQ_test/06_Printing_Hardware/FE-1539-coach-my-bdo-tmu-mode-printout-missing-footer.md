@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1539"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1539"
-created: "2024-10-24"
-resolved: "2024-10-28"
-fix_version: ""
-components: [Front End]
-category: "06_Printing_Hardware"
+project: FE
+issue_key: FE-1539
+issue_type: Bug QA
+status: Closed
+tags:
+- 06_printing_hardware
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1539
+created: '2024-10-24'
+resolved: '2024-10-28'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
 ---
-
 FE-1539: Coach MY BDO - TMU mode printout missing footer
 
 | 問題

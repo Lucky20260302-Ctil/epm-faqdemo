@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1383"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1383"
-created: "2024-05-09"
-resolved: "2024-05-24"
-fix_version: "v750.04R04A"
-components: [Day End]
-category: "03_Performance_Timeout"
+project: FE
+issue_key: FE-1383
+issue_type: Bug PRD
+status: Closed
+tags:
+- 03_performance_timeout
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1383
+created: '2024-05-09'
+resolved: '2024-05-24'
+fix_version: v750.04R04A
+components:
+- Day End
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
 ---
-
 FE-1383: day end issue caused by dbhist too large
 
 | 問題

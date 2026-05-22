@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-816: MPOS NZ Rounding incorrect when change is ending in 6¢"
 issue_key: MP-816
 issue_type: Bug QA
 status: Open
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-816"
-created: 2026-03-04
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-816
+created: '2026-03-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-816: MPOS NZ Rounding incorrect when change is ending in 6¢'
 ---
-
 # MP-816: MPOS NZ Rounding incorrect when change is ending in 6¢
 
 ## 問題描述

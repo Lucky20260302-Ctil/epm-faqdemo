@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-820: Ticket 2020152 Sales memo net amt not match with payment amount"
 issue_key: FE-820
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, enquiry, sales]
-jira_url: "https://ctil.atlassian.net/browse/FE-820"
-created: 2020-11-03
-resolved: 2022-06-15
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- enquiry
+- faq
+- fe
+- sales
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-820
+created: '2020-11-03'
+resolved: '2022-06-15'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-820: Ticket 2020152 Sales memo net amt not match with payment amount'
 ---
-
 # FE-820: Ticket 2020152 Sales memo net amt not match with payment amount
 
 ## 問題描述

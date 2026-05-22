@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-745: [MPOS-74]JP Region, can not select E-Coupon even the member we selected have available ecoupon"
 issue_key: MP-745
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-745"
-created: 2025-02-11
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-745
+created: '2025-02-11'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-745: [MPOS-74]JP Region, can not select E-Coupon even the member we selected have available ecoupon'
 ---
-
 # MP-745: [MPOS-74]JP Region, can not select E-Coupon even the member we selected have available ecoupon
 
 ## 問題描述

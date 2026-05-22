@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1882"
-issue_type: "Bug QA"
-status: "Selected for Development (migrated)"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1882"
-created: "2026-02-10"
-resolved: ""
-fix_version: ""
-components: [Front End]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1882
+issue_type: Bug QA
+status: Selected for Development (migrated)
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1882
+created: '2026-02-10'
+resolved: ''
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1882: Incorrect amount of change after apply rounding: CHANGEROUND=R settings
 
 | 問題

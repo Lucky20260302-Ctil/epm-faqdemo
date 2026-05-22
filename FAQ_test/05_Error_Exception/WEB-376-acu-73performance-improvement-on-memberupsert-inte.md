@@ -1,17 +1,26 @@
 ---
-project: "WEB"
-issue_key: "WEB-376"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, web]
-jira_url: "https://ctil.atlassian.net/browse/WEB-376"
-created: "2024-12-05"
-resolved: "2025-01-03"
-fix_version: "BE-V70R3.78"
-components: [API]
-category: "05_Error_Exception"
+project: WEB
+issue_key: WEB-376
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/WEB-376
+created: '2024-12-05'
+resolved: '2025-01-03'
+fix_version: BE-V70R3.78
+components:
+- API
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 WEB-376: Performance Improvement on member/upsert Interface of POS
 
 | 問題

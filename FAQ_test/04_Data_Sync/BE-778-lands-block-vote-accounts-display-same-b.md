@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-778: [Lands] Block Vote accounts display same balance"
 issue_key: BE-778
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-778"
-created: 2023-07-07
-resolved: 2023-07-31
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-778
+created: '2023-07-07'
+resolved: '2023-07-31'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-778: [Lands] Block Vote accounts display same balance'
 ---
-
 # BE-778: [Lands] Block Vote accounts display same balance
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1103: Missing record in zlogack table - DotNet Zupdate"
 issue_key: FE-1103
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1103"
-created: 2022-03-04
-resolved: 2022-07-12
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1103
+created: '2022-03-04'
+resolved: '2022-07-12'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'FE-1103: Missing record in zlogack table - DotNet Zupdate'
 ---
-
 # FE-1103: Missing record in zlogack table - DotNet Zupdate 
 
 ## 問題描述

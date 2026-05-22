@@ -1,17 +1,28 @@
 ---
 project: ERM FEPOS
-title: "FE-1643: [ACU-115] CN Member can't be created by QR code scanning or mobile number inputting"
 issue_key: FE-1643
 issue_type: Bug PRD
 status: Closed
-tags: [faq, erm-fepos]
-jira_url: "https://ctil.atlassian.net/browse/FE-1643"
-created: 2025-03-07
-resolved: 2025-05-02
-fix_version: "BEAPI V1.7.5"
-components: [Front End]
+tags:
+- 04_data_sync
+- erm fepos
+- erm-fepos
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1643
+created: '2025-03-07'
+resolved: '2025-05-02'
+fix_version: BEAPI V1.7.5
+components:
+- Front End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: complete
+title: 'FE-1643: [ACU-115] CN Member can''t be created by QR code scanning or mobile number inputting'
 ---
-
 # FE-1643: [ACU-115] CN Member can't be created by QR code scanning or mobile number inputting
 
 ## 問題

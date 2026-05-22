@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-1230: MSMQ - Day end issue"
 issue_key: FE-1230
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, cs2kconnect, mqpolling]
-jira_url: "https://ctil.atlassian.net/browse/FE-1230"
-created: 2023-04-03
-resolved: 2024-07-11
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- cs2kconnect
+- data_sync
+- faq
+- fe
+- mqpolling
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1230
+created: '2023-04-03'
+resolved: '2024-07-11'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1230: MSMQ - Day end issue'
 ---
-
 # FE-1230: MSMQ - Day end issue
 
 ## 問題描述

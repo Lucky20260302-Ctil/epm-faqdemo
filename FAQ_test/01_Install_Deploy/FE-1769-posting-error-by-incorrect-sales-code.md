@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1769: Posting Error by incorrect Sales code"
 issue_key: FE-1769
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 8.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1769"
-created: 2025-10-08
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1769
+created: '2025-10-08'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1769: Posting Error by incorrect Sales code'
 ---
-
 # FE-1769: Posting Error by incorrect Sales code
 
 ## 問題描述

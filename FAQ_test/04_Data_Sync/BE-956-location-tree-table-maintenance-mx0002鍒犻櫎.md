@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-956: Location Tree Table Maintenance (MX0002)删除某一条Table Information信息，会将整个列表信息删除"
 issue_key: BE-956
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-956"
-created: 2024-11-27
-resolved: 2024-12-24
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-956
+created: '2024-11-27'
+resolved: '2024-12-24'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-956: Location Tree Table Maintenance (MX0002)删除某一条Table Information信息，会将整个列表信息删除'
 ---
-
 # BE-956: Location Tree Table Maintenance (MX0002)删除某一条Table Information信息，会将整个列表信息删除
 
 ## 問題描述

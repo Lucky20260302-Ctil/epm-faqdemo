@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-799: [Lands] GFMIS report appears incorrect sum of total price"
 issue_key: BE-799
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-799"
-created: 2023-09-01
-resolved: 2023-09-07
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- backend-(web)
+- be
+- faq
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-799
+created: '2023-09-01'
+resolved: '2023-09-07'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-799: [Lands] GFMIS report appears incorrect sum of total price'
 ---
-
 # BE-799: [Lands] GFMIS report appears incorrect sum of total price
 
 ## 問題描述

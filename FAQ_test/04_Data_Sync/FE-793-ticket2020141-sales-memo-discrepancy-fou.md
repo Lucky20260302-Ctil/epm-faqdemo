@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-793: ticket:2020141 sales memo, discrepancy found in posted data"
 issue_key: FE-793
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend, sales]
-jira_url: "https://ctil.atlassian.net/browse/FE-793"
-created: 2020-10-06
-resolved: 2020-11-11
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+- sales
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-793
+created: '2020-10-06'
+resolved: '2020-11-11'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-793: ticket:2020141 sales memo, discrepancy found in posted data'
 ---
-
 # FE-793: ticket:2020141 sales memo, discrepancy found in posted data
 
 ## 問題描述

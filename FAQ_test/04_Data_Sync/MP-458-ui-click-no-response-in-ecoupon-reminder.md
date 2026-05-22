@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-458: UI click no response in eCoupon Reminder"
 issue_key: MP-458
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-458"
-created: 2021-06-18
-resolved: 2021-07-20
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-458
+created: '2021-06-18'
+resolved: '2021-07-20'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-458: UI click no response in eCoupon Reminder'
 ---
-
 # MP-458: UI click no response in eCoupon Reminder
 
 ## 問題描述

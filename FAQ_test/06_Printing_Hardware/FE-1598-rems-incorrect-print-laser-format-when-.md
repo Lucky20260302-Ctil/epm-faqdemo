@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1598: REMS incorrect print laser format , when default printer is tmu windows printer"
 issue_key: FE-1598
 issue_type: Task
 status: Closed
-faq_score: 5.0
-faq_category: 06_Printing_Hardware
-faq_category_label: 列印與硬體
-tags: [faq, fe, printing_hardware, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1598"
-created: 2024-12-27
-resolved: 2025-01-03
-resolution: Done
-has_images: False
+tags:
+- 06_printing_hardware
+- faq
+- fe
+- front-end
+- printing_hardware
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1598
+created: '2024-12-27'
+resolved: '2025-01-03'
+fix_version: ''
+components: []
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: stub
+title: 'FE-1598: REMS incorrect print laser format , when default printer is tmu windows printer'
 ---
-
 # FE-1598: REMS incorrect print laser format , when default printer is tmu windows printer
 
 ## 問題描述

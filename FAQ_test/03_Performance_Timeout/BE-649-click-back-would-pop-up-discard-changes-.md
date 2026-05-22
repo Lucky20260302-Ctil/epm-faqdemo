@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-649: Click Back would pop up Discard Changes error but changes has saved"
 issue_key: BE-649
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-649"
-created: 2022-09-16
-resolved: 2024-04-27
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-649
+created: '2022-09-16'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-649: Click Back would pop up Discard Changes error but changes has saved'
 ---
-
 # BE-649: Click Back would pop up Discard Changes error but changes has saved
 
 ## 問題描述

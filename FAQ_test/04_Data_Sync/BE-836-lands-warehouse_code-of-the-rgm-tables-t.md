@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-836: [Lands] Warehouse_code of the RGM tables to have the same value as the store_code column"
 issue_key: BE-836
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, table]
-jira_url: "https://ctil.atlassian.net/browse/BE-836"
-created: 2024-01-26
-resolved: 2024-02-16
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- table
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-836
+created: '2024-01-26'
+resolved: '2024-02-16'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-836: [Lands] Warehouse_code of the RGM tables to have the same value as the store_code column'
 ---
-
 # BE-836: [Lands] Warehouse_code of the RGM tables to have the same value as the store_code column
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1174: [CS-1674] [CS-549]Request_Curent onsales price logic is not able to match business requirement"
 issue_key: BE-1174
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1174"
-created: 2025-09-12
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1174
+created: '2025-09-12'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1174: [CS-1674] [CS-549]Request_Curent onsales price logic is not able to match business requirement'
 ---
-
 # BE-1174: [CS-1674] [CS-549]Request_Curent onsales price logic is not able to match business requirement
 
 ## 問題描述

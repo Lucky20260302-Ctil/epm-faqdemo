@@ -1,20 +1,30 @@
 ---
 project: MP
-title: "MP-655: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1"
 issue_key: MP-655
 issue_type: Task
 status: Closed
-faq_score: 5.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos, mpos-api, mposprint.exe]
-jira_url: "https://ctil.atlassian.net/browse/MP-655"
-created: 2023-09-14
-resolved: 2023-09-14
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- mpos-api
+- mposprint.exe
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-655
+created: '2023-09-14'
+resolved: '2023-09-14'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-655: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1'
 ---
-
 # MP-655: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1
 
 ## 問題描述

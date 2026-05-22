@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1682: [CS-1415] Issue_CN _Member ID can be Any Character"
 issue_key: FE-1682
 issue_type: Bug PRD
 status: HOLD
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1682"
-created: 2025-04-28
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1682
+created: '2025-04-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1682: [CS-1415] Issue_CN _Member ID can be Any Character'
 ---
-
 # FE-1682: [CS-1415] Issue_CN _Member ID can be Any Character
 
 ## 問題描述

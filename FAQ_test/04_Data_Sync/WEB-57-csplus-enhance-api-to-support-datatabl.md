@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-57: csplus - enhance API to support DataTable as a SQL parameter"
 issue_key: WEB-57
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-57"
-created: 2020-08-12
-resolved: 2020-09-04
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-57
+created: '2020-08-12'
+resolved: '2020-09-04'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'WEB-57: csplus - enhance API to support DataTable as a SQL parameter'
 ---
-
 # WEB-57: csplus - enhance API to support DataTable as a SQL parameter
 
 ## 問題描述

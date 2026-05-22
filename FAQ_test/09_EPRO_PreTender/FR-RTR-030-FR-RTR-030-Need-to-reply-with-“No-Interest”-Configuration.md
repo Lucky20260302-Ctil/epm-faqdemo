@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-030: FR-RTR-030: Need to reply with “No Interest” Configuration"
-tags: [epro, EPRO_PreTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_pretender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-030: FR-RTR-030: Need to reply with “No Interest” Configuration'
 ---
-
 # FR-RTR-030: FR-RTR-030: Need to reply with “No Interest” Configuration
 
 ## 需求描述

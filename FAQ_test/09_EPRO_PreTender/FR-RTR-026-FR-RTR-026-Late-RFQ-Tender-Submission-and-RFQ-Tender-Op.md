@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-026: FR-RTR-026: Late RFQ / Tender Submission and RFQ / Tender Opening Approval Process Configuration"
-tags: [epro, EPRO_PreTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_pretender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-026: FR-RTR-026: Late RFQ / Tender Submission and RFQ / Tender Opening Approval Process Configuration'
 ---
-
 # FR-RTR-026: FR-RTR-026: Late RFQ / Tender Submission and RFQ / Tender Opening Approval Process Configuration
 
 ## 需求描述

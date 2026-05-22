@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1608: RIN01441233 - OC182 till0 reprint dayend report error,but reprint sales memo normal"
 issue_key: FE-1608
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, report]
-jira_url: "https://ctil.atlassian.net/browse/FE-1608"
-created: 2025-01-13
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- report
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1608
+created: '2025-01-13'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1608: RIN01441233 - OC182 till0 reprint dayend report error,but reprint sales memo normal'
 ---
-
 # FE-1608: RIN01441233 - OC182 till0 reprint dayend report error,but reprint sales memo normal
 
 ## 問題描述

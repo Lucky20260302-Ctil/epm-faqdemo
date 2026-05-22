@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1515: SOW of ACXIOM CRM API Integration - Milestone 2 - FE Part"
 issue_key: FE-1515
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1515"
-created: 2024-09-30
-resolved: 2024-11-08
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1515
+created: '2024-09-30'
+resolved: '2024-11-08'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'FE-1515: SOW of ACXIOM CRM API Integration - Milestone 2 - FE Part'
 ---
-
 # FE-1515: SOW of ACXIOM CRM API Integration - Milestone 2 - FE Part
 
 ## 問題描述

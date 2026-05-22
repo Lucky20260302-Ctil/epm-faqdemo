@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1844: [Coach] CSDataInterface- Issue of common dll conflicts causing itmast lock function not work"
 issue_key: FE-1844
 issue_type: Bug QA
 status: Release
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, backend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1844"
-created: 2026-01-05
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- backend
+- data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1844
+created: '2026-01-05'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1844: [Coach] CSDataInterface- Issue of common dll conflicts causing itmast lock function not work'
 ---
-
 # FE-1844: [Coach] CSDataInterface- Issue of common dll conflicts causing itmast lock function not work
 
 ## 問題描述

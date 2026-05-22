@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-791: MPOS-113: Request set eReceipt function as disabled for JP MPOS config"
 issue_key: MP-791
 issue_type: Task
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-791"
-created: 2025-08-13
-resolved: 2025-08-13
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-791
+created: '2025-08-13'
+resolved: '2025-08-13'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-791: MPOS-113: Request set eReceipt function as disabled for JP MPOS config'
 ---
-
 # MP-791: MPOS-113: Request set eReceipt function as disabled for JP MPOS config
 
 ## 問題描述

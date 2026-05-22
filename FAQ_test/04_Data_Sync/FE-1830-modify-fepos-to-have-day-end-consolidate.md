@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1830: Modify FEPOS to have Day-end consolidated report if 3rd party (Omni) is enabled"
 issue_key: FE-1830
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1830"
-created: 2025-12-11
-resolved: 2026-02-26
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1830
+created: '2025-12-11'
+resolved: '2026-02-26'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1830: Modify FEPOS to have Day-end consolidated report if 3rd party (Omni) is enabled'
 ---
-
 # FE-1830: Modify FEPOS to have Day-end consolidated report if 3rd party (Omni) is enabled
 
 ## 問題描述

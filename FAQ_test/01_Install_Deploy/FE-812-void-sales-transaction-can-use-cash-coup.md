@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat"
 issue_key: FE-812
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, sales]
-jira_url: "https://ctil.atlassian.net/browse/FE-812"
-created: 2020-10-22
-resolved: 2020-11-23
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- sales
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-812
+created: '2020-10-22'
+resolved: '2020-11-23'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat'
 ---
-
 # FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat
 
 ## 問題描述

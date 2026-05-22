@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1243: [Lands] The frist page of receipt show header only when order quantities of items over 20"
 issue_key: FE-1243
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end-v760.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1243"
-created: 2023-05-11
-resolved: 2023-06-02
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end-v760.01r01a
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1243
+created: '2023-05-11'
+resolved: '2023-06-02'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1243: [Lands] The frist page of receipt show header only when order quantities of items over 20'
 ---
-
 # FE-1243: [Lands] The frist page of receipt show header only when order quantities of items over 20
 
 ## 問題描述

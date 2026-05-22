@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-516: Polling program --- Error “ETX file not found”"
 issue_key: BE-516
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-516"
-created: 2021-08-24
-resolved: 2021-08-24
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-516
+created: '2021-08-24'
+resolved: '2021-08-24'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-516: Polling program --- Error “ETX file not found”'
 ---
-
 # BE-516: Polling program --- Error “ETX file not found”
 
 ## 問題描述

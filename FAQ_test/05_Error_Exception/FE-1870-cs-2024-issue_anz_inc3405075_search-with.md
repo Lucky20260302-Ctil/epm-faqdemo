@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1870: [CS-2024] Issue_ANZ_INC3405075_Search with Name but fail. (C360 use first name / last name)"
 issue_key: FE-1870
 issue_type: Task
 status: Re Open
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1870"
-created: 2026-01-28
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1870
+created: '2026-01-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1870: [CS-2024] Issue_ANZ_INC3405075_Search with Name but fail. (C360 use first name / last name)'
 ---
-
 # FE-1870: [CS-2024] Issue_ANZ_INC3405075_Search with Name but fail. (C360 use first name / last name)
 
 ## 問題描述

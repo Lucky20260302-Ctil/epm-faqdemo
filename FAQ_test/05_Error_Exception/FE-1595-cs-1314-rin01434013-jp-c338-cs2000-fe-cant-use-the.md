@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1595"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1595"
-created: "2024-12-26"
-resolved: "2025-02-20"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1595
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1595
+created: '2024-12-26'
+resolved: '2025-02-20'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1595: RIN01434013 - JP - C338  - CS2000 - FE : Can't use the vip no after the member no searched out in POS
 
 | 問題

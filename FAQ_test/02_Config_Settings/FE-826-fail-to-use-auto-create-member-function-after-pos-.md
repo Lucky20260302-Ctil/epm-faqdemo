@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-826"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-826"
-created: "2020-11-06"
-resolved: "2020-11-06"
-fix_version: "V720.02R03Q5"
-components: [Frontend]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-826
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-826
+created: '2020-11-06'
+resolved: '2020-11-06'
+fix_version: V720.02R03Q5
+components:
+- Frontend
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-826: Fail to use auto create member function after POS restart
 
 | 問題

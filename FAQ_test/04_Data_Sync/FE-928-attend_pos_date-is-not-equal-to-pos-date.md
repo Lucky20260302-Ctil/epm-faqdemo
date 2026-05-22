@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-928: Attend_Pos_Date is not equal to POS date"
 issue_key: FE-928
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-928"
-created: 2021-02-23
-resolved: 2021-03-01
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-928
+created: '2021-02-23'
+resolved: '2021-03-01'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-928: Attend_Pos_Date is not equal to POS date'
 ---
-
 # FE-928: Attend_Pos_Date is not equal to POS date
 
 ## 問題描述

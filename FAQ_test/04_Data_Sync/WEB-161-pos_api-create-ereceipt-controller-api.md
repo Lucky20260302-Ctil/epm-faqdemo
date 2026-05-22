@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-161: POS_API - Create eReceipt controller (/api/v1/cloud/ereceipt) to upload eReceipt to S3 or share path"
 issue_key: WEB-161
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/WEB-161"
-created: 2020-11-11
-resolved: 2020-11-11
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- data_sync
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-161
+created: '2020-11-11'
+resolved: '2020-11-11'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'WEB-161: POS_API - Create eReceipt controller (/api/v1/cloud/ereceipt) to upload eReceipt to S3 or share path'
 ---
-
 # WEB-161: POS_API - Create eReceipt controller (/api/v1/cloud/ereceipt) to upload eReceipt to S3 or share path
 
 ## 問題描述

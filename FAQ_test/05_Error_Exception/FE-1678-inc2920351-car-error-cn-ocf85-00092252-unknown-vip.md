@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1678"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1678"
-created: "2025-04-24"
-resolved: "2025-05-06"
-fix_version: ""
-components: [API]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1678
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1678
+created: '2025-04-24'
+resolved: '2025-05-06'
+fix_version: ''
+components:
+- API
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1678: CAR Error - CN OCF85-00092252 Unknown vip type code 9999 04/17
 
 | 問題

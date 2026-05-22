@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-1622: [RIN01447976]dayend issue on OC126 on till1 after upgraded to V75"
 issue_key: FE-1622
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, cs2kconnect, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1622"
-created: 2025-02-07
-resolved: 2025-02-24
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- cs2kconnect
+- faq
+- fe
+- front-end-v750.01r01a
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1622
+created: '2025-02-07'
+resolved: '2025-02-24'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1622: [RIN01447976]dayend issue on OC126 on till1 after upgraded to V75'
 ---
-
 # FE-1622: [RIN01447976]dayend issue on OC126 on till1 after upgraded to V75
 
 ## 問題描述

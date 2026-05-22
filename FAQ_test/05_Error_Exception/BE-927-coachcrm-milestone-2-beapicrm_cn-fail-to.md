@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-927: [Coach][CRM milestone 2] BEAPICRM_CN fail to search backend DB when fail to connect CRM api"
 issue_key: BE-927
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-927"
-created: 2024-10-28
-resolved: 2024-11-01
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-927
+created: '2024-10-28'
+resolved: '2024-11-01'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-927: [Coach][CRM milestone 2] BEAPICRM_CN fail to search backend DB when fail to connect CRM api'
 ---
-
 # BE-927: [Coach][CRM milestone 2] BEAPICRM_CN fail to search backend DB when fail to connect CRM api
 
 ## 問題描述

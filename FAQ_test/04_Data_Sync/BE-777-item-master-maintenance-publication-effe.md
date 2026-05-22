@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-777: Item Master Maintenance Publication 'Effective At' can't be displayed."
 issue_key: BE-777
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-777"
-created: 2023-07-06
-resolved: 2023-08-14
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-777
+created: '2023-07-06'
+resolved: '2023-08-14'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-777: Item Master Maintenance Publication ''Effective At'' can''t be displayed.'
 ---
-
 # BE-777: Item Master Maintenance Publication "Effective At" can't be displayed.
 
 ## 問題描述

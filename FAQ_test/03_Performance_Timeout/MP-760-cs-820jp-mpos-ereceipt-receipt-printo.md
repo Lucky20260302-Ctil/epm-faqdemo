@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-760: [CS-820]JP | MPOS | eReceipt | Receipt printout popup is showing “レシート再印刷” after sales"
 issue_key: MP-760
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-760"
-created: 2025-03-25
-resolved: 2025-05-02
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-760
+created: '2025-03-25'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-760: [CS-820]JP | MPOS | eReceipt | Receipt printout popup is showing “レシート再印刷” after sales'
 ---
-
 # MP-760: [CS-820]JP | MPOS | eReceipt | Receipt printout popup is showing “レシート再印刷” after sales
 
 ## 問題描述

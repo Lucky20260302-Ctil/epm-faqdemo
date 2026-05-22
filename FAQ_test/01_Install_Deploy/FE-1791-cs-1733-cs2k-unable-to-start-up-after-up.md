@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1791: [CS-1733] CS2K Unable to start up after upgrade to v75.004.1402.0000"
 issue_key: FE-1791
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1791"
-created: 2025-11-04
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1791
+created: '2025-11-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1791: [CS-1733] CS2K Unable to start up after upgrade to v75.004.1402.0000'
 ---
-
 # FE-1791: [CS-1733] CS2K Unable to start up after upgrade to v75.004.1402.0000
 
 ## 問題描述

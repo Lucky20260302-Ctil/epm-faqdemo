@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-620: Translation issue of Enquiry function on mpos"
 issue_key: MP-620
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-620"
-created: 2022-12-20
-resolved: 2023-06-27
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-620
+created: '2022-12-20'
+resolved: '2023-06-27'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-620: Translation issue of Enquiry function on mpos'
 ---
-
 # MP-620: Translation issue of Enquiry function on mpos
 
 ## 問題描述

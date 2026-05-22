@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-189:  Fix the compatibility issue in IE 10 & IE 11"
 issue_key: WEB-189
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, epromo]
-jira_url: "https://ctil.atlassian.net/browse/WEB-189"
-created: 2020-12-17
-resolved: 2020-12-17
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- epromo
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-189
+created: '2020-12-17'
+resolved: '2020-12-17'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'WEB-189:  Fix the compatibility issue in IE 10 & IE 11'
 ---
-
 # WEB-189:  Fix the compatibility issue in IE 10 & IE 11
 
 ## 問題描述

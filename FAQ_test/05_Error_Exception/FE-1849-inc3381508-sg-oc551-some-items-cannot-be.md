@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1849: [INC3381508] SG OC551 Some items cannot be printed from POS system"
 issue_key: FE-1849
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1849"
-created: 2026-01-09
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1849
+created: '2026-01-09'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1849: [INC3381508] SG OC551 Some items cannot be printed from POS system'
 ---
-
 # FE-1849: [INC3381508] SG OC551 Some items cannot be printed from POS system
 
 ## 問題描述

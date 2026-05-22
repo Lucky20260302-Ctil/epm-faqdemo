@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-822: Tapestry RFP Demo Preparation"
 issue_key: BE-822
 issue_type: Task
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-822"
-created: 2023-10-16
-resolved: 2023-11-03
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- backend-(web)
+- be
+- faq
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-822
+created: '2023-10-16'
+resolved: '2023-11-03'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-822: Tapestry RFP Demo Preparation'
 ---
-
 # BE-822: Tapestry RFP Demo Preparation
 
 ## 問題描述

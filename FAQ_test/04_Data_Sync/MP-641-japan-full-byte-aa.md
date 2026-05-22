@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-641: Japan full-byte AA"
 issue_key: MP-641
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-641"
-created: 2023-03-13
-resolved: 2024-07-12
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-641
+created: '2023-03-13'
+resolved: '2024-07-12'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-641: Japan full-byte AA'
 ---
-
 # MP-641: Japan full-byte AA
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1839: [INC3353418]When they are processing a CMB payment bill, it firstly pop out a error 'CBM 付款 失败，已取消一个任务'. Then user try repay and it become successful."
 issue_key: FE-1839
 issue_type: Bug DEV
 status: Open
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1839"
-created: 2025-12-29
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1839
+created: '2025-12-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1839: [INC3353418]When they are processing a CMB payment bill, it firstly pop out a error ''CBM 付款 失败，已取消一个任务''. Then user try repay and it become successful.'
 ---
-
 # FE-1839: [INC3353418]When they are processing a CMB payment bill, it firstly pop out a error 'CBM 付款 失败，已取消一个任务'. Then user try repay and it become successful.
 
 ## 問題描述

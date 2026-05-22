@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1778: [INC3270891]dayend report was separated into two papers by laser printer"
 issue_key: FE-1778
 issue_type: Bug DEV
 status: Selected for Development (migrated)
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1778"
-created: 2025-10-30
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1778
+created: '2025-10-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1778: [INC3270891]dayend report was separated into two papers by laser printer'
 ---
-
 # FE-1778: [INC3270891]dayend report was separated into two papers by laser printer
 
 ## 問題描述

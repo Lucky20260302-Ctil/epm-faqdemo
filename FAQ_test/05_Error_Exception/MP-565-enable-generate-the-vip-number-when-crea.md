@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-565: enable generate the vip number when create the vip"
 issue_key: MP-565
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-565"
-created: 2022-10-03
-resolved: 2022-10-19
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-565
+created: '2022-10-03'
+resolved: '2022-10-19'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-565: enable generate the vip number when create the vip'
 ---
-
 # MP-565: enable generate the vip number when create the vip
 
 ## 問題描述

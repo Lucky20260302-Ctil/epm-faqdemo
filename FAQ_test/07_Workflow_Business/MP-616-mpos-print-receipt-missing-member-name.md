@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-616"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-616"
-created: "2022-12-16"
-resolved: "2023-11-16"
-fix_version: ""
-components: [MPOS]
-category: "07_Workflow_Business"
+project: MP
+issue_key: MP-616
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-616
+created: '2022-12-16'
+resolved: '2023-11-16'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 MP-616: MPOS print receipt missing member name
 
 | 問題

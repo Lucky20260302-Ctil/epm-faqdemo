@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1807: V75 Lisenses API setup"
 issue_key: FE-1807
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1807"
-created: 2025-11-11
-resolved: 2026-04-23
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1807
+created: '2025-11-11'
+resolved: '2026-04-23'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1807: V75 Lisenses API setup'
 ---
-
 # FE-1807: V75 Lisenses API setup
 
 ## 問題描述

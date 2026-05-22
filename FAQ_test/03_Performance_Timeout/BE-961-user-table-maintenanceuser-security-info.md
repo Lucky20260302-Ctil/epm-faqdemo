@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-961: User Table Maintenance（User Security Information(GL0005)）:Click Change Password ,New Password和Verification input'AAaa123！'保存报错"
 issue_key: BE-961
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-961"
-created: 2024-12-03
-resolved: 2025-02-21
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-961
+created: '2024-12-03'
+resolved: '2025-02-21'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-961: User Table Maintenance（User Security Information(GL0005)）:Click Change Password ,New Password和Verification input''AAaa123！''保存报错'
 ---
-
 # BE-961: User Table Maintenance（User Security Information(GL0005)）:Click Change Password ,New Password和Verification input'AAaa123！'保存报错
 
 ## 問題描述

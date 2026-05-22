@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-428: CJ#124 - add barcode scan for sales associate"
 issue_key: MP-428
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-428"
-created: 2021-05-04
-resolved: 2021-05-17
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-428
+created: '2021-05-04'
+resolved: '2021-05-17'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'MP-428: CJ#124 - add barcode scan for sales associate'
 ---
-
 # MP-428: CJ#124 - add barcode scan for sales associate
 
 ## 問題描述

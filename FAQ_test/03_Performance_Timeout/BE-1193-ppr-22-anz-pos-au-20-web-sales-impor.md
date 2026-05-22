@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1193: [PPR-22] - ANZ POS - AU 20 Web sales import error - Exchange rate not found"
 issue_key: BE-1193
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1193"
-created: 2025-10-29
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1193
+created: '2025-10-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1193: [PPR-22] - ANZ POS - AU 20 Web sales import error - Exchange rate not found'
 ---
-
 # BE-1193: [PPR-22] - ANZ POS - AU 20 Web sales import error - Exchange rate not found
 
 ## 問題描述

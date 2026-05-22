@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-890: [Coach][CRM] Adjustment of order records sequence"
 issue_key: BE-890
 issue_type: Improvement
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-890"
-created: 2024-08-06
-resolved: 2025-02-21
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-890
+created: '2024-08-06'
+resolved: '2025-02-21'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-890: [Coach][CRM] Adjustment of order records sequence'
 ---
-
 # BE-890: [Coach][CRM] Adjustment of order records sequence
 
 ## 問題描述

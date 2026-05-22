@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1498"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1498"
-created: "2024-09-08"
-resolved: "2024-09-23"
-fix_version: "V75.04R04I-2"
-components: [Front End]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1498
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1498
+created: '2024-09-08'
+resolved: '2024-09-23'
+fix_version: V75.04R04I-2
+components:
+- Front End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1498: v75 - CS2K & MPOS Gift cert transaction unable post to DB.
 
 | 問題

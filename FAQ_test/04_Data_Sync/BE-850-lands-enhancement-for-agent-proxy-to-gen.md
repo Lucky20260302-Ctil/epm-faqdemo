@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-850: [Lands] Enhancement for Agent proxy to generate CSR image for work ledger"
 issue_key: BE-850
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-850"
-created: 2024-05-03
-resolved: 2024-05-03
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(v66)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-850
+created: '2024-05-03'
+resolved: '2024-05-03'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-850: [Lands] Enhancement for Agent proxy to generate CSR image for work ledger'
 ---
-
 # BE-850: [Lands] Enhancement for Agent proxy to generate CSR image for work ledger
 
 ## 問題描述

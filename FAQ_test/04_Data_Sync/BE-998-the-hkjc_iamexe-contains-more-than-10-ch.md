@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-998: The 'HKJC_IAM.exe' contains more than 10 characters"
 issue_key: BE-998
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-998"
-created: 2025-01-27
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- backend-(v66)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-998
+created: '2025-01-27'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-998: The ''HKJC_IAM.exe'' contains more than 10 characters'
 ---
-
 # BE-998: The "HKJC_IAM.exe" contains more than 10 characters
 
 ## 問題描述

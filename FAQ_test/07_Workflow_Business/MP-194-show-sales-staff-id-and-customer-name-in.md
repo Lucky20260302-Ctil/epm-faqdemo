@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-194: Show Sales Staff ID and Customer Name in Payment Screen"
 issue_key: MP-194
 issue_type: Improvement
 status: Closed
-faq_score: 4.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-194"
-created: 2020-05-21
-resolved: 2020-06-04
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-194
+created: '2020-05-21'
+resolved: '2020-06-04'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-194: Show Sales Staff ID and Customer Name in Payment Screen'
 ---
-
 # MP-194: Show Sales Staff ID and Customer Name in Payment Screen
 
 ## 問題描述

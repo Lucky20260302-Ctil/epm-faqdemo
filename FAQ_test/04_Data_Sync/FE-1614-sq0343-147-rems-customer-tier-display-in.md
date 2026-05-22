@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1614: (SQ0343-147) [REMS] Customer Tier display in POS UI not match with APP display"
 issue_key: FE-1614
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1614"
-created: 2025-01-23
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1614
+created: '2025-01-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1614: (SQ0343-147) [REMS] Customer Tier display in POS UI not match with APP display'
 ---
-
 # FE-1614: (SQ0343-147) [REMS] Customer Tier display in POS UI not match with APP display
 
 ## 問題描述

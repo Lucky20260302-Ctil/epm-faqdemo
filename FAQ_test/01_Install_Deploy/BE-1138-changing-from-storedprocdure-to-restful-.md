@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1138: Changing from StoredProcdure to Restful API calling for OSSRGM"
 issue_key: BE-1138
 issue_type: SOW
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1138"
-created: 2025-06-19
-resolved: 2025-09-23
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- be
+- data-interface
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1138
+created: '2025-06-19'
+resolved: '2025-09-23'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-1138: Changing from StoredProcdure to Restful API calling for OSSRGM'
 ---
-
 # BE-1138: Changing from StoredProcdure to Restful API calling for OSSRGM
 
 ## 問題描述

@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-001: FR-RTR-001: Procurement Strategy (PS)"
-tags: [epro, EPRO_PreTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_pretender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-001: FR-RTR-001: Procurement Strategy (PS)'
 ---
-
 # FR-RTR-001: FR-RTR-001: Procurement Strategy (PS)
 
 ## 需求描述

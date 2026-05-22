@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-646: Cannot back to correct place in menu when users enter from specific tabs"
 issue_key: BE-646
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-646"
-created: 2022-09-15
-resolved: 2024-04-27
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-646
+created: '2022-09-15'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-646: Cannot back to correct place in menu when users enter from specific tabs'
 ---
-
 # BE-646: Cannot back to correct place in menu when users enter from specific tabs
 
 ## 問題描述

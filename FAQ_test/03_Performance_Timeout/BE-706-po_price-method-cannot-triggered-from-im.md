@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-706: PO_Price Method cannot triggered from IM_price flag"
 issue_key: BE-706
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-706"
-created: 2022-11-25
-resolved: 2022-12-30
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-706
+created: '2022-11-25'
+resolved: '2022-12-30'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-706: PO_Price Method cannot triggered from IM_price flag'
 ---
-
 # BE-706: PO_Price Method cannot triggered from IM_price flag
 
 ## 問題描述

@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1605"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1605"
-created: "2025-01-13"
-resolved: "2025-02-24"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1605
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1605
+created: '2025-01-13'
+resolved: '2025-02-24'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1605: Pop up an error after click on 'F7 Retrieve Order'
 
 | 問題

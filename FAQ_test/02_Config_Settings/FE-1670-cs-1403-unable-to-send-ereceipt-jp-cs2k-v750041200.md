@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1670"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1670"
-created: "2025-04-17"
-resolved: ""
-fix_version: ""
-components: [API]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1670
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1670
+created: '2025-04-17'
+resolved: ''
+fix_version: ''
+components:
+- API
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1670: Unable to send eReceipt - JP CS2K v75.004.1200.0001
 
 | 問題

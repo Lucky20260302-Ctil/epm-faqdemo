@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-517: [RIN00945074][OC134] Sales Amount variance between POS and MPOS"
 issue_key: MP-517
 issue_type: Bug PRD
 status: Closed
-faq_score: 8.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-517"
-created: 2022-03-09
-resolved: 2024-11-06
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-517
+created: '2022-03-09'
+resolved: '2024-11-06'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-517: [RIN00945074][OC134] Sales Amount variance between POS and MPOS'
 ---
-
 # MP-517: [RIN00945074][OC134] Sales Amount variance between POS and MPOS
 
 ## 問題描述

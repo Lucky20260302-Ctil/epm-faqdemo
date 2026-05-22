@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-019: FR-RTR-019: Set up Contact Point for RFQ / Tender Invitations"
-tags: [epro, EPRO_PreTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_pretender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-019: FR-RTR-019: Set up Contact Point for RFQ / Tender Invitations'
 ---
-
 # FR-RTR-019: FR-RTR-019: Set up Contact Point for RFQ / Tender Invitations
 
 ## 需求描述

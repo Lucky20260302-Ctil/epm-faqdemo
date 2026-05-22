@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-101: FR-RTR-101: Submission of Quotations / Tenders"
-tags: [epro, EPRO_TenderStage]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_tenderstage
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-101: FR-RTR-101: Submission of Quotations / Tenders'
 ---
-
 # FR-RTR-101: FR-RTR-101: Submission of Quotations / Tenders
 
 ## 需求描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1939: [Coach] Missing Conflicts notice when Cloud > Local for VIP sequence"
 issue_key: FE-1939
 issue_type: Bug QA
 status: Open
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1939"
-created: 2026-04-23
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1939
+created: '2026-04-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1939: [Coach] Missing Conflicts notice when Cloud > Local for VIP sequence'
 ---
-
 # FE-1939: [Coach] Missing Conflicts notice when Cloud > Local for VIP sequence 
 
 ## 問題描述

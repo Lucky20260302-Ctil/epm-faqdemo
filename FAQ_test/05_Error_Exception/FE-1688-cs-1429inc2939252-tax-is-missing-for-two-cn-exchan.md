@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1688"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1688"
-created: "2025-05-08"
-resolved: "2025-05-30"
-fix_version: "FE-V75.04R13A"
-components: [Frontend]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1688
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1688
+created: '2025-05-08'
+resolved: '2025-05-30'
+fix_version: FE-V75.04R13A
+components:
+- Frontend
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1688: Tax is missing for two CN exchange transactions
 
 | 問題

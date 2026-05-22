@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-721: Cannont load to view Physical Adjustment Process Modify"
 issue_key: BE-721
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-721"
-created: 2023-02-24
-resolved: 2023-11-16
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-721
+created: '2023-02-24'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-721: Cannont load to view Physical Adjustment Process Modify'
 ---
-
 # BE-721: Cannont load to view Physical Adjustment Process Modify
 
 ## 問題描述

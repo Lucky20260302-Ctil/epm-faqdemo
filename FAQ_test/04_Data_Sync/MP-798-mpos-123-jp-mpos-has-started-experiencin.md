@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-798: [MPOS-123] JP MPOS has started experiencing situations where scanning product A brings up product B's information"
 issue_key: MP-798
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-798"
-created: 2025-09-08
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-798
+created: '2025-09-08'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-798: [MPOS-123] JP MPOS has started experiencing situations where scanning product A brings up product B''s information'
 ---
-
 # MP-798: [MPOS-123] JP MPOS has started experiencing situations where scanning product A brings up product B's information
 
 ## 問題描述

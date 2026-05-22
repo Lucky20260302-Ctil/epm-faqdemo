@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1279: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1"
 issue_key: FE-1279
 issue_type: SOW
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1279"
-created: 2023-08-01
-resolved: 2024-04-25
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end-v720.02
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1279
+created: '2023-08-01'
+resolved: '2024-04-25'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1279: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1'
 ---
-
 # FE-1279: Q2023-046-ERM- Tapestry Japan- SOW Coach Japan e-Receipt Sending v1.1
 
 ## 問題描述

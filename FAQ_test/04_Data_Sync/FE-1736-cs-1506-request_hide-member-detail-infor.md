@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1736: [CS-1506] Request_Hide Member Detail information button"
 issue_key: FE-1736
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1736"
-created: 2025-07-28
-resolved: 2025-08-20
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1736
+created: '2025-07-28'
+resolved: '2025-08-20'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1736: [CS-1506] Request_Hide Member Detail information button'
 ---
-
 # FE-1736: [CS-1506] Request_Hide Member Detail information button
 
 ## 問題描述

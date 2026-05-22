@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1265: [CS-2757][OmniHub] Omni hub & CS2K Integration - Add Email Alert for Promotion Engine Job Failure"
 issue_key: BE-1265
 issue_type: Improvement
 status: Selected for Development (migrated)
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1265"
-created: 2026-05-19
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- api
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1265
+created: '2026-05-19'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: stub
+title: 'BE-1265: [CS-2757][OmniHub] Omni hub & CS2K Integration - Add Email Alert for Promotion Engine Job Failure'
 ---
-
 # BE-1265: [CS-2757][OmniHub] Omni hub & CS2K Integration - Add Email Alert for Promotion Engine Job Failure
 
 ## 問題描述

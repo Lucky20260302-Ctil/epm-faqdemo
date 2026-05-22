@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer"
 issue_key: MP-312
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, mp, config_settings, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-312"
-created: 2020-11-13
-resolved: 2020-12-10
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-312
+created: '2020-11-13'
+resolved: '2020-12-10'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: stub
+title: 'MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer'
 ---
-
 # MP-312: Disable [PDF Printer] & [XPS Printer] for Default Printer
 
 ## 問題描述

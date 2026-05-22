@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-1971
-tags: [faq, epm, epmtdcprot, 02-config-settings]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-1971"
+issue_type: ''
+status: ''
+tags:
+- 02-config-settings
+- 02_config_settings
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-1971
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 02_Config_Settings
-category_name: "設定與配置"
+category_label: 配置與設定
+quality: partial
 ---
-
 EPMTDCPROT-1971: 開標階段 Technical Compliance Check 的 label 顯示錯誤及 default value 預設為 disqualify
 
 | 問題

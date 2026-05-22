@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-352: POS Payment Key Button Control：Currency code input ’PAY‘，F1 input ’PAY‘  click  save，提示invalid Payment Code"
 issue_key: WEB-352
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, web-enquiry]
-jira_url: "https://ctil.atlassian.net/browse/WEB-352"
-created: 2024-07-04
-resolved: 2024-08-30
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- web
+- web-enquiry
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-352
+created: '2024-07-04'
+resolved: '2024-08-30'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-352: POS Payment Key Button Control：Currency code input ’PAY‘，F1 input ’PAY‘  click  save，提示invalid Payment Code'
 ---
-
 # WEB-352: POS Payment Key Button Control：Currency code input ’PAY‘，F1 input ’PAY‘  click  save，提示invalid Payment Code
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-785: Incomplete transaction due to out of memory"
 issue_key: FE-785
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-785"
-created: 2020-09-30
-resolved: 2020-11-23
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- frontend
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-785
+created: '2020-09-30'
+resolved: '2020-11-23'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-785: Incomplete transaction due to out of memory'
 ---
-
 # FE-785: Incomplete transaction due to out of memory 
 
 ## 問題描述

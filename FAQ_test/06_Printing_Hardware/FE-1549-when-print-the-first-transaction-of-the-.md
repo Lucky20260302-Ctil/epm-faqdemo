@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1549: when print the first transaction of the day, POS will take a long time"
 issue_key: FE-1549
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 06_Printing_Hardware
-faq_category_label: 列印與硬體
-tags: [faq, fe, printing_hardware, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1549"
-created: 2024-11-06
-resolved: 2025-02-24
-resolution: Done
-has_images: False
+tags:
+- 06_printing_hardware
+- faq
+- fe
+- front-end-v720.02
+- printing_hardware
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1549
+created: '2024-11-06'
+resolved: '2025-02-24'
+fix_version: ''
+components: []
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
+title: 'FE-1549: when print the first transaction of the day, POS will take a long time'
 ---
-
 # FE-1549: when print the first transaction of the day, POS will take a long time
 
 ## 問題描述

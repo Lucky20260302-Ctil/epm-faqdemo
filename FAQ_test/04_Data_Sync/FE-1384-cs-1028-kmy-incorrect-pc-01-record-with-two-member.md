@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1384"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1384"
-created: "2024-05-09"
-resolved: "2024-05-24"
-fix_version: "v750.05, v750.04R04A"
-components: [Front End]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1384
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1384
+created: '2024-05-09'
+resolved: '2024-05-24'
+fix_version: v750.05, v750.04R04A
+components:
+- Front End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1384: KMY incorrect PC 01 record with two member no
 
 | 問題

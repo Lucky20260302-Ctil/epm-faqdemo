@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1107: A920 - Octopus & PayMe"
 issue_key: FE-1107
 issue_type: SOW
 status: Closed
-faq_score: 8.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1107"
-created: 2022-04-04
-resolved: 2022-06-01
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1107
+created: '2022-04-04'
+resolved: '2022-06-01'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1107: A920 - Octopus & PayMe'
 ---
-
 # FE-1107: A920 - Octopus & PayMe
 
 ## 問題描述

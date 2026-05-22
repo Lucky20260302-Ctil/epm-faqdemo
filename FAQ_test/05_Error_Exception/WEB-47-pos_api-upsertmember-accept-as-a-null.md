@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-47: POS_API - UpsertMember accept '' as a null value"
 issue_key: WEB-47
 issue_type: Task
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-47"
-created: 2020-08-12
-resolved: 2020-09-04
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-47
+created: '2020-08-12'
+resolved: '2020-09-04'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-47: POS_API - UpsertMember accept '''' as a null value'
 ---
-
 # WEB-47: POS_API - UpsertMember accept "" as a null value
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1240: [CS-2337]ANZ_ANZ CS2000 Sales staff privilege"
 issue_key: BE-1240
 issue_type: Bug PRD
 status: HOLD
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-1240"
-created: 2026-04-02
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1240
+created: '2026-04-02'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1240: [CS-2337]ANZ_ANZ CS2000 Sales staff privilege'
 ---
-
 # BE-1240: [CS-2337]ANZ_ANZ CS2000 Sales staff privilege
 
 ## 問題描述

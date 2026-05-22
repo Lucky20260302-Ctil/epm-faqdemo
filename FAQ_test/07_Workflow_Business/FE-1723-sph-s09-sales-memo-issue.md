@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1723: [SPH] S09 sales memo issue"
 issue_key: FE-1723
 issue_type: Task
 status: Release
-faq_score: 4.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1723"
-created: 2025-07-04
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1723
+created: '2025-07-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1723: [SPH] S09 sales memo issue'
 ---
-
 # FE-1723: [SPH] S09 sales memo issue
 
 ## 問題描述

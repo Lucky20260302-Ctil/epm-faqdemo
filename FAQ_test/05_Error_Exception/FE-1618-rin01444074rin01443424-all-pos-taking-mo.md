@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1618: [RIN01444074/RIN01443424]-All POS taking more than 30-40s to print a sales memo"
 issue_key: FE-1618
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1618"
-created: 2025-01-26
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1618
+created: '2025-01-26'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1618: [RIN01444074/RIN01443424]-All POS taking more than 30-40s to print a sales memo'
 ---
-
 # FE-1618: [RIN01444074\RIN01443424]-All POS taking more than 30-40s to print a sales memo 
 
 ## 問題描述

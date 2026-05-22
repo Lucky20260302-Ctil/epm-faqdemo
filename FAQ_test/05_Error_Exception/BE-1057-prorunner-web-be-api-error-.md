@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1057: Prorunner Web BE - API error"
 issue_key: BE-1057
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1057"
-created: 2025-04-22
-resolved: 2025-05-28
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1057
+created: '2025-04-22'
+resolved: '2025-05-28'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1057: Prorunner Web BE - API error'
 ---
-
 # BE-1057: Prorunner Web BE - API error 
 
 ## 問題描述

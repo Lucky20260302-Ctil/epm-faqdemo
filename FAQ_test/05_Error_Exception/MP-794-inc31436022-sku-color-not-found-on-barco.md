@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-794: [INC3143602]2 SKU Color Not Found on Barcode print"
 issue_key: MP-794
 issue_type: Bug DEV
 status: Test in Progress
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/MP-794"
-created: 2025-08-19
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- frontend
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-794
+created: '2025-08-19'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-794: [INC3143602]2 SKU Color Not Found on Barcode print'
 ---
-
 # MP-794: [INC3143602]2 SKU Color Not Found on Barcode print
 
 ## 問題描述

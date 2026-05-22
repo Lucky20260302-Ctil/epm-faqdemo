@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-737"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-737"
-created: "2024-12-11"
-resolved: "2025-03-13"
-fix_version: ""
-components: [MPOS API]
-category: "02_Config_Settings"
+project: MP
+issue_key: MP-737
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-737
+created: '2024-12-11'
+resolved: '2025-03-13'
+fix_version: ''
+components:
+- MPOS API
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 MP-737: KSJ mPOS: Pilot store C312 unable to search VIP
 
 | 問題

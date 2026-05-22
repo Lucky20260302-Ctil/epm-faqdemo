@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1491: POS Sales Enquiry extend Item No. column width"
 issue_key: FE-1491
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, fe, config_settings, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1491"
-created: 2024-08-28
-resolved: 2025-02-24
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1491
+created: '2024-08-28'
+resolved: '2025-02-24'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'FE-1491: POS Sales Enquiry extend Item No. column width'
 ---
-
 # FE-1491: POS Sales Enquiry extend Item No. column width
 
 ## 問題描述

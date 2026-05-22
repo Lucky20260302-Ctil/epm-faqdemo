@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-806: [CS-1938][INC3329915] HK OC519 MPOS loading for 1 min when generated all the payment"
 issue_key: MP-806
 issue_type: Bug PRD
 status: HOLD
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-806"
-created: 2025-12-23
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-806
+created: '2025-12-23'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-806: [CS-1938][INC3329915] HK OC519 MPOS loading for 1 min when generated all the payment'
 ---
-
 # MP-806: [CS-1938][INC3329915] HK OC519 MPOS loading for 1 min when generated all the payment
 
 ## 問題描述

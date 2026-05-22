@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1222: Memeberson KSJ_CRM.exe - Exceulde Employee Sales"
 issue_key: BE-1222
 issue_type: Task
 status: Open
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1222"
-created: 2025-12-24
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1222
+created: '2025-12-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1222: Memeberson KSJ_CRM.exe - Exceulde Employee Sales'
 ---
-
 # BE-1222: Memeberson KSJ_CRM.exe - Exceulde Employee Sales 
 
 ## 問題描述

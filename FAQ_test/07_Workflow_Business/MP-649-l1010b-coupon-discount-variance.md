@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-649"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-649"
-created: "2023-04-27"
-resolved: "2024-08-30"
-fix_version: "3.29.1"
-components: [MPOS API]
-category: "07_Workflow_Business"
+project: MP
+issue_key: MP-649
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-649
+created: '2023-04-27'
+resolved: '2024-08-30'
+fix_version: 3.29.1
+components:
+- MPOS API
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 MP-649: L1010B Coupon Discount Variance
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-730: Maximum query string on setting in IIS for 3P-module"
 issue_key: MP-730
 issue_type: Improvement
 status: Closed
-faq_score: 4.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-730"
-created: 2024-11-28
-resolved: 2025-02-21
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-730
+created: '2024-11-28'
+resolved: '2025-02-21'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-730: Maximum query string on setting in IIS for 3P-module'
 ---
-
 # MP-730: Maximum query string on setting in IIS for 3P-module
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-230: [eName] eName cannot show the correct store code in web"
 issue_key: WEB-230
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-230"
-created: 2022-06-13
-resolved: 2022-06-13
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- ename
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-230
+created: '2022-06-13'
+resolved: '2022-06-13'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-230: [eName] eName cannot show the correct store code in web'
 ---
-
 # WEB-230: [eName] eName cannot show the correct store code in web
 
 ## 問題描述

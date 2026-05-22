@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1770: ANZ TMU Receipt printing(Tax Exemption & Footer"
 issue_key: FE-1770
 issue_type: Task
 status: Closed
-faq_score: 6.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, receipt-printing]
-jira_url: "https://ctil.atlassian.net/browse/FE-1770"
-created: 2025-10-17
-resolved: 2026-02-11
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- receipt-printing
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1770
+created: '2025-10-17'
+resolved: '2026-02-11'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1770: ANZ TMU Receipt printing(Tax Exemption & Footer'
 ---
-
 # FE-1770: ANZ TMU Receipt printing(Tax Exemption & Footer
 
 ## 問題描述

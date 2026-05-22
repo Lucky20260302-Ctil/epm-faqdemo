@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-972"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-972"
-created: "2021-05-11"
-resolved: "2024-05-04"
-fix_version: ""
-components: [Front End]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-972
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-972
+created: '2021-05-11'
+resolved: '2024-05-04'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-972: Staff purchase quota calculation logic with MM coupon
 
 | 問題

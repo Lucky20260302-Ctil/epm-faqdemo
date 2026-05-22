@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-943: QA MPOS Register QR code – Remove Security port test"
 issue_key: FE-943
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-943"
-created: 2021-03-31
-resolved: 2021-03-31
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-943
+created: '2021-03-31'
+resolved: '2021-03-31'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-943: QA MPOS Register QR code – Remove Security port test'
 ---
-
 # FE-943: QA MPOS Register QR code – Remove Security port test
 
 ## 問題描述

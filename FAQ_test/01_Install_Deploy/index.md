@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "安裝與部署 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 01_install_deploy
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: stub
+title: 安裝與部署 — FAQ 索引
 ---
-
 # 安裝與部署
 
 > 自動生成索引 · 122 篇 FAQ

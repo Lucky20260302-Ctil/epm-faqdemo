@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-803: [INC3255868]JP region, POS v72,mpos sales memo miss the format in PCD file"
 issue_key: MP-803
 issue_type: Bug DEV
 status: Open
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-803"
-created: 2025-10-20
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-803
+created: '2025-10-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-803: [INC3255868]JP region, POS v72,mpos sales memo miss the format in PCD file'
 ---
-
 # MP-803: [INC3255868]JP region, POS v72,mpos sales memo miss the format in PCD file
 
 ## 問題描述

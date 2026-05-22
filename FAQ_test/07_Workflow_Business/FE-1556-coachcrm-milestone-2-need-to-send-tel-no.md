@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1556: [Coach][CRM milestone 2] Need to send tel no.  to beapi when use QR code find member"
 issue_key: FE-1556
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1556"
-created: 2024-11-08
-resolved: 2024-11-22
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1556
+created: '2024-11-08'
+resolved: '2024-11-22'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1556: [Coach][CRM milestone 2] Need to send tel no.  to beapi when use QR code find member'
 ---
-
 # FE-1556: [Coach][CRM milestone 2] Need to send tel no.  to beapi when use QR code find member
 
 ## 問題描述

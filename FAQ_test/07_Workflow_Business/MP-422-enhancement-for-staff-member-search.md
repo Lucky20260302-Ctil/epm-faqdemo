@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-422: Enhancement for staff member search"
 issue_key: MP-422
 issue_type: Improvement
 status: Closed
-faq_score: 4.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-422"
-created: 2021-04-20
-resolved: 2021-06-03
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-422
+created: '2021-04-20'
+resolved: '2021-06-03'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-422: Enhancement for staff member search'
 ---
-
 # MP-422: Enhancement for staff member search
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-250: Integration of Sales Memo Controller"
 issue_key: MP-250
 issue_type: Task
 status: Closed
-faq_score: 5.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-250"
-created: 2020-07-22
-resolved: 2020-12-10
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-250
+created: '2020-07-22'
+resolved: '2020-12-10'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-250: Integration of Sales Memo Controller'
 ---
-
 # MP-250: Integration of Sales Memo Controller
 
 ## 問題描述

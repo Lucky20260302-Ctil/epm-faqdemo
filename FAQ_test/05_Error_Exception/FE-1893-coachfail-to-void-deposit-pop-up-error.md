@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1893: [Coach]Fail to void Deposit & pop up error"
 issue_key: FE-1893
 issue_type: Bug QA
 status: Closed
-faq_score: 8.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1893"
-created: 2026-02-25
-resolved: 2026-02-26
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1893
+created: '2026-02-25'
+resolved: '2026-02-26'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1893: [Coach]Fail to void Deposit & pop up error'
 ---
-
 # FE-1893: [Coach]Fail to void Deposit & pop up error
 
 ## 問題描述

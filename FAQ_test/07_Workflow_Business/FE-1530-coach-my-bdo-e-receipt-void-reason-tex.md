@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1530: Coach MY BDO - e-receipt (void) reason text is cut off at bottom"
 issue_key: FE-1530
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1530"
-created: 2024-10-18
-resolved: 2025-02-12
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1530
+created: '2024-10-18'
+resolved: '2025-02-12'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1530: Coach MY BDO - e-receipt (void) reason text is cut off at bottom'
 ---
-
 # FE-1530: Coach MY BDO - e-receipt (void) reason text is cut off at bottom
 
 ## 問題描述

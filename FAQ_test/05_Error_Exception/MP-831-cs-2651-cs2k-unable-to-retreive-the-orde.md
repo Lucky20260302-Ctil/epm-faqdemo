@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-831: [CS-2651] CS2K Unable to retreive the order upload by MPOS"
 issue_key: MP-831
 issue_type: Bug QA
 status: Release
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-831"
-created: 2026-04-28
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-831
+created: '2026-04-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-831: [CS-2651] CS2K Unable to retreive the order upload by MPOS'
 ---
-
 # MP-831: [CS-2651] CS2K Unable to retreive the order upload by MPOS
 
 ## 問題描述

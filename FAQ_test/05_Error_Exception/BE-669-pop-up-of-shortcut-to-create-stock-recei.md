@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-669: Pop up of shortcut to create stock receive (rc2000) still existing after click OK in Unauthorized Access"
 issue_key: BE-669
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-669"
-created: 2022-11-04
-resolved: 2024-04-27
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-669
+created: '2022-11-04'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-669: Pop up of shortcut to create stock receive (rc2000) still existing after click OK in Unauthorized Access'
 ---
-
 # BE-669: Pop up of shortcut to create stock receive (rc2000) still existing after click OK in Unauthorized Access  
 
 ## 問題描述

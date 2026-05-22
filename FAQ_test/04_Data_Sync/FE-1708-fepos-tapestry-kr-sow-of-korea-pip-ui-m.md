@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1708: FEPOS-Tapestry KR- SOW of Korea PIP UI Masking Enhancements"
 issue_key: FE-1708
 issue_type: SOW
 status: Closed
-faq_score: 8.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1708"
-created: 2025-06-02
-resolved: 2026-05-07
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1708
+created: '2025-06-02'
+resolved: '2026-05-07'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1708: FEPOS-Tapestry KR- SOW of Korea PIP UI Masking Enhancements'
 ---
-
 # FE-1708: FEPOS-Tapestry KR- SOW of Korea PIP UI Masking Enhancements
 
 ## 問題描述

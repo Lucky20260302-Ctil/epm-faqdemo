@@ -1,17 +1,27 @@
 ---
-project: "MP"
-issue_key: "MP-702"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-702"
-created: "2024-05-28"
-resolved: "2024-06-07"
-fix_version: "3.28.2_IPA"
-components: [MPOS, MPOS API]
-category: "05_Error_Exception"
+project: MP
+issue_key: MP-702
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-702
+created: '2024-05-28'
+resolved: '2024-06-07'
+fix_version: 3.28.2_IPA
+components:
+- MPOS
+- MPOS API
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 MP-702: Japanese user login in MPOS which caused posting error
 
 | 問題

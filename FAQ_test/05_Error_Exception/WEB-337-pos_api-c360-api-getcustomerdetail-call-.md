@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-337: [POS_API] C360 API getCustomerDetail call source Change"
 issue_key: WEB-337
 issue_type: Change Request
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, pos_api]
-jira_url: "https://ctil.atlassian.net/browse/WEB-337"
-created: 2023-09-14
-resolved: 2023-09-14
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- pos_api
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-337
+created: '2023-09-14'
+resolved: '2023-09-14'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'WEB-337: [POS_API] C360 API getCustomerDetail call source Change'
 ---
-
 # WEB-337: [POS_API] C360 API getCustomerDetail call source Change
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-722: [Coach][CRM milestone 2] Pop up an error when MPOS scan a QR code that has no Member ID in backend DB"
 issue_key: MP-722
 issue_type: Bug QA
 status: Closed
-faq_score: 8.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-722"
-created: 2024-11-11
-resolved: 2024-11-14
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-722
+created: '2024-11-11'
+resolved: '2024-11-14'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-722: [Coach][CRM milestone 2] Pop up an error when MPOS scan a QR code that has no Member ID in backend DB'
 ---
-
 # MP-722: [Coach][CRM milestone 2] Pop up an error when MPOS scan a QR code that has no Member ID in backend DB
 
 ## 問題描述

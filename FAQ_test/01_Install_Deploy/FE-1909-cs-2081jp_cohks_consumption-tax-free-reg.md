@@ -1,20 +1,30 @@
 ---
 project: FE
-title: "FE-1909: [CS-2081]JP_COH&KS_Consumption Tax Free regulation change"
 issue_key: FE-1909
 issue_type: Bug PRD
 status: SOW Send
-faq_score: 9.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end, mpos, mpos_api]
-jira_url: "https://ctil.atlassian.net/browse/FE-1909"
-created: 2026-03-27
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+- mpos
+- mpos_api
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1909
+created: '2026-03-27'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1909: [CS-2081]JP_COH&KS_Consumption Tax Free regulation change'
 ---
-
 # FE-1909: [CS-2081]JP_COH&KS_Consumption Tax Free regulation change
 
 ## 問題描述

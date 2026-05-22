@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1068: [CS-1153] SOW of Korea PIP UI Masking Enhancements"
 issue_key: BE-1068
 issue_type: SOW
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1068"
-created: 2025-05-23
-resolved: 2025-10-15
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1068
+created: '2025-05-23'
+resolved: '2025-10-15'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-1068: [CS-1153] SOW of Korea PIP UI Masking Enhancements'
 ---
-
 # BE-1068: [CS-1153] SOW of Korea PIP UI Masking Enhancements
 
 ## 問題描述

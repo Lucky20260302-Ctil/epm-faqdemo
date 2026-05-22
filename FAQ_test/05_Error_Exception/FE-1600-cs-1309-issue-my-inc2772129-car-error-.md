@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1600: [CS-1309] Issue-MY-INC2772129- CAR Error - MY-A130-Unknown Sales item type code 9999 12/20"
 issue_key: FE-1600
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, interface]
-jira_url: "https://ctil.atlassian.net/browse/FE-1600"
-created: 2024-12-31
-resolved: 2025-02-12
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- interface
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1600
+created: '2024-12-31'
+resolved: '2025-02-12'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1600: [CS-1309] Issue-MY-INC2772129- CAR Error - MY-A130-Unknown Sales item type code 9999 12/20'
 ---
-
 # FE-1600: [CS-1309] Issue-MY-INC2772129- CAR Error - MY-A130-Unknown Sales item type code 9999 12/20
 
 ## 問題描述

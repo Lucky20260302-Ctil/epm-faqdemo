@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1387: [CS-1033] day end error by incorrect cash flow record"
 issue_key: FE-1387
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, day-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1387"
-created: 2024-05-10
-resolved: 2024-05-24
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- day-end
+- error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1387
+created: '2024-05-10'
+resolved: '2024-05-24'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1387: [CS-1033] day end error by incorrect cash flow record'
 ---
-
 # FE-1387: [CS-1033] day end error by incorrect cash flow record
 
 ## 問題描述

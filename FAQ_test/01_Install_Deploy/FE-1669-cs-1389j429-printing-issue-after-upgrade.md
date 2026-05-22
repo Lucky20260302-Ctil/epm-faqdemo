@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1669: [CS-1389]J429 printing issue after upgrade to v75.004.1100.0008"
 issue_key: FE-1669
 issue_type: Improvement
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, install_package]
-jira_url: "https://ctil.atlassian.net/browse/FE-1669"
-created: 2025-04-11
-resolved: 2026-05-05
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- install_package
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1669
+created: '2025-04-11'
+resolved: '2026-05-05'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1669: [CS-1389]J429 printing issue after upgrade to v75.004.1100.0008'
 ---
-
 # FE-1669: [CS-1389]J429 printing issue after upgrade to v75.004.1100.0008
 
 ## 問題描述

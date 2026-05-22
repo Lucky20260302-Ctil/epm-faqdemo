@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1833: Handle Rounding rule of Cash Payment in Tapestry ANZ"
 issue_key: FE-1833
 issue_type: Improvement
 status: Open
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1833"
-created: 2025-12-15
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end-v750.01r01a
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1833
+created: '2025-12-15'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1833: Handle Rounding rule of Cash Payment in Tapestry ANZ'
 ---
-
 # FE-1833: Handle Rounding rule of Cash Payment in Tapestry ANZ
 
 ## 問題描述

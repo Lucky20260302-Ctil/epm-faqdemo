@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1668: [INC2905589]failed to finish consolidation,  it popped up error: Database not exist."
 issue_key: FE-1668
 issue_type: Bug DEV
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1668"
-created: 2025-04-10
-resolved: 2025-06-05
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1668
+created: '2025-04-10'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1668: [INC2905589]failed to finish consolidation,  it popped up error: Database not exist.'
 ---
-
 # FE-1668: [INC2905589]failed to finish consolidation,  it popped up error: Database not exist.
 
 ## 問題描述

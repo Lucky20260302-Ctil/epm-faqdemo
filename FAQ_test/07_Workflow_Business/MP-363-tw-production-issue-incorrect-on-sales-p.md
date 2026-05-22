@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-363: TW production issue: incorrect on sales price"
 issue_key: MP-363
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-363"
-created: 2021-02-11
-resolved: 2021-02-11
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos-api
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-363
+created: '2021-02-11'
+resolved: '2021-02-11'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-363: TW production issue: incorrect on sales price'
 ---
-
 # MP-363: TW production issue: incorrect on sales price
 
 ## 問題描述

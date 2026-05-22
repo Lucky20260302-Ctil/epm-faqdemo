@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-986: CJ Loyalty - Member Message Centre cannot display all of coupon"
 issue_key: FE-986
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-986"
-created: 2021-06-18
-resolved: 2022-08-16
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-986
+created: '2021-06-18'
+resolved: '2022-08-16'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-986: CJ Loyalty - Member Message Centre cannot display all of coupon'
 ---
-
 # FE-986: CJ Loyalty - Member Message Centre cannot display all of coupon
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1758: V75 Cash Pickup Print Out - TMU/Laser"
 issue_key: FE-1758
 issue_type: Improvement
 status: Open
-faq_score: 6.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1758"
-created: 2025-09-29
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1758
+created: '2025-09-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1758: V75 Cash Pickup Print Out - TMU/Laser'
 ---
-
 # FE-1758: V75 Cash Pickup Print Out - TMU/Laser
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1663: HKJC BJ RTM - PIPL needs to save the latest IsConsentToHK in Deposit Return and Deposit Settlement."
 issue_key: FE-1663
 issue_type: Bug QA
 status: Test in Progress
-faq_score: 10.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, pos+be]
-jira_url: "https://ctil.atlassian.net/browse/FE-1663"
-created: 2025-03-30
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- performance_timeout
+- pos+be
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1663
+created: '2025-03-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1663: HKJC BJ RTM - PIPL needs to save the latest IsConsentToHK in Deposit Return and Deposit Settlement.'
 ---
-
 # FE-1663: HKJC BJ RTM - PIPL needs to save the latest IsConsentToHK in Deposit Return and Deposit Settlement.  
 
 ## 問題描述

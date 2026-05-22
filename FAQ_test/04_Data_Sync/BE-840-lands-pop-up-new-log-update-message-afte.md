@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-840: [Lands] Pop up new log update message after new log update"
 issue_key: BE-840
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-840"
-created: 2024-03-21
-resolved: 2024-03-21
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-840
+created: '2024-03-21'
+resolved: '2024-03-21'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-840: [Lands] Pop up new log update message after new log update'
 ---
-
 # BE-840: [Lands] Pop up new log update message after new log update
 
 ## 問題描述

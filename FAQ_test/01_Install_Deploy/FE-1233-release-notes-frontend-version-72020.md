@@ -1,20 +1,27 @@
 ---
 project: FE
-title: "FE-1233: Release Notes - Frontend - Version 72.0207.3503"
 issue_key: FE-1233
 issue_type: Task
 status: Closed
-faq_score: 8.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1233"
-created: 2023-04-17
-resolved: 2024-05-16
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1233
+created: '2023-04-17'
+resolved: '2024-05-16'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1233: Release Notes - Frontend - Version 72.0207.3503'
 ---
-
 # FE-1233: Release Notes - Frontend - Version 72.0207.3503
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1423: [CS-1067] V75 - After upgraded to v75.004.0401.0002, POS launch error"
 issue_key: FE-1423
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1423"
-created: 2024-06-24
-resolved: 2024-09-23
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1423
+created: '2024-06-24'
+resolved: '2024-09-23'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1423: [CS-1067] V75 - After upgraded to v75.004.0401.0002, POS launch error'
 ---
-
 # FE-1423: [CS-1067] V75 - After upgraded to v75.004.0401.0002, POS launch error
 
 ## 問題描述

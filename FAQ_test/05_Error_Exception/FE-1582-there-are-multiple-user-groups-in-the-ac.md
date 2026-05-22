@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1582: There are multiple user groups in the account"
 issue_key: FE-1582
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1582"
-created: 2024-12-12
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1582
+created: '2024-12-12'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1582: There are multiple user groups in the account'
 ---
-
 # FE-1582: There are multiple user groups in the account
 
 ## 問題描述

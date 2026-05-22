@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1878: [SPH] Dayend Print - Same Data but different printout in V72 & V75"
 issue_key: FE-1878
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, day-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1878"
-created: 2026-02-04
-resolved: 2026-02-11
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- day-end
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1878
+created: '2026-02-04'
+resolved: '2026-02-11'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1878: [SPH] Dayend Print - Same Data but different printout in V72 & V75'
 ---
-
 # FE-1878: [SPH] Dayend Print - Same Data but different printout in V72 & V75
 
 ## 問題描述

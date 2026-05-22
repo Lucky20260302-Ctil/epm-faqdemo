@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-501: Fix eCoupon file Name"
 issue_key: BE-501
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-501"
-created: 2021-06-22
-resolved: 2021-06-22
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-501
+created: '2021-06-22'
+resolved: '2021-06-22'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-501: Fix eCoupon file Name'
 ---
-
 # BE-501: Fix eCoupon file Name
 
 ## 問題描述

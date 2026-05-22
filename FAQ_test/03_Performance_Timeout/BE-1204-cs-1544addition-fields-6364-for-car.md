@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1204: [CS-1544]Addition Fields #63,#64 for CAR"
 issue_key: BE-1204
 issue_type: Change Request
 status: Closed
-faq_score: 8.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1204"
-created: 2025-11-04
-resolved: 2026-02-26
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1204
+created: '2025-11-04'
+resolved: '2026-02-26'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1204: [CS-1544]Addition Fields #63,#64 for CAR'
 ---
-
 # BE-1204: [CS-1544]Addition Fields #63,#64 for CAR
 
 ## 問題描述

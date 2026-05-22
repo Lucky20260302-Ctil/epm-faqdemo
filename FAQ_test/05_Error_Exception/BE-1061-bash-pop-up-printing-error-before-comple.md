@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1061: [BASH] Pop up Printing error before complete transaction"
 issue_key: BE-1061
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-1061"
-created: 2025-04-28
-resolved: 2025-04-29
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1061
+created: '2025-04-28'
+resolved: '2025-04-29'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1061: [BASH] Pop up Printing error before complete transaction'
 ---
-
 # BE-1061: [BASH] Pop up Printing error before complete transaction 
 
 ## 問題描述

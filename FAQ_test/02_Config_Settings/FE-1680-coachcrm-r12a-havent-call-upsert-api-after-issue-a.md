@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1680"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1680"
-created: "2025-04-25"
-resolved: "2025-04-29"
-fix_version: ""
-components: [Front End]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1680
+issue_type: Bug QA
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1680
+created: '2025-04-25'
+resolved: '2025-04-29'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1680: R12A haven't call upsert api after issue an order with new member created by POS
 
 | 問題

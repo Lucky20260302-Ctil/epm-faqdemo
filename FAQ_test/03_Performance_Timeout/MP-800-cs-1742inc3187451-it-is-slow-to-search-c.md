@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-800: [CS-1742][INC3187451] It is slow to search customer on MPOS"
 issue_key: MP-800
 issue_type: Task
 status: Awaiting Sprint Planning or Awaiting to do
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-800"
-created: 2025-09-18
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-800
+created: '2025-09-18'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-800: [CS-1742][INC3187451] It is slow to search customer on MPOS'
 ---
-
 # MP-800: [CS-1742][INC3187451] It is slow to search customer on MPOS
 
 ## 問題描述

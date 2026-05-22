@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1652: IMX posting error unexpected pcd format'13'"
 issue_key: FE-1652
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1652"
-created: 2025-03-18
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1652
+created: '2025-03-18'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1652: IMX posting error unexpected pcd format''13'''
 ---
-
 # FE-1652: IMX posting error unexpected pcd format"13"
 
 ## 問題描述

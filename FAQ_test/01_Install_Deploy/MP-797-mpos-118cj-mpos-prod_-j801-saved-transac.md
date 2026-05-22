@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-797: [MPOS-118]CJ mPOS Prod_ J801 Saved transaction retains old cashier ID after upgrade"
 issue_key: MP-797
 issue_type: Bug PRD
 status: Release
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-797"
-created: 2025-08-29
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-797
+created: '2025-08-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-797: [MPOS-118]CJ mPOS Prod_ J801 Saved transaction retains old cashier ID after upgrade'
 ---
-
 # MP-797: [MPOS-118]CJ mPOS Prod_ J801 Saved transaction retains old cashier ID after upgrade
 
 ## 問題描述

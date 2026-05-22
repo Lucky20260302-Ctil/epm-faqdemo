@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-282: eName Blank Page + Slow display"
 issue_key: WEB-282
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-282"
-created: 2023-04-12
-resolved: 2023-07-14
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- ename
+- faq
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-282
+created: '2023-04-12'
+resolved: '2023-07-14'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: stub
+title: 'WEB-282: eName Blank Page + Slow display'
 ---
-
 # WEB-282: eName Blank Page + Slow display
 
 ## 問題描述

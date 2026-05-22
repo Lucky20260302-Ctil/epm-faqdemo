@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1429: [HKJC] REMS - Member search not using member discount from member type"
 issue_key: FE-1429
 issue_type: Bug QA
 status: Closed
-faq_score: 8.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1429"
-created: 2024-06-26
-resolved: 2024-06-27
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1429
+created: '2024-06-26'
+resolved: '2024-06-27'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1429: [HKJC] REMS - Member search not using member discount from member type'
 ---
-
 # FE-1429: [HKJC] REMS - Member search not using member discount from member type
 
 ## 問題描述

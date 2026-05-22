@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1845: [Sporthouse] result printout format of transfer V75 not similar with V72"
 issue_key: FE-1845
 issue_type: Bug QA
 status: Open
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1845"
-created: 2026-01-06
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1845
+created: '2026-01-06'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1845: [Sporthouse] result printout format of transfer V75 not similar with V72'
 ---
-
 # FE-1845: [Sporthouse] result printout format of transfer V75 not similar with V72
 
 ## 問題描述

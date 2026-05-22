@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-824: MPOS PrintReceipt UIUX Enhancement"
 issue_key: MP-824
 issue_type: Improvement
 status: Release
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-824"
-created: 2026-03-30
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-824
+created: '2026-03-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-824: MPOS PrintReceipt UIUX Enhancement'
 ---
-
 # MP-824: MPOS PrintReceipt UIUX Enhancement
 
 ## 問題描述

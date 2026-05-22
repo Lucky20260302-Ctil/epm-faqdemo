@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-795: [INC3145307]All handys failed to use MPOS, shows error when scan Till 0"
 issue_key: MP-795
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-795"
-created: 2025-08-20
-resolved: 2025-10-09
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-795
+created: '2025-08-20'
+resolved: '2025-10-09'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-795: [INC3145307]All handys failed to use MPOS, shows error when scan Till 0'
 ---
-
 # MP-795: [INC3145307]All handys failed to use MPOS, shows error when scan Till 0
 
 ## 問題描述

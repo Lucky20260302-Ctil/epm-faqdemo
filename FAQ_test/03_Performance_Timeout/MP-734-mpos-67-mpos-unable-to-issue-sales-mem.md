@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-734: [MPOS-67] MPOS - Unable to issue sales memo If login account is different compare to 'Sales staff' & 'Cashier' we selected"
 issue_key: MP-734
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-734"
-created: 2024-12-03
-resolved: 2025-02-24
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- mpos-api
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-734
+created: '2024-12-03'
+resolved: '2025-02-24'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-734: [MPOS-67] MPOS - Unable to issue sales memo If login account is different compare to ''Sales staff'' & ''Cashier'' we selected'
 ---
-
 # MP-734: [MPOS-67] MPOS - Unable to issue sales memo If login account is different compare to 'Sales staff' & 'Cashier' we selected
 
 ## 問題描述

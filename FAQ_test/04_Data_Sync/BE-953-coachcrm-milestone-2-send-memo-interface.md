@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-953: [Coach][CRM milestone 2] Send memo interface SQL enhance"
 issue_key: BE-953
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-953"
-created: 2024-11-22
-resolved: 2024-11-22
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-953
+created: '2024-11-22'
+resolved: '2024-11-22'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'BE-953: [Coach][CRM milestone 2] Send memo interface SQL enhance'
 ---
-
 # BE-953: [Coach][CRM milestone 2] Send memo interface SQL enhance
 
 ## 問題描述

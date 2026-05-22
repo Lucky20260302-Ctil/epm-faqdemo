@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-647: SOW of Implement MPOS e-Receipt Email sending in Coach SG and MY"
 issue_key: MP-647
 issue_type: SOW
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-647"
-created: 2023-04-04
-resolved: 2023-06-12
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-647
+created: '2023-04-04'
+resolved: '2023-06-12'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-647: SOW of Implement MPOS e-Receipt Email sending in Coach SG and MY'
 ---
-
 # MP-647: SOW of Implement MPOS e-Receipt Email sending in Coach SG and MY
 
 ## 問題描述

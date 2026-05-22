@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-852: Receipt differences between existing format and .net print format (RSH Round 2 Test Fail)"
 issue_key: FE-852
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-852"
-created: 2020-11-23
-resolved: 2021-01-06
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-852
+created: '2020-11-23'
+resolved: '2021-01-06'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-852: Receipt differences between existing format and .net print format (RSH Round 2 Test Fail)'
 ---
-
 # FE-852: Receipt differences between existing format and .net print format (RSH Round 2 Test Fail)
 
 ## 問題描述

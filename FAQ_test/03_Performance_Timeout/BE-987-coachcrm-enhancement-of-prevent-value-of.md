@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-987: [Coach][CRM] Enhancement of prevent value of vip_no_edm, vip_no_dm, vip_no_phone, vip_no_sms cannot be inserted"
 issue_key: BE-987
 issue_type: Improvement
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-987"
-created: 2025-01-15
-resolved: 2025-02-25
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- api
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-987
+created: '2025-01-15'
+resolved: '2025-02-25'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-987: [Coach][CRM] Enhancement of prevent value of vip_no_edm, vip_no_dm, vip_no_phone, vip_no_sms cannot be inserted'
 ---
-
 # BE-987: [Coach][CRM] Enhancement of prevent value of vip_no_edm, vip_no_dm, vip_no_phone, vip_no_sms cannot be inserted
 
 ## 問題描述

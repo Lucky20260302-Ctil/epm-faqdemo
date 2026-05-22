@@ -1,20 +1,30 @@
 ---
 project: FE
-title: "FE-1719: [CS-1483] Question 7-8 digital store code for ANZ POS setup"
 issue_key: FE-1719
 issue_type: Task
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, backend, front-end, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-1719"
-created: 2025-07-02
-resolved: 2025-07-10
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- backend
+- faq
+- fe
+- front-end
+- install_deploy
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1719
+created: '2025-07-02'
+resolved: '2025-07-10'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1719: [CS-1483] Question 7-8 digital store code for ANZ POS setup'
 ---
-
 # FE-1719: [CS-1483] Question 7-8 digital store code for ANZ POS setup
 
 ## 問題描述

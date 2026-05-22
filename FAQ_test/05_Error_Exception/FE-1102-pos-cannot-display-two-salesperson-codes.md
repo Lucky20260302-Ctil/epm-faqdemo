@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1102: POS cannot display two salesperson codes for the same sales memo"
 issue_key: FE-1102
 issue_type: Improvement
 status: Closed
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1102"
-created: 2022-03-02
-resolved: 2022-07-12
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1102
+created: '2022-03-02'
+resolved: '2022-07-12'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'FE-1102: POS cannot display two salesperson codes for the same sales memo'
 ---
-
 # FE-1102: POS cannot display two salesperson codes for the same sales memo
 
 ## 問題描述

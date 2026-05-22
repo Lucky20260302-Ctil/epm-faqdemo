@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1655"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1655"
-created: "2025-03-20"
-resolved: "2025-08-28"
-fix_version: ""
-components: [Front End v720.02]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1655
+issue_type: Bug QA
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1655
+created: '2025-03-20'
+resolved: '2025-08-28'
+fix_version: ''
+components:
+- Front End v720.02
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1655: User can still login to POS even his account is not in any RTM Domain Group
 
 | 問題

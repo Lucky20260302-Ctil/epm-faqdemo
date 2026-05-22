@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-822: BE v6 Settle other Deposit issue just retreive from SSE Fail to update deposit stage to SSE"
 issue_key: FE-822
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-822"
-created: 2020-11-06
-resolved: 2020-11-23
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-822
+created: '2020-11-06'
+resolved: '2020-11-23'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-822: BE v6 Settle other Deposit issue just retreive from SSE Fail to update deposit stage to SSE'
 ---
-
 # FE-822: BE v6 Settle other Deposit issue just retreive from SSE Fail to update deposit stage to SSE 
 
 ## 問題描述

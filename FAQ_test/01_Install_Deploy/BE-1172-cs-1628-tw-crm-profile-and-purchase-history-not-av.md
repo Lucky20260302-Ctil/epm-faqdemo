@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1172"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1172"
-created: "2025-09-01"
-resolved: "2025-09-11"
-fix_version: "CS2K_BE_V70R3.119, CS2k_FE_V75.004.1401.0000, MPOS API 3.30.6, MPOS IPA 3.30.6-20250908.1 "
-components: [Backend (ChainStorePlus 7.0)]
-category: "01_Install_Deploy"
+project: BE
+issue_key: BE-1172
+issue_type: Bug PRD
+status: Closed
+tags:
+- 01_install_deploy
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1172
+created: '2025-09-01'
+resolved: '2025-09-11'
+fix_version: 'CS2K_BE_V70R3.119, CS2k_FE_V75.004.1401.0000, MPOS API 3.30.6, MPOS IPA 3.30.6-20250908.1 '
+components:
+- Backend (ChainStorePlus 7.0)
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 BE-1172: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version
 
 | 問題

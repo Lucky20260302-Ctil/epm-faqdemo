@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1190: [CS-1774] CS2K PLUS.EXE program cannot be opened"
 issue_key: BE-1190
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1190"
-created: 2025-10-13
-resolved: 2025-10-13
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(v66)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1190
+created: '2025-10-13'
+resolved: '2025-10-13'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1190: [CS-1774] CS2K PLUS.EXE program cannot be opened'
 ---
-
 # BE-1190: [CS-1774] CS2K PLUS.EXE program cannot be opened
 
 ## 問題描述

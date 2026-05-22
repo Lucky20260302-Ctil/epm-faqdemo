@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-695: No 'tick' in Button of Show/ Hide/ Reorder Columns"
 issue_key: BE-695
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, be, config_settings, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-695"
-created: 2022-11-14
-resolved: 2023-03-03
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- backend-(web)
+- be
+- config_settings
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-695
+created: '2022-11-14'
+resolved: '2023-03-03'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'BE-695: No ''tick'' in Button of Show/ Hide/ Reorder Columns'
 ---
-
 # BE-695: No "tick" in Button of Show/ Hide/ Reorder Columns 
 
 ## 問題描述

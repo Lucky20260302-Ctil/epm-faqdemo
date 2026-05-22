@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1267: [Lands] Fail to complete payment when transaction paid by BlockVote & send E-receipt"
 issue_key: FE-1267
 issue_type: Bug QA
 status: Closed
-faq_score: 8.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v760.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1267"
-created: 2023-06-16
-resolved: 2023-08-08
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v760.02
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1267
+created: '2023-06-16'
+resolved: '2023-08-08'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1267: [Lands] Fail to complete payment when transaction paid by BlockVote & send E-receipt'
 ---
-
 # FE-1267: [Lands] Fail to complete payment when transaction paid by BlockVote & send E-receipt
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1704: [INC2996330]PRC V75 OC254till0 sales memo 00009176 missed vip gender"
 issue_key: FE-1704
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1704"
-created: 2025-05-27
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1704
+created: '2025-05-27'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1704: [INC2996330]PRC V75 OC254till0 sales memo 00009176 missed vip gender'
 ---
-
 # FE-1704: [INC2996330]PRC V75 OC254till0 sales memo 00009176 missed vip gender
 
 ## 問題描述

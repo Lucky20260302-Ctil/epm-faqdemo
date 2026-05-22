@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-670: CSPLUS 64Bit License"
 issue_key: FE-670
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-670"
-created: 2020-06-30
-resolved: 2024-05-04
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- frontend
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-670
+created: '2020-06-30'
+resolved: '2024-05-04'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-670: CSPLUS 64Bit License'
 ---
-
 # FE-670: CSPLUS 64Bit License
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-783: [Lands] Wordings change & add a column for display Credit / Debit"
 issue_key: BE-783
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-783"
-created: 2023-07-27
-resolved: 2023-08-14
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-783
+created: '2023-07-27'
+resolved: '2023-08-14'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-783: [Lands] Wordings change & add a column for display Credit / Debit'
 ---
-
 # BE-783: [Lands] Wordings change & add a column for display Credit / Debit
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-932: [CS-1220] Barcode on registeration page is not scannable with scanner"
 issue_key: BE-932
 issue_type: SOW
 status: Closed
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, ename]
-jira_url: "https://ctil.atlassian.net/browse/BE-932"
-created: 2024-11-05
-resolved: 2024-11-06
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- be
+- ename
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-932
+created: '2024-11-05'
+resolved: '2024-11-06'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-932: [CS-1220] Barcode on registeration page is not scannable with scanner'
 ---
-
 # BE-932: [CS-1220] Barcode on registeration page is not scannable with scanner
 
 ## 問題描述

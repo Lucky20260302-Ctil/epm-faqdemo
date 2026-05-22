@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1400: auto OPOS installation for cash drawer CSH2"
 issue_key: FE-1400
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, install_package]
-jira_url: "https://ctil.atlassian.net/browse/FE-1400"
-created: 2024-05-30
-resolved: 2024-05-30
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- install_package
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1400
+created: '2024-05-30'
+resolved: '2024-05-30'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1400: auto OPOS installation for cash drawer CSH2'
 ---
-
 # FE-1400: auto OPOS installation for cash drawer CSH2
 
 ## 問題描述

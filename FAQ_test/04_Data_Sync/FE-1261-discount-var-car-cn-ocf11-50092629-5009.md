@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1261: [Discount Var] CAR CN- OCF11 50092629 50092630"
 issue_key: FE-1261
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, discountvar]
-jira_url: "https://ctil.atlassian.net/browse/FE-1261"
-created: 2023-06-06
-resolved: 2024-09-23
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- discountvar
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1261
+created: '2023-06-06'
+resolved: '2024-09-23'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1261: [Discount Var] CAR CN- OCF11 50092629 50092630'
 ---
-
 # FE-1261: [Discount Var] CAR CN- OCF11 50092629 50092630 
 
 ## 問題描述

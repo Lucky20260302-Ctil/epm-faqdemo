@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-667: Issue of Duplicate content in different tabs"
 issue_key: BE-667
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, be, config_settings, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-667"
-created: 2022-11-03
-resolved: 2023-02-20
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- backend-(web)
+- be
+- config_settings
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-667
+created: '2022-11-03'
+resolved: '2023-02-20'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'BE-667: Issue of Duplicate content in different tabs'
 ---
-
 # BE-667: Issue of Duplicate content in different tabs
 
 ## 問題描述

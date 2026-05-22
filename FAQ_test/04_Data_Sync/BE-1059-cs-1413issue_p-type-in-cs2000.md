@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1059: [CS-1413]Issue_P type in CS2000"
 issue_key: BE-1059
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1059"
-created: 2025-04-28
-resolved: 2025-07-04
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1059
+created: '2025-04-28'
+resolved: '2025-07-04'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1059: [CS-1413]Issue_P type in CS2000'
 ---
-
 # BE-1059: [CS-1413]Issue_P type in CS2000
 
 ## 問題描述

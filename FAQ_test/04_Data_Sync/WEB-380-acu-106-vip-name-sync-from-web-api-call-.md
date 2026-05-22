@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-380: [ACU-106] VIP name sync from web API call instead of hardcoding as BEAPI"
 issue_key: WEB-380
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, beapicrm]
-jira_url: "https://ctil.atlassian.net/browse/WEB-380"
-created: 2025-01-03
-resolved: 2025-01-08
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- beapicrm
+- data_sync
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-380
+created: '2025-01-03'
+resolved: '2025-01-08'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'WEB-380: [ACU-106] VIP name sync from web API call instead of hardcoding as BEAPI'
 ---
-
 # WEB-380: [ACU-106] VIP name sync from web API call instead of hardcoding as BEAPI
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-563: New member cannot online update BE"
 issue_key: MP-563
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-563"
-created: 2022-10-01
-resolved: 2024-01-22
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-563
+created: '2022-10-01'
+resolved: '2024-01-22'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-563: New member cannot online update BE'
 ---
-
 # MP-563: New member cannot online update BE
 
 ## 問題描述

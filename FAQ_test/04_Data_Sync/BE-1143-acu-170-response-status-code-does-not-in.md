@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1143: [ACU-170] Response status code does not indicate success: 404 (Not Found) while processing async update for member"
 issue_key: BE-1143
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1143"
-created: 2025-07-04
-resolved: 2025-07-04
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1143
+created: '2025-07-04'
+resolved: '2025-07-04'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'BE-1143: [ACU-170] Response status code does not indicate success: 404 (Not Found) while processing async update for member'
 ---
-
 # BE-1143: [ACU-170] Response status code does not indicate success: 404 (Not Found) while processing async update for member
 
 ## 問題描述

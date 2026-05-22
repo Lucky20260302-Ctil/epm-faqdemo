@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1620: [CS-1082] Issue_CN_INC2579616_Tax variance for OC183 – 10008908 (incorrect VAT & GST amount)"
 issue_key: FE-1620
 issue_type: Bug PRD
 status: Closed
-faq_score: 8.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1620"
-created: 2025-02-03
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1620
+created: '2025-02-03'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1620: [CS-1082] Issue_CN_INC2579616_Tax variance for OC183 – 10008908 (incorrect VAT & GST amount)'
 ---
-
 # FE-1620: [CS-1082] Issue_CN_INC2579616_Tax variance for OC183 – 10008908 (incorrect VAT & GST amount)
 
 ## 問題描述

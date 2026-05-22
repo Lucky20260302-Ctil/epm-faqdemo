@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1575: Enquiry > Member Inquiry cannot be opened when 'SEARCHMEMBERBYEXACTONLY' is set 'Y'."
 issue_key: FE-1575
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1575"
-created: 2024-12-03
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1575
+created: '2024-12-03'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1575: Enquiry > Member Inquiry cannot be opened when ''SEARCHMEMBERBYEXACTONLY'' is set ''Y''.'
 ---
-
 # FE-1575: Enquiry > Member Inquiry cannot be opened when 'SEARCHMEMBERBYEXACTONLY' is set 'Y'.
 
 ## 問題描述

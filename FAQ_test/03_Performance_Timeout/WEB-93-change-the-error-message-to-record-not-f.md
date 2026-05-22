@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-93: change the error message to record not find."
 issue_key: WEB-93
 issue_type: Change Request
 status: Closed
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-93"
-created: 2020-09-02
-resolved: 2024-04-27
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- performance_timeout
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-93
+created: '2020-09-02'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'WEB-93: change the error message to record not find.'
 ---
-
 # WEB-93: change the error message to record not find.
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1312: IMX V71 posting error 'Return Voucher or gift cert amount not matched'"
 issue_key: FE-1312
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1312"
-created: 2023-11-08
-resolved: 2024-03-05
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1312
+created: '2023-11-08'
+resolved: '2024-03-05'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1312: IMX V71 posting error ''Return Voucher or gift cert amount not matched'''
 ---
-
 # FE-1312: IMX V71 posting error "Return Voucher or gift cert amount not matched"
 
 ## 問題描述

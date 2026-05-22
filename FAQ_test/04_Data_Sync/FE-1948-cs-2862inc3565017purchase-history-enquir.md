@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1948: [CS-2862][INC3565017]Purchase History enquire only display last 5 transaction"
 issue_key: FE-1948
 issue_type: Bug PRD
 status: Open
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1948"
-created: 2026-05-11
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1948
+created: '2026-05-11'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1948: [CS-2862][INC3565017]Purchase History enquire only display last 5 transaction'
 ---
-
 # FE-1948: [CS-2862][INC3565017]Purchase History enquire only display last 5 transaction 
 
 ## 問題描述

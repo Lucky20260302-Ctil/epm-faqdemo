@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-991: CJ Loyalty (Part 3) - 20210712 Coach v720.02R10 review"
 issue_key: FE-991
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-991"
-created: 2021-07-13
-resolved: 2021-08-19
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-991
+created: '2021-07-13'
+resolved: '2021-08-19'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-991: CJ Loyalty (Part 3) - 20210712 Coach v720.02R10 review'
 ---
-
 # FE-991: CJ Loyalty (Part 3) - 20210712 Coach v720.02R10 review
 
 ## 問題描述

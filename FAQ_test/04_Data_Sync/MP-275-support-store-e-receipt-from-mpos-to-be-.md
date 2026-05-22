@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-275: Support store e-receipt from MPOS to BE share folder by API"
 issue_key: MP-275
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-275"
-created: 2020-09-24
-resolved: 2021-07-20
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-275
+created: '2020-09-24'
+resolved: '2021-07-20'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'MP-275: Support store e-receipt from MPOS to BE share folder by API'
 ---
-
 # MP-275: Support store e-receipt from MPOS to BE share folder by API
 
 ## 問題描述

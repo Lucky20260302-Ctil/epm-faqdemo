@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1195: Ticket No. 2025083 10STPE01 24/10 dayend validation , error in sales and payment"
 issue_key: BE-1195
 issue_type: Bug PRD
 status: Open
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1195"
-created: 2025-11-03
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- backend-(chainstoreplus-7.0)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1195
+created: '2025-11-03'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1195: Ticket No. 2025083 10STPE01 24/10 dayend validation , error in sales and payment'
 ---
-
 # BE-1195: Ticket No. 2025083 10STPE01 24/10 dayend validation , error in sales and payment 
 
 ## 問題描述

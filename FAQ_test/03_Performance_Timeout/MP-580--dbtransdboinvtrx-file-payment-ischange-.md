@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-580:  [dbTrans].[dbo].[InvTrx File Payment] isChange Wrongly input"
 issue_key: MP-580
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-580"
-created: 2022-10-25
-resolved: 2022-11-18
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-580
+created: '2022-10-25'
+resolved: '2022-11-18'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-580:  [dbTrans].[dbo].[InvTrx File Payment] isChange Wrongly input'
 ---
-
 # MP-580:  [dbTrans].[dbo].[InvTrx File Payment] isChange Wrongly input
 
 ## 問題描述

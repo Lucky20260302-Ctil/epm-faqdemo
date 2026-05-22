@@ -1,20 +1,29 @@
 ---
 project: WEB
-title: "WEB-262: SOW of VIP & Online Sales API and Online Sales print in POS v1.2"
 issue_key: WEB-262
 issue_type: SOW
 status: Closed
-faq_score: 5.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, web, workflow_business, api, api_gateway]
-jira_url: "https://ctil.atlassian.net/browse/WEB-262"
-created: 2023-02-07
-resolved: 2023-05-19
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- api
+- api_gateway
+- faq
+- web
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-262
+created: '2023-02-07'
+resolved: '2023-05-19'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'WEB-262: SOW of VIP & Online Sales API and Online Sales print in POS v1.2'
 ---
-
 # WEB-262: SOW of VIP & Online Sales API and Online Sales print in POS v1.2
 
 ## 問題描述

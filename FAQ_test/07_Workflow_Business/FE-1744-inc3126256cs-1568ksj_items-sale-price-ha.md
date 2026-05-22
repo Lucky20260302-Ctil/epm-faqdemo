@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1744: [INC3126256][CS-1568]KSJ_item's sale price has variance between POS and receipt"
 issue_key: FE-1744
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1744"
-created: 2025-08-07
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end-v720.02
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1744
+created: '2025-08-07'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1744: [INC3126256][CS-1568]KSJ_item''s sale price has variance between POS and receipt'
 ---
-
 # FE-1744: [INC3126256][CS-1568]KSJ_item's sale price has variance between POS and receipt
 
 ## 問題描述

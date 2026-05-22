@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1685: INC2946404 - TW - OC727 Till0 failed print out dayend report"
 issue_key: FE-1685
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, day-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1685"
-created: 2025-05-02
-resolved: 2025-06-05
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- day-end
+- error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1685
+created: '2025-05-02'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1685: INC2946404 - TW - OC727 Till0 failed print out dayend report'
 ---
-
 # FE-1685: INC2946404 - TW - OC727 Till0 failed print out dayend report
 
 ## 問題描述

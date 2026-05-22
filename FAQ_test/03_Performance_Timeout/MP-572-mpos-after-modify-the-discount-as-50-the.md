@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-572: MPOS-After modify the discount as 50%, then the price will change to 0"
 issue_key: MP-572
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-572"
-created: 2022-10-20
-resolved: 2022-11-18
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-572
+created: '2022-10-20'
+resolved: '2022-11-18'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-572: MPOS-After modify the discount as 50%, then the price will change to 0'
 ---
-
 # MP-572: MPOS-After modify the discount as 50%, then the price will change to 0
 
 ## 問題描述

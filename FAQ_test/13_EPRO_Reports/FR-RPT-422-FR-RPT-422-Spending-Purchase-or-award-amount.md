@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-422: FR-RPT-422: Spending / Purchase or award amount"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-422: FR-RPT-422: Spending / Purchase or award amount'
 ---
-
 # FR-RPT-422: FR-RPT-422: Spending / Purchase or award amount
 
 ## 需求描述

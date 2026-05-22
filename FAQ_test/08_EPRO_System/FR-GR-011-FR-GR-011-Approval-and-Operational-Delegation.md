@@ -1,8 +1,26 @@
 ---
-title: "FR-GR-011: FR-GR-011: Approval and Operational Delegation"
-tags: [epro, EPRO_System]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_system
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-GR-011: FR-GR-011: Approval and Operational Delegation'
 ---
-
 # FR-GR-011: FR-GR-011: Approval and Operational Delegation
 
 ## 需求描述

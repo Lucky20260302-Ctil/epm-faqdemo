@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-765: [MPOS-89] CJ mPOS Text Replacement"
 issue_key: MP-765
 issue_type: Improvement
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-765"
-created: 2025-04-10
-resolved: 2025-06-05
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-765
+created: '2025-04-10'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-765: [MPOS-89] CJ mPOS Text Replacement'
 ---
-
 # MP-765: [MPOS-89] CJ mPOS Text Replacement
 
 ## 問題描述

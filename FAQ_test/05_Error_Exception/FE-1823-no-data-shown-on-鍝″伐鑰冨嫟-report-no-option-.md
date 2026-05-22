@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1823: No data shown on 員工考勤 report & no option of location selection when doing transfer memo"
 issue_key: FE-1823
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1823"
-created: 2025-11-28
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1823
+created: '2025-11-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1823: No data shown on 員工考勤 report & no option of location selection when doing transfer memo'
 ---
-
 # FE-1823: No data shown on 員工考勤 report & no option of location selection when doing transfer memo
 
 ## 問題描述

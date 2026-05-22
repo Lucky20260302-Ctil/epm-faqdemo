@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1189: Sporthouse - Select Cash Coupon Performance Improvement"
 issue_key: FE-1189
 issue_type: Improvement
 status: Closed
-faq_score: 4.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1189"
-created: 2022-12-07
-resolved: 2022-12-09
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1189
+created: '2022-12-07'
+resolved: '2022-12-09'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1189: Sporthouse - Select Cash Coupon Performance Improvement'
 ---
-
 # FE-1189: Sporthouse - Select Cash Coupon Performance Improvement
 
 ## 問題描述

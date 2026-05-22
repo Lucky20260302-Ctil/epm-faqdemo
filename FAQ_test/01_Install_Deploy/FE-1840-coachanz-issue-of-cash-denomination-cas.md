@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1840: [Coach][ANZ] Issue of CASH Denomination & Cash drawer tender"
 issue_key: FE-1840
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1840"
-created: 2025-12-30
-resolved: 2026-05-05
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1840
+created: '2025-12-30'
+resolved: '2026-05-05'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1840: [Coach][ANZ] Issue of CASH Denomination & Cash drawer tender'
 ---
-
 # FE-1840: [Coach][ANZ] Issue of CASH Denomination & Cash drawer tender
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1311: IMX sales memo print extra paper."
 issue_key: FE-1311
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1311"
-created: 2023-11-07
-resolved: 2024-03-01
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1311
+created: '2023-11-07'
+resolved: '2024-03-01'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1311: IMX sales memo print extra paper.'
 ---
-
 # FE-1311: IMX sales memo print extra paper.
 
 ## 問題描述

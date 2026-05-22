@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1698: [CS-1440]The ammount can't be totally displayed as bellow:"
 issue_key: FE-1698
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, printing]
-jira_url: "https://ctil.atlassian.net/browse/FE-1698"
-created: 2025-05-20
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- printing
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1698
+created: '2025-05-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1698: [CS-1440]The ammount can''t be totally displayed as bellow:'
 ---
-
 # FE-1698: [CS-1440]The ammount can't be totally displayed as bellow:
 
 ## 問題描述

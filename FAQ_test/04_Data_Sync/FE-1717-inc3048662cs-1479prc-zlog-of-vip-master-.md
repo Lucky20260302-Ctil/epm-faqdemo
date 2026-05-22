@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1717: [INC3048662][[CS-1479]]PRC Zlog of VIP Master still send to FE"
 issue_key: FE-1717
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, interface]
-jira_url: "https://ctil.atlassian.net/browse/FE-1717"
-created: 2025-06-24
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- interface
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1717
+created: '2025-06-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1717: [INC3048662][[CS-1479]]PRC Zlog of VIP Master still send to FE'
 ---
-
 # FE-1717: [INC3048662][[CS-1479]]PRC Zlog of VIP Master still send to FE
 
 ## 問題描述

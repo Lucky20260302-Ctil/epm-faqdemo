@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-630: Request remove Email address validation on location master"
 issue_key: BE-630
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-630"
-created: 2022-07-07
-resolved: 2024-04-27
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(chainstoreplus-7.0)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-630
+created: '2022-07-07'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-630: Request remove Email address validation on location master'
 ---
-
 # BE-630: Request remove Email address validation on location master
 
 ## 問題描述

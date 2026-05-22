@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1407: T&C Receipt Printing"
 issue_key: FE-1407
 issue_type: SOW
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1407"
-created: 2024-06-11
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1407
+created: '2024-06-11'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1407: T&C Receipt Printing'
 ---
-
 # FE-1407: T&C Receipt Printing
 
 ## 問題描述

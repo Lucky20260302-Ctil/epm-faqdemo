@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1192: [CS-1787] New Sales Export Interface for Resorts World Sentosa"
 issue_key: BE-1192
 issue_type: SOW
 status: Open
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1192"
-created: 2025-10-24
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- be
+- data-interface
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1192
+created: '2025-10-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1192: [CS-1787] New Sales Export Interface for Resorts World Sentosa'
 ---
-
 # BE-1192: [CS-1787] New Sales Export Interface for Resorts World Sentosa
 
 ## 問題描述

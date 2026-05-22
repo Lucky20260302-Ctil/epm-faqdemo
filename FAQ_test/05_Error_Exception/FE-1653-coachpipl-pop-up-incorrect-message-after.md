@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1653: [Coach][PIPL] Pop up incorrect message after searching member with EXIT_PERMIT != 1"
 issue_key: FE-1653
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-1653"
-created: 2025-03-19
-resolved: 2025-03-21
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1653
+created: '2025-03-19'
+resolved: '2025-03-21'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1653: [Coach][PIPL] Pop up incorrect message after searching member with EXIT_PERMIT != 1'
 ---
-
 # FE-1653: [Coach][PIPL] Pop up incorrect message after searching member with EXIT_PERMIT != 1
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-514: MPOS use exact search in Memebr Search for all search option (Config control)"
 issue_key: MP-514
 issue_type: Change Request
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-514"
-created: 2022-02-11
-resolved: 2022-02-11
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-514
+created: '2022-02-11'
+resolved: '2022-02-11'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-514: MPOS use exact search in Memebr Search for all search option (Config control)'
 ---
-
 # MP-514: MPOS use exact search in Memebr Search for all search option (Config control)
 
 ## 問題描述

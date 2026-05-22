@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-986"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-986"
-created: "2025-01-15"
-resolved: "2025-03-06"
-fix_version: ""
-components: [API]
-category: "04_Data_Sync"
+project: BE
+issue_key: BE-986
+issue_type: Bug QA
+status: Closed
+tags:
+- 04_data_sync
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-986
+created: '2025-01-15'
+resolved: '2025-03-06'
+fix_version: ''
+components:
+- API
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 BE-986: Incorrect Member data in Member Sync API
 
 | 問題

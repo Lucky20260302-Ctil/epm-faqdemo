@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-802: [MPOS-125] MPOS - v3.30.6 SG Region, member profile and purchase history is not available"
 issue_key: MP-802
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-802"
-created: 2025-09-30
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-802
+created: '2025-09-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-802: [MPOS-125] MPOS - v3.30.6 SG Region, member profile and purchase history is not available'
 ---
-
 # MP-802: [MPOS-125] MPOS - v3.30.6 SG Region, member profile and purchase history is not available
 
 ## 問題描述

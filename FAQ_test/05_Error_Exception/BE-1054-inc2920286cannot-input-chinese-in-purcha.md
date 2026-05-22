@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1054: [INC2920286]cannot input Chinese in purchase-bank info"
 issue_key: BE-1054
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-1054"
-created: 2025-04-22
-resolved: 2025-06-05
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1054
+created: '2025-04-22'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1054: [INC2920286]cannot input Chinese in purchase-bank info'
 ---
-
 # BE-1054: [INC2920286]cannot input Chinese in purchase-bank info
 
 ## 問題描述

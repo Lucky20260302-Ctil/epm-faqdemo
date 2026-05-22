@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1066: [INC2961835] SG store OC554 Retrieve 04-17 sales records to Landlord have error"
 issue_key: BE-1066
 issue_type: Bug PRD
 status: Closed
-faq_score: 9.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1066"
-created: 2025-05-09
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- be
+- data-interface
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1066
+created: '2025-05-09'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1066: [INC2961835] SG store OC554 Retrieve 04-17 sales records to Landlord have error'
 ---
-
 # BE-1066: [INC2961835] SG store OC554 Retrieve 04-17 sales records to Landlord have error
 
 ## 問題描述

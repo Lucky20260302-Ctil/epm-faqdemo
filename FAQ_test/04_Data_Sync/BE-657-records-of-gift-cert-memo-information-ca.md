@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-657: Records of Gift Cert. Memo Information can be clicked to item information page"
 issue_key: BE-657
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, inquiry]
-jira_url: "https://ctil.atlassian.net/browse/BE-657"
-created: 2022-09-28
-resolved: 2024-04-27
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- inquiry
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-657
+created: '2022-09-28'
+resolved: '2024-04-27'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-657: Records of Gift Cert. Memo Information can be clicked to item information page'
 ---
-
 # BE-657: Records of Gift Cert. Memo Information can be clicked to item information page
 
 ## 問題描述

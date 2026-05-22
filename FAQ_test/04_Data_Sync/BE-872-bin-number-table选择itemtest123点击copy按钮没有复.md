@@ -3,17 +3,25 @@ project: BE
 issue_key: BE-872
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-872"
-created: 2024-07-10
-resolved: 2024-09-09
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-872
+created: '2024-07-10'
+resolved: '2024-09-09'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 # BE-872: BIn Number Table：选择item’TEST123‘，点击Copy按钮，没有复制到任何参数
 
 > **類型:** Bug QA | **狀態:** Closed

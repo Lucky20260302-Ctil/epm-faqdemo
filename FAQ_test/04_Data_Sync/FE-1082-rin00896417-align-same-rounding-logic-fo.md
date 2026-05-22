@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1082: [RIN00896417] Align same Rounding logic for both parts in FE dayend report"
 issue_key: FE-1082
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1082"
-created: 2022-01-28
-resolved: 2022-07-12
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1082
+created: '2022-01-28'
+resolved: '2022-07-12'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1082: [RIN00896417] Align same Rounding logic for both parts in FE dayend report'
 ---
-
 # FE-1082: [RIN00896417] Align same Rounding logic for both parts in FE dayend report
 
 ## 問題描述

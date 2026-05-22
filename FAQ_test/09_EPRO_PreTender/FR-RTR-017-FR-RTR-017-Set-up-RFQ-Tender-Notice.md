@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-017: FR-RTR-017: Set up RFQ / Tender Notice"
-tags: [epro, EPRO_PreTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_pretender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-017: FR-RTR-017: Set up RFQ / Tender Notice'
 ---
-
 # FR-RTR-017: FR-RTR-017: Set up RFQ / Tender Notice
 
 ## 需求描述

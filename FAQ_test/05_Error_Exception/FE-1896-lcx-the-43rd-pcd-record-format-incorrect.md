@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1896: [LCX] The 43rd pcd record format incorrect in Line 17 in gift redeem module"
 issue_key: FE-1896
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1896"
-created: 2026-03-06
-resolved: 2026-04-21
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1896
+created: '2026-03-06'
+resolved: '2026-04-21'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1896: [LCX] The 43rd pcd record format incorrect in Line 17 in gift redeem module'
 ---
-
 # FE-1896: [LCX] The 43rd pcd record format incorrect in Line 17 in gift redeem module
 
 ## 問題描述

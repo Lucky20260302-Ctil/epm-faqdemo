@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-819: CloudPrintNotificationServer fails to update result to MPOS API"
 issue_key: MP-819
 issue_type: Bug PRD
 status: DEV Done
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-819"
-created: 2026-03-26
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-819
+created: '2026-03-26'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-819: CloudPrintNotificationServer fails to update result to MPOS API'
 ---
-
 # MP-819: CloudPrintNotificationServer fails to update result to MPOS API
 
 ## 問題描述

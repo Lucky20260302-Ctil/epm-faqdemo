@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-492: Deposit Return - memo number created is duplicated with POS"
 issue_key: MP-492
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-492"
-created: 2021-08-26
-resolved: 2021-10-18
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-492
+created: '2021-08-26'
+resolved: '2021-10-18'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-492: Deposit Return - memo number created is duplicated with POS'
 ---
-
 # MP-492: Deposit Return - memo number created is duplicated with POS
 
 ## 問題描述

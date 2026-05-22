@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-306: FR-RTR-306: Cancellation of an RFQ / Tendering Exercise at Any Stage"
-tags: [epro, EPRO_Others]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_others
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-306: FR-RTR-306: Cancellation of an RFQ / Tendering Exercise at Any Stage'
 ---
-
 # FR-RTR-306: FR-RTR-306: Cancellation of an RFQ / Tendering Exercise at Any Stage
 
 ## 需求描述

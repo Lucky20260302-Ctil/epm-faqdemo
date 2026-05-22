@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-529: MPOS Cloud Printing - Customer receipt printing 领收书"
 issue_key: MP-529
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-529"
-created: 2022-06-01
-resolved: 2022-06-21
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos-api
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-529
+created: '2022-06-01'
+resolved: '2022-06-21'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-529: MPOS Cloud Printing - Customer receipt printing 领收书'
 ---
-
 # MP-529: MPOS Cloud Printing - Customer receipt printing 领收书
 
 ## 問題描述

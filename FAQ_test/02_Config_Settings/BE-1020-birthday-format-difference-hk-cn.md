@@ -1,17 +1,27 @@
 ---
 project: ChainStorePlus
-title: "BE-1020: Difference birthday format between HK and CN"
 issue_key: BE-1020
 issue_type: Bug QA
 status: Closed
-tags: [faq, chainstoreplus]
-jira_url: "https://ctil.atlassian.net/browse/BE-1020"
-created: 2025-03-03
-resolved: 2025-04-29
-fix_version: ""
-components: [MPOS]
+tags:
+- 02_config_settings
+- chainstoreplus
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1020
+created: '2025-03-03'
+resolved: '2025-04-29'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: complete
+title: 'BE-1020: Difference birthday format between HK and CN'
 ---
-
 # BE-1020: Difference birthday format between HK and CN
 
 ## 問題

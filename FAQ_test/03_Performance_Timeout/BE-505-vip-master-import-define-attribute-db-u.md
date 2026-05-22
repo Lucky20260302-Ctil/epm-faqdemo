@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-505: VIP Master import + Define Attribute DB Update"
 issue_key: BE-505
 issue_type: Bug PRD
 status: Closed
-faq_score: 8.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-505"
-created: 2021-07-12
-resolved: 2021-07-12
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-505
+created: '2021-07-12'
+resolved: '2021-07-12'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-505: VIP Master import + Define Attribute DB Update'
 ---
-
 # BE-505: VIP Master import + Define Attribute DB Update
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1170: [INC3158440] Missing supplier_code in CS2000 BE after imported ItemMaster interface file to BE with supp_code"
 issue_key: BE-1170
 issue_type: Task
 status: Open
-faq_score: 4.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1170"
-created: 2025-08-27
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- be
+- data-interface
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1170
+created: '2025-08-27'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1170: [INC3158440] Missing supplier_code in CS2000 BE after imported ItemMaster interface file to BE with supp_code'
 ---
-
 # BE-1170: [INC3158440] Missing supplier_code in CS2000 BE after imported ItemMaster interface file to BE with supp_code
 
 ## 問題描述

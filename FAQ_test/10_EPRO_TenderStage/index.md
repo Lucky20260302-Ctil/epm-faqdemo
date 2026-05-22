@@ -1,9 +1,24 @@
 ---
-tags: [moc, faq, index]
-title: "10_EPRO_TenderStage — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 10_EPRO_TenderStage — FAQ 索引
 ---
-
 # 10_EPRO_TenderStage
 
 > 自動生成索引 · 11 篇 FAQ

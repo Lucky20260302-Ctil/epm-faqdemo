@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-834: GFMIS displayed incorrect collection date in cancel order"
 issue_key: BE-834
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-834"
-created: 2023-12-19
-resolved: 2024-01-09
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- backend-(web)
+- be
+- faq
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-834
+created: '2023-12-19'
+resolved: '2024-01-09'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-834: GFMIS displayed incorrect collection date in cancel order'
 ---
-
 # BE-834: GFMIS displayed incorrect collection date in cancel order
 
 ## 問題描述

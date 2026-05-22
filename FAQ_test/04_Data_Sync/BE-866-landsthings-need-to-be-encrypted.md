@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-866: [Lands]Things need to be encrypted"
 issue_key: BE-866
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(v64)]
-jira_url: "https://ctil.atlassian.net/browse/BE-866"
-created: 2024-06-27
-resolved: 2024-08-29
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(v64)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-866
+created: '2024-06-27'
+resolved: '2024-08-29'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-866: [Lands]Things need to be encrypted'
 ---
-
 # BE-866: [Lands]Things need to be encrypted
 
 ## 問題描述

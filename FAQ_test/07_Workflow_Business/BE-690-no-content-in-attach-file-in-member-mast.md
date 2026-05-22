@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-690: No content in Attach file in Member Master Maintenance (MF2005)"
 issue_key: BE-690
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-690"
-created: 2022-11-09
-resolved: 2023-02-20
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- backend-(web)
+- be
+- faq
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-690
+created: '2022-11-09'
+resolved: '2023-02-20'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-690: No content in Attach file in Member Master Maintenance (MF2005)'
 ---
-
 # BE-690: No content in Attach file in Member Master Maintenance (MF2005)
 
 ## 問題描述

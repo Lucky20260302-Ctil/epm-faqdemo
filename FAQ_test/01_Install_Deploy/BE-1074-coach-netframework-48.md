@@ -1,20 +1,29 @@
 ---
 project: BE
-title: "BE-1074: Coach .NetFramework 4.8"
 issue_key: BE-1074
 issue_type: Task
 status: HOLD
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(chainstoreplus-7.0), data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1074"
-created: 2025-06-13
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- backend-(chainstoreplus-7.0)
+- be
+- data-interface
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1074
+created: '2025-06-13'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-1074: Coach .NetFramework 4.8'
 ---
-
 # BE-1074: Coach .NetFramework 4.8
 
 ## 問題描述

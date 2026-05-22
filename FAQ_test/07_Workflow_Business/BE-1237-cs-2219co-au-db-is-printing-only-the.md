@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1237: [CS-2219]CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines"
 issue_key: BE-1237
 issue_type: Bug PRD
 status: Open
-faq_score: 7.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, be, workflow_business, table]
-jira_url: "https://ctil.atlassian.net/browse/BE-1237"
-created: 2026-03-20
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 07_workflow_business
+- be
+- faq
+- table
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1237
+created: '2026-03-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'BE-1237: [CS-2219]CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines'
 ---
-
 # BE-1237: [CS-2219]CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines
 
 ## 問題描述

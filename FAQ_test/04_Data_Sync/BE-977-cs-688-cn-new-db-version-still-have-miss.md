@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-977: [CS-688] CN New DB version still have 'Missing first line issue'"
 issue_key: BE-977
 issue_type: Bug PRD
 status: HOLD
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-977"
-created: 2024-12-31
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-977
+created: '2024-12-31'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-977: [CS-688] CN New DB version still have ''Missing first line issue'''
 ---
-
 # BE-977: [CS-688] CN New DB version still have "Missing first line issue"
 
 ## 問題描述

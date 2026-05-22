@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-743"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-743"
-created: "2025-01-16"
-resolved: "2025-07-28"
-fix_version: ""
-components: [MPOS]
-category: "01_Install_Deploy"
+project: MP
+issue_key: MP-743
+issue_type: Bug QA
+status: Closed
+tags:
+- 01_install_deploy
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-743
+created: '2025-01-16'
+resolved: '2025-07-28'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 MP-743: MPOS_3.29.5 (MPOS API + IPA) Posting Issue
 
 | 問題

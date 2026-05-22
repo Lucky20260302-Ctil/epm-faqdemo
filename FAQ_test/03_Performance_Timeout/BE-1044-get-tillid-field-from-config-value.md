@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1044: Get tillId field from config value"
 issue_key: BE-1044
 issue_type: Task
 status: Closed
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1044"
-created: 2025-04-08
-resolved: 2025-06-05
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1044
+created: '2025-04-08'
+resolved: '2025-06-05'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1044: Get tillId field from config value'
 ---
-
 # BE-1044: Get tillId field from config value
 
 ## 問題描述

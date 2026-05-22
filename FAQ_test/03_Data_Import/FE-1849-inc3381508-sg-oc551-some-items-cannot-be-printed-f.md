@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1849"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1849"
-created: "2026-01-09"
-resolved: ""
-fix_version: ""
-components: [Frontend]
-category: "03_Data_Import"
+project: FE
+issue_key: FE-1849
+issue_type: Bug PRD
+status: Closed
+tags:
+- 03_data_import
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1849
+created: '2026-01-09'
+resolved: ''
+fix_version: ''
+components:
+- Frontend
+has_images: false
+category: 03_Data_Import
+category_label: 資料匯入
+quality: partial
 ---
-
 FE-1849: SG OC551 Some items cannot be printed from POS system
 
 | 問題

@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1711"
-issue_type: "Bug DEV"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1711"
-created: "2025-06-11"
-resolved: "2025-07-09"
-fix_version: "BE-V70R3.113"
-components: [Front End v750.01R01A]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1711
+issue_type: Bug DEV
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1711
+created: '2025-06-11'
+resolved: '2025-07-09'
+fix_version: BE-V70R3.113
+components:
+- Front End v750.01R01A
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1711: CN v75 OCF46 All tills cannot find a member
 
 | 問題

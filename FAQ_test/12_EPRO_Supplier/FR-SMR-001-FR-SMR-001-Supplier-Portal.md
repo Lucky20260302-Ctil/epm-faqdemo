@@ -1,8 +1,26 @@
 ---
-title: "FR-SMR-001: FR-SMR-001: Supplier Portal"
-tags: [epro, EPRO_Supplier]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_supplier
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-SMR-001: FR-SMR-001: Supplier Portal'
 ---
-
 # FR-SMR-001: FR-SMR-001: Supplier Portal
 
 ## 需求描述

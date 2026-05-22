@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-367: [CS-1198] JP eName - Tourist Registration - Duplicate International country code are not support"
 issue_key: WEB-367
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-367"
-created: 2024-11-15
-resolved: 2024-12-06
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- ename
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-367
+created: '2024-11-15'
+resolved: '2024-12-06'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'WEB-367: [CS-1198] JP eName - Tourist Registration - Duplicate International country code are not support'
 ---
-
 # WEB-367: [CS-1198] JP eName - Tourist Registration - Duplicate International country code are not support
 
 ## 問題描述

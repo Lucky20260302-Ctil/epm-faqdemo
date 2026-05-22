@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1756: v75 Bank In Module"
 issue_key: FE-1756
 issue_type: Improvement
 status: Open
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, day-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1756"
-created: 2025-09-29
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- day-end
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1756
+created: '2025-09-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1756: v75 Bank In Module'
 ---
-
 # FE-1756: v75 Bank In Module
 
 ## 問題描述

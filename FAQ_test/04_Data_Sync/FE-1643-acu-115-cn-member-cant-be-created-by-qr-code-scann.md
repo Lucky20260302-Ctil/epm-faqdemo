@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1643"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1643"
-created: "2025-03-07"
-resolved: "2025-05-02"
-fix_version: ""
-components: [Front End]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1643
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1643
+created: '2025-03-07'
+resolved: '2025-05-02'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1643: CN Member can't be created by QR code scanning or mobile number inputting
 
 | 問題

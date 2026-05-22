@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1799: [INC3278161]Till 0 sales memo no invoice QR code"
 issue_key: FE-1799
 issue_type: Bug DEV
 status: Selected for Development (migrated)
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1799"
-created: 2025-11-06
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1799
+created: '2025-11-06'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1799: [INC3278161]Till 0 sales memo no invoice QR code'
 ---
-
 # FE-1799: [INC3278161]Till 0 sales memo no invoice QR code
 
 ## 問題描述

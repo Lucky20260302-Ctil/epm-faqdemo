@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1629: [RIN01455499] OCF5 till0 consolidation非常卡，经常要10+分钟，且长时间处于无响应状态"
 issue_key: FE-1629
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1629"
-created: 2025-02-24
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v720.02
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1629
+created: '2025-02-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1629: [RIN01455499] OCF5 till0 consolidation非常卡，经常要10+分钟，且长时间处于无响应状态'
 ---
-
 # FE-1629: [RIN01455499] OCF5 till0 consolidation非常卡，经常要10+分钟，且长时间处于无响应状态
 
 ## 問題描述

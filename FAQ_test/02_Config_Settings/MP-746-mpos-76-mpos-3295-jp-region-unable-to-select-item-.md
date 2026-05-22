@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-746"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-746"
-created: "2025-02-17"
-resolved: "2025-05-02"
-fix_version: ""
-components: [Frontend]
-category: "02_Config_Settings"
+project: MP
+issue_key: MP-746
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-746
+created: '2025-02-17'
+resolved: '2025-05-02'
+fix_version: ''
+components:
+- Frontend
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 MP-746: MPOS 3.29.5 - JP region -Unable to select item after deploy COACH_MPOSWebAPI_R3.29.5d
 
 | 問題

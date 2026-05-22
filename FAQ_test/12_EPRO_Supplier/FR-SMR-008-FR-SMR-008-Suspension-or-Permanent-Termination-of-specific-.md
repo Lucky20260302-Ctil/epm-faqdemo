@@ -1,8 +1,26 @@
 ---
-title: "FR-SMR-008: FR-SMR-008: Suspension or Permanent Termination of specific Supplier(s) under special circumstances"
-tags: [epro, EPRO_Supplier]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_supplier
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-SMR-008: FR-SMR-008: Suspension or Permanent Termination of specific Supplier(s) under special circumstances'
 ---
-
 # FR-SMR-008: FR-SMR-008: Suspension or Permanent Termination of specific Supplier(s) under special circumstances
 
 ## 需求描述

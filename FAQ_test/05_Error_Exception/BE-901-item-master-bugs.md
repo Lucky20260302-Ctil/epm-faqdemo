@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-901: Item Master Bugs"
 issue_key: BE-901
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-901"
-created: 2024-09-09
-resolved: 2024-09-23
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-901
+created: '2024-09-09'
+resolved: '2024-09-23'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-901: Item Master Bugs'
 ---
-
 # BE-901: Item Master Bugs
 
 ## 問題描述

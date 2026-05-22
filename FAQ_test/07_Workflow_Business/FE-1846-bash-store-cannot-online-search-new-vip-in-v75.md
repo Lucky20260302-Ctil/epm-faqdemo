@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1846"
-issue_type: "Bug PRD"
-status: "Selected for Development (migrated)"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1846"
-created: "2026-01-06"
-resolved: ""
-fix_version: ""
-components: [Frontend]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-1846
+issue_type: Bug PRD
+status: Selected for Development (migrated)
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1846
+created: '2026-01-06'
+resolved: ''
+fix_version: ''
+components:
+- Frontend
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-1846: BASH Store cannot online search new VIP in v75
 
 | 問題

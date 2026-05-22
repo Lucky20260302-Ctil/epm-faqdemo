@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1943: IMX V75 Ecoupon display front size"
 issue_key: FE-1943
 issue_type: Task
 status: Test in Progress
-faq_score: 4.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1943"
-created: 2026-05-05
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1943
+created: '2026-05-05'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1943: IMX V75 Ecoupon display front size'
 ---
-
 # FE-1943: IMX V75 Ecoupon display front size
 
 ## 問題描述

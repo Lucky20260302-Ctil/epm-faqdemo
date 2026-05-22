@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1271: Open item applied an unusable coupon but still dislpay the unusable coupon"
 issue_key: FE-1271
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1271"
-created: 2023-06-30
-resolved: 2023-11-16
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v720.02
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1271
+created: '2023-06-30'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1271: Open item applied an unusable coupon but still dislpay the unusable coupon'
 ---
-
 # FE-1271: Open item applied an unusable coupon but still dislpay the unusable coupon
 
 ## 問題描述

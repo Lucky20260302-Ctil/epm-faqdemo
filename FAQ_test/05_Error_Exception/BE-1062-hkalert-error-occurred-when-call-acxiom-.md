@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1062: [HK][Alert] Error occurred when call ACXIOM CRM API: Profile Search"
 issue_key: BE-1062
 issue_type: Bug PRD
 status: DEV Done
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1062"
-created: 2025-04-28
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1062
+created: '2025-04-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1062: [HK][Alert] Error occurred when call ACXIOM CRM API: Profile Search'
 ---
-
 # BE-1062: [HK][Alert] Error occurred when call ACXIOM CRM API: Profile Search
 
 ## 問題描述

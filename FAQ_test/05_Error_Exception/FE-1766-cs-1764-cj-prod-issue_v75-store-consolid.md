@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1766: [CS-1764] CJ Prod issue_V7.5 store consolidated dayend missing sub till data"
 issue_key: FE-1766
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1766"
-created: 2025-10-03
-resolved: 2025-10-16
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1766
+created: '2025-10-03'
+resolved: '2025-10-16'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1766: [CS-1764] CJ Prod issue_V7.5 store consolidated dayend missing sub till data'
 ---
-
 # FE-1766: [CS-1764] CJ Prod issue_V7.5 store consolidated dayend missing sub till data
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1541: [Coach][CRM milestone 2] Pop up 'Member not found' when local DB & backend DB has that member but doesn't exist in CRM side"
 issue_key: FE-1541
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1541"
-created: 2024-10-24
-resolved: 2024-10-28
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1541
+created: '2024-10-24'
+resolved: '2024-10-28'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1541: [Coach][CRM milestone 2] Pop up ''Member not found'' when local DB & backend DB has that member but doesn''t exist in CRM side'
 ---
-
 # FE-1541: [Coach][CRM milestone 2] Pop up 'Member not found' when local DB & backend DB has that member but doesn't exist in CRM side
 
 ## 問題描述

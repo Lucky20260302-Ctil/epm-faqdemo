@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1218: [CS-1824] [INC3250498]Issue_MO_CRM Job APP_CS2000_Acxiom_CRM_Backend_Data_Sync_MO has been Completed Abnormally"
 issue_key: BE-1218
 issue_type: Bug PRD
 status: Open
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1218"
-created: 2025-12-01
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1218
+created: '2025-12-01'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1218: [CS-1824] [INC3250498]Issue_MO_CRM Job APP_CS2000_Acxiom_CRM_Backend_Data_Sync_MO has been Completed Abnormally'
 ---
-
 # BE-1218: [CS-1824] [INC3250498]Issue_MO_CRM Job APP_CS2000_Acxiom_CRM_Backend_Data_Sync_MO has been Completed Abnormally
 
 ## 問題描述

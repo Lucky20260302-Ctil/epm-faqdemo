@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-435: Sales Preview Type is different from Hardcopy in Cloud"
 issue_key: MP-435
 issue_type: Bug DEV
 status: Closed
-faq_score: 4.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-435"
-created: 2021-05-27
-resolved: 2021-06-03
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos-api
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-435
+created: '2021-05-27'
+resolved: '2021-06-03'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'MP-435: Sales Preview Type is different from Hardcopy in Cloud'
 ---
-
 # MP-435: Sales Preview Type is different from Hardcopy in Cloud
 
 ## 問題描述

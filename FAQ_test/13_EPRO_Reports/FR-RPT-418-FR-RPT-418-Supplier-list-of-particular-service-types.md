@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-418: FR-RPT-418: Supplier list of particular service types"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-418: FR-RPT-418: Supplier list of particular service types'
 ---
-
 # FR-RPT-418: FR-RPT-418: Supplier list of particular service types
 
 ## 需求描述

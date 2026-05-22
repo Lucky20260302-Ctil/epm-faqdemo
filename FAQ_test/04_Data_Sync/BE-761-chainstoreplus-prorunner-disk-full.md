@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-761: ChainStorePlus - (Prorunner disk full)"
 issue_key: BE-761
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-761"
-created: 2023-06-14
-resolved: 2023-09-19
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-761
+created: '2023-06-14'
+resolved: '2023-09-19'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-761: ChainStorePlus - (Prorunner disk full)'
 ---
-
 # BE-761: ChainStorePlus - (Prorunner disk full)
 
 ## 問題描述

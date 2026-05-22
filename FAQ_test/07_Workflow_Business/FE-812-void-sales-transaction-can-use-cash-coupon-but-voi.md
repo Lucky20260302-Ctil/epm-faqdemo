@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-812"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-812"
-created: "2020-10-22"
-resolved: "2020-11-23"
-fix_version: "v710.02R14U"
-components: [Sales]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-812
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-812
+created: '2020-10-22'
+resolved: '2020-11-23'
+fix_version: v710.02R14U
+components:
+- Sales
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat
 
 | 問題

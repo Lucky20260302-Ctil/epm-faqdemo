@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-718: CLONE - Translation issue"
 issue_key: BE-718
 issue_type: Bug QA
 status: Closed
-faq_score: 10.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-718"
-created: 2023-02-21
-resolved: 2023-02-21
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-718
+created: '2023-02-21'
+resolved: '2023-02-21'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-718: CLONE - Translation issue'
 ---
-
 # BE-718: CLONE - Translation issue
 
 ## 問題描述

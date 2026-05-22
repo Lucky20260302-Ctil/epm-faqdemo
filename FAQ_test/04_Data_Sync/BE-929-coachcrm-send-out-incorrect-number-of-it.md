@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-929: [Coach][CRM] Send out incorrect number of items to CRM side by CRMSanyoPhaseInterface"
 issue_key: BE-929
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-929"
-created: 2024-11-01
-resolved: 2024-11-04
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-929
+created: '2024-11-01'
+resolved: '2024-11-04'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-929: [Coach][CRM] Send out incorrect number of items to CRM side by CRMSanyoPhaseInterface'
 ---
-
 # BE-929: [Coach][CRM] Send out incorrect number of items to CRM side by CRMSanyoPhaseInterface
 
 ## 問題描述

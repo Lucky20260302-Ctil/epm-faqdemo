@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-490: 0% discount coupon should show '%' in all page"
 issue_key: MP-490
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-490"
-created: 2021-08-24
-resolved: 2021-08-27
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-490
+created: '2021-08-24'
+resolved: '2021-08-27'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-490: 0% discount coupon should show ''%'' in all page'
 ---
-
 # MP-490: 0% discount coupon should show "%" in all page
 
 ## 問題描述

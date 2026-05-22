@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-539: Incorrect sale data: J345 2022-07-08"
 issue_key: MP-539
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, localiis, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-539"
-created: 2022-07-12
-resolved: 2024-03-06
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- localiis
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-539
+created: '2022-07-12'
+resolved: '2024-03-06'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-539: Incorrect sale data: J345 2022-07-08'
 ---
-
 # MP-539: Incorrect sale data: J345 2022-07-08
 
 ## 問題描述

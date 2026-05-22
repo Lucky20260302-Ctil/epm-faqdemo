@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-383: CJ#126 - There are some difference between POS and mPOS regarding of %off indication"
 issue_key: MP-383
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-383"
-created: 2021-03-29
-resolved: 2021-05-17
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-383
+created: '2021-03-29'
+resolved: '2021-05-17'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-383: CJ#126 - There are some difference between POS and mPOS regarding of %off indication'
 ---
-
 # MP-383: CJ#126 - There are some difference between POS and mPOS regarding of %off indication
 
 ## 問題描述

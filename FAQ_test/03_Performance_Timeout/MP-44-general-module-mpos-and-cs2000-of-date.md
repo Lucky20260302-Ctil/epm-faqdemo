@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-44: General Module - MPOS and CS2000 of date cannot sync."
 issue_key: MP-44
 issue_type: Change Request
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-44"
-created: 2020-03-11
-resolved: 2020-04-15
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-44
+created: '2020-03-11'
+resolved: '2020-04-15'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-44: General Module - MPOS and CS2000 of date cannot sync.'
 ---
-
 # MP-44: General Module - MPOS and CS2000 of date cannot sync.
 
 ## 問題描述

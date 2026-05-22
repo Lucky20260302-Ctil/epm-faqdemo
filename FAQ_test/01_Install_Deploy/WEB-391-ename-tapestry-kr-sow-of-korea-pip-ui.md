@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-391: eName - Tapestry KR- SOW of Korea PIP UI Masking Enhancements"
 issue_key: WEB-391
 issue_type: SOW
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, web, install_deploy, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-391"
-created: 2025-06-02
-resolved: 2025-06-30
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- ename
+- faq
+- install_deploy
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-391
+created: '2025-06-02'
+resolved: '2025-06-30'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'WEB-391: eName - Tapestry KR- SOW of Korea PIP UI Masking Enhancements'
 ---
-
 # WEB-391: eName - Tapestry KR- SOW of Korea PIP UI Masking Enhancements
 
 ## 問題描述

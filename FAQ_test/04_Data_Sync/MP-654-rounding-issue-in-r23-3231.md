@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-654: Rounding issue in R23 & 3.23.1"
 issue_key: MP-654
 issue_type: Bug QA
 status: HOLD
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, frontend, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-654"
-created: 2023-06-30
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- frontend
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-654
+created: '2023-06-30'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-654: Rounding issue in R23 & 3.23.1'
 ---
-
 # MP-654: Rounding issue in R23 & 3.23.1
 
 ## 問題描述

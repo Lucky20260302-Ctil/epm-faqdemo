@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-1879: [CS-2135][INC3430754]KSN237 Store said the till 1 & 2 also the new log update symbol there but after clicked it showing error “Execute.Error: Object reference not set to an instance of an object.”"
 issue_key: FE-1879
 issue_type: Bug PRD
 status: HOLD
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1879"
-created: 2026-02-05
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1879
+created: '2026-02-05'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1879: [CS-2135][INC3430754]KSN237 Store said the till 1 & 2 also the new log update symbol there but after clicked it showing error “Execute.Error: Object reference not set to an instance of
+  an object.”'
 ---
-
 # FE-1879: [CS-2135][INC3430754]KSN237 Store said the till 1 & 2 also the new log update symbol there but after clicked it showing error “Execute.Error: Object reference not set to an instance of an object.”
 
 ## 問題描述

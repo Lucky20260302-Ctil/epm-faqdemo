@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1742: [CS-1500] Request_windows login account migration[Intune Deployment]"
 issue_key: FE-1742
 issue_type: Task
 status: Selected for Development (migrated)
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, install_package]
-jira_url: "https://ctil.atlassian.net/browse/FE-1742"
-created: 2025-08-05
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- install_package
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1742
+created: '2025-08-05'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1742: [CS-1500] Request_windows login account migration[Intune Deployment]'
 ---
-
 # FE-1742: [CS-1500] Request_windows login account migration[Intune Deployment]
 
 ## 問題描述

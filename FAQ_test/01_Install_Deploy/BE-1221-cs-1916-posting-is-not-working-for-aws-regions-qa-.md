@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1221"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1221"
-created: "2025-12-24"
-resolved: "2026-02-26"
-fix_version: "BE-V70R3.134a"
-components: [Posting]
-category: "01_Install_Deploy"
+project: BE
+issue_key: BE-1221
+issue_type: Bug PRD
+status: Closed
+tags:
+- 01_install_deploy
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1221
+created: '2025-12-24'
+resolved: '2026-02-26'
+fix_version: BE-V70R3.134a
+components:
+- Posting
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
 ---
-
 BE-1221: POSTING is not working for AWS regions - QA Env
 
 | 問題

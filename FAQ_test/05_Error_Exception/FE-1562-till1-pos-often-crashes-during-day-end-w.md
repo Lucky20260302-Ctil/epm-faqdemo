@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1562: till1 POS Often crashes during day end while input 'Y'"
 issue_key: FE-1562
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1562"
-created: 2024-11-19
-resolved: 2025-02-24
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v720.02
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1562
+created: '2024-11-19'
+resolved: '2025-02-24'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1562: till1 POS Often crashes during day end while input ''Y'''
 ---
-
 # FE-1562: till1 POS Often crashes during day end while input 'Y'
 
 ## 問題描述

@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1312"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1312"
-created: "2023-11-08"
-resolved: "2024-03-05"
-fix_version: ""
-components: [Front End]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1312
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1312
+created: '2023-11-08'
+resolved: '2024-03-05'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1312: IMX V71 posting error "Return Voucher or gift cert amount not matched"
 
 | 問題

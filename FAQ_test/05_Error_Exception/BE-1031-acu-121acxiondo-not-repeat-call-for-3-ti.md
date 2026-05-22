@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1031: [ACU-121][Acxion]Do not repeat call for 3 times when receive 400 error from CRM"
 issue_key: BE-1031
 issue_type: Improvement
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1031"
-created: 2025-03-19
-resolved: 2025-05-02
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1031
+created: '2025-03-19'
+resolved: '2025-05-02'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1031: [ACU-121][Acxion]Do not repeat call for 3 times when receive 400 error from CRM'
 ---
-
 # BE-1031: [ACU-121][Acxion]Do not repeat call for 3 times when receive 400 error from CRM 
 
 ## 問題描述

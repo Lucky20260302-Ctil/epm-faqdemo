@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-971"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-971"
-created: "2021-05-07"
-resolved: "2021-05-13"
-fix_version: "v750.01R01A, v720.01R03B,, v720.01R04"
-components: [Frontend]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-971
+issue_type: Bug QA
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-971
+created: '2021-05-07'
+resolved: '2021-05-13'
+fix_version: v750.01R01A, v720.01R03B,, v720.01R04
+components:
+- Frontend
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-971: Deposit Settlement should apply new CRM option UI (same as issuing Sales Memo)
 
 | 問題

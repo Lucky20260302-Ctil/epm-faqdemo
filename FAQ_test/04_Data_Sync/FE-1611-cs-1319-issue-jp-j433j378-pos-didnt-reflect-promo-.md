@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1611"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1611"
-created: "2025-01-20"
-resolved: "2025-05-21"
-fix_version: ""
-components: [DiscountVar]
-category: "04_Data_Sync"
+project: FE
+issue_key: FE-1611
+issue_type: Bug PRD
+status: Closed
+tags:
+- 04_data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1611
+created: '2025-01-20'
+resolved: '2025-05-21'
+fix_version: ''
+components:
+- DiscountVar
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
 ---
-
 FE-1611: Issue-JP-J433&J378 POS didn't reflect Promo Code : CLE062A _RIN01439021
 
 | 問題

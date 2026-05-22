@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1831: RTM POS memory low message (HKJC)"
 issue_key: FE-1831
 issue_type: Bug PRD
 status: Selected for Development (migrated)
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1831"
-created: 2025-12-12
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1831
+created: '2025-12-12'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1831: RTM POS memory low message (HKJC)'
 ---
-
 # FE-1831: RTM POS memory low message (HKJC)
 
 ## 問題描述

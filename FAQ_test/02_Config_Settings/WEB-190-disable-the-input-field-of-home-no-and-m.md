@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry"
 issue_key: WEB-190
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, web, config_settings, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-190"
-created: 2020-12-17
-resolved: 2020-12-17
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-190
+created: '2020-12-17'
+resolved: '2020-12-17'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: stub
+title: 'WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry'
 ---
-
 # WEB-190: Disable the input field of “Home No.” and “Mobile No.” in CS2000 WEB Enquiry
 
 ## 問題描述

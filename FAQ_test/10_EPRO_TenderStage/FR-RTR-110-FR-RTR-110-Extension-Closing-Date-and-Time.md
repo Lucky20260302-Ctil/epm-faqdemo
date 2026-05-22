@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-110: FR-RTR-110: Extension Closing Date and Time"
-tags: [epro, EPRO_TenderStage]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_tenderstage
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-110: FR-RTR-110: Extension Closing Date and Time'
 ---
-
 # FR-RTR-110: FR-RTR-110: Extension Closing Date and Time
 
 ## 需求描述

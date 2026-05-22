@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-926: Incorrect Staff Purchase Limit"
 issue_key: FE-926
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-926"
-created: 2021-02-23
-resolved: 2022-07-12
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-926
+created: '2021-02-23'
+resolved: '2022-07-12'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-926: Incorrect Staff Purchase Limit'
 ---
-
 # FE-926: Incorrect Staff Purchase Limit
 
 ## 問題描述

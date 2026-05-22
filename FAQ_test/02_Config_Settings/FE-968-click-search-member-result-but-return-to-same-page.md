@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-968"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-968"
-created: "2021-05-04"
-resolved: "2022-07-12"
-fix_version: "v750.01R01A"
-components: [Frontend]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-968
+issue_type: Bug QA
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-968
+created: '2021-05-04'
+resolved: '2022-07-12'
+fix_version: v750.01R01A
+components:
+- Frontend
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-968: click search member result but return to same page
 
 | 問題

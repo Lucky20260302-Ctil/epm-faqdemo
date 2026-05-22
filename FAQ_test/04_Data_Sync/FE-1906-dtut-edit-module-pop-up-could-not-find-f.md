@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1906: [DTUT] Edit module pop up 'Could not find file C:/redata6/BatchData.Mdb'"
 issue_key: FE-1906
 issue_type: Bug QA
 status: Selected for Development (migrated)
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1906"
-created: 2026-03-26
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1906
+created: '2026-03-26'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1906: [DTUT] Edit module pop up ''Could not find file C:/redata6/BatchData.Mdb'''
 ---
-
 # FE-1906: [DTUT] Edit module pop up 'Could not find file C:\redata6\BatchData.Mdb'
 
 ## 問題描述

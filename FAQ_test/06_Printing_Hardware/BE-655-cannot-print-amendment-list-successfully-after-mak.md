@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-655"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-655"
-created: "2022-09-22"
-resolved: "2023-02-16"
-fix_version: ""
-components: [Backend (Web)]
-category: "06_Printing_Hardware"
+project: BE
+issue_key: BE-655
+issue_type: Bug QA
+status: Closed
+tags:
+- 06_printing_hardware
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-655
+created: '2022-09-22'
+resolved: '2023-02-16'
+fix_version: ''
+components:
+- Backend (Web)
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
 ---
-
 BE-655: Cannot print Amendment list successfully after make an amendment of delivery order batch
 
 | 問題

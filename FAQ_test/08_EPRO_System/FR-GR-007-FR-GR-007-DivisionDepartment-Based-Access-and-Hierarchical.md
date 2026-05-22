@@ -1,8 +1,26 @@
 ---
-title: "FR-GR-007: FR-GR-007: Division/Department-Based Access and Hierarchical Access Control"
-tags: [epro, EPRO_System]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_system
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-GR-007: FR-GR-007: Division/Department-Based Access and Hierarchical Access Control'
 ---
-
 # FR-GR-007: FR-GR-007: Division/Department-Based Access and Hierarchical Access Control
 
 ## 需求描述

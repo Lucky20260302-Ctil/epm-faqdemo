@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-729: Interface Update Log Enquiry (SE8008) and Interface Posting Error Enquiry (AS2000) changes for Lands Project"
 issue_key: BE-729
 issue_type: Task
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-729"
-created: 2023-03-23
-resolved: 2023-07-26
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-729
+created: '2023-03-23'
+resolved: '2023-07-26'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-729: Interface Update Log Enquiry (SE8008) and Interface Posting Error Enquiry (AS2000) changes for Lands Project'
 ---
-
 # BE-729: Interface Update Log Enquiry (SE8008) and Interface Posting Error Enquiry (AS2000) changes for Lands Project
 
 ## 問題描述

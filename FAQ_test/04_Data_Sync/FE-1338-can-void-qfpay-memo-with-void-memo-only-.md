@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1338: Can void QFPAY memo with 'Void Memo Only' by pressing F2"
 issue_key: FE-1338
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1338"
-created: 2024-01-23
-resolved: 2024-05-17
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1338
+created: '2024-01-23'
+resolved: '2024-05-17'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1338: Can void QFPAY memo with ''Void Memo Only'' by pressing F2'
 ---
-
 # FE-1338: Can void QFPAY memo with 'Void Memo Only" by pressing F2
 
 ## 問題描述

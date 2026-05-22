@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-880: ProRunner duplicate GRN posting"
 issue_key: BE-880
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-880"
-created: 2024-07-22
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-880
+created: '2024-07-22'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-880: ProRunner duplicate GRN posting'
 ---
-
 # BE-880: ProRunner duplicate GRN posting
 
 ## 問題描述

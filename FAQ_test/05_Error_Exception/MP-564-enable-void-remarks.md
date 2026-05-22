@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-564: Enable Void remarks"
 issue_key: MP-564
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-564"
-created: 2022-10-03
-resolved: 2024-07-28
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-564
+created: '2022-10-03'
+resolved: '2024-07-28'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-564: Enable Void remarks'
 ---
-
 # MP-564: Enable Void remarks
 
 ## 問題描述

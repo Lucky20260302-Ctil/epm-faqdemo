@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1036: [CS-1308]Issue_the item information is not completed in Mastconv Files"
 issue_key: BE-1036
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, master]
-jira_url: "https://ctil.atlassian.net/browse/BE-1036"
-created: 2025-03-24
-resolved: 2025-07-04
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- master
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1036
+created: '2025-03-24'
+resolved: '2025-07-04'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1036: [CS-1308]Issue_the item information is not completed in Mastconv Files'
 ---
-
 # BE-1036: [CS-1308]Issue_the item information is not completed in Mastconv Files 
 
 ## 問題描述

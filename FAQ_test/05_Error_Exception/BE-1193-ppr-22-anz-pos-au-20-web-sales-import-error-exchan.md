@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1193"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1193"
-created: "2025-10-29"
-resolved: ""
-fix_version: ""
-components: [Data Interface]
-category: "05_Error_Exception"
+project: BE
+issue_key: BE-1193
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1193
+created: '2025-10-29'
+resolved: ''
+fix_version: ''
+components:
+- Data Interface
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 BE-1193: ANZ POS - AU 20 Web sales import error - Exchange rate not found
 
 | 問題

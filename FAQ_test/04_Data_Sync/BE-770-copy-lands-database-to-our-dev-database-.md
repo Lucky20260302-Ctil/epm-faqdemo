@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-770: Copy LANDS database to our DEV database environment (172.16.138.128)"
 issue_key: BE-770
 issue_type: Task
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, administration]
-jira_url: "https://ctil.atlassian.net/browse/BE-770"
-created: 2023-06-21
-resolved: 2023-07-07
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- administration
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-770
+created: '2023-06-21'
+resolved: '2023-07-07'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-770: Copy LANDS database to our DEV database environment (172.16.138.128)'
 ---
-
 # BE-770: Copy LANDS database to our DEV database environment (172.16.138.128)
 
 ## 問題描述

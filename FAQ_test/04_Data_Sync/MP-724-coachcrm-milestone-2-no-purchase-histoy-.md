@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-724: [Coach][CRM milestone 2] No Purchase histoy & profile display when search member by telephone number"
 issue_key: MP-724
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-724"
-created: 2024-11-12
-resolved: 2024-11-13
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-724
+created: '2024-11-12'
+resolved: '2024-11-13'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-724: [Coach][CRM milestone 2] No Purchase histoy & profile display when search member by telephone number'
 ---
-
 # MP-724: [Coach][CRM milestone 2] No Purchase histoy & profile display when search member by telephone number
 
 ## 問題描述

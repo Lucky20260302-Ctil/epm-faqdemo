@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1195: Sporthouse Use DotNet Print pre-generate Day End Report"
 issue_key: FE-1195
 issue_type: Improvement
 status: Closed
-faq_score: 6.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1195"
-created: 2022-12-13
-resolved: 2022-12-16
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1195
+created: '2022-12-13'
+resolved: '2022-12-16'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1195: Sporthouse Use DotNet Print pre-generate Day End Report'
 ---
-
 # FE-1195: Sporthouse Use DotNet Print pre-generate Day End Report
 
 ## 問題描述

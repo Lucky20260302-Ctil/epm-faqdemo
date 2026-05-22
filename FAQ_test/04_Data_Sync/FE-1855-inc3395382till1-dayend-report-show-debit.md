@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1855: [INC3395382]Till1 dayend report show debit card 1 point."
 issue_key: FE-1855
 issue_type: Bug DEV
 status: Selected for Development (migrated)
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1855"
-created: 2026-01-16
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1855
+created: '2026-01-16'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1855: [INC3395382]Till1 dayend report show debit card 1 point.'
 ---
-
 # FE-1855: [INC3395382]Till1 dayend report show debit card 1 point.
 
 ## 問題描述

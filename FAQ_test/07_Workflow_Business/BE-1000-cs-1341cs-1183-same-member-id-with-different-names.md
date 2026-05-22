@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1000"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1000"
-created: "2025-02-06"
-resolved: ""
-fix_version: ""
-components: [eName]
-category: "07_Workflow_Business"
+project: BE
+issue_key: BE-1000
+issue_type: Bug PRD
+status: Closed
+tags:
+- 07_workflow_business
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1000
+created: '2025-02-06'
+resolved: ''
+fix_version: ''
+components:
+- eName
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 BE-1000: Same Member ID with different names and mobile numbers
 
 | 問題

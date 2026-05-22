@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-811: Q2023-097-ERM- Coach SG- SOW of KS SEA VIP Data Cleansing CR v1.0i"
 issue_key: BE-811
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-811"
-created: 2023-09-27
-resolved: 2023-09-27
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(v66)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-811
+created: '2023-09-27'
+resolved: '2023-09-27'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-811: Q2023-097-ERM- Coach SG- SOW of KS SEA VIP Data Cleansing CR v1.0i'
 ---
-
 # BE-811: Q2023-097-ERM- Coach SG- SOW of KS SEA VIP Data Cleansing CR v1.0i
 
 ## 問題描述

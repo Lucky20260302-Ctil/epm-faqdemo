@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-708: [Coach][JP][SalesHub] Pop up an error & fail to override list price in MPOS"
 issue_key: MP-708
 issue_type: Bug QA
 status: Closed
-faq_score: 8.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-708"
-created: 2024-07-22
-resolved: 2024-07-24
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-708
+created: '2024-07-22'
+resolved: '2024-07-24'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-708: [Coach][JP][SalesHub] Pop up an error & fail to override list price in MPOS'
 ---
-
 # MP-708: [Coach][JP][SalesHub] Pop up an error & fail to override list price in MPOS
 
 ## 問題描述

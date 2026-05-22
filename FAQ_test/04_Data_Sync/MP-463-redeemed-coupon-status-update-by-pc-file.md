@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-463: redeemed coupon status update by PC file"
 issue_key: MP-463
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-463"
-created: 2021-07-16
-resolved: 2021-07-16
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-463
+created: '2021-07-16'
+resolved: '2021-07-16'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-463: redeemed coupon status update by PC file'
 ---
-
 # MP-463: redeemed coupon status update by PC file 
 
 ## 問題描述

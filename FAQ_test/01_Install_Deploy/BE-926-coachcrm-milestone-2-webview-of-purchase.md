@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-926: [Coach][CRM milestone 2] Webview of Purchase history pop up network error"
 issue_key: BE-926
 issue_type: Bug QA
 status: Closed
-faq_score: 8.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-926"
-created: 2024-10-25
-resolved: 2024-11-01
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- backend-(web)
+- be
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-926
+created: '2024-10-25'
+resolved: '2024-11-01'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-926: [Coach][CRM milestone 2] Webview of Purchase history pop up network error'
 ---
-
 # BE-926: [Coach][CRM milestone 2] Webview of Purchase history pop up network error
 
 ## 問題描述

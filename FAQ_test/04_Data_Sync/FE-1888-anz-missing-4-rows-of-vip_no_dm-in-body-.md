@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1888: [ANZ] Missing 4 rows of vip_no_dm in body of  Dayend upsert member from [dbTrans].[dbo].[NEW VIP]"
 issue_key: FE-1888
 issue_type: Bug QA
 status: DEV Done
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1888"
-created: 2026-02-13
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1888
+created: '2026-02-13'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1888: [ANZ] Missing 4 rows of vip_no_dm in body of  Dayend upsert member from [dbTrans].[dbo].[NEW VIP]'
 ---
-
 # FE-1888: [ANZ] Missing 4 rows of vip_no_dm in body of  Dayend upsert member from [dbTrans].[dbo].[NEW VIP]
 
 ## 問題描述

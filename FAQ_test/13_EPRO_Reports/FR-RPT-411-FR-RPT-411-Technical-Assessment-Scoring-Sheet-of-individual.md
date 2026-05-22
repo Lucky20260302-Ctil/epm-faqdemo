@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-411: FR-RPT-411: Technical Assessment Scoring Sheet of individual members and summary of technical assess"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-411: FR-RPT-411: Technical Assessment Scoring Sheet of individual members and summary of technical assess'
 ---
-
 # FR-RPT-411: FR-RPT-411: Technical Assessment Scoring Sheet of individual members and summary of technical assessment (for Two Envelope Approach)
 
 ## 需求描述

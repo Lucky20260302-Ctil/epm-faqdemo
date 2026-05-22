@@ -212,7 +212,21 @@ def normalize_file(file_path: Path) -> dict:
     issue_key = fm.get("issue_key", fm.get("jira", ""))
     if not old_project and issue_key:
         old_project = detect_project_from_key(issue_key)
-    project = old_project.upper() if old_project else ""
+    # Preserve original casing for known projects
+    project_upper = old_project.upper() if old_project else ""
+    known_projects = {"BE", "FE", "MP", "WEB", "EPMTDCPROT", "CHAINSTOREPLUS", "CHAINSTORE"}
+    if project_upper in known_projects:
+        # Use title case for display names
+        if project_upper == "CHAINSTOREPLUS":
+            project = "ChainStorePlus"
+        elif project_upper == "CHAINSTORE":
+            project = "ChainStore"
+        elif project_upper == "EPMTDCPROT":
+            project = "EPMTDCPROT"
+        else:
+            project = project_upper
+    else:
+        project = old_project
 
     # Normalize issue_key
     if not issue_key:

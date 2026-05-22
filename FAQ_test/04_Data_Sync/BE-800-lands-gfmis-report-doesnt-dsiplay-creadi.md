@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-800: [Lands] GFMIS report doesn't dsiplay creadit card (inserted by manual) payment method"
 issue_key: BE-800
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-800"
-created: 2023-09-01
-resolved: 2023-10-09
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-800
+created: '2023-09-01'
+resolved: '2023-10-09'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-800: [Lands] GFMIS report doesn''t dsiplay creadit card (inserted by manual) payment method'
 ---
-
 # BE-800: [Lands] GFMIS report doesn't dsiplay creadit card (inserted by manual) payment method
 
 ## 問題描述

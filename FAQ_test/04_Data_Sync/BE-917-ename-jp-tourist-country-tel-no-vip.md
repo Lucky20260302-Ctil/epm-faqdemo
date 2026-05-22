@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-917: eName - JP Tourist - country tel no >> vip_areatel_2"
 issue_key: BE-917
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, ename]
-jira_url: "https://ctil.atlassian.net/browse/BE-917"
-created: 2024-10-09
-resolved: 2024-10-16
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- ename
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-917
+created: '2024-10-09'
+resolved: '2024-10-16'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-917: eName - JP Tourist - country tel no >> vip_areatel_2'
 ---
-
 # BE-917: eName - JP Tourist - country tel no >> vip_areatel_2
 
 ## 問題描述

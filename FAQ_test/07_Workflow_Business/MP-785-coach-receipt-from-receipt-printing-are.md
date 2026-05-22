@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-785: [Coach]  Receipt from receipt printing are missing QR code & order number"
 issue_key: MP-785
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, frontend]
-jira_url: "https://ctil.atlassian.net/browse/MP-785"
-created: 2025-07-10
-resolved: 2025-07-16
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- frontend
+- mp
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-785
+created: '2025-07-10'
+resolved: '2025-07-16'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-785: [Coach]  Receipt from receipt printing are missing QR code & order number'
 ---
-
 # MP-785: [Coach]  Receipt from receipt printing are missing QR code & order number
 
 ## 問題描述

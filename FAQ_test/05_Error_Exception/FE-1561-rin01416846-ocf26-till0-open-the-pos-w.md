@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1561: RIN01416846 - OCF26 Till0 Open the POS will show the 'TBLSALADY - 字段大小过长' this error"
 issue_key: FE-1561
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1561"
-created: 2024-11-15
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1561
+created: '2024-11-15'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1561: RIN01416846 - OCF26 Till0 Open the POS will show the ''TBLSALADY - 字段大小过长'' this error'
 ---
-
 # FE-1561: RIN01416846 - OCF26 Till0 Open the POS will show the "TBLSALADY - 字段大小过长" this error
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1543: RIN01410237 - JP - J417  - Mpos : the mpos will register double sales"
 issue_key: FE-1543
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/FE-1543"
-created: 2024-10-29
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- install_deploy
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1543
+created: '2024-10-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1543: RIN01410237 - JP - J417  - Mpos : the mpos will register double sales'
 ---
-
 # FE-1543: RIN01410237 - JP - J417  - Mpos : the mpos will register double sales
 
 ## 問題描述

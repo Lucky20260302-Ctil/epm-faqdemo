@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1011: [RIN01457238][RIN01457099]MO region 3 stores OC09, OC515, OC17 PCD failed to upload due to error 'payment type not found'"
 issue_key: BE-1011
 issue_type: Bug PRD
 status: HOLD
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, polling]
-jira_url: "https://ctil.atlassian.net/browse/BE-1011"
-created: 2025-02-26
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- polling
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1011
+created: '2025-02-26'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1011: [RIN01457238][RIN01457099]MO region 3 stores OC09, OC515, OC17 PCD failed to upload due to error ''payment type not found'''
 ---
-
 # BE-1011: [RIN01457238][RIN01457099]MO region 3 stores OC09, OC515, OC17 PCD failed to upload due to error "payment type not found"
 
 ## 問題描述

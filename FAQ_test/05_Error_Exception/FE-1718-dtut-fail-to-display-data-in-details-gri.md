@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1718: DTUT Fail to display data in Details Grid"
 issue_key: FE-1718
 issue_type: Bug PRD
 status: DEV Done
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1718"
-created: 2025-06-24
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1718
+created: '2025-06-24'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1718: DTUT Fail to display data in Details Grid'
 ---
-
 # FE-1718: DTUT Fail to display data in Details Grid 
 
 ## 問題描述

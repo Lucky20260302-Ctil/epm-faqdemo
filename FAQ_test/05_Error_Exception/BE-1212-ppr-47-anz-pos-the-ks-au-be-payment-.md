@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1212: [PPR-47] ANZ POS - the KS AU BE - payment type code maintain screen has wrong field text"
 issue_key: BE-1212
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1212"
-created: 2025-11-12
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- backend-(v66)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1212
+created: '2025-11-12'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1212: [PPR-47] ANZ POS - the KS AU BE - payment type code maintain screen has wrong field text'
 ---
-
 # BE-1212: [PPR-47] ANZ POS - the KS AU BE - payment type code maintain screen has wrong field text
 
 ## 問題描述

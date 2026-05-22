@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-792: [MPOS-117]CJ mPOS Prod_ J801 Tax Free indicator issue"
 issue_key: MP-792
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-792"
-created: 2025-08-13
-resolved: 2025-08-20
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-792
+created: '2025-08-13'
+resolved: '2025-08-20'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-792: [MPOS-117]CJ mPOS Prod_ J801 Tax Free indicator issue'
 ---
-
 # MP-792: [MPOS-117]CJ mPOS Prod_ J801 Tax Free indicator issue
 
 ## 問題描述

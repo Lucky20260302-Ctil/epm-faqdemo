@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-697: Doesn't set Region group & Click Back will get stuck in MX3003"
 issue_key: BE-697
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-697"
-created: 2022-11-14
-resolved: 2023-03-03
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-697
+created: '2022-11-14'
+resolved: '2023-03-03'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-697: Doesn''t set Region group & Click Back will get stuck in MX3003'
 ---
-
 # BE-697: Doesn't set Region group & Click Back will get stuck in MX3003
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-53: Change KSJ_CRM to accept two difference file names (CS2000 - NONSIS / CSPSIS - SIS)"
 issue_key: BE-53
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-53"
-created: 2020-03-19
-resolved: 2020-05-20
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-53
+created: '2020-03-19'
+resolved: '2020-05-20'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-53: Change KSJ_CRM to accept two difference file names (CS2000 - NONSIS / CSPSIS - SIS)'
 ---
-
 # BE-53: Change KSJ_CRM to accept two difference file names (CS2000 - NONSIS / CSPSIS - SIS)
 
 ## 問題描述

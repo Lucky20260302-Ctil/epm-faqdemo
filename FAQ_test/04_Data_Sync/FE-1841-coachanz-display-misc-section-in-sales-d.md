@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1841: [Coach][ANZ] Display MISC section in sales detail page & disable gain option"
 issue_key: FE-1841
 issue_type: Bug QA
 status: Release
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1841"
-created: 2025-12-31
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1841
+created: '2025-12-31'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1841: [Coach][ANZ] Display MISC section in sales detail page & disable gain option'
 ---
-
 # FE-1841: [Coach][ANZ] Display MISC section in sales detail page & disable gain option
 
 ## 問題描述

@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-3602
-tags: [faq, epm, epmtdcprot, 06-procurement-workflow]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-3602"
+issue_type: ''
+status: ''
+tags:
+- 06-procurement-workflow
+- 06_procurement_workflow
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-3602
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 06_Procurement_Workflow
-category_name: "採購流程"
+category_label: 採購流程
+quality: partial
 ---
-
 EPMTDCPROT-3602: [CR Supplier] full-reg info change / pre-reg info change / br update 這些create form 完成DOI後不會顯示在draft list的第一頁第一個
 
 | 問題

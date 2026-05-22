@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-304: Fail to void MPOS sales with member + discount"
 issue_key: MP-304
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/MP-304"
-created: 2020-11-09
-resolved: 2021-07-20
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- frontend
+- mp
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-304
+created: '2020-11-09'
+resolved: '2021-07-20'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-304: Fail to void MPOS sales with member + discount'
 ---
-
 # MP-304: Fail to void MPOS sales with member + discount 
 
 ## 問題描述

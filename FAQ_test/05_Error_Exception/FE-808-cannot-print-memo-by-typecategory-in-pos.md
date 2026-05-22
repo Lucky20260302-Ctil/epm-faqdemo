@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-808: cannot print memo by type/category in POS"
 issue_key: FE-808
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-808"
-created: 2020-10-21
-resolved: 2020-11-06
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-808
+created: '2020-10-21'
+resolved: '2020-11-06'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'FE-808: cannot print memo by type/category in POS'
 ---
-
 # FE-808: cannot print memo by type/category in POS
 
 ## 問題描述

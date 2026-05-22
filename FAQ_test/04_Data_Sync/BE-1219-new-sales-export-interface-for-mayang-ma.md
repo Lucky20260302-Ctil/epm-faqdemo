@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1219: New Sales Export Interface for Mayang Mall"
 issue_key: BE-1219
 issue_type: SOW
 status: Open
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1219"
-created: 2025-12-03
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 04_data_sync
+- be
+- data-interface
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1219
+created: '2025-12-03'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1219: New Sales Export Interface for Mayang Mall'
 ---
-
 # BE-1219: New Sales Export Interface for Mayang Mall 
 
 ## 問題描述

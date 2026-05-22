@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-372: Member Search search & ordering Enhance"
 issue_key: MP-372
 issue_type: Change Request
 status: Closed
-faq_score: 5.5
-faq_category: 02_Config_Settings
-faq_category_label: 設定與配置
-tags: [faq, mp, config_settings, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-372"
-created: 2021-03-01
-resolved: 2021-03-16
-resolution: Done
-has_images: False
+tags:
+- 02_config_settings
+- config_settings
+- faq
+- mp
+- mpos
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-372
+created: '2021-03-01'
+resolved: '2021-03-16'
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
+title: 'MP-372: Member Search search & ordering Enhance'
 ---
-
 # MP-372: Member Search search & ordering Enhance
 
 ## 問題描述

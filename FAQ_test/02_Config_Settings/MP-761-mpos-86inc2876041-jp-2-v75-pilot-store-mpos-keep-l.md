@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-761"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-761"
-created: "2025-03-27"
-resolved: "2025-05-21"
-fix_version: ""
-components: [MPOS]
-category: "02_Config_Settings"
+project: MP
+issue_key: MP-761
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-761
+created: '2025-03-27'
+resolved: '2025-05-21'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 MP-761: JP 2 V75 Pilot store MPOS keep loading and pop out error:”Fail to Connect SalesHub”after update to new version
 
 | 問題

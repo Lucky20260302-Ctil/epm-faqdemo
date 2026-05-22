@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1141"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1141"
-created: "2025-06-30"
-resolved: "2025-07-03"
-fix_version: "BE-V70R3.112"
-components: [polling]
-category: "03_Performance_Timeout"
+project: BE
+issue_key: BE-1141
+issue_type: Bug QA
+status: Closed
+tags:
+- 03_performance_timeout
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1141
+created: '2025-06-30'
+resolved: '2025-07-03'
+fix_version: BE-V70R3.112
+components:
+- polling
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
 ---
-
 BE-1141: Issue_PRC_OSS Polling Delay issue on 6.3
 
 | 問題

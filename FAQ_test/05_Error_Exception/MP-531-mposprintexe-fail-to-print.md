@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-531: MPOSPrint.exe fail to print"
 issue_key: MP-531
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mposprint.exe]
-jira_url: "https://ctil.atlassian.net/browse/MP-531"
-created: 2022-06-14
-resolved: 2024-03-01
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mposprint.exe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-531
+created: '2022-06-14'
+resolved: '2024-03-01'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-531: MPOSPrint.exe fail to print'
 ---
-
 # MP-531: MPOSPrint.exe fail to print
 
 ## 問題描述

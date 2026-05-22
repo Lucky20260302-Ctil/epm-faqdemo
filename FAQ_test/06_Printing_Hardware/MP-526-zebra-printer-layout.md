@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-526: ZEBRA printer layout"
 issue_key: MP-526
 issue_type: Task
 status: Closed
-faq_score: 5.0
-faq_category: 06_Printing_Hardware
-faq_category_label: 列印與硬體
-tags: [faq, mp, printing_hardware, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-526"
-created: 2022-05-25
-resolved: 2022-05-27
-resolution: Done
-has_images: False
+tags:
+- 06_printing_hardware
+- faq
+- mp
+- mpos
+- printing_hardware
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-526
+created: '2022-05-25'
+resolved: '2022-05-27'
+fix_version: ''
+components: []
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
+title: 'MP-526: ZEBRA printer layout'
 ---
-
 # MP-526: ZEBRA printer layout
 
 ## 問題描述

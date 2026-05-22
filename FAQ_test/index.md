@@ -1,9 +1,24 @@
 ---
-tags: [moc, faq, index]
-title: "ERM FAQ 知識庫"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: ERM FAQ 知識庫
 ---
-
 # ERM FAQ 知識庫
 
 > 自動生成索引 · 1941 篇 FAQ · 18 個分類

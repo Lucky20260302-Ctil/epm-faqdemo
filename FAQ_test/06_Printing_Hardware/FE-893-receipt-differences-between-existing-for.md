@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-893: Receipt differences between existing format and .net print format (RSH Round 3)"
 issue_key: FE-893
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 06_Printing_Hardware
-faq_category_label: 列印與硬體
-tags: [faq, fe, printing_hardware, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-893"
-created: 2020-12-22
-resolved: 2021-01-06
-resolution: Done
-has_images: False
+tags:
+- 06_printing_hardware
+- faq
+- fe
+- front-end
+- printing_hardware
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-893
+created: '2020-12-22'
+resolved: '2021-01-06'
+fix_version: ''
+components: []
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
+title: 'FE-893: Receipt differences between existing format and .net print format (RSH Round 3)'
 ---
-
 # FE-893: Receipt differences between existing format and .net print format (RSH Round 3)
 
 ## 問題描述

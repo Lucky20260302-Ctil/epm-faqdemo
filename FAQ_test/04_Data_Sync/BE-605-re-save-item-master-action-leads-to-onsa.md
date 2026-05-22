@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-605: Re-save Item Master action leads to Onsales Price Data clear up"
 issue_key: BE-605
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, master]
-jira_url: "https://ctil.atlassian.net/browse/BE-605"
-created: 2022-06-09
-resolved: 2022-06-13
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- master
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-605
+created: '2022-06-09'
+resolved: '2022-06-13'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-605: Re-save Item Master action leads to Onsales Price Data clear up'
 ---
-
 # BE-605: Re-save Item Master action leads to Onsales Price Data clear up 
 
 ## 問題描述

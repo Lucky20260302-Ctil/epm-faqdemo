@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-385: SOW of MPOS PrintHub Enhancement"
 issue_key: WEB-385
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 06_Printing_Hardware
-faq_category_label: 列印與硬體
-tags: [faq, web, printing_hardware, beapi]
-jira_url: "https://ctil.atlassian.net/browse/WEB-385"
-created: 2025-02-27
-resolved: 2025-05-12
-resolution: Done
-has_images: False
+tags:
+- 06_printing_hardware
+- beapi
+- faq
+- printing_hardware
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-385
+created: '2025-02-27'
+resolved: '2025-05-12'
+fix_version: ''
+components: []
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
+title: 'WEB-385: SOW of MPOS PrintHub Enhancement'
 ---
-
 # WEB-385: SOW of MPOS PrintHub Enhancement
 
 ## 問題描述

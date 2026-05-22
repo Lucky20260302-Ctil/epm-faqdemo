@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-1097
-tags: [faq, epm, epmtdcprot, 06-procurement-workflow]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-1097"
+issue_type: ''
+status: ''
+tags:
+- 06-procurement-workflow
+- 06_procurement_workflow
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-1097
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 06_Procurement_Workflow
-category_name: "採購流程"
+category_label: 採購流程
+quality: partial
 ---
-
 EPMTDCPROT-1097: Approver submit for approval时出现了多个Reject
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-772: [MPOS-90]MPOS 3.29.5 - JP Cloud IIS PRD store printing issue"
 issue_key: MP-772
 issue_type: Bug PRD
 status: Test in Progress
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mposprint.exe]
-jira_url: "https://ctil.atlassian.net/browse/MP-772"
-created: 2025-05-21
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mposprint.exe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-772
+created: '2025-05-21'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-772: [MPOS-90]MPOS 3.29.5 - JP Cloud IIS PRD store printing issue'
 ---
-
 # MP-772: [MPOS-90]MPOS 3.29.5 - JP Cloud IIS PRD store printing issue
 
 ## 問題描述

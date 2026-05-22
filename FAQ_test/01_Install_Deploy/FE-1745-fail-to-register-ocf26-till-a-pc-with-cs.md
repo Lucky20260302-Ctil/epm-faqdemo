@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file"
 issue_key: FE-1745
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1745"
-created: 2025-08-18
-resolved: 2025-09-30
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1745
+created: '2025-08-18'
+resolved: '2025-09-30'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file'
 ---
-
 # FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file
 
 ## 問題描述

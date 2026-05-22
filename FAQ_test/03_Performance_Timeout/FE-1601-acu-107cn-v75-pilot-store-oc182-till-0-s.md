@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1601: [ACU-107]CN V75 pilot store OC182 till 0 slow memo issue"
 issue_key: FE-1601
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, payment]
-jira_url: "https://ctil.atlassian.net/browse/FE-1601"
-created: 2025-01-02
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- payment
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1601
+created: '2025-01-02'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1601: [ACU-107]CN V75 pilot store OC182 till 0 slow memo issue'
 ---
-
 # FE-1601: [ACU-107]CN V75 pilot store OC182 till 0 slow memo issue
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1236: [CS-2668/PPR-235] New Request - Store code logic enhance for C360 API call"
 issue_key: BE-1236
 issue_type: Change Request
 status: Release
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1236"
-created: 2026-03-16
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- be
+- data-interface
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1236
+created: '2026-03-16'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1236: [CS-2668/PPR-235] New Request - Store code logic enhance for C360 API call'
 ---
-
 # BE-1236: [CS-2668/PPR-235] New Request - Store code logic enhance for C360 API call
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1060: [CS-1416] Issue_CN_CRM API met 503 error on 26th"
 issue_key: BE-1060
 issue_type: Bug PRD
 status: Open
-faq_score: 9.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1060"
-created: 2025-04-28
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1060
+created: '2025-04-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1060: [CS-1416] Issue_CN_CRM API met 503 error on 26th'
 ---
-
 # BE-1060: [CS-1416] Issue_CN_CRM API met 503 error on 26th
 
 ## 問題描述

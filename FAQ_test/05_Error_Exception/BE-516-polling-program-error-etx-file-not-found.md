@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-516"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-516"
-created: "2021-08-24"
-resolved: "2021-08-24"
-fix_version: "BE-V70R2.63"
-components: [Backend (ChainStorePlus 7.0)]
-category: "05_Error_Exception"
+project: BE
+issue_key: BE-516
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-516
+created: '2021-08-24'
+resolved: '2021-08-24'
+fix_version: BE-V70R2.63
+components:
+- Backend (ChainStorePlus 7.0)
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 BE-516: Polling program --- Error “ETX file not found”
 
 | 問題

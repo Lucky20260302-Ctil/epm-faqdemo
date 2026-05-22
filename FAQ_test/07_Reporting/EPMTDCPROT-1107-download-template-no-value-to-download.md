@@ -1,12 +1,27 @@
 ---
 project: EPMTDCPROT
 issue_key: EPMTDCPROT-1107
-tags: [faq, epm, epmtdcprot, 07-reporting]
-jira_url: "https://ctil.atlassian.net/browse/EPMTDCPROT-1107"
+issue_type: ''
+status: ''
+tags:
+- 07-reporting
+- 07_reporting
+- epm
+- epmtdcprot
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/EPMTDCPROT-1107
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
 category: 07_Reporting
-category_name: "報表與輸出"
+category_label: 報表
+quality: partial
 ---
-
 EPMTDCPROT-1107: Download Template - no value to download
 
 | 問題

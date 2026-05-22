@@ -3,17 +3,25 @@ project: FE
 issue_key: FE-1683
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1683"
-created: 2025-04-29
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1683
+created: '2025-04-29'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 # FE-1683: [CS-1430][INC2933217]PRC region POSV75 扫描顾CDP礼券的核销码,显示"parse coupon QR code error"
 
 > **類型:** Bug DEV | **狀態:** Closed

@@ -1,20 +1,29 @@
 ---
 project: BE
-title: "BE-809: EnterpriseSystemAPI PaidOrderSummary CollectionCounter changes"
 issue_key: BE-809
 issue_type: Improvement
 status: Closed
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(web), data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-809"
-created: 2023-09-22
-resolved: 2023-11-13
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(web)
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-809
+created: '2023-09-22'
+resolved: '2023-11-13'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-809: EnterpriseSystemAPI PaidOrderSummary CollectionCounter changes'
 ---
-
 # BE-809: EnterpriseSystemAPI PaidOrderSummary CollectionCounter changes
 
 ## 問題描述

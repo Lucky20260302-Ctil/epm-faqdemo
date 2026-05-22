@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-483: Remove the login checking for sales staff column"
 issue_key: MP-483
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-483"
-created: 2021-08-04
-resolved: 2021-08-06
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-483
+created: '2021-08-04'
+resolved: '2021-08-06'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-483: Remove the login checking for sales staff column'
 ---
-
 # MP-483: Remove the login checking for sales staff column
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1952: [CS-2672] Issue_PRC_INC3520233_OCF516 till0 sales cannot be uploaded to HKMR timely"
 issue_key: FE-1952
 issue_type: Bug PRD
 status: HOLD
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1952"
-created: 2026-05-14
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- frontend
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1952
+created: '2026-05-14'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1952: [CS-2672] Issue_PRC_INC3520233_OCF516 till0 sales cannot be uploaded to HKMR timely'
 ---
-
 # FE-1952: [CS-2672] Issue_PRC_INC3520233_OCF516 till0 sales cannot be uploaded to HKMR timely
 
 ## 問題描述

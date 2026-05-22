@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-387: [CS-1425]JP_COH_ePromo_want to edit approval result email receiver"
 issue_key: WEB-387
 issue_type: Improvement
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, epromo]
-jira_url: "https://ctil.atlassian.net/browse/WEB-387"
-created: 2025-05-16
-resolved: 2025-07-04
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- epromo
+- faq
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-387
+created: '2025-05-16'
+resolved: '2025-07-04'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'WEB-387: [CS-1425]JP_COH_ePromo_want to edit approval result email receiver'
 ---
-
 # WEB-387: [CS-1425]JP_COH_ePromo_want to edit approval result email receiver
 
 ## 問題描述

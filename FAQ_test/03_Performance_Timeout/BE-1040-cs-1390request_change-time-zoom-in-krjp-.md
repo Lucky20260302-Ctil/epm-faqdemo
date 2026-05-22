@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1040: [CS-1390]Request_change time zoom in KR/JP car file to JPT from HKT"
 issue_key: BE-1040
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-1040"
-created: 2025-03-31
-resolved: 2025-05-12
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1040
+created: '2025-03-31'
+resolved: '2025-05-12'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1040: [CS-1390]Request_change time zoom in KR/JP car file to JPT from HKT'
 ---
-
 # BE-1040: [CS-1390]Request_change time zoom in KR/JP car file to JPT from HKT 
 
 ## 問題描述

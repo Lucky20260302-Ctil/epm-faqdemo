@@ -1,17 +1,26 @@
 ---
-project: "WEB"
-issue_key: "WEB-404"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, web]
-jira_url: "https://ctil.atlassian.net/browse/WEB-404"
-created: "2025-08-07"
-resolved: "2025-08-07"
-fix_version: "BE-V70R3.114"
-components: [BEAPICRM]
-category: "02_Config_Settings"
+project: WEB
+issue_key: WEB-404
+issue_type: Bug QA
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/WEB-404
+created: '2025-08-07'
+resolved: '2025-08-07'
+fix_version: BE-V70R3.114
+components:
+- BEAPICRM
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need
 
 | 問題

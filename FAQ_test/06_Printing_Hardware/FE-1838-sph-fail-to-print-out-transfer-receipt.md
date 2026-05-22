@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1838"
-issue_type: "Bug QA"
-status: "HOLD"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1838"
-created: "2025-12-23"
-resolved: ""
-fix_version: ""
-components: [Front End]
-category: "06_Printing_Hardware"
+project: FE
+issue_key: FE-1838
+issue_type: Bug QA
+status: HOLD
+tags:
+- 06_printing_hardware
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1838
+created: '2025-12-23'
+resolved: ''
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
 ---
-
 FE-1838: Fail to print out transfer receipt
 
 | 問題

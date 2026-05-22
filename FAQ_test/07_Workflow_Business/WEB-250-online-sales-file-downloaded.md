@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-250: ‘Online sales’ file downloaded"
 issue_key: WEB-250
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, web, workflow_business, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-250"
-created: 2022-10-11
-resolved: 2024-03-01
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- web
+- web-(csplus)
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-250
+created: '2022-10-11'
+resolved: '2024-03-01'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'WEB-250: ‘Online sales’ file downloaded'
 ---
-
 # WEB-250: ‘Online sales’ file downloaded
 
 ## 問題描述

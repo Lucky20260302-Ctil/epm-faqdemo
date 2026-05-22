@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1014: Data Unavailable in Datamart for 15-21 Jan"
 issue_key: BE-1014
 issue_type: Change Request
 status: DEV Done
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1014"
-created: 2025-02-28
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1014
+created: '2025-02-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-1014: Data Unavailable in Datamart for 15-21 Jan'
 ---
-
 # BE-1014: Data Unavailable in Datamart for 15-21 Jan
 
 ## 問題描述

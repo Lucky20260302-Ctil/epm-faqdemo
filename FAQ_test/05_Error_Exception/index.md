@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "報錯與異常 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 05_error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 報錯與異常 — FAQ 索引
 ---
-
 # 報錯與異常
 
 > 自動生成索引 · 596 篇 FAQ

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-908: [CRM ACXIOM ] void status update + reconsolation Null"
 issue_key: BE-908
 issue_type: Bug PRD
 status: Closed
-faq_score: 8.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-908"
-created: 2024-09-23
-resolved: 2024-09-23
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-908
+created: '2024-09-23'
+resolved: '2024-09-23'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-908: [CRM ACXIOM ] void status update + reconsolation Null'
 ---
-
 # BE-908: [CRM ACXIOM ] void status update + reconsolation Null
 
 ## 問題描述

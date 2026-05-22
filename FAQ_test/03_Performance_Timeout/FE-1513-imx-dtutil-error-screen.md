@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1513: IMX Dtutil error screen"
 issue_key: FE-1513
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1513"
-created: 2024-09-26
-resolved: 2024-12-24
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- frontend
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1513
+created: '2024-09-26'
+resolved: '2024-12-24'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1513: IMX Dtutil error screen'
 ---
-
 # FE-1513: IMX Dtutil error screen
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1129: POS Freeze (update new log)"
 issue_key: FE-1129
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1129"
-created: 2022-07-07
-resolved: 2024-03-06
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1129
+created: '2022-07-07'
+resolved: '2024-03-06'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1129: POS Freeze (update new log)'
 ---
-
 # FE-1129: POS Freeze (update new log)
 
 ## 問題描述

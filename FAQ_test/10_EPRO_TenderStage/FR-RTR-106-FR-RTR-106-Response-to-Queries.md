@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-106: FR-RTR-106: Response to Queries"
-tags: [epro, EPRO_TenderStage]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_tenderstage
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-106: FR-RTR-106: Response to Queries'
 ---
-
 # FR-RTR-106: FR-RTR-106: Response to Queries
 
 ## 需求描述

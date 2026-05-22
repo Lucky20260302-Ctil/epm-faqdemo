@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-698: Displayed incorrect Traditional Chinese words"
 issue_key: BE-698
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-698"
-created: 2022-11-15
-resolved: 2023-01-06
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-698
+created: '2022-11-15'
+resolved: '2023-01-06'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-698: Displayed incorrect Traditional Chinese words'
 ---
-
 # BE-698: Displayed incorrect Traditional Chinese words
 
 ## 問題描述

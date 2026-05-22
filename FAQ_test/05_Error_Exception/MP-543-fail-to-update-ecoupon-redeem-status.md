@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-543: Fail to update eCoupon redeem status"
 issue_key: MP-543
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-543"
-created: 2022-08-26
-resolved: 2024-03-01
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-543
+created: '2022-08-26'
+resolved: '2024-03-01'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-543: Fail to update eCoupon redeem status'
 ---
-
 # MP-543: Fail to update eCoupon redeem status
 
 ## 問題描述

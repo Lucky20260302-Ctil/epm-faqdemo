@@ -1,9 +1,25 @@
 ---
-tags: [moc, faq, index]
-title: "配置與設定 — FAQ 索引"
-updated: 2026-05-22
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- 02_config_settings
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: stub
+title: 配置與設定 — FAQ 索引
 ---
-
 # 配置與設定
 
 > 自動生成索引 · 69 篇 FAQ

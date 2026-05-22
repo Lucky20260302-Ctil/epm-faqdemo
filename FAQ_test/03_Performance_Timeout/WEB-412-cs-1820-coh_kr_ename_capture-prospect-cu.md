@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-412: [CS-1820] COH_KR_eName_Capture prospect customer"
 issue_key: WEB-412
 issue_type: Change Request
 status: HOLD
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-412"
-created: 2025-11-04
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- ename
+- faq
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/WEB-412
+created: '2025-11-04'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'WEB-412: [CS-1820] COH_KR_eName_Capture prospect customer'
 ---
-
 # WEB-412: [CS-1820] COH_KR_eName_Capture prospect customer
 
 ## 問題描述

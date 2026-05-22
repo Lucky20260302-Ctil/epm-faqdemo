@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-971: cannot sync domain account record, program log show error message"
 issue_key: BE-971
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(v64)]
-jira_url: "https://ctil.atlassian.net/browse/BE-971"
-created: 2024-12-19
-resolved: 2025-02-18
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(v64)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-971
+created: '2024-12-19'
+resolved: '2025-02-18'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-971: cannot sync domain account record, program log show error message'
 ---
-
 # BE-971: cannot sync domain account record, program log show error message
 
 ## 問題描述

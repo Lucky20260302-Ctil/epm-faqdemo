@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-421: FR-RPT-421: Process lead-time of different procurement procedure"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-421: FR-RPT-421: Process lead-time of different procurement procedure'
 ---
-
 # FR-RPT-421: FR-RPT-421: Process lead-time of different procurement procedure
 
 ## 需求描述

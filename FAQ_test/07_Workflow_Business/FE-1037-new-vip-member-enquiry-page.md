@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1037: New VIP - Member Enquiry Page"
 issue_key: FE-1037
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, enquiry]
-jira_url: "https://ctil.atlassian.net/browse/FE-1037"
-created: 2021-11-26
-resolved: 2021-12-02
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- enquiry
+- faq
+- fe
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1037
+created: '2021-11-26'
+resolved: '2021-12-02'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'FE-1037: New VIP - Member Enquiry Page'
 ---
-
 # FE-1037: New VIP - Member Enquiry Page
 
 ## 問題描述

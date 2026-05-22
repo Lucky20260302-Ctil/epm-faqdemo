@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1951: IMX missing VIP name in the sales memo"
 issue_key: FE-1951
 issue_type: Task
 status: DEV Done
-faq_score: 5.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1951"
-created: 2026-05-14
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1951
+created: '2026-05-14'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1951: IMX missing VIP name in the sales memo'
 ---
-
 # FE-1951: IMX missing VIP name in the sales memo
 
 ## 問題描述

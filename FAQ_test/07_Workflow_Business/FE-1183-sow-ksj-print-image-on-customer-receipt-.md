@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1183: SOW KSJ Print Image on Customer Receipt"
 issue_key: FE-1183
 issue_type: SOW
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1183"
-created: 2022-11-30
-resolved: 2023-05-19
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1183
+created: '2022-11-30'
+resolved: '2023-05-19'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1183: SOW KSJ Print Image on Customer Receipt'
 ---
-
 # FE-1183: SOW KSJ Print Image on Customer Receipt 
 
 ## 問題描述

@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-202: FR-RTR-202: RFQ / Tender Opening for Fee Proposals"
-tags: [epro, EPRO_PostTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_posttender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-202: FR-RTR-202: RFQ / Tender Opening for Fee Proposals'
 ---
-
 # FR-RTR-202: FR-RTR-202: RFQ / Tender Opening for Fee Proposals
 
 ## 需求描述

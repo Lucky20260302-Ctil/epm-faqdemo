@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1174: SOW CDP Coupon Integration"
 issue_key: FE-1174
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1174"
-created: 2022-11-15
-resolved: 2023-03-08
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end-v720.02
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1174
+created: '2022-11-15'
+resolved: '2023-03-08'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1174: SOW CDP Coupon Integration'
 ---
-
 # FE-1174: SOW CDP Coupon Integration
 
 ## 問題描述

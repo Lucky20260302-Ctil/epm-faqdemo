@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-176: csplus - API Re-order the sqlite column"
 issue_key: WEB-176
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-176"
-created: 2020-11-11
-resolved: 2020-11-11
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-176
+created: '2020-11-11'
+resolved: '2020-11-11'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: stub
+title: 'WEB-176: csplus - API Re-order the sqlite column'
 ---
-
 # WEB-176: csplus - API Re-order the sqlite column
 
 ## 問題描述

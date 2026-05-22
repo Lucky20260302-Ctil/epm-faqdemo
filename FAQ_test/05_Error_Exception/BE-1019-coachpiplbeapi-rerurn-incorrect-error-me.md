@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1019: [Coach][PIPL][BEAPI] Rerurn incorrect error message to POS when insert incorrect email/ member id/ mobile no"
 issue_key: BE-1019
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1019"
-created: 2025-03-03
-resolved: 2025-03-03
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1019
+created: '2025-03-03'
+resolved: '2025-03-03'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1019: [Coach][PIPL][BEAPI] Rerurn incorrect error message to POS when insert incorrect email/ member id/ mobile no'
 ---
-
 # BE-1019: [Coach][PIPL][BEAPI] Rerurn incorrect error message to POS when insert incorrect email/ member id/ mobile no
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1173: Standalone Mode - Day end process long running"
 issue_key: FE-1173
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1173"
-created: 2022-11-03
-resolved: 2024-03-06
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1173
+created: '2022-11-03'
+resolved: '2024-03-06'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1173: Standalone Mode - Day end process long running'
 ---
-
 # FE-1173: Standalone Mode - Day end process long running
 
 ## 問題描述

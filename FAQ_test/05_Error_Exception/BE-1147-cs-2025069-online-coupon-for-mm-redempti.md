@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1147: cs [2025069] online coupon for mm redemption validation failure"
 issue_key: BE-1147
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(v66)]
-jira_url: "https://ctil.atlassian.net/browse/BE-1147"
-created: 2025-07-10
-resolved: 2025-07-14
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- backend-(v66)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1147
+created: '2025-07-10'
+resolved: '2025-07-14'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1147: cs [2025069] online coupon for mm redemption validation failure'
 ---
-
 # BE-1147: cs [2025069] online coupon for mm redemption validation failure
 
 ## 問題描述

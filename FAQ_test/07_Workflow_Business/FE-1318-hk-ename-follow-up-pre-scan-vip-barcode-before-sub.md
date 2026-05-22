@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1318"
-issue_type: "Task"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1318"
-created: "2023-11-30"
-resolved: "2024-05-07"
-fix_version: "v720.02R26A, v750.04"
-components: [Front End]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-1318
+issue_type: Task
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1318
+created: '2023-11-30'
+resolved: '2024-05-07'
+fix_version: v720.02R26A, v750.04
+components:
+- Front End
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-1318: HK eName follow up - pre-scan vip barcode before submit
 
 | 問題

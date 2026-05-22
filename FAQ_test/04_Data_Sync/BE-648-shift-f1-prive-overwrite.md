@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-648: Shift F1 Prive Overwrite"
 issue_key: BE-648
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, frontend]
-jira_url: "https://ctil.atlassian.net/browse/BE-648"
-created: 2022-09-16
-resolved: 2023-11-16
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- frontend
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-648
+created: '2022-09-16'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-648: Shift F1 Prive Overwrite'
 ---
-
 # BE-648: Shift F1 Prive Overwrite
 
 ## 問題描述

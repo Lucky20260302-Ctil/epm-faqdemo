@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-653: LandsD day end checking popup error"
 issue_key: MP-653
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, backend]
-jira_url: "https://ctil.atlassian.net/browse/MP-653"
-created: 2023-06-09
-resolved: 2023-06-09
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend
+- error_exception
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-653
+created: '2023-06-09'
+resolved: '2023-06-09'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-653: LandsD day end checking popup error'
 ---
-
 # MP-653: LandsD day end checking popup error
 
 ## 問題描述

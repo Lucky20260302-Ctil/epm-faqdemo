@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-333: eName R3.25 KR region unable to register for Customer"
 issue_key: WEB-333
 issue_type: Improvement
 status: Closed
-faq_score: 5.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, web, install_deploy, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-333"
-created: 2023-07-21
-resolved: 2024-05-16
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- ename
+- faq
+- install_deploy
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-333
+created: '2023-07-21'
+resolved: '2024-05-16'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'WEB-333: eName R3.25 KR region unable to register for Customer'
 ---
-
 # WEB-333: eName R3.25 KR region unable to register for Customer
 
 ## 問題描述

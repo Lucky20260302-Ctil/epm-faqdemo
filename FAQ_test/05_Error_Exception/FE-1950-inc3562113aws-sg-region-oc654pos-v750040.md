@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1950: [INC3562113]AWS SG region, OC654,pos v75.004.0702.0000, search all member show: This Member Card is expired"
 issue_key: FE-1950
 issue_type: Bug DEV
 status: Open
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1950"
-created: 2026-05-13
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1950
+created: '2026-05-13'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1950: [INC3562113]AWS SG region, OC654,pos v75.004.0702.0000, search all member show: This Member Card is expired'
 ---
-
 # FE-1950: [INC3562113]AWS SG region, OC654,pos v75.004.0702.0000, search all member show: This Member Card is expired
 
 ## 問題描述

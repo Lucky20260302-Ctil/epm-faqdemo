@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1290: SG MY MPOS e-Receipt Enhancement"
 issue_key: FE-1290
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, printing]
-jira_url: "https://ctil.atlassian.net/browse/FE-1290"
-created: 2023-09-14
-resolved: 2023-09-14
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- performance_timeout
+- printing
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1290
+created: '2023-09-14'
+resolved: '2023-09-14'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1290: SG MY MPOS e-Receipt Enhancement'
 ---
-
 # FE-1290: SG MY MPOS e-Receipt Enhancement
 
 ## 問題描述

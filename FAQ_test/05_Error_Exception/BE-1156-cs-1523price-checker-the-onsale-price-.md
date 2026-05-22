@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1156: [CS-1523]Price checker - the onsale price cannot return successfully"
 issue_key: BE-1156
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1156"
-created: 2025-08-08
-resolved: 2025-08-20
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- api
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1156
+created: '2025-08-08'
+resolved: '2025-08-20'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1156: [CS-1523]Price checker - the onsale price cannot return successfully'
 ---
-
 # BE-1156: [CS-1523]Price checker - the onsale price cannot return successfully
 
 ## 問題描述

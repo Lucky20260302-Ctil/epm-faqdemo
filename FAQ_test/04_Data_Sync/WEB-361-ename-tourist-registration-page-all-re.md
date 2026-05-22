@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-361: eName tourist registration page - all required fields should have * to indicate it is mandatory"
 issue_key: WEB-361
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-361"
-created: 2024-09-30
-resolved: 2024-09-30
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- ename
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-361
+created: '2024-09-30'
+resolved: '2024-09-30'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'WEB-361: eName tourist registration page - all required fields should have * to indicate it is mandatory'
 ---
-
 # WEB-361: eName tourist registration page - all required fields should have * to indicate it is mandatory
 
 ## 問題描述

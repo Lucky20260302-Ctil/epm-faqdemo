@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1432: [Coach][MY] 'Scan the QR Code to request e-Invoice' should be printed at bottom of the QR code"
 issue_key: FE-1432
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1432"
-created: 2024-06-26
-resolved: 2024-06-27
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1432
+created: '2024-06-26'
+resolved: '2024-06-27'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1432: [Coach][MY] ''Scan the QR Code to request e-Invoice'' should be printed at bottom of the QR code'
 ---
-
 # FE-1432: [Coach][MY] "Scan the QR Code to request e-Invoice" should be printed at bottom of the QR code
 
 ## 問題描述

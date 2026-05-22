@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-359: phone option should include SMS"
 issue_key: WEB-359
 issue_type: Bug QA
 status: Closed
-faq_score: 5.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-359"
-created: 2024-09-10
-resolved: 2024-09-12
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- ename
+- error_exception
+- faq
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-359
+created: '2024-09-10'
+resolved: '2024-09-12'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'WEB-359: phone option should include SMS'
 ---
-
 # WEB-359: phone option should include SMS
 
 ## 問題描述

@@ -1,20 +1,29 @@
 ---
 project: FE
-title: "FE-1038: Coach JP Input Day End/Cash Varianace - Add Validate Maximum length in confirmation process"
 issue_key: FE-1038
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, day-end, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1038"
-created: 2021-11-26
-resolved: 2021-12-02
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- day-end
+- faq
+- fe
+- frontend
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1038
+created: '2021-11-26'
+resolved: '2021-12-02'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'FE-1038: Coach JP Input Day End/Cash Varianace - Add Validate Maximum length in confirmation process'
 ---
-
 # FE-1038: Coach JP Input Day End/Cash Varianace - Add Validate Maximum length in confirmation process
 
 ## 問題描述

@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-408: FR-RPT-408: Price comparison of received quotations (for Single Envelope Approach)"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-408: FR-RPT-408: Price comparison of received quotations (for Single Envelope Approach)'
 ---
-
 # FR-RPT-408: FR-RPT-408: Price comparison of received quotations (for Single Envelope Approach)
 
 ## 需求描述

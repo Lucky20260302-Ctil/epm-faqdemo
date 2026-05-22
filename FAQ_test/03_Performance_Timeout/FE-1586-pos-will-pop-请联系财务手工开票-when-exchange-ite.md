@@ -3,17 +3,25 @@ project: FE
 issue_key: FE-1586
 issue_type: Bug DEV
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end-v720.02]
-jira_url: "https://ctil.atlassian.net/browse/FE-1586"
-created: 2024-12-16
-resolved: 2024-12-24
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end-v720.02
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1586
+created: '2024-12-16'
+resolved: '2024-12-24'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
 ---
-
 # FE-1586: Pos will pop '请联系财务手工开票' when exchange items in other store
 
 > **類型:** Bug DEV | **狀態:** Closed

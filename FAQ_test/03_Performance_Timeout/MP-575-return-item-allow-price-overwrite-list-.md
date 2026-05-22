@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-575: Return item allow price overwrite > List Price"
 issue_key: MP-575
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, mp, performance_timeout, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-575"
-created: 2022-10-22
-resolved: 2022-10-24
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- mp
+- mpos
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-575
+created: '2022-10-22'
+resolved: '2022-10-24'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'MP-575: Return item allow price overwrite > List Price'
 ---
-
 # MP-575: Return item allow price overwrite > List Price 
 
 ## 問題描述

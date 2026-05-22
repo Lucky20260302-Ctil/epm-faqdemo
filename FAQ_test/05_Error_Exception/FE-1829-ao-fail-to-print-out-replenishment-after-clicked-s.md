@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1829"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1829"
-created: "2025-12-11"
-resolved: "2025-12-17"
-fix_version: ""
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1829
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1829
+created: '2025-12-11'
+resolved: '2025-12-17'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1829: Fail to print out Replenishment after clicked Save for Send to host
 
 | 問題

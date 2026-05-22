@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-887: Package Set Item Maintenance(MX4000) ：create项目时，点击save，一直提示“Invalid Package Item Code”"
 issue_key: BE-887
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-887"
-created: 2024-08-02
-resolved: 2024-09-09
-resolution: Done
-has_images: True
+tags:
+- 01_install_deploy
+- backend-(web)
+- be
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-887
+created: '2024-08-02'
+resolved: '2024-09-09'
+fix_version: ''
+components: []
+has_images: true
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-887: Package Set Item Maintenance(MX4000) ：create项目时，点击save，一直提示“Invalid Package Item Code”'
 ---
-
 # BE-887: Package Set Item Maintenance(MX4000) ：create项目时，点击save，一直提示“Invalid Package Item Code”
 
 ## 問題描述

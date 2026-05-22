@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1955: [CS-2081] Preflight Test for [FE-1910] , [FE-1912] with no additional configurations"
 issue_key: FE-1955
 issue_type: Task
 status: Design
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1955"
-created: 2026-05-21
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1955
+created: '2026-05-21'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1955: [CS-2081] Preflight Test for [FE-1910] , [FE-1912] with no additional configurations'
 ---
-
 # FE-1955: [CS-2081] Preflight Test for [FE-1910] , [FE-1912] with no additional configurations
 
 ## 問題描述

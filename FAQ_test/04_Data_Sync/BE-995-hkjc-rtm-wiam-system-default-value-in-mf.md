@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-995: HKJC RTM WIAM System default value in MF0007 Sales Staff Maintenance"
 issue_key: BE-995
 issue_type: Change Request
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-995"
-created: 2025-01-24
-resolved: 2025-02-07
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(chainstoreplus-7.0)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-995
+created: '2025-01-24'
+resolved: '2025-02-07'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-995: HKJC RTM WIAM System default value in MF0007 Sales Staff Maintenance'
 ---
-
 # BE-995: HKJC RTM WIAM System default value in MF0007 Sales Staff Maintenance
 
 ## 問題描述

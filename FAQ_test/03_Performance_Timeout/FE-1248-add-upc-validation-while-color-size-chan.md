@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1248: Add UPC validation while color size change"
 issue_key: FE-1248
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1248"
-created: 2023-05-19
-resolved: 2024-09-23
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1248
+created: '2023-05-19'
+resolved: '2024-09-23'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1248: Add UPC validation while color size change'
 ---
-
 # FE-1248: Add UPC validation while color size change
 
 ## 問題描述

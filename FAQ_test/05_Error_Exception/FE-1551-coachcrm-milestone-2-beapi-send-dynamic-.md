@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1551: [Coach][CRM milestone 2] BEAPI send dynamic token= True but POS validate the dynamic token is fail"
 issue_key: FE-1551
 issue_type: Bug QA
 status: Closed
-faq_score: 7.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1551"
-created: 2024-11-06
-resolved: 2025-03-13
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1551
+created: '2024-11-06'
+resolved: '2025-03-13'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1551: [Coach][CRM milestone 2] BEAPI send dynamic token= True but POS validate the dynamic token is fail'
 ---
-
 # FE-1551: [Coach][CRM milestone 2] BEAPI send dynamic token= True but POS validate the dynamic token is fail
 
 ## 問題描述

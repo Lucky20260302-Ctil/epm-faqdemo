@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-812: [Coach][MPOS] Add 4 options of New VIP Communication Channel in New member section"
 issue_key: MP-812
 issue_type: Improvement
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-812"
-created: 2026-02-23
-resolved: 2026-05-05
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-812
+created: '2026-02-23'
+resolved: '2026-05-05'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-812: [Coach][MPOS] Add 4 options of New VIP Communication Channel in New member section'
 ---
-
 # MP-812: [Coach][MPOS] Add 4 options of New VIP Communication Channel in New member section 
 
 ## 問題描述

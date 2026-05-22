@@ -1,20 +1,29 @@
 ---
 project: BE
-title: "BE-320: Coach Shanghai Grand Gateway 66 (GG66) LL Interface"
 issue_key: BE-320
 issue_type: SOW
 status: Closed
-faq_score: 4.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(v66), data-interface]
-jira_url: "https://ctil.atlassian.net/browse/BE-320"
-created: 2020-10-07
-resolved: 2021-02-08
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(v66)
+- be
+- data-interface
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-320
+created: '2020-10-07'
+resolved: '2021-02-08'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: stub
+title: 'BE-320: Coach Shanghai Grand Gateway 66 (GG66) LL Interface'
 ---
-
 # BE-320: Coach Shanghai Grand Gateway 66 (GG66) LL Interface
 
 ## 問題描述

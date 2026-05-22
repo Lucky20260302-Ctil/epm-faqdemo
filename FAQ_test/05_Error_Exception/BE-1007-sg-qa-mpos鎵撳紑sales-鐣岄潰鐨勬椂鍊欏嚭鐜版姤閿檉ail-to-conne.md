@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1007: SG QA Mpos打开sales 界面的时候出现报错fail to connect saleshub"
 issue_key: BE-1007
 issue_type: Bug PRD
 status: Closed
-faq_score: 8.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, mpos]
-jira_url: "https://ctil.atlassian.net/browse/BE-1007"
-created: 2025-02-19
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 05_error_exception
+- be
+- error_exception
+- faq
+- mpos
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1007
+created: '2025-02-19'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-1007: SG QA Mpos打开sales 界面的时候出现报错fail to connect saleshub'
 ---
-
 # BE-1007: SG QA Mpos打开sales 界面的时候出现报错fail to connect saleshub
 
 ## 問題描述

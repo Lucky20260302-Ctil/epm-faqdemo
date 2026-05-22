@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1746: 【CS-1588】By region to cancel customer survey after the payment"
 issue_key: FE-1746
 issue_type: Task
 status: Closed
-faq_score: 6.0
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, fe, performance_timeout, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1746"
-created: 2025-08-25
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- fe
+- front-end
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1746
+created: '2025-08-25'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'FE-1746: 【CS-1588】By region to cancel customer survey after the payment'
 ---
-
 # FE-1746: 【CS-1588】By region to cancel customer survey after the payment
 
 ## 問題描述

@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-702: [CS-873] Japanese user login in MPOS which caused posting error"
 issue_key: MP-702
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-702"
-created: 2024-05-28
-resolved: 2024-06-07
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-702
+created: '2024-05-28'
+resolved: '2024-06-07'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-702: [CS-873] Japanese user login in MPOS which caused posting error'
 ---
-
 # MP-702: [CS-873] Japanese user login in MPOS which caused posting error
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking"
 issue_key: WEB-343
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, web, performance_timeout, interface]
-jira_url: "https://ctil.atlassian.net/browse/WEB-343"
-created: 2024-04-25
-resolved: 2024-04-25
-resolution: Done
-has_images: True
+tags:
+- 03_performance_timeout
+- faq
+- interface
+- performance_timeout
+- web
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-343
+created: '2024-04-25'
+resolved: '2024-04-25'
+fix_version: ''
+components: []
+has_images: true
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking'
 ---
-
 # WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking
 
 ## 問題描述

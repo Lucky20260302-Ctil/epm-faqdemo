@@ -1,20 +1,29 @@
 ---
 project: WEB
-title: "WEB-419: [IMX] WebEnquiry Issue"
 issue_key: WEB-419
 issue_type: Bug PRD
 status: Open
-faq_score: 4.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, web, error_exception, web-(csplus), web-enquiry]
-jira_url: "https://ctil.atlassian.net/browse/WEB-419"
-created: 2026-01-21
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- web
+- web-(csplus)
+- web-enquiry
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/WEB-419
+created: '2026-01-21'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'WEB-419: [IMX] WebEnquiry Issue'
 ---
-
 # WEB-419: [IMX] WebEnquiry Issue
 
 ## 問題描述

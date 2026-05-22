@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1755"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1755"
-created: "2025-09-29"
-resolved: ""
-fix_version: ""
-components: [Front End]
-category: "06_Printing_Hardware"
+project: FE
+issue_key: FE-1755
+issue_type: Bug PRD
+status: Closed
+tags:
+- 06_printing_hardware
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1755
+created: '2025-09-29'
+resolved: ''
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
 ---
-
 FE-1755: CN Laser printer cannot reprint sales memo in till2 : Printing Error
 
 | 問題

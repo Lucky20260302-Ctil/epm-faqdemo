@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1772"
-issue_type: "Bug DEV"
-status: "DEV Done"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1772"
-created: "2025-10-21"
-resolved: ""
-fix_version: ""
-components: [Front End v750.01R01A]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1772
+issue_type: Bug DEV
+status: DEV Done
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1772
+created: '2025-10-21'
+resolved: ''
+fix_version: ''
+components:
+- Front End v750.01R01A
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1772: PRC OC316 POSv75,Sales memo 00004891 invoice QR code can't be printed out
 
 | 問題

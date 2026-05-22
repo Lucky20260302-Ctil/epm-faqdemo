@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1229: [CS-2030] -[CS-2053]  CJ DSA OnSalesPrice not effective owing to ZeroLength Temp solution"
 issue_key: BE-1229
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, api]
-jira_url: "https://ctil.atlassian.net/browse/BE-1229"
-created: 2026-02-05
-resolved: 2026-02-26
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- api
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-1229
+created: '2026-02-05'
+resolved: '2026-02-26'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1229: [CS-2030] -[CS-2053]  CJ DSA OnSalesPrice not effective owing to ZeroLength Temp solution'
 ---
-
 # BE-1229: [CS-2030] -[CS-2053]  CJ DSA OnSalesPrice not effective owing to ZeroLength Temp solution
 
 ## 問題描述

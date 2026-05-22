@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-715: Coach MY BDO - mpos QR code print out error (ZEBRA)"
 issue_key: MP-715
 issue_type: Bug QA
 status: Closed
-faq_score: 8.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, mp, error_exception, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-715"
-created: 2024-10-23
-resolved: 2024-11-18
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- mp
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-715
+created: '2024-10-23'
+resolved: '2024-11-18'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'MP-715: Coach MY BDO - mpos QR code print out error (ZEBRA)'
 ---
-
 # MP-715: Coach MY BDO - mpos QR code print out error (ZEBRA)
 
 ## 問題描述

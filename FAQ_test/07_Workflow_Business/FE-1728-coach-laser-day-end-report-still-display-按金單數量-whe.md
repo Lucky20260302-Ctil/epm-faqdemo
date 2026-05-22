@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1728"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1728"
-created: "2025-07-11"
-resolved: "2025-07-31"
-fix_version: ""
-components: [Front End]
-category: "07_Workflow_Business"
+project: FE
+issue_key: FE-1728
+issue_type: Bug QA
+status: Closed
+tags:
+- 07_workflow_business
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1728
+created: '2025-07-11'
+resolved: '2025-07-31'
+fix_version: ''
+components:
+- Front End
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
 ---
-
 FE-1728: Laser Day End report still display 按金單數量 when no deposit transaction in that day
 
 | 問題

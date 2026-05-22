@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-456: E-coupon click on reprint screen display product not found"
 issue_key: MP-456
 issue_type: Bug QA
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, mp, workflow_business, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-456"
-created: 2021-06-17
-resolved: 2022-06-13
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- mp
+- mpos
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-456
+created: '2021-06-17'
+resolved: '2022-06-13'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'MP-456: E-coupon click on reprint screen display product not found'
 ---
-
 # MP-456: E-coupon click on reprint screen display product not found
 
 ## 問題描述

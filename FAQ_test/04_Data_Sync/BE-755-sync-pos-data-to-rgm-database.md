@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-755: Sync POS data to RGM database"
 issue_key: BE-755
 issue_type: Task
 status: Closed
-faq_score: 5.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-755"
-created: 2023-06-06
-resolved: 2023-11-10
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-755
+created: '2023-06-06'
+resolved: '2023-11-10'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-755: Sync POS data to RGM database'
 ---
-
 # BE-755: Sync POS data to RGM database
 
 ## 問題描述

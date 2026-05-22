@@ -1,8 +1,26 @@
 ---
-title: "FR-RPT-407: FR-RPT-407: Declaration of conflict of interest"
-tags: [epro, EPRO_Reports]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_reports
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RPT-407: FR-RPT-407: Declaration of conflict of interest'
 ---
-
 # FR-RPT-407: FR-RPT-407: Declaration of conflict of interest
 
 ## 需求描述

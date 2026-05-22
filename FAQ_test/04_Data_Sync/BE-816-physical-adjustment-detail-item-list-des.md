@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-816: Physical Adjustment Detail Item list description order is wrong after save, back and re-enter again."
 issue_key: BE-816
 issue_type: Bug QA
 status: Closed
-faq_score: 6.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-816"
-created: 2023-10-12
-resolved: 2023-11-03
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- backend-(web)
+- be
+- data_sync
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-816
+created: '2023-10-12'
+resolved: '2023-11-03'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-816: Physical Adjustment Detail Item list description order is wrong after save, back and re-enter again.'
 ---
-
 # BE-816: Physical Adjustment Detail Item list description order is wrong after save, back and re-enter again.
 
 ## 問題描述

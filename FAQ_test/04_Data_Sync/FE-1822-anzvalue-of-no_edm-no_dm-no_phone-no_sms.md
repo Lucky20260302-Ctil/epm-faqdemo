@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1822: [ANZ]Value of No_EDM, No_DM, No_Phone, No_SMS option missing in DB from PCD flow"
 issue_key: FE-1822
 issue_type: Task
 status: Open
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, backend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1822"
-created: 2025-11-28
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- backend
+- data_sync
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1822
+created: '2025-11-28'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1822: [ANZ]Value of No_EDM, No_DM, No_Phone, No_SMS option missing in DB from PCD flow'
 ---
-
 # FE-1822: [ANZ]Value of No_EDM, No_DM, No_Phone, No_SMS option missing in DB from PCD flow
 
 ## 問題描述

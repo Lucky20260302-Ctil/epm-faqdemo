@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1559: Revise for REMS discount offer logic"
 issue_key: FE-1559
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1559"
-created: 2024-11-14
-resolved: 2025-03-04
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end-v750.01r01a
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1559
+created: '2024-11-14'
+resolved: '2025-03-04'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1559: Revise for REMS discount offer logic'
 ---
-
 # FE-1559: Revise for REMS discount offer logic
 
 ## 問題描述

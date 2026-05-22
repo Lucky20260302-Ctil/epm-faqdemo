@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1854"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1854"
-created: "2026-01-16"
-resolved: ""
-fix_version: ""
-components: [interface]
-category: "02_Config_Settings"
+project: FE
+issue_key: FE-1854
+issue_type: Bug PRD
+status: Closed
+tags:
+- 02_config_settings
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1854
+created: '2026-01-16'
+resolved: ''
+fix_version: ''
+components:
+- interface
+has_images: false
+category: 02_Config_Settings
+category_label: 配置與設定
+quality: partial
 ---
-
 FE-1854: INC3394928 -KSFA241  Issues with sending email receipt to the customer
 
 | 問題

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-330: Data concurrency handling"
 issue_key: BE-330
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(web)]
-jira_url: "https://ctil.atlassian.net/browse/BE-330"
-created: 2020-11-03
-resolved: 2022-06-15
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- backend-(web)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-330
+created: '2020-11-03'
+resolved: '2022-06-15'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'BE-330: Data concurrency handling'
 ---
-
 # BE-330: Data concurrency handling
 
 ## 問題描述

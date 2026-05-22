@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1000: [CS-1341][CS-1183] Same Member ID with different names and mobile numbers"
 issue_key: BE-1000
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, ename]
-jira_url: "https://ctil.atlassian.net/browse/BE-1000"
-created: 2025-02-06
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- ename
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1000
+created: '2025-02-06'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1000: [CS-1341][CS-1183] Same Member ID with different names and mobile numbers'
 ---
-
 # BE-1000: [CS-1341][CS-1183] Same Member ID with different names and mobile numbers
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-46: POS_API - Log the result before pass to FE"
 issue_key: WEB-46
 issue_type: Task
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, web, data_sync, web-(csplus)]
-jira_url: "https://ctil.atlassian.net/browse/WEB-46"
-created: 2020-08-12
-resolved: 2020-09-04
-resolution: Done
-has_images: False
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- web
+- web-(csplus)
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-46
+created: '2020-08-12'
+resolved: '2020-09-04'
+fix_version: ''
+components: []
+has_images: false
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'WEB-46: POS_API - Log the result before pass to FE'
 ---
-
 # WEB-46: POS_API - Log the result before pass to FE
 
 ## 問題描述

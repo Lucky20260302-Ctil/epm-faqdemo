@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1739: [INC3119292]Posting OSS_B terminated"
 issue_key: FE-1739
 issue_type: Bug DEV
 status: Closed
-faq_score: 5.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end-v750.01r01a]
-jira_url: "https://ctil.atlassian.net/browse/FE-1739"
-created: 2025-07-30
-resolved: 2025-09-08
-resolution: Done
-has_images: True
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end-v750.01r01a
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1739
+created: '2025-07-30'
+resolved: '2025-09-08'
+fix_version: ''
+components: []
+has_images: true
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1739: [INC3119292]Posting OSS_B terminated'
 ---
-
 # FE-1739: [INC3119292]Posting OSS_B terminated
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: MP
-title: "MP-507: MPOS Fails the Installation on iOS 15 Devices"
 issue_key: MP-507
 issue_type: Bug DEV
 status: Closed
-faq_score: 7.0
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, mp, install_deploy, mpos]
-jira_url: "https://ctil.atlassian.net/browse/MP-507"
-created: 2021-10-08
-resolved: 2021-12-08
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- install_deploy
+- mp
+- mpos
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-507
+created: '2021-10-08'
+resolved: '2021-12-08'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'MP-507: MPOS Fails the Installation on iOS 15 Devices'
 ---
-
 # MP-507: MPOS Fails the Installation on iOS 15 Devices
 
 ## 問題描述

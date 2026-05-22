@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1546"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1546"
-created: "2024-11-01"
-resolved: "2024-11-08"
-fix_version: "FE-V750.04R09"
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1546
+issue_type: Bug QA
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1546
+created: '2024-11-01'
+resolved: '2024-11-08'
+fix_version: FE-V750.04R09
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1546: Fail to pop up member creation screen after scan a new wechat QR code
 
 | 問題

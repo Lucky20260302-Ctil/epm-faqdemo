@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1035: [RIN00861440] CJ customer receipt of print out missing Signature Space"
 issue_key: FE-1035
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-1035"
-created: 2021-11-26
-resolved: 2021-12-02
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- faq
+- fe
+- frontend
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1035
+created: '2021-11-26'
+resolved: '2021-12-02'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1035: [RIN00861440] CJ customer receipt of print out missing Signature Space'
 ---
-
 # FE-1035: [RIN00861440] CJ customer receipt of print out missing Signature Space
 
 ## 問題描述

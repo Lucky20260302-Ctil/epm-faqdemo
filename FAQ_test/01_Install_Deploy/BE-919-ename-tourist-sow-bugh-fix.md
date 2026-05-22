@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-919: Ename - Tourist SOW Bugh Fix"
 issue_key: BE-919
 issue_type: Change Request
 status: Closed
-faq_score: 6.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, be, install_deploy, ename]
-jira_url: "https://ctil.atlassian.net/browse/BE-919"
-created: 2024-10-16
-resolved: 2024-10-16
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- be
+- ename
+- faq
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-919
+created: '2024-10-16'
+resolved: '2024-10-16'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'BE-919: Ename - Tourist SOW Bugh Fix'
 ---
-
 # BE-919: Ename - Tourist SOW Bugh Fix
 
 ## 問題描述

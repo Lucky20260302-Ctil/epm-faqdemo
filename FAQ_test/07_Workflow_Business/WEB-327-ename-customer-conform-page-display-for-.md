@@ -1,20 +1,28 @@
 ---
 project: WEB
-title: "WEB-327: [eName] Customer conform page display for email 1 and email 2"
 issue_key: WEB-327
 issue_type: Bug QA
 status: Closed
-faq_score: 5.5
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, web, workflow_business, ename]
-jira_url: "https://ctil.atlassian.net/browse/WEB-327"
-created: 2023-06-29
-resolved: 2023-06-29
-resolution: Done
-has_images: False
+tags:
+- 07_workflow_business
+- ename
+- faq
+- web
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/WEB-327
+created: '2023-06-29'
+resolved: '2023-06-29'
+fix_version: ''
+components: []
+has_images: false
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: stub
+title: 'WEB-327: [eName] Customer conform page display for email 1 and email 2'
 ---
-
 # WEB-327: [eName] Customer conform page display for email 1 and email 2
 
 ## 問題描述

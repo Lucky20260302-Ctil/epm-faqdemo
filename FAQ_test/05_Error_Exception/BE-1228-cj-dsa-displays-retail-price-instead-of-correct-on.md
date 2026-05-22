@@ -1,17 +1,26 @@
 ---
-project: "BE"
-issue_key: "BE-1228"
-issue_type: "Bug PRD"
-status: "Release"
-tags: [faq, be]
-jira_url: "https://ctil.atlassian.net/browse/BE-1228"
-created: "2026-01-30"
-resolved: ""
-fix_version: ""
-components: [API]
-category: "05_Error_Exception"
+project: BE
+issue_key: BE-1228
+issue_type: Bug PRD
+status: Release
+tags:
+- 05_error_exception
+- be
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1228
+created: '2026-01-30'
+resolved: ''
+fix_version: ''
+components:
+- API
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 and 1/29)
 
 | 問題

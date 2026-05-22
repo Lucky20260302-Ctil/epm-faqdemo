@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-1030: [INC2865617] BE UI Polling time display abnormal"
 issue_key: BE-1030
 issue_type: Bug PRD
 status: Closed
-faq_score: 5.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, be, data_sync, polling]
-jira_url: "https://ctil.atlassian.net/browse/BE-1030"
-created: 2025-03-19
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- be
+- data_sync
+- faq
+- polling
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-1030
+created: '2025-03-19'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'BE-1030: [INC2865617] BE UI Polling time display abnormal'
 ---
-
 # BE-1030: [INC2865617] BE UI Polling time display abnormal
 
 ## 問題描述

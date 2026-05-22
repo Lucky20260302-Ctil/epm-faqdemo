@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-907: Apply AllowDepositSettleRefund to accsales.rpt"
 issue_key: FE-907
 issue_type: Bug PRD
 status: Closed
-faq_score: 9.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, sales]
-jira_url: "https://ctil.atlassian.net/browse/FE-907"
-created: 2021-01-22
-resolved: 2022-08-18
-resolution: Done
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- sales
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-907
+created: '2021-01-22'
+resolved: '2022-08-18'
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-907: Apply AllowDepositSettleRefund to accsales.rpt'
 ---
-
 # FE-907: Apply AllowDepositSettleRefund to accsales.rpt
 
 ## 問題描述

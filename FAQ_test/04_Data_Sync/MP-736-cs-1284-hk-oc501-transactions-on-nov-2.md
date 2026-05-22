@@ -1,20 +1,29 @@
 ---
 project: MP
-title: "MP-736: [CS-1284] HK OC501 - transactions on Nov 20 was wrongly booked into Nov 15. - RIN01426108"
 issue_key: MP-736
 issue_type: Change Request
 status: Closed
-faq_score: 4.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, mp, data_sync, mpos, mpos-api]
-jira_url: "https://ctil.atlassian.net/browse/MP-736"
-created: 2024-12-09
-resolved: 2025-03-06
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- mp
+- mpos
+- mpos-api
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/MP-736
+created: '2024-12-09'
+resolved: '2025-03-06'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'MP-736: [CS-1284] HK OC501 - transactions on Nov 20 was wrongly booked into Nov 15. - RIN01426108'
 ---
-
 # MP-736: [CS-1284] HK OC501 - transactions on Nov 20 was wrongly booked into Nov 15. - RIN01426108
 
 ## 問題描述

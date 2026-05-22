@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1812: [FE][OmniHub] Printing result of dayend consolidate report"
 issue_key: FE-1812
 issue_type: Bug QA
 status: Open
-faq_score: 6.5
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1812"
-created: 2025-11-21
-resolved: 
-resolution: 
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1812
+created: '2025-11-21'
+resolved: ''
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1812: [FE][OmniHub] Printing result of dayend consolidate report'
 ---
-
 # FE-1812: [FE][OmniHub] Printing result of dayend consolidate report
 
 ## 問題描述

@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-536: Fix bug “mixnew_item_type” reset to blank after Product Table has ended lookup [RIN00913903]"
 issue_key: BE-536
 issue_type: Bug PRD
 status: Closed
-faq_score: 6.5
-faq_category: 03_Performance_Timeout
-faq_category_label: 效能與逾時
-tags: [faq, be, performance_timeout, backend-(chainstoreplus-7.0)]
-jira_url: "https://ctil.atlassian.net/browse/BE-536"
-created: 2022-01-28
-resolved: 2022-01-28
-resolution: Done
-has_images: False
+tags:
+- 03_performance_timeout
+- backend-(chainstoreplus-7.0)
+- be
+- faq
+- performance_timeout
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/BE-536
+created: '2022-01-28'
+resolved: '2022-01-28'
+fix_version: ''
+components: []
+has_images: false
+category: 03_Performance_Timeout
+category_label: 效能與超時
+quality: partial
+title: 'BE-536: Fix bug “mixnew_item_type” reset to blank after Product Table has ended lookup [RIN00913903]'
 ---
-
 # BE-536: Fix bug “mixnew_item_type” reset to blank after Product Table has ended lookup [RIN00913903]
 
 ## 問題描述

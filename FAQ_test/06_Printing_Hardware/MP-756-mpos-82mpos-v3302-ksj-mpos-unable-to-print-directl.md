@@ -1,17 +1,26 @@
 ---
-project: "MP"
-issue_key: "MP-756"
-issue_type: "Bug QA"
-status: "Closed"
-tags: [faq, mp]
-jira_url: "https://ctil.atlassian.net/browse/MP-756"
-created: "2025-03-14"
-resolved: "2025-05-02"
-fix_version: ""
-components: [MPOS]
-category: "06_Printing_Hardware"
+project: MP
+issue_key: MP-756
+issue_type: Bug QA
+status: Closed
+tags:
+- 06_printing_hardware
+- faq
+- mp
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/MP-756
+created: '2025-03-14'
+resolved: '2025-05-02'
+fix_version: ''
+components:
+- MPOS
+has_images: false
+category: 06_Printing_Hardware
+category_label: 列印與硬體
+quality: partial
 ---
-
 MP-756: MPOS v3.30.2 - KSJ MPOS unable to print directly after issue sales memo
 
 | 問題

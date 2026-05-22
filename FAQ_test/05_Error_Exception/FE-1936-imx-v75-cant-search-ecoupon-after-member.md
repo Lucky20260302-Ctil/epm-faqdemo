@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1936: IMX V75 cant search ecoupon after member create"
 issue_key: FE-1936
 issue_type: Task
 status: DEV Done
-faq_score: 4.0
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, fe, error_exception, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1936"
-created: 2026-04-22
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- error_exception
+- faq
+- fe
+- front-end
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1936
+created: '2026-04-22'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
+title: 'FE-1936: IMX V75 cant search ecoupon after member create'
 ---
-
 # FE-1936: IMX V75 cant search ecoupon after member create
 
 ## 問題描述

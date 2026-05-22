@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1142: Re-generate Day End Report (RP File)"
 issue_key: FE-1142
 issue_type: Improvement
 status: Closed
-faq_score: 4.0
-faq_category: 04_Data_Sync
-faq_category_label: 資料與同步
-tags: [faq, fe, data_sync, day-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1142"
-created: 2022-08-12
-resolved: 2022-12-07
-resolution: Done
-has_images: True
+tags:
+- 04_data_sync
+- data_sync
+- day-end
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1142
+created: '2022-08-12'
+resolved: '2022-12-07'
+fix_version: ''
+components: []
+has_images: true
+category: 04_Data_Sync
+category_label: 資料同步
+quality: partial
+title: 'FE-1142: Re-generate Day End Report (RP File)'
 ---
-
 # FE-1142: Re-generate Day End Report (RP File)
 
 ## 問題描述

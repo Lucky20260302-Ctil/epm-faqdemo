@@ -1,8 +1,26 @@
 ---
-title: "FR-RTR-212: FR-RTR-212: Negotiation"
-tags: [epro, EPRO_PostTender]
+project: ''
+issue_key: ''
+issue_type: ''
+status: ''
+tags:
+- epro
+- epro_posttender
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: ''
+created: ''
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: ''
+category_label: ''
+quality: stub
+title: 'FR-RTR-212: FR-RTR-212: Negotiation'
 ---
-
 # FR-RTR-212: FR-RTR-212: Negotiation
 
 ## 需求描述

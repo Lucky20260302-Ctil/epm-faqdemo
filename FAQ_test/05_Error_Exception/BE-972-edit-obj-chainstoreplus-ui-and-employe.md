@@ -1,20 +1,28 @@
 ---
 project: BE
-title: "BE-972: edit obj -> chainstoreplus UI and Employee ID length"
 issue_key: BE-972
 issue_type: Bug QA
 status: Closed
-faq_score: 4.5
-faq_category: 05_Error_Exception
-faq_category_label: 錯誤與異常
-tags: [faq, be, error_exception, backend-(v64)]
-jira_url: "https://ctil.atlassian.net/browse/BE-972"
-created: 2024-12-20
-resolved: 
-resolution: 
-has_images: False
+tags:
+- 05_error_exception
+- backend-(v64)
+- be
+- error_exception
+- faq
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/BE-972
+created: '2024-12-20'
+resolved: ''
+fix_version: ''
+components: []
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: stub
+title: 'BE-972: edit obj -> chainstoreplus UI and Employee ID length'
 ---
-
 # BE-972: edit obj -> chainstoreplus UI and Employee ID length
 
 ## 問題描述

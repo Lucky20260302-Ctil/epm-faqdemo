@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-798: KSJ-Create Member in C360 by OK button"
 issue_key: FE-798
 issue_type: Bug QA
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, frontend]
-jira_url: "https://ctil.atlassian.net/browse/FE-798"
-created: 2020-10-12
-resolved: 2020-10-12
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- frontend
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-798
+created: '2020-10-12'
+resolved: '2020-10-12'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-798: KSJ-Create Member in C360 by OK button'
 ---
-
 # FE-798: KSJ-Create Member in C360 by OK button
 
 ## 問題描述

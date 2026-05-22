@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1393: [CS-1034] Issue_JP_RIN01339795 A barcode was splited up when printed out."
 issue_key: FE-1393
 issue_type: Bug PRD
 status: Closed
-faq_score: 7.5
-faq_category: 01_Install_Deploy
-faq_category_label: 安裝與部署
-tags: [faq, fe, install_deploy, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1393"
-created: 2024-05-17
-resolved: 2024-05-24
-resolution: Done
-has_images: False
+tags:
+- 01_install_deploy
+- faq
+- fe
+- front-end
+- install_deploy
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1393
+created: '2024-05-17'
+resolved: '2024-05-24'
+fix_version: ''
+components: []
+has_images: false
+category: 01_Install_Deploy
+category_label: 安裝與部署
+quality: partial
+title: 'FE-1393: [CS-1034] Issue_JP_RIN01339795 A barcode was splited up when printed out.'
 ---
-
 # FE-1393: [CS-1034] Issue_JP_RIN01339795 A barcode was splited up when printed out.
 
 ## 問題描述

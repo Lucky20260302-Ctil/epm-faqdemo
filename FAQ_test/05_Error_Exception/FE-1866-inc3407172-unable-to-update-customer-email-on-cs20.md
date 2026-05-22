@@ -1,17 +1,26 @@
 ---
-project: "FE"
-issue_key: "FE-1866"
-issue_type: "Bug PRD"
-status: "Closed"
-tags: [faq, fe]
-jira_url: "https://ctil.atlassian.net/browse/FE-1866"
-created: "2026-01-26"
-resolved: ""
-fix_version: "BE-V70R3.142"
-components: [Front End]
-category: "05_Error_Exception"
+project: FE
+issue_key: FE-1866
+issue_type: Bug PRD
+status: Closed
+tags:
+- 05_error_exception
+- faq
+- fe
+symptom: ''
+root_cause: ''
+solution: ''
+jira_url: https://ctil.atlassian.net/browse/FE-1866
+created: '2026-01-26'
+resolved: ''
+fix_version: BE-V70R3.142
+components:
+- Front End
+has_images: false
+category: 05_Error_Exception
+category_label: 報錯與異常
+quality: partial
 ---
-
 FE-1866: Unable to update customer email on CS2000 web
 
 | 問題

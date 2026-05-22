@@ -1,20 +1,28 @@
 ---
 project: FE
-title: "FE-1285: [CJ] Pop up E-Receipt Sending Dialogue when users confirm to Void orders"
 issue_key: FE-1285
 issue_type: Improvement
 status: Closed
-faq_score: 5.0
-faq_category: 07_Workflow_Business
-faq_category_label: 流程與業務
-tags: [faq, fe, workflow_business, front-end]
-jira_url: "https://ctil.atlassian.net/browse/FE-1285"
-created: 2023-08-29
-resolved: 2023-11-16
-resolution: Done
-has_images: True
+tags:
+- 07_workflow_business
+- faq
+- fe
+- front-end
+- workflow_business
+symptom: ''
+root_cause: ''
+solution: Done
+jira_url: https://ctil.atlassian.net/browse/FE-1285
+created: '2023-08-29'
+resolved: '2023-11-16'
+fix_version: ''
+components: []
+has_images: true
+category: 07_Workflow_Business
+category_label: 業務流程
+quality: partial
+title: 'FE-1285: [CJ] Pop up E-Receipt Sending Dialogue when users confirm to Void orders'
 ---
-
 # FE-1285: [CJ] Pop up E-Receipt Sending Dialogue when users confirm to Void orders
 
 ## 問題描述
