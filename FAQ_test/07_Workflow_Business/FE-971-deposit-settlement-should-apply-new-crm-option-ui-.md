@@ -21,18 +21,23 @@ category: 07_Workflow_Business
 category_label: 業務流程
 quality: complete
 ---
+
 FE-971: Deposit Settlement should apply new CRM option UI (same as issuing Sales Memo)
 
-| 問題
+## 症狀
+
 開立訂金結算備忘錄（Deposit Settlement）時，Send e-Receipt 對話框中未顯示會員的 CRM Email 地址，導致無法發送電子收據給會員。但以相同會員開立一般銷售備忘錄（Sales Memo）時，Send e-Receipt 對話框則可正常顯示 CRM Email，兩者行為不一致。
 
-| 根因
+## 根因
+
 訂金結算流程中的 Send e-Receipt UI 未正確套用與銷售備忘錄相同的 CRM Email 顯示邏輯，導致會員 Email 欄位在訂金結算時未被填入 Send e-Receipt 對話框。
 
-| 解法
+## 解法
+
 已於以下版本中修正此問題：v720.01R03B、v720.01R04、v750.01R01A。修正後訂金結算的 Send e-Receipt 對話框可正確顯示會員 CRM Email，與銷售備忘錄行為一致。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-971](https://ctil.atlassian.net/browse/FE-971)
 - Fix Version: v750.01R01A, v720.01R03B,, v720.01R04
 - 解決日期: 2021-05-13

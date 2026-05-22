@@ -22,21 +22,18 @@ category: 07_Reporting
 category_label: 報表
 quality: complete
 ---
+
 EPMTDCPROT-1107: Download Template - no value to download
 
-| 問題
+## 症狀
 
 為什麼Download Template功能中部分文件無法下載？
 
-| 根因
+## 根因
 
+## 解法
 
-
-| 解法
-
-
-
-| 相關資訊
+## 相關資訊
 
 - Jira: [EPMTDCPROT-1107](https://ctil.atlassian.net/browse/EPMTDCPROT-1107)
 - Fix Version: 未標註

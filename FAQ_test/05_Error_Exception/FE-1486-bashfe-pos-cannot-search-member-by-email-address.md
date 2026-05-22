@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1486: POS cannot search member by Email address
 
-| 問題
+## 症狀
+
 BASH POS 無法透過 Email 地址搜尋會員，但 VPN 連線及 DB 連線均正常。
 
-| 根因
+## 根因
+
 Email 搜尋功能查詢的是 vipemail 資料表而非 vip 資料表，導致查無結果。
 
-| 解法
+## 解法
+
 修正搜尋邏輯，從正確的 vipemail 表查詢 Email 對應的會員資料。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1486](https://ctil.atlassian.net/browse/FE-1486)
 - 解決日期: 2024-08-20
 - 組件: Front End

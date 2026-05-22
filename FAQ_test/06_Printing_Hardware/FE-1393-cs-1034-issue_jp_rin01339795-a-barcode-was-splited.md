@@ -21,18 +21,23 @@ category: 06_Printing_Hardware
 category_label: 列印與硬體
 quality: complete
 ---
+
 FE-1393: Issue_JP_RIN01339795 A barcode was splited up when printed out.
 
-| 問題
+## 症狀
+
 POS 版本升級（V72 至 V75）後，條碼列印出現分裂/斷開的異常狀況。原因為條碼列印的 layout INI 設定檔在版本升級過程中被清除，導致新版 POS 無法取得正確的條碼列印參數。
 
-| 根因
+## 根因
+
 版本升級流程中的 adminUpdate.bat 未將舊版 CS2000POS\Layout 目錄下的條碼列印 INI 設定檔備份並遷移至新版 CSPLUS\Layout 目錄，導致列印參數遺失。
 
-| 解法
+## 解法
+
 修改 V72 與 V75 的 adminUpdate.bat：V72 先將 Layout 檔案備份至 Retdata6\layout 目錄；V75 再從 Retdata6\layout 複製至 CSPLUS\layout。降版時亦從 Retdata6\layout 還原。修復版本：v750.04R04A。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1393](https://ctil.atlassian.net/browse/FE-1393)
 - Fix Version: v750.04R04A
 - 解決日期: 2024-05-24

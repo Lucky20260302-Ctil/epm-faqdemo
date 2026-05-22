@@ -22,21 +22,18 @@ category: 06_Procurement_Workflow
 category_label: 採購流程
 quality: complete
 ---
+
 EPMTDCPROT-1097: Approver submit for approval时出现了多个Reject
 
-| 問題
+## 症狀
 
 為什麼Approver提交Approval時會出現多個Reject選項？
 
-| 根因
+## 根因
 
+## 解法
 
-
-| 解法
-
-
-
-| 相關資訊
+## 相關資訊
 
 - Jira: [EPMTDCPROT-1097](https://ctil.atlassian.net/browse/EPMTDCPROT-1097)
 - Fix Version: 未標註

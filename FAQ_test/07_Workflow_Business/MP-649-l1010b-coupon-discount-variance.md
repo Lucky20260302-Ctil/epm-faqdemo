@@ -21,18 +21,23 @@ category: 07_Workflow_Business
 category_label: 業務流程
 quality: complete
 ---
+
 MP-649: L1010B Coupon Discount Variance
 
-| 問題
+## 症狀
+
 在MPOS交易中使用L1010B折價券時出現折扣金額差異，導致結帳金額與預期不符，影響交易正確性。
 
-| 根因
+## 根因
+
 MPOS在處理折價券時，未驗證輸入的折價券編號、VIP類型或商品編號與系統處理後的結果是否一致，導致資料比對不符時仍繼續完成交易，產生金額差異。
 
-| 解法
+## 解法
+
 更新至MPOS 3.29.1版本（20240821），該版本新增交易前驗證中止機制：當輸入與處理後的折價券編號、VIP類型或商品編號不符時，系統將自動中止交易，防止金額差異問題發生。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-649](https://ctil.atlassian.net/browse/MP-649)
 - Fix Version: 3.29.1
 - 解決日期: 2024-08-30

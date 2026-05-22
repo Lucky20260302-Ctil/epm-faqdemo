@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 MP-793: CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub
 
-| 問題
+## 症狀
+
 mPOS 在輸入交易但尚未完成時，使用者切換至其他應用程式（如 iPhone Safari 開啟 eNameCapture），返回 mPOS 後已輸入的交易資料全部消失。需保持「Connected to SalesHub」狀態才能避免問題發生。
 
-| 根因
+## 根因
+
 mPOS 在重新連線至 SalesHub 的過程中存在 UI 層級 Bug，重新連線時未保留當前交易資料，導致畫面中已輸入的交易資訊被清空。
 
-| 解法
+## 解法
+
 升級至 Hot Fix 版本 3.29.6-20250827.1 或 3.30.5-20250827.1。此修復已於 2025-09-02 發布至 COACH。短期規避方案：確保交易過程中保持與 SalesHub 連線，避免在未完成交易前切換至其他應用程式。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-793](https://ctil.atlassian.net/browse/MP-793)
 - Fix Version: 3.29.6-20250827.1, 3.30.5-20250827.1
 - 解決日期: 2025-09-02

@@ -22,21 +22,22 @@ category: 06_Procurement_Workflow
 category_label: 採購流程
 quality: complete
 ---
+
 EPMTDCPROT-1931: 
 
-| 問題
+## 症狀
 
 Level 5 用戶在 PS Form Part I 中指派 Tender Board 後，系統僅生成 Draft，但未向 Tender Board 成員發送指派通知郵件。
 
-| 根因
+## 根因
 
 系統缺少該場景（Level 5 用戶指派 Tender Board）對應的郵件通知模板。Mike Chen 確認：「已經確定是沒有模板導致的」。
 
-| 解法
+## 解法
 
 補建遺漏的郵件通知模板，使 Level 5 用戶指派 Tender Board 時能正確觸發通知郵件發送。Shaun_Huang 確認 sit test pass。
 
-| 相關資訊
+## 相關資訊
 
 - Jira: [EPMTDCPROT-1931](https://ctil.atlassian.net/browse/EPMTDCPROT-1931)
 - Fix Version: 未標註

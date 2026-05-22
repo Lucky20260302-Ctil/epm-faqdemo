@@ -22,21 +22,18 @@ category: 06_Procurement_Workflow
 category_label: 採購流程
 quality: complete
 ---
+
 EPMTDCPROT-1375: Missing logic of Supplier acknowledgement of Addendums
 
-| 問題
+## 症狀
 
 為什麼Addendum後沒有觸發供應商確認（Supplier Acknowledgement）的流程？
 
-| 根因
+## 根因
 
+## 解法
 
-
-| 解法
-
-
-
-| 相關資訊
+## 相關資訊
 
 - Jira: [EPMTDCPROT-1375](https://ctil.atlassian.net/browse/EPMTDCPROT-1375)
 - Fix Version: 未標註

@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1533: Coach MY BDO - laser printout layout incorrect
 
-| 問題
+## 症狀
+
 Coach MY BDO 雷射印表機列印 memo 時以直式（portrait）輸出，導致內容過小且 QR code 無法掃描，先前正常為橫式（landscape）。
 
-| 根因
+## 根因
+
 印表機驅動程式問題（printer driver issue），非 POS 程式本身瑕疵。
 
-| 解法
+## 解法
+
 更換為正確的印表機驅動程式即可恢復正常橫式列印。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1533](https://ctil.atlassian.net/browse/FE-1533)
 - 解決日期: 2024-10-29
 - 組件: Front End

@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1343: work ledger cannot receive voided order from shopping cart
 
-| 問題
+## 症狀
+
 Lands 工作帳本無法接收從購物車 void 的訂單，API 呼叫失敗。
 
-| 根因
+## 根因
+
 Void Lands Order 呼叫 Lands Web API 時的例外處理與日誌記錄不完善，導致 API 發送失敗未被正確捕捉。
 
-| 解法
+## 解法
+
 增強例外處理機制與日誌記錄，已於 KTS 240208 V760.01R03R 修復。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1343](https://ctil.atlassian.net/browse/FE-1343)
 - Fix Version: v760.01R03R
 - 解決日期: 2024-02-16

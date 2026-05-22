@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1605: Pop up an error after click on 'F7 Retrieve Order'
 
-| 問題
+## 症狀
+
 當 Syscon_Open_Item_Mod='N' 時，重複點擊 F7 Retrieve Order 會彈出錯誤訊息。
 
-| 根因
+## 根因
+
 當 OpenItem 功能被禁用時，SALE UI 中的 OpenItem 按鈕功能未正確替換為 Retrieve Order 指令，導致重複操作時觸發錯誤。
 
-| 解法
+## 解法
+
 在 OpenItem 禁用時，將 SALE UI 的 OpenItem 按鈕功能替換為 Retrieve Order 指令，已於 KTS 250109 修復（v720.02R25B, v750.05, v750.04R10）。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1605](https://ctil.atlassian.net/browse/FE-1605)
 - 解決日期: 2025-02-24
 - 組件: Front End

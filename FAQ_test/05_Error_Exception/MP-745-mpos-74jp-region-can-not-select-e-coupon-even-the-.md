@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 MP-745: JP Region, can not select E-Coupon even the member we selected have available ecoupon
 
-| 問題
+## 症狀
+
 部署 COACH_MPOSWebAPI_R3.29.5d 修補程式後，日本區域 MPOS 無法顯示會員的可用電子優惠券（E-Coupon）。即使後端 API 正確回傳 124 張優惠券資料，MPOS 畫面仍顯示為空白，使用者無法選取任何優惠券。
 
-| 根因
+## 根因
+
 MPOS IPA 客戶端（v3.29.5-20250108.2）在處理 API 回傳的電子優惠券資料時存在渲染缺陷，導致有效的 API 回傳資料無法正確顯示於前端畫面。
 
-| 解法
+## 解法
+
 由開發人員 Daniel Leung 修復 MPOS IPA 程式，更新至版本 3.29.5-20250212.1 後即可正常顯示電子優惠券列表。修復版本：IPA 3.29.5-20250212.1。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-745](https://ctil.atlassian.net/browse/MP-745)
 - 解決日期: 2025-05-02
 - 組件: MPOS

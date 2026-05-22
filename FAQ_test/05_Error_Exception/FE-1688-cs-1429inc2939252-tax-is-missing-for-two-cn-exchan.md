@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1688: Tax is missing for two CN exchange transactions
 
-| 問題
+## 症狀
+
 CN 門店 V75 在進行換貨交易時，jouinv_vat_value 與 jouinv_gst_per 欄位未寫入 DB，導致兩筆 CN 換貨交易缺少稅額資料。
 
-| 根因
+## 根因
+
 換貨交易在計算品項稅額時存在程式缺陷：當換貨備註非免稅（NOT Tax Free）時，系統未正確計算並寫入對應的 VAT/GST 稅額欄位至 DB。
 
-| 解法
+## 解法
+
 已於 v750.04R13A 版本修正，換貨交易將正確計算品項稅額。若需緊急處理，可先透過 DB 資料補丁手動補入稅額資料。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1688](https://ctil.atlassian.net/browse/FE-1688)
 - Fix Version: FE-V75.04R13A
 - 解決日期: 2025-05-30

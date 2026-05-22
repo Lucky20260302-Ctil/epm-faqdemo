@@ -21,18 +21,23 @@ category: 07_Workflow_Business
 category_label: 業務流程
 quality: complete
 ---
+
 BE-1237: CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines
 
-| 問題
+## 症狀
+
 CO-AU 環境中，POS 輸入 4 行備註（每行 40 字元）完成交易後，BE DB jouinv 資料表的 remarks 欄位僅儲存/顯示第一行，其餘行遺失。
 
-| 根因
+## 根因
+
 結構不相容：FE DBSSE 有 8 個 remarks 欄位（每個上限 40 字元），但 BE jouinv 資料表僅有 1 個 jouinv_remarks 欄位且上限為 40 字元，導致多行備註被截斷。
 
-| 解法
+## 解法
+
 擴充 BE jouinv 資料表的 remarks 欄位結構，使其能容納 FE 傳入的多行備註內容（增加欄位數量或擴大欄位長度）。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [BE-1237](https://ctil.atlassian.net/browse/BE-1237)
 - 組件: Table
 - 負責人: Jerry Wong

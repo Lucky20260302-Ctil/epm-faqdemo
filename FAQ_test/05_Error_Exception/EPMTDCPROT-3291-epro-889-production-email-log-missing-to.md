@@ -22,21 +22,18 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 EPMTDCPROT-3291: EPRO-889 [Production] Email Log - Missing 'To'
 
-| 問題
+## 症狀
 
 Why is the 'To' field missing in the email log after sending supplier pre-registration invitations?
 
-| 根因
+## 根因
 
+## 解法
 
-
-| 解法
-
-
-
-| 相關資訊
+## 相關資訊
 
 - Jira: [EPMTDCPROT-3291](https://ctil.atlassian.net/browse/EPMTDCPROT-3291)
 - Fix Version: 未標註

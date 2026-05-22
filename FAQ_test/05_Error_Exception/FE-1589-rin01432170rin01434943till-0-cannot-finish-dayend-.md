@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1589: Till 0 cannot finish dayend, showing "Conversion from string 19/12/2024" to type Date is not valid"
 
-| 問題
+## 症狀
+
 Till 0無法完成日結（Day End），系統持續顯示錯誤「Conversion from string 19/12/2024 to type Date is not valid」，合併報表（Consolidation Report）無法產出，導致後續其他Till也無法正常啟動
 
-| 根因
+## 根因
+
 Windows系統的日期格式被其他應用程式變更為M/d/yyyy，而POS標準日期格式為dd/MM/yyyy。POS登入時會自動將系統日期格式改為dd/MM/yyyy，但若登入後又被改回M/d/yyyy，則合併日結（Consolidate Day End）處理時日期解析失敗
 
-| 解法
+## 解法
+
 修正合併日結處理程式，使其同時支援M/d/yyyy與dd/MM/yyyy兩種日期格式。修正包含於v750.04R10（及回溯版本v750.04R09H）。若為緊急處理，可先檢查並修正Windows控制台的地區日期格式設定為dd/MM/yyyy
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1589](https://ctil.atlassian.net/browse/FE-1589)
 - 解決日期: 2025-04-29
 - 組件: Front End v750.01R01A

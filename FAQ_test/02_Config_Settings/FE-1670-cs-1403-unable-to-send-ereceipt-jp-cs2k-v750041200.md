@@ -21,18 +21,23 @@ category: 02_Config_Settings
 category_label: 配置與設定
 quality: complete
 ---
+
 FE-1670: Unable to send eReceipt - JP CS2K v75.004.1200.0001
 
-| 問題
+## 症狀
+
 在日本 Coach 店舖（JP CS2K v75.004.1200.0001）測試 CJ eReceipt 電子收據功能時，系統無法發送電子收據，前端呼叫 eReceiptRestfulService 時返回 HTTP Error 500.31「Failed to load ASP.NET Core runtime」錯誤，且後續出現 404 找不到服務的錯誤。
 
-| 根因
+## 根因
+
 根本原因有兩層：(1) Web 伺服器（apawiqwposweb21 及 apawiqwposweb22）未安裝 .NET 8 Hosting Bundle，導致 ASP.NET Core runtime 無法載入；(2) BEAPI 呼叫 eReceiptRestfulService 的路徑設定與實際部署環境不一致，導致 404 錯誤。
 
-| 解法
+## 解法
+
 於兩台 Web 伺服器上安裝 .NET 8 Hosting Bundle（位於 \\ds411\public\anson\eReceiptRestfulService），安裝後重新啟動 Application Pool。同時需確認 FEPOS 版本與 BEAPI 的 eReceipt 服務路徑設定與部署環境一致。測試通過後等待正式部署。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1670](https://ctil.atlassian.net/browse/FE-1670)
 - 組件: API
 - 負責人: Tovi Wang

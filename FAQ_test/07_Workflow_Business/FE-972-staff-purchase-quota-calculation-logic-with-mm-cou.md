@@ -21,18 +21,23 @@ category: 07_Workflow_Business
 category_label: 業務流程
 quality: complete
 ---
+
 FE-972: Staff purchase quota calculation logic with MM coupon
 
-| 問題
+## 症狀
+
 員工擁有可用配額2935元，享有50%會員折扣及額外40%的MM折價券。當未折扣金額大於配額時，POS會阻止交易，但實際上折扣後金額並未超過可用配額，導致員工無法完成合法交易。
 
-| 根因
+## 根因
+
 POS在檢查員工購買限額時，未先扣除MM折價券的折扣金額，導致以原始未折扣金額進行配額比對，而非以實際折扣後金額進行比對，造成誤判。
 
-| 解法
+## 解法
+
 更新至KTS 220616 v750.02版本（Jira FE-972），該版本修正了員工購買限額的計算邏輯：先排除折價券數量進行限額計算，並在套用MM折價券後再檢查限額。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-972](https://ctil.atlassian.net/browse/FE-972)
 - 解決日期: 2024-05-04
 - 組件: Front End

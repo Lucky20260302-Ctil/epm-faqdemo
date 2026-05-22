@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1537: Coach MY - ereceipt printing LASER - void eReceipt "Void Reason" is cut off
 
-| 問題
+## 症狀
+
 Coach 品牌使用 LASER 印表機列印 void eReceipt 時，「Void Reason」（作廢原因）文字在收據底部被裁切，無法完整顯示。
 
-| 根因
+## 根因
+
 報表範本 CaocheReceipt.rpt 中 Void Reason 欄位的行高（Line Height）不足，導致 LASER 列印時文字超出可顯示範圍而被截斷。
 
-| 解法
+## 解法
+
 修改報表範本 CaocheReceipt.rpt，將 Void Reason 欄位的行高擴展（Extended Line Height）。（KTS 241023 Jira FE-1537，適用版本 v750.04R08+ / v750.05）
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1537](https://ctil.atlassian.net/browse/FE-1537)
 - 解決日期: 2025-02-21
 - 組件: Front End

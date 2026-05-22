@@ -22,21 +22,18 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 EPMTDCPROT-3300: EPRO-890 - [Production] Wrong message prompted on Activation page when press 'Enter' instead of mouse click 'Next'
 
-| 問題
+## 症狀
 
 Why does pressing the Enter key on the Activation page trigger a wrong error message instead of proceeding to the next step?
 
-| 根因
+## 根因
 
+## 解法
 
-
-| 解法
-
-
-
-| 相關資訊
+## 相關資訊
 
 - Jira: [EPMTDCPROT-3300](https://ctil.atlassian.net/browse/EPMTDCPROT-3300)
 - Fix Version: 未標註

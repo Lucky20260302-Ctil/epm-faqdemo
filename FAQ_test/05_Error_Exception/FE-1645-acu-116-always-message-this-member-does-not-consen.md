@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1645: Always message 'This member does not consent to enquire out of border' while searching CN member which is existing in HK
 
-| 問題
+## 症狀
+
 在香港 POS 查詢已存在於香港後台資料庫的中國（CN）會員時（透過手機號碼或會員編號），系統持續顯示「This member does not consent to enquire out of border」訊息，無法顯示該 CN 會員的資訊。
 
-| 根因
+## 根因
+
 根據 CBDT 設計規範，當 HK/MO 查詢 CN 會員紀錄（vip_comp_code = 11）時，會先透過 CDP 客戶隱私檢查 API 驗證，若該客戶未在 CDP 系統中註冊（API 回傳 CDP-CUST-404），則隱私檢查失敗，系統顯示跨境拒絕訊息。此為符合 CBDT 設計的預期行為。
 
-| 解法
+## 解法
+
 此為 CBDT 設計規範下的預期行為：HK/MO 查詢 CN 會員時，會員姓名與電話號碼將被遮罩處理，Tapestry 已接受此設計。若需完整顯示 CN 會員資訊，需確保該會員已在 CDP 系統中完成註冊並授權跨境查詢。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1645](https://ctil.atlassian.net/browse/FE-1645)
 - 解決日期: 2025-03-21
 - 組件: Front End

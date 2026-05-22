@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1546: Fail to pop up member creation screen after scan a new wechat QR code
 
-| 問題
+## 症狀
+
 掃描新的微信 QR Code 後，無法彈出會員建立畫面。
 
-| 根因
+## 根因
+
 系統設定 tblconfig.MEMBERNOTFOUNDAUTOCREATE 未設為 'Y'，導致找不到會員時不會自動觸發建立畫面。
 
-| 解法
+## 解法
+
 將 tblconfig.MEMBERNOTFOUNDAUTOCREATE 設為 'Y' 以啟用自動建立會員畫面功能。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1546](https://ctil.atlassian.net/browse/FE-1546)
 - Fix Version: FE-V750.04R09
 - 解決日期: 2024-11-08

@@ -21,18 +21,23 @@ category: 04_Data_Sync
 category_label: 資料同步
 quality: complete
 ---
+
 MP-767: MPOS KSJ 3.29.5e, if member we selected only have 'Home phone no', will cause posting error
 
-| 問題
+## 症狀
+
 在 KSJ 地區的 MPOS v3.29.5e 版本中，若選擇的會員僅有「住家電話」（Home Phone No）而無手機號碼，則該筆交易無法成功 posting 到後端資料庫。系統日誌顯示 Text Length Overflow、Invalid occupation code 等多項錯誤，導致 Sales Memo 遺失。
 
-| 根因
+## 根因
+
 MQPolling.exe 在處理含有特定 VIP 名稱（由住家電話搜尋回傳）的訊息並產生 PCD 檔案時，發生編碼處理異常，導致 PCD 格式錯誤。當 sqlpcd polling 發生錯誤時，系統切換至 PCD 檔案流程，但 PCD 產出過程中的 encoding handling 不足，造成資料欄位長度溢位及格式錯誤。
 
-| 解法
+## 解法
+
 在 MQPolling.exe 版本 2025.5.22.1523 中修復：(1) 修正 sqlpcd_till length exception 問題；(2) 當 sqlpcd polling 發生錯誤需切換至 PCD 檔案時，加入 encoding handling。Release：\\ds411\share\POS_BE_Component_Release\250522 Coach_KSJ_MQPolling。僅適用於 KSJ 地區。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-767](https://ctil.atlassian.net/browse/MP-767)
 - Fix Version: BE-V70R3.106
 - 解決日期: 2025-06-04

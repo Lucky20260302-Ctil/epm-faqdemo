@@ -21,18 +21,23 @@ category: 07_Workflow_Business
 category_label: 業務流程
 quality: complete
 ---
+
 FE-1724: No Qty for Void and return deposit listed on Till1 dayend report
 
-| 問題
+## 症狀
+
 Coach 店舖使用 Laser（A4）打印機進行日結時，Till1 的日結報表缺少「取消定金單數量」及「退回定金單數量」兩行數據，而使用 TMU 打印機的 Till0 則正常顯示。此外，合併日結報表中的按金單數量與各 Till 的按金單數量之和不一致。
 
-| 根因
+## 根因
+
 A4 雷射打印機的日結報表在「Deposit Memo Qty」區塊的顯示邏輯與 TMU 打印機不同步：A4 報表將 Void Deposit Qty 合併計入 Deposit Memo Qty，且缺少 Deposit Return Memo Qty 行。此為報表格式邏輯不一致所導致，並非資料錯誤。
 
-| 解法
+## 解法
+
 開發團隊修改 A4 日結報表之 Deposit Memo Qty 區塊，使其內容與 TMU 報表對齊，並加入 Syscon_Dep_mod 旗標控制是否列印該區塊。修復版本：FE-75.004.1305.0000（於 2025-07-15 發佈）。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1724](https://ctil.atlassian.net/browse/FE-1724)
 - Fix Version: FE-75.004.1305.0000
 - 解決日期: 2025-07-15

@@ -21,18 +21,23 @@ category: 02_Config_Settings
 category_label: 配置與設定
 quality: complete
 ---
+
 MP-830: J242 MPOS popout error "Passes don't contain empty strings or space characters" after scaned the QR code
 
-| 問題
+## 症狀
+
 J242 門市的 MPOS 在掃描 QR Code 後彈出錯誤訊息「Passes don't contain empty strings or space characters」，無法正常操作。即使檢查 dbtrans 設定正確、切換 Cloud IIS 與 Local IIS 後問題仍存在。
 
-| 根因
+## 根因
+
 MPOS 的 xconfig 設定檔內容異常或損壞，導致掃描 QR Code 時 Pass 驗證失敗，觸發該錯誤訊息。
 
-| 解法
+## 解法
+
 重新匯入 Local IIS 的 MPOS xconfig 設定檔，匯入後錯誤即消失。若使用 Cloud IIS，請先切換至 Local IIS 後再重新匯入 xconfig。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-830](https://ctil.atlassian.net/browse/MP-830)
 - 組件: MPOS
 - 負責人: Joy Li

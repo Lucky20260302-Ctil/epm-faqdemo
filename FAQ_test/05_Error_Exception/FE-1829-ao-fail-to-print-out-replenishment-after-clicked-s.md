@@ -21,18 +21,23 @@ category: 05_Error_Exception
 category_label: 報錯與異常
 quality: complete
 ---
+
 FE-1829: Fail to print out Replenishment after clicked Save for Send to host
 
-| 問題
+## 症狀
+
 AO站點點擊「Save for Send to host」後無法列印Replenishment報表，彈出錯誤顯示路徑異常（C:\RETDATA6\C:\RETDATA6\Replenishment.rpt）
 
-| 根因
+## 根因
+
 程式中Replenishment.rpt的檔案路徑被重複串接，形成C:\RETDATA6\C:\RETDATA6\...的無效路徑，導致報表檔案無法被找到並列印
 
-| 解法
+## 解法
+
 修正程式中報表檔案路徑的串接邏輯，並重新上傳修正後的Replenishment.rpt至終端。修正包含於v75.05R03
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1829](https://ctil.atlassian.net/browse/FE-1829)
 - 解決日期: 2025-12-17
 - 組件: Front End

@@ -21,18 +21,23 @@ category: 04_Data_Sync
 category_label: 資料同步
 quality: complete
 ---
+
 FE-1687: Coach Team request to removed the Email alert for the CRM return "ERROR|CDP-CUST-404|Customer not found"
 
-| 問題
+## 症狀
+
 Coach 品牌 POS 在查詢會員時，若 CRM API 回傳「ERROR|CDP-CUST-404|Customer not found」（客戶不存在），系統會持續發送 Email 警報通知。此為正常業務流程（客戶確實不存在於 CRM），不應觸發警報，造成运维人員收到大量不必要的告警郵件。
 
-| 根因
+## 根因
+
 BEAPICRM 舊版本對 CRM API 回傳的 HTTP 200 但內容為 Customer not found 的回应，仍視為異常並觸發 Email 警報。實際上 CRM 找不到客戶屬於正常業務場景，不應發送警報。
 
-| 解法
+## 解法
+
 將 BEAPICRM 更新至 ver1.17.17（build no. dd1948a1）或更新版本，該版本已移除對 404 Customer not found 的 Email 警報通知。更新後不再收到此類告警郵件。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [FE-1687](https://ctil.atlassian.net/browse/FE-1687)
 - 組件: API
 - 負責人: Anson Cheung

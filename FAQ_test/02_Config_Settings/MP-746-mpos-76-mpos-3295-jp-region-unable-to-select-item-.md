@@ -21,18 +21,23 @@ category: 02_Config_Settings
 category_label: 配置與設定
 quality: complete
 ---
+
 MP-746: MPOS 3.29.5 - JP region -Unable to select item after deploy COACH_MPOSWebAPI_R3.29.5d
 
-| 問題
+## 症狀
+
 JP 區域部署 COACH_MPOSWebAPI_R3.29.5d 後，若 Saleshub 已啟用，則無法在 MPOS 上選取商品。
 
-| 根因
+## 根因
+
 TblConfig 中的 mPosEncryptKey 設定值為 '0'（無效加密金鑰），導致 Saleshub 與 API 之間的通訊加密驗證失敗，商品選取功能無法正常運作。
 
-| 解法
+## 解法
+
 將 Xconfig 中 mPosEncryptKey 的值設定為正確的加密金鑰字串（如 f6brWp8kVPs4HYbIsoykeR5TCAdMmOuV），即可恢復正常。此為部署 patch 後的必要配置步驟。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-746](https://ctil.atlassian.net/browse/MP-746)
 - 解決日期: 2025-05-02
 - 組件: Frontend

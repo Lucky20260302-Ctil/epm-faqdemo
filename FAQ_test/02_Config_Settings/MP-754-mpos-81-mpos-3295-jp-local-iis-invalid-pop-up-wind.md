@@ -21,18 +21,23 @@ category: 02_Config_Settings
 category_label: 配置與設定
 quality: complete
 ---
+
 MP-754: MPOS 3.29.5 - JP Local IIS, invalid pop-up window for Void function
 
-| 問題
+## 症狀
+
 在日本 Local IIS 環境的 MPOS v3.29.5 版本中，執行 Void Sales Memo（作廢銷售單）操作時，系統會錯誤地彈出 e-Receipt 列印提示視窗，而非直接列印作廢單據。正常行為應是 Void 操作直接印出小票，只有正常銷售才彈出 e-Receipt 提示。Cloud IIS 環境無此問題。
 
-| 根因
+## 根因
+
 MPOS API 伺服器上的 dbCoachLocal.db 資料庫中，printReceiptFlow 參數預設值為 0，此設定會使所有列印操作（包括 Void）都觸發列印彈窗。正確應設為 1，使系統直接列印後發送 e-Receipt，且 Void 操作不彈窗。Local IIS 環境未正確配置此參數。
 
-| 解法
+## 解法
+
 前往 MPOS API 伺服器 → 開啟 IIS → 選擇使用中的 API → 點擊 Explore → 在資料夾中找到 dbCoachLocal.db → 將 printReceiptFlow 參數設為 1。正式修復版本為 3.30.2-20250314.1。
 
-| 相關資訊
+## 相關資訊
+
 - Jira: [MP-754](https://ctil.atlassian.net/browse/MP-754)
 - 解決日期: 2025-10-09
 - 組件: MPOS
