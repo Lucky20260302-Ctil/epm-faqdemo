@@ -4,6 +4,7 @@ issue_key: FE-938
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-938-price-modification-cannot-is-applied-into-item-wit"
 - 05_error_exception
 - faq
 - fe

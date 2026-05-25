@@ -4,6 +4,7 @@ issue_key: FE-1660
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1660-acu-138no-member-card-created-while-scanning-new-r"
 - 05_error_exception
 - faq
 - fe

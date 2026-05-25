@@ -4,6 +4,7 @@ issue_key: FE-1755
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1755-inc3220502-cn-laser-printer-cannot-reprint-sales-m"
 - 06_printing_hardware
 - faq
 - fe

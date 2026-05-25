@@ -24,23 +24,23 @@ title: 'FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region'
 ---
 # FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region
 
-## Problem
+## 症狀
 
 After upgrading to V75, all POS cash drawers cannot open due to cah.ini COM port setting being auto-changed from '1' to '7' during the upgrade process. This affected all upgraded POS tills in the MC region.
 
-## Root Cause
+## 根因
 
 During the V75 upgrade, the cah.ini configuration file was overwritten by two sources:
 1. InstallationShield during major updates uses `Z:\Tapestry\COMMON\cah.ini` (default COM Port=7)
 2. AdminUpdate.bat copies cah.ini from `Retdata6\inibak` backup folder
 When the backup folder does not exist or has incorrect settings, the COM port defaults to 7.
 
-## Solution
+## 解法
 
 1. **Workaround:** Manually change the COM port in cah.ini back to the correct value (e.g., 1)
 2. **Fix:** Released in **FE-75.004.1303.0002** — Enhanced AdminUpdate.bat logic to preserve existing cah.ini in CSPLUS folder when backup folder has no ini file, and restore from backup when available.
 
-## Related Info
+## 相關資訊
 
 - **Jira:** [FE-1713](https://ctil.atlassian.net/browse/FE-1713)
 - **Fix Version:** FE-75.004.1303.0002

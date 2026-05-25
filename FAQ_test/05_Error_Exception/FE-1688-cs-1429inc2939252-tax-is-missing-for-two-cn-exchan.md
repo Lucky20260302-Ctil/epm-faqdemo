@@ -4,6 +4,7 @@ issue_key: FE-1688
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1688-cs-1429inc2939252-tax-is-missing-for-two-cn-exchan"
 - 05_error_exception
 - faq
 - fe

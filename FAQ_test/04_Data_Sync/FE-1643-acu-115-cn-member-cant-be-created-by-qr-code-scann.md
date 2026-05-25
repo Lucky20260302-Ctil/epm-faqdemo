@@ -4,6 +4,7 @@ issue_key: FE-1643
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1643-acu-115-cn-member-cant-be-created-by-qr-code-scann"
 - 04_data_sync
 - faq
 - fe

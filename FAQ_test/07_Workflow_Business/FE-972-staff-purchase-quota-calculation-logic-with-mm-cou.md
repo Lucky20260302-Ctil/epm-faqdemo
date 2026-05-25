@@ -4,6 +4,7 @@ issue_key: FE-972
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-972-staff-purchase-quota-calculation-logic-with-mm-cou"
 - 07_workflow_business
 - faq
 - fe

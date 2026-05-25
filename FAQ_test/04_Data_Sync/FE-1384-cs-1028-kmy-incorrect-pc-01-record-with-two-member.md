@@ -4,6 +4,7 @@ issue_key: FE-1384
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1384-cs-1028-kmy-incorrect-pc-01-record-with-two-member"
 - 04_data_sync
 - faq
 - fe

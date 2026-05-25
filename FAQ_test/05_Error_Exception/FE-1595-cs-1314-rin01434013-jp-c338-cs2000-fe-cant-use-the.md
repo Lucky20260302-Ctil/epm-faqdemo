@@ -4,6 +4,7 @@ issue_key: FE-1595
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1595-cs-1314-rin01434013-jp-c338-cs2000-fe-cant-use-the"
 - 05_error_exception
 - faq
 - fe

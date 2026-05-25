@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1052
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1052-在-supplier-invitation-request-pre-reg-中勾選-exception-appro"
 - 05-error-exception
 - 05_error_exception
 - epm

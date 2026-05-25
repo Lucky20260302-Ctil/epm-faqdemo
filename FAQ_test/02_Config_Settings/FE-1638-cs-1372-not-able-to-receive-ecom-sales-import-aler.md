@@ -4,6 +4,7 @@ issue_key: FE-1638
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1638-cs-1372-not-able-to-receive-ecom-sales-import-aler"
 - 02_config_settings
 - faq
 - fe

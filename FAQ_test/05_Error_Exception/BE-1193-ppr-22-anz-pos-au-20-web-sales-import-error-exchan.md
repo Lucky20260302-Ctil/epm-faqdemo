@@ -4,6 +4,7 @@ issue_key: BE-1193
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "BE-1193-ppr-22-anz-pos-au-20-web-sales-import-error-exchan"
 - 05_error_exception
 - be
 - faq

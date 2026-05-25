@@ -4,6 +4,7 @@ issue_key: MP-782
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "MP-782-mpos-102inc3043100inc3031690tw-mpos-cannot-add-mem"
 - 05_error_exception
 - faq
 - line-app

@@ -4,6 +4,7 @@ issue_key: FE-1393
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1393-cs-1034-issue_jp_rin01339795-a-barcode-was-splited"
 - 06_printing_hardware
 - faq
 - fe

@@ -4,6 +4,7 @@ issue_key: FE-1343
 issue_type: Bug QA
 status: Closed
 tags:
+title: "FE-1343-lands-work-ledger-cannot-receive-voided-order-from"
 - 05_error_exception
 - faq
 - fe

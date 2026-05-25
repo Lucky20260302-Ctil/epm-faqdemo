@@ -4,6 +4,7 @@ issue_key: FE-1539
 issue_type: Bug QA
 status: Closed
 tags:
+title: "FE-1539-coach-my-bdo-tmu-mode-printout-missing-footer"
 - 06_printing_hardware
 - faq
 - fe

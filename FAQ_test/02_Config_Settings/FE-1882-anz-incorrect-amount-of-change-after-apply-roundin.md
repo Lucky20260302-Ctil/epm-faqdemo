@@ -4,6 +4,7 @@ issue_key: FE-1882
 issue_type: Bug QA
 status: Selected for Development (migrated)
 tags:
+title: "FE-1882-anz-incorrect-amount-of-change-after-apply-roundin"
 - 02_config_settings
 - faq
 - fe

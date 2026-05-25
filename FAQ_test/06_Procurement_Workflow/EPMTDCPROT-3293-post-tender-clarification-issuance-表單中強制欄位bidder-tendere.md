@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-3293
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-3293-post-tender-clarification-issuance-表單中強制欄位bidder-tendere"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

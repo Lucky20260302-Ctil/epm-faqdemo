@@ -4,6 +4,7 @@ issue_key: FE-1605
 issue_type: Bug QA
 status: Closed
 tags:
+title: "FE-1605-posv75v72-pop-up-an-error-after-click-on-f7-retrie"
 - 05_error_exception
 - faq
 - fe

@@ -4,6 +4,7 @@ issue_key: FE-1440
 issue_type: Bug QA
 status: Closed
 tags:
+title: "FE-1440-hkjc-rems-member-search-in-offline-mode-will-resul"
 - 02_config_settings
 - faq
 - fe

@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1934
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1934-update-tender-表單中的必填mandatory欄位未顯示紅色星號標記使用者無法從介面上判斷哪些欄"
 - 05-error-exception
 - 05_error_exception
 - epm

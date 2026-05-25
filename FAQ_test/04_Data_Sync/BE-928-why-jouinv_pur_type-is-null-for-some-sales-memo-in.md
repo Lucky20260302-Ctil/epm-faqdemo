@@ -4,6 +4,7 @@ issue_key: BE-928
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "BE-928-why-jouinv_pur_type-is-null-for-some-sales-memo-in"
 - 04_data_sync
 - be
 - faq

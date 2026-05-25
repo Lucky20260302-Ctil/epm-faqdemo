@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-3317
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-3317-phase-2-dev-delegation-email-supplier-admin-role"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

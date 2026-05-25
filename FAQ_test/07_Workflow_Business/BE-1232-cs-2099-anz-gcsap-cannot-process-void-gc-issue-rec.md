@@ -4,6 +4,7 @@ issue_key: BE-1232
 issue_type: Bug QA
 status: Closed
 tags:
+title: "BE-1232-cs-2099-anz-gcsap-cannot-process-void-gc-issue-rec"
 - 07_workflow_business
 - be
 - faq

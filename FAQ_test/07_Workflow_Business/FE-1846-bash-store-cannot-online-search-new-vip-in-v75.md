@@ -4,6 +4,7 @@ issue_key: FE-1846
 issue_type: Bug PRD
 status: Selected for Development (migrated)
 tags:
+title: "FE-1846-bash-store-cannot-online-search-new-vip-in-v75"
 - 07_workflow_business
 - faq
 - fe

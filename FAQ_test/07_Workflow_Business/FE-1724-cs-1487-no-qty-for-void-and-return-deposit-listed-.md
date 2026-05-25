@@ -4,6 +4,7 @@ issue_key: FE-1724
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1724-cs-1487-no-qty-for-void-and-return-deposit-listed-"
 - 07_workflow_business
 - faq
 - fe

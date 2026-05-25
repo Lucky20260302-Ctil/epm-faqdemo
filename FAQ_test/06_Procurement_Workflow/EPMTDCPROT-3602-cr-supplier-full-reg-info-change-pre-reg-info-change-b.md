@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-3602
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-3602-cr-supplier-full-reg-info-change-pre-reg-info-change-b"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

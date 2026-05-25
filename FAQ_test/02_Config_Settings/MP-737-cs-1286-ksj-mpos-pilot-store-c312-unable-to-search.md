@@ -4,6 +4,7 @@ issue_key: MP-737
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search"
 - 02_config_settings
 - faq
 - mp

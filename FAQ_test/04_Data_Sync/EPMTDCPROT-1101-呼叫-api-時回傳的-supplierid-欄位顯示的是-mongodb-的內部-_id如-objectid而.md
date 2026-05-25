@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1101
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1101-呼叫-api-時回傳的-supplierid-欄位顯示的是-mongodb-的內部-_id如-objectid而"
 - 04-data-sync
 - 04_data_sync
 - epm

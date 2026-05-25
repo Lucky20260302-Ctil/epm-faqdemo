@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1931
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1931-level-5-用戶在-ps-form-part-i-中指派-tender-board-後系統僅生成-draft但未"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

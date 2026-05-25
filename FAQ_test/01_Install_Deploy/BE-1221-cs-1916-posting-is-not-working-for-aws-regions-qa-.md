@@ -4,6 +4,7 @@ issue_key: BE-1221
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "BE-1221-cs-1916-posting-is-not-working-for-aws-regions-qa-"
 - 01_install_deploy
 - be
 - faq

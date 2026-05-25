@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1903
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1903-在技術評估結果technical-assessment-result中1-評估為-pass-的供應商未自動勾選"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

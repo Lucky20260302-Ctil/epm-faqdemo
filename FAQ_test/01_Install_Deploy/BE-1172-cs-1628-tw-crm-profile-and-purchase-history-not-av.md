@@ -4,6 +4,7 @@ issue_key: BE-1172
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "BE-1172-cs-1628-tw-crm-profile-and-purchase-history-not-av"
 - 01_install_deploy
 - be
 - faq

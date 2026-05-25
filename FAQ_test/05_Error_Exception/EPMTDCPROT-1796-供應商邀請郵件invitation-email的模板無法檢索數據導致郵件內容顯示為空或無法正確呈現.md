@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1796
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1796-供應商邀請郵件invitation-email的模板無法檢索數據導致郵件內容顯示為空或無法正確呈現"
 - 05-error-exception
 - 05_error_exception
 - epm

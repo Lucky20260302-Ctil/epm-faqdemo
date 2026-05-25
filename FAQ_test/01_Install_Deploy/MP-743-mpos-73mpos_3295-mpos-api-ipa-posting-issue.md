@@ -4,6 +4,7 @@ issue_key: MP-743
 issue_type: Bug QA
 status: Closed
 tags:
+title: "MP-743-mpos-73mpos_3295-mpos-api-ipa-posting-issue"
 - 01_install_deploy
 - faq
 - mp

@@ -4,6 +4,7 @@ issue_key: FE-1522
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1522-v75-void-gift-cert-caused-posting-error-db-null"
 - 05_error_exception
 - faq
 - fe

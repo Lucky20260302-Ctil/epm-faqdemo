@@ -4,6 +4,7 @@ issue_key: FE-1713
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1713-cs-1454-cash-drawer-can-not-be-opened-after-upgrad"
 - 06_printing_hardware
 - faq
 - fe

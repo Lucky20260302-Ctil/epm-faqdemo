@@ -4,6 +4,7 @@ issue_key: BE-655
 issue_type: Bug QA
 status: Closed
 tags:
+title: "BE-655-cannot-print-amendment-list-successfully-after-mak"
 - 06_printing_hardware
 - be
 - faq

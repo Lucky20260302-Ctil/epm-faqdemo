@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-3358
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-3358-當採購發起表單pif使用關聯電子表單associated-e-form時例外核准exception-appr"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

@@ -4,6 +4,7 @@ issue_key: FE-1849
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1849-inc3381508-sg-oc551-some-items-cannot-be-printed-f"
 - 03_data_import
 - faq
 - fe

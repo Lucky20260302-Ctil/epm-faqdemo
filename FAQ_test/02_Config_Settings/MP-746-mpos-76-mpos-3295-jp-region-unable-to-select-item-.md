@@ -4,6 +4,7 @@ issue_key: MP-746
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-"
 - 02_config_settings
 - faq
 - mp

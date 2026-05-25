@@ -4,6 +4,7 @@ issue_key: MP-767
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "MP-767-mpos-91-mpos-ksj-3295e-if-member-we-selected-only-"
 - 04_data_sync
 - faq
 - mp

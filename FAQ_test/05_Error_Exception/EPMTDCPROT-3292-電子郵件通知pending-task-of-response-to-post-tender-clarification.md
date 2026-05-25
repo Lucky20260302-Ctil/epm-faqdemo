@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-3292
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-3292-電子郵件通知pending-task-of-response-to-post-tender-clarification"
 - 05-error-exception
 - 05_error_exception
 - epm

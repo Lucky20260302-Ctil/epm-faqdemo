@@ -4,6 +4,7 @@ issue_key: FE-1540
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1540-rin01408980-prc-ocf29-cs2000-fe-member-show-offlin"
 - 04_data_sync
 - faq
 - fe

@@ -4,6 +4,7 @@ issue_key: FE-1711
 issue_type: Bug DEV
 status: Closed
 tags:
+title: "FE-1711-inc3024503cs-1471cn-v75-ocf46-all-tills-cannot-fin"
 - 04_data_sync
 - faq
 - fe

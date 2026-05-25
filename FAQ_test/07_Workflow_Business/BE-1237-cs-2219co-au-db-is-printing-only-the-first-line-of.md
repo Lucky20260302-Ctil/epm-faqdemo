@@ -4,6 +4,7 @@ issue_key: BE-1237
 issue_type: Bug PRD
 status: Open
 tags:
+title: "BE-1237-cs-2219co-au-db-is-printing-only-the-first-line-of"
 - 07_workflow_business
 - be
 - faq

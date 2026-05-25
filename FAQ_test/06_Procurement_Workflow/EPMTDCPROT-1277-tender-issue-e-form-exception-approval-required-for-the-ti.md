@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1277
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1277-tender-issue-e-form-exception-approval-required-for-the-ti"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

@@ -4,6 +4,7 @@ issue_key: FE-968
 issue_type: Bug QA
 status: Closed
 tags:
+title: "FE-968-click-search-member-result-but-return-to-same-page"
 - 02_config_settings
 - faq
 - fe

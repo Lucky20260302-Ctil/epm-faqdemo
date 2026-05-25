@@ -4,6 +4,7 @@ issue_key: FE-1438
 issue_type: Bug QA
 status: Closed
 tags:
+title: "FE-1438-hkjc-rems-void-memo-will-always-return-error-messa"
 - 05_error_exception
 - faq
 - fe

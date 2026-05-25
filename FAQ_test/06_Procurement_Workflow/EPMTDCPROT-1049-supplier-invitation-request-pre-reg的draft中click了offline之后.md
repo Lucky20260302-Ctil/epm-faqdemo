@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1049
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1049-supplier-invitation-request-pre-reg的draft中click了offline之后"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

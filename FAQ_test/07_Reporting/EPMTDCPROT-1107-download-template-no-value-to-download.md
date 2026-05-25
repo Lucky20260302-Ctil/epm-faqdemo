@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1107
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1107-download-template-no-value-to-download"
 - 07-reporting
 - 07_reporting
 - epm

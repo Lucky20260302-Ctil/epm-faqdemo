@@ -4,6 +4,7 @@ issue_key: FE-1498
 issue_type: Bug PRD
 status: Closed
 tags:
+title: "FE-1498-cs-1137-v75-cs2k-mpos-gift-cert-transaction-unable"
 - 04_data_sync
 - faq
 - fe

@@ -4,6 +4,7 @@ issue_key: EPMTDCPROT-1375
 issue_type: ''
 status: ''
 tags:
+title: "EPMTDCPROT-1375-missing-logic-of-supplier-acknowledgement-of-addendums"
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm
