@@ -6,16 +6,15 @@ const Header: QuartzComponent = ({ cfg, children }: QuartzComponentProps) => {
   return (
     <header class="site-header">
       <div class="header-inner">
-        <a href="/" class="header-brand">
+        <a href="./" class="header-brand">
           <span class="header-logo">FAQ</span>
           <span class="header-title">{pageTitle}</span>
         </a>
         <nav class="header-nav desktop-only">
-          <a href="/" class="header-nav-link">首頁</a>
-          <a href="/FAQ_test/" class="header-nav-link">ERM FAQ</a>
-          <a href="/EPRO_System/" class="header-nav-link">EPRO</a>
-          <a href="/ChainStoreplus/" class="header-nav-link">ChainStorePlus</a>
-          <a href="/tags/" class="header-nav-link">標籤</a>
+          <a href="./" class="header-nav-link">首頁</a>
+          <a href="./FAQ_test/" class="header-nav-link">ERM FAQ</a>
+          <a href="./ChainStoreplus/" class="header-nav-link">ChainStorePlus</a>
+          <a href="./tags/" class="header-nav-link">標籤</a>
         </nav>
         {children}
       </div>
@@ -27,7 +26,7 @@ Header.css = `
 .site-header {
   position: sticky;
   top: 0;
-  z-index: 100;
+  z-index: 10;
   background: var(--light);
   border-bottom: 1px solid var(--lightgray);
   backdrop-filter: blur(8px);
