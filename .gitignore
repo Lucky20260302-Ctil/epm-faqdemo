@@ -4,6 +4,12 @@ public/
 .quartz-cache/
 *.png
 *.jpg
+!FAQ_test/attachments/*.png
+!FAQ_test/attachments/*.jpg
+!FAQ_test/attachments/*.jpeg
+!FAQ_test/attachments/**/*.png
+!FAQ_test/attachments/**/*.jpg
+!FAQ_test/attachments/**/*.jpeg
 
 # Sensitive - local configs may contain tokens
 .claude/settings.local.json
