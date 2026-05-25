@@ -24,13 +24,8 @@ const Header: QuartzComponent = ({ cfg, children }: QuartzComponentProps) => {
 
 Header.css = `
 .site-header {
-  position: sticky;
-  top: 0;
-  z-index: 10;
   background: var(--light);
   border-bottom: 1px solid var(--lightgray);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
 }
 
 .header-inner {
