@@ -43,14 +43,14 @@ EPMTDCPROT-1041: Document Pool Maintenance中，Search by Effective Date是没�
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-1041/1.png]]
+<img src="../attachments/EPMTDCPROT-1041/1.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-1041/2.png]]
+<img src="../attachments/EPMTDCPROT-1041/2.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-1041/image-20250417-085128.jpg]]
+<img src="../attachments/EPMTDCPROT-1041/image-20250417-085128.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-1041/image-20250509-030046.jpg]]
+<img src="../attachments/EPMTDCPROT-1041/image-20250509-030046.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-1041/image-20250516-014029.jpg]]
+<img src="../attachments/EPMTDCPROT-1041/image-20250516-014029.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-1041/)

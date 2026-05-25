@@ -48,14 +48,14 @@ A4 雷射打印機的日結報表在「Deposit Memo Qty」區塊的顯示邏輯�
 
 ## 相關截圖
 
-![[../attachments/FE-1724/image-2025-07-07-20-30-56-469.png]]
+<img src="../attachments/FE-1724/image-2025-07-07-20-30-56-469.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1724/image-2025-07-07-20-31-15-846.png]]
+<img src="../attachments/FE-1724/image-2025-07-07-20-31-15-846.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1724/image-2025-07-07-20-31-40-583.png]]
+<img src="../attachments/FE-1724/image-2025-07-07-20-31-40-583.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1724/image-20250708-051756.png]]
+<img src="../attachments/FE-1724/image-20250708-051756.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1724/image-20250708-052337.png]]
+<img src="../attachments/FE-1724/image-20250708-052337.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 11 張截圖，[查看全部](../attachments/FE-1724/)

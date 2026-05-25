@@ -48,7 +48,7 @@ jouprint 表沒有 purge 機制，隨著交易量增加，dbhist.sdf 不斷增�
 
 ## 相關截圖
 
-![[../attachments/FE-1383/image-20240513-031533.png]]
+<img src="../attachments/FE-1383/image-20240513-031533.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1383/image-20240513-031923.png]]
+<img src="../attachments/FE-1383/image-20240513-031923.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

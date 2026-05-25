@@ -47,5 +47,5 @@ Laser日結報表的PrintAgent在產生報表時，未正確根據當天實際�
 
 ## 相關截圖
 
-![[../attachments/FE-1728/image-20250711-103328.png]]
+<img src="../attachments/FE-1728/image-20250711-103328.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

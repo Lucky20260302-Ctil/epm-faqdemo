@@ -47,9 +47,9 @@ EPMTDCPROT-3337: Blank error message on low value purchase e-from when review an
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-3337/image-20260119-035524.jpg]]
+<img src="../attachments/EPMTDCPROT-3337/image-20260119-035524.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3337/image-20260506-084956.jpg]]
+<img src="../attachments/EPMTDCPROT-3337/image-20260506-084956.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3337/image-20260506-085022.jpg]]
+<img src="../attachments/EPMTDCPROT-3337/image-20260506-085022.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

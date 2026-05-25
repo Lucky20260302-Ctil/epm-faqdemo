@@ -43,7 +43,7 @@ EPMTDCPROT-1049: Supplier Invitation Request (Pre-Reg)的Draft中，Click了Offl
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-1049/image-20250317-032409.jpg]]
+<img src="../attachments/EPMTDCPROT-1049/image-20250317-032409.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-1049/image-20250324-025649.jpg]]
+<img src="../attachments/EPMTDCPROT-1049/image-20250324-025649.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

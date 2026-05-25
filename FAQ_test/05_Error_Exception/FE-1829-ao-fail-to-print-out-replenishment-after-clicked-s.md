@@ -47,7 +47,7 @@ AO站點點擊「Save for Send to host」後無法列印Replenishment報表，�
 
 ## 相關截圖
 
-![[../attachments/FE-1829/image-20251211-040626.jpg]]
+<img src="../attachments/FE-1829/image-20251211-040626.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1829/image-20251211-090209.jpg]]
+<img src="../attachments/FE-1829/image-20251211-090209.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

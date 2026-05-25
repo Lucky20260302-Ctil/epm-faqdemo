@@ -48,13 +48,13 @@ CSDataInterface 使用了舊版／不同版本的 Common DLL，與 CS2KBNV1 Obje
 
 ## 相關截圖
 
-![[../attachments/BE-1221/image-20251224-012714.png]]
+<img src="../attachments/BE-1221/image-20251224-012714.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1221/image-20251224-012754.png]]
+<img src="../attachments/BE-1221/image-20251224-012754.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1221/image-20260119-030005.png]]
+<img src="../attachments/BE-1221/image-20260119-030005.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1221/image-20260119-031225.png]]
+<img src="../attachments/BE-1221/image-20260119-031225.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1221/image-20260119-031425.jpg]]
+<img src="../attachments/BE-1221/image-20260119-031425.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

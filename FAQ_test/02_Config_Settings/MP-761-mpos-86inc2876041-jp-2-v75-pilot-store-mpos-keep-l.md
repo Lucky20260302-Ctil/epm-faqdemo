@@ -47,14 +47,14 @@ MP-761: JP 2 V75 Pilot store MPOS keep loading and pop out error:”Fail to Conn
 
 ## 相關截圖
 
-![[../attachments/MP-761/image-20250327-014150.jpg]]
+<img src="../attachments/MP-761/image-20250327-014150.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-761/image-20250327-014515.jpg]]
+<img src="../attachments/MP-761/image-20250327-014515.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-761/image-20250327-014844.jpg]]
+<img src="../attachments/MP-761/image-20250327-014844.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-761/image-20250327-085000.jpg]]
+<img src="../attachments/MP-761/image-20250327-085000.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-761/image-20250327-085040.jpg]]
+<img src="../attachments/MP-761/image-20250327-085040.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 17 張截圖，[查看全部](../attachments/MP-761/)

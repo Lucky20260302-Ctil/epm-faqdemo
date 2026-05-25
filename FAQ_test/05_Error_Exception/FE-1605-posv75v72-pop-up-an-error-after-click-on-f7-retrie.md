@@ -47,5 +47,5 @@ FE-1605: Pop up an error after click on 'F7 Retrieve Order'
 
 ## 相關截圖
 
-![[../attachments/FE-1605/image-20250113-054931.png]]
+<img src="../attachments/FE-1605/image-20250113-054931.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

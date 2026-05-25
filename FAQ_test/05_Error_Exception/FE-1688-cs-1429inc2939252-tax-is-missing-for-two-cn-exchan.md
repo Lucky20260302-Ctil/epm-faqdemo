@@ -48,14 +48,14 @@ CN 門店 V75 在進行換貨交易時，jouinv_vat_value 與 jouinv_gst_per 欄
 
 ## 相關截圖
 
-![[../attachments/FE-1688/image-20250508-051310.jpg]]
+<img src="../attachments/FE-1688/image-20250508-051310.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1688/image-20250508-051353.jpg]]
+<img src="../attachments/FE-1688/image-20250508-051353.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1688/image-20250508-052251.jpg]]
+<img src="../attachments/FE-1688/image-20250508-052251.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1688/image-20250508-053444.jpg]]
+<img src="../attachments/FE-1688/image-20250508-053444.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1688/image-20250508-054241.jpg]]
+<img src="../attachments/FE-1688/image-20250508-054241.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 7 張截圖，[查看全部](../attachments/FE-1688/)

@@ -48,5 +48,5 @@ FE-1117: INC1765584 Tax amount in C364 is wrong on 4/6, 4/9, 4/10, 4/11.4/12
 
 ## 相關截圖
 
-![[../attachments/FE-1117/Revised Program result.png]]
+<img src="../attachments/FE-1117/Revised Program result.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -48,7 +48,7 @@ dotnetpcd 模組啟用後，member no 的寫入邏輯未正確限制目標表，
 
 ## 相關截圖
 
-![[../attachments/FE-1384/image-20240509-041220.png]]
+<img src="../attachments/FE-1384/image-20240509-041220.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1384/image-20240513-024611.png]]
+<img src="../attachments/FE-1384/image-20240513-024611.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

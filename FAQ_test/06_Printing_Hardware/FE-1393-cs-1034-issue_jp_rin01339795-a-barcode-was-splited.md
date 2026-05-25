@@ -48,5 +48,5 @@ POS 版本升級（V72 至 V75）後，條碼列印出現分裂/斷開的異常�
 
 ## 相關截圖
 
-![[../attachments/FE-1393/image-20240521-055538.png]]
+<img src="../attachments/FE-1393/image-20240521-055538.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

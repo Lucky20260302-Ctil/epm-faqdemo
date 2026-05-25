@@ -43,14 +43,14 @@ Why does pressing the Enter key on the Activation page trigger a wrong error mes
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-3300/image-20260112-051342.jpg]]
+<img src="../attachments/EPMTDCPROT-3300/image-20260112-051342.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3300/image-20260112-084504.jpg]]
+<img src="../attachments/EPMTDCPROT-3300/image-20260112-084504.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3300/image-20260112-084626.jpg]]
+<img src="../attachments/EPMTDCPROT-3300/image-20260112-084626.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3300/image-20260113-032615.jpg]]
+<img src="../attachments/EPMTDCPROT-3300/image-20260113-032615.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3300/image-20260113-032735.jpg]]
+<img src="../attachments/EPMTDCPROT-3300/image-20260113-032735.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 15 張截圖，[查看全部](../attachments/EPMTDCPROT-3300/)

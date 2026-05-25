@@ -47,7 +47,7 @@ BEAPI 對於不存在於 CRM 的會員回傳 jsonData 為 null，前端程式（
 
 ## 相關截圖
 
-![[../attachments/FE-1665/image-20250331-074613.png]]
+<img src="../attachments/FE-1665/image-20250331-074613.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1665/image-20250331-085033.png]]
+<img src="../attachments/FE-1665/image-20250331-085033.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

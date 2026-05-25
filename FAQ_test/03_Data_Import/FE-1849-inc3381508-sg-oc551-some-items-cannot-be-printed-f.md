@@ -46,13 +46,13 @@ Mastconv資料匯入後產生的dbmas中缺少部分商品主檔記錄（Item No
 
 ## 相關截圖
 
-![[../attachments/FE-1849/1.png]]
+<img src="../attachments/FE-1849/1.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1849/2.png]]
+<img src="../attachments/FE-1849/2.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1849/3.png]]
+<img src="../attachments/FE-1849/3.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1849/image-20260112-050727.jpg]]
+<img src="../attachments/FE-1849/image-20260112-050727.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1849/screenshot-link_att.jpg]]
+<img src="../attachments/FE-1849/screenshot-link_att.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -47,7 +47,7 @@ Email 搜尋功能查詢的是 vipemail 資料表而非 vip 資料表，導致�
 
 ## 相關截圖
 
-![[../attachments/FE-1486/image-20240820-030631.png]]
+<img src="../attachments/FE-1486/image-20240820-030631.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1486/screenshot-link_att.jpg]]
+<img src="../attachments/FE-1486/screenshot-link_att.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

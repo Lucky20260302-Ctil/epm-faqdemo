@@ -47,9 +47,9 @@ Coach版本v720.02R09之前的版本未正確處理eCoupon提醒的顯示邏輯�
 
 ## 相關截圖
 
-![[../attachments/FE-980/image-2021-06-15-10-41-49-167.png]]
+<img src="../attachments/FE-980/image-2021-06-15-10-41-49-167.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-980/image-2021-06-15-10-43-25-317.png]]
+<img src="../attachments/FE-980/image-2021-06-15-10-43-25-317.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-980/image-2021-06-21-10-44-04-867.png]]
+<img src="../attachments/FE-980/image-2021-06-21-10-44-04-867.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

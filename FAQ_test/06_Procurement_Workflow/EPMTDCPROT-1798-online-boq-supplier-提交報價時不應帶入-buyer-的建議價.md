@@ -47,5 +47,5 @@ Online BOQ 的 supplier 在提交報價時，e-form 上已預先填入 buyer 在
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-1798/image-20250521-082139.jpg]]
+<img src="../attachments/EPMTDCPROT-1798/image-20250521-082139.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

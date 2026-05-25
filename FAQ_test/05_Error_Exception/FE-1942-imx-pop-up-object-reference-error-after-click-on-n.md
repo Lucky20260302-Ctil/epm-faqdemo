@@ -47,5 +47,5 @@ error logging 模組在處理 exception 時，content 欄位為 null 導致 null
 
 ## 相關截圖
 
-![[../attachments/FE-1942/image-20260430-021506.jpg]]
+<img src="../attachments/FE-1942/image-20260430-021506.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

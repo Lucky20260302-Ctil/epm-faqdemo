@@ -47,5 +47,5 @@ title: 'BE-1020: Difference birthday format between HK and CN'
 
 ## 相關截圖
 
-![[../attachments/BE-1020/image-20250303-101748.png]]
+<img src="../attachments/BE-1020/image-20250303-101748.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

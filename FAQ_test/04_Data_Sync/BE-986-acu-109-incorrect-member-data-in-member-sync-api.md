@@ -47,7 +47,7 @@ POS 系統透過 BEAPI 更新後端 VIP 記錄時，若 CRM 回傳的會員有�
 
 ## 相關截圖
 
-![[../attachments/BE-986/image-20250115-093123.png]]
+<img src="../attachments/BE-986/image-20250115-093123.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-986/image-20250303-102424.png]]
+<img src="../attachments/BE-986/image-20250303-102424.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

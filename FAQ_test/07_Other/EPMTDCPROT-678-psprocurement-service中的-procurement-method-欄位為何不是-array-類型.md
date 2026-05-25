@@ -47,11 +47,11 @@ Procurement Method 欄位的資料型別定義為單一值（Single Value）而�
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-678/image-20240927-023229.png]]
+<img src="../attachments/EPMTDCPROT-678/image-20240927-023229.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-678/image-20240927-023245.png]]
+<img src="../attachments/EPMTDCPROT-678/image-20240927-023245.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-678/image-20240927-023951.png]]
+<img src="../attachments/EPMTDCPROT-678/image-20240927-023951.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-678/image-20240930-032816.jpg]]
+<img src="../attachments/EPMTDCPROT-678/image-20240930-032816.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

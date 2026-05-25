@@ -47,7 +47,7 @@ BE-655: Cannot print Amendment list successfully after make an amendment of deli
 
 ## 相關截圖
 
-![[../attachments/BE-655/image-2022-09-22-10-54-41-283.png]]
+<img src="../attachments/BE-655/image-2022-09-22-10-54-41-283.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-655/image-2023-02-15-17-18-29-867.png]]
+<img src="../attachments/BE-655/image-2023-02-15-17-18-29-867.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

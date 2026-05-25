@@ -46,14 +46,14 @@ BE-1000: Same Member ID with different names and mobile numbers
 
 ## 相關截圖
 
-![[../attachments/BE-1000/Image20250206094737 (e1e7634a-f848-4d2c-b8c0-4c761584c6c4).png]]
+<img src="../attachments/BE-1000/Image20250206094737 (e1e7634a-f848-4d2c-b8c0-4c761584c6c4" style="max-width:100%;border-radius:6px;margin:4px 0">.png)
 
-![[../attachments/BE-1000/image-20250206-014704.jpg]]
+<img src="../attachments/BE-1000/image-20250206-014704.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1000/image-20250206-014722.jpg]]
+<img src="../attachments/BE-1000/image-20250206-014722.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1000/image-20250206-034352.jpg]]
+<img src="../attachments/BE-1000/image-20250206-034352.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1000/image-20250206-051618.jpg]]
+<img src="../attachments/BE-1000/image-20250206-051618.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 12 張截圖，[查看全部](../attachments/BE-1000/)

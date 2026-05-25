@@ -48,5 +48,5 @@ SQL 查詢效能不佳，資料選取邏輯無 timeout 控制機制，預設無�
 
 ## 相關截圖
 
-![[../attachments/WEB-343/image-20240425-073308.png]]
+<img src="../attachments/WEB-343/image-20240425-073308.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

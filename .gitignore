@@ -4,6 +4,7 @@ public/
 .quartz-cache/
 *.png
 *.jpg
+!icon.png
 !FAQ_test/attachments/*.png
 !FAQ_test/attachments/*.jpg
 !FAQ_test/attachments/*.jpeg

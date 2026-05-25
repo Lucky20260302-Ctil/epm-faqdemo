@@ -47,14 +47,14 @@ EPMTDCPROT-3395: EPRO-938 [Production] Validation of Info Change form only check
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-3395/image-20260205-033009.jpg]]
+<img src="../attachments/EPMTDCPROT-3395/image-20260205-033009.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3395/image-20260205-033026.jpg]]
+<img src="../attachments/EPMTDCPROT-3395/image-20260205-033026.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3395/image-20260205-033051.jpg]]
+<img src="../attachments/EPMTDCPROT-3395/image-20260205-033051.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3395/image-20260205-033104.jpg]]
+<img src="../attachments/EPMTDCPROT-3395/image-20260205-033104.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3395/image-20260205-061635.jpg]]
+<img src="../attachments/EPMTDCPROT-3395/image-20260205-061635.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 14 張截圖，[查看全部](../attachments/EPMTDCPROT-3395/)

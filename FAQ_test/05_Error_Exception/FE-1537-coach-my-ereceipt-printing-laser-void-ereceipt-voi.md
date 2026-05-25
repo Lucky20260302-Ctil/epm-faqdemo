@@ -47,7 +47,7 @@ Coach 品牌使用 LASER 印表機列印 void eReceipt 時，「Void Reason」�
 
 ## 相關截圖
 
-![[../attachments/FE-1537/image-20241022-084329.png]]
+<img src="../attachments/FE-1537/image-20241022-084329.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1537/image-20241023-030255.jpg]]
+<img src="../attachments/FE-1537/image-20241023-030255.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

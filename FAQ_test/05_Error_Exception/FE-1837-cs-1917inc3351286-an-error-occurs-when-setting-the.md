@@ -48,9 +48,9 @@ FE-1837: An error occurs when setting the POS of the cash drawer balance to 'All
 
 ## 相關截圖
 
-![[../attachments/FE-1837/image-20251219-100101.png]]
+<img src="../attachments/FE-1837/image-20251219-100101.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1837/image-20251219-100258.png]]
+<img src="../attachments/FE-1837/image-20251219-100258.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1837/image-20251222-032901.png]]
+<img src="../attachments/FE-1837/image-20251222-032901.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

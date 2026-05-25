@@ -51,14 +51,14 @@ When the backup folder does not exist or has incorrect settings, the COM port de
 
 ## 相關截圖
 
-![[../attachments/FE-1713/ac222b97-ef25-489b-b535-916a01f5fcdd.png]]
+<img src="../attachments/FE-1713/ac222b97-ef25-489b-b535-916a01f5fcdd.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1713/image-20250611-072631.png]]
+<img src="../attachments/FE-1713/image-20250611-072631.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1713/image-20250611-072816.png]]
+<img src="../attachments/FE-1713/image-20250611-072816.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1713/image-20250611-072936.png]]
+<img src="../attachments/FE-1713/image-20250611-072936.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1713/image-20250611-073007.png]]
+<img src="../attachments/FE-1713/image-20250611-073007.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 8 張截圖，[查看全部](../attachments/FE-1713/)

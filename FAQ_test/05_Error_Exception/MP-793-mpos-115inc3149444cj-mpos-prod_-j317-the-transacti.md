@@ -48,5 +48,5 @@ mPOS 在重新連線至 SalesHub 的過程中存在 UI 層級 Bug，重新連線
 
 ## 相關截圖
 
-![[../attachments/MP-793/image-20250827-083816.jpg]]
+<img src="../attachments/MP-793/image-20250827-083816.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -47,14 +47,14 @@ Sysadmin 嘗試取消其他使用者建立的委派（Delegation）時出現錯�
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-3343/image-20260120-032620.png]]
+<img src="../attachments/EPMTDCPROT-3343/image-20260120-032620.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3343/image-20260120-032643.png]]
+<img src="../attachments/EPMTDCPROT-3343/image-20260120-032643.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3343/image-20260120-073209.jpg]]
+<img src="../attachments/EPMTDCPROT-3343/image-20260120-073209.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3343/image-20260120-074931.png]]
+<img src="../attachments/EPMTDCPROT-3343/image-20260120-074931.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3343/image-20260120-075333.png]]
+<img src="../attachments/EPMTDCPROT-3343/image-20260120-075333.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-3343/)

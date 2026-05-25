@@ -47,9 +47,9 @@ TblConfig 中的 mPosEncryptKey 設定值為 '0'（無效加密金鑰），導�
 
 ## 相關截圖
 
-![[../attachments/MP-746/image-2025-02-14-11-25-49-225.jpg]]
+<img src="../attachments/MP-746/image-2025-02-14-11-25-49-225.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-746/image-20250217-031714.jpg]]
+<img src="../attachments/MP-746/image-20250217-031714.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-746/image-20250217-085758.jpg]]
+<img src="../attachments/MP-746/image-20250217-085758.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

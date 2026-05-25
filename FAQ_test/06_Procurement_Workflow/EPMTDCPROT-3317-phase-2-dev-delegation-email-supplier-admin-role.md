@@ -47,14 +47,14 @@ Supplier Admin Role 委派電子郵件中，Delegator 與 Delegate-To 收到的�
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-3317/image-20260114-055002.png]]
+<img src="../attachments/EPMTDCPROT-3317/image-20260114-055002.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3317/image-20260114-055050.png]]
+<img src="../attachments/EPMTDCPROT-3317/image-20260114-055050.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3317/image-20260114-070653.png]]
+<img src="../attachments/EPMTDCPROT-3317/image-20260114-070653.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3317/image-20260119-064607.jpg]]
+<img src="../attachments/EPMTDCPROT-3317/image-20260119-064607.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3317/image-20260119-064630.jpg]]
+<img src="../attachments/EPMTDCPROT-3317/image-20260119-064630.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-3317/)

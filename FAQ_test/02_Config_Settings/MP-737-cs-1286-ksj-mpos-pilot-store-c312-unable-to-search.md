@@ -47,14 +47,14 @@ MPOS C360 查詢流程未更新至與 FEPOS 相同的新架構（doSearchAdv）�
 
 ## 相關截圖
 
-![[../attachments/MP-737/image-20241211-054959.jpg]]
+<img src="../attachments/MP-737/image-20241211-054959.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-737/image-20241211-153744.png]]
+<img src="../attachments/MP-737/image-20241211-153744.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-737/image-20241211-153850.png]]
+<img src="../attachments/MP-737/image-20241211-153850.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-737/image-20241211-154830.png]]
+<img src="../attachments/MP-737/image-20241211-154830.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-737/image-20241212-015845.jpg]]
+<img src="../attachments/MP-737/image-20241212-015845.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 8 張截圖，[查看全部](../attachments/MP-737/)

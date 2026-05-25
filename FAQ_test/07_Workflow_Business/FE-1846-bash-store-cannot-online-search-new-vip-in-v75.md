@@ -46,5 +46,5 @@ V75 版本中 VIP 會員資料的即時線上搜尋機制出現回歸問題（Re
 
 ## 相關截圖
 
-![[../attachments/FE-1846/image-20260106-032841.jpg]]
+<img src="../attachments/FE-1846/image-20260106-032841.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

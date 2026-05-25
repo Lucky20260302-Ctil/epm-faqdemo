@@ -46,9 +46,9 @@ BE-1193: ANZ POS - AU 20 Web sales import error - Exchange rate not found
 
 ## 相關截圖
 
-![[../attachments/BE-1193/image-20251029-084549.png]]
+<img src="../attachments/BE-1193/image-20251029-084549.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1193/image-20251029-085423.png]]
+<img src="../attachments/BE-1193/image-20251029-085423.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/BE-1193/screenshot-link_att.jpg]]
+<img src="../attachments/BE-1193/screenshot-link_att.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

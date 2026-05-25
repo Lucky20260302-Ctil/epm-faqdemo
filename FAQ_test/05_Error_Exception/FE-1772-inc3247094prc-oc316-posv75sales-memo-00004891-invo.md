@@ -46,14 +46,14 @@ POS 銷售備忘錄（Sales Memo）列印時，特定單號（如 00004891）的
 
 ## 相關截圖
 
-![[../attachments/FE-1772/image-20251021-033851.png]]
+<img src="../attachments/FE-1772/image-20251021-033851.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1772/image-20251021-034119.jpg]]
+<img src="../attachments/FE-1772/image-20251021-034119.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1772/image-20251022-073746.jpg]]
+<img src="../attachments/FE-1772/image-20251022-073746.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1772/image-20251022-092839.png]]
+<img src="../attachments/FE-1772/image-20251022-092839.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1772/image-20251022-104533.jpg]]
+<img src="../attachments/FE-1772/image-20251022-104533.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 6 張截圖，[查看全部](../attachments/FE-1772/)

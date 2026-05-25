@@ -47,7 +47,7 @@ CustomerReceipt（客戶收據）報表佈局未與 Sales Memo（銷售備忘錄
 
 ## 相關截圖
 
-![[../attachments/MP-785/image-20250710-040457.png]]
+<img src="../attachments/MP-785/image-20250710-040457.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/MP-785/image-20250710-041037.png]]
+<img src="../attachments/MP-785/image-20250710-041037.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

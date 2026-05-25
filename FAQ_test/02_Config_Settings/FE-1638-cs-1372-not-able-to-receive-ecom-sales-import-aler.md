@@ -48,14 +48,14 @@ Ecom 銷售匯入程式（Coach_ECOMM）使用的 erralert 類型為「I_ECOM_SA
 
 ## 相關截圖
 
-![[../attachments/FE-1638/image-20250305-101307.jpg]]
+<img src="../attachments/FE-1638/image-20250305-101307.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1638/image-20250305-101334.jpg]]
+<img src="../attachments/FE-1638/image-20250305-101334.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1638/image-20250520-032045.jpg]]
+<img src="../attachments/FE-1638/image-20250520-032045.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1638/image-20250520-081606.jpg]]
+<img src="../attachments/FE-1638/image-20250520-081606.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1638/image-20250520-082312.jpg]]
+<img src="../attachments/FE-1638/image-20250520-082312.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 7 張截圖，[查看全部](../attachments/FE-1638/)

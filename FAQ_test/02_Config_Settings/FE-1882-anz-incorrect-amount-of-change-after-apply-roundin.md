@@ -46,11 +46,11 @@ POS 在計算找零時的捨入邏輯存在不一致：畫面顯示階段的 Cha
 
 ## 相關截圖
 
-![[../attachments/FE-1882/image-20260210-014710.jpg]]
+<img src="../attachments/FE-1882/image-20260210-014710.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1882/image-20260210-031721.png]]
+<img src="../attachments/FE-1882/image-20260210-031721.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1882/image-20260210-031736.png]]
+<img src="../attachments/FE-1882/image-20260210-031736.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1882/image-20260210-031750.png]]
+<img src="../attachments/FE-1882/image-20260210-031750.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

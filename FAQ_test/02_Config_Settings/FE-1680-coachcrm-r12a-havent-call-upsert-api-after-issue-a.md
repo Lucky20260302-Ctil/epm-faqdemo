@@ -47,5 +47,5 @@ POS 建立新會員並完成交易後，系統未呼叫 upsert API 將新會員�
 
 ## 相關截圖
 
-![[../attachments/FE-1680/image-20250425-064220.png]]
+<img src="../attachments/FE-1680/image-20250425-064220.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -47,11 +47,11 @@ Tender Role 委派電子郵件內容不一致，且 System Notification 未顯�
 
 ## 相關截圖
 
-![[../attachments/EPMTDCPROT-3319/image-20260114-065435.png]]
+<img src="../attachments/EPMTDCPROT-3319/image-20260114-065435.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3319/image-20260114-071318.png]]
+<img src="../attachments/EPMTDCPROT-3319/image-20260114-071318.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3319/image-20260119-040221.jpg]]
+<img src="../attachments/EPMTDCPROT-3319/image-20260119-040221.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/EPMTDCPROT-3319/image-20260119-040511.jpg]]
+<img src="../attachments/EPMTDCPROT-3319/image-20260119-040511.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

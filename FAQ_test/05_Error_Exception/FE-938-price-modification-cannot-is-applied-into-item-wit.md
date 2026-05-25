@@ -48,9 +48,9 @@ FE-938: Price Modification cannot is applied into item with negative quantity (s
 
 ## 相關截圖
 
-![[../attachments/FE-938/image-2021-03-19-10-35-55-212.png]]
+<img src="../attachments/FE-938/image-2021-03-19-10-35-55-212.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-938/image-2021-03-19-10-37-02-499.png]]
+<img src="../attachments/FE-938/image-2021-03-19-10-37-02-499.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-938/image-2021-03-19-16-51-41-621.png]]
+<img src="../attachments/FE-938/image-2021-03-19-16-51-41-621.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

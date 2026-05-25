@@ -47,11 +47,11 @@ Zlog 檔案 z241226.06 更新 dbmas 失敗（「Fail to update zfile」），導
 
 ## 相關截圖
 
-![[../attachments/FE-1611/image-20250120-073645.jpg]]
+<img src="../attachments/FE-1611/image-20250120-073645.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1611/image-20250120-074219.jpg]]
+<img src="../attachments/FE-1611/image-20250120-074219.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1611/image-20250122-023047.jpg]]
+<img src="../attachments/FE-1611/image-20250122-023047.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1611/image-20250122-023444.jpg]]
+<img src="../attachments/FE-1611/image-20250122-023444.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -46,14 +46,14 @@ CN V75版本將改由CRM直接擷取會員資料，因此不會再發生此問�
 
 ## 相關截圖
 
-![[../attachments/FE-1540/image-20241024-015401.jpg]]
+<img src="../attachments/FE-1540/image-20241024-015401.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1540/image-20241024-015516.jpg]]
+<img src="../attachments/FE-1540/image-20241024-015516.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1540/image-20241025-013530.jpg]]
+<img src="../attachments/FE-1540/image-20241025-013530.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1540/image-20241025-061017.jpg]]
+<img src="../attachments/FE-1540/image-20241025-061017.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1540/image-20241025-065135.jpg]]
+<img src="../attachments/FE-1540/image-20241025-065135.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
 > 共 7 張截圖，[查看全部](../attachments/FE-1540/)

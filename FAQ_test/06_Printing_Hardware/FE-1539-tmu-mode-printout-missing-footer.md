@@ -48,13 +48,13 @@ TMU 模式的頁尾檔案設定在 tblconfig 中未正確配置。TMU 列印需�
 
 ## 相關截圖
 
-![[../attachments/FE-1539/image-20241024-013530.png]]
+<img src="../attachments/FE-1539/image-20241024-013530.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1539/image-20241024-014735.png]]
+<img src="../attachments/FE-1539/image-20241024-014735.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1539/image-20241024-021309.jpg]]
+<img src="../attachments/FE-1539/image-20241024-021309.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1539/screenshot-link_att.jpg]]
+<img src="../attachments/FE-1539/screenshot-link_att.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1539/signal-2024-10-24-093659.jpeg]]
+<img src="../attachments/FE-1539/signal-2024-10-24-093659.jpeg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

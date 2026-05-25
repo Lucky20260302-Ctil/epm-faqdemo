@@ -47,9 +47,9 @@ tblconfig 中的 ZlogFileType（PCD 分隔符號設定）未能從 'F'（固定�
 
 ## 相關截圖
 
-![[../attachments/FE-1312/ZlogFileType Setting.png]]
+<img src="../attachments/FE-1312/ZlogFileType Setting.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1312/screenshot-1.png]]
+<img src="../attachments/FE-1312/screenshot-1.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-![[../attachments/FE-1312/screenshot-2.png]]
+<img src="../attachments/FE-1312/screenshot-2.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -49,5 +49,5 @@ MP-702: Japanese user login in MPOS which caused posting error
 
 ## 相關截圖
 
-![[../attachments/MP-702/image-20240528-084347.jpg]]
+<img src="../attachments/MP-702/image-20240528-084347.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
