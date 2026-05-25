@@ -29,6 +29,10 @@ title: 'FE-1539: Coach MY BDO - TMU mode printout missing footer'
 
 Coach MY BDO 店鋪使用 TMU 模式列印時，POS 與 MPOS 的所有單據（銷售單、電子收據）底部頁尾（Footer）遺失，Zebra 列印亦有相同問題。
 
+## 症狀
+
+_待補充_
+
 ## 根因
 
 TMU 模式的頁尾檔案設定在 tblconfig 中未正確配置。TMU 列印需要分別設定四種交易類型的頁尾檔案：FOOTERFILENAMENORMAL（銷售/存款結算）、FOOTERFILENAMEEXCHANGE（銷售換貨）、FOOTERFILENAMERETURN（銷售退貨/作廢/作廢存款結算、作廢銷售退貨/作廢銷售換貨）。

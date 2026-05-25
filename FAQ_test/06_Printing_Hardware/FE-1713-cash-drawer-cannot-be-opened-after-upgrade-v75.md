@@ -29,6 +29,10 @@ title: 'FE-1713: [CS-1454] Cash drawer can not be opened after upgrade to V75 - 
 
 升級至 V75 版本後，MC 區域所有收銀機的錢櫃（Cash Drawer）無法開啟。經排查發現 cah.ini 檔案中的 COM Port 設定在升級過程中被自動從正確值（如 COM1）更改為預設值 COM7。
 
+## 症狀
+
+_待補充_
+
 ## 根因
 
 升級過程中，InstallationShield 或 AdminUpdate.bat 會覆蓋 CSPLUS 資料夾下的 cah.ini 檔案。若備份資料夾（inibak）中存在 cah.ini，AdminUpdate.bat 會將其覆蓋到 CSPLUS 目錄；若備份資料夾不存在 cah.ini，則 InstallationShield 會使用預設 COM7 設定，導致錢櫃無法正常開啟。

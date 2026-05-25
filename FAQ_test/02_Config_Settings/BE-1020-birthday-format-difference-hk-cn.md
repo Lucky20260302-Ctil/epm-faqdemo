@@ -28,6 +28,10 @@ title: 'BE-1020: Difference birthday format between HK and CN'
 
 在香港與中國大陸的 POS 系統上，會員生日顯示格式不一致：香港僅顯示月份（如「July」），中國大陸則顯示完整日期（如「2021/07/06」）。使用者對哪種格式為正確設定感到困惑。
 
+## 症狀
+
+_待補充_
+
 ## 根因
 
 此差異由 tblconfig 中的 ShowFullBirthday 參數控制：設定為 'Y' 時顯示完整生日日期（yyyy/MM/dd 格式）；設定為 'N' 時僅顯示生日月份。香港與中國大陸的此項設定值不同，導致顯示格式差異。

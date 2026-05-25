@@ -28,6 +28,10 @@ title: 'WEB-404: TW CRM - Cross border should only happen for CN member, rest re
 
 台灣地區會員在 POS 查詢時，系統會錯誤地觸發跨境（Cross Border）隱私政策檢查，顯示不必要的跨境查詢阻擋訊息。實際上跨境政策檢查僅需針對中國（CN）地區會員執行，台灣及其他地區會員不應受到此限制。
 
+## 症狀
+
+_待補充_
+
 ## 根因
 
 BEGWCRM 與 BEAPICRM 服務在 AWS 上未依地區進行拆分部署，導致所有地區的 CRM API 請求都經過相同的跨境政策檢查邏輯，使非 CN 地區會員也被錯誤地觸發跨境檢查。

@@ -29,6 +29,10 @@ title: 'FE-1643: [ACU-115] CN Member can''t be created by QR code scanning or mo
 
 Coach 中國（CN）會員透過微信小程序註冊後，在 POS 端使用 QR Code 掃描或輸入手機號碼查詢會員時，會員資料可顯示但無法指派會員卡，點擊 Confirm 按鈕後出現錯誤，導致無法完成會員建立。
 
+## 症狀
+
+_待補充_
+
 ## 根因
 
 BEAPI 在處理 CN 會員建立時，VIP 編號（vip no.）生成失敗，導致會員卡無法正確指派，進而使 Confirm 操作失敗。

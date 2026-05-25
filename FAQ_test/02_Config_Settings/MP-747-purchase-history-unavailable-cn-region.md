@@ -28,6 +28,10 @@ title: 'MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase 
 
 在中國區域（CN Region）啟用SalesHub的MPOS環境中，選取CRM會員後無法查看購買歷史記錄（Purchase History）。後續測試中又出現會員檔案顯示404錯誤，以及別名（Alias）顯示為「Unknown」的問題。
 
+## 症狀
+
+_待補充_
+
 ## 根因
 
 此Jira包含三個獨立根因：1) MPOS API的web.config中ThirdPartyModuleInstallPath設定值不正確，導致購買歷史WebView無法載入正確的CRM頁面。2) IIS伺服器的maximum query string length設定過小，當請求URL過長時返回404錯誤。3) License伺服器連線逾時（Connection timeout），導致MPOS無法從授權伺服器獲取正確的別名資訊，顯示為「Unknown」。

@@ -28,6 +28,10 @@ Header.css = `
   border-bottom: 1px solid var(--lightgray);
 }
 
+body:has(.search-container.active) .site-header {
+  display: none;
+}
+
 .header-inner {
   max-width: calc(1200px + 300px);
   margin: 0 auto;
