@@ -1,0 +1,50 @@
+---
+title: "FR-RTR-214: FR-RTR-214: Letter of Acceptance (LOA)"
+tags: [epro, EPRO_PostTender]
+---
+
+# FR-RTR-214: FR-RTR-214: Letter of Acceptance (LOA)
+
+## 需求描述
+
+Requirement ID:	FR-RTR-214	Requirement Type:	RFQ and Tender	Requirements
+Parent Requirement #:
+None
+Description:
+- **3.9** RFQ / Tender Award and Contract Management
+    - **3.9.2** For Tender
+(a) Following approval by the Tender Board, Subject Officers shall be required to prepare a Letter of Acceptance ("LOA") for the awarded suppliers before the PO. The Contract Document shall be prepared and finalised with the awarded suppliers within an agreed-upon timeframe.
+(b) Standard templates for LOA and/or Contract Document shall be maintained on the Platform for Subject Officers' use. Template references shall be provided by the HKTDC. The Platform shall allow Subject Officers to modify the templates and select which clause(s) to exclude (except for mandatory clauses) in the final LOA or Contract Documents in a user-friendly manner.
+(c) Upon approval of the PO on FMS, the PO information, including PO number, status and amount, shall be available on the Platform. Internal Users shall upload the duly signed LOA and/or Contract Document to the Platform with input of necessary information for supplier performance review and, if appropriate, a reminder for contract renewal.
+Rationale:
+None
+Acceptance / Fit Criteria:
+The e-Form for issuing and handling the Letter of Acceptance (LOA) related to the Tender can be used during Tender Negotiation:
+The following report is available for internal users with access control to track the status of tenderers regarding the Letter of Acceptance (LOA) and Responses:
+Tender Performance: This report provides information on whether tenderers have submitted tenders. If responses are received, it lists them along with the associated Letter of Acceptance (LOA) and Responses, including reference numbers, submission dates and times, and approval dates and times for each LOA. Also, the report includes the status of compliance verification results for each response.
+The Platform can generate standard notification emails for internal users and external suppliers based on specific triggers:
+Here are the available options and features for the e-Form:
+The preparer drafts the e-Form. Drafts can be saved automatically to prevent data loss in case of a session timeout.
+The e-Form can be saved in PDF and Excel formats.
+PDF version: for attaching to emails for review and audit trails.
+Excel version: Helps the preparer in creating documents for off-system / external processes.
+The e-Form can be submitted for approval by the requestor designated by the preparer. If the requestor is designated, the e-Form can be reviewed, edited, and submitted for approval. Following submission, email notifications are sent to individuals based on the approval route, considering parallel or sequential modes.
+Approvers (Reviewers, endorsers, and final approvers) can take actions such as approve, reject, return with feedback(s) or withdraw, provided that specific conditions are met.
+The requestor is allowed to revoke approval at any time, enabling them to cancel the approval request before the final approver grants approval.
+In cases where approval requests involve budget virement issues, the requestor can decide whether to inform the controlling officer of the budget division/department after approval or seek their endorsement within the approval route before final approval.
+If an approval request requires the Tender Board Chairman's endorsement before issuing Tender Invitations, Addendums, Extending the closing date/time, or terminating the tender, the requestor can decide whether to inform the Tender Board Chairman after approval or seek their endorsement within the approval route before final approval.
+Change history: The Platform automatically logs each field, capturing the date and time, the changer's details, the field modified, and old/new values.
+Amendment history: The preparer manually fills in the summary of changes with each save.
+Action History captures every e-Form status change, specifying the date, time, initiator, and new status.
+Approval history tracks overall approval status changes, including the date, time, and last approver. It also logs individual actions with the date, time, person's name, action taken (e.g., approve, reject, withdraw), reasons or remarks, and attachments if necessary.
+A weekly reminder email is sent to the requestor and current approvers who are pending approval based on the approval route.
+The Platform should provide Approval Workflow feature, as outlined in FR-GR-012.
+Dependencies:
+Notifications and alerts feature
+Reminder features
+Approval Workflow feature
+Report requirements
+Tailoring Guidelines:
+None
+Change History:
+None

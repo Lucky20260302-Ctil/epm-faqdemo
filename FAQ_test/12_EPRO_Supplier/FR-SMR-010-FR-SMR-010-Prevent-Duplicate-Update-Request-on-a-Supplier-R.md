@@ -1,0 +1,15 @@
+---
+title: "FR-SMR-010: FR-SMR-010: Prevent Duplicate Update Request on a Supplier Record"
+tags: [epro, EPRO_Supplier]
+---
+
+# FR-SMR-010: FR-SMR-010: Prevent Duplicate Update Request on a Supplier Record
+
+## 需求描述
+
+Requirement ID:	FR-SMR-010	Requirement Type:	Supplier Management
+Requirements
+Parent Requirement #:
+None
+Description:
+- **3.54** To prevent duplicate update request on a supplier record, the Platform should integrate with FMS Supplier Platform. The Platform should share the non-completed change requests, enabling FMS Supplier Platform to take appropriate measures to block Internal User from submitting duplicate request for the same supplier record. Rationale: None Acceptance / Fit Criteria: The Platform supports a block mode feature for when supplier information change is submitted on the Platform by the supplier or on FMS by internal users. < Screen mock-ups will be provided in the later SA&D stage > The block mode will be released upon the completion of the previous update. Outlined below are specific scenarios with their corresponding exception handling: The interface requirements will be documented and reviewed during the subsequent SA&D stage. Dependencies: Supplier Information Change Suspension or Permanent Termination of specific Supplier(s) under special circumstances Interface requirements Tailoring Guidelines: None Change History: None The breakdown of the use cases is outlined as follows: The breakdown of the use cases for Supplier Information Change Request initiated by external suppliers is outlined as follows: The breakdown of the use cases for Supplier Information Change Request initiated by internal users is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage. The breakdown of the use cases is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage. The breakdown of the use cases is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage. The breakdown of the use cases is outlined as follows: The breakdown of the use cases for Supplier Performance Evaluation Request initiated by internal users is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage. The breakdown of the use cases is outlined as follows: The breakdown of the use cases for Supplier Deactivation Process is outlined as follows: The breakdown of the use cases for Supplier Termination Process is outlined as follows: The breakdown of the use cases for Supplier Reversion to Normal Process is outlined as follows: The breakdown of the use cases for the report feature is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage. The breakdown of the use cases is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage. The breakdown of the use cases is outlined as follows: The details of the use cases will be documented and reviewed in the later SA&D stage.
