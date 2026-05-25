@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "資料同步 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 資料同步
@@ -29,4 +29,4 @@ updated: 2026-05-22
 | 17 | [[FE-1821-cs-1865-inc3314927-ksj-c309-receipt-print-performa|FE-1821]] | FE | ✅ | INC3314927 KSJ C309 Receipt Print performance issue |
 | 18 | [[MP-767-mpos-91-mpos-ksj-3295e-if-member-we-selected-only-|MP-767]] | MP | ✅ | MPOS KSJ 3.29.5e, if member we selected only have 'Home phone no', will cause po... |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

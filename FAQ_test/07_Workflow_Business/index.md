@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "業務流程 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 業務流程
@@ -28,4 +28,4 @@ updated: 2026-05-22
 | 16 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404]] | WEB | ✅ | TW CRM - Cross border should only happen for CN member, rest regions no need |
 | 17 | [[WEB-404-tw-crm-cross-border-check|WEB-404]] | ENAME | ✅ | TW CRM - Cross border should only happen for CN member, rest regions no need |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

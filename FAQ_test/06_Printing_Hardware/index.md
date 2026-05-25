@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "列印與硬體 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 列印與硬體
@@ -20,4 +20,4 @@ updated: 2026-05-22
 | 8 | [[FE-1838-sph-fail-to-print-out-transfer-receipt|FE-1838]] | FE | ✅ | Fail to print out transfer receipt |
 | 9 | [[MP-756-mpos-82mpos-v3302-ksj-mpos-unable-to-print-directl|MP-756]] | MP | ✅ | MPOS v3.30.2 - KSJ MPOS unable to print directly after issue sales memo |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

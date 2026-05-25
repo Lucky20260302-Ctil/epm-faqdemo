@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "其他 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 其他
@@ -17,4 +17,4 @@ updated: 2026-05-22
 | 5 | [[EP24MPFA-87-section-f-審批通過後點擊view查看已審批內容時為何-closing-date-及其他欄位內容顯示為空|EP24MPFA-87]] | EP24MPFA | ✅ | EP24MPFA-87: |
 | 6 | [[EPMTDCPROT-678-psprocurement-service中的-procurement-method-欄位為何不是-array-類型|EPMTDCPROT-678]] | EPMTDCPROT | ✅ |  |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

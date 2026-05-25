@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "安裝與部署 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 安裝與部署
@@ -19,4 +19,4 @@ updated: 2026-05-22
 | 7 | [[FE-1749-cs-1628-tw-crm-profile-and-purchase-history-not-av|FE-1749]] | FE | ✅ | CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Vers... |
 | 8 | [[MP-743-mpos-73mpos_3295-mpos-api-ipa-posting-issue|MP-743]] | MP | ✅ | MPOS_3.29.5 (MPOS API + IPA) Posting Issue |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "報錯與異常 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 報錯與異常
@@ -63,4 +63,4 @@ updated: 2026-05-22
 | 51 | [[MP-793-mpos-115inc3149444cj-mpos-prod_-j317-the-transacti|MP-793]] | MP | ✅ | CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub |
 | 52 | [[WEB-376-acu-73performance-improvement-on-memberupsert-inte|WEB-376]] | WEB | ✅ | Performance Improvement on member/upsert Interface of POS |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

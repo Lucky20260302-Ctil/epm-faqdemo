@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "採購流程 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 採購流程
@@ -33,4 +33,4 @@ updated: 2026-05-22
 | 21 | [[EPMTDCPROT-3602-cr-supplier-full-reg-info-change-pre-reg-info-change-b|EPMTDCPROT-3602]] | EPMTDCPROT | ✅ | [CR Supplier] full-reg info change / pre-reg info change / br update 這些create fo... |
 | 22 | [[EPMTDCPROT-670-submit-form-support-other-index-number-not-start-with-0|EPMTDCPROT-670]] | EPMTDCPROT | ✅ | Submit Form Support other index number not start with 0 |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成

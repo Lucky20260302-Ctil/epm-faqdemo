@@ -1,7 +1,7 @@
 ---
 tags: [moc, faq, index]
 title: "配置與設定 — FAQ 索引"
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # 配置與設定
@@ -32,4 +32,4 @@ updated: 2026-05-22
 | 20 | [[MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta|MP-830]] | MP | ✅ | J242 MPOS popout error "Passes don't contain empty strings or space characters" ... |
 | 21 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404]] | WEB | ✅ | TW CRM - Cross border should only happen for CN member, rest regions no need |
 
-> 最後更新: 2026-05-22 · 自動生成
+> 最後更新: 2026-05-25 · 自動生成
