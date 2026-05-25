@@ -43,3 +43,11 @@ CustomerReceipt（客戶收據）報表佈局未與 Sales Memo（銷售備忘錄
 - 組件: Frontend
 - 負責人: Sherman tse
 - 附件: [image-20250710-040457.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61626) | [image-20250710-041037.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61627)
+
+
+## 相關截圖
+
+![[../attachments/MP-785/image-20250710-040457.png]]
+
+![[../attachments/MP-785/image-20250710-041037.png]]
+

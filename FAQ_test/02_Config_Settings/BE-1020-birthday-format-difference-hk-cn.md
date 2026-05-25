@@ -43,3 +43,9 @@ title: 'BE-1020: Difference birthday format between HK and CN'
 - **解決日期：** 2025-04-29
 - **組件：** MPOS
 - **附件截圖：** [image-20250303-101748.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52400)
+
+
+## 相關截圖
+
+![[../attachments/BE-1020/image-20250303-101748.png]]
+

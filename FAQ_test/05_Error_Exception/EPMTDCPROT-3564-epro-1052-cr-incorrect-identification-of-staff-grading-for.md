@@ -43,3 +43,18 @@ DOI 表單中「Declaration of Conflict Grade」欄位顯示錯誤。低於 Grad
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3564/image-20260511-070632.jpg]]
+
+![[../attachments/EPMTDCPROT-3564/image-20260511-070647.jpg]]
+
+![[../attachments/EPMTDCPROT-3564/image-20260511-070701.jpg]]
+
+![[../attachments/EPMTDCPROT-3564/image-20260511-090750.jpg]]
+
+![[../attachments/EPMTDCPROT-3564/image-20260511-090811.jpg]]
+
+> 共 11 張截圖，[查看全部](../attachments/EPMTDCPROT-3564/)

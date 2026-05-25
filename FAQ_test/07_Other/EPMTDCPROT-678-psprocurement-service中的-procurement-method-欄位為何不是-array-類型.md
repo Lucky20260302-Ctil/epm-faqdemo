@@ -43,3 +43,15 @@ Procurement Method 欄位的資料型別定義為單一值（Single Value）而�
 - Fix Version: 未標註
 - 分類: 其他
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-678/image-20240927-023229.png]]
+
+![[../attachments/EPMTDCPROT-678/image-20240927-023245.png]]
+
+![[../attachments/EPMTDCPROT-678/image-20240927-023951.png]]
+
+![[../attachments/EPMTDCPROT-678/image-20240930-032816.jpg]]
+

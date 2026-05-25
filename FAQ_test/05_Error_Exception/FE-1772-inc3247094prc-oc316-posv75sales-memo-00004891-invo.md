@@ -42,3 +42,18 @@ POS 銷售備忘錄（Sales Memo）列印時，特定單號（如 00004891）的
 - 組件: Front End v750.01R01A
 - 負責人: pierre.shi
 - 附件: [image-20251021-033851.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67289) | [image-20251021-034119.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67288) | [image-20251022-073746.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67396) | [image-20251022-092839.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67406) | [image-20251022-104533.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67408)
+
+
+## 相關截圖
+
+![[../attachments/FE-1772/image-20251021-033851.png]]
+
+![[../attachments/FE-1772/image-20251021-034119.jpg]]
+
+![[../attachments/FE-1772/image-20251022-073746.jpg]]
+
+![[../attachments/FE-1772/image-20251022-092839.png]]
+
+![[../attachments/FE-1772/image-20251022-104533.jpg]]
+
+> 共 6 張截圖，[查看全部](../attachments/FE-1772/)

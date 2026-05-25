@@ -44,3 +44,18 @@ A4 雷射打印機的日結報表在「Deposit Memo Qty」區塊的顯示邏輯�
 - 組件: report
 - 負責人: Sherman tse
 - 附件: [ALL FE log Tilll0&Till1.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/61578) | [image-2025-07-07-20-30-56-469.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61376) | [image-2025-07-07-20-31-15-846.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61377) | [image-2025-07-07-20-31-40-583.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61378) | [image-20250708-051756.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61375)
+
+
+## 相關截圖
+
+![[../attachments/FE-1724/image-2025-07-07-20-30-56-469.png]]
+
+![[../attachments/FE-1724/image-2025-07-07-20-31-15-846.png]]
+
+![[../attachments/FE-1724/image-2025-07-07-20-31-40-583.png]]
+
+![[../attachments/FE-1724/image-20250708-051756.png]]
+
+![[../attachments/FE-1724/image-20250708-052337.png]]
+
+> 共 11 張截圖，[查看全部](../attachments/FE-1724/)

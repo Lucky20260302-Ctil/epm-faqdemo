@@ -44,3 +44,13 @@ FE-1837: An error occurs when setting the POS of the cash drawer balance to 'All
 - 組件: Front End
 - 負責人: Sherman tse
 - 附件: [DAL20251218.log](https://ctil.atlassian.net/rest/api/3/attachment/content/71365) | [DAL20251218 (aefc551e-007e-4bce-9eaa-6360ffbe485d).log](https://ctil.atlassian.net/rest/api/3/attachment/content/71454) | [image-20251219-100101.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71362) | [image-20251219-100258.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71361) | [image-20251222-032901.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71456)
+
+
+## 相關截圖
+
+![[../attachments/FE-1837/image-20251219-100101.png]]
+
+![[../attachments/FE-1837/image-20251219-100258.png]]
+
+![[../attachments/FE-1837/image-20251222-032901.png]]
+

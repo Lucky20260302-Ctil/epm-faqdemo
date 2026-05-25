@@ -44,3 +44,9 @@ FE-1117: INC1765584 Tax amount in C364 is wrong on 4/6, 4/9, 4/10, 4/11.4/12
 - 組件: Front End
 - 負責人: Sang
 - 附件: [RE  INC1765584 Tax amount in C364 is wrong on 4 6  4 9  4 10  4 11 4 12 .msg](https://ctil.atlassian.net/rest/api/3/attachment/content/37598) | [Revised Program result.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37607) | [RE  Wrong Tax and Sales value of 46 transactions for C364 .msg](https://ctil.atlassian.net/rest/api/3/attachment/content/37602) | [Test case [FE-1117].docx](https://ctil.atlassian.net/rest/api/3/attachment/content/37614)
+
+
+## 相關截圖
+
+![[../attachments/FE-1117/Revised Program result.png]]
+

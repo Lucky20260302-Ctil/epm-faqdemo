@@ -44,3 +44,11 @@ FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file
 - 組件: Front End
 - 負責人: Shaun_Huang
 - 附件: [image-20250818-065746.png](https://ctil.atlassian.net/rest/api/3/attachment/content/63628) | [image-20250819-042400.png](https://ctil.atlassian.net/rest/api/3/attachment/content/63690) | [OCF26_a.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/63629)
+
+
+## 相關截圖
+
+![[../attachments/FE-1745/image-20250818-065746.jpg]]
+
+![[../attachments/FE-1745/image-20250819-042400.jpg]]
+

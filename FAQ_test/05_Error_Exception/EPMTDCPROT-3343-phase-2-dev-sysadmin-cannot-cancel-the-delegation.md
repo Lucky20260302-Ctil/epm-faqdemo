@@ -43,3 +43,18 @@ Sysadmin 嘗試取消其他使用者建立的委派（Delegation）時出現錯�
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3343/image-20260120-032620.png]]
+
+![[../attachments/EPMTDCPROT-3343/image-20260120-032643.png]]
+
+![[../attachments/EPMTDCPROT-3343/image-20260120-073209.jpg]]
+
+![[../attachments/EPMTDCPROT-3343/image-20260120-074931.png]]
+
+![[../attachments/EPMTDCPROT-3343/image-20260120-075333.png]]
+
+> 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-3343/)

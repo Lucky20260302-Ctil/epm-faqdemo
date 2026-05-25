@@ -39,3 +39,11 @@ EPMTDCPROT-1042: Pre-Reg中，添加Approvaler的时候，选择了一个Approva
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1042/image-20250314-023506.jpg]]
+
+![[../attachments/EPMTDCPROT-1042/image-20250324-022542.jpg]]
+

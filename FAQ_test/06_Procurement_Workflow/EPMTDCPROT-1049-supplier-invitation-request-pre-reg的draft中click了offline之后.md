@@ -39,3 +39,11 @@ EPMTDCPROT-1049: Supplier Invitation Request (Pre-Reg)的Draft中，Click了Offl
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1049/image-20250317-032409.jpg]]
+
+![[../attachments/EPMTDCPROT-1049/image-20250324-025649.jpg]]
+

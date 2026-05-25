@@ -44,3 +44,9 @@ FE 安裝封包在建置時遺漏了 [3P Module Config] 配置區段，該區段
 - 組件: Front End
 - 負責人: Andy Ko
 - 附件: [image-20240522-090936.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41633)
+
+
+## 相關截圖
+
+![[../attachments/FE-1385/image-20240522-090936.jpg]]
+

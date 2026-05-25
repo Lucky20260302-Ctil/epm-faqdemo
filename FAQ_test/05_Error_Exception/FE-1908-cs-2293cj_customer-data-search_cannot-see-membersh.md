@@ -44,3 +44,18 @@ FE程式碼（v75）的MemberPanelViewModel中缺少對vipdef資料集的fetch�
 - 組件: Frontend
 - 負責人: Joy Li
 - 附件: [image-20260326-153925.png](https://ctil.atlassian.net/rest/api/3/attachment/content/81964) | [image-20260326-154012.png](https://ctil.atlassian.net/rest/api/3/attachment/content/81965) | [image-20260326-154748.png](https://ctil.atlassian.net/rest/api/3/attachment/content/81966) | [image-20260326-154931.png](https://ctil.atlassian.net/rest/api/3/attachment/content/81967) | [image-20260326-155044.png](https://ctil.atlassian.net/rest/api/3/attachment/content/81968)
+
+
+## 相關截圖
+
+![[../attachments/FE-1908/image-20260326-153925.png]]
+
+![[../attachments/FE-1908/image-20260326-154012.png]]
+
+![[../attachments/FE-1908/image-20260326-154748.png]]
+
+![[../attachments/FE-1908/image-20260326-154931.png]]
+
+![[../attachments/FE-1908/image-20260326-155044.png]]
+
+> 共 21 張截圖，[查看全部](../attachments/FE-1908/)

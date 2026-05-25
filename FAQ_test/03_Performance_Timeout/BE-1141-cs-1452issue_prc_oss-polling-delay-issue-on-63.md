@@ -44,3 +44,11 @@ BE-1141: Issue_PRC_OSS Polling Delay issue on 6.3
 - 組件: polling
 - 負責人: Sherman tse
 - 附件: [image-20250702-023854.png](https://ctil.atlassian.net/rest/api/3/attachment/content/60947) | [image-20250702-024106.png](https://ctil.atlassian.net/rest/api/3/attachment/content/60948) | [Test case of [CS-1452]Issue_PRC_OSS Polling Delay issue on 6.3.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/61075)
+
+
+## 相關截圖
+
+![[../attachments/BE-1141/image-20250702-023854.jpg]]
+
+![[../attachments/BE-1141/image-20250702-024106.png]]
+

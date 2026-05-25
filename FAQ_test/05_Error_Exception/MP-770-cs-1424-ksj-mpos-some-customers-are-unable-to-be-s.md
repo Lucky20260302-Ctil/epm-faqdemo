@@ -44,3 +44,18 @@ mPOS 的 GetMember 流程在 C360 查詢會員後，會對會員類型進行驗�
 - 組件: MPOS API
 - 負責人: Sherman tse
 - 附件: [202506121100070000.mp4](https://ctil.atlassian.net/rest/api/3/attachment/content/59439) | [C309-Unknown-2025-06-12 10-58-23-704495.txt](https://ctil.atlassian.net/rest/api/3/attachment/content/59438) | [CS-1424.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/56223) | [CS-1424 (d81e9193-4e27-44e8-b42e-be48daca0dcd).zip](https://ctil.atlassian.net/rest/api/3/attachment/content/59492) | [image-20250507-115610.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56218)
+
+
+## 相關截圖
+
+![[../attachments/MP-770/image-20250507-115610.jpg]]
+
+![[../attachments/MP-770/image-20250507-123119.jpg]]
+
+![[../attachments/MP-770/image-20250507-125233.jpg]]
+
+![[../attachments/MP-770/image-20250508-083619.jpg]]
+
+![[../attachments/MP-770/image-20250508-084230.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/MP-770/)

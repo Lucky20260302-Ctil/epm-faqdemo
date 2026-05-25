@@ -44,3 +44,9 @@ x64 版本的 POS 在 void CMB 支付時，錯誤調用了 32 位元的 EFTPayme
 - 組件: Payment
 - 負責人: Sherman tse
 - 附件: [CMB_20240612.log](https://ctil.atlassian.net/rest/api/3/attachment/content/42148) | [image-20240612-034833.png](https://ctil.atlassian.net/rest/api/3/attachment/content/42156) | [Void CMB sales memo testing - 20240621.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/42463)
+
+
+## 相關截圖
+
+![[../attachments/FE-1409/image-20240612-034833.jpg]]
+

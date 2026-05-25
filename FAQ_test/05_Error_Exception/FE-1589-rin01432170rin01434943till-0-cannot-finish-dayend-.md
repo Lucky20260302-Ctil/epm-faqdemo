@@ -43,3 +43,18 @@ Windows系統的日期格式被其他應用程式變更為M/d/yyyy，而POS標�
 - 組件: Front End v750.01R01A
 - 負責人: Jason Wu
 - 附件: [111.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49526) | [111 (06aa8ec6-3110-40f7-a945-96d8ab2d505f).png](https://ctil.atlassian.net/rest/api/3/attachment/content/49657) | [222.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49527) | [241223 FE-1589 Issue Study.docx](https://ctil.atlassian.net/rest/api/3/attachment/content/49589) | [image-20241224-083527.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49644)
+
+
+## 相關截圖
+
+![[../attachments/FE-1589/111 (06aa8ec6-3110-40f7-a945-96d8ab2d505f).jpg]]
+
+![[../attachments/FE-1589/111.png]]
+
+![[../attachments/FE-1589/222.png]]
+
+![[../attachments/FE-1589/image-20241224-083527.jpg]]
+
+![[../attachments/FE-1589/image-20241224-083544.jpg]]
+
+> 共 9 張截圖，[查看全部](../attachments/FE-1589/)

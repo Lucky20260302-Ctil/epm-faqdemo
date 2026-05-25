@@ -43,3 +43,17 @@ EPMTDCPROT-3385: EPRO-929 [Production] Supplier with same name as FMS Only Suppl
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3385/image-20260203-020711.jpg]]
+
+![[../attachments/EPMTDCPROT-3385/image-20260203-072917.jpg]]
+
+![[../attachments/EPMTDCPROT-3385/image-20260203-072946.jpg]]
+
+![[../attachments/EPMTDCPROT-3385/image-20260203-073250.jpg]]
+
+![[../attachments/EPMTDCPROT-3385/image-20260203-073318.jpg]]
+

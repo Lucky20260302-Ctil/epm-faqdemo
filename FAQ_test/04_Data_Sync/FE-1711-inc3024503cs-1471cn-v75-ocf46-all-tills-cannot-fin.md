@@ -44,3 +44,18 @@ Anson Cheung 修改 CRM BEAPI 的 upsert 邏輯，使其能正確處理 birth_da
 - 組件: Front End v750.01R01A
 - 負責人: Anson Cheung
 - 附件: [CRM-20250520.log](https://ctil.atlassian.net/rest/api/3/attachment/content/59377) | [CRM-20250524.log](https://ctil.atlassian.net/rest/api/3/attachment/content/59380) | [CRMBEAPI log (af413e45-1abe-45f8-a673-48ad39f19daf).zip](https://ctil.atlassian.net/rest/api/3/attachment/content/59379) | [image-20250611-033259.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59356) | [image-20250611-033754.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59355)
+
+
+## 相關截圖
+
+![[../attachments/FE-1711/image-20250611-033259.png]]
+
+![[../attachments/FE-1711/image-20250611-033754.png]]
+
+![[../attachments/FE-1711/image-20250611-034117.png]]
+
+![[../attachments/FE-1711/image-20250611-055925.png]]
+
+![[../attachments/FE-1711/image-20250611-061301.png]]
+
+> 共 13 張截圖，[查看全部](../attachments/FE-1711/)

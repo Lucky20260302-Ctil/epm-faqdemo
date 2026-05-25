@@ -43,3 +43,11 @@ Coach 品牌使用 LASER 印表機列印 void eReceipt 時，「Void Reason」�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [241023 FE-1537 Coach Void eReceipt - SHow Void Reason.pdf](https://ctil.atlassian.net/rest/api/3/attachment/content/47293) | [image-20241022-084329.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47266) | [image-20241023-030255.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47292)
+
+
+## 相關截圖
+
+![[../attachments/FE-1537/image-20241022-084329.png]]
+
+![[../attachments/FE-1537/image-20241023-030255.jpg]]
+

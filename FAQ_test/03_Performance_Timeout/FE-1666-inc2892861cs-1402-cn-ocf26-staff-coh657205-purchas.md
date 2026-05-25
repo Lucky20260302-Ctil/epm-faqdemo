@@ -42,3 +42,18 @@ FE-1666: CN OCF26 staff COH657205  purchase balance issue
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20250403-031646.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54349) | [image-20250403-031846.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54348) | [image-20250403-032110.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54350) | [image-20250403-032231.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54351) | [image-20250403-070655.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54368)
+
+
+## 相關截圖
+
+![[../attachments/FE-1666/image-20250403-031646.jpg]]
+
+![[../attachments/FE-1666/image-20250403-031846.jpg]]
+
+![[../attachments/FE-1666/image-20250403-032110.jpg]]
+
+![[../attachments/FE-1666/image-20250403-032231.jpg]]
+
+![[../attachments/FE-1666/image-20250403-070655.jpg]]
+
+> 共 15 張截圖，[查看全部](../attachments/FE-1666/)

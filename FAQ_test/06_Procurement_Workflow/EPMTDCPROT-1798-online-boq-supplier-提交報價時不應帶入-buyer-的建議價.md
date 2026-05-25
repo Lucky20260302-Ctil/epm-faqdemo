@@ -43,3 +43,9 @@ Online BOQ 的 supplier 在提交報價時，e-form 上已預先填入 buyer 在
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1798/image-20250521-082139.jpg]]
+

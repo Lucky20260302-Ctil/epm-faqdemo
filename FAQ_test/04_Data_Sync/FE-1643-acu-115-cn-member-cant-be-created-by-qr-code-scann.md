@@ -43,3 +43,9 @@ BEAPI 在處理 CN 會員建立時，VIP 編號（vip no.）生成失敗，導�
 - 組件: Front End
 - 負責人: Anson Cheung
 - 附件: [image-20250307-063356.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52698) | [QA web21_beapi_apilog_20250307.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/52699) | [QA web22_beapi_apilog_20250307.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/52697)
+
+
+## 相關截圖
+
+![[../attachments/FE-1643/image-20250307-063356.jpg]]
+

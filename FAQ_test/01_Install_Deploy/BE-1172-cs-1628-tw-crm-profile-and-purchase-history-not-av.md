@@ -44,3 +44,9 @@ BE-1172: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available
 - 組件: Backend (ChainStorePlus 7.0)
 - 負責人: Sherman tse
 - 附件: [image-20250901-093357.png](https://ctil.atlassian.net/rest/api/3/attachment/content/64484) | [Test case of CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version - FE.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/64920) | [Test case of CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version -mpos.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/64921)
+
+
+## 相關截圖
+
+![[../attachments/BE-1172/image-20250901-093357.jpg]]
+

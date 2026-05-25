@@ -44,3 +44,18 @@ FE-1440: REMS - Member search in offline mode will result in execption
 - 組件: Front End
 - 負責人: Sang
 - 附件: [DAL20240702.log](https://ctil.atlassian.net/rest/api/3/attachment/content/42702) | [image-20240701-053923.png](https://ctil.atlassian.net/rest/api/3/attachment/content/42650) | [image-20240701-054019.png](https://ctil.atlassian.net/rest/api/3/attachment/content/42651) | [image-20240702-085932.png](https://ctil.atlassian.net/rest/api/3/attachment/content/42703) | [image-20240702-085939.png](https://ctil.atlassian.net/rest/api/3/attachment/content/42704)
+
+
+## 相關截圖
+
+![[../attachments/FE-1440/Untitled.jpg]]
+
+![[../attachments/FE-1440/image-20240701-053923.png]]
+
+![[../attachments/FE-1440/image-20240701-054019.png]]
+
+![[../attachments/FE-1440/image-20240702-085932.jpg]]
+
+![[../attachments/FE-1440/image-20240702-085939.jpg]]
+
+> 共 9 張截圖，[查看全部](../attachments/FE-1440/)

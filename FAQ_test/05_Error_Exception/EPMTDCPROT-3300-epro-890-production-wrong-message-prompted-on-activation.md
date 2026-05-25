@@ -39,3 +39,18 @@ Why does pressing the Enter key on the Activation page trigger a wrong error mes
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3300/image-20260112-051342.jpg]]
+
+![[../attachments/EPMTDCPROT-3300/image-20260112-084504.jpg]]
+
+![[../attachments/EPMTDCPROT-3300/image-20260112-084626.jpg]]
+
+![[../attachments/EPMTDCPROT-3300/image-20260113-032615.jpg]]
+
+![[../attachments/EPMTDCPROT-3300/image-20260113-032735.jpg]]
+
+> 共 15 張截圖，[查看全部](../attachments/EPMTDCPROT-3300/)

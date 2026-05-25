@@ -44,3 +44,17 @@ CSDataInterface 使用了舊版／不同版本的 Common DLL，與 CS2KBNV1 Obje
 - 組件: Posting
 - 負責人: Joy Li
 - 附件: [image-20251224-012714.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71641) | [image-20251224-012754.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71642) | [image-20260119-030005.png](https://ctil.atlassian.net/rest/api/3/attachment/content/73718) | [image-20260119-031225.png](https://ctil.atlassian.net/rest/api/3/attachment/content/73716) | [image-20260119-031425.png](https://ctil.atlassian.net/rest/api/3/attachment/content/73717)
+
+
+## 相關截圖
+
+![[../attachments/BE-1221/image-20251224-012714.png]]
+
+![[../attachments/BE-1221/image-20251224-012754.png]]
+
+![[../attachments/BE-1221/image-20260119-030005.png]]
+
+![[../attachments/BE-1221/image-20260119-031225.png]]
+
+![[../attachments/BE-1221/image-20260119-031425.jpg]]
+

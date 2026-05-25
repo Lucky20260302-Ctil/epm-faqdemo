@@ -43,3 +43,18 @@ MP-761: JP 2 V75 Pilot store MPOS keep loading and pop out error:”Fail to Conn
 - 組件: MPOS
 - 負責人: Daniel Leung
 - 附件: [image-20250327-014150.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53809) | [image-20250327-014515.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53810) | [image-20250327-014844.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53811) | [image-20250327-085000.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53887) | [image-20250327-085040.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53886)
+
+
+## 相關截圖
+
+![[../attachments/MP-761/image-20250327-014150.jpg]]
+
+![[../attachments/MP-761/image-20250327-014515.jpg]]
+
+![[../attachments/MP-761/image-20250327-014844.jpg]]
+
+![[../attachments/MP-761/image-20250327-085000.jpg]]
+
+![[../attachments/MP-761/image-20250327-085040.jpg]]
+
+> 共 17 張截圖，[查看全部](../attachments/MP-761/)

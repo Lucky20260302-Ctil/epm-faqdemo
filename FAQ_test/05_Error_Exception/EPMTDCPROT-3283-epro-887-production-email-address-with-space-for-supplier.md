@@ -39,3 +39,13 @@ Why does adding a space after the email address during supplier pre-registration
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3283/image-20260107-064630.jpg]]
+
+![[../attachments/EPMTDCPROT-3283/image-20260107-064641.jpg]]
+
+![[../attachments/EPMTDCPROT-3283/image-20260107-064654.jpg]]
+

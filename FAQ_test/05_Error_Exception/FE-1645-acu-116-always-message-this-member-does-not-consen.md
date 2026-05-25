@@ -43,3 +43,18 @@ FE-1645: Always message 'This member does not consent to enquire out of border' 
 - 組件: Front End
 - 負責人: Anson Cheung
 - 附件: [beapi_apilog_20250307.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/52844) | [beapi_apilog_20250307 (d88dc7e4-34e6-4fdd-90b0-264716885d87).sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/52845) | [image-20250310-065245.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52768) | [image-20250310-070046.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52770) | [image-20250311-023438.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52818)
+
+
+## 相關截圖
+
+![[../attachments/FE-1645/image-20250310-065245.jpg]]
+
+![[../attachments/FE-1645/image-20250310-070046.jpg]]
+
+![[../attachments/FE-1645/image-20250311-023438.jpg]]
+
+![[../attachments/FE-1645/image-20250311-024549.jpg]]
+
+![[../attachments/FE-1645/image-20250311-030721 (a95d56c7-91ff-4847-9e9f-a5f38dbaf178).jpg]]
+
+> 共 6 張截圖，[查看全部](../attachments/FE-1645/)

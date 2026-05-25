@@ -43,3 +43,18 @@ EPMTDCPROT-1971: 開標階段 Technical Compliance Check 的 label 顯示錯誤�
 - Fix Version: 未標註
 - 分類: 設定與配置
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1971/image-20250529-061256.jpg]]
+
+![[../attachments/EPMTDCPROT-1971/image-20250529-061315.jpg]]
+
+![[../attachments/EPMTDCPROT-1971/image-20250529-061432.jpg]]
+
+![[../attachments/EPMTDCPROT-1971/image-20250529-061518.jpg]]
+
+![[../attachments/EPMTDCPROT-1971/image-20250529-061740.jpg]]
+
+> 共 8 張截圖，[查看全部](../attachments/EPMTDCPROT-1971/)

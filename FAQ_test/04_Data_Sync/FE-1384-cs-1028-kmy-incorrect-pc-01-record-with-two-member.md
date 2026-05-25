@@ -44,3 +44,11 @@ dotnetpcd 模組啟用後，member no 的寫入邏輯未正確限制目標表，
 - 組件: Front End
 - 負責人: Joy Li
 - 附件: [image-20240509-041220.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41210) | [image-20240513-024611.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41302) | [pce2024050802.dat](https://ctil.atlassian.net/rest/api/3/attachment/content/41209)
+
+
+## 相關截圖
+
+![[../attachments/FE-1384/image-20240509-041220.png]]
+
+![[../attachments/FE-1384/image-20240513-024611.png]]
+

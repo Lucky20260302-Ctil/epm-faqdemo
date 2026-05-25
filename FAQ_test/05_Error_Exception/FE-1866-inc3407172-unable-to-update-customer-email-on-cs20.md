@@ -43,3 +43,17 @@ FE-1866: Unable to update customer email on CS2000 web
 - 組件: Front End
 - 負責人: Jerry Wong
 - 附件: [Apply SQL.txt](https://ctil.atlassian.net/rest/api/3/attachment/content/75255) | [image-20260126-080855.png](https://ctil.atlassian.net/rest/api/3/attachment/content/74689) | [image-20260126-081224.png](https://ctil.atlassian.net/rest/api/3/attachment/content/74691) | [image-20260129-050631.png](https://ctil.atlassian.net/rest/api/3/attachment/content/75254) | [image-20260129-051649.png](https://ctil.atlassian.net/rest/api/3/attachment/content/75256)
+
+
+## 相關截圖
+
+![[../attachments/FE-1866/image-20260126-080855.png]]
+
+![[../attachments/FE-1866/image-20260126-081224.png]]
+
+![[../attachments/FE-1866/image-20260129-050631.png]]
+
+![[../attachments/FE-1866/image-20260129-051649.png]]
+
+![[../attachments/FE-1866/image-20260129-072825.png]]
+

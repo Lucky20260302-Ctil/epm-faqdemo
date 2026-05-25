@@ -43,3 +43,18 @@ Web.config 中的 LicConnection 設定值無效（Invalid），導致 MPOS API �
 - 組件: MPOS
 - 負責人: Sherman tse
 - 附件: [image-20250116-065523.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50587) | [image-20250116-065530.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50588) | [image-20250116-072647.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50593) | [image-20250116-080314.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50596) | [image-20250117-091849.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50674)
+
+
+## 相關截圖
+
+![[../attachments/MP-743/image-20250116-065523.jpg]]
+
+![[../attachments/MP-743/image-20250116-065530.jpg]]
+
+![[../attachments/MP-743/image-20250116-072647.jpg]]
+
+![[../attachments/MP-743/image-20250116-080314.jpg]]
+
+![[../attachments/MP-743/image-20250117-091849.png]]
+
+> 共 8 張截圖，[查看全部](../attachments/MP-743/)

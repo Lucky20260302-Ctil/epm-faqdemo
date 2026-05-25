@@ -42,3 +42,15 @@ POS 在計算找零時的捨入邏輯存在不一致：畫面顯示階段的 Cha
 - 組件: Front End
 - 負責人: Sherman tse
 - 附件: [image-20260210-014710.png](https://ctil.atlassian.net/rest/api/3/attachment/content/77484) | [image-20260210-031721.png](https://ctil.atlassian.net/rest/api/3/attachment/content/77511) | [image-20260210-031736.png](https://ctil.atlassian.net/rest/api/3/attachment/content/77510) | [image-20260210-031750.png](https://ctil.atlassian.net/rest/api/3/attachment/content/77512)
+
+
+## 相關截圖
+
+![[../attachments/FE-1882/image-20260210-014710.jpg]]
+
+![[../attachments/FE-1882/image-20260210-031721.png]]
+
+![[../attachments/FE-1882/image-20260210-031736.png]]
+
+![[../attachments/FE-1882/image-20260210-031750.png]]
+

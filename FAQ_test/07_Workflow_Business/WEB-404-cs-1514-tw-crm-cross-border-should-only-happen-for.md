@@ -44,3 +44,9 @@ BEGWCRM 與 BEAPICRM 服務在 AWS 上未依地區進行拆分部署，導致所
 - 組件: BEAPICRM
 - 負責人: Joy Li
 - 附件: [image-20250807-010942.png](https://ctil.atlassian.net/rest/api/3/attachment/content/62853)
+
+
+## 相關截圖
+
+![[../attachments/WEB-404/image-20250807-010942.jpg]]
+

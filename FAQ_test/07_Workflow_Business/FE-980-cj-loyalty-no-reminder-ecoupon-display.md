@@ -43,3 +43,13 @@ Coach版本v720.02R09之前的版本未正確處理eCoupon提醒的顯示邏輯�
 - 組件: Frontend
 - 負責人: howard
 - 附件: [image-2021-06-15-10-41-49-167.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37386) | [image-2021-06-15-10-43-25-317.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37394) | [image-2021-06-21-10-44-04-867.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37395)
+
+
+## 相關截圖
+
+![[../attachments/FE-980/image-2021-06-15-10-41-49-167.png]]
+
+![[../attachments/FE-980/image-2021-06-15-10-43-25-317.png]]
+
+![[../attachments/FE-980/image-2021-06-21-10-44-04-867.png]]
+

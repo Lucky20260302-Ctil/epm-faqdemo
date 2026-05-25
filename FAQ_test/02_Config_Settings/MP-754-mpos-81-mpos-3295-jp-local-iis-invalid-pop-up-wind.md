@@ -43,3 +43,18 @@ MPOS API 伺服器上的 dbCoachLocal.db 資料庫中，printReceiptFlow 參數�
 - 組件: MPOS
 - 負責人: Daniel Leung
 - 附件: [dbCoachLocal.db](https://ctil.atlassian.net/rest/api/3/attachment/content/52542) | [image-20250305-032154.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52491) | [image-20250305-032254.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52492) | [image-20250305-032417.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52493) | [image-20250305-033347.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52494)
+
+
+## 相關截圖
+
+![[../attachments/MP-754/image-20250305-032154.jpg]]
+
+![[../attachments/MP-754/image-20250305-032254.jpg]]
+
+![[../attachments/MP-754/image-20250305-032417.jpg]]
+
+![[../attachments/MP-754/image-20250305-033347.jpg]]
+
+![[../attachments/MP-754/image-20250305-080542.jpg]]
+
+> 共 6 張截圖，[查看全部](../attachments/MP-754/)

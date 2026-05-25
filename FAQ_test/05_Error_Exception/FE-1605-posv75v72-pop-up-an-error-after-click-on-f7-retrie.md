@@ -43,3 +43,9 @@ FE-1605: Pop up an error after click on 'F7 Retrieve Order'
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20250113-054931.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50250)
+
+
+## 相關截圖
+
+![[../attachments/FE-1605/image-20250113-054931.png]]
+

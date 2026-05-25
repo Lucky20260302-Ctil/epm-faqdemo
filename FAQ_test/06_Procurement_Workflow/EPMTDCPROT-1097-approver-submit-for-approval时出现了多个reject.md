@@ -39,3 +39,17 @@ EPMTDCPROT-1097: Approver submit for approval时出现了多个Reject
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1097/image-20250324-030416.jpg]]
+
+![[../attachments/EPMTDCPROT-1097/image-20250423-081803.jpg]]
+
+![[../attachments/EPMTDCPROT-1097/image-20250507-154950.jpg]]
+
+![[../attachments/EPMTDCPROT-1097/image-20250508-034355.jpg]]
+
+![[../attachments/EPMTDCPROT-1097/screenshot-link_att.jpg]]
+

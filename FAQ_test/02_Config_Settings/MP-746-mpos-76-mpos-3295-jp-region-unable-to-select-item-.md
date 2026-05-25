@@ -43,3 +43,13 @@ TblConfig 中的 mPosEncryptKey 設定值為 '0'（無效加密金鑰），導�
 - 組件: Frontend
 - 負責人: Daniel Leung
 - 附件: [202502141124040000.mp4](https://ctil.atlassian.net/rest/api/3/attachment/content/51676) | [image-2025-02-14-11-25-49-225.png](https://ctil.atlassian.net/rest/api/3/attachment/content/51675) | [image-20250217-031714.png](https://ctil.atlassian.net/rest/api/3/attachment/content/51691) | [image-20250217-085758.png](https://ctil.atlassian.net/rest/api/3/attachment/content/51777) | [MPOS logs MPOS-76_MPOS-77.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/51677)
+
+
+## 相關截圖
+
+![[../attachments/MP-746/image-2025-02-14-11-25-49-225.jpg]]
+
+![[../attachments/MP-746/image-20250217-031714.jpg]]
+
+![[../attachments/MP-746/image-20250217-085758.jpg]]
+

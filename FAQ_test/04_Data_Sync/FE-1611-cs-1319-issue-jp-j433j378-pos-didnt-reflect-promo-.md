@@ -43,3 +43,15 @@ Zlog 檔案 z241226.06 更新 dbmas 失敗（「Fail to update zfile」），導
 - 組件: DiscountVar
 - 負責人: Cy Lau
 - 附件: [image-20250120-073645.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50736) | [image-20250120-074219.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50735) | [image-20250122-023047.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50843) | [image-20250122-023444.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50844) | [J433.241226 log.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/50750)
+
+
+## 相關截圖
+
+![[../attachments/FE-1611/image-20250120-073645.jpg]]
+
+![[../attachments/FE-1611/image-20250120-074219.jpg]]
+
+![[../attachments/FE-1611/image-20250122-023047.jpg]]
+
+![[../attachments/FE-1611/image-20250122-023444.jpg]]
+

@@ -57,3 +57,18 @@ title: 'MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase 
   - [image-20250221-084249.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52003)
   - [vbretail.ini](https://ctil.atlassian.net/rest/api/3/attachment/content/51963)
   - [Web.config](https://ctil.atlassian.net/rest/api/3/attachment/content/51833)
+
+
+## 相關截圖
+
+![[../attachments/MP-747/image-2025-02-20-10-06-18-893.jpg]]
+
+![[../attachments/MP-747/image-2025-02-20-10-10-26-954.jpg]]
+
+![[../attachments/MP-747/image-20250217-055530.jpg]]
+
+![[../attachments/MP-747/image-20250217-064643.jpg]]
+
+![[../attachments/MP-747/image-20250217-073249.jpg]]
+
+> 共 14 張截圖，[查看全部](../attachments/MP-747/)

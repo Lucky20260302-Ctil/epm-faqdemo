@@ -43,3 +43,11 @@ BEAPI 對於不存在於 CRM 的會員回傳 jsonData 為 null，前端程式（
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20250331-074613.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54007) | [image-20250331-085033.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54015)
+
+
+## 相關截圖
+
+![[../attachments/FE-1665/image-20250331-074613.png]]
+
+![[../attachments/FE-1665/image-20250331-085033.png]]
+

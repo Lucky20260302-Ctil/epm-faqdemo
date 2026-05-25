@@ -45,3 +45,9 @@ MP-702: Japanese user login in MPOS which caused posting error
 - 組件: MPOS, MPOS API
 - 負責人: Joy Li
 - 附件: [image-20240528-084347.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41810) | [TestCase_CS-873.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/42036)
+
+
+## 相關截圖
+
+![[../attachments/MP-702/image-20240528-084347.jpg]]
+

@@ -43,3 +43,9 @@ Laser日結報表的PrintAgent在產生報表時，未正確根據當天實際�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20250711-103328.png](https://ctil.atlassian.net/rest/api/3/attachment/content/61708)
+
+
+## 相關截圖
+
+![[../attachments/FE-1728/image-20250711-103328.png]]
+

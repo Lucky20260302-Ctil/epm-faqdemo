@@ -43,3 +43,9 @@ FE-1438: REMS void memo will always return error message even though API returne
 - 組件: Front End
 - 負責人: Sang
 - 附件: [Untitled.jpg](https://ctil.atlassian.net/rest/api/3/attachment/content/42601)
+
+
+## 相關截圖
+
+![[../attachments/FE-1438/Untitled.jpg]]
+

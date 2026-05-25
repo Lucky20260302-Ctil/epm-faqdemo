@@ -43,3 +43,11 @@ BE-655: Cannot print Amendment list successfully after make an amendment of deli
 - 組件: Backend (Web)
 - 負責人: Ken Lam
 - 附件: [image-2022-09-22-10-54-41-283.png](https://ctil.atlassian.net/rest/api/3/attachment/content/39718) | [image-2023-02-15-17-18-29-867.png](https://ctil.atlassian.net/rest/api/3/attachment/content/39720)
+
+
+## 相關截圖
+
+![[../attachments/BE-655/image-2022-09-22-10-54-41-283.png]]
+
+![[../attachments/BE-655/image-2023-02-15-17-18-29-867.png]]
+

@@ -43,3 +43,9 @@ POS在檢查員工購買限額時，未先扣除MM折價券的折扣金額，導
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-2022-06-16-13-55-18-180.png](https://ctil.atlassian.net/rest/api/3/attachment/content/38301)
+
+
+## 相關截圖
+
+![[../attachments/FE-972/image-2022-06-16-13-55-18-180.png]]
+

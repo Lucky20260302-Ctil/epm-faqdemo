@@ -44,3 +44,9 @@ tblconfig 設定項 ValidateOnlineMember 預設值為 'N'，系統未對從會�
 - 組件: Frontend
 - 負責人: howard
 - 附件: [image-2021-05-04-16-24-44-125.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37338)
+
+
+## 相關截圖
+
+![[../attachments/FE-968/image-2021-05-04-16-24-44-125.png]]
+

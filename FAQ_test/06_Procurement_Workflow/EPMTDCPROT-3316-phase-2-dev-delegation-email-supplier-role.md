@@ -43,3 +43,15 @@ Supplier Role 委派電子郵件中，Delegator 與 Delegate-To 收到的任務�
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3316/image-20260114-033609.png]]
+
+![[../attachments/EPMTDCPROT-3316/image-20260114-033628.png]]
+
+![[../attachments/EPMTDCPROT-3316/image-20260114-033707.png]]
+
+![[../attachments/EPMTDCPROT-3316/image-20260116-071239.jpg]]
+

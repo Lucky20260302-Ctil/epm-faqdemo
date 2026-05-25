@@ -44,3 +44,18 @@ V75 升級過程中，cah.ini 設定檔被兩個來源覆蓋：1) InstallationSh
 - 組件: Front End
 - 負責人: Joy Li
 - 附件: [ac222b97-ef25-489b-b535-916a01f5fcdd.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59514) | [AdminUpdate.bat](https://ctil.atlassian.net/rest/api/3/attachment/content/59387) | [AdminUpdate (3c8ee31d-efc6-4c84-9f04-9ab12b8224b1).bat](https://ctil.atlassian.net/rest/api/3/attachment/content/59529) | [AdminUpdate (563609df-3e9d-4377-99ee-60d5b0838a49).bat](https://ctil.atlassian.net/rest/api/3/attachment/content/59533) | [AdminUpdate (7f72979e-8f20-4c7a-a73f-39812f04e9b3).bat](https://ctil.atlassian.net/rest/api/3/attachment/content/59495)
+
+
+## 相關截圖
+
+![[../attachments/FE-1713/ac222b97-ef25-489b-b535-916a01f5fcdd.png]]
+
+![[../attachments/FE-1713/image-20250611-072631.png]]
+
+![[../attachments/FE-1713/image-20250611-072816.png]]
+
+![[../attachments/FE-1713/image-20250611-072936.png]]
+
+![[../attachments/FE-1713/image-20250611-073007.png]]
+
+> 共 8 張截圖，[查看全部](../attachments/FE-1713/)

@@ -42,3 +42,18 @@ FE-1670: Unable to send eReceipt - JP CS2K v75.004.1200.0001
 - 組件: API
 - 負責人: Tovi Wang
 - 附件: [1EA47B32-111B-4DDD-85DE-3390C7E42E54-20250516-090909.png](https://ctil.atlassian.net/rest/api/3/attachment/content/57004) | [2B48D9C6-FADD-4C6C-A88A-E2E9213F42CA-20250516-083422.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56987) | [7153572C-B977-4833-B8BC-B1F195FA98BF-20250516-090714.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56989) | [A22286B1-275F-4BAD-AFCE-FBF97316FAA9-20250516-092625.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56995) | [CS-1403.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/55106)
+
+
+## 相關截圖
+
+![[../attachments/FE-1670/1EA47B32-111B-4DDD-85DE-3390C7E42E54-20250516-090909.png]]
+
+![[../attachments/FE-1670/2B48D9C6-FADD-4C6C-A88A-E2E9213F42CA-20250516-083422.png]]
+
+![[../attachments/FE-1670/7153572C-B977-4833-B8BC-B1F195FA98BF-20250516-090714.png]]
+
+![[../attachments/FE-1670/A22286B1-275F-4BAD-AFCE-FBF97316FAA9-20250516-092625.png]]
+
+![[../attachments/FE-1670/image-20250417-080612.jpg]]
+
+> 共 8 張截圖，[查看全部](../attachments/FE-1670/)

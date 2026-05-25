@@ -43,3 +43,18 @@ MPOS IPA 客戶端（v3.29.5-20250108.2）在處理 API 回傳的電子優惠券
 - 組件: MPOS
 - 負責人: Joseph_Hu
 - 附件: [2025-02-11.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/51464) | [202502121402400000.mp4](https://ctil.atlassian.net/rest/api/3/attachment/content/51468) | [image-20250211-154045.png](https://ctil.atlassian.net/rest/api/3/attachment/content/51448) | [image-20250211-163624.png](https://ctil.atlassian.net/rest/api/3/attachment/content/51450) | [image-20250211-164244.png](https://ctil.atlassian.net/rest/api/3/attachment/content/51451)
+
+
+## 相關截圖
+
+![[../attachments/MP-745/image-20250211-154045.jpg]]
+
+![[../attachments/MP-745/image-20250211-163624.png]]
+
+![[../attachments/MP-745/image-20250211-164244.png]]
+
+![[../attachments/MP-745/image-20250212-013533.png]]
+
+![[../attachments/MP-745/image-20250212-013634.png]]
+
+> 共 8 張截圖，[查看全部](../attachments/MP-745/)

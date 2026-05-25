@@ -43,3 +43,18 @@ EPMTDCPROT-3395: EPRO-938 [Production] Validation of Info Change form only check
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3395/image-20260205-033009.jpg]]
+
+![[../attachments/EPMTDCPROT-3395/image-20260205-033026.jpg]]
+
+![[../attachments/EPMTDCPROT-3395/image-20260205-033051.jpg]]
+
+![[../attachments/EPMTDCPROT-3395/image-20260205-033104.jpg]]
+
+![[../attachments/EPMTDCPROT-3395/image-20260205-061635.jpg]]
+
+> 共 14 張截圖，[查看全部](../attachments/EPMTDCPROT-3395/)

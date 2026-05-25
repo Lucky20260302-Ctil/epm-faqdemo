@@ -46,3 +46,15 @@ MPOS 3.29 開始支援 Member QR Code 的 Dynamic Token 功能，但因向後兼
 - Fix Version: MPOS API 3.29.6
 - 解決日期: 2025-07-09
 - 組件: MPOS
+
+
+## 相關截圖
+
+![[../attachments/MP-782/image-20250620-071426.jpg]]
+
+![[../attachments/MP-782/image-20250620-071458.jpg]]
+
+![[../attachments/MP-782/image-20250620-072518.jpg]]
+
+![[../attachments/MP-782/image-20250620-073623.jpg]]
+

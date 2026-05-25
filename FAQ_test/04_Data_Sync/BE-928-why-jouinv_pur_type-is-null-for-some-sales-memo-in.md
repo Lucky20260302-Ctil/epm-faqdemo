@@ -43,3 +43,17 @@ Coach 中國資料庫中，部分銷售備忘錄（deposit、void、return memo�
 - 組件: Backend (ChainStorePlus 7.0)
 - 負責人: Sang
 - 附件: [DBhist.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/49936) | [image-20241030-083418.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47555) | [image-20241030-084428.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47556) | [image-20250106-081040.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49940) | [image-20250106-083950.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49954)
+
+
+## 相關截圖
+
+![[../attachments/BE-928/image-20241030-083418.jpg]]
+
+![[../attachments/BE-928/image-20241030-084428.jpg]]
+
+![[../attachments/BE-928/image-20250106-081040.jpg]]
+
+![[../attachments/BE-928/image-20250106-083950.jpg]]
+
+![[../attachments/BE-928/image-20250106-084112.jpg]]
+

@@ -42,3 +42,9 @@ V75 版本中 VIP 會員資料的即時線上搜尋機制出現回歸問題（Re
 - 組件: Frontend
 - 負責人: Sang
 - 附件: [image-20260106-032841.png](https://ctil.atlassian.net/rest/api/3/attachment/content/72470)
+
+
+## 相關截圖
+
+![[../attachments/FE-1846/image-20260106-032841.jpg]]
+

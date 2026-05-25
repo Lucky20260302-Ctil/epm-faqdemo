@@ -44,3 +44,9 @@ SQL 查詢效能不佳，資料選取邏輯無 timeout 控制機制，預設無�
 - 組件: interface
 - 負責人: Joy Li
 - 附件: [image-20240425-073308.png](https://ctil.atlassian.net/rest/api/3/attachment/content/40811)
+
+
+## 相關截圖
+
+![[../attachments/WEB-343/image-20240425-073308.png]]
+

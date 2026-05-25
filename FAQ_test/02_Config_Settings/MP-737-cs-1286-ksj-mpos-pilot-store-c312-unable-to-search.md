@@ -43,3 +43,18 @@ MPOS C360 查詢流程未更新至與 FEPOS 相同的新架構（doSearchAdv）�
 - 組件: MPOS API
 - 負責人: Sherman tse
 - 附件: [image-20241211-054959.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49184) | [image-20241211-153744.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49206) | [image-20241211-153850.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49207) | [image-20241211-154830.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49208) | [image-20241212-015845.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49210)
+
+
+## 相關截圖
+
+![[../attachments/MP-737/image-20241211-054959.jpg]]
+
+![[../attachments/MP-737/image-20241211-153744.png]]
+
+![[../attachments/MP-737/image-20241211-153850.png]]
+
+![[../attachments/MP-737/image-20241211-154830.png]]
+
+![[../attachments/MP-737/image-20241212-015845.jpg]]
+
+> 共 8 張截圖，[查看全部](../attachments/MP-737/)

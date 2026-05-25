@@ -39,3 +39,18 @@ EPMTDCPROT-1107: Download Template - no value to download
 - Fix Version: 未標註
 - 分類: 報表與輸出
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1107/image-20250325-025305.jpg]]
+
+![[../attachments/EPMTDCPROT-1107/image-20250325-025311.jpg]]
+
+![[../attachments/EPMTDCPROT-1107/image-20250421-065541.jpg]]
+
+![[../attachments/EPMTDCPROT-1107/image-20250422-072415.jpg]]
+
+![[../attachments/EPMTDCPROT-1107/image-20250423-084903.jpg]]
+
+> 共 8 張截圖，[查看全部](../attachments/EPMTDCPROT-1107/)

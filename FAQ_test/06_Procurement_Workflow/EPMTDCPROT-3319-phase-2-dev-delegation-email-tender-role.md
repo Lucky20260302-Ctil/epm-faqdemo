@@ -43,3 +43,15 @@ Tender Role 委派電子郵件內容不一致，且 System Notification 未顯�
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3319/image-20260114-065435.png]]
+
+![[../attachments/EPMTDCPROT-3319/image-20260114-071318.png]]
+
+![[../attachments/EPMTDCPROT-3319/image-20260119-040221.jpg]]
+
+![[../attachments/EPMTDCPROT-3319/image-20260119-040511.jpg]]
+

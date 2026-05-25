@@ -44,3 +44,17 @@ TMU 模式的頁尾檔案設定在 tblconfig 中未正確配置。TMU 列印需�
 - **解決日期：** 2024-10-28
 - **組件：** Front End
 - **附件截圖：** [image-20241024-013530.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47344) [signal-2024-10-24-093659.jpeg](https://ctil.atlassian.net/rest/api/3/attachment/content/47342) [image-20241024-014735.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47348) [image-20241024-021309.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47352)
+
+
+## 相關截圖
+
+![[../attachments/FE-1539/image-20241024-013530.png]]
+
+![[../attachments/FE-1539/image-20241024-014735.png]]
+
+![[../attachments/FE-1539/image-20241024-021309.jpg]]
+
+![[../attachments/FE-1539/screenshot-link_att.jpg]]
+
+![[../attachments/FE-1539/signal-2024-10-24-093659.jpeg]]
+

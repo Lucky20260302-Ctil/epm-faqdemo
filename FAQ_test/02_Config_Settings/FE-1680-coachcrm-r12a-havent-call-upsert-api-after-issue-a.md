@@ -43,3 +43,9 @@ POS 建立新會員並完成交易後，系統未呼叫 upsert API 將新會員�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20250425-064220.png](https://ctil.atlassian.net/rest/api/3/attachment/content/55726)
+
+
+## 相關截圖
+
+![[../attachments/FE-1680/image-20250425-064220.png]]
+

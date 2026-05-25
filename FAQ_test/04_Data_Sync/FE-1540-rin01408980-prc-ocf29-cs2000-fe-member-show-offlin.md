@@ -42,3 +42,18 @@ CN V75版本將改由CRM直接擷取會員資料，因此不會再發生此問�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [DAL20241018_OCF1_Till7.log](https://ctil.atlassian.net/rest/api/3/attachment/content/47440) | [image-20241024-015401.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47349) | [image-20241024-015516.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47350) | [image-20241025-013530.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47376) | [image-20241025-061017.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47401)
+
+
+## 相關截圖
+
+![[../attachments/FE-1540/image-20241024-015401.jpg]]
+
+![[../attachments/FE-1540/image-20241024-015516.jpg]]
+
+![[../attachments/FE-1540/image-20241025-013530.jpg]]
+
+![[../attachments/FE-1540/image-20241025-061017.jpg]]
+
+![[../attachments/FE-1540/image-20241025-065135.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/FE-1540/)

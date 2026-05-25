@@ -43,3 +43,11 @@ ENABLEDASECROLE設定為'N'時，POS系統停用AD網域群組成員驗證，完
 - 組件: Front End v720.02
 - 負責人: Gavin Zhou
 - 附件: [image-20250320-053413.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53450) | [image-20250320-053601.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53449) | [RE_ RTM WIAM rollout plan.msg](https://ctil.atlassian.net/rest/api/3/attachment/content/53448)
+
+
+## 相關截圖
+
+![[../attachments/FE-1655/image-20250320-053413.png]]
+
+![[../attachments/FE-1655/image-20250320-053601.png]]
+

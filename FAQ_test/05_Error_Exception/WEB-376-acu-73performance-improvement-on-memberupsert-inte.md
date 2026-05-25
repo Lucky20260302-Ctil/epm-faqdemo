@@ -44,3 +44,13 @@ POS 的 member/upsert API 效能低落：單次呼叫回應時間超過 4 秒（
 - 組件: API
 - 負責人: Sherman tse
 - 附件: [CRM program logs.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/49017) | [image-20241205-062441.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49009) | [image-20241206-063233.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49052) | [image-20241206-064903.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49051) | [QA web21_beapi_apilog_20241205.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/49043)
+
+
+## 相關截圖
+
+![[../attachments/WEB-376/image-20241205-062441.jpg]]
+
+![[../attachments/WEB-376/image-20241206-063233.png]]
+
+![[../attachments/WEB-376/image-20241206-064903.png]]
+

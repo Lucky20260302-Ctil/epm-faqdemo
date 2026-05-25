@@ -42,3 +42,13 @@ FE-1755: CN Laser printer cannot reprint sales memo in till2 : Printing Error
 - 組件: Front End
 - 負責人: Tovi Wang
 - 附件: [CN OC63.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/65953) | [image-20250929-084132.png](https://ctil.atlassian.net/rest/api/3/attachment/content/65952) | [image-20250929-085410.png](https://ctil.atlassian.net/rest/api/3/attachment/content/65954) | [屏幕截图 2025-09-29 161507.png](https://ctil.atlassian.net/rest/api/3/attachment/content/65948)
+
+
+## 相關截圖
+
+![[../attachments/FE-1755/image-20250929-084132.png]]
+
+![[../attachments/FE-1755/image-20250929-085410.png]]
+
+![[../attachments/FE-1755/屏幕截图 2025-09-29 161507.png]]
+

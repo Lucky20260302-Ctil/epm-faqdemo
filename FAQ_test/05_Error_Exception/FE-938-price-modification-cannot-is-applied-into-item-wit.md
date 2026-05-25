@@ -44,3 +44,13 @@ FE-938: Price Modification cannot is applied into item with negative quantity (s
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-2021-03-19-10-35-55-212.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37318) | [image-2021-03-19-10-37-02-499.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37321) | [image-2021-03-19-16-51-41-621.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37327)
+
+
+## 相關截圖
+
+![[../attachments/FE-938/image-2021-03-19-10-35-55-212.png]]
+
+![[../attachments/FE-938/image-2021-03-19-10-37-02-499.png]]
+
+![[../attachments/FE-938/image-2021-03-19-16-51-41-621.png]]
+

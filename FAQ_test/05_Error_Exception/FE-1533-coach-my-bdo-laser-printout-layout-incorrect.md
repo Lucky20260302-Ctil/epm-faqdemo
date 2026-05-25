@@ -43,3 +43,11 @@ Coach MY BDO 雷射印表機列印 memo 時以直式（portrait）輸出，導�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [20241021_104323.jpg](https://ctil.atlassian.net/rest/api/3/attachment/content/47158) | [20241021_104327.jpg](https://ctil.atlassian.net/rest/api/3/attachment/content/47159)
+
+
+## 相關截圖
+
+![[../attachments/FE-1533/20241021_104323.jpg]]
+
+![[../attachments/FE-1533/20241021_104327.jpg]]
+

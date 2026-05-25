@@ -43,3 +43,9 @@ IPA 版本 v3.30.2 中電子收據（e-Receipt）功能判斷邏輯有誤，未�
 - 組件: MPOS
 - 負責人: Daniel Leung
 - 附件: [image-20250314-071649.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53115) | [Test case of MPOS-82-MPOS v3.30.2 - KSJ MPOS unable to print directly after issue sales memo.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/53232)
+
+
+## 相關截圖
+
+![[../attachments/MP-756/image-20250314-071649.png]]
+

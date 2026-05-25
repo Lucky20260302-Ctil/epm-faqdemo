@@ -43,3 +43,18 @@ Supplier Admin Role 委派電子郵件中，Delegator 與 Delegate-To 收到的�
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3317/image-20260114-055002.png]]
+
+![[../attachments/EPMTDCPROT-3317/image-20260114-055050.png]]
+
+![[../attachments/EPMTDCPROT-3317/image-20260114-070653.png]]
+
+![[../attachments/EPMTDCPROT-3317/image-20260119-064607.jpg]]
+
+![[../attachments/EPMTDCPROT-3317/image-20260119-064630.jpg]]
+
+> 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-3317/)

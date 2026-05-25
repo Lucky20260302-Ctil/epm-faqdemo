@@ -43,3 +43,9 @@ error logging 模組在處理 exception 時，content 欄位為 null 導致 null
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20260430-021506.png](https://ctil.atlassian.net/rest/api/3/attachment/content/85947)
+
+
+## 相關截圖
+
+![[../attachments/FE-1942/image-20260430-021506.jpg]]
+

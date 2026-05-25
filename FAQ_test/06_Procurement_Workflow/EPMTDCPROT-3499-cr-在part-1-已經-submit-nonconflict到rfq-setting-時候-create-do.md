@@ -43,3 +43,18 @@ EPMTDCPROT-3499: [CR] 在part 1 已經 submit NonConflict，到rfq setting 時�
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3499/image-20260413-073902.jpg]]
+
+![[../attachments/EPMTDCPROT-3499/image-20260413-074629.jpg]]
+
+![[../attachments/EPMTDCPROT-3499/image-20260413-074720.jpg]]
+
+![[../attachments/EPMTDCPROT-3499/image-20260413-074810.jpg]]
+
+![[../attachments/EPMTDCPROT-3499/image-20260413-075201.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/EPMTDCPROT-3499/)

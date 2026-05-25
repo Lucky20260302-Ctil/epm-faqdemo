@@ -43,3 +43,17 @@ Item Master Maintenance 程式在連續建立商品時，未正確清除/重置�
 - 組件: Backend (ChainStorePlus 7.0)
 - 負責人: Jerry Wong
 - 附件: [image-20250227-055449.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52229) | [image-20250227-055520.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52231) | [image-20250227-055611.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52233) | [image-20250227-055627.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52232) | [image-20250227-055738.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52230)
+
+
+## 相關截圖
+
+![[../attachments/BE-1012/image-20250227-055449.jpg]]
+
+![[../attachments/BE-1012/image-20250227-055520.jpg]]
+
+![[../attachments/BE-1012/image-20250227-055611.jpg]]
+
+![[../attachments/BE-1012/image-20250227-055627.jpg]]
+
+![[../attachments/BE-1012/image-20250227-055738.jpg]]
+

@@ -41,3 +41,17 @@ SPH 品牌 POS 在列印轉貨收據（Transfer Out Receipt）時彈出「Printi
 - Jira: [FE-1838](https://ctil.atlassian.net/browse/FE-1838)
 - 組件: Front End
 - 附件: [image-20251223-093609.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71607) | [image-20251223-093932.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71608) | [image-20251229-024759.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71814) | [image-20251229-030349.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71815) | [image-20251229-030437.png](https://ctil.atlassian.net/rest/api/3/attachment/content/71816)
+
+
+## 相關截圖
+
+![[../attachments/FE-1838/image-20251223-093609.jpg]]
+
+![[../attachments/FE-1838/image-20251223-093932.jpg]]
+
+![[../attachments/FE-1838/image-20251229-024759.jpg]]
+
+![[../attachments/FE-1838/image-20251229-030349.png]]
+
+![[../attachments/FE-1838/image-20251229-030437.png]]
+

@@ -43,3 +43,18 @@ V75 版本新增了線上會員驗證邏輯（Validate Online Member），當 C3
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20241226-095245.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49659) | [image-20241226-100137.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49660) | [image-20241226-101524.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49662) | [image-20241226-101733.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49663) | [image-20241231-040446.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49781)
+
+
+## 相關截圖
+
+![[../attachments/FE-1595/image-20241226-095245.jpg]]
+
+![[../attachments/FE-1595/image-20241226-100137.jpg]]
+
+![[../attachments/FE-1595/image-20241226-101524.jpg]]
+
+![[../attachments/FE-1595/image-20241226-101733.jpg]]
+
+![[../attachments/FE-1595/image-20241231-040446.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/FE-1595/)

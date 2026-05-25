@@ -47,3 +47,18 @@ When the backup folder does not exist or has incorrect settings, the COM port de
 - **Resolved:** 2025-07-11
 - **Components:** Front End
 - **Attachments:** [image-20250611-072631.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59389) | [image-20250611-072816.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59388) | [image-20250611-072936.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59386) | [image-20250611-073007.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59391) | [image-20250612-063415.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59454) | [image-20250612-095859.png](https://ctil.atlassian.net/rest/api/3/attachment/content/59494) | [AdminUpdate.bat](https://ctil.atlassian.net/rest/api/3/attachment/content/59387) | [cah.ini.bak](https://ctil.atlassian.net/rest/api/3/attachment/content/59390)
+
+
+## 相關截圖
+
+![[../attachments/FE-1713/ac222b97-ef25-489b-b535-916a01f5fcdd.png]]
+
+![[../attachments/FE-1713/image-20250611-072631.png]]
+
+![[../attachments/FE-1713/image-20250611-072816.png]]
+
+![[../attachments/FE-1713/image-20250611-072936.png]]
+
+![[../attachments/FE-1713/image-20250611-073007.png]]
+
+> 共 8 張截圖，[查看全部](../attachments/FE-1713/)

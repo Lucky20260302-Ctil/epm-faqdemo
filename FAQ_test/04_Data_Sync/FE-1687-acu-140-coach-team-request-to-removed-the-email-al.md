@@ -42,3 +42,18 @@ BEAPICRM 舊版本對 CRM API 回傳的 HTTP 200 但內容為 Customer not found
 - 組件: API
 - 負責人: Anson Cheung
 - 附件: [build.txt](https://ctil.atlassian.net/rest/api/3/attachment/content/56340) | [image-20250508-020216.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56244) | [image-20250508-020248.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56243) | [image-20250508-020316.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56245) | [image-20250508-020343.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56242)
+
+
+## 相關截圖
+
+![[../attachments/FE-1687/image-20250508-020216.jpg]]
+
+![[../attachments/FE-1687/image-20250508-020248.jpg]]
+
+![[../attachments/FE-1687/image-20250508-020316.jpg]]
+
+![[../attachments/FE-1687/image-20250508-020343.jpg]]
+
+![[../attachments/FE-1687/image-20250508-020527.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/FE-1687/)

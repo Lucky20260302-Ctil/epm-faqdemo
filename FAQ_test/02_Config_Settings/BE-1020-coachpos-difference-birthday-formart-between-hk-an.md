@@ -43,3 +43,9 @@ BE-1020: Difference birthday formart between HK and CN
 - 組件: MPOS
 - 負責人: Sang
 - 附件: [image-20250303-101748.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52400)
+
+
+## 相關截圖
+
+![[../attachments/BE-1020/image-20250303-101748.png]]
+

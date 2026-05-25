@@ -44,3 +44,9 @@ FE-1749: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available
 - 組件: Front End
 - 負責人: Daniel Leung
 - 附件: [image-20250901-094129.png](https://ctil.atlassian.net/rest/api/3/attachment/content/64486) | [purchaseHistory_region_string.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/64807) | [Test case of CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version - FE.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/64918) | [Test case of CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version -mpos.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/64919)
+
+
+## 相關截圖
+
+![[../attachments/FE-1749/image-20250901-094129.jpg]]
+

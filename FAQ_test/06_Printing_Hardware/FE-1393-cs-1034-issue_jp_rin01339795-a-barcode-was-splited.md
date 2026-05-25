@@ -44,3 +44,9 @@ POS 版本升級（V72 至 V75）後，條碼列印出現分裂/斷開的異常�
 - 組件: Front End
 - 負責人: Joy Li
 - 附件: [FE-1393- Backup layout.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/41686) | [image-20240521-055538.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41567)
+
+
+## 相關截圖
+
+![[../attachments/FE-1393/image-20240521-055538.png]]
+

@@ -42,3 +42,17 @@ Coach 支援團隊修正 Web 伺服器上的配置設定後問題已解決。若
 - 組件: interface
 - 負責人: Cy Lau
 - 附件: [apilog_ereceipt_v2_20260116.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/73606) | [eReceipt-20260116.log](https://ctil.atlassian.net/rest/api/3/attachment/content/73604) | [image-20260116-034942.png](https://ctil.atlassian.net/rest/api/3/attachment/content/73600) | [image-20260116-035145.png](https://ctil.atlassian.net/rest/api/3/attachment/content/73602) | [image-20260116-035705.png](https://ctil.atlassian.net/rest/api/3/attachment/content/73603)
+
+
+## 相關截圖
+
+![[../attachments/FE-1854/image-20260116-034942.png]]
+
+![[../attachments/FE-1854/image-20260116-035145.png]]
+
+![[../attachments/FE-1854/image-20260116-035705.png]]
+
+![[../attachments/FE-1854/image-20260116-035811.png]]
+
+![[../attachments/FE-1854/image-20260126-011031.png]]
+

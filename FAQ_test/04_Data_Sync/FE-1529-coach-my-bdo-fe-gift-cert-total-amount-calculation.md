@@ -44,3 +44,18 @@ POS 在寫入 PCD 記錄類型 '31'（禮券備忘錄）時，總金額欄位的
 - 組件: Front End
 - 負責人: Andy Ko
 - 附件: [image-20241018-033559.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47062) | [image-20241018-033658.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47061) | [image-20241019-014836.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47134) | [image-20241019-015023.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47135) | [image-20241019-015201.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47136)
+
+
+## 相關截圖
+
+![[../attachments/FE-1529/image-2024-10-19-22-43-48-078.png]]
+
+![[../attachments/FE-1529/image-20241018-033559.png]]
+
+![[../attachments/FE-1529/image-20241018-033658.png]]
+
+![[../attachments/FE-1529/image-20241019-014836.jpg]]
+
+![[../attachments/FE-1529/image-20241019-015023.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/FE-1529/)

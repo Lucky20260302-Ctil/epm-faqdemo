@@ -43,3 +43,11 @@ AO站點點擊「Save for Send to host」後無法列印Replenishment報表，�
 - 組件: Front End
 - 負責人: Sherman tse
 - 附件: [image-20251211-040626.png](https://ctil.atlassian.net/rest/api/3/attachment/content/70535) | [image-20251211-090209.png](https://ctil.atlassian.net/rest/api/3/attachment/content/70600)
+
+
+## 相關截圖
+
+![[../attachments/FE-1829/image-20251211-040626.jpg]]
+
+![[../attachments/FE-1829/image-20251211-090209.jpg]]
+

@@ -43,3 +43,13 @@ FE-1678: CAR Error - CN OCF85-00092252 Unknown vip type code 9999 04/17
 - 組件: API
 - 負責人: Anson Cheung
 - 附件: [image-20250424-065551.png](https://ctil.atlassian.net/rest/api/3/attachment/content/55641) | [image-20250424-065622.png](https://ctil.atlassian.net/rest/api/3/attachment/content/55640) | [image-20250424-065717.png](https://ctil.atlassian.net/rest/api/3/attachment/content/55639) | [PC250416.dat](https://ctil.atlassian.net/rest/api/3/attachment/content/55642) | [T9250416.dat](https://ctil.atlassian.net/rest/api/3/attachment/content/55643)
+
+
+## 相關截圖
+
+![[../attachments/FE-1678/image-20250424-065551.jpg]]
+
+![[../attachments/FE-1678/image-20250424-065622.jpg]]
+
+![[../attachments/FE-1678/image-20250424-065717.jpg]]
+

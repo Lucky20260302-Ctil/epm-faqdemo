@@ -42,3 +42,17 @@ FE-1706: Issue_PRC OSS_B file time is more than 30 minutes
 - 組件: Front End
 - 負責人: Joy Li
 - 附件: [image-20250530-073503.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58477) | [image-20250530-073837.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58479) | [image-20250530-074005.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58481) | [image-20250530-074100.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58480) | [image-20250530-074206.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58478)
+
+
+## 相關截圖
+
+![[../attachments/FE-1706/image-20250530-073503.jpg]]
+
+![[../attachments/FE-1706/image-20250530-073837.jpg]]
+
+![[../attachments/FE-1706/image-20250530-074005.jpg]]
+
+![[../attachments/FE-1706/image-20250530-074100.jpg]]
+
+![[../attachments/FE-1706/image-20250530-074206.jpg]]
+

@@ -39,3 +39,18 @@ EPMTDCPROT-1041: Document Pool Maintenance中，Search by Effective Date是没�
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1041/1.png]]
+
+![[../attachments/EPMTDCPROT-1041/2.png]]
+
+![[../attachments/EPMTDCPROT-1041/image-20250417-085128.jpg]]
+
+![[../attachments/EPMTDCPROT-1041/image-20250509-030046.jpg]]
+
+![[../attachments/EPMTDCPROT-1041/image-20250516-014029.jpg]]
+
+> 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-1041/)

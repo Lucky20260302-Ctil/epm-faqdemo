@@ -44,3 +44,15 @@ FE-971: Deposit Settlement should apply new CRM option UI (same as issuing Sales
 - 組件: Frontend
 - 負責人: howard
 - 附件: [image-2021-05-07-15-57-21-304.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37349) | [image-2021-05-07-15-57-52-474.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37353) | [image-2021-05-07-15-58-22-053.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37357) | [image-2021-05-13-10-01-35-722.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37362)
+
+
+## 相關截圖
+
+![[../attachments/FE-971/image-2021-05-07-15-57-21-304.png]]
+
+![[../attachments/FE-971/image-2021-05-07-15-57-52-474.png]]
+
+![[../attachments/FE-971/image-2021-05-07-15-58-22-053.png]]
+
+![[../attachments/FE-971/image-2021-05-13-10-01-35-722.png]]
+

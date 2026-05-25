@@ -44,3 +44,18 @@ Ecom 銷售匯入程式（Coach_ECOMM）使用的 erralert 類型為「I_ECOM_SA
 - 組件: Service
 - 負責人: Jerry Wong
 - 附件: [20250519ALCHKPOLL.txt](https://ctil.atlassian.net/rest/api/3/attachment/content/57106) | [ALCHKIMPORT14.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/57227) | [ALCHKPOLL13 Pro.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/57167) | [DAL20250519.log](https://ctil.atlassian.net/rest/api/3/attachment/content/57107) | [image-20250305-101307.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52576)
+
+
+## 相關截圖
+
+![[../attachments/FE-1638/image-20250305-101307.jpg]]
+
+![[../attachments/FE-1638/image-20250305-101334.jpg]]
+
+![[../attachments/FE-1638/image-20250520-032045.jpg]]
+
+![[../attachments/FE-1638/image-20250520-081606.jpg]]
+
+![[../attachments/FE-1638/image-20250520-082312.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/FE-1638/)

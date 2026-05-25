@@ -39,3 +39,15 @@ Why is the 'To' field missing in the email log after sending supplier pre-regist
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3291/image-20260108-100536.jpg]]
+
+![[../attachments/EPMTDCPROT-3291/image-20260109-024915.jpg]]
+
+![[../attachments/EPMTDCPROT-3291/image-20260109-025234.jpg]]
+
+![[../attachments/EPMTDCPROT-3291/image-20260109-060913.jpg]]
+

@@ -44,3 +44,9 @@ FE-1522: V75 Void Gift Cert caused posting error (DB Null)
 - 組件: Front End
 - 負責人: Jason Wu
 - 附件: [75.004.0501.0000_20241017.msg](https://ctil.atlassian.net/rest/api/3/attachment/content/47072) | [image-20241009-091113.png](https://ctil.atlassian.net/rest/api/3/attachment/content/46630)
+
+
+## 相關截圖
+
+![[../attachments/FE-1522/image-20241009-091113.jpg]]
+

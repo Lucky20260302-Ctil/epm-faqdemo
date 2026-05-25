@@ -43,3 +43,18 @@ BE API 修正版本 v1.7.12_20250326：新增檢查邏輯，當 Acxiom CRM 回�
 - 組件: Front End
 - 負責人: Sherman tse
 - 附件: [ACU-138.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/53742) | [beapi_apilog_20250325.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/53772) | [image-20250325-130157.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53740) | [image-20250325-130243.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53739) | [image-20250325-130303.png](https://ctil.atlassian.net/rest/api/3/attachment/content/53741)
+
+
+## 相關截圖
+
+![[../attachments/FE-1660/image-20250325-130157.jpg]]
+
+![[../attachments/FE-1660/image-20250325-130243.jpg]]
+
+![[../attachments/FE-1660/image-20250325-130303.jpg]]
+
+![[../attachments/FE-1660/image-20250326-021522.jpg]]
+
+![[../attachments/FE-1660/image-20250326-023106.jpg]]
+
+> 共 9 張截圖，[查看全部](../attachments/FE-1660/)

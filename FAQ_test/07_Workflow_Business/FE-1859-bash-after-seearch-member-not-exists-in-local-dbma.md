@@ -42,3 +42,11 @@ Ba&sh 品牌 POS 升級至 v750.05R03 後，當透過 BEDB（CS2000）連線搜�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20260123-082332.png](https://ctil.atlassian.net/rest/api/3/attachment/content/74513) | [image-20260123-091210.png](https://ctil.atlassian.net/rest/api/3/attachment/content/74525)
+
+
+## 相關截圖
+
+![[../attachments/FE-1859/image-20260123-082332.png]]
+
+![[../attachments/FE-1859/image-20260123-091210.png]]
+

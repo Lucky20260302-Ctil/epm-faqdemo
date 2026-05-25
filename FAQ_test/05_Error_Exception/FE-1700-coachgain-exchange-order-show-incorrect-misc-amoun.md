@@ -43,3 +43,13 @@ POS 前端在處理 Exchange + Gain 退款流程中，當用戶於付款步驟�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20250522-094910.png](https://ctil.atlassian.net/rest/api/3/attachment/content/57743) | [image-20250529-073941.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58374) | [image-20250529-073952.png](https://ctil.atlassian.net/rest/api/3/attachment/content/58375)
+
+
+## 相關截圖
+
+![[../attachments/FE-1700/image-20250522-094910.png]]
+
+![[../attachments/FE-1700/image-20250529-073941.png]]
+
+![[../attachments/FE-1700/image-20250529-073952.png]]
+

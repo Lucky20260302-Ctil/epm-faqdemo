@@ -43,3 +43,11 @@ BE-945:  Got timeout error after process Backend data sync
 - 組件: Data Interface
 - 負責人: Anson Cheung
 - 附件: [CRM-20241115.log](https://ctil.atlassian.net/rest/api/3/attachment/content/48316) | [CRM-ERROR-20241115.log](https://ctil.atlassian.net/rest/api/3/attachment/content/48315) | [image-20241115-060656.png](https://ctil.atlassian.net/rest/api/3/attachment/content/48317)
+
+
+## 相關截圖
+
+![[../attachments/BE-945/image-20241115-060656.png]]
+
+![[../attachments/BE-945/screenshot-link_att.jpg]]
+

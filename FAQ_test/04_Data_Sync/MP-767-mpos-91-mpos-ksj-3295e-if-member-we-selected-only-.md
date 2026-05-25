@@ -44,3 +44,18 @@ MQPolling.exe 在處理含有特定 VIP 名稱（由住家電話搜尋回傳）�
 - 組件: MPOS
 - 負責人: Joy Li
 - 附件: [8a6e12d2-1c1f-47fa-8120-594cbde9f439.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56836) | [image (4).png](https://ctil.atlassian.net/rest/api/3/attachment/content/56880) | [image-20250414-100452.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54948) | [image-20250414-100612.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54946) | [image-20250414-100855.png](https://ctil.atlassian.net/rest/api/3/attachment/content/54947)
+
+
+## 相關截圖
+
+![[../attachments/MP-767/8a6e12d2-1c1f-47fa-8120-594cbde9f439.jpg]]
+
+![[../attachments/MP-767/image (4).jpg]]
+
+![[../attachments/MP-767/image-20250414-100452.jpg]]
+
+![[../attachments/MP-767/image-20250414-100612.jpg]]
+
+![[../attachments/MP-767/image-20250414-100855.jpg]]
+
+> 共 11 張截圖，[查看全部](../attachments/MP-767/)

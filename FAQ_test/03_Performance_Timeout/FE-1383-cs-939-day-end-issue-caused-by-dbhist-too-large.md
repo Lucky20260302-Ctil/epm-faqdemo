@@ -44,3 +44,11 @@ jouprint 表沒有 purge 機制，隨著交易量增加，dbhist.sdf 不斷增�
 - 組件: Day End
 - 負責人: Joy Li
 - 附件: [image-20240513-031533.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41308) | [image-20240513-031923.png](https://ctil.atlassian.net/rest/api/3/attachment/content/41307)
+
+
+## 相關截圖
+
+![[../attachments/FE-1383/image-20240513-031533.png]]
+
+![[../attachments/FE-1383/image-20240513-031923.png]]
+

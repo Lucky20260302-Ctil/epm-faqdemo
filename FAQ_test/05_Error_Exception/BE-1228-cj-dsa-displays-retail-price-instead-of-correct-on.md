@@ -42,3 +42,18 @@ PriceChecker API 驗證 OnSalePricing 時，fromDateTime 與 toDateTime 皆為�
 - 組件: API
 - 負責人: Daniel Leung
 - 附件: [image (12).png](https://ctil.atlassian.net/rest/api/3/attachment/content/78979) | [image-20260130-073700.png](https://ctil.atlassian.net/rest/api/3/attachment/content/75560) | [image-20260130-073709.png](https://ctil.atlassian.net/rest/api/3/attachment/content/75561) | [image-20260130-073718.png](https://ctil.atlassian.net/rest/api/3/attachment/content/75559) | [image-20260130-073809.png](https://ctil.atlassian.net/rest/api/3/attachment/content/75564)
+
+
+## 相關截圖
+
+![[../attachments/BE-1228/image (12).jpg]]
+
+![[../attachments/BE-1228/image-20260130-073700.jpg]]
+
+![[../attachments/BE-1228/image-20260130-073709.jpg]]
+
+![[../attachments/BE-1228/image-20260130-073718.jpg]]
+
+![[../attachments/BE-1228/image-20260130-073809.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/BE-1228/)

@@ -43,3 +43,11 @@ Email 搜尋功能查詢的是 vipemail 資料表而非 vip 資料表，導致�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [Dbtrans.sdf](https://ctil.atlassian.net/rest/api/3/attachment/content/44889) | [image-20240820-030631.png](https://ctil.atlassian.net/rest/api/3/attachment/content/44888) | [vbretail.ini](https://ctil.atlassian.net/rest/api/3/attachment/content/44887)
+
+
+## 相關截圖
+
+![[../attachments/FE-1486/image-20240820-030631.png]]
+
+![[../attachments/FE-1486/screenshot-link_att.jpg]]
+

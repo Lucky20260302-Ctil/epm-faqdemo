@@ -43,3 +43,11 @@ POS 系統透過 BEAPI 更新後端 VIP 記錄時，若 CRM 回傳的會員有�
 - 組件: API
 - 負責人: Sherman tse
 - 附件: [image-20250115-093123.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50529) | [image-20250303-102424.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52401) | [Test case of ACU-109-Incorrect Member data in Member Sync API (AutoRecovered).xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/52408)
+
+
+## 相關截圖
+
+![[../attachments/BE-986/image-20250115-093123.png]]
+
+![[../attachments/BE-986/image-20250303-102424.png]]
+

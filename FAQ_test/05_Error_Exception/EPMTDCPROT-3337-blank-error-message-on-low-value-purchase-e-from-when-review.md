@@ -43,3 +43,13 @@ EPMTDCPROT-3337: Blank error message on low value purchase e-from when review an
 - Fix Version: 未標註
 - 分類: 錯誤與異常
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3337/image-20260119-035524.jpg]]
+
+![[../attachments/EPMTDCPROT-3337/image-20260506-084956.jpg]]
+
+![[../attachments/EPMTDCPROT-3337/image-20260506-085022.jpg]]
+

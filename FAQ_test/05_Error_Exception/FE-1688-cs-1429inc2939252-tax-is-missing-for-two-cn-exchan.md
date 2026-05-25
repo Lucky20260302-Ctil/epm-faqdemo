@@ -44,3 +44,18 @@ CN 門店 V75 在進行換貨交易時，jouinv_vat_value 與 jouinv_gst_per 欄
 - 組件: Frontend
 - 負責人: Sherman tse
 - 附件: [image-20250508-051310.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56308) | [image-20250508-051353.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56309) | [image-20250508-052251.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56310) | [image-20250508-053444.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56311) | [image-20250508-054241.png](https://ctil.atlassian.net/rest/api/3/attachment/content/56314)
+
+
+## 相關截圖
+
+![[../attachments/FE-1688/image-20250508-051310.jpg]]
+
+![[../attachments/FE-1688/image-20250508-051353.jpg]]
+
+![[../attachments/FE-1688/image-20250508-052251.jpg]]
+
+![[../attachments/FE-1688/image-20250508-053444.jpg]]
+
+![[../attachments/FE-1688/image-20250508-054241.jpg]]
+
+> 共 7 張截圖，[查看全部](../attachments/FE-1688/)

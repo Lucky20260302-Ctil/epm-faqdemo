@@ -43,3 +43,18 @@ DOI 功能模組僅在 Change Request 相關流程中觸發，未針對 Supplier
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-3550/image-20260429-093859.jpg]]
+
+![[../attachments/EPMTDCPROT-3550/image-20260520-094611.jpg]]
+
+![[../attachments/EPMTDCPROT-3550/image-20260520-094629.jpg]]
+
+![[../attachments/EPMTDCPROT-3550/image-20260520-094650.jpg]]
+
+![[../attachments/EPMTDCPROT-3550/image-20260520-094711.jpg]]
+
+> 共 16 張截圖，[查看全部](../attachments/EPMTDCPROT-3550/)

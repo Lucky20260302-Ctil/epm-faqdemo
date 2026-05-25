@@ -43,3 +43,13 @@ tblconfig 中的 ZlogFileType（PCD 分隔符號設定）未能從 'F'（固定�
 - 組件: Front End
 - 負責人: Sang
 - 附件: [screenshot-1.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37892) | [screenshot-2.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37894) | [ZlogFileType Setting.png](https://ctil.atlassian.net/rest/api/3/attachment/content/37891)
+
+
+## 相關截圖
+
+![[../attachments/FE-1312/ZlogFileType Setting.png]]
+
+![[../attachments/FE-1312/screenshot-1.png]]
+
+![[../attachments/FE-1312/screenshot-2.png]]
+

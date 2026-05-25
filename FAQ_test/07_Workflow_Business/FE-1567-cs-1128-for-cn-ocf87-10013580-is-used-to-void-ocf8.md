@@ -45,3 +45,18 @@ FE-1567: For CN OCF87-10013580 is used to void OCF87-10013577 on 2024-08-09, why
 - 組件: Deposit, Payment, Sales
 - 負責人: Sherman tse
 - 附件: [image-20241121-021722.png](https://ctil.atlassian.net/rest/api/3/attachment/content/48507) | [image-20241121-021911.png](https://ctil.atlassian.net/rest/api/3/attachment/content/48506) | [image-20241121-022358.png](https://ctil.atlassian.net/rest/api/3/attachment/content/48508) | [image-20241121-025721.png](https://ctil.atlassian.net/rest/api/3/attachment/content/48509) | [image-20241121-031347.png](https://ctil.atlassian.net/rest/api/3/attachment/content/48515)
+
+
+## 相關截圖
+
+![[../attachments/FE-1567/image-20241121-021722.jpg]]
+
+![[../attachments/FE-1567/image-20241121-021911.jpg]]
+
+![[../attachments/FE-1567/image-20241121-022358.jpg]]
+
+![[../attachments/FE-1567/image-20241121-025721.jpg]]
+
+![[../attachments/FE-1567/image-20241121-031347.jpg]]
+
+> 共 12 張截圖，[查看全部](../attachments/FE-1567/)

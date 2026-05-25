@@ -39,3 +39,11 @@ EPMTDCPROT-1275: Missing Select Draft Procurement Strategy from Pre-Reg e-form
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1275/image-20250417-053835.jpg]]
+
+![[../attachments/EPMTDCPROT-1275/image-20250603-093633.jpg]]
+

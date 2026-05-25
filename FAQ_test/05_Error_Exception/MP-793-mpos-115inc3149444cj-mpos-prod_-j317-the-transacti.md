@@ -44,3 +44,9 @@ mPOS 在重新連線至 SalesHub 的過程中存在 UI 層級 Bug，重新連線
 - 組件: MPOS
 - 負責人: Daniel Leung
 - 附件: [image-20250827-083816.png](https://ctil.atlassian.net/rest/api/3/attachment/content/64279) | [J317.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/63711) | [Test case of [MPOS-115][INC3149444]CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub.xlsx](https://ctil.atlassian.net/rest/api/3/attachment/content/64493) | [video_574897147062255875-Ub70KESy.mov](https://ctil.atlassian.net/rest/api/3/attachment/content/63710)
+
+
+## 相關截圖
+
+![[../attachments/MP-793/image-20250827-083816.jpg]]
+

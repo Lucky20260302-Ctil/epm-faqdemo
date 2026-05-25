@@ -44,3 +44,11 @@ FE-1546: Fail to pop up member creation screen after scan a new wechat QR code
 - 組件: Front End
 - 負責人: Sherman tse
 - 附件: [image-20241101-084227.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47634) | [image-20241101-095340.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47657)
+
+
+## 相關截圖
+
+![[../attachments/FE-1546/image-20241101-084227.png]]
+
+![[../attachments/FE-1546/image-20241101-095340.jpg]]
+

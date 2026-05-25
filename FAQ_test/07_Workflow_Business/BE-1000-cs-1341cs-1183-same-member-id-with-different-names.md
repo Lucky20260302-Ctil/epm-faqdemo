@@ -42,3 +42,18 @@ BE-1000: Same Member ID with different names and mobile numbers
 - 組件: eName
 - 負責人: Anson Cheung
 - 附件: [ENameCustomLog_20240128.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/51366) | [ENameCustomLog_20240428.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/51371) | [ENameCustomLog_20240529.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/51372) | [ENameCustomLog_20240919.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/51370) | [ENameCustomLog_20240920.sqlite](https://ctil.atlassian.net/rest/api/3/attachment/content/51267)
+
+
+## 相關截圖
+
+![[../attachments/BE-1000/Image20250206094737 (e1e7634a-f848-4d2c-b8c0-4c761584c6c4).png]]
+
+![[../attachments/BE-1000/image-20250206-014704.jpg]]
+
+![[../attachments/BE-1000/image-20250206-014722.jpg]]
+
+![[../attachments/BE-1000/image-20250206-034352.jpg]]
+
+![[../attachments/BE-1000/image-20250206-051618.jpg]]
+
+> 共 12 張截圖，[查看全部](../attachments/BE-1000/)

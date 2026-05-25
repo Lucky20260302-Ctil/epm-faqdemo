@@ -39,3 +39,11 @@ EPMTDCPROT-1277: Tender Issue e-form - Exception Approval required for the time 
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-1277/notShow.jpg]]
+
+![[../attachments/EPMTDCPROT-1277/show.jpg]]
+

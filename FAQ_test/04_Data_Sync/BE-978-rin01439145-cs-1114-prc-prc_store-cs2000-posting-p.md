@@ -42,3 +42,18 @@ BE-978: PRC - PRC_Store - CS2000 - Posting : Posting Main terminated
 - 組件: Backend (ChainStorePlus 7.0)
 - 負責人: Cy Lau
 - 附件: [20250106.zip](https://ctil.atlassian.net/rest/api/3/attachment/content/49993) | [image-20250106-102908.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49974) | [image-20250106-103131.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49975) | [image-20250106-103225.png](https://ctil.atlassian.net/rest/api/3/attachment/content/49976) | [image-20250107-061807.png](https://ctil.atlassian.net/rest/api/3/attachment/content/50001)
+
+
+## 相關截圖
+
+![[../attachments/BE-978/image-20250106-102908.jpg]]
+
+![[../attachments/BE-978/image-20250106-103131.jpg]]
+
+![[../attachments/BE-978/image-20250106-103225.jpg]]
+
+![[../attachments/BE-978/image-20250107-061807.jpg]]
+
+![[../attachments/BE-978/image-20250205-135400.jpg]]
+
+> 共 9 張截圖，[查看全部](../attachments/BE-978/)

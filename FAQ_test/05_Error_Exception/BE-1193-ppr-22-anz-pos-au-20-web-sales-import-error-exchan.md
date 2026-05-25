@@ -42,3 +42,13 @@ BE-1193: ANZ POS - AU 20 Web sales import error - Exchange rate not found
 - 組件: Data Interface
 - 負責人: Tovi Wang
 - 附件: [image-20251029-084549.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67692) | [image-20251029-085423.png](https://ctil.atlassian.net/rest/api/3/attachment/content/67695) | [WEB_SALES_20251023000001_OCA213.TXT](https://ctil.atlassian.net/rest/api/3/attachment/content/67693) | [WEB_SALES_20251029000001_OCA213.TXT](https://ctil.atlassian.net/rest/api/3/attachment/content/67694) | [WEB_SALES_20251029000002_OCA213.TXT](https://ctil.atlassian.net/rest/api/3/attachment/content/67696)
+
+
+## 相關截圖
+
+![[../attachments/BE-1193/image-20251029-084549.png]]
+
+![[../attachments/BE-1193/image-20251029-085423.png]]
+
+![[../attachments/BE-1193/screenshot-link_att.jpg]]
+

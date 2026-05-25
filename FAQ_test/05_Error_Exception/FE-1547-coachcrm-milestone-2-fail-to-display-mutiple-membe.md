@@ -43,3 +43,11 @@ FE-1547: Fail to display mutiple member results when backend DB has more than 1 
 - 組件: Front End
 - 負責人: Sang
 - 附件: [image-20241104-104502.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47701) | [image-20241105-023351.png](https://ctil.atlassian.net/rest/api/3/attachment/content/47937)
+
+
+## 相關截圖
+
+![[../attachments/FE-1547/image-20241104-104502.jpg]]
+
+![[../attachments/FE-1547/image-20241105-023351.png]]
+

@@ -45,3 +45,9 @@ BEAPI 在處理 CN 會員建立時，VIP 編號（vip no.）生成失敗，導�
 - **組件：** Front End
 - **附件截圖：**
   - [image-20250307-063356.png](https://ctil.atlassian.net/rest/api/3/attachment/content/52698)
+
+
+## 相關截圖
+
+![[../attachments/FE-1643/image-20250307-063356.jpg]]
+

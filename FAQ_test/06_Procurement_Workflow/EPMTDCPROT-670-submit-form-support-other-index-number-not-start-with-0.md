@@ -43,3 +43,13 @@ Workflow service 與 validation service 中的 Form Object converter 在解析�
 - Fix Version: 未標註
 - 分類: 採購流程
 - 專案: EPMTDCPROT
+
+
+## 相關截圖
+
+![[../attachments/EPMTDCPROT-670/image-20241008-020308.png]]
+
+![[../attachments/EPMTDCPROT-670/image-20241008-020353.png]]
+
+![[../attachments/EPMTDCPROT-670/image-20241008-070959.jpg]]
+

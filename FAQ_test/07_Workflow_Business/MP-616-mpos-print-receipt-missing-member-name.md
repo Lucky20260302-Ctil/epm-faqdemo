@@ -43,3 +43,13 @@ MPOS 建立銷售備忘錄並選擇會員後，列印出的收據僅顯示會員
 - 組件: MPOS
 - 負責人: Cy Lau
 - 附件: [image-2022-12-16-18-13-59-960.png](https://ctil.atlassian.net/rest/api/3/attachment/content/40519) | [Screenshot_19.png](https://ctil.atlassian.net/rest/api/3/attachment/content/40516) | [Screenshot_20.png](https://ctil.atlassian.net/rest/api/3/attachment/content/40517) | [vbretail.ini](https://ctil.atlassian.net/rest/api/3/attachment/content/40522)
+
+
+## 相關截圖
+
+![[../attachments/MP-616/Screenshot_19.png]]
+
+![[../attachments/MP-616/Screenshot_20.png]]
+
+![[../attachments/MP-616/image-2022-12-16-18-13-59-960.png]]
+

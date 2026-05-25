@@ -44,3 +44,9 @@ FE-812: void sales transaction can use cash coupon, but Void sales cash coupon s
 - 組件: Sales
 - 負責人: Derek_Leung
 - 附件: [image-2020-10-22-12-13-43-466.png](https://ctil.atlassian.net/rest/api/3/attachment/content/38756)
+
+
+## 相關截圖
+
+![[../attachments/FE-812/image-2020-10-22-12-13-43-466.png]]
+
