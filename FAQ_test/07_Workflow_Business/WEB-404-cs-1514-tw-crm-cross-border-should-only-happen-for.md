@@ -48,5 +48,5 @@ BEGWCRM 與 BEAPICRM 服務在 AWS 上未依地區進行拆分部署，導致所
 
 ## 相關截圖
 
-<img src="../attachments/WEB-404/image-20250807-010942.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/WEB-404/image-20250807-010942.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

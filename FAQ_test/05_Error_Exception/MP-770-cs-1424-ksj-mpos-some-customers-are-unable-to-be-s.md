@@ -48,14 +48,14 @@ mPOS 的 GetMember 流程在 C360 查詢會員後，會對會員類型進行驗�
 
 ## 相關截圖
 
-<img src="../attachments/MP-770/image-20250507-115610.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-770/image-20250507-115610.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-770/image-20250507-123119.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-770/image-20250507-123119.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-770/image-20250507-125233.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-770/image-20250507-125233.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-770/image-20250508-083619.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-770/image-20250508-083619.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-770/image-20250508-084230.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-770/image-20250508-084230.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 7 張截圖，[查看全部](../attachments/MP-770/)
+> 共 7 張截圖，[查看全部](/FAQ_test/attachments/MP-770/)

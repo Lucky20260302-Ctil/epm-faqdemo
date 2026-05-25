@@ -48,14 +48,14 @@ MQPolling.exe 在處理含有特定 VIP 名稱（由住家電話搜尋回傳）�
 
 ## 相關截圖
 
-<img src="../attachments/MP-767/8a6e12d2-1c1f-47fa-8120-594cbde9f439.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-767/8a6e12d2-1c1f-47fa-8120-594cbde9f439.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-767/image (4" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
+<img src="/FAQ_test/attachments/MP-767/image (4" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
 
-<img src="../attachments/MP-767/image-20250414-100452.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-767/image-20250414-100452.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-767/image-20250414-100612.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-767/image-20250414-100612.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-767/image-20250414-100855.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-767/image-20250414-100855.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 11 張截圖，[查看全部](../attachments/MP-767/)
+> 共 11 張截圖，[查看全部](/FAQ_test/attachments/MP-767/)

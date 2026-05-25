@@ -48,5 +48,5 @@ FE-812: void sales transaction can use cash coupon, but Void sales cash coupon s
 
 ## 相關截圖
 
-<img src="../attachments/FE-812/image-2020-10-22-12-13-43-466.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-812/image-2020-10-22-12-13-43-466.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

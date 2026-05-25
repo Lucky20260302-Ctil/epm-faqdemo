@@ -47,14 +47,14 @@ EPMTDCPROT-3602: [CR Supplier] full-reg info change / pre-reg info change / br u
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3602/image-20260520-060505.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3602/image-20260520-060505.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3602/image-20260520-060544.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3602/image-20260520-060544.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3602/image-20260520-060554.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3602/image-20260520-060554.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3602/image-20260520-060637.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3602/image-20260520-060637.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3602/image-20260520-093902.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3602/image-20260520-093902.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 6 張截圖，[查看全部](../attachments/EPMTDCPROT-3602/)
+> 共 6 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-3602/)

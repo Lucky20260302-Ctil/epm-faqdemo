@@ -47,9 +47,9 @@ FE-1678: CAR Error - CN OCF85-00092252 Unknown vip type code 9999 04/17
 
 ## 相關截圖
 
-<img src="../attachments/FE-1678/image-20250424-065551.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1678/image-20250424-065551.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1678/image-20250424-065622.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1678/image-20250424-065622.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1678/image-20250424-065717.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1678/image-20250424-065717.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

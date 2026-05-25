@@ -46,14 +46,14 @@ PriceChecker API 驗證 OnSalePricing 時，fromDateTime 與 toDateTime 皆為�
 
 ## 相關截圖
 
-<img src="../attachments/BE-1228/image (12" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
+<img src="/FAQ_test/attachments/BE-1228/image (12" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
 
-<img src="../attachments/BE-1228/image-20260130-073700.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1228/image-20260130-073700.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1228/image-20260130-073709.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1228/image-20260130-073709.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1228/image-20260130-073718.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1228/image-20260130-073718.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1228/image-20260130-073809.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1228/image-20260130-073809.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 7 張截圖，[查看全部](../attachments/BE-1228/)
+> 共 7 張截圖，[查看全部](/FAQ_test/attachments/BE-1228/)

@@ -46,13 +46,13 @@ Coach 支援團隊修正 Web 伺服器上的配置設定後問題已解決。若
 
 ## 相關截圖
 
-<img src="../attachments/FE-1854/image-20260116-034942.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1854/image-20260116-034942.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1854/image-20260116-035145.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1854/image-20260116-035145.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1854/image-20260116-035705.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1854/image-20260116-035705.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1854/image-20260116-035811.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1854/image-20260116-035811.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1854/image-20260126-011031.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1854/image-20260126-011031.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

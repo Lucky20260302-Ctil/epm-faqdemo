@@ -47,5 +47,5 @@ POS在檢查員工購買限額時，未先扣除MM折價券的折扣金額，導
 
 ## 相關截圖
 
-<img src="../attachments/FE-972/image-2022-06-16-13-55-18-180.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-972/image-2022-06-16-13-55-18-180.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

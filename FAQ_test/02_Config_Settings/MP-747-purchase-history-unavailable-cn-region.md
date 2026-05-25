@@ -61,14 +61,14 @@ title: 'MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase 
 
 ## 相關截圖
 
-<img src="../attachments/MP-747/image-2025-02-20-10-06-18-893.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-747/image-2025-02-20-10-06-18-893.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-747/image-2025-02-20-10-10-26-954.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-747/image-2025-02-20-10-10-26-954.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-747/image-20250217-055530.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-747/image-20250217-055530.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-747/image-20250217-064643.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-747/image-20250217-064643.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-747/image-20250217-073249.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-747/image-20250217-073249.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 14 張截圖，[查看全部](../attachments/MP-747/)
+> 共 14 張截圖，[查看全部](/FAQ_test/attachments/MP-747/)

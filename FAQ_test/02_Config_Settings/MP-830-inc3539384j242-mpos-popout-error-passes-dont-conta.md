@@ -46,11 +46,11 @@ MPOS 的 xconfig 設定檔內容異常或損壞，導致掃描 QR Code 時 Pass 
 
 ## 相關截圖
 
-<img src="../attachments/MP-830/image-20260428-015657.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-830/image-20260428-015657.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-830/image-20260428-015906.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-830/image-20260428-015906.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-830/image-20260428-020901.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-830/image-20260428-020901.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-830/screenshot-85532_st.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-830/screenshot-85532_st.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -48,14 +48,14 @@ Anson Cheung 修改 CRM BEAPI 的 upsert 邏輯，使其能正確處理 birth_da
 
 ## 相關截圖
 
-<img src="../attachments/FE-1711/image-20250611-033259.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1711/image-20250611-033259.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1711/image-20250611-033754.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1711/image-20250611-033754.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1711/image-20250611-034117.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1711/image-20250611-034117.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1711/image-20250611-055925.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1711/image-20250611-055925.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1711/image-20250611-061301.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1711/image-20250611-061301.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 13 張截圖，[查看全部](../attachments/FE-1711/)
+> 共 13 張截圖，[查看全部](/FAQ_test/attachments/FE-1711/)

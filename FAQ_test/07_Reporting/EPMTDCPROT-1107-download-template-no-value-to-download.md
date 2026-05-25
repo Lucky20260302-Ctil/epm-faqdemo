@@ -43,14 +43,14 @@ EPMTDCPROT-1107: Download Template - no value to download
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-1107/image-20250325-025305.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1107/image-20250325-025305.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1107/image-20250325-025311.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1107/image-20250325-025311.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1107/image-20250421-065541.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1107/image-20250421-065541.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1107/image-20250422-072415.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1107/image-20250422-072415.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1107/image-20250423-084903.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1107/image-20250423-084903.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 8 張截圖，[查看全部](../attachments/EPMTDCPROT-1107/)
+> 共 8 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-1107/)

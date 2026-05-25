@@ -47,14 +47,14 @@ V75 版本新增了線上會員驗證邏輯（Validate Online Member），當 C3
 
 ## 相關截圖
 
-<img src="../attachments/FE-1595/image-20241226-095245.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1595/image-20241226-095245.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1595/image-20241226-100137.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1595/image-20241226-100137.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1595/image-20241226-101524.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1595/image-20241226-101524.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1595/image-20241226-101733.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1595/image-20241226-101733.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1595/image-20241231-040446.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1595/image-20241231-040446.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 7 張截圖，[查看全部](../attachments/FE-1595/)
+> 共 7 張截圖，[查看全部](/FAQ_test/attachments/FE-1595/)

@@ -47,14 +47,14 @@ DOI 表單中「Declaration of Conflict Grade」欄位顯示錯誤。低於 Grad
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3564/image-20260511-070632.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3564/image-20260511-070632.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3564/image-20260511-070647.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3564/image-20260511-070647.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3564/image-20260511-070701.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3564/image-20260511-070701.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3564/image-20260511-090750.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3564/image-20260511-090750.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3564/image-20260511-090811.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3564/image-20260511-090811.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 11 張截圖，[查看全部](../attachments/EPMTDCPROT-3564/)
+> 共 11 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-3564/)

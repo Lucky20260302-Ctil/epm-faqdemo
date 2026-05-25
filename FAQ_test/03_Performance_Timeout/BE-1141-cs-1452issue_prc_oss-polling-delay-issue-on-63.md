@@ -48,7 +48,7 @@ BE-1141: Issue_PRC_OSS Polling Delay issue on 6.3
 
 ## 相關截圖
 
-<img src="../attachments/BE-1141/image-20250702-023854.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1141/image-20250702-023854.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1141/image-20250702-024106.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1141/image-20250702-024106.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

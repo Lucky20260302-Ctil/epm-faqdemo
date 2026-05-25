@@ -47,14 +47,14 @@ shortUrl 生成時以手動方式設置固定 domain，導致使用者收到的�
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3292/00b596866e604696ab232cdef2d24ca-20260115-073530.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3292/00b596866e604696ab232cdef2d24ca-20260115-073530.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3292/04ef8e127b9629628e8f9129dd50c90-20260115-073542.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3292/04ef8e127b9629628e8f9129dd50c90-20260115-073542.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3292/05dddfd14df0ee2e91c22f65275a9df-20260115-065516.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3292/05dddfd14df0ee2e91c22f65275a9df-20260115-065516.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3292/081eb83cf7e67f06ab8a3270460758f-20260115-065649.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3292/081eb83cf7e67f06ab8a3270460758f-20260115-065649.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3292/082a47d6d1186601de97ff90f6a412d-20260115-065640.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3292/082a47d6d1186601de97ff90f6a412d-20260115-065640.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 109 張截圖，[查看全部](../attachments/EPMTDCPROT-3292/)
+> 共 109 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-3292/)

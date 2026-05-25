@@ -43,7 +43,7 @@ EPMTDCPROT-1042: Pre-Reg中，添加Approvaler的时候，选择了一个Approva
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-1042/image-20250314-023506.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1042/image-20250314-023506.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1042/image-20250324-022542.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1042/image-20250324-022542.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

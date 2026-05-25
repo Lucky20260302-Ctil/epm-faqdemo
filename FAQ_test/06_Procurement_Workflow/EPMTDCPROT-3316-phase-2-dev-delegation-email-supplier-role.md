@@ -47,11 +47,11 @@ Supplier Role 委派電子郵件中，Delegator 與 Delegate-To 收到的任務�
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3316/image-20260114-033609.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3316/image-20260114-033609.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3316/image-20260114-033628.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3316/image-20260114-033628.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3316/image-20260114-033707.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3316/image-20260114-033707.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3316/image-20260116-071239.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3316/image-20260116-071239.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

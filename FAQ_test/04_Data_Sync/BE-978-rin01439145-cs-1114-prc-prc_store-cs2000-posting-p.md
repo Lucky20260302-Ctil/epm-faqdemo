@@ -46,14 +46,14 @@ BE-978: PRC - PRC_Store - CS2000 - Posting : Posting Main terminated
 
 ## 相關截圖
 
-<img src="../attachments/BE-978/image-20250106-102908.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-978/image-20250106-102908.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-978/image-20250106-103131.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-978/image-20250106-103131.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-978/image-20250106-103225.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-978/image-20250106-103225.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-978/image-20250107-061807.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-978/image-20250107-061807.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-978/image-20250205-135400.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-978/image-20250205-135400.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 9 張截圖，[查看全部](../attachments/BE-978/)
+> 共 9 張截圖，[查看全部](/FAQ_test/attachments/BE-978/)

@@ -43,7 +43,7 @@ EPMTDCPROT-1275: Missing Select Draft Procurement Strategy from Pre-Reg e-form
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-1275/image-20250417-053835.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1275/image-20250417-053835.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1275/image-20250603-093633.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1275/image-20250603-093633.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

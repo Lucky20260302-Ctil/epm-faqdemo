@@ -48,5 +48,5 @@ x64 版本的 POS 在 void CMB 支付時，錯誤調用了 32 位元的 EFTPayme
 
 ## 相關截圖
 
-<img src="../attachments/FE-1409/image-20240612-034833.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1409/image-20240612-034833.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

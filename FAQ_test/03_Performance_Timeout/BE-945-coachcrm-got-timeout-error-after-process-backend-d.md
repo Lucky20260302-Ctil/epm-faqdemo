@@ -47,7 +47,7 @@ BE-945:  Got timeout error after process Backend data sync
 
 ## 相關截圖
 
-<img src="../attachments/BE-945/image-20241115-060656.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-945/image-20241115-060656.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-945/screenshot-link_att.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-945/screenshot-link_att.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

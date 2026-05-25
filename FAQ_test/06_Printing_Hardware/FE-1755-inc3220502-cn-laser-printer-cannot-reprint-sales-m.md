@@ -46,9 +46,9 @@ FE-1755: CN Laser printer cannot reprint sales memo in till2 : Printing Error
 
 ## 相關截圖
 
-<img src="../attachments/FE-1755/image-20250929-084132.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1755/image-20250929-084132.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1755/image-20250929-085410.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1755/image-20250929-085410.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1755/屏幕截图 2025-09-29 161507.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1755/屏幕截图 2025-09-29 161507.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

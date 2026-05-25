@@ -46,14 +46,14 @@ BEAPICRM 舊版本對 CRM API 回傳的 HTTP 200 但內容為 Customer not found
 
 ## 相關截圖
 
-<img src="../attachments/FE-1687/image-20250508-020216.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1687/image-20250508-020216.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1687/image-20250508-020248.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1687/image-20250508-020248.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1687/image-20250508-020316.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1687/image-20250508-020316.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1687/image-20250508-020343.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1687/image-20250508-020343.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1687/image-20250508-020527.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1687/image-20250508-020527.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 7 張截圖，[查看全部](../attachments/FE-1687/)
+> 共 7 張截圖，[查看全部](/FAQ_test/attachments/FE-1687/)

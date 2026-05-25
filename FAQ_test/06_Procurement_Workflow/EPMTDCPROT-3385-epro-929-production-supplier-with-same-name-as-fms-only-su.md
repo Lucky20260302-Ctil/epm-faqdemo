@@ -47,13 +47,13 @@ EPMTDCPROT-3385: EPRO-929 [Production] Supplier with same name as FMS Only Suppl
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3385/image-20260203-020711.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3385/image-20260203-020711.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3385/image-20260203-072917.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3385/image-20260203-072917.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3385/image-20260203-072946.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3385/image-20260203-072946.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3385/image-20260203-073250.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3385/image-20260203-073250.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3385/image-20260203-073318.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3385/image-20260203-073318.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

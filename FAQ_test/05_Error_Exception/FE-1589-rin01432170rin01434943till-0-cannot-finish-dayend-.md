@@ -47,14 +47,14 @@ Windows系統的日期格式被其他應用程式變更為M/d/yyyy，而POS標�
 
 ## 相關截圖
 
-<img src="../attachments/FE-1589/111 (06aa8ec6-3110-40f7-a945-96d8ab2d505f" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
+<img src="/FAQ_test/attachments/FE-1589/111 (06aa8ec6-3110-40f7-a945-96d8ab2d505f" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
 
-<img src="../attachments/FE-1589/111.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1589/111.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1589/222.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1589/222.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1589/image-20241224-083527.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1589/image-20241224-083527.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1589/image-20241224-083544.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1589/image-20241224-083544.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 9 張截圖，[查看全部](../attachments/FE-1589/)
+> 共 9 張截圖，[查看全部](/FAQ_test/attachments/FE-1589/)

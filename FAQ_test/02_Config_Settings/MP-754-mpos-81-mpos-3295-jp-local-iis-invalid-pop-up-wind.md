@@ -47,14 +47,14 @@ MPOS API 伺服器上的 dbCoachLocal.db 資料庫中，printReceiptFlow 參數�
 
 ## 相關截圖
 
-<img src="../attachments/MP-754/image-20250305-032154.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-754/image-20250305-032154.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-754/image-20250305-032254.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-754/image-20250305-032254.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-754/image-20250305-032417.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-754/image-20250305-032417.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-754/image-20250305-033347.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-754/image-20250305-033347.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-754/image-20250305-080542.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-754/image-20250305-080542.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 6 張截圖，[查看全部](../attachments/MP-754/)
+> 共 6 張截圖，[查看全部](/FAQ_test/attachments/MP-754/)

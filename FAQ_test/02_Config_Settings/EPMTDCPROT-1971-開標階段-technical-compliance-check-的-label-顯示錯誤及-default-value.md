@@ -47,14 +47,14 @@ EPMTDCPROT-1971: 開標階段 Technical Compliance Check 的 label 顯示錯誤�
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-1971/image-20250529-061256.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1971/image-20250529-061256.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1971/image-20250529-061315.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1971/image-20250529-061315.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1971/image-20250529-061432.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1971/image-20250529-061432.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1971/image-20250529-061518.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1971/image-20250529-061518.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1971/image-20250529-061740.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1971/image-20250529-061740.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 8 張截圖，[查看全部](../attachments/EPMTDCPROT-1971/)
+> 共 8 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-1971/)

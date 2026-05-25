@@ -48,14 +48,14 @@ FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region
 
 ## 相關截圖
 
-<img src="../attachments/FE-1713/ac222b97-ef25-489b-b535-916a01f5fcdd.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1713/ac222b97-ef25-489b-b535-916a01f5fcdd.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1713/image-20250611-072631.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1713/image-20250611-072631.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1713/image-20250611-072816.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1713/image-20250611-072816.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1713/image-20250611-072936.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1713/image-20250611-072936.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1713/image-20250611-073007.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1713/image-20250611-073007.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 8 張截圖，[查看全部](../attachments/FE-1713/)
+> 共 8 張截圖，[查看全部](/FAQ_test/attachments/FE-1713/)

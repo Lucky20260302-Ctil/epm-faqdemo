@@ -48,5 +48,5 @@ FE-1522: V75 Void Gift Cert caused posting error (DB Null)
 
 ## 相關截圖
 
-<img src="../attachments/FE-1522/image-20241009-091113.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1522/image-20241009-091113.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

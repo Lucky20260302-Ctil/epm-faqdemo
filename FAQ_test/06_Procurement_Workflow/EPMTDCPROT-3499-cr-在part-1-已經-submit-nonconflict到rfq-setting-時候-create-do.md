@@ -47,14 +47,14 @@ EPMTDCPROT-3499: [CR] 在part 1 已經 submit NonConflict，到rfq setting 時�
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3499/image-20260413-073902.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3499/image-20260413-073902.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3499/image-20260413-074629.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3499/image-20260413-074629.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3499/image-20260413-074720.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3499/image-20260413-074720.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3499/image-20260413-074810.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3499/image-20260413-074810.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3499/image-20260413-075201.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3499/image-20260413-075201.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 7 張截圖，[查看全部](../attachments/EPMTDCPROT-3499/)
+> 共 7 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-3499/)

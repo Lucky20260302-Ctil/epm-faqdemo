@@ -46,14 +46,14 @@ FE-1666: CN OCF26 staff COH657205  purchase balance issue
 
 ## 相關截圖
 
-<img src="../attachments/FE-1666/image-20250403-031646.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1666/image-20250403-031646.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1666/image-20250403-031846.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1666/image-20250403-031846.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1666/image-20250403-032110.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1666/image-20250403-032110.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1666/image-20250403-032231.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1666/image-20250403-032231.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1666/image-20250403-070655.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1666/image-20250403-070655.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 15 張截圖，[查看全部](../attachments/FE-1666/)
+> 共 15 張截圖，[查看全部](/FAQ_test/attachments/FE-1666/)

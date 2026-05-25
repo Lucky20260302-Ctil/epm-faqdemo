@@ -47,13 +47,13 @@ Item Master Maintenance 程式在連續建立商品時，未正確清除/重置�
 
 ## 相關截圖
 
-<img src="../attachments/BE-1012/image-20250227-055449.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1012/image-20250227-055449.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1012/image-20250227-055520.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1012/image-20250227-055520.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1012/image-20250227-055611.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1012/image-20250227-055611.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1012/image-20250227-055627.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1012/image-20250227-055627.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1012/image-20250227-055738.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1012/image-20250227-055738.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

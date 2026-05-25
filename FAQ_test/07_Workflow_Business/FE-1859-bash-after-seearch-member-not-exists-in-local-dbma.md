@@ -46,7 +46,7 @@ Ba&sh 品牌 POS 升級至 v750.05R03 後，當透過 BEDB（CS2000）連線搜�
 
 ## 相關截圖
 
-<img src="../attachments/FE-1859/image-20260123-082332.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1859/image-20260123-082332.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1859/image-20260123-091210.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1859/image-20260123-091210.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

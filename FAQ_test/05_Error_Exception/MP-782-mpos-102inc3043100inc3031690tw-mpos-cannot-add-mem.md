@@ -50,11 +50,11 @@ MPOS 3.29 開始支援 Member QR Code 的 Dynamic Token 功能，但因向後兼
 
 ## 相關截圖
 
-<img src="../attachments/MP-782/image-20250620-071426.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-782/image-20250620-071426.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-782/image-20250620-071458.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-782/image-20250620-071458.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-782/image-20250620-072518.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-782/image-20250620-072518.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-782/image-20250620-073623.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-782/image-20250620-073623.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

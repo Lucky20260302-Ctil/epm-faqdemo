@@ -43,9 +43,9 @@ Why does adding a space after the email address during supplier pre-registration
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3283/image-20260107-064630.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3283/image-20260107-064630.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3283/image-20260107-064641.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3283/image-20260107-064641.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3283/image-20260107-064654.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3283/image-20260107-064654.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

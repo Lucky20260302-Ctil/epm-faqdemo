@@ -48,7 +48,7 @@ FE-1745: Fail to register OCF26 till A PC with CSPlus.Lic file
 
 ## 相關截圖
 
-<img src="../attachments/FE-1745/image-20250818-065746.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1745/image-20250818-065746.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1745/image-20250819-042400.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1745/image-20250819-042400.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

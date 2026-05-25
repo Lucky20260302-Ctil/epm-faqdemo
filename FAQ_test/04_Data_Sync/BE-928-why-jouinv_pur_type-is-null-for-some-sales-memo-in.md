@@ -47,13 +47,13 @@ Coach 中國資料庫中，部分銷售備忘錄（deposit、void、return memo�
 
 ## 相關截圖
 
-<img src="../attachments/BE-928/image-20241030-083418.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-928/image-20241030-083418.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-928/image-20241030-084428.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-928/image-20241030-084428.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-928/image-20250106-081040.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-928/image-20250106-081040.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-928/image-20250106-083950.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-928/image-20250106-083950.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-928/image-20250106-084112.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-928/image-20250106-084112.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

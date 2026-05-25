@@ -43,7 +43,7 @@ EPMTDCPROT-1277: Tender Issue e-form - Exception Approval required for the time 
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-1277/notShow.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1277/notShow.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-1277/show.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-1277/show.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

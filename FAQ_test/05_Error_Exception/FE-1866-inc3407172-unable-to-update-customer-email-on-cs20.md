@@ -47,13 +47,13 @@ FE-1866: Unable to update customer email on CS2000 web
 
 ## 相關截圖
 
-<img src="../attachments/FE-1866/image-20260126-080855.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1866/image-20260126-080855.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1866/image-20260126-081224.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1866/image-20260126-081224.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1866/image-20260129-050631.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1866/image-20260129-050631.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1866/image-20260129-051649.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1866/image-20260129-051649.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1866/image-20260129-072825.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1866/image-20260129-072825.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

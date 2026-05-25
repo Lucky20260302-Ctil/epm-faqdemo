@@ -47,7 +47,7 @@ FE-1547: Fail to display mutiple member results when backend DB has more than 1 
 
 ## 相關截圖
 
-<img src="../attachments/FE-1547/image-20241104-104502.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1547/image-20241104-104502.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1547/image-20241105-023351.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1547/image-20241105-023351.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -49,14 +49,14 @@ FE-1567: For CN OCF87-10013580 is used to void OCF87-10013577 on 2024-08-09, why
 
 ## 相關截圖
 
-<img src="../attachments/FE-1567/image-20241121-021722.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1567/image-20241121-021722.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1567/image-20241121-021911.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1567/image-20241121-021911.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1567/image-20241121-022358.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1567/image-20241121-022358.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1567/image-20241121-025721.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1567/image-20241121-025721.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1567/image-20241121-031347.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1567/image-20241121-031347.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 12 張截圖，[查看全部](../attachments/FE-1567/)
+> 共 12 張截圖，[查看全部](/FAQ_test/attachments/FE-1567/)

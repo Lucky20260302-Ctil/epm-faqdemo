@@ -47,14 +47,14 @@ Web.config 中的 LicConnection 設定值無效（Invalid），導致 MPOS API �
 
 ## 相關截圖
 
-<img src="../attachments/MP-743/image-20250116-065523.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-743/image-20250116-065523.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-743/image-20250116-065530.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-743/image-20250116-065530.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-743/image-20250116-072647.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-743/image-20250116-072647.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-743/image-20250116-080314.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-743/image-20250116-080314.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-743/image-20250117-091849.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-743/image-20250117-091849.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 8 張截圖，[查看全部](../attachments/MP-743/)
+> 共 8 張截圖，[查看全部](/FAQ_test/attachments/MP-743/)

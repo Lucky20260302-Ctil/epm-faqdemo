@@ -48,14 +48,14 @@ FE程式碼（v75）的MemberPanelViewModel中缺少對vipdef資料集的fetch�
 
 ## 相關截圖
 
-<img src="../attachments/FE-1908/image-20260326-153925.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1908/image-20260326-153925.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1908/image-20260326-154012.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1908/image-20260326-154012.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1908/image-20260326-154748.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1908/image-20260326-154748.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1908/image-20260326-154931.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1908/image-20260326-154931.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1908/image-20260326-155044.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1908/image-20260326-155044.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 21 張截圖，[查看全部](../attachments/FE-1908/)
+> 共 21 張截圖，[查看全部](/FAQ_test/attachments/FE-1908/)

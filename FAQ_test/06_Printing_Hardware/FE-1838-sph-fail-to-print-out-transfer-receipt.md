@@ -45,13 +45,13 @@ SPH 品牌 POS 在列印轉貨收據（Transfer Out Receipt）時彈出「Printi
 
 ## 相關截圖
 
-<img src="../attachments/FE-1838/image-20251223-093609.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1838/image-20251223-093609.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1838/image-20251223-093932.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1838/image-20251223-093932.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1838/image-20251229-024759.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1838/image-20251229-024759.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1838/image-20251229-030349.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1838/image-20251229-030349.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1838/image-20251229-030437.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1838/image-20251229-030437.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

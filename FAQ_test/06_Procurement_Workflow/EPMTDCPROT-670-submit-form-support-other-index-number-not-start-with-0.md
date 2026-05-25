@@ -47,9 +47,9 @@ Workflow service 與 validation service 中的 Form Object converter 在解析�
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-670/image-20241008-020308.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-670/image-20241008-020308.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-670/image-20241008-020353.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-670/image-20241008-020353.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-670/image-20241008-070959.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-670/image-20241008-070959.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

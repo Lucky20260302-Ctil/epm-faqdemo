@@ -47,9 +47,9 @@ MPOS 建立銷售備忘錄並選擇會員後，列印出的收據僅顯示會員
 
 ## 相關截圖
 
-<img src="../attachments/MP-616/Screenshot_19.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-616/Screenshot_19.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-616/Screenshot_20.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-616/Screenshot_20.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-616/image-2022-12-16-18-13-59-960.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-616/image-2022-12-16-18-13-59-960.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

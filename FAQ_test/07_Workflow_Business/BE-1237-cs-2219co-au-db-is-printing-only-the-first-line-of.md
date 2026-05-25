@@ -46,13 +46,13 @@ CO-AU 環境中，POS 輸入 4 行備註（每行 40 字元）完成交易後，
 
 ## 相關截圖
 
-<img src="../attachments/BE-1237/image-20260320-034153.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1237/image-20260320-034153.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1237/image-20260320-034324.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1237/image-20260320-034324.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1237/image-20260320-034402.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1237/image-20260320-034402.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1237/image-20260320-034859.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1237/image-20260320-034859.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/BE-1237/image-20260320-040941.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1237/image-20260320-040941.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

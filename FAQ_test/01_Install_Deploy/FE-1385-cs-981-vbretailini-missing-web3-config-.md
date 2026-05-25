@@ -48,5 +48,5 @@ FE 安裝封包在建置時遺漏了 [3P Module Config] 配置區段，該區段
 
 ## 相關截圖
 
-<img src="../attachments/FE-1385/image-20240522-090936.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1385/image-20240522-090936.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

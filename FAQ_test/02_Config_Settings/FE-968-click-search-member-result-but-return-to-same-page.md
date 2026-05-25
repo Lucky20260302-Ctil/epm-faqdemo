@@ -48,5 +48,5 @@ tblconfig 設定項 ValidateOnlineMember 預設值為 'N'，系統未對從會�
 
 ## 相關截圖
 
-<img src="../attachments/FE-968/image-2021-05-04-16-24-44-125.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-968/image-2021-05-04-16-24-44-125.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

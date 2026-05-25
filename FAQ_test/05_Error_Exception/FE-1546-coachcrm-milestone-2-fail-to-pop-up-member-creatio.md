@@ -48,7 +48,7 @@ FE-1546: Fail to pop up member creation screen after scan a new wechat QR code
 
 ## 相關截圖
 
-<img src="../attachments/FE-1546/image-20241101-084227.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1546/image-20241101-084227.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1546/image-20241101-095340.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1546/image-20241101-095340.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

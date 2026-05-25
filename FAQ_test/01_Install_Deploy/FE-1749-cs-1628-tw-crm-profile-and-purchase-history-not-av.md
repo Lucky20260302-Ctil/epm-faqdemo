@@ -48,5 +48,5 @@ FE-1749: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available
 
 ## 相關截圖
 
-<img src="../attachments/FE-1749/image-20250901-094129.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1749/image-20250901-094129.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

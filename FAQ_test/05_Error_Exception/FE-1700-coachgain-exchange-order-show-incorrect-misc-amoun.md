@@ -47,9 +47,9 @@ POS 前端在處理 Exchange + Gain 退款流程中，當用戶於付款步驟�
 
 ## 相關截圖
 
-<img src="../attachments/FE-1700/image-20250522-094910.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1700/image-20250522-094910.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1700/image-20250529-073941.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1700/image-20250529-073941.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1700/image-20250529-073952.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1700/image-20250529-073952.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

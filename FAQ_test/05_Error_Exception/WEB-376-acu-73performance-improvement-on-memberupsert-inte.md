@@ -48,9 +48,9 @@ POS 的 member/upsert API 效能低落：單次呼叫回應時間超過 4 秒（
 
 ## 相關截圖
 
-<img src="../attachments/WEB-376/image-20241205-062441.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/WEB-376/image-20241205-062441.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/WEB-376/image-20241206-063233.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/WEB-376/image-20241206-063233.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/WEB-376/image-20241206-064903.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/WEB-376/image-20241206-064903.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

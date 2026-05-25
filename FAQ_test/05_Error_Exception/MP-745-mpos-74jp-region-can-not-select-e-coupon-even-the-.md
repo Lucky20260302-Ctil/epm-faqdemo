@@ -47,14 +47,14 @@ MPOS IPA 客戶端（v3.29.5-20250108.2）在處理 API 回傳的電子優惠券
 
 ## 相關截圖
 
-<img src="../attachments/MP-745/image-20250211-154045.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-745/image-20250211-154045.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-745/image-20250211-163624.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-745/image-20250211-163624.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-745/image-20250211-164244.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-745/image-20250211-164244.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-745/image-20250212-013533.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-745/image-20250212-013533.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/MP-745/image-20250212-013634.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-745/image-20250212-013634.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 8 張截圖，[查看全部](../attachments/MP-745/)
+> 共 8 張截圖，[查看全部](/FAQ_test/attachments/MP-745/)

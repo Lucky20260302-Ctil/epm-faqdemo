@@ -47,7 +47,7 @@ ENABLEDASECROLE設定為'N'時，POS系統停用AD網域群組成員驗證，完
 
 ## 相關截圖
 
-<img src="../attachments/FE-1655/image-20250320-053413.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1655/image-20250320-053413.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1655/image-20250320-053601.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1655/image-20250320-053601.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -48,14 +48,14 @@ POS 在寫入 PCD 記錄類型 '31'（禮券備忘錄）時，總金額欄位的
 
 ## 相關截圖
 
-<img src="../attachments/FE-1529/image-2024-10-19-22-43-48-078.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1529/image-2024-10-19-22-43-48-078.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1529/image-20241018-033559.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1529/image-20241018-033559.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1529/image-20241018-033658.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1529/image-20241018-033658.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1529/image-20241019-014836.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1529/image-20241019-014836.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1529/image-20241019-015023.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1529/image-20241019-015023.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 7 張截圖，[查看全部](../attachments/FE-1529/)
+> 共 7 張截圖，[查看全部](/FAQ_test/attachments/FE-1529/)

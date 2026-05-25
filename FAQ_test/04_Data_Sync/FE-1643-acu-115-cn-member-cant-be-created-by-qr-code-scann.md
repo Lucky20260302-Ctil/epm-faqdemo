@@ -47,5 +47,5 @@ BEAPI 在處理 CN 會員建立時，VIP 編號（vip no.）生成失敗，導�
 
 ## 相關截圖
 
-<img src="../attachments/FE-1643/image-20250307-063356.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1643/image-20250307-063356.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -47,14 +47,14 @@ BE API 修正版本 v1.7.12_20250326：新增檢查邏輯，當 Acxiom CRM 回�
 
 ## 相關截圖
 
-<img src="../attachments/FE-1660/image-20250325-130157.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1660/image-20250325-130157.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1660/image-20250325-130243.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1660/image-20250325-130243.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1660/image-20250325-130303.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1660/image-20250325-130303.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1660/image-20250326-021522.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1660/image-20250326-021522.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1660/image-20250326-023106.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1660/image-20250326-023106.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 9 張截圖，[查看全部](../attachments/FE-1660/)
+> 共 9 張截圖，[查看全部](/FAQ_test/attachments/FE-1660/)

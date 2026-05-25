@@ -48,14 +48,14 @@ FE-1440: REMS - Member search in offline mode will result in execption
 
 ## 相關截圖
 
-<img src="../attachments/FE-1440/Untitled.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1440/Untitled.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1440/image-20240701-053923.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1440/image-20240701-053923.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1440/image-20240701-054019.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1440/image-20240701-054019.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1440/image-20240702-085932.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1440/image-20240702-085932.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1440/image-20240702-085939.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1440/image-20240702-085939.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 9 張截圖，[查看全部](../attachments/FE-1440/)
+> 共 9 張截圖，[查看全部](/FAQ_test/attachments/FE-1440/)

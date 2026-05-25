@@ -47,5 +47,5 @@ IPA 版本 v3.30.2 中電子收據（e-Receipt）功能判斷邏輯有誤，未�
 
 ## 相關截圖
 
-<img src="../attachments/MP-756/image-20250314-071649.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/MP-756/image-20250314-071649.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 

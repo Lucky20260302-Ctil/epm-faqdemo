@@ -48,5 +48,5 @@ BE-1172: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available
 
 ## 相關截圖
 
-<img src="../attachments/BE-1172/image-20250901-093357.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/BE-1172/image-20250901-093357.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

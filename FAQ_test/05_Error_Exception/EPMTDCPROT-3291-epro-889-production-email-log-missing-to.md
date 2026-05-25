@@ -43,11 +43,11 @@ Why is the 'To' field missing in the email log after sending supplier pre-regist
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3291/image-20260108-100536.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3291/image-20260108-100536.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3291/image-20260109-024915.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3291/image-20260109-024915.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3291/image-20260109-025234.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3291/image-20260109-025234.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3291/image-20260109-060913.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3291/image-20260109-060913.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

@@ -47,14 +47,14 @@ DOI 功能模組僅在 Change Request 相關流程中觸發，未針對 Supplier
 
 ## 相關截圖
 
-<img src="../attachments/EPMTDCPROT-3550/image-20260429-093859.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3550/image-20260429-093859.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3550/image-20260520-094611.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3550/image-20260520-094611.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3550/image-20260520-094629.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3550/image-20260520-094629.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3550/image-20260520-094650.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3550/image-20260520-094650.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/EPMTDCPROT-3550/image-20260520-094711.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/EPMTDCPROT-3550/image-20260520-094711.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-> 共 16 張截圖，[查看全部](../attachments/EPMTDCPROT-3550/)
+> 共 16 張截圖，[查看全部](/FAQ_test/attachments/EPMTDCPROT-3550/)

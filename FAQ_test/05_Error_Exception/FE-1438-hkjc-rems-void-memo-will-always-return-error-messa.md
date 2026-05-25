@@ -47,5 +47,5 @@ FE-1438: REMS void memo will always return error message even though API returne
 
 ## 相關截圖
 
-<img src="../attachments/FE-1438/Untitled.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1438/Untitled.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

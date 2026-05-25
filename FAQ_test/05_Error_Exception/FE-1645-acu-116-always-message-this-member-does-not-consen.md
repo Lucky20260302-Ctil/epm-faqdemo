@@ -47,14 +47,14 @@ FE-1645: Always message 'This member does not consent to enquire out of border' 
 
 ## 相關截圖
 
-<img src="../attachments/FE-1645/image-20250310-065245.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1645/image-20250310-065245.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1645/image-20250310-070046.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1645/image-20250310-070046.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1645/image-20250311-023438.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1645/image-20250311-023438.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1645/image-20250311-024549.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1645/image-20250311-024549.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1645/image-20250311-030721 (a95d56c7-91ff-4847-9e9f-a5f38dbaf178" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
+<img src="/FAQ_test/attachments/FE-1645/image-20250311-030721 (a95d56c7-91ff-4847-9e9f-a5f38dbaf178" style="max-width:100%;border-radius:6px;margin:4px 0">.jpg)
 
-> 共 6 張截圖，[查看全部](../attachments/FE-1645/)
+> 共 6 張截圖，[查看全部](/FAQ_test/attachments/FE-1645/)

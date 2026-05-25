@@ -46,13 +46,13 @@ FE-1706: Issue_PRC OSS_B file time is more than 30 minutes
 
 ## 相關截圖
 
-<img src="../attachments/FE-1706/image-20250530-073503.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1706/image-20250530-073503.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1706/image-20250530-073837.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1706/image-20250530-073837.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1706/image-20250530-074005.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1706/image-20250530-074005.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1706/image-20250530-074100.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1706/image-20250530-074100.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-1706/image-20250530-074206.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-1706/image-20250530-074206.jpg" style="max-width:100%;border-radius:6px;margin:4px 0">
 

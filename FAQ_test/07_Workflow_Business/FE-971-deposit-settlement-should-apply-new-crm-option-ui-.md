@@ -48,11 +48,11 @@ FE-971: Deposit Settlement should apply new CRM option UI (same as issuing Sales
 
 ## 相關截圖
 
-<img src="../attachments/FE-971/image-2021-05-07-15-57-21-304.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-971/image-2021-05-07-15-57-21-304.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-971/image-2021-05-07-15-57-52-474.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-971/image-2021-05-07-15-57-52-474.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-971/image-2021-05-07-15-58-22-053.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-971/image-2021-05-07-15-58-22-053.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
-<img src="../attachments/FE-971/image-2021-05-13-10-01-35-722.png" style="max-width:100%;border-radius:6px;margin:4px 0">
+<img src="/FAQ_test/attachments/FE-971/image-2021-05-13-10-01-35-722.png" style="max-width:100%;border-radius:6px;margin:4px 0">
 
