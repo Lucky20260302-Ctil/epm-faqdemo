@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1595
 issue_type: Bug PRD
 status: Closed
-title: "FE-1595-cs-1314-rin01434013-jp-c338-cs2000-fe-cant-use-the"
+title: "FE-1595: RIN01434013 - JP - C338  - CS2000 - FE : Can't use the vip no after the member no searched out in POS"
 tags:
 - 05_error_exception
 - faq

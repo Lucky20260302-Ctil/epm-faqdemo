@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1529
 issue_type: Bug QA
 status: Closed
-title: "FE-1529-coach-my-bdo-fe-gift-cert-total-amount-calculation"
+title: "FE-1529: Coach MY BDO FE - gift cert total amount calculation error"
 tags:
 - 04_data_sync
 - faq

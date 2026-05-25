@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1228
 issue_type: Bug PRD
 status: Release
-title: "BE-1228-cj-dsa-displays-retail-price-instead-of-correct-on"
+title: "BE-1228: CJ DSA displays Retail Price instead of correct On Sale Price before scheduled price changes (observed on 1/23 "
 tags:
 - 05_error_exception
 - be

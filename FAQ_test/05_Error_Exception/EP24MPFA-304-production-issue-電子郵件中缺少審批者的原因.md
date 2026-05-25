@@ -3,7 +3,7 @@ project: EP24MPFA
 issue_key: EP24MPFA-304
 issue_type: ''
 status: ''
-title: "EP24MPFA-304-production-issue-電子郵件中缺少審批者的原因"
+title: "EP24MPFA-304: [Production Issue] 電子郵件中缺少審批者的原因"
 tags:
 - 05-error-exception
 - 05_error_exception

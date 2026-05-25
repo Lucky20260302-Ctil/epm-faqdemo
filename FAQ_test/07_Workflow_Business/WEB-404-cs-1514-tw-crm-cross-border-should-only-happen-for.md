@@ -3,7 +3,7 @@ project: WEB
 issue_key: WEB-404
 issue_type: Bug QA
 status: Closed
-title: "WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for"
+title: "WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need"
 tags:
 - 07_workflow_business
 - faq

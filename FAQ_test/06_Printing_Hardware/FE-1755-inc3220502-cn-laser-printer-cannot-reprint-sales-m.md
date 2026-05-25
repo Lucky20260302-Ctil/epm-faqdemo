@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1755
 issue_type: Bug PRD
 status: Closed
-title: "FE-1755-inc3220502-cn-laser-printer-cannot-reprint-sales-m"
+title: "FE-1755: CN Laser printer cannot reprint sales memo in till2 : Printing Error"
 tags:
 - 06_printing_hardware
 - faq

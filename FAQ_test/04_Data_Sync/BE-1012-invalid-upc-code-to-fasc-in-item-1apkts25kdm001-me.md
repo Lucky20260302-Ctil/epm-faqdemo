@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1012
 issue_type: Bug PRD
 status: Closed
-title: "BE-1012-invalid-upc-code-to-fasc-in-item-1apkts25kdm001-me"
+title: "BE-1012: Invalid UPC Code to FASC in Item 1APKTS25KDM001 Mem Bdg K-Tee plain"
 tags:
 - 04_data_sync
 - be

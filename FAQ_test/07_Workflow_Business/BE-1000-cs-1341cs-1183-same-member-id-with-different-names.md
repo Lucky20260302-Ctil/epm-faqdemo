@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1000
 issue_type: Bug PRD
 status: Closed
-title: "BE-1000-cs-1341cs-1183-same-member-id-with-different-names"
+title: "BE-1000: Same Member ID with different names and mobile numbers"
 tags:
 - 07_workflow_business
 - be

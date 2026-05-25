@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-968
 issue_type: Bug QA
 status: Closed
-title: "FE-968-click-search-member-result-but-return-to-same-page"
+title: "FE-968: click search member result but return to same page"
 tags:
 - 02_config_settings
 - faq

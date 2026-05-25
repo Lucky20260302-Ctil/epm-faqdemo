@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1638
 issue_type: Bug PRD
 status: Closed
-title: "FE-1638-cs-1372-not-able-to-receive-ecom-sales-import-aler"
+title: "FE-1638: Not able to receive Ecom sales import alert email"
 tags:
 - 02_config_settings
 - faq

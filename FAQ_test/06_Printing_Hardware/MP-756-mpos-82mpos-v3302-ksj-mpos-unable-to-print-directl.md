@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-756
 issue_type: Bug QA
 status: Closed
-title: "MP-756-mpos-82mpos-v3302-ksj-mpos-unable-to-print-directl"
+title: "MP-756: MPOS v3.30.2 - KSJ MPOS unable to print directly after issue sales memo"
 tags:
 - 06_printing_hardware
 - faq

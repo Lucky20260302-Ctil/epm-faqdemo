@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1498
 issue_type: Bug PRD
 status: Closed
-title: "FE-1498-cs-1137-v75-cs2k-mpos-gift-cert-transaction-unable"
+title: "FE-1498: v75 - CS2K & MPOS Gift cert transaction unable post to DB."
 tags:
 - 04_data_sync
 - faq

@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1193
 issue_type: Bug PRD
 status: Closed
-title: "BE-1193-ppr-22-anz-pos-au-20-web-sales-import-error-exchan"
+title: "BE-1193: ANZ POS - AU 20 Web sales import error - Exchange rate not found"
 tags:
 - 05_error_exception
 - be

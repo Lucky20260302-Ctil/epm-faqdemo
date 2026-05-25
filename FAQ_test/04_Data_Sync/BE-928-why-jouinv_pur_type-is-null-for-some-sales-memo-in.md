@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-928
 issue_type: Bug PRD
 status: Closed
-title: "BE-928-why-jouinv_pur_type-is-null-for-some-sales-memo-in"
+title: "BE-928: Why jouinv_pur_type is null for some sales memo in CN DB"
 tags:
 - 04_data_sync
 - be

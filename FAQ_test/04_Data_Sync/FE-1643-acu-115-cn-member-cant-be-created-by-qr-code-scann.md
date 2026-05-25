@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1643
 issue_type: Bug PRD
 status: Closed
-title: "FE-1643-acu-115-cn-member-cant-be-created-by-qr-code-scann"
+title: "FE-1643: CN Member can't be created by QR code scanning or mobile number inputting"
 tags:
 - 04_data_sync
 - faq

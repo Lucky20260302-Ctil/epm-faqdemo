@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-746
 issue_type: Bug PRD
 status: Closed
-title: "MP-746-mpos-76-mpos-3295-jp-region-unable-to-select-item-"
+title: "MP-746: MPOS 3.29.5 - JP region -Unable to select item after deploy COACH_MPOSWebAPI_R3.29.5d"
 tags:
 - 02_config_settings
 - faq

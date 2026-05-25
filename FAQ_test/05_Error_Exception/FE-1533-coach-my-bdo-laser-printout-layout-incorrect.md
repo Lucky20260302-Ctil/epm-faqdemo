@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1533
 issue_type: Bug QA
 status: Closed
-title: "FE-1533-coach-my-bdo-laser-printout-layout-incorrect"
+title: "FE-1533: Coach MY BDO - laser printout layout incorrect"
 tags:
 - 05_error_exception
 - faq

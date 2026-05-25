@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1384
 issue_type: Bug PRD
 status: Closed
-title: "FE-1384-cs-1028-kmy-incorrect-pc-01-record-with-two-member"
+title: "FE-1384: KMY incorrect PC 01 record with two member no"
 tags:
 - 04_data_sync
 - faq

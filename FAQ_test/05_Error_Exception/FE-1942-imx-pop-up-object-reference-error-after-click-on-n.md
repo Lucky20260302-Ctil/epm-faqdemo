@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1942
 issue_type: Bug QA
 status: Closed
-title: "FE-1942-imx-pop-up-object-reference-error-after-click-on-n"
+title: "FE-1942: Pop up 'Object reference' error after click on New log update & complete payment"
 tags:
 - 05_error_exception
 - faq

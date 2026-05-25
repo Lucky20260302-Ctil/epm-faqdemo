@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1567
 issue_type: Bug PRD
 status: Closed
-title: "FE-1567-cs-1128-for-cn-ocf87-10013580-is-used-to-void-ocf8"
+title: "FE-1567: For CN OCF87-10013580 is used to void OCF87-10013577 on 2024-08-09, why payment amount is -2568 for 10013580 ?"
 tags:
 - 07_workflow_business
 - faq

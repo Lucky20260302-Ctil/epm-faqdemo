@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1438
 issue_type: Bug QA
 status: Closed
-title: "FE-1438-hkjc-rems-void-memo-will-always-return-error-messa"
+title: "FE-1438: REMS void memo will always return error message even though API returned sucess"
 tags:
 - 05_error_exception
 - faq

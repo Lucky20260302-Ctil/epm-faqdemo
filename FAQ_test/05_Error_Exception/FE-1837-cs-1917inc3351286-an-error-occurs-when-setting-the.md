@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1837
 issue_type: Bug PRD
 status: Closed
-title: "FE-1837-cs-1917inc3351286-an-error-occurs-when-setting-the"
+title: "FE-1837: An error occurs when setting the POS of the cash drawer balance to 'All'."
 tags:
 - 05_error_exception
 - faq

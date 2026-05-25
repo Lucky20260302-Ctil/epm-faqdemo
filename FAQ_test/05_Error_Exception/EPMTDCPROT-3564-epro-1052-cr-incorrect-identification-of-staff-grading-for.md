@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3564
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3564-epro-1052-cr-incorrect-identification-of-staff-grading-for"
+title: "EPMTDCPROT-3564: EPRO-1052 [CR] Incorrect identification of staff grading for DOI approval"
 tags:
 - 05-error-exception
 - 05_error_exception

@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1277
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-1277-tender-issue-e-form-exception-approval-required-for-the-ti"
+title: "EPMTDCPROT-1277: Tender Issue e-form - Exception Approval required for the time frame between the issue date and closing"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

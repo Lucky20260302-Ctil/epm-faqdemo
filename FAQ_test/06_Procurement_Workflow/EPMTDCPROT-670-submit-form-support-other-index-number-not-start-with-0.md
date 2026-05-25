@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-670
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-670-submit-form-support-other-index-number-not-start-with-0"
+title: "EPMTDCPROT-670: Submit Form Support other index number not start with 0"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-972
 issue_type: Bug PRD
 status: Closed
-title: "FE-972-staff-purchase-quota-calculation-logic-with-mm-cou"
+title: "FE-972: Staff purchase quota calculation logic with MM coupon"
 tags:
 - 07_workflow_business
 - faq

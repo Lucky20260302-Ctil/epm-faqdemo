@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-793
 issue_type: Bug PRD
 status: Closed
-title: "MP-793-mpos-115inc3149444cj-mpos-prod_-j317-the-transacti"
+title: "MP-793: CJ mPOS Prod_ J317 the transaction disappears if it`s not connected to SalesHub"
 tags:
 - 05_error_exception
 - faq

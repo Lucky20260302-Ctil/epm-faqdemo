@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3319
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3319-phase-2-dev-delegation-email-tender-role"
+title: "EPMTDCPROT-3319: [Phase 2 DEV] Delegation Email - Tender Role"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

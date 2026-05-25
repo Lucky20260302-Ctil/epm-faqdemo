@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1665
 issue_type: Bug QA
 status: Closed
-title: "FE-1665-coachcrmclick-on-profile-no-response-when-member-w"
+title: "FE-1665: Click on Profile no response when member who is not existing in CRM"
 tags:
 - 05_error_exception
 - faq

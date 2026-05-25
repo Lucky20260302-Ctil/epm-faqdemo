@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1237
 issue_type: Bug PRD
 status: Open
-title: "BE-1237-cs-2219co-au-db-is-printing-only-the-first-line-of"
+title: "BE-1237: CO - AU - DB is printing only the first line of the Remarks field, ignoring the remaining lines"
 tags:
 - 07_workflow_business
 - be

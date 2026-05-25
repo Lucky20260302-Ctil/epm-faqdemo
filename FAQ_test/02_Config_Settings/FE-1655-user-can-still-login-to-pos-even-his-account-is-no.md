@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1655
 issue_type: Bug QA
 status: Closed
-title: "FE-1655-user-can-still-login-to-pos-even-his-account-is-no"
+title: "FE-1655: User can still login to POS even his account is not in any RTM Domain Group"
 tags:
 - 02_config_settings
 - faq

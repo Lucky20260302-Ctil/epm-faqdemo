@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1798
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-1798-online-boq-supplier-提交報價時不應帶入-buyer-的建議價"
+title: "EPMTDCPROT-1798: Online BOQ supplier 提交報價時不應帶入 buyer 的建議價"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

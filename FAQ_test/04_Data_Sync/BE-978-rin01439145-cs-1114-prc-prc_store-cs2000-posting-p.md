@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-978
 issue_type: Bug PRD
 status: Re Open
-title: "BE-978-rin01439145-cs-1114-prc-prc_store-cs2000-posting-p"
+title: "BE-978: PRC - PRC_Store - CS2000 - Posting : Posting Main terminated"
 tags:
 - 04_data_sync
 - be

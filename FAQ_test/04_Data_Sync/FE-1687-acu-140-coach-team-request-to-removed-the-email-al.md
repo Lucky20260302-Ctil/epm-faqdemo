@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1687
 issue_type: Bug PRD
 status: Closed
-title: "FE-1687-acu-140-coach-team-request-to-removed-the-email-al"
+title: "FE-1687: Coach Team request to removed the Email alert for the CRM return 'ERROR|CDP-CUST-404|Customer not found'"
 tags:
 - 04_data_sync
 - faq

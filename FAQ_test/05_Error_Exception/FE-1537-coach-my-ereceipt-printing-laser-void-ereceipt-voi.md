@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1537
 issue_type: Bug QA
 status: Closed
-title: "FE-1537-coach-my-ereceipt-printing-laser-void-ereceipt-voi"
+title: "FE-1537: Coach MY - ereceipt printing LASER - void eReceipt 'Void Reason' is cut off"
 tags:
 - 05_error_exception
 - faq

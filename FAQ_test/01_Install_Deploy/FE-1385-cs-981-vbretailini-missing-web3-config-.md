@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1385
 issue_type: Bug QA
 status: Closed
-title: "FE-1385-cs-981-vbretailini-missing-web3-config-"
+title: "FE-1385: vbretail.ini missing Web3 config"
 tags:
 - 01_install_deploy
 - faq

@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-743
 issue_type: Bug QA
 status: Closed
-title: "MP-743-mpos-73mpos_3295-mpos-api-ipa-posting-issue"
+title: "MP-743: MPOS_3.29.5 (MPOS API + IPA) Posting Issue"
 tags:
 - 01_install_deploy
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1713
 issue_type: Bug PRD
 status: Closed
-title: "FE-1713-cs-1454-cash-drawer-can-not-be-opened-after-upgrad"
+title: "FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region"
 tags:
 - 06_printing_hardware
 - faq

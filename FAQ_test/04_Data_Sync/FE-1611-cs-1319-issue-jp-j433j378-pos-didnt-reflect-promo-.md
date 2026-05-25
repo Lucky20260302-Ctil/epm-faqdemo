@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1611
 issue_type: Bug PRD
 status: Closed
-title: "FE-1611-cs-1319-issue-jp-j433j378-pos-didnt-reflect-promo-"
+title: "FE-1611: Issue-JP-J433&J378 POS didn't reflect Promo Code : CLE062A _RIN01439021"
 tags:
 - 04_data_sync
 - faq

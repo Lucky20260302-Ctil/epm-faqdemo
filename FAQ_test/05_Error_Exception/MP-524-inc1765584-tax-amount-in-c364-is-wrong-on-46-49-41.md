@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-524
 issue_type: Bug PRD
 status: Closed
-title: "MP-524-inc1765584-tax-amount-in-c364-is-wrong-on-46-49-41"
+title: "MP-524: INC1765584 Tax amount in C364 is wrong on 4/6, 4/9, 4/10, 4/11.4/12"
 tags:
 - 05_error_exception
 - faq

@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3395
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3395-epro-938-production-validation-of-info-change-form-only-ch"
+title: "EPMTDCPROT-3395: EPRO-938 [Production] Validation of Info Change form only checks if a row is added but not if any infor"
 tags:
 - 05-error-exception
 - 05_error_exception

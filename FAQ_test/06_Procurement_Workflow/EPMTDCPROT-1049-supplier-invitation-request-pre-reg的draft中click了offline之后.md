@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1049
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-1049-supplier-invitation-request-pre-reg的draft中click了offline之后"
+title: "EPMTDCPROT-1049: Supplier Invitation Request (Pre-Reg)的Draft中，Click了Offline之后，有些字段是错误的"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

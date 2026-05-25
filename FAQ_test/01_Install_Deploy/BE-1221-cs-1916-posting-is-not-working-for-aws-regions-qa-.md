@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1221
 issue_type: Bug PRD
 status: Closed
-title: "BE-1221-cs-1916-posting-is-not-working-for-aws-regions-qa-"
+title: "BE-1221: POSTING is not working for AWS regions - QA Env"
 tags:
 - 01_install_deploy
 - be

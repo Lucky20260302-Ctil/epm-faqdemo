@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1493
 issue_type: Bug PRD
 status: Closed
-title: "FE-1493-v75-cash-drawer-value-in-poslog-table-is-incorrect"
+title: "FE-1493: V75 - Cash Drawer value in 'poslog' table is incorrect."
 tags:
 - 02_config_settings
 - faq

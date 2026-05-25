@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-826
 issue_type: Bug PRD
 status: Closed
-title: "FE-826-fail-to-use-auto-create-member-function-after-pos-"
+title: "FE-826: Fail to use auto create member function after POS restart"
 tags:
 - 02_config_settings
 - faq

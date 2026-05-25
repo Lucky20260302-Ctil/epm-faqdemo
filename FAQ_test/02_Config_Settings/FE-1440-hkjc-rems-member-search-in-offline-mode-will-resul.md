@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1440
 issue_type: Bug QA
 status: Closed
-title: "FE-1440-hkjc-rems-member-search-in-offline-mode-will-resul"
+title: "FE-1440: REMS - Member search in offline mode will result in execption"
 tags:
 - 02_config_settings
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1700
 issue_type: Bug QA
 status: Closed
-title: "FE-1700-coachgain-exchange-order-show-incorrect-misc-amoun"
+title: "FE-1700: Exchange order show incorrect Misc amount after select MM coupon"
 tags:
 - 05_error_exception
 - faq

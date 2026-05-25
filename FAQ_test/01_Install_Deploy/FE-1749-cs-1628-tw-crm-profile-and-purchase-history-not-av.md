@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1749
 issue_type: Bug PRD
 status: Closed
-title: "FE-1749-cs-1628-tw-crm-profile-and-purchase-history-not-av"
+title: "FE-1749: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version - FE"
 tags:
 - 01_install_deploy
 - faq

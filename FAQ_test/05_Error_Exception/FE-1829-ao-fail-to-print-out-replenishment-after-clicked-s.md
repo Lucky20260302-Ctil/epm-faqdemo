@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1829
 issue_type: Bug QA
 status: Closed
-title: "FE-1829-ao-fail-to-print-out-replenishment-after-clicked-s"
+title: "FE-1829: Fail to print out Replenishment after clicked Save for Send to host"
 tags:
 - 05_error_exception
 - faq

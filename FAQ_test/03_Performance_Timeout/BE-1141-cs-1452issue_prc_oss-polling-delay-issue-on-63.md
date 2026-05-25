@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1141
 issue_type: Bug QA
 status: Closed
-title: "BE-1141-cs-1452issue_prc_oss-polling-delay-issue-on-63"
+title: "BE-1141: Issue_PRC_OSS Polling Delay issue on 6.3"
 tags:
 - 03_performance_timeout
 - be

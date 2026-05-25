@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-754
 issue_type: Bug PRD
 status: Closed
-title: "MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind"
+title: "MP-754: MPOS 3.29.5 - JP Local IIS, invalid pop-up window for Void function"
 tags:
 - 02_config_settings
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1409
 issue_type: Bug QA
 status: Closed
-title: "FE-1409-cs-1059-v75-cs2k-cmb-payment-void-failed"
+title: "FE-1409: V75 - CS2K CMB Payment void failed"
 tags:
 - 05_error_exception
 - faq

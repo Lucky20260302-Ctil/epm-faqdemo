@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1312
 issue_type: Bug PRD
 status: Closed
-title: "FE-1312-imx-v71-posting-error-return-voucher-or-gift-cert-"
+title: "FE-1312: IMX V71 posting error 'Return Voucher or gift cert amount not matched'"
 tags:
 - 04_data_sync
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-812
 issue_type: Bug PRD
 status: Closed
-title: "FE-812-void-sales-transaction-can-use-cash-coupon-but-voi"
+title: "FE-812: void sales transaction can use cash coupon, but Void sales cash coupon show repeat"
 tags:
 - 07_workflow_business
 - faq

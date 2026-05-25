@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1678
 issue_type: Bug PRD
 status: Closed
-title: "FE-1678-inc2920351-car-error-cn-ocf85-00092252-unknown-vip"
+title: "FE-1678: CAR Error - CN OCF85-00092252 Unknown vip type code 9999 04/17"
 tags:
 - 05_error_exception
 - faq

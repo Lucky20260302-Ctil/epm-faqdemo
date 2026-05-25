@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-767
 issue_type: Bug PRD
 status: Closed
-title: "MP-767-mpos-91-mpos-ksj-3295e-if-member-we-selected-only-"
+title: "MP-767: MPOS KSJ 3.29.5e, if member we selected only have 'Home phone no', will cause posting error"
 tags:
 - 04_data_sync
 - faq

@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3291
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3291-epro-889-production-email-log-missing-to"
+title: "EPMTDCPROT-3291: EPRO-889 [Production] Email Log - Missing 'To'"
 tags:
 - 05-error-exception
 - 05_error_exception

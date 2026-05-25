@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-785
 issue_type: Bug QA
 status: Closed
-title: "MP-785-coach-receipt-from-receipt-printing-are-missing-qr"
+title: "MP-785: Receipt from receipt printing are missing QR code & order number"
 tags:
 - 05_error_exception
 - faq

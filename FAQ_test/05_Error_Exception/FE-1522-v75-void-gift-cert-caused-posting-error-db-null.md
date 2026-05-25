@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1522
 issue_type: Bug PRD
 status: Closed
-title: "FE-1522-v75-void-gift-cert-caused-posting-error-db-null"
+title: "FE-1522: V75 Void Gift Cert caused posting error (DB Null)"
 tags:
 - 05_error_exception
 - faq

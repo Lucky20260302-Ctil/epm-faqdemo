@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1492
 issue_type: Bug PRD
 status: Closed
-title: "FE-1492-v75_my_rin01372901_cs2000-emp-vip-staff-info-does-"
+title: "FE-1492: V75_MY_RIN01372901_CS2000 EMP VIP staff info does not update in FE"
 tags:
 - 02_config_settings
 - faq

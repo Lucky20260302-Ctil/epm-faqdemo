@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3316
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3316-phase-2-dev-delegation-email-supplier-role"
+title: "EPMTDCPROT-3316: [Phase 2 DEV] Delegation Email - Supplier Role"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

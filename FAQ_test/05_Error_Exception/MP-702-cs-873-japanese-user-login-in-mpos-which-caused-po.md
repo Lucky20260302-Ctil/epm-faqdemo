@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-702
 issue_type: Bug PRD
 status: Closed
-title: "MP-702-cs-873-japanese-user-login-in-mpos-which-caused-po"
+title: "MP-702: Japanese user login in MPOS which caused posting error"
 tags:
 - 05_error_exception
 - faq

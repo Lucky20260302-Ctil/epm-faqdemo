@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1540
 issue_type: Bug PRD
 status: Closed
-title: "FE-1540-rin01408980-prc-ocf29-cs2000-fe-member-show-offlin"
+title: "FE-1540: RIN01408980 - PRC - OCF29 - CS2000 - FE : member show offline on CS2000 FE"
 tags:
 - 04_data_sync
 - faq

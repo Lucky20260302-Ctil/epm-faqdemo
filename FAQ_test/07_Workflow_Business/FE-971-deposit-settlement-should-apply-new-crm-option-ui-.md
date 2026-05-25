@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-971
 issue_type: Bug QA
 status: Closed
-title: "FE-971-deposit-settlement-should-apply-new-crm-option-ui-"
+title: "FE-971: Deposit Settlement should apply new CRM option UI (same as issuing Sales Memo)"
 tags:
 - 07_workflow_business
 - faq

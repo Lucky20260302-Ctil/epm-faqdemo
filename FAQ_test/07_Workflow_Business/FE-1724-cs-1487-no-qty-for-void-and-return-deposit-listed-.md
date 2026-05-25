@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1724
 issue_type: Bug PRD
 status: Closed
-title: "FE-1724-cs-1487-no-qty-for-void-and-return-deposit-listed-"
+title: "FE-1724: No Qty for Void and return deposit listed on Till1 dayend report"
 tags:
 - 07_workflow_business
 - faq

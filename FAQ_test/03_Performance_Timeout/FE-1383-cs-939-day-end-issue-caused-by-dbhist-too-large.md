@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1383
 issue_type: Bug PRD
 status: Closed
-title: "FE-1383-cs-939-day-end-issue-caused-by-dbhist-too-large"
+title: "FE-1383: day end issue caused by dbhist too large"
 tags:
 - 03_performance_timeout
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-938
 issue_type: Bug PRD
 status: Closed
-title: "FE-938-price-modification-cannot-is-applied-into-item-wit"
+title: "FE-938: Price Modification cannot is applied into item with negative quantity (sales return)"
 tags:
 - 05_error_exception
 - faq

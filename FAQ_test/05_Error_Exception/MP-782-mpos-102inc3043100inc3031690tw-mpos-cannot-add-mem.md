@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-782
 issue_type: Bug PRD
 status: Closed
-title: "MP-782-mpos-102inc3043100inc3031690tw-mpos-cannot-add-mem"
+title: "MP-782:   TW MPOS - Cannot add member through scanning QR code from LINE app"
 tags:
 - 05_error_exception
 - faq

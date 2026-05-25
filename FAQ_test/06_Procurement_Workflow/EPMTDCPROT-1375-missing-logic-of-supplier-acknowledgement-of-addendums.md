@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1375
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-1375-missing-logic-of-supplier-acknowledgement-of-addendums"
+title: "EPMTDCPROT-1375: Missing logic of Supplier acknowledgement of Addendums"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

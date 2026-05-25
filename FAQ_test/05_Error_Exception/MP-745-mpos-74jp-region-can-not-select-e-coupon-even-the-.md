@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-745
 issue_type: Bug PRD
 status: Closed
-title: "MP-745-mpos-74jp-region-can-not-select-e-coupon-even-the-"
+title: "MP-745: JP Region, can not select E-Coupon even the member we selected have available ecoupon"
 tags:
 - 05_error_exception
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1854
 issue_type: Bug PRD
 status: Closed
-title: "FE-1854-inc3394928-ksfa241-issues-with-sending-email-recei"
+title: "FE-1854: INC3394928 -KSFA241  Issues with sending email receipt to the customer"
 tags:
 - 02_config_settings
 - faq

@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1821
 issue_type: Bug PRD
 status: DEV Done
-title: "FE-1821-cs-1865-inc3314927-ksj-c309-receipt-print-performa"
+title: "FE-1821: INC3314927 KSJ C309 Receipt Print performance issue"
 tags:
 - 04_data_sync
 - faq

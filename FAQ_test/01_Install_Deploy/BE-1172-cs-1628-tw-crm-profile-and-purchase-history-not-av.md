@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1172
 issue_type: Bug PRD
 status: Closed
-title: "BE-1172-cs-1628-tw-crm-profile-and-purchase-history-not-av"
+title: "BE-1172: CS-1628 TW CRM - “Profile” and “Purchase History” Not Available For Current Version"
 tags:
 - 01_install_deploy
 - be

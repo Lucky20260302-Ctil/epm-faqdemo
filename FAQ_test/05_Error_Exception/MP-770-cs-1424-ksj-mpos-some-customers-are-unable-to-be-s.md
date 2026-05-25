@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-770
 issue_type: Bug PRD
 status: Closed
-title: "MP-770-cs-1424-ksj-mpos-some-customers-are-unable-to-be-s"
+title: "MP-770: KSJ MPOS : Some customers are unable to be selected on mPOS"
 tags:
 - 05_error_exception
 - faq

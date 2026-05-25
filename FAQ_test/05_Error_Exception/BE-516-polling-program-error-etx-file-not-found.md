@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-516
 issue_type: Bug PRD
 status: Closed
-title: "BE-516-polling-program-error-etx-file-not-found"
+title: "BE-516: Polling program --- Error “ETX file not found”"
 tags:
 - 05_error_exception
 - be

@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3300
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3300-epro-890-production-wrong-message-prompted-on-activation"
+title: "EPMTDCPROT-3300: EPRO-890 - [Production] Wrong message prompted on Activation page when press 'Enter' instead of mouse c"
 tags:
 - 05-error-exception
 - 05_error_exception

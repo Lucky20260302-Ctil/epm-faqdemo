@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-1232
 issue_type: Bug QA
 status: Closed
-title: "BE-1232-cs-2099-anz-gcsap-cannot-process-void-gc-issue-rec"
+title: "BE-1232: SAP cannot process void GC issue records"
 tags:
 - 07_workflow_business
 - be

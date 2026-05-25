@@ -3,7 +3,7 @@ project: BE
 issue_key: BE-655
 issue_type: Bug QA
 status: Closed
-title: "BE-655-cannot-print-amendment-list-successfully-after-mak"
+title: "BE-655: Cannot print Amendment list successfully after make an amendment of delivery order batch"
 tags:
 - 06_printing_hardware
 - be

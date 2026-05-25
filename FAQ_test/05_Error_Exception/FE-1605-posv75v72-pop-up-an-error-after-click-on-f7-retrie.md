@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1605
 issue_type: Bug QA
 status: Closed
-title: "FE-1605-posv75v72-pop-up-an-error-after-click-on-f7-retrie"
+title: "FE-1605: Pop up an error after click on 'F7 Retrieve Order'"
 tags:
 - 05_error_exception
 - faq

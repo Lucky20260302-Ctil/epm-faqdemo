@@ -3,7 +3,7 @@ project: WEB
 issue_key: WEB-376
 issue_type: Bug PRD
 status: Closed
-title: "WEB-376-acu-73performance-improvement-on-memberupsert-inte"
+title: "WEB-376: Performance Improvement on member/upsert Interface of POS"
 tags:
 - 05_error_exception
 - faq

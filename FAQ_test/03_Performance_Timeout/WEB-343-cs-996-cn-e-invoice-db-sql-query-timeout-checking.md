@@ -3,7 +3,7 @@ project: WEB
 issue_key: WEB-343
 issue_type: Bug PRD
 status: Closed
-title: "WEB-343-cs-996-cn-e-invoice-db-sql-query-timeout-checking"
+title: "WEB-343: CS-996: CN E-invoice DB SQL Query timeout checking"
 tags:
 - 03_performance_timeout
 - faq

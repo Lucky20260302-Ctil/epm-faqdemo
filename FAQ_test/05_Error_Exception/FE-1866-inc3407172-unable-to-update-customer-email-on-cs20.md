@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1866
 issue_type: Bug PRD
 status: Closed
-title: "FE-1866-inc3407172-unable-to-update-customer-email-on-cs20"
+title: "FE-1866: Unable to update customer email on CS2000 web"
 tags:
 - 05_error_exception
 - faq

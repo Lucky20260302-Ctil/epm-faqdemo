@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1645
 issue_type: Bug PRD
 status: Closed
-title: "FE-1645-acu-116-always-message-this-member-does-not-consen"
+title: "FE-1645: Always message 'This member does not consent to enquire out of border' while searching CN member which is exist"
 tags:
 - 05_error_exception
 - faq

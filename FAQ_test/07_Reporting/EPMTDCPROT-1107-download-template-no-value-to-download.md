@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1107
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-1107-download-template-no-value-to-download"
+title: "EPMTDCPROT-1107: Download Template - no value to download"
 tags:
 - 07-reporting
 - 07_reporting

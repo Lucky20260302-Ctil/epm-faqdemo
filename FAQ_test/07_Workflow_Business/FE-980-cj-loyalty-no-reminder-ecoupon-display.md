@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-980
 issue_type: Bug QA
 status: Closed
-title: "FE-980-cj-loyalty-no-reminder-ecoupon-display"
+title: "FE-980: CJ Loyalty - no Reminder eCoupon display"
 tags:
 - 07_workflow_business
 - faq

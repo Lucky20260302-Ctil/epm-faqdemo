@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3283
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3283-epro-887-production-email-address-with-space-for-supplier"
+title: "EPMTDCPROT-3283: EPRO-887 [Production] Email Address with Space for Supplier Registration / Account Activation"
 tags:
 - 05-error-exception
 - 05_error_exception

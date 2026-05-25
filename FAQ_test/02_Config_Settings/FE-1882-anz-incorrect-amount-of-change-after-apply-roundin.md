@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1882
 issue_type: Bug QA
 status: Selected for Development (migrated)
-title: "FE-1882-anz-incorrect-amount-of-change-after-apply-roundin"
+title: "FE-1882: Incorrect amount of change after apply rounding: CHANGEROUND=R settings"
 tags:
 - 02_config_settings
 - faq

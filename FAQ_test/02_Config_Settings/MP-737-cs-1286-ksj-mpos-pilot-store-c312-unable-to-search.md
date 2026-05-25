@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-737
 issue_type: Bug PRD
 status: Closed
-title: "MP-737-cs-1286-ksj-mpos-pilot-store-c312-unable-to-search"
+title: "MP-737: KSJ mPOS: Pilot store C312 unable to search VIP"
 tags:
 - 02_config_settings
 - faq

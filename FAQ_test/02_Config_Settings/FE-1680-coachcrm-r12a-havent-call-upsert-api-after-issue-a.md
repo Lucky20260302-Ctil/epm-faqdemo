@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1680
 issue_type: Bug QA
 status: Closed
-title: "FE-1680-coachcrm-r12a-havent-call-upsert-api-after-issue-a"
+title: "FE-1680: R12A haven't call upsert api after issue an order with new member created by POS"
 tags:
 - 02_config_settings
 - faq

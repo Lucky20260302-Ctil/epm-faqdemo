@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1547
 issue_type: Bug QA
 status: Closed
-title: "FE-1547-coachcrm-milestone-2-fail-to-display-mutiple-membe"
+title: "FE-1547: Fail to display mutiple member results when backend DB has more than 1 same telephone number"
 tags:
 - 05_error_exception
 - faq

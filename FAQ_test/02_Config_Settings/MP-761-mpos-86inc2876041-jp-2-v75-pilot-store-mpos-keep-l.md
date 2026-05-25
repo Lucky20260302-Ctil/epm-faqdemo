@@ -3,7 +3,7 @@ project: MP
 issue_key: MP-761
 issue_type: Bug PRD
 status: Closed
-title: "MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l"
+title: "MP-761: JP 2 V75 Pilot store MPOS keep loading and pop out error:”Fail to Connect SalesHub”after update to new version"
 tags:
 - 02_config_settings
 - faq

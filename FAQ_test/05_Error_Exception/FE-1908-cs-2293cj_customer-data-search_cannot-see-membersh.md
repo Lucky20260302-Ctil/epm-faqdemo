@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1908
 issue_type: Bug PRD
 status: Closed
-title: "FE-1908-cs-2293cj_customer-data-search_cannot-see-membersh"
+title: "FE-1908: CJ_Customer data search_cannot see 'membership available period' info"
 tags:
 - 05_error_exception
 - faq

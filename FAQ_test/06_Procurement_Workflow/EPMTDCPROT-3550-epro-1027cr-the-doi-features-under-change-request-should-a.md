@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3550
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3550-epro-1027cr-the-doi-features-under-change-request-should-a"
+title: "EPMTDCPROT-3550: EPRO-1027[CR] The DOI features under change request should also be applied for supplier management flow"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

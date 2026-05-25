@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3602
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-3602-cr-supplier-full-reg-info-change-pre-reg-info-change-b"
+title: "EPMTDCPROT-3602: [CR Supplier] full-reg info change / pre-reg info change / br update 這些create form 完成DOI後不會顯示在draft lis"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

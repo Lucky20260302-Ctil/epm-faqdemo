@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1393
 issue_type: Bug PRD
 status: Closed
-title: "FE-1393-cs-1034-issue_jp_rin01339795-a-barcode-was-splited"
+title: "FE-1393: Issue_JP_RIN01339795 A barcode was splited up when printed out."
 tags:
 - 06_printing_hardware
 - faq

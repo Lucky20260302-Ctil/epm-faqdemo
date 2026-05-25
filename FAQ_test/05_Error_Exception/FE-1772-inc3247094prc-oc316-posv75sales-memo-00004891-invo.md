@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1772
 issue_type: Bug DEV
 status: DEV Done
-title: "FE-1772-inc3247094prc-oc316-posv75sales-memo-00004891-invo"
+title: "FE-1772: PRC OC316 POSv75,Sales memo 00004891 invoice QR code can't be printed out"
 tags:
 - 05_error_exception
 - faq

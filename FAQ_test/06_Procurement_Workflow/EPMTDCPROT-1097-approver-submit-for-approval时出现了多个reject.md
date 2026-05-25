@@ -3,7 +3,7 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1097
 issue_type: ''
 status: ''
-title: "EPMTDCPROT-1097-approver-submit-for-approval时出现了多个reject"
+title: "EPMTDCPROT-1097: Approver submit for approval时出现了多个Reject"
 tags:
 - 06-procurement-workflow
 - 06_procurement_workflow

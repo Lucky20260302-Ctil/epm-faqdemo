@@ -3,7 +3,7 @@ project: FE
 issue_key: FE-1706
 issue_type: Bug PRD
 status: Closed
-title: "FE-1706-cs-1426issue_prc-oss_b-file-time-is-more-than-30-m"
+title: "FE-1706: Issue_PRC OSS_B file time is more than 30 minutes"
 tags:
 - 04_data_sync
 - faq
