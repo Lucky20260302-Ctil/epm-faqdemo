@@ -6,7 +6,7 @@ updated: 2026-05-25
 
 # 配置與設定
 
-> 21 篇 FAQ · 21 篇完整 · 0 篇部分
+> 20 篇 FAQ · 20 篇完整 · 0 篇部分
 
 | # | 工單 | 專案 | 品質 | 症狀摘要 |
 |---|------|------|:---:|----------|
@@ -30,6 +30,5 @@ updated: 2026-05-25
 | 18 | [[MP-754-mpos-81-mpos-3295-jp-local-iis-invalid-pop-up-wind|MP-754]] | MP | ✅ | MPOS 3.29.5 - JP Local IIS, invalid pop-up window for Void function |
 | 19 | [[MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l|MP-761]] | MP | ✅ | JP 2 V75 Pilot store MPOS keep loading and pop out error:”Fail to Connect SalesH... |
 | 20 | [[MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta|MP-830]] | MP | ✅ | J242 MPOS popout error "Passes don't contain empty strings or space characters" ... |
-| 21 | [[WEB-404-cs-1514-tw-crm-cross-border-should-only-happen-for|WEB-404]] | WEB | ✅ | TW CRM - Cross border should only happen for CN member, rest regions no need |
 
 > 最後更新: 2026-05-25 · 自動生成
