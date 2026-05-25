@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.21	The Platform shall allow configuration of timeout duration, automatically logging out the user after a period of inactivity, this timeout duration may be different for various activities in the Platform if applicable. Auto-save function shall be applied to save all inputted / uploaded information before automatically logging out the user.
-
+    - **3.1.21** The Platform shall allow configuration of timeout duration, automatically logging out the user after a period of inactivity, this timeout duration may be different for various activities in the Platform if applicable. Auto-save function shall be applied to save all inputted / uploaded information before automatically logging out the user.
 ## 驗收標準
 
 The Platform should enforce session timeouts, automatically terminating inactive sessions after a specified period of inactivity:

@@ -15,11 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.7	Quotation / Tender Opening
-(f) The Platform shall incorporate the following processes for RFQs / tenders adopting Two Envelope Approach:
-(ii) after inputting of technical assessment results and calculating the technical score by the Platform, the Platform should make available the fee proposals of suppliers that have passed the technical assessments.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.7** Quotation / Tender Opening (f) The Platform shall incorporate the following processes for RFQs / tenders adopting Two Envelope Approach: (ii) after inputting of technical assessment results and calculating the technical score by the Platform, the Platform should make available the fee proposals of suppliers that have passed the technical assessments.
 ## 驗收標準
 
 The process for assigning RFQ / Tender Opening team members is detailed in FR-RTR-011.

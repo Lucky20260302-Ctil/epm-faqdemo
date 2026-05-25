@@ -16,9 +16,7 @@ created: '2026-05-22'
 ## 需求描述
 
 D.	Generation of Reports / Documents
-3.55.	Summaries and documents to be generated for the features and functions related to different procurement procedures shall include but not limited to the following:
-(e) Pricing schedules
-
+- **3.55** Summaries and documents to be generated for the features and functions related to different procurement procedures shall include but not limited to the following: (e) Pricing schedules
 ## 驗收標準
 
 The Platform allows bidders/tenderers to export the Pricing Schedule e-Form to an Excel file, as outlined in FR-RTR-012.

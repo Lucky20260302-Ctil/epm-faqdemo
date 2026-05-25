@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.3	The Platform shall be in multi-lingual version, i.e. the Platform shall basically allow displaying and inputting contents in either English or Traditional Chinese according to choice of respective user.
-
+    - **3.1.3** The Platform shall be in multi-lingual version, i.e. the Platform shall basically allow displaying and inputting contents in either English or Traditional Chinese according to choice of respective user.
 ## 驗收標準
 
 The Platform shall support the following languages for the user interface and input contents:

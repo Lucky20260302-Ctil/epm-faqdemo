@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.54	To prevent duplicate update request on a supplier record, the Platform should integrate with FMS Supplier Platform. The Platform should share the non-completed change requests, enabling FMS Supplier Platform to take appropriate measures to block Internal User from submitting duplicate request for the same supplier record.
-
+- **3.54** To prevent duplicate update request on a supplier record, the Platform should integrate with FMS Supplier Platform. The Platform should share the non-completed change requests, enabling FMS Supplier Platform to take appropriate measures to block Internal User from submitting duplicate request for the same supplier record.
 ## 驗收標準
 
 The Platform supports a block mode feature for when supplier information change is submitted on the Platform by the supplier or on FMS by internal users.

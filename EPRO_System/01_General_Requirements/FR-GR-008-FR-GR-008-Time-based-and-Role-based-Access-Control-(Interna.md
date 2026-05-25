@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.8	The Contractor shall propose a comprehensive set of roles and responsibilities, including viewer, preparer, reviewer, approver, administrator, and various levels of approval, within the Platform. These proposals should align with HKTDC's organisational chart and comply with the PPG and other relevant policies. The system settings should be intelligently designed to ensure the seamless assignment of appropriate access and privileges to users, taking into consideration their specific roles, requirements, and the hierarchical approval process. Unless stated otherwise, all users of the Platform within HKTDC are collectively referred to as “Internal Users”.
-
+    - **3.1.8** The Contractor shall propose a comprehensive set of roles and responsibilities, including viewer, preparer, reviewer, approver, administrator, and various levels of approval, within the Platform. These proposals should align with HKTDC's organisational chart and comply with the PPG and other relevant policies. The system settings should be intelligently designed to ensure the seamless assignment of appropriate access and privileges to users, taking into consideration their specific roles, requirements, and the hierarchical approval process. Unless stated otherwise, all users of the Platform within HKTDC are collectively referred to as “Internal Users”.
 ## 驗收標準
 
 The Platform have the capability to assign Procurement Officer / Buyer to specific user groups based on their division or department within the organization. This assignment ensures that users can only access procurement activities within their designated user group and are restricted from accessing activities in other user groups.

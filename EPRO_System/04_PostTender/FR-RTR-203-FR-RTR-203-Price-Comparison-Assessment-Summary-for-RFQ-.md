@@ -15,10 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.7	Quotation / Tender Opening
-(g) The Platform shall generate price comparison / assessment summary for RFQ / tender in prescribed layout (with indication of no submission or technically disqualified, if applicable).
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.7** Quotation / Tender Opening (g) The Platform shall generate price comparison / assessment summary for RFQ / tender in prescribed layout (with indication of no submission or technically disqualified, if applicable).
 ## 驗收標準
 
 The following reports are available for internal users with access control:

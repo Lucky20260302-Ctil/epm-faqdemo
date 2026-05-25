@@ -15,17 +15,9 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
-(f) Declining bid with mandatory input of reason
-3.6.3	The Platform shall be developed with the following features:
-(h) Suppliers shall be allowed to withdraw and/or resubmit quotations / proposals before the closing time. However, such changes shall be restricted to the same account (i.e. If Sub-account A submitted a quotation / proposal, he will be the primary account to manage and amend the submissions which other sub-accounts cannot be able to supersede / amend them).
-(i) The Platform should reject any amendments or submissions of proposals after the closing time (documents in uploading process / documents uploaded successfully but suppliers did not click “Submit” button to confirm their submission at closing time will not be considered).
-(j) The Platform should send an email notification to the supplier upon successful submission of quotation / proposal.
-(k) The corresponding Subject Officer and/or F&A User shall have real time access to the number of submissions received on the Platform.
-(l) Suppliers shall have the option to decline the invitation with compulsory input of decline reasons.
-(m) Suppliers shall be allowed to withdraw their decline decision and submit quotations / proposals before closing time.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.2** External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period: (f) Declining bid with mandatory input of reason
+    - **3.6.3** The Platform shall be developed with the following features: (h) Suppliers shall be allowed to withdraw and/or resubmit quotations / proposals before the closing time. However, such changes shall be restricted to the same account (i.e. If Sub-account A submitted a quotation / proposal, he will be the primary account to manage and amend the submissions which other sub-accounts cannot be able to supersede / amend them). (i) The Platform should reject any amendments or submissions of proposals after the closing time (documents in uploading process / documents uploaded successfully but suppliers did not click “Submit” button to confirm their submission at closing time will not be considered). (j) The Platform should send an email notification to the supplier upon successful submission of quotation / proposal. (k) The corresponding Subject Officer and/or F&A User shall have real time access to the number of submissions received on the Platform. (l) Suppliers shall have the option to decline the invitation with compulsory input of decline reasons. (m) Suppliers shall be allowed to withdraw their decline decision and submit quotations / proposals before closing time.
 ## 驗收標準
 
 Procurement Officers configure the RFQ/Tender exercise to allow bidders/tenderers to submit their quotations / tenders to the E-Tender Box online through the Platform.

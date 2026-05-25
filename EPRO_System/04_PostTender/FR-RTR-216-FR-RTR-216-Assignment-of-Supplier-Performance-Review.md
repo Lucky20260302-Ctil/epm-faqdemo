@@ -15,12 +15,9 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.9.	RFQ / Tender Award and Contract Management
-3.9.1	For RFQ
-(a) Upon approval of PO on FMS, the PO information, including PO number, status and amount shall also be accessible on the Platform. Subject Officers shall also be required to input additional details on the Platform, such as the name of responsible staff, service commencement and (expected) completion dates for supplier performance review and, if appropriate, a reminder of contract renewal.
-3.9.2	For Tender
-(c) Upon approval of the PO on FMS, the PO information, including PO number, status and amount, shall be available on the Platform. Internal Users shall upload the duly signed LOA and/or Contract Document to the Platform with input of necessary information for supplier performance review and, if appropriate, a reminder for contract renewal.
-
+- **3.9** RFQ / Tender Award and Contract Management
+    - **3.9.1** For RFQ (a) Upon approval of PO on FMS, the PO information, including PO number, status and amount shall also be accessible on the Platform. Subject Officers shall also be required to input additional details on the Platform, such as the name of responsible staff, service commencement and (expected) completion dates for supplier performance review and, if appropriate, a reminder of contract renewal.
+    - **3.9.2** For Tender (c) Upon approval of the PO on FMS, the PO information, including PO number, status and amount, shall be available on the Platform. Internal Users shall upload the duly signed LOA and/or Contract Document to the Platform with input of necessary information for supplier performance review and, if appropriate, a reminder for contract renewal.
 ## 驗收標準
 
 The e-Form for updating the necessary information for supplier performance review can be used :

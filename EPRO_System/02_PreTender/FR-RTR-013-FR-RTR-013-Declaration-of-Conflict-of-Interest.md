@@ -15,11 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.4.	Preparation of RFQ / Tender Invitations
-3.4.3.	Internal Users who initiate the purchase should assign a procurement coordinator (“Subject Officers”), who will be responsible for inputting and performing other necessary actions on the Platform to facilitate the issuance of invitations. This encompasses various tasks, including but not limited to, providing the following information:
-(d) Declaration of Conflict of Interest
-(i) Subject Officers and all reviewers, assessors or approvers involved in the subject purchase on the Platform shall declare any conflict of interest they may have with the invited suppliers.
-
+- **3.4** Preparation of RFQ / Tender Invitations
+    - **3.4.3** Internal Users who initiate the purchase should assign a procurement coordinator (“Subject Officers”), who will be responsible for inputting and performing other necessary actions on the Platform to facilitate the issuance of invitations. This encompasses various tasks, including but not limited to, providing the following information: (d) Declaration of Conflict of Interest (i) Subject Officers and all reviewers, assessors or approvers involved in the subject purchase on the Platform shall declare any conflict of interest they may have with the invited suppliers.
 ## 驗收標準
 
 Before initiating the sourcing process, the requestor from either the User Division/Department or the Purchasing Division/Department must complete the Procurement Strategy (PS) e-form and obtain approval at the project's initial stage.

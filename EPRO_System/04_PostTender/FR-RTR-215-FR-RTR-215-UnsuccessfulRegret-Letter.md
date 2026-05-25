@@ -15,10 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.9.	RFQ / Tender Award and Contract Management
-3.9.1	For RFQ
-(b) Regardless of whether the PO will be sent through FMS, the Platform shall notify all suppliers who have submitted quotations / proposals about the results (whether they have been awarded or unsuccessful) via email and/or system messages.
-
+- **3.9** RFQ / Tender Award and Contract Management
+    - **3.9.1** For RFQ (b) Regardless of whether the PO will be sent through FMS, the Platform shall notify all suppliers who have submitted quotations / proposals about the results (whether they have been awarded or unsuccessful) via email and/or system messages.
 ## 驗收標準
 
 The e-Form for issuing Unsuccessful/Regret Letter related to the RFQ / Tender can be used during Tender Negotiation:

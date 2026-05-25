@@ -15,18 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.6	The estimated usage of the Platform is as follows:
-Approximately 21,000 low-value purchases, 3,650 RFQ and 250 tenders to be handled per year.
-Approximately 4 suppliers will be invited on average for each RFQ / tender exercise, with the possibility of inviting a higher number up to 8 suppliers in certain cases.
-Estimated 50 users, including HKTDC staff and external suppliers, will be using the Platform concurrently.
-Estimated 500 HKTDC staff for named user license.
-Able to support concurrently performance of 15 tenders and 300 RFQ (at different stages).
-Approximately 10,000 suppliers are currently maintained on FMS Supplier Platform and shall be registered onto the Platform by stages upon launch.
-Approximately 50 new supplier registration on average per month.
-The average size of tender invitation documents shall be 15MB, while the average size of proposals received shall be 100MB.
-Note: The procurement activities to be carried out within the Platform shall include RFQ, tenders, waivers, variation orders, low-valued purchase and purchase of items on the exemption list. Quotation exercises are not mandatory for low-valued purchases and the purchase of items on the exemption list.
-3.1.7	The Contractor shall perform necessary stress testing to ensure the capability of the Platform will meet the estimated usage as stated in Section 3.1.6.
-
+    - **3.1.6** The estimated usage of the Platform is as follows: Approximately 21,000 low-value purchases, 3,650 RFQ and 250 tenders to be handled per year. Approximately 4 suppliers will be invited on average for each RFQ / tender exercise, with the possibility of inviting a higher number up to 8 suppliers in certain cases. Estimated 50 users, including HKTDC staff and external suppliers, will be using the Platform concurrently. Estimated 500 HKTDC staff for named user license. Able to support concurrently performance of 15 tenders and 300 RFQ (at different stages). Approximately 10,000 suppliers are currently maintained on FMS Supplier Platform and shall be registered onto the Platform by stages upon launch. Approximately 50 new supplier registration on average per month. The average size of tender invitation documents shall be 15MB, while the average size of proposals received shall be 100MB. Note: The procurement activities to be carried out within the Platform shall include RFQ, tenders, waivers, variation orders, low-valued purchase and purchase of items on the exemption list. Quotation exercises are not mandatory for low-valued purchases and the purchase of items on the exemption list.
+    - **3.1.7** The Contractor shall perform necessary stress testing to ensure the capability of the Platform will meet the estimated usage as stated in Section 3.1.6.
 ## 驗收標準
 
 Data sizing: The Platform should be designed to accommodate a 5% annual growth rate in the volume of low-value purchases, RFQs, and Tenders, while maintaining all related documents online for 7 years with audit trails. Documents older than 7 years will be archived with HKTDC confirmation for purge.

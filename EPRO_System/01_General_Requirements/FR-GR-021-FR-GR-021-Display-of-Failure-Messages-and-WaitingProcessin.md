@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.24	A failure message should be popped up to notify Internal Users and External Suppliers on any problem with details (e.g. invalid submission, upload failure). Indication of waiting / processing state shall be included for any activities on the Platform.
-
+    - **3.1.24** A failure message should be popped up to notify Internal Users and External Suppliers on any problem with details (e.g. invalid submission, upload failure). Indication of waiting / processing state shall be included for any activities on the Platform.
 ## 驗收標準
 
 These error codes are designed to cover various scenarios that may occur across different services and components in the system. Each error code is accompanied by a description to provide clarity on the nature of the error.

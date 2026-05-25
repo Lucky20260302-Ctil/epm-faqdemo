@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.26	Words entered in English shall preferably be supported with spell checking.
-
+    - **3.1.26** Words entered in English shall preferably be supported with spell checking.
 ## 驗收標準
 
 The Platform does not provide spell checking as it is a native feature of internet browsers.

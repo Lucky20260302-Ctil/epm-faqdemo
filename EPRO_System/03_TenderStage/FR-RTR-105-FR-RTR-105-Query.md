@@ -15,13 +15,9 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
-(d) Raising queries and acknowledging HKTDC’s responses, including acknowledging addendum issued by HKTDC [Preferred Function – quote under Section A - Core Items in Annex D - Pricing Schedule]
-3.6.6	Query and Addendum
-(a) Suppliers shall be able to raise queries through the Platform, including attachments.
-(b) Subject Officers shall receive email notifications when queries are received for their responsible RFQ / tender.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.2** External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period: (d) Raising queries and acknowledging HKTDC’s responses, including acknowledging addendum issued by HKTDC [Preferred Function – quote under Section A - Core Items in Annex D - Pricing Schedule]
+    - **3.6.6** Query and Addendum (a) Suppliers shall be able to raise queries through the Platform, including attachments. (b) Subject Officers shall receive email notifications when queries are received for their responsible RFQ / tender.
 ## 驗收標準
 
 In the event that Procurement Officers configure the RFQ/Tender exercise to allow bidders/tenderers to submit queries online through the Platform.

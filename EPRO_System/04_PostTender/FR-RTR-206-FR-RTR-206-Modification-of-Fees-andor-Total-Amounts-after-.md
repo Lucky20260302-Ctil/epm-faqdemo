@@ -15,10 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.8	Clarification [Preferred Function - quote under Section A - Core Items in Annex D - Pricing Schedule]
-(g) The fees and/or total amount may need to be modified based on clarifications, if necessary. The Platform shall accommodate this operation to allow modification by the Subject Officer or the concerned external supplier after closing time. The price comparison / assessment summary shall be updated accordingly. All related modifications of fees should be logged in the Platform with mandatory input of justifications and obtaining appropriate approvals.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.8** Clarification [Preferred Function - quote under Section A - Core Items in Annex D - Pricing Schedule] (g) The fees and/or total amount may need to be modified based on clarifications, if necessary. The Platform shall accommodate this operation to allow modification by the Subject Officer or the concerned external supplier after closing time. The price comparison / assessment summary shall be updated accordingly. All related modifications of fees should be logged in the Platform with mandatory input of justifications and obtaining appropriate approvals.
 ## 驗收標準
 
 The e-Form for handling the modification of fees and/or total amounts after Post-Tender Clarifications can be used during RFQ / Tender Evaluation and Negotiation:

@@ -15,12 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.7.	RFQ / Tender Assessment
-3.7.1	Single Envelope Approach
-(a) Assessment panel members would not be required for the assessment of RFQ / tender using the Single Envelope Approach.
-(b) The Platform shall allow the uploading of fee proposals submitted off-system and/or input of fee information by the Subject Officer for price comparison.
-(c) The Platform shall generate a price comparison table in Excel format, providing an analysis on the lowest total amount and lowest price for each item, in accordance with the format of the finalised pricing schedule format.
-
+- **3.7** RFQ / Tender Assessment
+    - **3.7.1** Single Envelope Approach (a) Assessment panel members would not be required for the assessment of RFQ / tender using the Single Envelope Approach. (b) The Platform shall allow the uploading of fee proposals submitted off-system and/or input of fee information by the Subject Officer for price comparison. (c) The Platform shall generate a price comparison table in Excel format, providing an analysis on the lowest total amount and lowest price for each item, in accordance with the format of the finalised pricing schedule format.
 ## 驗收標準
 
 This process depends on the configuration of the Procurement Strategy e-Form, as outlined in FR-RTR-001. The procedures required for conducting the RFQ / Tender Evaluation online include:

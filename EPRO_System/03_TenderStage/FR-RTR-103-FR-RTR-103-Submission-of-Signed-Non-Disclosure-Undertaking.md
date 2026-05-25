@@ -15,15 +15,9 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
-(a) Submission of signed Non-Disclosure Undertaking to obtain RFQ / Tender Documents, if applicable
-3.6.4	Submission of Signed Non-Disclosure Undertaking
-(a) The Contractor shall advise and develop a checking mechanism that suppliers who have not submitted a signed undertaking shall not be allowed to obtain/access the RFQ / Tender Documents and proceed further to submission of quotations / proposals. Such checking mechanism shall be applicable if Subject Officer requires a prior undertaking.
-(b) A blank undertaking shall be available for invited suppliers to download.
-(c) Suppliers shall upload the duly filled and signed undertaking to the Platform for responsible Subject Officer’s confirmation before release of RFQ / Tender Documents to them.
-(d) A soft copy of duly signed undertaking shall be maintained on the Platform.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.2** External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period: (a) Submission of signed Non-Disclosure Undertaking to obtain RFQ / Tender Documents, if applicable
+    - **3.6.4** Submission of Signed Non-Disclosure Undertaking (a) The Contractor shall advise and develop a checking mechanism that suppliers who have not submitted a signed undertaking shall not be allowed to obtain/access the RFQ / Tender Documents and proceed further to submission of quotations / proposals. Such checking mechanism shall be applicable if Subject Officer requires a prior undertaking. (b) A blank undertaking shall be available for invited suppliers to download. (c) Suppliers shall upload the duly filled and signed undertaking to the Platform for responsible Subject Officer’s confirmation before release of RFQ / Tender Documents to them. (d) A soft copy of duly signed undertaking shall be maintained on the Platform.
 ## 驗收標準
 
 Upon approved, the Platform will send an email notification to bidders/tenderers using a standard email template that includes the name/title, Publish/Issue Date, Invitation Closing Date and Time, Contact Persons, and additional requirements such as:

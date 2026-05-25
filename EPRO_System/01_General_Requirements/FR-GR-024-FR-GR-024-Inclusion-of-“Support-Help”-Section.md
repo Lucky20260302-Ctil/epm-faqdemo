@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.27	The Platform shall include a ‘Support / Help’ section that provides User Guidelines for both Internal Users and external suppliers, as well as general contact details for technical support.
-
+    - **3.1.27** The Platform shall include a ‘Support / Help’ section that provides User Guidelines for both Internal Users and external suppliers, as well as general contact details for technical support.
 ## 驗收標準
 
 The Platform provides a web page dedicated to "Support / Help" that can be updated by System admin users.

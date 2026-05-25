@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.1	The Platform shall be built in a microservice architecture that will allow the addition and/or integration of other functional modules, either developed by the Contractor or other HKTDC’s engaged suppliers, without impacting the overall platform functionality.
-
+    - **3.1.1** The Platform shall be built in a microservice architecture that will allow the addition and/or integration of other functional modules, either developed by the Contractor or other HKTDC’s engaged suppliers, without impacting the overall platform functionality.
 ## 驗收標準
 
 The Platform consists of the following major function blocks:

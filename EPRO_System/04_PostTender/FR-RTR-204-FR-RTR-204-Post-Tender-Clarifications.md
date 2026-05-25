@@ -15,17 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.8	Clarification [Preferred Function - quote under Section A - Core Items in Annex D - Pricing Schedule]
-(a) Technical and/or Fee Clarifications may be required at different stages for RFQ / tender.
-(b) Subject Officers shall be able to issue clarifications to individual supplier upon obtaining appropriate approvals.
-(c) Subject Officers and external suppliers shall be allowed to upload attachments for the issuance and replies of clarification respectively.
-(d) Email shall be sent to the corresponding supplier when the clarification is issued and to the responsible Subject Officer when replies of clarification are received.
-(e) Only the concerned supplier could be able to access clarification particularly issued to him.
-(f) For procurement that exceeds a certain value, the responsible F&A User shall also receive notifications for issuance of clarifications and replies from suppliers.
-(g) The fees and/or total amount may need to be modified based on clarifications, if necessary. The Platform shall accommodate this operation to allow modification by the Subject Officer or the concerned external supplier after closing time. The price comparison / assessment summary shall be updated accordingly. All related modifications of fees should be logged in the Platform with mandatory input of justifications and obtaining appropriate approvals.
-(h) Subject Officers, relevant approvers and/or F&A Users shall be able to generate necessary information about clarifications in Excel format, including issuance time and contents, supplier name and response time and contents.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.8** Clarification [Preferred Function - quote under Section A - Core Items in Annex D - Pricing Schedule] (a) Technical and/or Fee Clarifications may be required at different stages for RFQ / tender. (b) Subject Officers shall be able to issue clarifications to individual supplier upon obtaining appropriate approvals. (c) Subject Officers and external suppliers shall be allowed to upload attachments for the issuance and replies of clarification respectively. (d) Email shall be sent to the corresponding supplier when the clarification is issued and to the responsible Subject Officer when replies of clarification are received. (e) Only the concerned supplier could be able to access clarification particularly issued to him. (f) For procurement that exceeds a certain value, the responsible F&A User shall also receive notifications for issuance of clarifications and replies from suppliers. (g) The fees and/or total amount may need to be modified based on clarifications, if necessary. The Platform shall accommodate this operation to allow modification by the Subject Officer or the concerned external supplier after closing time. The price comparison / assessment summary shall be updated accordingly. All related modifications of fees should be logged in the Platform with mandatory input of justifications and obtaining appropriate approvals. (h) Subject Officers, relevant approvers and/or F&A Users shall be able to generate necessary information about clarifications in Excel format, including issuance time and contents, supplier name and response time and contents.
 ## 驗收標準
 
 Bidders / Tenderers can receive Post-Tender Clarifications (Technical/Commercial Clarification) if all of the following conditions are met:

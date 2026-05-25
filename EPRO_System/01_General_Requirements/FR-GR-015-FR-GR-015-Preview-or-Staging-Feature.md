@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.17	The Platform shall provide a preview or staging function for all its features, allowing both Internal Users and external suppliers to review content and information before publishing or submitting them to relevant parties.
-
+    - **3.1.17** The Platform shall provide a preview or staging function for all its features, allowing both Internal Users and external suppliers to review content and information before publishing or submitting them to relevant parties.
 ## 驗收標準
 
 It is required that the platform provides a preview function for all request e-Forms, enabling both Internal Users and External Suppliers to review content and information before publishing or submitting to relevant parties.

@@ -15,9 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.15	Messages shall be popped up, where appropriate, to remind Internal Users and external suppliers about the corresponding follow-up step according to the pre-set flow and/or internal procedures.
-3.1.19	The Platform shall be integrated with email notification function that Internal Users and external suppliers shall receive timely reminders and updates on specific activities. The email notification templates, as well as any pop-up reminders and messages, shall be flexible enough to allow HKTDC to develop customised content according to various activities.
-
+    - **3.1.15** Messages shall be popped up, where appropriate, to remind Internal Users and external suppliers about the corresponding follow-up step according to the pre-set flow and/or internal procedures.
+    - **3.1.19** The Platform shall be integrated with email notification function that Internal Users and external suppliers shall receive timely reminders and updates on specific activities. The email notification templates, as well as any pop-up reminders and messages, shall be flexible enough to allow HKTDC to develop customised content according to various activities.
 ## 驗收標準
 
 The Platform should be capable of generating the following standard notification emails to the specified user roles:

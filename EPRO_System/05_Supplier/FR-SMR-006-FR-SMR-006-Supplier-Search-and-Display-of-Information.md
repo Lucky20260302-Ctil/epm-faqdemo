@@ -15,12 +15,11 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.41	The Platform shall allow Internal Users to search and display information about suppliers using filter and sorting functions based on their user privileges and specified selection criteria (e.g. by supplier name, supplier type, supplier category, average performance score, etc.). External suppliers shall not have access to perform supplier searches on the Platform.
-3.42	Search suggestions according to Platform database shall be available when keyword(s) is inputted by Internal Users.
-3.43	The search results shall be shown as a summary of the suppliers according to the chosen criteria to be arranged in a systematic way.
-3.44	By selecting a search result item, all selective details, including company name, previous award information and performance review information, supplier categories and contact person of the principal account and, if available, sub-account(s) shall be shown. All details of a supplier shall be presented in a systematic way designed by the Contractor (which could be under different tabs).
-3.45	Unless specified otherwise, all search results of suppliers shall be able to be exported in Excel format. All supplier registration forms shall be able to be exported in PDF format in prescribed layout and preferably with links to attached documents.
-
+- **3.41** The Platform shall allow Internal Users to search and display information about suppliers using filter and sorting functions based on their user privileges and specified selection criteria (e.g. by supplier name, supplier type, supplier category, average performance score, etc.). External suppliers shall not have access to perform supplier searches on the Platform.
+- **3.42** Search suggestions according to Platform database shall be available when keyword(s) is inputted by Internal Users.
+- **3.43** The search results shall be shown as a summary of the suppliers according to the chosen criteria to be arranged in a systematic way.
+- **3.44** By selecting a search result item, all selective details, including company name, previous award information and performance review information, supplier categories and contact person of the principal account and, if available, sub-account(s) shall be shown. All details of a supplier shall be presented in a systematic way designed by the Contractor (which could be under different tabs).
+- **3.45** Unless specified otherwise, all search results of suppliers shall be able to be exported in Excel format. All supplier registration forms shall be able to be exported in PDF format in prescribed layout and preferably with links to attached documents.
 ## 驗收標準
 
 The Platform supports the following user roles to search, list, and view Supplier record:

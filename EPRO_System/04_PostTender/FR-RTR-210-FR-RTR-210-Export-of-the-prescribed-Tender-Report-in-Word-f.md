@@ -15,12 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.8.	Approval of Award Recommendation
-3.8.1.	Preparation of Award Recommendation
-(a) The Contractor shall design and configure the Platform to allow Subject Officers to prepare award recommendations, including but not limited to the following information:
-(v) If the total contract price exceeds a certain amount as specified in the PPG, a Tender Report shall be attached for Tender Board approval.
-(vi) The Platform can automatically fill in the prescribed Tender Report with the information obtained from the Platform and it shall allow the Subject Officers / PRO Users to make edits on certain fields before sending it out for approval.
-
+- **3.8** Approval of Award Recommendation
+    - **3.8.1** Preparation of Award Recommendation (a) The Contractor shall design and configure the Platform to allow Subject Officers to prepare award recommendations, including but not limited to the following information: (v) If the total contract price exceeds a certain amount as specified in the PPG, a Tender Report shall be attached for Tender Board approval. (vi) The Platform can automatically fill in the prescribed Tender Report with the information obtained from the Platform and it shall allow the Subject Officers / PRO Users to make edits on certain fields before sending it out for approval.
 ## 驗收標準
 
 During , the Platform allows for the export of the required Tender Report in Word format and supports mail merge using reserved placeholders.

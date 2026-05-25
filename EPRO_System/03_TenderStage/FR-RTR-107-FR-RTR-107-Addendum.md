@@ -15,17 +15,9 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
-(d) Raising queries and acknowledging HKTDC’s responses, including acknowledging addendum issued by HKTDC [Preferred Function – quote under Section A - Core Items in Annex D - Pricing Schedule]
-3.6.6	Query and Addendum
-(d) Subject Officers shall be able to attach documents for addendum or their responses to queries.
-(e) Appropriate approval shall be obtained before publishing Tender Query and Addendum to suppliers.
-(f) For procurement that exceeds a certain value, F&A Users shall also receive the notifications for the receipt of queries, issuance of response to queries and addendum.
-(h) Invited supplier(s) shall receive email notifications for response to query and/or addendum.
-(i) Acknowledgement record from suppliers is required for each response to query and addenda.
-(j) The Platform shall record all necessary information for retrieval in Excel format, including supplier name, query and addendum details, acknowledgement date and time, for report generation.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.2** External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period: (d) Raising queries and acknowledging HKTDC’s responses, including acknowledging addendum issued by HKTDC [Preferred Function – quote under Section A - Core Items in Annex D - Pricing Schedule]
+    - **3.6.6** Query and Addendum (d) Subject Officers shall be able to attach documents for addendum or their responses to queries. (e) Appropriate approval shall be obtained before publishing Tender Query and Addendum to suppliers. (f) For procurement that exceeds a certain value, F&A Users shall also receive the notifications for the receipt of queries, issuance of response to queries and addendum. (h) Invited supplier(s) shall receive email notifications for response to query and/or addendum. (i) Acknowledgement record from suppliers is required for each response to query and addenda. (j) The Platform shall record all necessary information for retrieval in Excel format, including supplier name, query and addendum details, acknowledgement date and time, for report generation.
 ## 驗收標準
 
 The e-Form for submitting approval request for publishing addendums can be used before invitation closing date and time of the RFQ / Tender:

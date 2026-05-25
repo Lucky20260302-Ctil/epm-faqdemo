@@ -16,15 +16,7 @@ created: '2026-05-22'
 ## 需求描述
 
 B(v)	Other Requirements
-3.19.	The Platform shall have the following features:
-(a) There shall be search, sorting and filter functions of RFQ / tender based on user privilege and specified selection criteria (e.g. by department, closing date, assessment approach, invitation types, relevant document reference number of upstream or downstream stages, etc.). The selection criteria shall be different for Internal Users and external suppliers.
-(b) The search results shall be shown in a systematic way designed by the Contractor with related information, e.g. PR / Tender number and title, issuance and closing dates, etc.
-(c) By selecting a search result item, all related details, including the following, shall be shown:
-(i) All published documents, including Tender Documents, Tender Query and Tender Addendum
-(ii) Immediate information on which suppliers have acknowledged receipt of the invitation documents and, if applicable, replied attendance of briefing / site visit or signing of Non-Disclosure Undertaking (for Internal Users only)
-(iii) The number of declined offer and quotations / tender received (for Internal Users only)
-(d) Subject to the HKTDC’s security setting, Internal Users shall only have access to RFQ / tender information for themselves, their responsible department(s) or all departments.
-
+- **3.19** The Platform shall have the following features: (a) There shall be search, sorting and filter functions of RFQ / tender based on user privilege and specified selection criteria (e.g. by department, closing date, assessment approach, invitation types, relevant document reference number of upstream or downstream stages, etc.). The selection criteria shall be different for Internal Users and external suppliers. (b) The search results shall be shown in a systematic way designed by the Contractor with related information, e.g. PR / Tender number and title, issuance and closing dates, etc. (c) By selecting a search result item, all related details, including the following, shall be shown: (i) All published documents, including Tender Documents, Tender Query and Tender Addendum (ii) Immediate information on which suppliers have acknowledged receipt of the invitation documents and, if applicable, replied attendance of briefing / site visit or signing of Non-Disclosure Undertaking (for Internal Users only) (iii) The number of declined offer and quotations / tender received (for Internal Users only) (d) Subject to the HKTDC’s security setting, Internal Users shall only have access to RFQ / tender information for themselves, their responsible department(s) or all departments.
 ## 驗收標準
 
 The Platform supports the following user roles to search, list, and view Procurement Strategy e-Forms, including Part I, Part II, and Part III, as well as their associated RFQ/Tender exercises:

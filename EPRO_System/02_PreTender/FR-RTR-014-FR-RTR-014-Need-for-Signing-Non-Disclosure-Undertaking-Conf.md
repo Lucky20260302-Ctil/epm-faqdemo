@@ -15,14 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.4.	Preparation of RFQ / Tender Invitations
-(c) Development of Pricing Schedule
-(i) The Platform shall allow Subject Officers to upload / import a pricing schedule with customised contents and layout that are suitable for individual RFQ / tender requirements.
-(ii) If standard template(s) of pricing schedule are available for the proposed packaged solution, they shall be maintained on the Platform for Subject Officers to choose and modify as needed for individual RFQ / tender submissions with the following requirements:
-Information stated in Section 3.3.2 shall be appropriately mapped to the corresponding field for further modification.
-The finalised pricing schedule shall be issued in Excel format (or any other format suggested by the Contractor, which allows flexibility and further validation of submissions) for invited suppliers to fill in. Invited Suppliers shall be prevented from making changes from fields and contents other than the pricing field.
-(iii) Whether using a customised or standard template of the Pricing Schedule, the Platform shall be designed to facilitate price assessment. It should provide two separate sections for the entry of mandatory items and optional items, streamlining the evaluation process.
-
+- **3.4** Preparation of RFQ / Tender Invitations (c) Development of Pricing Schedule (i) The Platform shall allow Subject Officers to upload / import a pricing schedule with customised contents and layout that are suitable for individual RFQ / tender requirements. (ii) If standard template(s) of pricing schedule are available for the proposed packaged solution, they shall be maintained on the Platform for Subject Officers to choose and modify as needed for individual RFQ / tender submissions with the following requirements: Information stated in Section 3.3.2 shall be appropriately mapped to the corresponding field for further modification. The finalised pricing schedule shall be issued in Excel format (or any other format suggested by the Contractor, which allows flexibility and further validation of submissions) for invited suppliers to fill in. Invited Suppliers shall be prevented from making changes from fields and contents other than the pricing field. (iii) Whether using a customised or standard template of the Pricing Schedule, the Platform shall be designed to facilitate price assessment. It should provide two separate sections for the entry of mandatory items and optional items, streamlining the evaluation process.
 ## 驗收標準
 
 Before initiating the sourcing process, the requestor from either the User Division/Department or the Purchasing Division/Department must complete the Procurement Strategy (PS) e-form and obtain approval at the project's initial stage.

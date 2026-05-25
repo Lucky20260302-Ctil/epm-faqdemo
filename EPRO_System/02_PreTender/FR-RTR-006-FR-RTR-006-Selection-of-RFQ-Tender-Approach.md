@@ -15,18 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.4.	Preparation of RFQ / Tender Invitations
-3.4.3.	Internal Users who initiate the purchase should assign a procurement coordinator (“Subject Officers”), who will be responsible for inputting and performing other necessary actions on the Platform to facilitate the issuance of invitations. This encompasses various tasks, including but not limited to, providing the following information:
-(b) Selection of RFQ / Tender Approach
-(i) Depending on the purchase amount, there are two (2) approaches for both RFQ and tender: Single Envelope Approach, which is used for price assessment only, and the Two Envelope Approach, which is used for both technical and price assessment.
-(ii) For the Two Envelope Approach, the Platform shall allow for the completion of the technical assessment prior to the opening of fee proposals.
-(iii) The selection of approach in this stage shall affect the assessment in later stage.
-(iv) When Two Envelope Approach is chosen for an RFQ / a tender, the Platform shall require Subject Officers to input the following information:
-Technical / Fee weightings (input of reasons shall be mandatory when the weighting exceeds a certain ratio);
-Assessment criteria and/or sub-criteria, allowing for two layers of criteria setting;
-Maximum mark for each criterion / sub-criterion;
-Overall passing mark and, if applicable, passing mark for selective criteria / sub-criteria;
-
+- **3.4** Preparation of RFQ / Tender Invitations
+    - **3.4.3** Internal Users who initiate the purchase should assign a procurement coordinator (“Subject Officers”), who will be responsible for inputting and performing other necessary actions on the Platform to facilitate the issuance of invitations. This encompasses various tasks, including but not limited to, providing the following information: (b) Selection of RFQ / Tender Approach (i) Depending on the purchase amount, there are two (2) approaches for both RFQ and tender: Single Envelope Approach, which is used for price assessment only, and the Two Envelope Approach, which is used for both technical and price assessment. (ii) For the Two Envelope Approach, the Platform shall allow for the completion of the technical assessment prior to the opening of fee proposals. (iii) The selection of approach in this stage shall affect the assessment in later stage. (iv) When Two Envelope Approach is chosen for an RFQ / a tender, the Platform shall require Subject Officers to input the following information: Technical / Fee weightings (input of reasons shall be mandatory when the weighting exceeds a certain ratio); Assessment criteria and/or sub-criteria, allowing for two layers of criteria setting; Maximum mark for each criterion / sub-criterion; Overall passing mark and, if applicable, passing mark for selective criteria / sub-criteria;
 ## 驗收標準
 
 Before initiating the sourcing process, the requestor from either the User Division/Department or the Purchasing Division/Department must complete the Procurement Strategy (PS) e-form and obtain approval at the project's initial stage.

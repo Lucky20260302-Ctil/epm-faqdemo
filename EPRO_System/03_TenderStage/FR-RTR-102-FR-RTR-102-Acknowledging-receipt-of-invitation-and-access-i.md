@@ -15,10 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
-(c) Acknowledging receipt of invitation and access invitation documents
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.2** External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period: (c) Acknowledging receipt of invitation and access invitation documents
 ## 驗收標準
 
 Upon approved, the Platform will send an email notification to bidders/tenderers using a standard email template that includes the name/title, Publish/Issue Date, Invitation Closing Date and Time, Contact Persons, and additional requirements such as:

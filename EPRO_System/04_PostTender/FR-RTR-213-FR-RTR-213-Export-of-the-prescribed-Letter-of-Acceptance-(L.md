@@ -15,12 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.9.	RFQ / Tender Award and Contract Management
-3.9.2	For Tender
-(a) Following approval by the Tender Board, Subject Officers shall be required to prepare a Letter of Acceptance (“LOA”) for the awarded suppliers before the PO. The Contract Document shall be prepared and finalised with the awarded suppliers within an agreed-upon timeframe.
-(b) Standard templates for LOA and/or Contract Document shall be maintained on the Platform for Subject Officers’ use. Template references shall be provided by the HKTDC. The Platform shall allow Subject Officers to modify the templates and select which clause(s) to exclude (except for mandatory clauses) in the final LOA or Contract Documents in a user-friendly manner.
-(c) Upon approval of the PO on FMS, the PO information, including PO number, status and amount, shall be available on the Platform. Internal Users shall upload the duly signed LOA and/or Contract Document to the Platform with input of necessary information for supplier performance review and, if appropriate, a reminder for contract renewal.
-
+- **3.9** RFQ / Tender Award and Contract Management
+    - **3.9.2** For Tender (a) Following approval by the Tender Board, Subject Officers shall be required to prepare a Letter of Acceptance (“LOA”) for the awarded suppliers before the PO. The Contract Document shall be prepared and finalised with the awarded suppliers within an agreed-upon timeframe. (b) Standard templates for LOA and/or Contract Document shall be maintained on the Platform for Subject Officers’ use. Template references shall be provided by the HKTDC. The Platform shall allow Subject Officers to modify the templates and select which clause(s) to exclude (except for mandatory clauses) in the final LOA or Contract Documents in a user-friendly manner. (c) Upon approval of the PO on FMS, the PO information, including PO number, status and amount, shall be available on the Platform. Internal Users shall upload the duly signed LOA and/or Contract Document to the Platform with input of necessary information for supplier performance review and, if appropriate, a reminder for contract renewal.
 ## 驗收標準
 
 For Tender exercises,  the approval of the award recommendation, i.e. Procurement Strategy e-Form (Part II), Procurement Officers are required to prepare a Letter of Acceptance (LOA) for the awarded suppliers.

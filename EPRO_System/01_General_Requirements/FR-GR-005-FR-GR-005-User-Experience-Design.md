@@ -15,10 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.4	The user interface shall be concise with user friendly navigation.
-3.1.5	The Contractor shall design and develop the Platform to allow HKTDC staff and external suppliers to navigate in a user-friendly way. The Platform should facilitate seamless processes for all purchase management, proposal submission, and supplier management, allowing easy access and efficient
-execution of these activities.
-
+    - **3.1.4** The user interface shall be concise with user friendly navigation.
+    - **3.1.5** The Contractor shall design and develop the Platform to allow HKTDC staff and external suppliers to navigate in a user-friendly way. The Platform should facilitate seamless processes for all purchase management, proposal submission, and supplier management, allowing easy access and efficient execution of these activities.
 ## 驗收標準
 
 Include clearly labeled menus and navigation options for easy access to different functionalities.

@@ -16,9 +16,7 @@ created: '2026-05-22'
 ## 需求描述
 
 D.	Generation of Reports / Documents
-3.55.	Summaries and documents to be generated for the features and functions related to different procurement procedures shall include but not limited to the following:
-(k) Technical Assessment Scoring Sheet of individual members and summary of technical assessment (for Two Envelope Approach)
-
+- **3.55** Summaries and documents to be generated for the features and functions related to different procurement procedures shall include but not limited to the following: (k) Technical Assessment Scoring Sheet of individual members and summary of technical assessment (for Two Envelope Approach)
 ## 驗收標準
 
 The Platform support feature to export the Technical Assessment Summary in PDF, as outlined in FR-RTR-208.

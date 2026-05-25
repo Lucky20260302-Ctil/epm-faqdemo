@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.2	The function and layout of the Platform shall not be dependent on any browser, including Microsoft Edge, Chrome, Firefox, Safari, etc. The Platform shall be designed to be fully responsive, adapting seamlessly to different devices and screen sizes.
-
+    - **3.1.2** The function and layout of the Platform shall not be dependent on any browser, including Microsoft Edge, Chrome, Firefox, Safari, etc. The Platform shall be designed to be fully responsive, adapting seamlessly to different devices and screen sizes.
 ## 驗收標準
 
 The Platform is primarily designed to support Internal Users and External Suppliers using workstation PCs within the office network.

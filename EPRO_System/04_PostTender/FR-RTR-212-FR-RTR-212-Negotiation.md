@@ -15,11 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.8.2.	Negotiation
-(a) Depending on management decision, a representative from the User Department may negotiate the price with the supplier(s) to be awarded (accompanied by F&A Users for tenders).
-(b) The negotiation process shall be performed off-system. However, the concerned supplier(s) or the responsible Subject Officer shall be allowed to update the fee and/or total amount in the Platform according to the negotiation results as the best and final offer.
-(c) The approval of award recommendation shall be based on the negotiation prices.
-
+    - **3.8.2** Negotiation (a) Depending on management decision, a representative from the User Department may negotiate the price with the supplier(s) to be awarded (accompanied by F&A Users for tenders). (b) The negotiation process shall be performed off-system. However, the concerned supplier(s) or the responsible Subject Officer shall be allowed to update the fee and/or total amount in the Platform according to the negotiation results as the best and final offer. (c) The approval of award recommendation shall be based on the negotiation prices.
 ## 驗收標準
 
 Based on management decisions, Procurement Officers can submit an e-Form to request approval for Post-Tender Negotiations.

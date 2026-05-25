@@ -15,10 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.6	Query and Addendum
-(g) Subject Officers shall be allowed to amend the tender closing to a later date and/or time with mandatory input of justifications and appropriate approvals obtained on the Platform. Notification should be sent to all invited suppliers for such change. An email notification shall also be sent to responsible RFQ / Tender Opening Team for change of closing date and/or time upon approval and issuance of related addenda.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.6** Query and Addendum (g) Subject Officers shall be allowed to amend the tender closing to a later date and/or time with mandatory input of justifications and appropriate approvals obtained on the Platform. Notification should be sent to all invited suppliers for such change. An email notification shall also be sent to responsible RFQ / Tender Opening Team for change of closing date and/or time upon approval and issuance of related addenda.
 ## 驗收標準
 
 The e-Form for submitting an approval request for extension closing date and time can be used before invitation closing date and time of the RFQ / Tender:

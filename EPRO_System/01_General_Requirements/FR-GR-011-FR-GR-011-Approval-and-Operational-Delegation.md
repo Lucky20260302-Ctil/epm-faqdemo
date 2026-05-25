@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.10	The Platform shall provide the capability to assign another Internal User as a proxy to handle selected operations / approvals within a prescribed period (e.g. during leave), subject to pre-determined rules.
-
+    - **3.1.10** The Platform shall provide the capability to assign another Internal User as a proxy to handle selected operations / approvals within a prescribed period (e.g. during leave), subject to pre-determined rules.
 ## 驗收標準
 
 External Suppliers are prohibited from appointing a proxy.

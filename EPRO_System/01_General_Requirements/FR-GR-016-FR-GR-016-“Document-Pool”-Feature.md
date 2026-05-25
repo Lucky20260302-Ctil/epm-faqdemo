@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.18	There shall be a “document pool” that contains all the templates of procurement documents, allowing Internal Users to utilise or download the appropriate templates for each stage and type of procurement exercise.
-
+    - **3.1.18** There shall be a “document pool” that contains all the templates of procurement documents, allowing Internal Users to utilise or download the appropriate templates for each stage and type of procurement exercise.
 ## 驗收標準
 
 For System admin users, the document pool functions may include:

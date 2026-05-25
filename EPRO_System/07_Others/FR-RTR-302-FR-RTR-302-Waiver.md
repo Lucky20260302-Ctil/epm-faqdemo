@@ -16,14 +16,13 @@ created: '2026-05-22'
 ## 需求描述
 
 B(iii)	Waiver
-3.14.	There shall be another designated workflow on the Platform to handle waiving of competitive procurement procedures (e.g. single source purchase) to support the following procedures:
-3.14.1	PR shall be created by Subject Officers and gone through normal approval procedures on FMS. Similar to RFQ / Tender, the Platform shall be able to identify PR approval status in FMS and only proceed to the next stage after verifying the entry of an approved PR number.
-3.14.2	The Platform shall allow Subject Officers, relevant reviewers and approvers to declare conflict of interest, input waiver justifications, attach a waiver memo and/or other supporting documents for approval.
-3.14.3	The approval flow shall follow the threshold of RFQ / Tender.
-3.14.4	The Contractor shall provide a user-friendly way to let Internal Users to select appropriate approvers and/or Tender Board members for individual waiver approval.
-3.14.5	Upon approval, related information shall be transferred to FMS. With integration with FMS, Internal Users shall be able to search for the request approved on the Platform with specified reference number for PO creation.
-3.14.6	Information and attachments from the Platform shall be mapped and auto-filled in appropriate fields / transferred to appropriate locations on FMS for Internal User’s editing before submission of PO for approval.
-
+- **3.14** There shall be another designated workflow on the Platform to handle waiving of competitive procurement procedures (e.g. single source purchase) to support the following procedures:
+    - **3.14.1** PR shall be created by Subject Officers and gone through normal approval procedures on FMS. Similar to RFQ / Tender, the Platform shall be able to identify PR approval status in FMS and only proceed to the next stage after verifying the entry of an approved PR number.
+    - **3.14.2** The Platform shall allow Subject Officers, relevant reviewers and approvers to declare conflict of interest, input waiver justifications, attach a waiver memo and/or other supporting documents for approval.
+    - **3.14.3** The approval flow shall follow the threshold of RFQ / Tender.
+    - **3.14.4** The Contractor shall provide a user-friendly way to let Internal Users to select appropriate approvers and/or Tender Board members for individual waiver approval.
+    - **3.14.5** Upon approval, related information shall be transferred to FMS. With integration with FMS, Internal Users shall be able to search for the request approved on the Platform with specified reference number for PO creation.
+    - **3.14.6** Information and attachments from the Platform shall be mapped and auto-filled in appropriate fields / transferred to appropriate locations on FMS for Internal User’s editing before submission of PO for approval.
 ## 驗收標準
 
 In the event of waiving of competitive procurement (e.g. single source purchase), the requestor from the Purchasing Division/Department must complete the Procurement Strategy e-form (Part I) and obtain approval at the project's initial stage, as outlined in FR-RTR-001.

@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.23	Single Sign-on shall be integrated with the Platform for Internal Users. A “Forget Password” mechanism shall be available for external suppliers, enabling them to reset their passwords if needed.
-
+    - **3.1.23** Single Sign-on shall be integrated with the Platform for Internal Users. A “Forget Password” mechanism shall be available for external suppliers, enabling them to reset their passwords if needed.
 ## 驗收標準
 
 Internal users will each have an AD login ID and authenticate through Azure AD and Single Sign-on. Password control will be managed by Azure AD instead of the Platform.

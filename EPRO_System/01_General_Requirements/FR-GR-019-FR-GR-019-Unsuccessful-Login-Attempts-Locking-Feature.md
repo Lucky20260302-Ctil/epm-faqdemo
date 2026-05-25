@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.22	The Platform shall allow definition of maximum number of unsuccessful log in attempts. If an Internal User or external supplier exceeds this maximum limit, their account (or sub-account of external suppliers) shall be automatically locked. The Contractor shall propose a mechanism to handle this arrangement and ensure the appropriate security measures are in place.
-
+    - **3.1.22** The Platform shall allow definition of maximum number of unsuccessful log in attempts. If an Internal User or external supplier exceeds this maximum limit, their account (or sub-account of external suppliers) shall be automatically locked. The Contractor shall propose a mechanism to handle this arrangement and ensure the appropriate security measures are in place.
 ## 驗收標準
 
 Internal users will each have an AD login ID and authenticate through Azure AD and Single Sign-on. Password control will be managed by Azure AD instead of the Platform.

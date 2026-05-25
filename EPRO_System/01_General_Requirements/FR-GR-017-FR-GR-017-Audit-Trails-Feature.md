@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.20	The Platform shall support a detailed trail log that records all login activities and other actions performed by both Internal Users and external suppliers. The Contractor shall provide a mechanism to maintain all audit trail information, including the creation / update / deletion of individual records, along with the date, time, user involved, action taken and contents. This shall allow instant checking of the audit trail information on the Platform and the generation of summary reports for a particular purchase exercise. All records shall be retained for a period of 7 years from the date of occurrence. Upon expiry of 7 years, the historical vendor and quotation information shall be either purged or masked. Please refer to Part 2 - Technical Specifications for details.
-
+    - **3.1.20** The Platform shall support a detailed trail log that records all login activities and other actions performed by both Internal Users and external suppliers. The Contractor shall provide a mechanism to maintain all audit trail information, including the creation / update / deletion of individual records, along with the date, time, user involved, action taken and contents. This shall allow instant checking of the audit trail information on the Platform and the generation of summary reports for a particular purchase exercise. All records shall be retained for a period of 7 years from the date of occurrence. Upon expiry of 7 years, the historical vendor and quotation information shall be either purged or masked. Please refer to Part 2 - Technical Specifications for details.
 ## 驗收標準
 
 For data retention, refer to FR-GR-001 Platform Usage Estimates and Capacity Requirements.

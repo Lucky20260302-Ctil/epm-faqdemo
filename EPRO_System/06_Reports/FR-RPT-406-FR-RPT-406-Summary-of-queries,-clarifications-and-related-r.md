@@ -16,9 +16,7 @@ created: '2026-05-22'
 ## 需求描述
 
 D.	Generation of Reports / Documents
-3.55.	Summaries and documents to be generated for the features and functions related to different procurement procedures shall include but not limited to the following:
-(f) Summary of queries, clarifications and related responses
-
+- **3.55** Summaries and documents to be generated for the features and functions related to different procurement procedures shall include but not limited to the following: (f) Summary of queries, clarifications and related responses
 ## 驗收標準
 
 The report can be used for below user role with access control to track the RFQ / Tender exercises:

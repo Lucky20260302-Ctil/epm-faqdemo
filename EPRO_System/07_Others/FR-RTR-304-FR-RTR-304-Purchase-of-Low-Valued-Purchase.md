@@ -16,18 +16,16 @@ created: '2026-05-22'
 ## 需求描述
 
 B(iv)	Purchase of Exemption List Items & Low-Valued Purchase
-3.15.	Creation of PR and competitive procurement procedures are not mandatory for items specified on HKTDC’s Exemption List or when the total procurement value is below a certain amount for operation effectiveness.
-3.16.	When Subject Officers choose the related workflow, the Platform shall allow Subject Officers to attach supporting documents at their own discretion and pop up an appropriate message to remind them about the appropriate follow-up action. A separate record reference number shall be assigned for low-valued purchase and purchase of exemption list items. No further action / operation would be required in the Platform.
-3.17.	For the workflow of exemption list item purchase, there shall be an additional step where Subject Officers can choose the type of exemption list item they are going to purchase before the appropriate message of follow-up actions is displayed (which will be the same regardless of the chosen type of exemption list item).
-3.18.	As an optional feature that can be requested and confirmed by HKTDC, Subject Officers shall be allowed to obtain approval for low-valued purchases on the Platform. Please refer to Section E(v) for further details.
-E(v) 	Approval of Low-valued Purchase
-3.66.	Referring to Section B(iv), additional features shall be developed for approval of low valued purchase upon HKTDC’s request and confirmation.
-3.67.	For such additional approval features, the Platform shall be able to fulfill the following:
-3.67.1 	The Platform shall provide options for Subject Officers to indicate if they have obtained approval for the concerned low-valued purchase.
-3.67.2	When it is indicated that approval has been obtained, the Platform shall prompt Subject Officers to attach supporting document(s). Otherwise, the Platform shall request Subject Officers to input simple information (including item description, reasons for the purchases, total amount, selected supplier(s) and awarded supplier) to proceed with the approval process based on pre-determined threshold in the Platform.
-3.67.3	A notification email with hyperlink to the Platform shall be sent to the appropriate approver.
-3.67.4	The information inputted by Subject Officers and approved by appropriate approver in the Platform shall preferably be transferred to FMS for PO creation.
-
+- **3.15** Creation of PR and competitive procurement procedures are not mandatory for items specified on HKTDC’s Exemption List or when the total procurement value is below a certain amount for operation effectiveness.
+- **3.16** When Subject Officers choose the related workflow, the Platform shall allow Subject Officers to attach supporting documents at their own discretion and pop up an appropriate message to remind them about the appropriate follow-up action. A separate record reference number shall be assigned for low-valued purchase and purchase of exemption list items. No further action / operation would be required in the Platform.
+- **3.17** For the workflow of exemption list item purchase, there shall be an additional step where Subject Officers can choose the type of exemption list item they are going to purchase before the appropriate message of follow-up actions is displayed (which will be the same regardless of the chosen type of exemption list item).
+- **3.18** As an optional feature that can be requested and confirmed by HKTDC, Subject Officers shall be allowed to obtain approval for low-valued purchases on the Platform. Please refer to Section E(v) for further details. E(v) 	Approval of Low-valued Purchase
+- **3.66** Referring to Section B(iv), additional features shall be developed for approval of low valued purchase upon HKTDC’s request and confirmation.
+- **3.67** For such additional approval features, the Platform shall be able to fulfill the following:
+    - **3.67.1** The Platform shall provide options for Subject Officers to indicate if they have obtained approval for the concerned low-valued purchase.
+    - **3.67.2** When it is indicated that approval has been obtained, the Platform shall prompt Subject Officers to attach supporting document(s). Otherwise, the Platform shall request Subject Officers to input simple information (including item description, reasons for the purchases, total amount, selected supplier(s) and awarded supplier) to proceed with the approval process based on pre-determined threshold in the Platform.
+    - **3.67.3** A notification email with hyperlink to the Platform shall be sent to the appropriate approver.
+    - **3.67.4** The information inputted by Subject Officers and approved by appropriate approver in the Platform shall preferably be transferred to FMS for PO creation.
 ## 驗收標準
 
 In the event of a Low-Valued Purchase, the requestor from the Purchasing Division/Department must complete the Procurement Strategy e-form (Part I) and obtain approval at the project's initial stage, as outlined in FR-RTR-001.

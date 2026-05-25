@@ -15,14 +15,8 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.4.	Preparation of RFQ / Tender Invitations
-3.4.3.	Internal Users who initiate the purchase should assign a procurement coordinator (“Subject Officers”), who will be responsible for inputting and performing other necessary actions on the Platform to facilitate the issuance of invitations. This encompasses various tasks, including but not limited to, providing the following information:
-(h) Need for Briefing / Site Visit
-(i) Briefing / Site visit for an RFQ / tender may be mandatory or optional. Suppliers shall be prohibited from submitting quotations / tenders if they did not attend mandatory briefing / site visit.
-(ii) Subject Officers shall indicate whether briefing / site visit is required for respective RFQ / tender and specify its nature, which shall affect the qualification of suppliers to submit quotations / tenders.
-(iii) When Subject Officers indicate the necessity of a briefing / site visit, it is mandatory to enter information including the response end time and briefing / site visit details.
-(iv) Please refer to Section 3.6.5 for operation requirements for the briefing / site visit.
-
+- **3.4** Preparation of RFQ / Tender Invitations
+    - **3.4.3** Internal Users who initiate the purchase should assign a procurement coordinator (“Subject Officers”), who will be responsible for inputting and performing other necessary actions on the Platform to facilitate the issuance of invitations. This encompasses various tasks, including but not limited to, providing the following information: (h) Need for Briefing / Site Visit (i) Briefing / Site visit for an RFQ / tender may be mandatory or optional. Suppliers shall be prohibited from submitting quotations / tenders if they did not attend mandatory briefing / site visit. (ii) Subject Officers shall indicate whether briefing / site visit is required for respective RFQ / tender and specify its nature, which shall affect the qualification of suppliers to submit quotations / tenders. (iii) When Subject Officers indicate the necessity of a briefing / site visit, it is mandatory to enter information including the response end time and briefing / site visit details. (iv) Please refer to Section 3.6.5 for operation requirements for the briefing / site visit.
 ## 驗收標準
 
 Before initiating the sourcing process, the requestor from either the User Division/Department or the Purchasing Division/Department must complete the Procurement Strategy (PS) e-form and obtain approval at the project's initial stage.

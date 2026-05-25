@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.25	The search functions shall support partial word search and provide a search suggest drop-down list based on the searching history and related databases.
-
+    - **3.1.25** The search functions shall support partial word search and provide a search suggest drop-down list based on the searching history and related databases.
 ## 驗收標準
 
 The Platform does not support search history.

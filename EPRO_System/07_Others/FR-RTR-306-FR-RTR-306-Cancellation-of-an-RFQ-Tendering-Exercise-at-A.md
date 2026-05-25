@@ -16,9 +16,7 @@ created: '2026-05-22'
 ## 需求描述
 
 B(v)	Other Requirements
-3.19.	The Platform shall have the following features:
-(e) The Platform shall include a “Terminate” function which allows for the suspension of an RFQ / tendering exercise at any stage with mandatory input of reasons and approval from appropriate reviewers and approvers in accordance with PPG.
-
+- **3.19** The Platform shall have the following features: (e) The Platform shall include a “Terminate” function which allows for the suspension of an RFQ / tendering exercise at any stage with mandatory input of reasons and approval from appropriate reviewers and approvers in accordance with PPG.
 ## 驗收標準
 
 The e-Form for submitting an approval request for the suspension of an RFQ/Tender exercise can be used after the RFQ/Tender invitations have been sent and before the RFQ/Tender exercise has been awarded:

@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.53	The Platform shall allow F&A Users to send notices / announcements to the email addresses of all / selected registered suppliers when necessary.
-
+- **3.53** The Platform shall allow F&A Users to send notices / announcements to the email addresses of all / selected registered suppliers when necessary.
 ## 驗收標準
 
 The Platform supports e-Form for Supplier admin users to send email to all or selected registered suppliers as needed.

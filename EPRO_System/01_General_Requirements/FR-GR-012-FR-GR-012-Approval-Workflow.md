@@ -15,17 +15,10 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.11	The Platform shall support multiple layers of review and approval for each procurement process, aligning with the respective guidelines. This involves establishing the approval flow for user departments and / or the F&A. Additionally, the Administrator shall have the authority to modify or customise the approval flow as necessary.
-Samples of simple and complicated approval flows are illustrated below for reference. The actual approval flow settings shall be subject to HKTDC’s pre-determined reporting line and approval threshold.
-Example for simple approval flow
-Example for complicated approval flow
-3.1.12	Any approval process in the Platform shall be associated with the following features:
-“Disapproval” and “Revoke Approval” options with a field to input remarks and comments and, if applicable, an option to select a person of any previous level to reject the item;
-Addition of attachments by approver of each stage, ensuring all Internal Users involved in the approval can access and review them; and
-Internal Users could check status of each approval process, view the complete path of the approval flow according to the appropriate hierarchy and access the approval history, including associated remarks and comments, subject to the pre-defined access rights.
-3.1.13	Any “Submit” option in the Platform shall be associated with “Withdraw” or “Recall” option.
-3.1.14	The actions of “Disapproval”, “Revoke Approval” and “Withdraw”/“Recall” shall be prohibited if the item had been approved by the next / upper level.
-
+    - **3.1.11** The Platform shall support multiple layers of review and approval for each procurement process, aligning with the respective guidelines. This involves establishing the approval flow for user departments and / or the F&A. Additionally, the Administrator shall have the authority to modify or customise the approval flow as necessary. Samples of simple and complicated approval flows are illustrated below for reference. The actual approval flow settings shall be subject to HKTDC’s pre-determined reporting line and approval threshold. Example for simple approval flow Example for complicated approval flow
+    - **3.1.12** Any approval process in the Platform shall be associated with the following features: “Disapproval” and “Revoke Approval” options with a field to input remarks and comments and, if applicable, an option to select a person of any previous level to reject the item; Addition of attachments by approver of each stage, ensuring all Internal Users involved in the approval can access and review them; and Internal Users could check status of each approval process, view the complete path of the approval flow according to the appropriate hierarchy and access the approval history, including associated remarks and comments, subject to the pre-defined access rights.
+    - **3.1.13** Any “Submit” option in the Platform shall be associated with “Withdraw” or “Recall” option.
+    - **3.1.14** The actions of “Disapproval”, “Revoke Approval” and “Withdraw”/“Recall” shall be prohibited if the item had been approved by the next / upper level.
 ## 驗收標準
 
 The Platform should have the flexibility to allow the organization to configure and customize approval flows based on their specific procurement policies and procedures.

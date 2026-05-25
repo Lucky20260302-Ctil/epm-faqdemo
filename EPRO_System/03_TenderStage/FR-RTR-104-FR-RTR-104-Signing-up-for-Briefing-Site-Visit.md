@@ -15,17 +15,9 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.6.	Submission of Quotations / Tenders
-3.6.2	External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period:
-(b) Signing up for briefing / site visit, if applicable [Preferred Function – quote under Section A - Core Items in Annex D - Pricing Schedule]
-3.6.5	Signing-up for Briefing / Site Visit
-(a) Suppliers shall be required to reply / sign up for briefing / site visit with necessary on-day contact information within the prescribed time.
-(b) If the briefing / site visit session is compulsory, quotation / proposals from suppliers who did not join the briefing /site visit session should not be accepted.
-(c) The Platform shall allow Subject Officers to modify the attendance in case suppliers join the briefing /site visit session without providing prior reply.
-(d) Attendance quota per company may be applied on individual RFQ / tender.
-(e) Subject Officers shall be able to generate a report/list of replies including supplier name, replied information, response time, etc. in Excel.
-(f) The Platform shall allow Subject Officers to upload the signed attendance record for retention.
-
+- **3.6** Submission of Quotations / Tenders
+    - **3.6.2** External suppliers shall possess with a supplier account on the Platform to perform the following actions during the quotation / tendering period: (b) Signing up for briefing / site visit, if applicable [Preferred Function – quote under Section A - Core Items in Annex D - Pricing Schedule]
+    - **3.6.5** Signing-up for Briefing / Site Visit (a) Suppliers shall be required to reply / sign up for briefing / site visit with necessary on-day contact information within the prescribed time. (b) If the briefing / site visit session is compulsory, quotation / proposals from suppliers who did not join the briefing /site visit session should not be accepted. (c) The Platform shall allow Subject Officers to modify the attendance in case suppliers join the briefing /site visit session without providing prior reply. (d) Attendance quota per company may be applied on individual RFQ / tender. (e) Subject Officers shall be able to generate a report/list of replies including supplier name, replied information, response time, etc. in Excel. (f) The Platform shall allow Subject Officers to upload the signed attendance record for retention.
 ## 驗收標準
 
 Upon approved, the Platform will send an email notification to bidders/tenderers using a standard email template that includes the name/title, Publish/Issue Date, Invitation Closing Date and Time, Contact Persons, and additional requirements such as:

@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.30	The Tenderers participating in this tender shall demonstrate their ability to develop a Platform that can accommodate both offline and online submissions for quotations or tenders simultaneously.
-
+    - **3.1.30** The Tenderers participating in this tender shall demonstrate their ability to develop a Platform that can accommodate both offline and online submissions for quotations or tenders simultaneously.
 ## 驗收標準
 
 The Platform support online submission, offline submission, and hybrid mode. The submission mode should be specified in the Procurement Strategy e-Form before creating an RFQ/Tender exercise.

@@ -15,8 +15,7 @@ created: '2026-05-22'
 
 ## 需求描述
 
-3.1.29	The Platform shall support brand customisation or configuration features to its user interface. At a minimum, the HKTDC logo shall be appropriately placed within the Platform.
-
+    - **3.1.29** The Platform shall support brand customisation or configuration features to its user interface. At a minimum, the HKTDC logo shall be appropriately placed within the Platform.
 ## 驗收標準
 
 Login Page for Internal Users:
