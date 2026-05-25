@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1665
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1665-coachcrmclick-on-profile-no-response-when-member-w"
+tags:
 - 05_error_exception
 - faq
 - fe

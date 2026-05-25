@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3282
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-3282-award-recommendation-表單中po-金額驗證checking-against-suppliers"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

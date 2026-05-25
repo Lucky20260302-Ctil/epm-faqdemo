@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1041
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-1041-document-pool-maintenance中search-by-effective-date是没有的需要添加"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1117
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1117-inc1765584-tax-amount-in-c364-is-wrong-on-46-49-41"
+tags:
 - 05_error_exception
 - faq
 - fe

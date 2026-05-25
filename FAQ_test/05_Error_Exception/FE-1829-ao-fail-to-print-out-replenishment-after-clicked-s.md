@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1829
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1829-ao-fail-to-print-out-replenishment-after-clicked-s"
+tags:
 - 05_error_exception
 - faq
 - fe

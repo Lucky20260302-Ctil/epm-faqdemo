@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-971
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-971-deposit-settlement-should-apply-new-crm-option-ui-"
+tags:
 - 07_workflow_business
 - faq
 - fe

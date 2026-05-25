@@ -3,8 +3,8 @@ project: EP24MPFA
 issue_key: EP24MPFA-243
 issue_type: ''
 status: ''
-tags:
 title: "EP24MPFA-243-approval-history-中為何-remarksreason-顯示不完整approved-案例只顯示-te"
+tags:
 - 07-other
 - 07_other
 - ep24mpfa

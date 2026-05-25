@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1611
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1611-cs-1319-issue-jp-j433j378-pos-didnt-reflect-promo-"
+tags:
 - 04_data_sync
 - faq
 - fe

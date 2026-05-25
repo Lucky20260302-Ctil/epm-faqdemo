@@ -3,8 +3,8 @@ project: BE
 issue_key: BE-945
 issue_type: Bug QA
 status: Closed
-tags:
 title: "BE-945-coachcrm-got-timeout-error-after-process-backend-d"
+tags:
 - 03_performance_timeout
 - be
 - faq

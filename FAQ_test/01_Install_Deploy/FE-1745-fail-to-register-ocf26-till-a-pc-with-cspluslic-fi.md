@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1745
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1745-fail-to-register-ocf26-till-a-pc-with-cspluslic-fi"
+tags:
 - 01_install_deploy
 - faq
 - fe

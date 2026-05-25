@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1772
 issue_type: Bug DEV
 status: DEV Done
-tags:
 title: "FE-1772-inc3247094prc-oc316-posv75sales-memo-00004891-invo"
+tags:
 - 05_error_exception
 - faq
 - fe

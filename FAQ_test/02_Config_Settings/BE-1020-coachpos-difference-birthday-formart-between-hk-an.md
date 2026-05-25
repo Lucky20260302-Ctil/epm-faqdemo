@@ -3,8 +3,8 @@ project: BE
 issue_key: BE-1020
 issue_type: Bug QA
 status: Closed
-tags:
 title: "BE-1020-coachpos-difference-birthday-formart-between-hk-an"
+tags:
 - 02_config_settings
 - be
 - faq

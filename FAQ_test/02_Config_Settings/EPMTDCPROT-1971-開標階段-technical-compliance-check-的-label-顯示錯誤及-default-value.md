@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1971
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-1971-開標階段-technical-compliance-check-的-label-顯示錯誤及-default-value"
+tags:
 - 02-config-settings
 - 02_config_settings
 - epm

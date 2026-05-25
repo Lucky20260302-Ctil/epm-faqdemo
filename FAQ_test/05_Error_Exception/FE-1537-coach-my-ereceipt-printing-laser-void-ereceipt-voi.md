@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1537
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1537-coach-my-ereceipt-printing-laser-void-ereceipt-voi"
+tags:
 - 05_error_exception
 - faq
 - fe

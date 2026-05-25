@@ -3,8 +3,8 @@ project: BE
 issue_key: BE-986
 issue_type: Bug QA
 status: Closed
-tags:
 title: "BE-986-acu-109-incorrect-member-data-in-member-sync-api"
+tags:
 - 04_data_sync
 - be
 - faq

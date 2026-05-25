@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3385
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-3385-epro-929-production-supplier-with-same-name-as-fms-only-su"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

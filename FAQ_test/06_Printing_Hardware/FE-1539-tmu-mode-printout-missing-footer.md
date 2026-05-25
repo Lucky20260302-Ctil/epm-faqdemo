@@ -3,6 +3,7 @@ project: ERM FEPOS
 issue_key: FE-1539
 issue_type: Bug QA
 status: Closed
+title: 'FE-1539: Coach MY BDO - TMU mode printout missing footer'
 tags:
 - 06_printing_hardware
 - erm fepos
@@ -21,7 +22,6 @@ has_images: false
 category: 06_Printing_Hardware
 category_label: 列印與硬體
 quality: complete
-title: 'FE-1539: Coach MY BDO - TMU mode printout missing footer'
 ---
 # FE-1539: Coach MY BDO - TMU mode printout missing footer
 

@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1318
 issue_type: Task
 status: Closed
-tags:
 title: "FE-1318-hk-ename-follow-up-pre-scan-vip-barcode-before-sub"
+tags:
 - 07_workflow_business
 - faq
 - fe

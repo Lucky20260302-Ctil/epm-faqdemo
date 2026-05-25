@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-756
 issue_type: Bug QA
 status: Closed
-tags:
 title: "MP-756-mpos-82mpos-v3302-ksj-mpos-unable-to-print-directl"
+tags:
 - 06_printing_hardware
 - faq
 - mp

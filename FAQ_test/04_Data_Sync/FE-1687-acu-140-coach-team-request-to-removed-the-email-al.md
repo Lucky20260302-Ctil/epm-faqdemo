@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1687
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1687-acu-140-coach-team-request-to-removed-the-email-al"
+tags:
 - 04_data_sync
 - faq
 - fe

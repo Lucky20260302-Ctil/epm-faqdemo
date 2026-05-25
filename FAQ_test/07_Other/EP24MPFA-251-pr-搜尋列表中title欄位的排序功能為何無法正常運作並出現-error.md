@@ -3,8 +3,8 @@ project: EP24MPFA
 issue_key: EP24MPFA-251
 issue_type: ''
 status: ''
-tags:
 title: "EP24MPFA-251-pr-搜尋列表中title欄位的排序功能為何無法正常運作並出現-error"
+tags:
 - 07-other
 - 07_other
 - ep24mpfa

@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-761
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "MP-761-mpos-86inc2876041-jp-2-v75-pilot-store-mpos-keep-l"
+tags:
 - 02_config_settings
 - faq
 - mp

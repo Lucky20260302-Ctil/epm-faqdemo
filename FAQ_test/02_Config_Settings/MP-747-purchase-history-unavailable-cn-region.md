@@ -3,6 +3,7 @@ project: MPOS
 issue_key: MP-747
 issue_type: Bug PRD
 status: Closed
+title: 'MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member'
 tags:
 - 02_config_settings
 - faq
@@ -20,7 +21,6 @@ has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
 quality: complete
-title: 'MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member'
 ---
 # MP-747: [MPOS-77] MPOS 3.29.5 - CN Region, unable to check the purchase history for CRM Member
 

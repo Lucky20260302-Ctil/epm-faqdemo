@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-812
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-812-void-sales-transaction-can-use-cash-coupon-but-voi"
+tags:
 - 07_workflow_business
 - faq
 - fe

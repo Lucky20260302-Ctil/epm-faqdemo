@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1486
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1486-bashfe-pos-cannot-search-member-by-email-address"
+tags:
 - 05_error_exception
 - faq
 - fe

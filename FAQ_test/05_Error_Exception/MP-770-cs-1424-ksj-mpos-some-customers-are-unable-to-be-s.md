@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-770
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "MP-770-cs-1424-ksj-mpos-some-customers-are-unable-to-be-s"
+tags:
 - 05_error_exception
 - faq
 - mp

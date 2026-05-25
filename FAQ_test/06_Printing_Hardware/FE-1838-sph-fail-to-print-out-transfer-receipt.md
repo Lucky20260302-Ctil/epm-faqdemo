@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1838
 issue_type: Bug QA
 status: HOLD
-tags:
 title: "FE-1838-sph-fail-to-print-out-transfer-receipt"
+tags:
 - 06_printing_hardware
 - faq
 - fe

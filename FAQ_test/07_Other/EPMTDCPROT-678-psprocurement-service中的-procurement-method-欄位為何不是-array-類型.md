@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-678
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-678-psprocurement-service中的-procurement-method-欄位為何不是-array-類型"
+tags:
 - 07-other
 - 07_other
 - epm

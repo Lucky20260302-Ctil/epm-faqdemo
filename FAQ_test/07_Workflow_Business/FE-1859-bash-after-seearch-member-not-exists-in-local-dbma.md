@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1859
 issue_type: Bug PRD
 status: Open
-tags:
 title: "FE-1859-bash-after-seearch-member-not-exists-in-local-dbma"
+tags:
 - 07_workflow_business
 - faq
 - fe

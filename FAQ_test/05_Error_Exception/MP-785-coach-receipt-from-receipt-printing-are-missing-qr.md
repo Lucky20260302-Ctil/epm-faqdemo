@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-785
 issue_type: Bug QA
 status: Closed
-tags:
 title: "MP-785-coach-receipt-from-receipt-printing-are-missing-qr"
+tags:
 - 05_error_exception
 - faq
 - mp

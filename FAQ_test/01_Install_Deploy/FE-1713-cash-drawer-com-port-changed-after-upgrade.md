@@ -3,6 +3,7 @@ project: FEPOS
 issue_key: FE-1713
 issue_type: Bug PRD
 status: Closed
+title: 'FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region'
 tags:
 - 01_install_deploy
 - faq
@@ -20,7 +21,6 @@ has_images: false
 category: 01_Install_Deploy
 category_label: 安裝與部署
 quality: complete
-title: 'FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region'
 ---
 # FE-1713: Cash drawer can not be opened after upgrade to V75 - MC region
 

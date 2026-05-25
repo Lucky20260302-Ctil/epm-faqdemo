@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3499
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-3499-cr-在part-1-已經-submit-nonconflict到rfq-setting-時候-create-do"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

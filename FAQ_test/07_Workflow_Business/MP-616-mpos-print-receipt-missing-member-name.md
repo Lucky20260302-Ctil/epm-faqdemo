@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-616
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "MP-616-mpos-print-receipt-missing-member-name"
+tags:
 - 07_workflow_business
 - faq
 - mp

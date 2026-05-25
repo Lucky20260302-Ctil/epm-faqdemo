@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1275
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-1275-missing-select-draft-procurement-strategy-from-pre-reg-e-for"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

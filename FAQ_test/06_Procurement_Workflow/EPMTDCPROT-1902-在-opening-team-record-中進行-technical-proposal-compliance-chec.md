@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1902
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-1902-在-opening-team-record-中進行-technical-proposal-compliance-chec"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

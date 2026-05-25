@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-830
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "MP-830-inc3539384j242-mpos-popout-error-passes-dont-conta"
+tags:
 - 02_config_settings
 - faq
 - mp

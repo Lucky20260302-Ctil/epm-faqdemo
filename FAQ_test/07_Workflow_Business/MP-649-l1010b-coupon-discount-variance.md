@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-649
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "MP-649-l1010b-coupon-discount-variance"
+tags:
 - 07_workflow_business
 - faq
 - mp

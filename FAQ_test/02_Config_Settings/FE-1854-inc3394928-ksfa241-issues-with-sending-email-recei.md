@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1854
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1854-inc3394928-ksfa241-issues-with-sending-email-recei"
+tags:
 - 02_config_settings
 - faq
 - fe

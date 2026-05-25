@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1670
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1670-cs-1403-unable-to-send-ereceipt-jp-cs2k-v750041200"
+tags:
 - 02_config_settings
 - faq
 - fe

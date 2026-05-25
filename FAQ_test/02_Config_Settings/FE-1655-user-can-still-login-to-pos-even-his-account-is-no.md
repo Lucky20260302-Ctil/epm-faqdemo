@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1655
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1655-user-can-still-login-to-pos-even-his-account-is-no"
+tags:
 - 02_config_settings
 - faq
 - fe

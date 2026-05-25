@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3550
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-3550-epro-1027cr-the-doi-features-under-change-request-should-a"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm

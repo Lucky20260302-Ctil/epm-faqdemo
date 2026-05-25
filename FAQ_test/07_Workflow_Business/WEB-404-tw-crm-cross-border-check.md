@@ -3,6 +3,7 @@ project: ENAME
 issue_key: WEB-404
 issue_type: Bug QA
 status: Closed
+title: 'WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need'
 tags:
 - 07_workflow_business
 - ename
@@ -20,7 +21,6 @@ has_images: false
 category: 07_Workflow_Business
 category_label: 業務流程
 quality: complete
-title: 'WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need'
 ---
 # WEB-404: TW CRM - Cross border should only happen for CN member, rest regions no need
 

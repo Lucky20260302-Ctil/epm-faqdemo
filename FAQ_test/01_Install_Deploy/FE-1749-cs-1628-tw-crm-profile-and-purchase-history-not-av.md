@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1749
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1749-cs-1628-tw-crm-profile-and-purchase-history-not-av"
+tags:
 - 01_install_deploy
 - faq
 - fe

@@ -3,6 +3,7 @@ project: ChainStorePlus
 issue_key: BE-1020
 issue_type: Bug QA
 status: Closed
+title: 'BE-1020: Difference birthday format between HK and CN'
 tags:
 - 02_config_settings
 - chainstoreplus
@@ -20,7 +21,6 @@ has_images: false
 category: 02_Config_Settings
 category_label: 配置與設定
 quality: complete
-title: 'BE-1020: Difference birthday format between HK and CN'
 ---
 # BE-1020: Difference birthday format between HK and CN
 

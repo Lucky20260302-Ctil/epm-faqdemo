@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1942
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1942-imx-pop-up-object-reference-error-after-click-on-n"
+tags:
 - 05_error_exception
 - faq
 - fe

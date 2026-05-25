@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-3337
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-3337-blank-error-message-on-low-value-purchase-e-from-when-review"
+tags:
 - 05-error-exception
 - 05_error_exception
 - epm

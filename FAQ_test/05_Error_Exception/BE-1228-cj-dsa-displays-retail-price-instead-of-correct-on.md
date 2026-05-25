@@ -3,8 +3,8 @@ project: BE
 issue_key: BE-1228
 issue_type: Bug PRD
 status: Release
-tags:
 title: "BE-1228-cj-dsa-displays-retail-price-instead-of-correct-on"
+tags:
 - 05_error_exception
 - be
 - faq

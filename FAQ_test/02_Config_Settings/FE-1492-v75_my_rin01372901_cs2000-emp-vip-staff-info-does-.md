@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1492
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "FE-1492-v75_my_rin01372901_cs2000-emp-vip-staff-info-does-"
+tags:
 - 02_config_settings
 - faq
 - fe

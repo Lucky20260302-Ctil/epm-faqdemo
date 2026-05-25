@@ -3,8 +3,8 @@ project: EP24MPFA
 issue_key: EP24MPFA-87
 issue_type: ''
 status: ''
-tags:
 title: "EP24MPFA-87-section-f-審批通過後點擊view查看已審批內容時為何-closing-date-及其他欄位內容顯示為空"
+tags:
 - 07-other
 - 07_other
 - ep24mpfa

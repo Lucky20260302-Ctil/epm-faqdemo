@@ -3,8 +3,8 @@ project: BE
 issue_key: BE-978
 issue_type: Bug PRD
 status: Re Open
-tags:
 title: "BE-978-rin01439145-cs-1114-prc-prc_store-cs2000-posting-p"
+tags:
 - 04_data_sync
 - be
 - faq

@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1546
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1546-coachcrm-milestone-2-fail-to-pop-up-member-creatio"
+tags:
 - 05_error_exception
 - faq
 - fe

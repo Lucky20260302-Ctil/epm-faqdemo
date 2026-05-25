@@ -3,8 +3,8 @@ project: MP
 issue_key: MP-702
 issue_type: Bug PRD
 status: Closed
-tags:
 title: "MP-702-cs-873-japanese-user-login-in-mpos-which-caused-po"
+tags:
 - 05_error_exception
 - faq
 - mp

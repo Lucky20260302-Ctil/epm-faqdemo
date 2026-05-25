@@ -3,8 +3,8 @@ project: FE
 issue_key: FE-1728
 issue_type: Bug QA
 status: Closed
-tags:
 title: "FE-1728-coach-laser-day-end-report-still-display-按金單數量-whe"
+tags:
 - 07_workflow_business
 - faq
 - fe

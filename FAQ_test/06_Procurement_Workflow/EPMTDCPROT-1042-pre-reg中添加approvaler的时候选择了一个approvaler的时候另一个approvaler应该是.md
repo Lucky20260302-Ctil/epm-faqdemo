@@ -3,8 +3,8 @@ project: EPMTDCPROT
 issue_key: EPMTDCPROT-1042
 issue_type: ''
 status: ''
-tags:
 title: "EPMTDCPROT-1042-pre-reg中添加approvaler的时候选择了一个approvaler的时候另一个approvaler应该是"
+tags:
 - 06-procurement-workflow
 - 06_procurement_workflow
 - epm
