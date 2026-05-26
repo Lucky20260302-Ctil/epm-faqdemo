@@ -23,7 +23,7 @@ updated: 2026-05-22
 
 ## ERM 故障排除 FAQ
 
-> 160 篇 FAQ · 全部品質完整 ✅ · 11 個業務分類
+> 160 篇 FAQ · 全部品質完整 ✅ · 11 個業務分類 · EPRO TDC 59 篇用户手册 FAQ
 
 | 分類 | 說明 | 數量 |
 |------|------|:---:|
@@ -54,6 +54,24 @@ updated: 2026-05-22
 | [[EPRO_System/05_Supplier/index\|Supplier]] | 10 |
 | [[EPRO_System/06_Reports/index\|Reports]] | 23 |
 | [[EPRO_System/07_Others/index\|Others]] | 5 |
+
+---
+
+## EPRO TDC — 用户手册 FAQ
+
+> 59 条操作 FAQ · 9 个分类 · 基于 4 本官方用户手册
+
+| 分类 | 数量 |
+|------|:---:|
+| [[EPRO_TDC/01_System_Access/index\|系统访问]] | 3 |
+| [[EPRO_TDC/02_Dashboard/index\|仪表盘与任务管理]] | 4 |
+| [[EPRO_TDC/03_Supplier_Management/index\|供应商管理]] | 4 |
+| [[EPRO_TDC/04_PreTender/index\|预招标阶段]] | 4 |
+| [[EPRO_TDC/05_Tender_Stage/index\|招标阶段]] | 7 |
+| [[EPRO_TDC/06_Post_Tender/index\|评标与授标]] | 9 |
+| [[EPRO_TDC/07_Approval_Workflow/index\|审批流程]] | 7 |
+| [[EPRO_TDC/08_TAP/index\|技术评估]] | 5 |
+| [[EPRO_TDC/09_Supplier_Operations/index\|供应商端操作]] | 16 |
 
 ---
 

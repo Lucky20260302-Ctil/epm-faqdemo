@@ -1,0 +1,764 @@
+[
+  {
+    "id": "epro-faq-001",
+    "category": "系统访问",
+    "question": "EPRO 系统有哪些浏览器和操作系统要求？",
+    "answer": "1. System Requirements\n\n       Website: https://epro.hktdc.org\n\nThe recommended internet browsers and supported operating systems for Internal Users are\nas follows:\n Recommended Internet Browser   Supported Operating Systems\n Microsoft Edge                 Windows 10/11, macOS Catalina (10.15) and l...",
+    "source": "Internal User Manual Section 1 Page 4",
+    "keywords": [
+      "系统要求",
+      "浏览器",
+      "屏幕分辨率",
+      "system requirements"
+    ]
+  },
+  {
+    "id": "epro-faq-002",
+    "category": "系统访问",
+    "question": "EPRO 系统中的关键术语定义是什么？（如 e-Form、RFQ、NDA 等）",
+    "answer": "2. Definition of Terms\n\n Terms                        Definition\n Approval Delegation        The process allowing an internal user to assign another user\n                                as a proxy to perform specific approval actions within a\n                               designated period, subject...",
+    "source": "Internal User Manual Section 2 Page 5-6",
+    "keywords": [
+      "术语",
+      "定义",
+      "e-Form",
+      "RFQ",
+      "NDA"
+    ]
+  },
+  {
+    "id": "epro-faq-003",
+    "category": "系统访问",
+    "question": "内部用户如何登录 EPRO 系统？",
+    "answer": "3. System Login\n\n\nSystem login for each Internal user is authenticated by Azure Active Directory (Azure AD) and\nSingle Sign-on (SSO).\n\nPassword control is handled by Azure AD, not by the EPRO Platform.\n\n\n\nStep 1: Access to EPRO.\n\nStep 2: Confirm and check the Terms of Use.\n\nStep 3: Click the “Sign I...",
+    "source": "Internal User Manual Section 3 Page 7-9",
+    "keywords": [
+      "登录",
+      "Azure AD",
+      "SSO",
+      "单点登录",
+      "login"
+    ]
+  },
+  {
+    "id": "epro-faq-004",
+    "category": "仪表盘与任务管理",
+    "question": "EPRO 系统的会话超时（Session Timeout）机制是怎样的？",
+    "answer": "4. General System Function\n   4.1 Session Timeout\n\n\nInactive sessions in EPRO will be automatically terminated after a specified period of inactivity\nto ensure system security and resource efficiency:\n\n  User Type           Session Timeout\n   Internal Users        1 hour\n   External Users       30 m...",
+    "source": "Internal User Manual Section 4.1 Page 10",
+    "keywords": [
+      "会话超时",
+      "session timeout",
+      "安全",
+      "inactivity"
+    ]
+  },
+  {
+    "id": "epro-faq-005",
+    "category": "仪表盘与任务管理",
+    "question": "EPRO 仪表盘的系统通知（System Notification）功能如何使用？",
+    "answer": "4.2 Dashboard\n    4.2.1  System Notification (Home Page)\n\n\nAll email notifications received from EPRO will be stored and displayed on the home page for\nuser reference.\n\n\n\n\n\nNotification can be filtered using search criteria to help users locate specific messages\nefficiently....",
+    "source": "Internal User Manual Section 4.2.1 Page 11-12",
+    "keywords": [
+      "通知",
+      "仪表盘",
+      "dashboard",
+      "notification",
+      "主页"
+    ]
+  },
+  {
+    "id": "epro-faq-006",
+    "category": "仪表盘与任务管理",
+    "question": "EPRO 系统中\"我的任务\"（My Task）功能包括哪些操作？",
+    "answer": "4.2.2  My Task\n\n\nAll system operations in EPRO are initiated and managed through individual e-Form listed\nunder “My Task”.\n\nThis section serves as the central workspace for users to perform actions such as drafting,\nsubmitting, reviewing and approving e-Forms.\n\n\n\n\n\n     4.2.2.1 My Task – New Request...",
+    "source": "Internal User Manual Section 4.2.2 Page 13-45",
+    "keywords": [
+      "我的任务",
+      "My Task",
+      "任务管理",
+      "草稿",
+      "draft"
+    ]
+  },
+  {
+    "id": "epro-faq-007",
+    "category": "审批流程",
+    "question": "如何在 EPRO 系统中设置审批委托（Delegation）？",
+    "answer": "4.2.3   Delegation\n\n\n     4.2.3.1  Delegation – Approval Proxy Setup\n\n\nThe Platform allows internal user to designate a proxy to perform specific operations or\napprovals within a defined timeframe, following predefined rules.\n\n       Validation Check: Delegation cannot be assigned to a user with a l...",
+    "source": "Internal User Manual Section 4.2.3 Page 46-48",
+    "keywords": [
+      "委托",
+      "delegation",
+      "审批",
+      "代理",
+      "proxy"
+    ]
+  },
+  {
+    "id": "epro-faq-008",
+    "category": "仪表盘与任务管理",
+    "question": "EPRO 系统提供哪些报表（Reports）功能？",
+    "answer": "4.2.4   Reports\n\n\nThe system automatically generates various reports based on the stored data. It provides\nvaluable insights into tender processes, supplier performance, and system usage and activities.\n\n\n\n\n\nUser can click to download the reports in excel or PDF format, or export reports for further...",
+    "source": "Internal User Manual Section 4.2.4 Page 49",
+    "keywords": [
+      "报表",
+      "reports",
+      "统计",
+      "导出"
+    ]
+  },
+  {
+    "id": "epro-faq-009",
+    "category": "供应商管理",
+    "question": "如何查看和管理 EPRO 系统中的供应商列表（Supplier List）？",
+    "answer": "5. Supplier Management\n\n\n\n\n\n   5.1 Supplier List\n\n\nThe platform provides access to the full list of system suppliers, including those who exists only\nin FMS.\n\n\n\n\n\n\n\nUser can search by keywords and apply filter criteria to narrow down results. . User can also\nexport supplier details in Excel format f...",
+    "source": "Internal User Manual Section 5.1 Page 50-52",
+    "keywords": [
+      "供应商列表",
+      "supplier list",
+      "查看",
+      "筛选"
+    ]
+  },
+  {
+    "id": "epro-faq-010",
+    "category": "供应商管理",
+    "question": "如何发起供应商预注册邀请（Pre-Registration Invitation）并检查响应？",
+    "answer": "5.2 Supplier Invitation – Pre Reg\n\n\nBefore initiating any RFQ or Tender exercise, new suppliers must be invitedand registrated\nthrough the system. .\n\n\n    5.2.1   Issue Supplier Pre-Registration Invitation\n\n\nStep 1: Requestor creates a new e-Form for pre-registration invitation under “New Requests”....",
+    "source": "Internal User Manual Section 5.2 Page 53-58",
+    "keywords": [
+      "预注册",
+      "pre-registration",
+      "供应商邀请",
+      "响应检查"
+    ]
+  },
+  {
+    "id": "epro-faq-011",
+    "category": "供应商管理",
+    "question": "如何发起供应商完整注册邀请（Full Registration）及激活 FMS 供应商账户？",
+    "answer": "5.3 Supplier Invitation – Full Reg\n\n    5.3.1   Issue Supplier Full Registration Invitation\n\n\nTo proceed Tender or RFQ award, user must invite supplier for full registration.\n\nStep 1: The Requestor creates a new e-Form for pre-registration invitation under “New\nRequests”.\n\n\n\n\n\nStep 2: Select the sup...",
+    "source": "Internal User Manual Section 5.3 Page 59-72",
+    "keywords": [
+      "完整注册",
+      "full registration",
+      "FMS",
+      "账户激活"
+    ]
+  },
+  {
+    "id": "epro-faq-012",
+    "category": "供应商管理",
+    "question": "如何处理供应商信息变更、BR 更新、合并和终止？",
+    "answer": "5.4 Supplier Information Change\n\n    5.4.1  Supplier Information Change\nThis process allows the Requestor to update supplier registration details in the system, which\nwill be synced to FMS upon approval.\n\n\n\nStep 1: The Requestor creates new e-Form for information change for the relevant supplier\nund...",
+    "source": "Internal User Manual Section 5.4 Page 73-84",
+    "keywords": [
+      "信息变更",
+      "BR更新",
+      "供应商合并",
+      "供应商终止"
+    ]
+  },
+  {
+    "id": "epro-faq-013",
+    "category": "预招标阶段",
+    "question": "如何发起采购（Procurement Initiation）流程？",
+    "answer": "6.1 Pre-Tender Stage\n\n    6.1.1  Procurement Initiation\nThis process initiates the procurement exercise and sets the foundation for Tender or RFQ\nissuance.\n\nStep 1: The Requestor creates Procurement Initiation e-Form under “New Requests” section.\n\n\n\n\n\n\nStep 2: Input the basic procurement strategy in...",
+    "source": "Internal User Manual Section 6.1.1 Page 87-103",
+    "keywords": [
+      "采购发起",
+      "procurement initiation",
+      "e-Form",
+      "采购策略"
+    ]
+  },
+  {
+    "id": "epro-faq-014",
+    "category": "预招标阶段",
+    "question": "如何配置 RFQ/招标设置（RFQ/Tender Setting）？",
+    "answer": "6.1.2  RFQ / Tender Setting\n\n\nDraft of Tender Setting are auto-generated in selected buyer account upon approval of\nProcurement Initiation.\n\nStep 1: Buyer select the relevant e-Form under “Drafts” section.\n\n\n\n\n\nStep 2: Update the information of Tender / RFQ.\n\n\n\n\n\nStep 3: Define if NDA / Confidential...",
+    "source": "Internal User Manual Section 6.1.2 Page 104-108",
+    "keywords": [
+      "招标设置",
+      "RFQ设置",
+      "tender setting",
+      "配置"
+    ]
+  },
+  {
+    "id": "epro-faq-015",
+    "category": "预招标阶段",
+    "question": "如何发布 RFQ/招标（Issuance of RFQ/Tender）？",
+    "answer": "6.1.3  Issuance of RFQ / Tender\n\n\nDraft of Issuance of RFQ / Tender is auto-generated in the buyer’s account upon approval of\nTender Setting.\n\nStep 1: Buyer selects the relevant e-Form under “Drafts” section.\n\n\n\n\n\nStep 2: Review the issue and closing date time, exception approval is triggered at thi...",
+    "source": "Internal User Manual Section 6.1.3 Page 109-110",
+    "keywords": [
+      "发布招标",
+      "issuance",
+      "RFQ",
+      "tender"
+    ]
+  },
+  {
+    "id": "epro-faq-016",
+    "category": "预招标阶段",
+    "question": "如何更新技术评估员/价格评估员/只读用户（Update of Assessors）？",
+    "answer": "6.1.4  Update of Technical Assessor / Price Assessor / View-only User\n\n\nBuyer can update the technical assessor, price assessor and view-only user for current RFQ /\nTender by submitting new approval request.\n\nStep 1: Select the relevant e-Form for update under “New Requests” section.\n\n\n\n\n\nStep 2: In...",
+    "source": "Internal User Manual Section 6.1.4 Page 111-112",
+    "keywords": [
+      "评估员",
+      "assessor",
+      "技术评估",
+      "价格评估"
+    ]
+  },
+  {
+    "id": "epro-faq-017",
+    "category": "招标阶段",
+    "question": "如何申报利益冲突（Declaration of Conflict of Interest）？",
+    "answer": "6.2 Tender Stage\n\n    6.2.1  Declare of Conflict of Interest (DOI)\n\n\nNo supplier submission can be reviewed before buyer completing the DOI, DOI e-Form is auto-\ngenerated for assigned users who are involved in the RFQ / Tender process.\n\n\n     6.2.1.1  Submit DOI\n\n\nStep 1: Buyer selects the relevant ...",
+    "source": "Internal User Manual Section 6.2.1 Page 113-117",
+    "keywords": [
+      "利益冲突",
+      "DOI",
+      "conflict of interest",
+      "申报"
+    ]
+  },
+  {
+    "id": "epro-faq-018",
+    "category": "招标阶段",
+    "question": "如何验证 NDA/保密承诺（Compliance Verification for NDA）？",
+    "answer": "6.2.2  Compliance Verification for NDA / Confidentiality Undertaking\n\n\nCompliance verification is required for buyer to verify the submitted data from the supplier.\n\nStep 1: Select the relevant e-Form auto-generated upon supplier submission under “Drafts”\nsection.\n\n\n\n\n\nStep 2: Download and review th...",
+    "source": "Internal User Manual Section 6.2.2 Page 118-120",
+    "keywords": [
+      "NDA",
+      "保密承诺",
+      "confidentiality",
+      "合规"
+    ]
+  },
+  {
+    "id": "epro-faq-019",
+    "category": "招标阶段",
+    "question": "如何确认供应商参加简介会/现场考察（Briefing/Site Visit）？",
+    "answer": "6.2.3  Attendance Confirmation for Briefing / Site Visit\n\n\nBuyer is required to confirm the attendance of supplier for Briefing / Site Visit or they are\nunable to submit RFQ / Tender proposal.\n\nStep 1: Select the relevant e-Form auto-generated upon supplier submission under “Drafts”\nsection.\n\n\n\n\n\nSt...",
+    "source": "Internal User Manual Section 6.2.3 Page 121-123",
+    "keywords": [
+      "简介会",
+      "现场考察",
+      "briefing",
+      "site visit",
+      "出席"
+    ]
+  },
+  {
+    "id": "epro-faq-020",
+    "category": "招标阶段",
+    "question": "如何处理 RFQ/招标查询（RFQ/Tender Query）？",
+    "answer": "6.2.4  RFQ / Tender Query\n\n\nTenderer / bidder is allowed to submit RFQ / Tender query before specific closing date time\nbeing pre-set.\n\nBuyer is required to complete the compliance verification for submitted query(ies),\ndisqualification may occur if any price information is included with any query(i...",
+    "source": "Internal User Manual Section 6.2.4 Page 124-128",
+    "keywords": [
+      "查询",
+      "query",
+      "问题",
+      "澄清"
+    ]
+  },
+  {
+    "id": "epro-faq-021",
+    "category": "招标阶段",
+    "question": "如何发布 RFQ/招标补遗（RFQ/Tender Addendum）？",
+    "answer": "6.2.5  RFQ / Tender Addendum\n\n\nBuyer can issue the RFQ / Tender addendum to either all or specific tenderer / bidder before\nthe specific closing date time being pre-set.\n\nStep 1: Buyer creates a new e-Form for addendum under “New Requests” section, selecting the\nrelevant RFQ / Tender to proceed.\n\n\n\n...",
+    "source": "Internal User Manual Section 6.2.5 Page 129-130",
+    "keywords": [
+      "补遗",
+      "addendum",
+      "修改",
+      "补充"
+    ]
+  },
+  {
+    "id": "epro-faq-022",
+    "category": "招标阶段",
+    "question": "如何更换投标人（Change of Bidder/Tenderer）？",
+    "answer": "Step 8: Review and confirm the terms and conditions and click “Yes, proceed with submitting\nthe e-Form”.\n\nAn email for approval request is sent to the selected approver after submission, addendum is\nissued to all tenderers / bidders automatically with email notifications upon approval\ncompletion.\n  ...",
+    "source": "Internal User Manual Section 6.2.6 Page 131-132",
+    "keywords": [
+      "更换投标人",
+      "bidder",
+      "tenderer",
+      "变更"
+    ]
+  },
+  {
+    "id": "epro-faq-023",
+    "category": "招标阶段",
+    "question": "如何延长 RFQ/招标截止日期（RFQ/Tender Extension）？",
+    "answer": "6.2.7  RFQ / Tender Extension\n\n\nBuyer can extend the RFQ / Tender closing date time before the specific closing date time being\npre-set.\n\nStep 1: Buyer creates a new e-Form for RFQ / Tender extension under “New Requests”section,\nselecting the relevant RFQ / Tender to proceed.\n\n\n\n\n\nStep 2: Select the...",
+    "source": "Internal User Manual Section 6.2.7 Page 133-134",
+    "keywords": [
+      "延期",
+      "extension",
+      "截止日期",
+      "延长"
+    ]
+  },
+  {
+    "id": "epro-faq-024",
+    "category": "评标与授标",
+    "question": "如何分配开标团队成员（Opening Team Members Assignment）？",
+    "answer": "6.3 Post Tender Stage\n\n    6.3.1  Opening Team Members Assignment\n\n\nBuyer is required to assign the opening team members before the start of RFQ / Tender\nopening.\n\nA draft for assigning opening team members is auto-generated in “Drafts” section for Buyer\nafter the Issuance of RFQ / Tender.\n\nStep 1: ...",
+    "source": "Internal User Manual Section 6.3.1 Page 135-136",
+    "keywords": [
+      "开标团队",
+      "opening team",
+      "分配",
+      "assignment"
+    ]
+  },
+  {
+    "id": "epro-faq-025",
+    "category": "评标与授标",
+    "question": "如何进行开标（Tender Opening）操作？",
+    "answer": "6.3.2  Tender Opening\n\n\n     6.3.2.1  Unlock Tender Box\n\n\nA drafted e-Form for unlock tender box is auto-generated for assigned opening team members\nafter the RFQ / Tender closing date time.\n\nStep 1: Opening team members select the relevant e-Form under “Drafts” section.\n\n\n\n\n\nStep 2: Review the brie...",
+    "source": "Internal User Manual Section 6.3.2 Page 137-143",
+    "keywords": [
+      "开标",
+      "tender opening",
+      "OTP",
+      "开标记录"
+    ]
+  },
+  {
+    "id": "epro-faq-026",
+    "category": "技术评估",
+    "question": "如何进行技术评估（Technical Assessment）？（适用于双信封模式）",
+    "answer": "6.3.3  Technical Assessment (Applicable for Two-Envelope Approach)\n\n\n     6.3.3.1  Start Technical Evluation\n\n\nFollowing section 6.3.2.2.1, buyer receives an email notifcation for completion on technical\nopening endorsement.\n\nStep 1: Buyer creates a new e-Form for starting a technical evaluation und...",
+    "source": "Internal User Manual Section 6.3.3 Page 144-158",
+    "keywords": [
+      "技术评估",
+      "technical assessment",
+      "双信封",
+      "打分"
+    ]
+  },
+  {
+    "id": "epro-faq-027",
+    "category": "技术评估",
+    "question": "如何重新启动技术评估（Restart of Technical Evaluation）？",
+    "answer": "6.3.4  Restart of Technical Evaluation\n\n\nUpon completion of technical assessment, the finance users can submit an approval request\nregarding restart of the technical evaluation before opening team members initiating the fee\nopening.\n\nStep 1: Buyer creates a new e-Form for restart of technical evalua...",
+    "source": "Internal User Manual Section 6.3.4 Page 159-160",
+    "keywords": [
+      "重启评估",
+      "restart",
+      "technical evaluation"
+    ]
+  },
+  {
+    "id": "epro-faq-028",
+    "category": "评标与授标",
+    "question": "如何进行费用评估（Fee Evaluation）？",
+    "answer": "An email for approval request is sent to the selected approver after submission.\n\nBuyer is notified with an email notification and able to create e-Form to start technical\nevaluation (Refer to section 6.3.3 for detail steps of technical evaluation) under “New Requests”\nsection for RFQ / Tender.\n    ...",
+    "source": "Internal User Manual Section 6.3.5 Page 161-171",
+    "keywords": [
+      "费用评估",
+      "fee evaluation",
+      "价格",
+      "pricing"
+    ]
+  },
+  {
+    "id": "epro-faq-029",
+    "category": "评标与授标",
+    "question": "如何处理费用修改请求（Fee Modification Request）？",
+    "answer": "6.3.6     Fee Modification Request\n\n\nBuyer can submit approval request to modify fees and/or total amounts after Post-Tender\nClarifications.\n\nStep 1: Buyer creates a new e-Form for fee modification under “New Requests” section,\nselecting the relevant RFQ / Tender to proceed.\n\n\n\n\n\nSelect the supplier...",
+    "source": "Internal User Manual Section 6.3.6 Page 172-174",
+    "keywords": [
+      "费用修改",
+      "fee modification",
+      "请求"
+    ]
+  },
+  {
+    "id": "epro-faq-030",
+    "category": "评标与授标",
+    "question": "如何完成整体评估摘要的审批（Endorsement for Overall Assessment Summary）？",
+    "answer": "6.3.7     Endorsement for Overall Assessment Summary\n\n\nBuyer can create endorsement request for overall assessment summary once the fee evaluation\nis completed.\n\nStep 1: Buyer selects the relevant e-Form under “New Requests” section.\n\n\n\n\n\n\nStep 2: Review the complete record of overall assessment sum...",
+    "source": "Internal User Manual Section 6.3.7 Page 175-178",
+    "keywords": [
+      "整体评估",
+      "overall assessment",
+      "审批",
+      "endorsement"
+    ]
+  },
+  {
+    "id": "epro-faq-031",
+    "category": "评标与授标",
+    "question": "如何进行 RFQ/招标授标建议（Award Recommendation）？",
+    "answer": "6.3.8    RFQ / Tender Award Recommendation\n\n\n     6.3.8.1     E-Form for Award Recommendation\n\n\nStep 1: Buyer creates a new e-Form for award recommendation under “New Requests” section,\ninputting or selecting the relevant RFQ / Tender by   to proceed.\n\n\n\n\n\n\nStep 3: Input details for award recommenda...",
+    "source": "Internal User Manual Section 6.3.8 Page 179-185",
+    "keywords": [
+      "授标建议",
+      "award recommendation",
+      "中标",
+      "推荐"
+    ]
+  },
+  {
+    "id": "epro-faq-032",
+    "category": "评标与授标",
+    "question": "如何在 EPRO 中进行协商/谈判（Negotiation）？",
+    "answer": "6.3.9      Negotiation\n\n\n     6.3.9.1      Issue Negotiation\n\n\nStep 1: Buyer creates a new e-Form for post-tender negotiation under “New Requests” section,\nselecting the relevant RFQ / Tender to proceed.\n\n\n\n\n\n\nStep 2: Input details for negotiation, including:\n\n   •  Closing date for supplier submit ...",
+    "source": "Internal User Manual Section 6.3.9 Page 186-190",
+    "keywords": [
+      "谈判",
+      "negotiation",
+      "协商",
+      "议价"
+    ]
+  },
+  {
+    "id": "epro-faq-033",
+    "category": "评标与授标",
+    "question": "如何发出中标通知书（LOA）和落选通知书（Regret Letter）？",
+    "answer": "6.3.10     Letter of Acceptance (LOA) and Unsuccessful / Regret Letter\n\n\n    6.3.10.1     Issue LOA or Unsuccessful / Regret Letter\n\n\nStep 1: Buyer creates a new e-Form for LOA or Unsuccessful / Regret Letter issuance under\n“New Requests” section, selecting the relevant RFQ / Tender and supplier to ...",
+    "source": "Internal User Manual Section 6.3.10 Page 191-196",
+    "keywords": [
+      "中标通知",
+      "LOA",
+      "落选通知",
+      "regret letter"
+    ]
+  },
+  {
+    "id": "epro-faq-034",
+    "category": "评标与授标",
+    "question": "如何进行供应商履约评估（Supplier Performance Evaluation）？",
+    "answer": "6.3.11     Supplier Performance Evaluation Assignment\n\n\n    6.3.11.1     Create Supplier Performance Evaluation Assignment\n\n\nStep 1: Buyer creates a new e-Form for supplier performance evaluation under “New Requests”\nsection, selecting the relevant RFQ / Tender to proceed.\n\n\n\n\n\n\nStep 2: Input detail...",
+    "source": "Internal User Manual Section 6.3.11 Page 197-201",
+    "keywords": [
+      "履约评估",
+      "performance evaluation",
+      "供应商评估"
+    ]
+  },
+  {
+    "id": "epro-faq-035",
+    "category": "审批流程",
+    "question": "EPRO 系统的审批流程架构是怎样的？",
+    "answer": "4 General System Function\n   4.1 Session Timeout\n\n\nInactive sessions in EPRO will be automatically terminated after a specified period of inactivity\nto ensure system security and resource efficiency:\n\n  User Type           Session Timeout\n   Internal Users        1 hour\n\n\n\n\n\n\n4.2 Dashboard\n    4.2.1...",
+    "source": "Approver Manual Section 4 Page 9-17",
+    "keywords": [
+      "审批流程",
+      "架构",
+      "approval",
+      "workflow"
+    ]
+  },
+  {
+    "id": "epro-faq-036",
+    "category": "审批流程",
+    "question": "审批人如何接收和处理审批请求通知（Notification of Approval Request）？",
+    "answer": "5 Approval Workflow\n\n\nTypes of approvals will be divided as follows in EPRO:\n\n Related System Flow        Types of Approvals\n Pre-Tender Stage             −  Co-Buyer Update\n                           −  Declaration of Conflicts of Interest\n                           −  Issuance of RFQ / Tender\n    ...",
+    "source": "Approver Manual Section 5.1-5.2 Page 18-20",
+    "keywords": [
+      "审批通知",
+      "notification",
+      "待审批"
+    ]
+  },
+  {
+    "id": "epro-faq-037",
+    "category": "审批流程",
+    "question": "审批人如何使用澄清工具（Clarification Tool）与发起人沟通？",
+    "answer": "5.3 Review Approval Request\n\n    5.3.1   Clarification tool\n\n\nApprover can raise a new clarification during the approval process, to address minor issues or\nquestions before proceeding.\n\n\n\nClarification Steps:\n\nStep 1: Click “New Clarification”\n\n\n\n\n\nStep 2: Fill in the clarification details as follo...",
+    "source": "Approver Manual Section 5.3.1 Page 22-31",
+    "keywords": [
+      "澄清",
+      "clarification",
+      "沟通",
+      "问题"
+    ]
+  },
+  {
+    "id": "epro-faq-038",
+    "category": "审批流程",
+    "question": "审批人如何处理 e-Form 退回流程（e-Form Return Process）？",
+    "answer": "5.3.2  e-Form Return Process (Approver)\n\n\nApprover can return an e-Form to the Requestor for editing and re-submission.\n\nStep 1: Click “Return” on the e-Form if changes are needed.\n\n\n\n\n\nStep 2: To provide a reason for return for the following:-\n\n      Mandatory: Enter a comment explaining the reason...",
+    "source": "Approver Manual Section 5.3.2 Page 32-33",
+    "keywords": [
+      "退回",
+      "return",
+      "e-Form",
+      "驳回"
+    ]
+  },
+  {
+    "id": "epro-faq-039",
+    "category": "审批流程",
+    "question": "审批人如何执行拒绝流程（Rejection Process）？",
+    "answer": "5.3.3   Rejection Process\n\n\nApprovers can reject an e-Form if necessary, especially involving a conflict of interest.\n\nStep 1: Click “Continue to Approval” to begin the review process.\n\n\n\n\n\nStep 2: Declare conflict of interest.\n\nThe system defaults the declaration as “No” conflict of interest.\n\n\n\n\n\n...",
+    "source": "Approver Manual Section 5.3.3 Page 34-38",
+    "keywords": [
+      "拒绝",
+      "rejection",
+      "驳回"
+    ]
+  },
+  {
+    "id": "epro-faq-040",
+    "category": "审批流程",
+    "question": "审批人如何执行批准流程（Approval Process）？",
+    "answer": "5.3.4  Approval Process\n\n\nApprovers can approve an e-Form if all the details are confirmed without conflict of interest\n(Refer to 5.3.3 for detailed steps of undeclared conflict of interest).\n\nStep 1: Click “Continue to Approval” to begin the review process.\n\n\n\n\n\nStep 2: Declare conflict of interest...",
+    "source": "Approver Manual Section 5.3.4 Page 39-41",
+    "keywords": [
+      "批准",
+      "approval",
+      "通过"
+    ]
+  },
+  {
+    "id": "epro-faq-041",
+    "category": "技术评估",
+    "question": "技术评估员如何接收分配通知并确认参与（Assignment of TAP Members）？",
+    "answer": "5 Assignment of Technical Assessment Panel Members\n\n   5.1 Notification of Assignment of Technical Assessor\n\n\nTechnical Assessor will receive notification of role assignment, with required task of\nDeclaration of Conflict of Interest.\n\n\n\n\n\n\n\nWeekly reminder email will be sent if any outstanding task....",
+    "source": "TAP Manual Section 5.1 Page 19-21",
+    "keywords": [
+      "分配",
+      "assignment",
+      "TAP",
+      "技术评估员"
+    ]
+  },
+  {
+    "id": "epro-faq-042",
+    "category": "技术评估",
+    "question": "技术评估员如何申报利益冲突（Declaration of Conflict of Interest - DOI）？",
+    "answer": "5.2 Declare of Conflict of Interest (DOI)\n\n\nNo technical proposal can be reviewed before completing the DOI, DOI e-Form is auto-\ngenerated for assigned members.\n\nStep 1: Technical Assessor selects the relevant DOI e-Form under “Drafts” section.\n\n\n\n\n\nStep 2: Check the box to identify no conflict of i...",
+    "source": "TAP Manual Section 5.2 Page 22-23",
+    "keywords": [
+      "DOI",
+      "利益冲突",
+      "申报"
+    ]
+  },
+  {
+    "id": "epro-faq-043",
+    "category": "技术评估",
+    "question": "技术评估员如何进行个人评分（Individual Scoring）？",
+    "answer": "6 Individual Scoring\n\n\nTechnical Assessor is required to complete the DOI before accessing the technical folder (refer\nto 5.2 for details of DOI submission) and they will be notified for technical assessment once\navailable.\n\n\n\n\n\nStep 1: A drafted e-Form of submitting individual scoring is auto-gener...",
+    "source": "TAP Manual Section 6 Page 24-26",
+    "keywords": [
+      "评分",
+      "scoring",
+      "个人",
+      "individual"
+    ]
+  },
+  {
+    "id": "epro-faq-044",
+    "category": "供应商端操作",
+    "question": "供应商如何激活 EPRO 账户（Account Activation）？",
+    "answer": "3 System Login\n\n\nA unique system login ID will be granted to Supplier in account activation email.\n\n\n\n\n\n\n3.1 Account Activation\n\n\nStep 1: Log in to EPRO from the activation link in the invitation email.\n\nStep 2: Input your email address.\n\nStep 3: Click “Next” to further proceed.\n\n\n\n\n\n\nStep 3: Click ...",
+    "source": "Supplier Manual Section 3.1 Page 7-11",
+    "keywords": [
+      "账户激活",
+      "激活",
+      "account activation",
+      "注册"
+    ]
+  },
+  {
+    "id": "epro-faq-045",
+    "category": "供应商端操作",
+    "question": "供应商如何登录及重置密码（Account Login & Forgot Password）？",
+    "answer": "3.2 Account Login\n\n\nStep 1: Log in to EPRO.\n\nStep 2: Enter supplier login ID, confirm the Terms of Use and Privacy Policy Statement, and\nclick “Next”.\n\nSuppliers are required to carefully read and confirm their agreement to the Terms of Use and\nPrivacy Policy Statement. This declaration explicitly o...",
+    "source": "Supplier Manual Section 3.2-3.3 Page 12-17",
+    "keywords": [
+      "登录",
+      "密码重置",
+      "forgot password",
+      "login"
+    ]
+  },
+  {
+    "id": "epro-faq-046",
+    "category": "供应商端操作",
+    "question": "供应商如何使用仪表盘：系统通知和我的任务（System Dashboard）？",
+    "answer": "4 System Dashboard\n   4.1 System Notification (Home Page)\n\n\nAll email notifications received from EPRO will be stored on the system.\n\n\n\n\n\nNotification can be filtered using search criteria.\n\n\n\n\n\n\n4.2 My Task\n\n\nAll system operations are initiated and managed through individual e-Forms under “My Task”...",
+    "source": "Supplier Manual Section 4 Page 18-24",
+    "keywords": [
+      "仪表盘",
+      "dashboard",
+      "通知",
+      "任务"
+    ]
+  },
+  {
+    "id": "epro-faq-047",
+    "category": "供应商端操作",
+    "question": "供应商如何更新公司资料（My Information - Supplier Profile）？",
+    "answer": "4.3 My Information: Reviewing Supplier Profile\n\n\nSuppliers can review their supplier profile, which includes details from approved supplier\nregistration, under the “My Information” section....",
+    "source": "Supplier Manual Section 4.3 Page 25",
+    "keywords": [
+      "公司资料",
+      "profile",
+      "supplier information"
+    ]
+  },
+  {
+    "id": "epro-faq-048",
+    "category": "供应商端操作",
+    "question": "供应商如何进行预注册和完整注册（Pre-Registration & Full Registration）？",
+    "answer": "5 Supplier Management\n\n\nSuppliers are invited to submit for either pre-registration or full registration process in EPRO.\nSuppliers are categorized into the following statuses during the registration process for RFQ &\nTender activities:\n\n Status         Description                                Pur...",
+    "source": "Supplier Manual Section 5.1 Page 26-34",
+    "keywords": [
+      "注册",
+      "pre-registration",
+      "full registration",
+      "供应商注册"
+    ]
+  },
+  {
+    "id": "epro-faq-049",
+    "category": "供应商端操作",
+    "question": "供应商如何变更公司信息、更新 BR 信息和账户管理？",
+    "answer": "5.2 Change Supplier Information\n\n\nPotential Suppliers: Not allowed to update company information and updates should be\nmanaged exclusively by TDC.\n\nRegistered / Approved Suppliers: Can update supplier profile at anytime, except in “Locked”\nstatus pending approval from HKTDC for previous registration...",
+    "source": "Supplier Manual Section 5.2-5.4 Page 35-41",
+    "keywords": [
+      "信息变更",
+      "BR更新",
+      "账户",
+      "change"
+    ]
+  },
+  {
+    "id": "epro-faq-050",
+    "category": "供应商端操作",
+    "question": "供应商如何确认收到 RFQ/招标（Acknowledgement Receipt）？",
+    "answer": "6.1 Tender Stage\n\n6.1.1  Acknowledgement Receipt\n\n\nAcknowledgement receipt may be required from HKTDC before accessing to RFQ / Tender\ndetails, NDA / Confidentiality Undertaking submission, registration for Briefing / Site Visit,\nresponding to Clarifications and Negotiations.\n\nStep 1: Log in to EPRO...",
+    "source": "Supplier Manual Section 6.1.1 Page 43-44",
+    "keywords": [
+      "确认收悉",
+      "acknowledgement",
+      "RFQ",
+      "tender"
+    ]
+  },
+  {
+    "id": "epro-faq-051",
+    "category": "供应商端操作",
+    "question": "供应商如何提交 NDA/保密承诺（Submit NDA/Confidentiality Undertaking）？",
+    "answer": "6.1.2  Submit NDA / Confidentiality Undertaking\n\n\nA draft of the Non-Disclosure Agreement Submission is auto-generated for the supplier if\nrequired before accessing RFQ / Tender information.\n\nStep 1: Log in to EPRO.\n\nStep 2: Click to review and submit NDA / Confidentiality Undertaking under “Drafts”...",
+    "source": "Supplier Manual Section 6.1.2 Page 45-46",
+    "keywords": [
+      "NDA",
+      "保密承诺",
+      "confidentiality"
+    ]
+  },
+  {
+    "id": "epro-faq-052",
+    "category": "供应商端操作",
+    "question": "供应商如何报名简介会/现场考察（Registration for Briefing/Site Visit）？",
+    "answer": "6.1.3   Registration for Briefing / Site Visit\n\n\nA draft of the Briefing / Site Visit is auto-generated for the supplier to complete.Suppliers is not\nallowed to submit an offer if registration is mandotory.\n\nStep 1: Log in to EPRO.\n\nStep 2: Click to review Briefing / Site Visit under “Drafts”.\n\nStep...",
+    "source": "Supplier Manual Section 6.1.3 Page 47-48",
+    "keywords": [
+      "简介会",
+      "site visit",
+      "briefing",
+      "报名"
+    ]
+  },
+  {
+    "id": "epro-faq-053",
+    "category": "供应商端操作",
+    "question": "供应商如何提交 RFQ/招标查询（Raise RFQ/Tender Queries）？",
+    "answer": "6.1.4   Raise RFQ / Tender Queries\n\n\nSupplier can submit queries before a specific period (typically four (4) hours) before the RFQ /\nTender closing time.\n\nStep 1: Log in to EPRO.\n\nStep 2: Raise an RFQ / Tender query under “New Request”, and specify the relevant RFQ /\n\nTender by inputting the refere...",
+    "source": "Supplier Manual Section 6.1.4 Page 49-51",
+    "keywords": [
+      "查询",
+      "queries",
+      "提问"
+    ]
+  },
+  {
+    "id": "epro-faq-054",
+    "category": "供应商端操作",
+    "question": "供应商如何查看 RFQ/招标补遗（Review Addendum）？",
+    "answer": "6.1.5  Review RFQ / Tender Addendum\n\n\nSupplier is notified by an email notification whenever an RFQ / Tender Addendum is issued.\n\nA draft titled “Submit Offer Response with Addendum Information” is auto-generated for\nsuppliers to:\n\n   •  review and download the addendum documents\n   •  update or sup...",
+    "source": "Supplier Manual Section 6.1.5 Page 52-53",
+    "keywords": [
+      "补遗",
+      "addendum",
+      "更新"
+    ]
+  },
+  {
+    "id": "epro-faq-055",
+    "category": "供应商端操作",
+    "question": "供应商如何提交报价/投标（Submit Offer Response）？",
+    "answer": "6.1.6   Offer Response\n\n\n6.1.6.1  Submit Offer\n\n\nA draft of the Offer Response is auto-generated for suppliers.\n\nSteps to Submit Offer Response:\n\nStep 1: Log in to EPRO.\n\nStep 2: Go to “Drafts” and click to review the RFQ / Tender document and submit response .\n\n\n\n\n\nStep 3: Download and review the R...",
+    "source": "Supplier Manual Section 6.1.6.1 Page 54-59",
+    "keywords": [
+      "报价",
+      "投标",
+      "offer",
+      "proposal",
+      "提交"
+    ]
+  },
+  {
+    "id": "epro-faq-056",
+    "category": "供应商端操作",
+    "question": "供应商如何提交不报价声明（Submit No Offer）？",
+    "answer": "6.1.6.2  Submit No Offer\n\n\nSupplier may decline to submit an offer before the RFQ / Tender closing date.\n\nSteps to Submit No Offer\n\nStep 1: Log in to EPRO.\n\nStep 2: Go to “New Request” and select Decline Offer , and specify the relevant RFQ / Tender by\n\nentering the reference numbder or selecting fr...",
+    "source": "Supplier Manual Section 6.1.6.2 Page 60-62",
+    "keywords": [
+      "不报价",
+      "no offer",
+      "弃标"
+    ]
+  },
+  {
+    "id": "epro-faq-057",
+    "category": "供应商端操作",
+    "question": "EPRO 系统如何进行自动验证和检查（System Validation）？",
+    "answer": "6.1.7  System Validation and Checking\n\n\nDuring the “Review and Validate” step, the system checks and validates the submitted . IF any\nrequired field are missing or incorrect, an error message will be displayed.\n\n\n\n\n\nUsers must update or complete the required information by clicking the “Edit” button...",
+    "source": "Supplier Manual Section 6.1.7 Page 63",
+    "keywords": [
+      "验证",
+      "validation",
+      "检查",
+      "自动"
+    ]
+  },
+  {
+    "id": "epro-faq-058",
+    "category": "供应商端操作",
+    "question": "供应商如何响应澄清/协商请求（Response to Clarification/Negotiation）？",
+    "answer": "6.2 Post-Tender Stage\n\n6.2.1  Response to Clarification / Negotiation\n\n\nA draft titled “Clarification / Negotiation Response” is auto-generated for suppliers upon\nissuance.\n\nStep 1: Log in to EPRO.\n\nStep 2: Go to “Draft” and click to review the Clarification / Negotiation document and submit\nrespons...",
+    "source": "Supplier Manual Section 6.2.1 Page 64-67",
+    "keywords": [
+      "澄清",
+      "协商",
+      "negotiation",
+      "clarification"
+    ]
+  },
+  {
+    "id": "epro-faq-059",
+    "category": "供应商端操作",
+    "question": "供应商如何签署中标通知书（Sign for Letter of Acceptance - LOA）？",
+    "answer": "6.2.2  Sign for Letter of Acceptance (LOA)\n\n\nSupplier will receive email notification on RFQ / Tender Award, providing a draft of LOA\ndocuments for review and return a signed copy.\n\nStep 1: Log in to EPRO.\n\nStep 2: Go to “Drafts” and click to review the award notification and submit your response.\n\n...",
+    "source": "Supplier Manual Section 6.2.2 Page 68-70",
+    "keywords": [
+      "LOA",
+      "中标",
+      "签署",
+      "acceptance"
+    ]
+  }
+]
