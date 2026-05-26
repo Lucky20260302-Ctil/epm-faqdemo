@@ -97,6 +97,12 @@ export default (() => {
             return resource
           }
         })}
+        {fileData.slug !== "login" && (
+          <>
+            <style>{`html:not(.auth-verified) body{visibility:hidden}`}</style>
+            <script>{`(function(){if(sessionStorage.getItem('faq_auth')==='1')document.documentElement.classList.add('auth-verified')})()`}</script>
+          </>
+        )}
         <script src={joinSegments(baseDir, "static/auth.js")}></script>
       </head>
     )
