@@ -15,43 +15,28 @@ quality: complete
 created: '2026-05-26'
 ---
 
-6.2.2  Compliance Verification for NDA / Confidentiality Undertaking
-
-
 Compliance verification is required for buyer to verify the submitted data from the supplier.
 
-Step 1: Select the relevant e-Form auto-generated upon supplier submission under “Drafts”
+**Step 1:** Select the relevant e-Form auto-generated upon supplier submission under “Drafts”
 section.
 
+**Step 2:** Download and review the signed document from the supplier.
 
-
-
-
-Step 2: Download and review the signed document from the supplier.
-
-Step 3: Click “Compliance” to authorize supplier to further access the RFQ / Tender details, or;
+**Step 3:** Click “Compliance” to authorize supplier to further access the RFQ / Tender details, or;
 
 Click “Non-Compliance” with rejected reason(s) to prevent supplier from updating and re-
 submitting.
 
-
-
-
-
-
-Step 4: Select the approval route from dropdown menu, and specify the approval details (Refer
+**Step 4:** Select the approval route from dropdown menu, and specify the approval details (Refer
 to section 4.2.2.2 for approval settings).
 
-Step 5: Click “Review & Validate” to proceed.
+**Step 5:** Click “Review & Validate” to proceed.
 
+**Step 6:** Click “Confirm & Submit” after review.
 
-
-
-Step 6: Click “Confirm & Submit” after review.
-
-Step 7: Review and confirm the terms and conditions and click “Yes, proceed with submitting
+**Step 7:** Review and confirm the terms and conditions and click “Yes, proceed with submitting
 the e-Form”.
 
 An email for approval request is sent to the selected approver after submission.
 
-Supplier receives an email notification upon successful approval.
+> **Email:** Supplier receives an email notification upon successful approval.

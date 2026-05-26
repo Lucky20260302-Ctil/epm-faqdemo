@@ -14,50 +14,23 @@ quality: complete
 created: '2026-05-26'
 ---
 
-5.3.3   Rejection Process
-
-
 Approvers can reject an e-Form if necessary, especially involving a conflict of interest.
 
-Step 1: Click “Continue to Approval” to begin the review process.
+**Step 1:** Click “Continue to Approval” to begin the review process.
 
-
-
-
-
-Step 2: Declare conflict of interest.
+**Step 2:** Declare conflict of interest.
 
 The system defaults the declaration as “No” conflict of interest.
-
-
-
-
-
 
 If a potential conflict of interest in declared in the HR system and approved, the Approver is
 required to upload the supporting document under the “Action” section.
 
-
-
-
-
-
 Approver can only reject the approval request if pre-approval is not yet obtained through HR
 system in advance.
 
-
-
-
-
-
-
-Step 3: To reject the request, click “Reject” and provide a reason for rejection(mandatory).
+**Step 3:** To reject the request, click “Reject” and provide a reason for rejection(mandatory).
 Optionally, Approver can attach supporting document for reference. And Approver clicks
 “Submit Reject” to proceed.
 
-
-
-
-
-After submission, the Requestor receives and email notification of rejection, and no further
+> **Email:** After submission, the Requestor receives and email notification of rejection, and no further
 updates and resubmission allowed for rejected request.

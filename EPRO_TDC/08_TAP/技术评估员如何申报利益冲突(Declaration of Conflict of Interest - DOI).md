@@ -14,37 +14,23 @@ quality: complete
 created: '2026-05-26'
 ---
 
-5.2 Declare of Conflict of Interest (DOI)
-
+## 5.2 Declare of Conflict of Interest (DOI)
 
 No technical proposal can be reviewed before completing the DOI, DOI e-Form is auto-
 generated for assigned members.
 
-Step 1: Technical Assessor selects the relevant DOI e-Form under “Drafts” section.
+**Step 1:** Technical Assessor selects the relevant DOI e-Form under “Drafts” section.
 
-
-
-
-
-Step 2: Check the box to identify no conflict of interest with tenderer / bidder from the
+**Step 2:** Check the box to identify no conflict of interest with tenderer / bidder from the
 invitation list, or;
-
-
-
-
-
 
 Fill in the remarks if any existing / potential conflict of interest that aware of.
 
+**Step 3:** Click “Review & Validate” to proceed.
 
+**Step 4:** Click “Confirm & Submit” after review.
 
-
-
-Step 3: Click “Review & Validate” to proceed.
-
-Step 4: Click “Confirm & Submit” after review.
-
-Step 5: Review and confirm the terms and conditions and click “Yes, proceed with submitting
+**Step 5:** Review and confirm the terms and conditions and click “Yes, proceed with submitting
 the e-Form”.
 
 Technical Assessor can review the technical proposal and individual scoring after technical

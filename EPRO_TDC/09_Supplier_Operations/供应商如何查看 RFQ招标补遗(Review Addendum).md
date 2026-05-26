@@ -14,32 +14,17 @@ quality: complete
 created: '2026-05-26'
 ---
 
-6.1.5  Review RFQ / Tender Addendum
-
-
-Supplier is notified by an email notification whenever an RFQ / Tender Addendum is issued.
+> **Email:** Supplier is notified by an email notification whenever an RFQ / Tender Addendum is issued.
 
 A draft titled “Submit Offer Response with Addendum Information” is auto-generated for
-suppliers to:
-
-   •  review and download the addendum documents
-   •  update or supersede their offer response if necessary.
+suppliers to: •  review and download the addendum documents •  update or supersede their offer response if necessary.
 
 Steps to Review Addendum:
 
-Step 1: Log in to EPRO.
+**Step 1:** Log in to EPRO.
 
-Step 2: Go to “Drafts” and click to review the Addendum.
+**Step 2:** Go to “Drafts” and click to review the Addendum.
 
+**Step 3:** Click to acknowledge the read receipt if required.
 
-
-
-
-Step 3: Click to acknowledge the read receipt if required.
-
-
-
-
-
-
-Step 4: Download the Addendum documents for review.
+**Step 4:** Download the Addendum documents for review.

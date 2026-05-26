@@ -15,15 +15,8 @@ quality: complete
 created: '2026-05-26'
 ---
 
-4.2.4   Reports
-
-
 The system automatically generates various reports based on the stored data. It provides
 valuable insights into tender processes, supplier performance, and system usage and activities.
-
-
-
-
 
 User can click to download the reports in excel or PDF format, or export reports for further
 review or analysis. This feature supports data-driven decision making and enhances

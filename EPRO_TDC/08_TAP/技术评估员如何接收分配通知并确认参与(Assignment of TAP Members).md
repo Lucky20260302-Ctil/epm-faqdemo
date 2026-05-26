@@ -17,16 +17,9 @@ created: '2026-05-26'
 
 5 Assignment of Technical Assessment Panel Members
 
-   5.1 Notification of Assignment of Technical Assessor
-
+## 5.1 Notification of Assignment of Technical Assessor
 
 Technical Assessor will receive notification of role assignment, with required task of
 Declaration of Conflict of Interest.
-
-
-
-
-
-
 
 Weekly reminder email will be sent if any outstanding task.

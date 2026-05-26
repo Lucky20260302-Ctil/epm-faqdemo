@@ -15,12 +15,11 @@ quality: complete
 created: '2026-05-26'
 ---
 
-3.2 Account Login
+## 3.2 Account Login
 
+**Step 1:** Log in to EPRO.
 
-Step 1: Log in to EPRO.
-
-Step 2: Enter supplier login ID, confirm the Terms of Use and Privacy Policy Statement, and
+**Step 2:** Enter supplier login ID, confirm the Terms of Use and Privacy Policy Statement, and
 click “Next”.
 
 Suppliers are required to carefully read and confirm their agreement to the Terms of Use and
@@ -29,59 +28,25 @@ Sensitive Data that will be collected. It also provides information about the pu
 Platform, supplier responsibilities, and the code of conduct to be adhered to during Supplier
 Registration, RFQ and Tender processes.
 
+**Step 3:** Enter your password and click “Next”.
 
+**Step 4:** Enter OTP received from email for account validation.
 
-
-
-
-Step 3: Enter your password and click “Next”.
-
-
-
-
-
-Step 4: Enter OTP received from email for account validation.
-
-Step 5: Click “Login”, or “Resend OTP” if no OTP received from email or the OTP already
+**Step 5:** Click “Login”, or “Resend OTP” if no OTP received from email or the OTP already
 expired.
 
-
-
-
-
-
-3.3 Forgot or Reset Password
-
+## 3.3 Forgot or Reset Password
 
 Supplier account will lockout after unsuccessful login attempts for 3 times, yet supplier can
 unlock their account after password reset.
 
-Step 1: Click “Forgot Password / Reset Password” on the system login page or password entry
+**Step 1:** Click “Forgot Password / Reset Password” on the system login page or password entry
 page.
 
+**Step 2:** Enter the supplier ID and registered email address, then click “Next” to proceed.
 
+**Step 3:** Enter the OTP received from the email.
 
+**Step 4:** Reset your password and click “Reset Password” to proceed.
 
-
-
-
-Step 2: Enter the supplier ID and registered email address, then click “Next” to proceed.
-
-
-
-
-
-Step 3: Enter the OTP received from the email.
-
-
-
-
-
-
-Step 4: Reset your password and click “Reset Password” to proceed.
-
-
-
-
-
-Step 5: Re-login to access EPRO after the password reset.
+**Step 5:** Re-login to access EPRO after the password reset.

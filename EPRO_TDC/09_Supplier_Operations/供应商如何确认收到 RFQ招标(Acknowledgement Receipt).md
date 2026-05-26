@@ -15,27 +15,19 @@ quality: complete
 created: '2026-05-26'
 ---
 
-6.1 Tender Stage
-
-6.1.1  Acknowledgement Receipt
-
+## 6.1 Tender Stage
 
 Acknowledgement receipt may be required from HKTDC before accessing to RFQ / Tender
 details, NDA / Confidentiality Undertaking submission, registration for Briefing / Site Visit,
 responding to Clarifications and Negotiations.
 
-Step 1: Log in to EPRO.
+**Step 1:** Log in to EPRO.
 
-Step 2: Click to review RFQ / Tender under “Drafts”.
+**Step 2:** Click to review RFQ / Tender under “Drafts”.
 
-Step 3: Click “We acknowledge the information provided above.”.
+**Step 3:** Click “We acknowledge the information provided above.”.
 
 Step 4” Submit by clicking “Submit Reply Slip”.
-
-
-
-
-
 
 Supplier can further respond to RFQ / Tender, NDA / Confidentiality, Briefing / Site Visit,
 Clarifications and Negotiations upon response to reply slip.

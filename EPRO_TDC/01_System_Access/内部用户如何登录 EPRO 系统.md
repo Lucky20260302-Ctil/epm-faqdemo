@@ -16,31 +16,20 @@ quality: complete
 created: '2026-05-26'
 ---
 
-3. System Login
-
+## 3. System Login
 
 System login for each Internal user is authenticated by Azure Active Directory (Azure AD) and
+
 Single Sign-on (SSO).
 
 Password control is handled by Azure AD, not by the EPRO Platform.
 
+**Step 1:** Access to EPRO.
 
+**Step 2:** Confirm and check the Terms of Use.
 
-Step 1: Access to EPRO.
+**Step 3:** Click the “Sign In” button.
 
-Step 2: Confirm and check the Terms of Use.
-
-Step 3: Click the “Sign In” button.
-
-
-
-
-
-
-Step 4: Select your user account, or;
-
-
-
-
+**Step 4:** Select your user account, or;
 
 Enter your email and password for login.

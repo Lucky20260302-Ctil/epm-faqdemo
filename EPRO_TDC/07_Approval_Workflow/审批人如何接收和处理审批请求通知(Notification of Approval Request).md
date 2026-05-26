@@ -16,70 +16,16 @@ created: '2026-05-26'
 
 5 Approval Workflow
 
+Types of approvals will be divided as follows in EPRO: Related System Flow Types of Approvals
+ Pre-Tender Stage −  Co-Buyer Update −  Declaration of Conflicts of Interest −  Issuance of RFQ / Tender −  Procurement Initiation −  RFQ / Tender Setting −  Supplier Contact Point Update −  View-Only User Update
+ Tender Stage −  Addendum Issuance − Briefing / Site Visit Attendance Confirmation −  Closing Date and Time Extension −  Non-Disclosure Agreement Submission −  Query Checking −  Raise RFQ / Tender Query −  RFQ / Tender Cancellation −  Submitted NDA Checking
+ Post Tender Stage −  Award Notification −  Award Recommendation −  Decline Letter Issuance −  Endorsement for Overall Assessment Summary
 
-Types of approvals will be divided as follows in EPRO:
+−  Endorsement for RFQ / Tender Opening Record −  Fee Modification Request −  LOA Checking −  Opening Team Members Assignment −  Post-Tender Clarification Issuance −  Post-Tender Clarification Response Checking −  Post-Tender Negotiation Issuance −  Post-Tender Negotiation Response Checking − Price Assessor Update −  Response to Post-Tender Clarification −  Response to Post-Tender Negotiation −  Restart of Technical Evaluation Request −  RFQ / Tender Opening (Fee) −  RFQ / Tender Opening (Technical) −  Supplier Performance Evaluation Assignment −  Upload Signed Letter of Acceptance / Contract
+ Supplier Management - Full Registration Supplier Information Change - Pre-Registration Response Checking -  Send Notice / Announcement - Supplier Deactivation - Supplier Full Registration Invitation - Supplier Merge - Supplier Performance Evaluation - Supplier Pre-registration Invitation - Supplier Status Reversion - Supplier Termination
 
- Related System Flow        Types of Approvals
- Pre-Tender Stage             −  Co-Buyer Update
-                           −  Declaration of Conflicts of Interest
-                           −  Issuance of RFQ / Tender
-                           −  Procurement Initiation
-                           −  RFQ / Tender Setting
-                           −  Supplier Contact Point Update
-                           −  View-Only User Update
- Tender Stage                −  Addendum Issuance
-                           −   Briefing / Site Visit Attendance Confirmation
-                           −  Closing Date and Time Extension
-                           −  Non-Disclosure Agreement Submission
-                           −  Query Checking
-                           −  Raise RFQ / Tender Query
-                           −  RFQ / Tender Cancellation
-                           −  Submitted NDA Checking
- Post Tender Stage            −  Award Notification
-                           −  Award Recommendation
-                           −  Decline Letter Issuance
-                           −  Endorsement for Overall Assessment Summary
+## 5.1 Notification of Approval Request
 
-
-−  Endorsement for RFQ / Tender Opening Record
-                           −  Fee Modification Request
-                           −  LOA Checking
-                           −  Opening Team Members Assignment
-                           −  Post-Tender Clarification Issuance
-                           −  Post-Tender Clarification Response Checking
-                           −  Post-Tender Negotiation Issuance
-                           −  Post-Tender Negotiation Response Checking
-                           −   Price Assessor Update
-                           −  Response to Post-Tender Clarification
-                           −  Response to Post-Tender Negotiation
-                           −  Restart of Technical Evaluation Request
-                           −  RFQ / Tender Opening (Fee)
-                           −  RFQ / Tender Opening (Technical)
-                           −  Supplier Performance Evaluation Assignment
-                           −  Upload Signed Letter of Acceptance / Contract
- Supplier Management              -   Full Registration Supplier Information Change
-                                           -   Pre-Registration Response Checking
-                                           -  Send Notice / Announcement
-                                           -   Supplier Deactivation
-                                           -   Supplier Full Registration Invitation
-                                           -   Supplier Merge
-                                           -   Supplier Performance Evaluation
-                                           -   Supplier Pre-registration Invitation
-                                           -   Supplier Status Reversion
-                                           -   Supplier Termination
-
-
-
-
-
-
-5.1 Notification of Approval Request
-
-
-Approver will receive email notification for approval request.
-
-
-
-
+> **Email:** Approver will receive email notification for approval request.
 
 Weekly reminder email will be sent for pending approval requests.

@@ -15,48 +15,30 @@ quality: complete
 created: '2026-05-26'
 ---
 
-6.2 Post-Tender Stage
-
-6.2.1  Response to Clarification / Negotiation
-
+## 6.2 Post-Tender Stage
 
 A draft titled “Clarification / Negotiation Response” is auto-generated for suppliers upon
 issuance.
 
-Step 1: Log in to EPRO.
+**Step 1:** Log in to EPRO.
 
-Step 2: Go to “Draft” and click to review the Clarification / Negotiation document and submit
+**Step 2:** Go to “Draft” and click to review the Clarification / Negotiation document and submit
 response.
 
+**Step 3:** Download and review the Clarification / Negotiation documents.
 
+**Step 4:** Attach response documents and provide any required supplementary details.
 
+**Step 5:** Click “Review & Validate” to proceed.
 
+**Step 6:** Click “Confirm & Submit” after review.
 
-Step 3: Download and review the Clarification / Negotiation documents.
+**Step 7:** Confirm the terms and conditions.
 
-Step 4: Attach response documents and provide any required supplementary details.
+> **Security:** OTP validation is required for offer-submission-
 
-
-
-
-
-
-
-Step 5: Click “Review & Validate” to proceed.
-
-Step 6: Click “Confirm & Submit” after review.
-
-Step 7: Confirm the terms and conditions. OTP validation is required for offer-submission-
 related responses.
 
+**Step 8:** Enter the OTP and click “Yes, proceed with submitting the e-Form”.
 
-
-
-
-Step 8: Enter the OTP and click “Yes, proceed with submitting the e-Form”.
-
-
-
-
-
-Supplier receives an email acknowledgement upon successful submission as below.
+> **Email:** Supplier receives an email acknowledgement upon successful submission as below.

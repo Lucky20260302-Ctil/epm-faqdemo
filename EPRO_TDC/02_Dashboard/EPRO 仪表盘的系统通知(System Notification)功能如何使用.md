@@ -16,16 +16,10 @@ quality: complete
 created: '2026-05-26'
 ---
 
-4.2 Dashboard
-    4.2.1  System Notification (Home Page)
+## 4.2 Dashboard
 
-
-All email notifications received from EPRO will be stored and displayed on the home page for
+> **Email:** All email notifications received from EPRO will be stored and displayed on the home page for
 user reference.
-
-
-
-
 
 Notification can be filtered using search criteria to help users locate specific messages
 efficiently.

@@ -15,13 +15,9 @@ quality: complete
 created: '2026-05-26'
 ---
 
-4. General System Function
-   4.1 Session Timeout
+## 4. General System Function
 
+## 4.1 Session Timeout
 
 Inactive sessions in EPRO will be automatically terminated after a specified period of inactivity
-to ensure system security and resource efficiency:
-
-  User Type           Session Timeout
-   Internal Users        1 hour
-   External Users       30 minutes
+to ensure system security and resource efficiency: User Type Session Timeout Internal Users 1 hour External Users 30 minutes

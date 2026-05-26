@@ -15,40 +15,21 @@ quality: complete
 created: '2026-05-26'
 ---
 
-5. Supplier Management
+## 5. Supplier Management
 
-
-
-
-
-   5.1 Supplier List
-
+## 5.1 Supplier List
 
 The platform provides access to the full list of system suppliers, including those who exists only
 in FMS.
 
-
-
-
-
-
-
 User can search by keywords and apply filter criteria to narrow down results. . User can also
 export supplier details in Excel format for review and reporting.
 
-
-
-
-
-Supplier is classified with following status:
-
- Status                 Description
- Unregistered           Pre-registration invitation issued, but supplier has not yet submitted the e-
-                     Form.
- Registering            Supplier submitted the pre-registration form,pending for requestor verification.
- Potential              Supplier with approved pre-registration.
- Registered             Supplier completed the full registration and awarded for RFQ.
- Approved             Supplier who completed the full registration and awarded for Tender.
- FMS Only             Supplier exists in FMS only and can participate in RFQ / Tender upon account
-                           activation.
- Terminated            Supplier who is terminated and cannot log in to the system.
+Supplier is classified with following status: Status Description
+ Unregistered Pre-registration invitation issued, but supplier has not yet submitted the e- Form.
+ Registering Supplier submitted the pre-registration form,pending for requestor verification.
+ Potential Supplier with approved pre-registration.
+ Registered Supplier completed the full registration and awarded for RFQ.
+ Approved Supplier who completed the full registration and awarded for Tender.
+ FMS Only Supplier exists in FMS only and can participate in RFQ / Tender upon account activation.
+ Terminated Supplier who is terminated and cannot log in to the system.

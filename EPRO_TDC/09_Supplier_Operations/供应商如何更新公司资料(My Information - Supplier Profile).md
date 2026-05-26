@@ -14,8 +14,7 @@ quality: complete
 created: '2026-05-26'
 ---
 
-4.3 My Information: Reviewing Supplier Profile
-
+## 4.3 My Information: Reviewing Supplier Profile
 
 Suppliers can review their supplier profile, which includes details from approved supplier
 registration, under the “My Information” section.
