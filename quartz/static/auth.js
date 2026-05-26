@@ -14,11 +14,12 @@
   var scripts = document.getElementsByTagName('script');
   for (var i = scripts.length - 1; i >= 0; i--) {
     var src = scripts[i].src || '';
-    var idx = src.indexOf('/static/auth.js');
-    if (idx !== -1) {
+    if (src.indexOf('/static/auth.js') !== -1) {
       var a = document.createElement('a');
       a.href = src;
-      loginUrl = a.pathname.substring(0, idx) + '/login';
+      var pathname = a.pathname;
+      var idx = pathname.indexOf('/static/auth.js');
+      loginUrl = pathname.substring(0, idx) + '/login';
       break;
     }
   }
